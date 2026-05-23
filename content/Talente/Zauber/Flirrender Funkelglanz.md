@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: b2d6be11-5cdf-4918-99b8-583b4072454e
+ID: 27bc4511-6823-4baa-bde7-a39138d5d6e8
 Name: Flirrender Funkelglanz
+title: Flirrender Funkelglanz
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Illusion|Illusion]]"
@@ -10,11 +11,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I
 ---
 Du erzeugst eine illusionäre Explosion aus Farben und Formen vor den Augen deines Ziels. Gelingt ihm keine IN-Gegenprobe, so ist es bis zum Ende seines nächsten Zugs *handlungsunfähig*.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> Humanoid
-<b>Reichweite:</b> 4 Schritt
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 4 AsP
-<b>Fertigkeiten:</b> Illusion
-<b>Erlernen:</b> Srl 16; Dil 18; Sch 20; 20 EP
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** Humanoid
+- **Reichweite:** 4 Schritt
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 4 AsP
+- **Fertigkeiten:** Illusion
+- **Erlernen:** Srl 16; Dil 18; Sch 20; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Illusion|Illusion]]
+- **Kosten:** 20 EP

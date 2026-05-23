@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 79f3666a-6191-4375-92eb-e5beaf0a323b
+ID: cf72636b-f401-4ae6-a20c-64d94866dd46
 Name: Melodie des Einlullens
+title: Melodie des Einlullens
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
@@ -11,5 +12,11 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zauberbarden I
 ---
 $talent:Lied der Lieder$
-<b>Fertigkeiten:</b> Einfluss, Zaubermelodien
-<b>Erlernen:</b> Bard 16; 20 EP
+
+- **Fertigkeiten:** Einfluss, Zaubermelodien
+- **Erlernen:** Bard 16; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]
+- **Kosten:** 20 EP

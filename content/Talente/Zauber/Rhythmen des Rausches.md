@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 1eda4245-625f-4163-9f33-40440a6982ab
+ID: 0def868c-d5e4-49a4-a679-3662fbd3ab4e
 Name: Rhythmen des Rausches
+title: Rhythmen des Rausches
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Trommelrituale|Trommelrituale]]"
@@ -11,11 +12,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Derwische I
 ---
 Jeder in einem Radius von 4 Schritt ist *verwirrt*, wenn ihm keine Magieresistenz-Gegenprobe gelingt.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 1 Stunde
-<b>Ziel:</b> Zone
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 8 Stunden
-<b>Kosten:</b> 16 AsP
-<b>Fertigkeiten:</b> Trommelrituale, Eigenschaften
-<b>Erlernen:</b> Der 16; 10 EP
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 1 Stunde
+- **Ziel:** Zone
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 8 Stunden
+- **Kosten:** 16 AsP
+- **Fertigkeiten:** Trommelrituale, Eigenschaften
+- **Erlernen:** Der 16; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Trommelrituale|Trommelrituale]], [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]
+- **Kosten:** 10 EP

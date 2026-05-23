@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 38e0c3d6-5001-480f-8a29-04315fa4677e
+ID: 0fbe01a0-eb7e-4cd9-a0fc-d3276c63083f
 Name: Blick des Blenders
+title: Blick des Blenders
 Kategorie: Anrufungen
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Anrufung Amazeroths|Anrufung Amazeroths]]"
@@ -9,12 +10,18 @@ Kosten: 20
 Spezialisierbar: 1
 ---
 Du analysierst die Kraftfäden eines arkanen Artefakts oder eines magischen Wesens. Das entspricht einem Analysegrad von 2 für die Strukturanalyse.
-<b>Hohe Qualität:</b> Der Analysegrad steigt um 1.
-<b>Probenschwierigkeit:</b> 16
-<b>Vorbereitungszeit:</b> 1 Stunde
-<b>Ziel:</b> Objekt, Wesen
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 8 GuP
-<b>Fertigkeiten:</b> Anrufung Amazeroths
-<b>Erlernen:</b> Amz 12; 20 EP
+
+- **Hohe Qualität:** Der Analysegrad steigt um 1.
+- **Probenschwierigkeit:** 16
+- **Vorbereitungszeit:** 1 Stunde
+- **Ziel:** Objekt, Wesen
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 8 GuP
+- **Fertigkeiten:** Anrufung Amazeroths
+- **Erlernen:** Amz 12; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Amazeroths|Anrufung Amazeroths]]
+- **Kosten:** 20 EP

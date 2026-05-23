@@ -1,12 +1,20 @@
 ---
 Entitätstyp: Vorteil
-ID: b9645748-594f-46a5-a407-d371fc097d2b
+ID: a6b43601-e409-445b-b054-8d2755906057
 Name: Tradition der Perainegeweihten IV
+title: Tradition der Perainegeweihten IV
 Kategorie: Tradition (Karmal)
 Voraussetzungen:
-  - "MeisterAttribut CH 10"
-  - "Vorteil Tradition der Perainegeweihten III"
+  - MeisterAttribut CH 10
+  - Vorteil Tradition der Perainegeweihten III
 Nachkauf: häufig
 Kosten: 80
 ---
 8 Punkte können zur Verbesserung der Tradition verwendet werden.
+
+---
+
+- **Kosten:** 80 EP
+- **Voraussetzungen:**
+  - "MeisterAttribut CH 10"
+  - "Vorteil Tradition der Perainegeweihten III"

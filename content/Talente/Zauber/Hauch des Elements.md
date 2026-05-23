@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 84c4f0aa-5e63-4462-8145-d7c1d9c2e3e0
+ID: 544903e9-171c-4e31-ad1d-4ed265132314
 Name: Hauch des Elements
+title: Hauch des Elements
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Eis|Eis]]"
@@ -17,17 +18,23 @@ Spezialisierbar: 1
 Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
 ---
 Du bindest einen elementaren Effekt in ein maximal schrankgroßes Objekt. Der Effekt bemisst sich nach dem gewählten Element. Mit der Fertigkeit Geister der Stärkung kannst du das Element aussuchen. Nach Spielleitungsentscheid sind auch andere Effekte möglich.
-<b>Fertigkeit Eis:</b> Senkt die Temperatur des Objekts und in seinem Inneren um 1 Stufe.
-<b>Fertigkeit Erz:</b> Verdoppelt das Gewicht des Objekts und seines Inhaltes.
-<b>Fertigkeit Feuer:</b> Erhöht die Temperatur des Objekts und in seinem Inneren um 1 Stufe.
-<b>Fertigkeit Humus:</b> Vervierfacht die Wachstumsgeschwindigkeit von Pflanzen.
-<b>Fertigkeit Luft:</b> Verringert das Gewicht des Objekts und seines Inhalts um ein Viertel.
-<b>Fertigkeit Wasser:</b> Macht einen faustgroßen Teil biegsam wie Wachs.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 1 Stunde
-<b>Ziel:</b> Objekt
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> bis die Bindung gelöst wird
-<b>Kosten:</b> 2 AsP, davon 2 gAsP
-<b>Fertigkeiten:</b> Eis, Erz, Feuer, Humus, Luft, Wasser, Objekt, Geister der Stärkung
-<b>Erlernen:</b> Smn (alle) 12; 20 EP
+
+- **Fertigkeit Eis:** Senkt die Temperatur des Objekts und in seinem Inneren um 1 Stufe.
+- **Fertigkeit Erz:** Verdoppelt das Gewicht des Objekts und seines Inhaltes.
+- **Fertigkeit Feuer:** Erhöht die Temperatur des Objekts und in seinem Inneren um 1 Stufe.
+- **Fertigkeit Humus:** Vervierfacht die Wachstumsgeschwindigkeit von Pflanzen.
+- **Fertigkeit Luft:** Verringert das Gewicht des Objekts und seines Inhalts um ein Viertel.
+- **Fertigkeit Wasser:** Macht einen faustgroßen Teil biegsam wie Wachs.
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 1 Stunde
+- **Ziel:** Objekt
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** bis die Bindung gelöst wird
+- **Kosten:** 2 AsP, davon 2 gAsP
+- **Fertigkeiten:** Eis, Erz, Feuer, Humus, Luft, Wasser, Objekt, Geister der Stärkung
+- **Erlernen:** Smn (alle) 12; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eis|Eis]], [[Inhalt/Fertigkeiten/Erz|Erz]], [[Inhalt/Fertigkeiten/Feuer|Feuer]], [[Inhalt/Fertigkeiten/Humus|Humus]], [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Wasser|Wasser]], [[Inhalt/Fertigkeiten/Objekt|Objekt]], [[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]]
+- **Kosten:** 20 EP

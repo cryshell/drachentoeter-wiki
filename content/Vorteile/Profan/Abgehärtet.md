@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Vorteil
-ID: 9b89cd85-e0a9-4b7e-8636-2d6c1e750e56
+ID: 586619aa-e2d9-4575-9654-9bca1c144141
 Name: Abgehärtet
+title: Abgehärtet
 Kategorie: Profan
 Voraussetzungen: Attribut KO 6
 Querverweise:
@@ -10,3 +11,9 @@ Nachkauf: häufig
 Kosten: 40
 ---
 Dein DH steigt um 2 Punkte.
+
+---
+
+- **Kosten:** 40 EP
+- **Voraussetzungen:** Attribut KO 6
+- **Siehe auch:** [[Inhalt/Abgeleiteter Wert/DH|DH]]

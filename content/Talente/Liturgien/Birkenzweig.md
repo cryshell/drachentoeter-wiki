@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 8ea26c89-70b1-4239-a527-f8ff47c237c6
+ID: b5147d33-ad39-4183-8c18-baba63f61d8d
 Name: Birkenzweig
+title: Birkenzweig
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Wildnis|Wildnis]]"
@@ -10,12 +11,18 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Ifirngeweihten I
 ---
 Deine nächste Probe hat Vorteil, wenn sie jemandem in Not helfen soll.
-<b>Hohe Qualität:</b> Für 2 Stufen hat die Probe legendären Vorteil.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> selbst
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 16 Züge
-<b>Kosten:</b> 4 KaP
-<b>Fertigkeiten:</b> Wildnis
-<b>Erlernen:</b> Ifi 14; 10 EP
+
+- **Hohe Qualität:** Für 2 Stufen hat die Probe legendären Vorteil.
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** selbst
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 16 Züge
+- **Kosten:** 4 KaP
+- **Fertigkeiten:** Wildnis
+- **Erlernen:** Ifi 14; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wildnis|Wildnis]]
+- **Kosten:** 10 EP

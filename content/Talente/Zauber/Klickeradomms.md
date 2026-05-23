@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: c68fade8-991c-4caf-a915-916637b6bbf6
+ID: 65f6b5c9-9693-4d46-bdd6-444e667712ea
 Name: Klickeradomms
+title: Klickeradomms
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
@@ -10,12 +11,18 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I
 ---
 Du zerbrichst einen Gegenstand, den du auch mit einem Fausthieb zertrümmern könntest. Der Gegenstand darf maximal 1 Stein wiegen.
-<b>Probenschwierigkeit:</b> 12
-<b>Modifikationen:</b> Schweres Objekt (-4 pro Erhöhung; erhöht das maximale Gewicht um einen halben Stein.)
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> Objekt
-<b>Reichweite:</b> 8 Schritt
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 2 AsP
-<b>Fertigkeiten:</b> Umwelt
-<b>Erlernen:</b> Sch 8; Dil, Hex, Mag, Srl 18; 10 EP
+
+- **Probenschwierigkeit:** 12
+- **Modifikationen:** Schweres Objekt (-4 pro Erhöhung; erhöht das maximale Gewicht um einen halben Stein.)
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** Objekt
+- **Reichweite:** 8 Schritt
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 2 AsP
+- **Fertigkeiten:** Umwelt
+- **Erlernen:** Sch 8; Dil, Hex, Mag, Srl 18; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
+- **Kosten:** 10 EP

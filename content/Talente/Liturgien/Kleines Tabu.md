@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: dd12844f-d4e7-43a6-a40c-020e12c15ef6
+ID: f2f3554e-fb7b-40a3-974d-26e8ece8c66d
 Name: Kleines Tabu
+title: Kleines Tabu
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Nipakau|Nipakau]]"
@@ -10,5 +11,11 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kamaluqgeweihten I
 ---
 $talent:Ruf zur Ruhe$
-<b>Fertigkeiten:</b> Nipakau
-<b>Erlernen:</b> Kam 8; 20 EP
+
+- **Fertigkeiten:** Nipakau
+- **Erlernen:** Kam 8; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Nipakau|Nipakau]]
+- **Kosten:** 20 EP

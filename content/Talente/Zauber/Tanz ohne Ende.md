@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: c52035f6-2c7e-47d0-ad90-12bc9ebe457d
+ID: e6850ea4-48bc-4ccd-a9f1-025690cbf88b
 Name: Tanz ohne Ende
+title: Tanz ohne Ende
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]]"
@@ -11,5 +12,11 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zaubertänzer I
 ---
 $talent:Lied der Lieder$
-<b>Fertigkeiten:</b> Zaubertänze, Einfluss
-<b>Erlernen:</b> Ztz 18; 20 EP
+
+- **Fertigkeiten:** Zaubertänze, Einfluss
+- **Erlernen:** Ztz 18; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]], [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
+- **Kosten:** 20 EP

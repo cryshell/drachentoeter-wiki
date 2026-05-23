@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 85576bb2-6d42-4e58-810d-8227db517095
+ID: dd3ad5fc-7321-402d-b5ff-f9c1e74056ba
 Name: Ruf des Asainyf
+title: Ruf des Asainyf
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Winter|Winter]]"
@@ -10,12 +11,18 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Firungeweihten I
 ---
 Du bist immun gegen Eis- und Kälteschaden.
-<b>Probenschwierigkeit:</b> 12
-<b>Modifikationen:</b> Erweiterter Schutz (-4; der Schutz betrifft auch deine Ausrüstung.)
-<b>Vorbereitungszeit:</b> 16 Aktionen
-<b>Ziel:</b> selbst
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 8 Stunden
-<b>Kosten:</b> 8 KaP
-<b>Fertigkeiten:</b> Winter
-<b>Erlernen:</b> Fir 12; 10 EP
+
+- **Probenschwierigkeit:** 12
+- **Modifikationen:** Erweiterter Schutz (-4; der Schutz betrifft auch deine Ausrüstung.)
+- **Vorbereitungszeit:** 16 Aktionen
+- **Ziel:** selbst
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 8 Stunden
+- **Kosten:** 8 KaP
+- **Fertigkeiten:** Winter
+- **Erlernen:** Fir 12; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Winter|Winter]]
+- **Kosten:** 10 EP

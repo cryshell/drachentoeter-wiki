@@ -1,12 +1,20 @@
 ---
 Entitätstyp: Vorteil
-ID: 36b7f1eb-86dd-4399-b852-3afa6e4f56d4
+ID: 89fb38f2-3360-44a9-bb79-0a1d1b65fafe
 Name: Elementaraffinität (Humus)
+title: Elementaraffinität (Humus)
 Kategorie: Magisch
 Voraussetzungen:
-  - "Vorteil Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I"
-  - "Kein Vorteil Kreis der Verdammnis I"
+  - Vorteil Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I
+  - Kein Vorteil Kreis der Verdammnis I
 Nachkauf: üblich
 Kosten: 40
 ---
 Der Basiswert der Fertigkeit Humus ist um zwei Punkte erhöht, der von Eis um vier Punkte gesenkt.
+
+---
+
+- **Kosten:** 40 EP
+- **Voraussetzungen:**
+  - "Vorteil Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I"
+  - "Kein Vorteil Kreis der Verdammnis I"

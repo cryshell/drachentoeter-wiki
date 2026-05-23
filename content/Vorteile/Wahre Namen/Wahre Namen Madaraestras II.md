@@ -1,13 +1,22 @@
 ---
 Entitätstyp: Vorteil
-ID: ee03d4f3-bf94-4da5-8054-95d399d57d4d
+ID: b5ff90d1-0322-4b72-bfff-f5c0efd8c5eb
 Name: Wahre Namen Madaraestras II
+title: Wahre Namen Madaraestras II
 Kategorie: Wahre Namen
 Voraussetzungen:
-  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
-  - "Attribut KL 6"
-  - "Vorteil Wahre Namen Madaraestras I"
+  - Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I
+  - Attribut KL 6
+  - Vorteil Wahre Namen Madaraestras I
 Nachkauf: häufig
 Kosten: 10
 ---
 Erhöht die maximale Beschwörungsschwierigkeit um 8.
+
+---
+
+- **Kosten:** 10 EP
+- **Voraussetzungen:**
+  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
+  - "Attribut KL 6"
+  - "Vorteil Wahre Namen Madaraestras I"

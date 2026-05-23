@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 69fce22f-fe20-4e92-8e0e-a041fc175702
+ID: 3095541e-b856-4134-9381-179362a744a3
 Name: Herr der Flammen
+title: Herr der Flammen
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Feuer|Feuer]]"
@@ -11,5 +12,11 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Geoden I
 ---
 $talent:Ignimorpho Feuerform$
-<b>Fertigkeiten:</b> Feuer, Ringrituale
-<b>Erlernen:</b> Geo 14; 20 EP
+
+- **Fertigkeiten:** Feuer, Ringrituale
+- **Erlernen:** Geo 14; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Feuer|Feuer]], [[Inhalt/Fertigkeiten/Ringrituale|Ringrituale]]
+- **Kosten:** 20 EP

@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: d66ddc08-0b1d-4d08-bc84-80b00defc099
+ID: b9efb7be-17d4-4025-9fcc-5b6781c65753
 Name: Sensattaco Meisterstreich
+title: Sensattaco Meisterstreich
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
@@ -11,11 +12,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I
 ---
 Dein Ziel erkennt intuitiv die Lücken in der Verteidigung seiner Gegner. Seine Nahkampfangriffe haben Vorteil. Erlaubt *Aufrechterhalten*.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 2 Aktionen
-<b>Ziel:</b> Humanoid
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 16 Züge
-<b>Kosten:</b> 8 AsP
-<b>Fertigkeiten:</b> Eigenschaften, Hellsicht
-<b>Erlernen:</b> Dil, Mag 18; 20 EP
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 2 Aktionen
+- **Ziel:** Humanoid
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 16 Züge
+- **Kosten:** 8 AsP
+- **Fertigkeiten:** Eigenschaften, Hellsicht
+- **Erlernen:** Dil, Mag 18; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]
+- **Kosten:** 20 EP

@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: ca55fea6-0270-4c2e-960a-177ec2d64a44
+ID: ae6f3994-6513-49c8-8dff-52e58004f1c2
 Name: Spur des Missetäters
+title: Spur des Missetäters
 Kategorie: Anrufungen
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Anrufung Blakharazs|Anrufung Blakharazs]]"
@@ -9,11 +10,17 @@ Kosten: 20
 Spezialisierbar: 1
 ---
 Durch Berührung eines persönlichen Gegenstands des Opfers erspürst du, in welcher Richtung es sich befindet und erfährst grobe Details seines Aussehens. Die Anrufung ignoriert die Bedingung Sicht.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 4 Minuten
-<b>Ziel:</b> Humanoid
-<b>Reichweite:</b> 128 Meilen
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 4 GuP
-<b>Fertigkeiten:</b> Anrufung Blakharazs
-<b>Erlernen:</b> Blk 8; 20 EP
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 4 Minuten
+- **Ziel:** Humanoid
+- **Reichweite:** 128 Meilen
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 4 GuP
+- **Fertigkeiten:** Anrufung Blakharazs
+- **Erlernen:** Blk 8; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Blakharazs|Anrufung Blakharazs]]
+- **Kosten:** 20 EP

@@ -1,11 +1,18 @@
 ---
 Entitätstyp: Talent
-ID: bcbb0dae-1d6c-4ad9-a609-c1795bc9f2b6
+ID: 513d31ac-cb8c-4435-a875-d7fba3fd542c
 Name: Musterverständnis (passiv)
+title: Musterverständnis (passiv)
 Kategorie: Anrufungen
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Anrufung Asfaloths|Anrufung Asfaloths]]"
 Kosten: 40
 ---
 Beschwörungs- und Beherrschungsproben für Chimären haben Vorteil.
-<b>Erlernen:</b> Asf 8; 40 EP
+
+- **Erlernen:** Asf 8; 40 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Asfaloths|Anrufung Asfaloths]]
+- **Kosten:** 40 EP

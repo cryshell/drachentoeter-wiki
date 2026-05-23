@@ -1,17 +1,24 @@
 ---
 Entitätstyp: Talent
-ID: 4c6ed12e-56da-4cdd-9c8f-af2d243b4e16
+ID: 49a79e28-4739-4272-8ae1-0f65f2c19e27
 Name: Grußworte
+title: Grußworte
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
 Kosten: 5
 ---
 Du übermittelst einen telepathischen Gruß.
-<b>Probenschwierigkeit:</b> keine Probe
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> Humanoid
-<b>Reichweite:</b> 4 Schritt
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 1 AsP
-<b>Fertigkeiten:</b> Einfluss, Verständigung
+
+- **Probenschwierigkeit:** keine Probe
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** Humanoid
+- **Reichweite:** 4 Schritt
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 1 AsP
+- **Fertigkeiten:** Einfluss, Verständigung
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
+- **Kosten:** 5 EP

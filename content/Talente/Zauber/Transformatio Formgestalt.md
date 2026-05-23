@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: c221f35f-aed2-4305-8482-5ecff1213571
+ID: 1891cbdf-4900-4954-b45c-35c7d998caeb
 Name: Transformatio Formgestalt
+title: Transformatio Formgestalt
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
@@ -14,13 +15,20 @@ Du verwandelst dein Ziel. Die Probenschwierigkeit, Kosten und Zauberdauer sind S
 - 16, 8 AsP, 16 Aktionen: Ein Stein wird zu einem Kurzschwert.
 - 24, 8 AsP, 4 Minuten: Aus einem Knäuel Kamelhaar wird ein feiner mhanadischer Teppich.
 - 28, 32 AsP, 1 Stunde: Aus einem Baumstamm wird eine lebensechte Marmorstatue.
-<b>Probenschwierigkeit:</b> nach Vorhaben
-<b>Modifikationen:</b> Dauernde Form (-4, Wirkungsdauer 1 Woche)
+
+- **Probenschwierigkeit:** nach Vorhaben
+- **Modifikationen:** Dauernde Form (-4, Wirkungsdauer 1 Woche)
 Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, zusätzlich ein Achtel der Basiskosten als gAsP)
-<b>Vorbereitungszeit:</b> nach Vorhaben
-<b>Ziel:</b> Objekt
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 1 Stunde
-<b>Kosten:</b> nach Vorhaben
-<b>Fertigkeiten:</b> Objekt
-<b>Erlernen:</b> Ach 18; Geo, Mag 100 (W100); 40 EP
+
+- **Vorbereitungszeit:** nach Vorhaben
+- **Ziel:** Objekt
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 1 Stunde
+- **Kosten:** nach Vorhaben
+- **Fertigkeiten:** Objekt
+- **Erlernen:** Ach 18; Geo, Mag 100 (W100); 40 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Objekt|Objekt]]
+- **Kosten:** 40 EP

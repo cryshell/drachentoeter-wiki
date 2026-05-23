@@ -1,9 +1,14 @@
 ---
 Entitätstyp: Vorteil
-ID: 95e1ac31-0096-49a9-9d74-b180b9d6d300
+ID: c2e83acf-1b6f-4c2b-b256-9820a8d55ad5
 Name: Sprachkenntnis (Zhayad)
+title: Sprachkenntnis (Zhayad)
 Kategorie: Sprachkenntnis
 Nachkauf: häufig
 Kosten: 20
 ---
 Zhayad gehört zu keiner Sprachfamilie.
+
+---
+
+- **Kosten:** 20 EP

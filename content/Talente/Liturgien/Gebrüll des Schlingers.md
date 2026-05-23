@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 6794e08c-8a51-49c9-8234-54c4c4224e52
+ID: 18d464ba-b089-443c-b27b-e4316ae05c7f
 Name: Gebrüll des Schlingers
+title: Gebrüll des Schlingers
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Eroberung|Eroberung]]"
@@ -10,5 +11,11 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kr’Thon’Chhgeweihten I
 ---
 $talent:Segen des Heiligen Hlûthar$
-<b>Fertigkeiten:</b> Eroberung
-<b>Erlernen:</b> Krt 14; 20 EP
+
+- **Fertigkeiten:** Eroberung
+- **Erlernen:** Krt 14; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eroberung|Eroberung]]
+- **Kosten:** 20 EP

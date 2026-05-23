@@ -1,11 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: 6dcc0031-7090-4e64-bd7b-8681f7152951
+ID: 6df50c63-9dec-41d0-b206-b88a546f5409
 Name: Tradition der Kinder der Nacht
+title: Tradition der Kinder der Nacht
 Kategorie: Tradition (Vampir)
 Voraussetzungen:
-  - "Attribut CH 4"
-  - "Vorteil Vampir I"
+  - Attribut CH 4
+  - Vorteil Vampir I
 Querverweise:
   - "[[Inhalt/Kapitel/Verbotene Pforten|Verbotene Pforten]]"
   - "[[Inhalt/Vorteile/Fluch der Götter (Praios)|Fluch der Götter (Praios)]]"
@@ -15,3 +16,11 @@ Kosten: 20
 Du kannst Zauber der Tradition der Kinder der Nacht erlernen und benutzen. Solche Zauber findest du unter Vampirische Kräfte. Du erhältst den Vorteil Verbotene Pforten, erleidest damit aber Sikaryanwunden statt Wunden. Verfügst du bereits über den Vorteil, stellt jede selbst zugefügte Sikaryanwunde weitere 4 AsP zur Verfügung.
 
 Du bist von Praios verflucht und kannst Vampire nur durch einflößen deines Blutes erschaffen.
+
+---
+
+- **Kosten:** 20 EP
+- **Voraussetzungen:**
+  - "Attribut CH 4"
+  - "Vorteil Vampir I"
+- **Siehe auch:** [[Inhalt/Kapitel/Verbotene Pforten|Verbotene Pforten]], [[Inhalt/Vorteile/Fluch der Götter (Praios)|Fluch der Götter (Praios)]]

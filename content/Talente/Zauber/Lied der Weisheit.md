@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: f5275b08-563e-488b-8b6e-53885f507717
+ID: 50682509-13e1-41d0-abde-073c622f67dc
 Name: Lied der Weisheit
+title: Lied der Weisheit
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]"
@@ -11,11 +12,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zauberbarden I
 ---
 Du schärfst den Geist von allen in einem Radius von 4 Schritt. Sie erhalten Vorteil auf Bildungs-, Mythenkunde-, Naturkunde-, Heilkunde- und KL-Proben.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 1 Stunde
-<b>Ziel:</b> Zone
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 8 Stunden
-<b>Kosten:</b> 16 AsP
-<b>Fertigkeiten:</b> Zaubermelodien, Eigenschaften
-<b>Erlernen:</b> Bard 18; 20 EP
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 1 Stunde
+- **Ziel:** Zone
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 8 Stunden
+- **Kosten:** 16 AsP
+- **Fertigkeiten:** Zaubermelodien, Eigenschaften
+- **Erlernen:** Bard 18; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]], [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]
+- **Kosten:** 20 EP

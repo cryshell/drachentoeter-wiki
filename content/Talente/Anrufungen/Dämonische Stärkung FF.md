@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: f4445a96-79bd-4f96-adc7-5a28ce4562bc
+ID: 0bd51d79-7704-49f2-9acc-a94dc11f334a
 Name: "Dämonische Stärkung: FF"
+title: "Dämonische Stärkung: FF"
 Kategorie: Anrufungen
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Anrufung Lolgramoths|Anrufung Lolgramoths]]"
@@ -15,13 +16,20 @@ Kosten: 10
 Spezialisierbar: 1
 ---
 Deine nächste Probe auf FF ist um +4 Punkte erleichtert.
-<b>Hohe Qualität:</b> Erhöht die Erleichterung um +2.
-<b>Probenschwierigkeit:</b> 12
-<b>Modifikationen:</b> Intervention (-8; *Reaktive* Anrufung (beliebiges Ereignis). Hohe Qualität ist nicht möglich.)
+
+- **Hohe Qualität:** Erhöht die Erleichterung um +2.
+- **Probenschwierigkeit:** 12
+- **Modifikationen:** Intervention (-8; *Reaktive* Anrufung (beliebiges Ereignis). Hohe Qualität ist nicht möglich.)
 Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion ausführen. Hohe Qualität ist nicht möglich.)
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> selbst
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 4 Minuten
-<b>Kosten:</b> 4 GuP
-<b>Erlernen:</b> 10 EP
+
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** selbst
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 4 Minuten
+- **Kosten:** 4 GuP
+- **Erlernen:** 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Lolgramoths|Anrufung Lolgramoths]], [[Inhalt/Fertigkeiten/Anrufung Thargunitoths|Anrufung Thargunitoths]], [[Inhalt/Fertigkeiten/Anrufung Amazeroths|Anrufung Amazeroths]], [[Inhalt/Fertigkeiten/Anrufung Asfaloths|Anrufung Asfaloths]], [[Inhalt/Fertigkeiten/Anrufung Tasfarelels|Anrufung Tasfarelels]], [[Inhalt/Fertigkeiten/Anrufung Belzhorashs|Anrufung Belzhorashs]], [[Inhalt/Fertigkeiten/Anrufung Agrimoths|Anrufung Agrimoths]]
+- **Kosten:** 10 EP

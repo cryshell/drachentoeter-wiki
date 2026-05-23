@@ -1,9 +1,14 @@
 ---
 Entitätstyp: Vorteil
-ID: 081c3d0c-00c4-4427-bd94-fe63e4771aa1
+ID: 8d7fc25b-49ec-43c3-9d13-5ef93a7d61cc
 Name: Sprachkenntnis (Bukanisch)
+title: Sprachkenntnis (Bukanisch)
 Kategorie: Sprachkenntnis
 Nachkauf: häufig
 Kosten: 20
 ---
 Bukanisch gehört zur Garethi-Familie.
+
+---
+
+- **Kosten:** 20 EP

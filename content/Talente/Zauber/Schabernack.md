@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: d5249341-b57d-4ca7-8e59-b253ff916d11
+ID: 3351cc1b-656b-4974-8ca1-38a06e35a265
 Name: Schabernack
+title: Schabernack
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
@@ -10,11 +11,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schelme I
 ---
 Deinem Opfer geschieht ein kleines Missgeschick – es stolpert, bekommt im Gespräch plötzlich Blähungen, oder ihm rutscht eine unanständige Bemerkung heraus.
-<b>Probenschwierigkeit:</b> Magieresistenz
-<b>Vorbereitungszeit:</b> 2 Aktionen
-<b>Ziel:</b> Humanoid
-<b>Reichweite:</b> 8 Schritt
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 4 AsP
-<b>Fertigkeiten:</b> Einfluss
-<b>Erlernen:</b> Sch 8; 10 EP
+
+- **Probenschwierigkeit:** Magieresistenz
+- **Vorbereitungszeit:** 2 Aktionen
+- **Ziel:** Humanoid
+- **Reichweite:** 8 Schritt
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 4 AsP
+- **Fertigkeiten:** Einfluss
+- **Erlernen:** Sch 8; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
+- **Kosten:** 10 EP

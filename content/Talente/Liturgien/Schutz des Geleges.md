@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 1f1bd391-a7b4-41a0-a167-7d8a57c9c334
+ID: f8f380d7-6d8e-4685-aaab-2ddc8932ea93
 Name: Schutz des Geleges
+title: Schutz des Geleges
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Fruchtbarkeit und Wiedergeburt|Fruchtbarkeit und Wiedergeburt]]"
@@ -10,12 +11,18 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der Zsahhgeweihten I
 ---
 Segnet 4 Eier eines Geleges von Jungechsen, so dass sie sich nicht gegenseitig auffressen. Du musst eines der Eier des Geleges opfern.
-<b>Hohe Qualität:</b> 2 weitere Jungechsen sind betroffen.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 4 Minuten
-<b>Ziel:</b> Wesen
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 4 KaP
-<b>Fertigkeiten:</b> Fruchtbarkeit und Wiedergeburt
-<b>Erlernen:</b> Ssa, Zsa 12; 0 EP
+
+- **Hohe Qualität:** 2 weitere Jungechsen sind betroffen.
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 4 Minuten
+- **Ziel:** Wesen
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 4 KaP
+- **Fertigkeiten:** Fruchtbarkeit und Wiedergeburt
+- **Erlernen:** Ssa, Zsa 12; 0 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Fruchtbarkeit und Wiedergeburt|Fruchtbarkeit und Wiedergeburt]]
+- **Kosten:** 0 EP

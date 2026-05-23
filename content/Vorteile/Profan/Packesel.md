@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Vorteil
-ID: c5e089be-5dbc-4ded-bb01-45d1f4fbc755
+ID: 938ecd58-ab51-47f5-822f-2c782d621ae7
 Name: Packesel
+title: Packesel
 Kategorie: Profan
 Voraussetzungen: Attribut KK 4
 Querverweise:
@@ -10,3 +11,9 @@ Nachkauf: häufig
 Kosten: 20
 ---
 Die Tragkraft steigt um +4.
+
+---
+
+- **Kosten:** 20 EP
+- **Voraussetzungen:** Attribut KK 4
+- **Siehe auch:** [[Inhalt/Abgeleiteter Wert/TK|TK]]

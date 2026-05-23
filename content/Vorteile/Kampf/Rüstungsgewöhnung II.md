@@ -1,14 +1,23 @@
 ---
 Entitätstyp: Vorteil
-ID: f13938b9-564d-4cf3-b9d7-a61aac297ba0
+ID: 0e45d6b7-0066-4195-bf71-5e74e3eb5648
 Name: Rüstungsgewöhnung II
+title: Rüstungsgewöhnung II
 Kategorie: Kampf
 Voraussetzungen:
-  - "Attribut KO 8"
-  - "Vorteil Rüstungsgewöhnung I"
+  - Attribut KO 8
+  - Vorteil Rüstungsgewöhnung I
 Querverweise:
   - "[[Inhalt/Abgeleiteter Wert/BE|BE]]"
 Nachkauf: häufig
 Kosten: 40
 ---
 Die BE aller Rüstungen ist um 1 gesenkt.
+
+---
+
+- **Kosten:** 40 EP
+- **Voraussetzungen:**
+  - "Attribut KO 8"
+  - "Vorteil Rüstungsgewöhnung I"
+- **Siehe auch:** [[Inhalt/Abgeleiteter Wert/BE|BE]]

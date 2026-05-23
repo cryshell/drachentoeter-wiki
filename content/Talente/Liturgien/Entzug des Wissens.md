@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: cc04a139-7299-47e8-b412-cf81a3767d4e
+ID: 7f4a343c-6579-4737-9554-fc98aa02da64
 Name: Entzug des Wissens
+title: Entzug des Wissens
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Tradition|Tradition]]"
@@ -10,5 +11,11 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Tairachgeweihten I
 ---
 $talent:Entzug von Nandus' Gaben$
-<b>Fertigkeiten:</b> Tradition
-<b>Erlernen:</b> Tai 12; 10 EP
+
+- **Fertigkeiten:** Tradition
+- **Erlernen:** Tai 12; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Tradition|Tradition]]
+- **Kosten:** 10 EP

@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 03d700b7-4010-4f21-8846-5ec333b25674
+ID: 69e0b682-bc4d-45d2-a6e4-3c00310309ea
 Name: Markierung des Todes
+title: Markierung des Todes
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
@@ -11,11 +12,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
 ---
 Das Zeichen wird in einem Durchmesser von 16 Fingern auf einem maximal schrankgroßen Objekt angebracht. Fernkampfangriffe gegen dieses haben Vorteil.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 8 Minuten
-<b>Ziel:</b> passendes Zauberzeichen
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 1 Woche
-<b>Kosten:</b> 16 AsP
-<b>Fertigkeiten:</b> Objekt, Zauberzeichen
-<b>Erlernen:</b> Mag 20; 10 EP
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 8 Minuten
+- **Ziel:** passendes Zauberzeichen
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 1 Woche
+- **Kosten:** 16 AsP
+- **Fertigkeiten:** Objekt, Zauberzeichen
+- **Erlernen:** Mag 20; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Objekt|Objekt]], [[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]
+- **Kosten:** 10 EP

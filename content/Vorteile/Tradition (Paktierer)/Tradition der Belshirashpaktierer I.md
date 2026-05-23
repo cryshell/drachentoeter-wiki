@@ -1,11 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: 937eb597-768f-482e-b262-418c29026388
+ID: 268b0091-1765-4301-b231-f538a2a904bd
 Name: Tradition der Belshirashpaktierer I
+title: Tradition der Belshirashpaktierer I
 Kategorie: Tradition (Paktierer)
 Voraussetzungen:
-  - "Attribut MU 4"
-  - "Vorteil Paktierer I"
+  - Attribut MU 4
+  - Vorteil Paktierer I
   - "Kein Vorteil Tradition der *paktierer I"
 Nachkauf: häufig
 Kosten: 20
@@ -13,3 +14,11 @@ Kosten: 20
 Du kannst Anrufungen in der Tradition der Paktierer (Bls) erlernen und benutzen. Solche Anrufungen findest du unter den allgemeinen Anrufungen und unter Anrufung Belshirashs.
 
 Dämonische Kräfte sind chaotisch, Anrufungsproben werden mit 1W20 gewürfelt.
+
+---
+
+- **Kosten:** 20 EP
+- **Voraussetzungen:**
+  - "Attribut MU 4"
+  - "Vorteil Paktierer I"
+  - "Kein Vorteil Tradition der *paktierer I"

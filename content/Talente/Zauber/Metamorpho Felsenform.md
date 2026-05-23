@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: b86edb80-08f2-4852-893e-21c59ad5bdcd
+ID: 26330c0c-da61-4554-9231-03304f99281d
 Name: Metamorpho Felsenform
+title: Metamorpho Felsenform
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
@@ -15,12 +16,18 @@ Du formst Erz mit bloßen Händen in die wundersamsten Formen. Die Probenschwier
 - 16, 4 AsP, 4 Züge: Du formst einen Stein zu einer einfachen Waffe aus Erz (identische Werte, aber WM -2).
 - 20, 16 AsP, 1 Stunde: Du ziehst eine einfache Brücke über eine Felsspalte.
 - 28, 128+ AsP, 1 Woche: Du errichtest ein bewohnbares Gebäude aus Stein.
-<b>Probenschwierigkeit:</b> nach Vorhaben
-<b>Varianten:</b> Erzzauber übernehmen (Probenschwierigkeit EW des Zaubers, 4 Aktionen, Ziel Erzzauber, augenblicklich; du erhältst die Kontrolle über einen wirkenden Erzzauber, als hättest du ihn selbst gewirkt. Wirkt nicht gegen Erzelementare und Zauber, in die gAsP geflossen sind.)
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> Zone
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> nach Vorhaben
-<b>Kosten:</b> nach Vorhaben
-<b>Fertigkeiten:</b> Erz, Objekt
-<b>Erlernen:</b> Elf, Mag 20; 20 EP
+
+- **Probenschwierigkeit:** nach Vorhaben
+- **Varianten:** Erzzauber übernehmen (Probenschwierigkeit EW des Zaubers, 4 Aktionen, Ziel Erzzauber, augenblicklich; du erhältst die Kontrolle über einen wirkenden Erzzauber, als hättest du ihn selbst gewirkt. Wirkt nicht gegen Erzelementare und Zauber, in die gAsP geflossen sind.)
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** Zone
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** nach Vorhaben
+- **Kosten:** nach Vorhaben
+- **Fertigkeiten:** Erz, Objekt
+- **Erlernen:** Elf, Mag 20; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Erz|Erz]], [[Inhalt/Fertigkeiten/Objekt|Objekt]]
+- **Kosten:** 20 EP

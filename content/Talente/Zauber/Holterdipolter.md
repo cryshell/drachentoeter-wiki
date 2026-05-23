@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: c8cca66a-b8dd-42a7-aa64-32303c0bc416
+ID: da4b99e9-903a-4dcd-81be-0f0e49d0176b
 Name: Holterdipolter
+title: Holterdipolter
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
@@ -10,11 +11,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schelme I
 ---
 In einem Radius von 8 Schritt um dich herum geht alles schief: Menschen stolpern, Knoten öffnen sich und Vasen fallen um. Dabei kommt niemand ernsthaft zu Schaden.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 1 Aktion
-<b>Ziel:</b> Zone
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 4 Minuten
-<b>Kosten:</b> 16 AsP
-<b>Fertigkeiten:</b> Umwelt
-<b>Erlernen:</b> Sch 20; 20 EP
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 1 Aktion
+- **Ziel:** Zone
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 4 Minuten
+- **Kosten:** 16 AsP
+- **Fertigkeiten:** Umwelt
+- **Erlernen:** Sch 20; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
+- **Kosten:** 20 EP

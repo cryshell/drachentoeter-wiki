@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: e2dba8eb-8c05-450e-9b68-a08f1b679193
+ID: d53ab52a-520b-4688-8a9b-9fe208b0aba4
 Name: Lebensrune
+title: Lebensrune
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
@@ -13,11 +14,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Runenmagier
 ---
 Die Rune wird in einem Durchmesser von 16 Fingern auf einem Wesen oder Objekt angebracht. Der Träger der Rune altert nicht mehr. Die Fertigkeit Eigenschaften kann nur für Wesen, Objekt nur für Objekte verwendet werden.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 4 Stunden
-<b>Ziel:</b> passende Zauberrune
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> bis die Bindung gelöst wird
-<b>Kosten:</b> 16 AsP, davon 4 gAsP
-<b>Fertigkeiten:</b> Eigenschaften, Objekt, Temporal, Zauberrunen
-<b>Erlernen:</b> Run legendär; 10 EP
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 4 Stunden
+- **Ziel:** passende Zauberrune
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** bis die Bindung gelöst wird
+- **Kosten:** 16 AsP, davon 4 gAsP
+- **Fertigkeiten:** Eigenschaften, Objekt, Temporal, Zauberrunen
+- **Erlernen:** Run legendär; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Objekt|Objekt]], [[Inhalt/Fertigkeiten/Temporal|Temporal]], [[Inhalt/Fertigkeiten/Zauberrunen|Zauberrunen]]
+- **Kosten:** 10 EP

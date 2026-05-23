@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 55c8b4c0-e30c-47f2-b5dd-1d738e7cfafd
+ID: 527fdcf6-2055-400f-80cd-ea5699a7de1e
 Name: Geisterklinge
+title: Geisterklinge
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]]"
@@ -12,14 +13,21 @@ Spezialisierbar: 1
 Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
 ---
 Die verzauberte Waffe gilt während der Wirkungsdauer als magisch.
-<b>Probenschwierigkeit:</b> 12
-<b>Modifikationen:</b> Personalisierung (-4; der Zauber wirkt nur, solange der beim Zaubern gewählte Träger die Waffe führt.)
+
+- **Probenschwierigkeit:** 12
+- **Modifikationen:** Personalisierung (-4; der Zauber wirkt nur, solange der beim Zaubern gewählte Träger die Waffe führt.)
 Namenssigille (-8; erfordert den wahren Namen eines Dämons. Wann immer der Dämon Wunden durch diese Waffe erleidet, erleidet er eine zusätzliche Wunde.)
 Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, 16 AsP, davon 2 gAsP)
-<b>Vorbereitungszeit:</b> 16 Aktionen
-<b>Ziel:</b> Objekt
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 1 Woche
-<b>Kosten:</b> 8 AsP
-<b>Fertigkeiten:</b> Geister der Stärkung, Kraft, Objekt
-<b>Erlernen:</b> Smn (alle) 18; 20 EP
+
+- **Vorbereitungszeit:** 16 Aktionen
+- **Ziel:** Objekt
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 1 Woche
+- **Kosten:** 8 AsP
+- **Fertigkeiten:** Geister der Stärkung, Kraft, Objekt
+- **Erlernen:** Smn (alle) 18; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]], [[Inhalt/Fertigkeiten/Kraft|Kraft]], [[Inhalt/Fertigkeiten/Objekt|Objekt]]
+- **Kosten:** 20 EP

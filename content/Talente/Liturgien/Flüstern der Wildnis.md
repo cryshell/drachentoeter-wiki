@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: a8f7f612-8a7f-4805-91bd-d69d3242d1e9
+ID: 716f50c1-0552-46a4-8e31-0c635b276935
 Name: Flüstern der Wildnis
+title: Flüstern der Wildnis
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Wildnis|Wildnis]]"
@@ -10,12 +11,18 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Firungeweihten I
 ---
 Das Ziel erhält den Vorteil Tierempathie (Eisbären) und erleidet keine Erschöpfung durch den Einsatz dieser Gabe. Beherrscht es die Gabe bereits, haben damit verbundene Proben Vorteil. Segnest du dich selbst, kannst du notwendige Proben auf Wildnis statt auf Tierkunde ablegen.
-<b>Hohe Qualität:</b> Der Vorteil gilt für alle Bären/Hundeartigen/Raubtiere.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 16 Aktionen
-<b>Ziel:</b> Humanoid
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 1 Stunde
-<b>Kosten:</b> 4 KaP
-<b>Fertigkeiten:</b> Wildnis
-<b>Erlernen:</b> Fir 14; 10 EP
+
+- **Hohe Qualität:** Der Vorteil gilt für alle Bären/Hundeartigen/Raubtiere.
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 16 Aktionen
+- **Ziel:** Humanoid
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 1 Stunde
+- **Kosten:** 4 KaP
+- **Fertigkeiten:** Wildnis
+- **Erlernen:** Fir 14; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wildnis|Wildnis]]
+- **Kosten:** 10 EP

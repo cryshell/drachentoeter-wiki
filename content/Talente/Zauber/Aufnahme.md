@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: f4f64078-a7e0-4eb2-881f-301972fda72d
+ID: 6c7b6d67-f037-4c65-82d0-c3fb5338037c
 Name: Aufnahme
+title: Aufnahme
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Illusion|Illusion]]"
@@ -11,11 +12,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Scharlatane I
 ---
 Du bereitest die Kugel vor, damit sie ein bestimmtes Wesen und die nähere Umgebung aufzeichnet. Nähert sich das Wesen der Kugel auf 16 Schritt, zeichnet diese alles auf, was es macht. Die Aufnahme endet, wenn sie sich wieder entfernt, spätestens nach 1 Stunde. Die Kugel kann die Aufnahme danach beliebig oft zeigen, dabei handelt es sich um eine *Illusion* (Sicht).
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 4 Minuten
-<b>Ziel:</b> Kristallkugel
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 1 Monat
-<b>Kosten:</b> 16 AsP, davon 4 gAsP
-<b>Fertigkeiten:</b> Kugelzauber, Illusion
-<b>Erlernen:</b> Srl 16; 20 EP
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 4 Minuten
+- **Ziel:** Kristallkugel
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 1 Monat
+- **Kosten:** 16 AsP, davon 4 gAsP
+- **Fertigkeiten:** Kugelzauber, Illusion
+- **Erlernen:** Srl 16; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Illusion|Illusion]], [[Inhalt/Fertigkeiten/Kugelzauber|Kugelzauber]]
+- **Kosten:** 20 EP

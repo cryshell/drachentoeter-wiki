@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: b102fdcf-f9a5-401b-b5b6-22966d158dfb
+ID: d8dcc338-342c-45bb-9b00-ac061f808226
 Name: Blick der Weberin
+title: Blick der Weberin
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Magie|Magie]]"
@@ -11,13 +12,19 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der H’Szintgeweihten I ODER Vorteil Tradition der Tairachgeweihten I
 ---
 Du analysierst die Kraftfäden eines arkanen Artefakts oder eines magischen Wesens. Das entspricht einem Analysegrad von 2 für die Strukturanalyse.
-<b>Hohe Qualität:</b> Der Analysegrad steigt um 1.
-<b>Probenschwierigkeit:</b> 16
-<b>Vorbereitungszeit:</b> 1 Stunde
-<b>Ziel:</b> Objekt, Wesen
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 8 KaP
-<b>Fertigkeiten:</b> Geister, Magie
-<b>Erlernen:</b> Hes, Hsz 12; Tai 14; 20 EP
-<b>Anmerkung:</b> Auch bekannt als Blick durch Tairachs Augen (Tai).
+
+- **Hohe Qualität:** Der Analysegrad steigt um 1.
+- **Probenschwierigkeit:** 16
+- **Vorbereitungszeit:** 1 Stunde
+- **Ziel:** Objekt, Wesen
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 8 KaP
+- **Fertigkeiten:** Geister, Magie
+- **Erlernen:** Hes, Hsz 12; Tai 14; 20 EP
+- **Anmerkung:** Auch bekannt als Blick durch Tairachs Augen (Tai).
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Magie|Magie]], [[Inhalt/Fertigkeiten/Geister|Geister]]
+- **Kosten:** 20 EP

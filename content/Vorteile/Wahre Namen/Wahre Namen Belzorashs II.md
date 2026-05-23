@@ -1,13 +1,22 @@
 ---
 Entitätstyp: Vorteil
-ID: 3ea11ff9-2c3d-4eda-8445-d370b9ce2734
+ID: 4b077df5-9a46-4e4c-9976-10e674eef900
 Name: Wahre Namen Belzorashs II
+title: Wahre Namen Belzorashs II
 Kategorie: Wahre Namen
 Voraussetzungen:
-  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
-  - "Attribut KL 6"
-  - "Vorteil Wahre Namen Belzorashs I"
+  - Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I
+  - Attribut KL 6
+  - Vorteil Wahre Namen Belzorashs I
 Nachkauf: häufig
 Kosten: 20
 ---
 Erhöht die maximale Beschwörungsschwierigkeit um 8.
+
+---
+
+- **Kosten:** 20 EP
+- **Voraussetzungen:**
+  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
+  - "Attribut KL 6"
+  - "Vorteil Wahre Namen Belzorashs I"

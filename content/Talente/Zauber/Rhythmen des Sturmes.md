@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: eb058823-1e5b-4b3b-8cae-103e40bf286b
+ID: f85730ca-6836-41ab-b904-2b6029fc23cb
 Name: Rhythmen des Sturmes
+title: Rhythmen des Sturmes
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
@@ -11,11 +12,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Derwische I
 ---
 Du verbesserst die Reitkünste. Jeder in einem Radius von 4 Schritt erhält Vorteil auf Lanzenreiten- und Reiten-Proben sowie auf andere Proben im Umgang mit Pferden.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 1 Stunde
-<b>Ziel:</b> Zone
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 8 Stunden
-<b>Kosten:</b> 16 AsP
-<b>Fertigkeiten:</b> Eigenschaften, Trommelrituale
-<b>Erlernen:</b> Der 8; 20 EP
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 1 Stunde
+- **Ziel:** Zone
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 8 Stunden
+- **Kosten:** 16 AsP
+- **Fertigkeiten:** Eigenschaften, Trommelrituale
+- **Erlernen:** Der 8; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Trommelrituale|Trommelrituale]]
+- **Kosten:** 20 EP

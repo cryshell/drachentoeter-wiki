@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: e19f409e-4693-4006-ad4c-d2daf992d2bd
+ID: 762ba9fc-e63c-4fbb-9e88-b60adf2f8e30
 Name: Krähenruf (Tiergeist)
+title: Krähenruf (Tiergeist)
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]]"
@@ -11,3 +12,8 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tiergeist (Rabe)
 ---
 $talent:Krähenruf$
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]], [[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]
+- **Kosten:** 20 EP

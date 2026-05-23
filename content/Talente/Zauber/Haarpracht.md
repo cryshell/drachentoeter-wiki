@@ -1,17 +1,24 @@
 ---
 Entitätstyp: Talent
-ID: ce4a2998-f712-4002-8bb3-27c87e0bc590
+ID: 02b8aed1-af0d-4caf-83c0-6869098fb918
 Name: Haarpracht
+title: Haarpracht
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
 Kosten: 5
 ---
 Deine Haare nehmen eine einfache, ordentliche Frisur an.
-<b>Probenschwierigkeit:</b> keine Probe
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> selbst
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 1 AsP
-<b>Fertigkeiten:</b> Verwandlung
+
+- **Probenschwierigkeit:** keine Probe
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** selbst
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 1 AsP
+- **Fertigkeiten:** Verwandlung
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
+- **Kosten:** 5 EP

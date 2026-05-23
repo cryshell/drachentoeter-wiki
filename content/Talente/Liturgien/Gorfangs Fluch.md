@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: a11041b5-a0f4-4634-9a9f-d43b40f2597b
+ID: 021b309e-7583-4641-9041-a11ed169b582
 Name: Gorfangs Fluch
+title: Gorfangs Fluch
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Schutz der Sippe|Schutz der Sippe]]"
@@ -10,13 +11,19 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Himmelswölfegeweihten I
 ---
 Du beschwörst den Zorn Gorfangs auf einen sippenangehörigen Verbrecher hinab. Hunde und Wölfe greifen den Verfluchten an, wenn sie ihn bemerken.
-<b>Hohe Qualität:</b> Es werden alle Hundeartigen/alle Tiere aggressiv.
-<b>Probenschwierigkeit:</b> 12
-<b>Modifikationen:</b> Ferner Fluch (-8, dereweit; braucht einen materiellen Fokus und die Liturgie ignoriert die Bedingung Sicht.)
-<b>Vorbereitungszeit:</b> 8 Stunden
-<b>Ziel:</b> Humanoid
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 4 Monate
-<b>Kosten:</b> 16 KaP
-<b>Fertigkeiten:</b> Schutz der Sippe
-<b>Erlernen:</b> Him 18; 20 EP
+
+- **Hohe Qualität:** Es werden alle Hundeartigen/alle Tiere aggressiv.
+- **Probenschwierigkeit:** 12
+- **Modifikationen:** Ferner Fluch (-8, dereweit; braucht einen materiellen Fokus und die Liturgie ignoriert die Bedingung Sicht.)
+- **Vorbereitungszeit:** 8 Stunden
+- **Ziel:** Humanoid
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 4 Monate
+- **Kosten:** 16 KaP
+- **Fertigkeiten:** Schutz der Sippe
+- **Erlernen:** Him 18; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schutz der Sippe|Schutz der Sippe]]
+- **Kosten:** 20 EP

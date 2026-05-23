@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Vorteil
-ID: e57898ae-0f5b-4282-94ff-c1d68de30306
+ID: 82535f0f-5262-4d52-b7c9-d3dcb9ad7422
 Name: Tiergeist (Bär)
+title: Tiergeist (Bär)
 Kategorie: Tiergeist
 Voraussetzungen:
   - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
@@ -22,3 +23,11 @@ Kosten: 0
 - Pranken (Talent Unbewaffnet, 2W6+2 TP, RW 1, WM 0)
 - Pelz (+2 RS, Kälteschutz wie dicke Winterkleidung)
 *Zauber:* Bärenruhe, Eiseskälte, Ruhe Körper, Sanftmut, Standfest, Zaubernahrung
+
+---
+
+- **Kosten:** 0 EP
+- **Voraussetzungen:**
+  - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
+  - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
+- **Siehe auch:** [[Inhalt/Talente/Zauber/Bärenruhe Winterschlaf|Bärenruhe Winterschlaf]], [[Inhalt/Talente/Zauber/Eiseskälte Kämpferherz|Eiseskälte Kämpferherz]], [[Inhalt/Talente/Zauber/Ruhe Körper, Ruhe Geist|Ruhe Körper, Ruhe Geist]], [[Inhalt/Talente/Zauber/Sanftmut|Sanftmut]], [[Inhalt/Talente/Zauber/Standfest Katzengleich|Standfest Katzengleich]], [[Inhalt/Talente/Zauber/Zaubernahrung Hungerbann|Zaubernahrung Hungerbann]]

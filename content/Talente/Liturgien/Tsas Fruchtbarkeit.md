@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: fb0c079e-4280-448e-8a77-cbeab2c5ed84
+ID: 0b4e1faf-73b5-499f-8833-5785ca19f578
 Name: Tsas Fruchtbarkeit
+title: Tsas Fruchtbarkeit
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Neubeginn|Neubeginn]]"
@@ -10,11 +11,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Tsageweihten I
 ---
 Das gesegnete Lebewesen ist für die Wirkungsdauer deutlich fruchtbarer.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 1 Stunde
-<b>Ziel:</b> Wesen
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 1 Woche
-<b>Kosten:</b> 1 KaP
-<b>Fertigkeiten:</b> Neubeginn
-<b>Erlernen:</b> Tsa 12; 0 EP
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 1 Stunde
+- **Ziel:** Wesen
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 1 Woche
+- **Kosten:** 1 KaP
+- **Fertigkeiten:** Neubeginn
+- **Erlernen:** Tsa 12; 0 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Neubeginn|Neubeginn]]
+- **Kosten:** 0 EP

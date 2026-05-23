@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: e03fdb6f-2f5d-4b1f-adcb-34957a899327
+ID: babb2d72-8d5e-4048-8a3b-a4f46d93f2ec
 Name: Warmes Blut (Tiergeist)
+title: Warmes Blut (Tiergeist)
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]]"
@@ -11,3 +12,8 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tiergeist (Schlange)
 ---
 $talent:Warmes Blut$
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]], [[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]
+- **Kosten:** 10 EP

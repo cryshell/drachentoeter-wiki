@@ -1,17 +1,24 @@
 ---
 Entitätstyp: Talent
-ID: f7d60bca-c121-45a8-a0de-6904724e669c
+ID: a4fb6cb4-7079-4a56-a0ba-e9ffd391b53d
 Name: Beruhigung
+title: Beruhigung
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
 Kosten: 5
 ---
 Du erzeugst in einem Radius von 10 Fingern eine kleine stationäre Zone, in der jegliche Geräusche unterdrückt werden. Damit kannst du beispielsweise einen schreienden Patienten verstummen lassen.
-<b>Probenschwierigkeit:</b> keine Probe
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> Zone
-<b>Reichweite:</b> 1 Schritt
-<b>Wirkungsdauer:</b> 1 Stunde
-<b>Kosten:</b> 1 AsP
-<b>Fertigkeiten:</b> Umwelt
+
+- **Probenschwierigkeit:** keine Probe
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** Zone
+- **Reichweite:** 1 Schritt
+- **Wirkungsdauer:** 1 Stunde
+- **Kosten:** 1 AsP
+- **Fertigkeiten:** Umwelt
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
+- **Kosten:** 5 EP

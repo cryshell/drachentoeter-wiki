@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 7147c7b8-c536-4fb6-9cd5-437fbad20e99
+ID: 8603b2da-11fa-4369-9b3f-40ff189ffbe0
 Name: Macht des Wahnsinns
+title: Macht des Wahnsinns
 Kategorie: Anrufungen
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Anrufung Amazeroths|Anrufung Amazeroths]]"
@@ -9,11 +10,17 @@ Kosten: 20
 Spezialisierbar: 1
 ---
 Du strafst dein Ziel mit Wahnsinn, es ist *verwirrt*. Im Kampf ist hierzu ein erfolgreicher waffenloser Angriff nötig.
-<b>Probenschwierigkeit:</b> MU
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> Humanoid
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 8 Stunden
-<b>Kosten:</b> 4 GuP
-<b>Fertigkeiten:</b> Anrufung Amazeroths
-<b>Erlernen:</b> Amz 12; 20 EP
+
+- **Probenschwierigkeit:** MU
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** Humanoid
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 8 Stunden
+- **Kosten:** 4 GuP
+- **Fertigkeiten:** Anrufung Amazeroths
+- **Erlernen:** Amz 12; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Amazeroths|Anrufung Amazeroths]]
+- **Kosten:** 20 EP

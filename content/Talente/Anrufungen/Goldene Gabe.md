@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 8c0dbd9e-3f6a-4488-9bd4-feecc2172f29
+ID: e35ac814-8cee-46b8-8183-b62be6545ede
 Name: Goldene Gabe
+title: Goldene Gabe
 Kategorie: Anrufungen
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Anrufung Tasfarelels|Anrufung Tasfarelels]]"
@@ -9,12 +10,18 @@ Kosten: 20
 Spezialisierbar: 1
 ---
 Du verwandelst einen Gegenstand von maximal 1 Stein Gewicht in pures Gold im Wert von ca. 50 Dukaten. Nach Ende der Wirkungsdauer zerfällt es zu Staub.
-<b>Probenschwierigkeit:</b> 12
-<b>Modifikationen:</b> Schweres Objekt (-4 pro Erhöhung; erhöht das maximale Gewicht um 1 Stein.)
-<b>Vorbereitungszeit:</b> 4 Aktionen
-<b>Ziel:</b> Objekt
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 1 Tag
-<b>Kosten:</b> 4 GuP
-<b>Fertigkeiten:</b> Anrufung Tasfarelels
-<b>Erlernen:</b> Tsf 12; 20 EP
+
+- **Probenschwierigkeit:** 12
+- **Modifikationen:** Schweres Objekt (-4 pro Erhöhung; erhöht das maximale Gewicht um 1 Stein.)
+- **Vorbereitungszeit:** 4 Aktionen
+- **Ziel:** Objekt
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 1 Tag
+- **Kosten:** 4 GuP
+- **Fertigkeiten:** Anrufung Tasfarelels
+- **Erlernen:** Tsf 12; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Tasfarelels|Anrufung Tasfarelels]]
+- **Kosten:** 20 EP

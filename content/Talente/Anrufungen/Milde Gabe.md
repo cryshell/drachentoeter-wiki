@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: d012fee4-560e-4f29-83e8-bc3a41b8ac5a
+ID: 091e9d03-1022-4077-a801-1a4d674358c2
 Name: Milde Gabe
+title: Milde Gabe
 Kategorie: Anrufungen
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Anrufung Aphestadils|Anrufung Aphestadils]]"
@@ -9,12 +10,18 @@ Kosten: 10
 Spezialisierbar: 1
 ---
 Personen, die sich während der Wirkungsdauer in einem Radius von 16 Schritt befinden, spenden dir 4 Silbertaler pro Person. Erfordert *Konzentration*, erlaubt *Aufrechterhalten*.
-<b>Hohe Qualität:</b> Verdoppelt die Anzahl Silbertaler.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 1 Aktion
-<b>Ziel:</b> Zone
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 1 Stunde
-<b>Kosten:</b> 2 GuP
-<b>Fertigkeiten:</b> Anrufung Aphestadils
-<b>Erlernen:</b> Apt 16; 10 EP
+
+- **Hohe Qualität:** Verdoppelt die Anzahl Silbertaler.
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 1 Aktion
+- **Ziel:** Zone
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 1 Stunde
+- **Kosten:** 2 GuP
+- **Fertigkeiten:** Anrufung Aphestadils
+- **Erlernen:** Apt 16; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Aphestadils|Anrufung Aphestadils]]
+- **Kosten:** 10 EP

@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 9a271436-7d54-4515-a7ab-53f9d6cef028
+ID: 3fc4f419-bf0e-4c62-8b36-a77e888ee385
 Name: Foramen Foraminor (Tiergeist)
+title: Foramen Foraminor (Tiergeist)
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]]"
@@ -11,3 +12,8 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tiergeist (Fischotter)
 ---
 $talent:Foramen Foraminor$
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]], [[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]
+- **Kosten:** 20 EP

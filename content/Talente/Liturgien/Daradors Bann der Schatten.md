@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: dea89f1c-4950-458a-b735-e3e4ad2b0eb7
+ID: 4e9b590c-48e1-44e0-9756-440bc6ac5cfd
 Name: Daradors Bann der Schatten
+title: Daradors Bann der Schatten
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Licht|Licht]]"
@@ -10,12 +11,18 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Praiosgeweihten I
 ---
 In einem Radius von 8 Schritt werden sämtliche Schatten, Dunkelheit und entsprechende Zauber aufgehoben. Wesenheiten mit dem Nachteil Lichtscheu sind diesem Bereich gegenüber *verängstigt*, wenn ihre Beschwörungsschwierigkeit maximal 20 beträgt (beschworene Wesen) oder ihnen eine MU-Gegenprobe misslingt (natürliche Wesen). Die Liturgie ignoriert die Eigenschaft Immunität (Verängstigt). Erlaubt *Aufrechterhalten*.
-<b>Hohe Qualität:</b> Erhöht die maximale Beschwörungsschwierigkeit um 4.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 4 Aktionen
-<b>Ziel:</b> Zone
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 4 Minuten
-<b>Kosten:</b> 8 KaP
-<b>Fertigkeiten:</b> Licht
-<b>Erlernen:</b> Pra 12; 10 EP
+
+- **Hohe Qualität:** Erhöht die maximale Beschwörungsschwierigkeit um 4.
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 4 Aktionen
+- **Ziel:** Zone
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 4 Minuten
+- **Kosten:** 8 KaP
+- **Fertigkeiten:** Licht
+- **Erlernen:** Pra 12; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Licht|Licht]]
+- **Kosten:** 10 EP

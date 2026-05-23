@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Vorteil
-ID: 36c589ba-4ee7-4c07-a562-20e8dc7d4b68
+ID: 64cd70bc-34d9-4e4c-a040-9d39d07fffd7
 Name: Zäher Hund
+title: Zäher Hund
 Kategorie: Profan
 Voraussetzungen: Attribut KO 4
 Querverweise:
@@ -10,3 +11,9 @@ Nachkauf: üblich
 Kosten: 20
 ---
 Deine KO-Proben beim Zechen und bei der Abwehr von Blutungs-Wunden haben Vorteil.
+
+---
+
+- **Kosten:** 20 EP
+- **Voraussetzungen:** Attribut KO 4
+- **Siehe auch:** [[Inhalt/Kapitel/Blutungen und Tod|Blutungen und Tod]]

@@ -1,14 +1,23 @@
 ---
 Entitätstyp: Vorteil
-ID: 4d287097-4862-4ce9-a4f2-5897e7ffe4ea
+ID: a28f7f34-4c26-4951-9888-6de28288fde0
 Name: Tradition der Alchemisten III
+title: Tradition der Alchemisten III
 Kategorie: Tradition (Magisch)
 Voraussetzungen:
-  - "Attribut FF 8"
-  - "Vorteil Tradition der Alchemisten II"
+  - Attribut FF 8
+  - Vorteil Tradition der Alchemisten II
 Querverweise:
   - "[[Inhalt/Kapitel/Zeit lassen|Zeit lassen]]"
 Nachkauf: häufig
 Kosten: 60
 ---
 Erlaubt die spontane Modifikation Zeit lassen.
+
+---
+
+- **Kosten:** 60 EP
+- **Voraussetzungen:**
+  - "Attribut FF 8"
+  - "Vorteil Tradition der Alchemisten II"
+- **Siehe auch:** [[Inhalt/Kapitel/Zeit lassen|Zeit lassen]]

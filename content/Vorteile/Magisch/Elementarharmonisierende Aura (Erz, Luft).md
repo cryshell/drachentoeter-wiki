@@ -1,12 +1,20 @@
 ---
 Entitätstyp: Vorteil
-ID: e0e1a4af-322f-4200-b533-87a44e6feb6e
+ID: fa847e64-dc6b-44c6-b0c8-178831efeb16
 Name: Elementarharmonisierende Aura (Erz, Luft)
+title: Elementarharmonisierende Aura (Erz, Luft)
 Kategorie: Magisch
 Voraussetzungen:
-  - "Vorteil Elementaraffinität (Erz)"
-  - "Vorteil Elementaraffinität (Luft)"
+  - Vorteil Elementaraffinität (Erz)
+  - Vorteil Elementaraffinität (Luft)
 Nachkauf: üblich
 Kosten: 60
 ---
 Der Basiswert der Fertigkeiten Erz und Luft ist um vier Punkte erhöht.
+
+---
+
+- **Kosten:** 60 EP
+- **Voraussetzungen:**
+  - "Vorteil Elementaraffinität (Erz)"
+  - "Vorteil Elementaraffinität (Luft)"

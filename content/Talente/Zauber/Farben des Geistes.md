@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 8dd26591-96fa-45e9-8bb6-35298b6ba3c2
+ID: 42dc2ae7-70c7-4fb4-9a0d-fc3ed4c614cc
 Name: Farben des Geistes
+title: Farben des Geistes
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
@@ -11,11 +12,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I
 ---
 Berührst du jemanden mit dem Kristall, offenbart derjenige durch ein Leuchten sein vorherrschendes Gefühl, es sei denn, ihm gelingt eine Magieresistenz-Gegenprobe. Farbe und Intensität geben Auskunft über Art und Stärke des Gefühls, passende Menschenkenntnis-Proben haben dadurch Vorteil. Berührt außer dir niemand den Kristall, so wird das stärkste Gefühl im Radius von 8 Schritt als Referenz genommen.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 4 Aktionen
-<b>Ziel:</b> gebundener Kristall
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 8 Minuten
-<b>Kosten:</b> 4 AsP
-<b>Fertigkeiten:</b> Hellsicht, Kristallmagie
-<b>Erlernen:</b> Ach 18; 20 EP
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 4 Aktionen
+- **Ziel:** gebundener Kristall
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 8 Minuten
+- **Kosten:** 4 AsP
+- **Fertigkeiten:** Hellsicht, Kristallmagie
+- **Erlernen:** Ach 18; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]
+- **Kosten:** 20 EP

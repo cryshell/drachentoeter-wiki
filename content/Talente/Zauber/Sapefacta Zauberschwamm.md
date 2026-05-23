@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 7b756fb9-2ec5-4888-b073-933a3f4782cf
+ID: 11829e91-8b5c-4cd4-b34d-88a03f76e740
 Name: Sapefacta Zauberschwamm
+title: Sapefacta Zauberschwamm
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
@@ -12,12 +13,18 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Scharlatane I
 ---
 Deine Kleidung ist so sauber, als wäre sie frisch gewaschen.
-<b>Probenschwierigkeit:</b> 12
-<b>Modifikationen:</b> Läusekamm (-4; du wirst auch von *winzigen* Tieren und Ungeziefer befreit.)
-<b>Vorbereitungszeit:</b> 4 Aktionen
-<b>Ziel:</b> selbst
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 1 AsP
-<b>Fertigkeiten:</b> Luft, Umwelt, Wasser
-<b>Erlernen:</b> Alch 12; Mag 14; Dru, Srl 16; Dil 18; Hex 20; 10 EP
+
+- **Probenschwierigkeit:** 12
+- **Modifikationen:** Läusekamm (-4; du wirst auch von *winzigen* Tieren und Ungeziefer befreit.)
+- **Vorbereitungszeit:** 4 Aktionen
+- **Ziel:** selbst
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 1 AsP
+- **Fertigkeiten:** Luft, Umwelt, Wasser
+- **Erlernen:** Alch 12; Mag 14; Dru, Srl 16; Dil 18; Hex 20; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]], [[Inhalt/Fertigkeiten/Wasser|Wasser]]
+- **Kosten:** 10 EP

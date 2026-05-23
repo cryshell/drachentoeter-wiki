@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 16e1cdb2-9f54-4e8d-a6b4-0a9270356f16
+ID: 1e9fe471-fc7c-4bfc-92fd-e74d597083b0
 Name: Tanz der Jagd
+title: Tanz der Jagd
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
@@ -11,5 +12,11 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zaubertänzer I
 ---
 $talent:Rhythmen der Jagd$
-<b>Fertigkeiten:</b> Eigenschaften, Zaubertänze
-<b>Erlernen:</b> Ztz 16; 20 EP
+
+- **Fertigkeiten:** Eigenschaften, Zaubertänze
+- **Erlernen:** Ztz 16; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]]
+- **Kosten:** 20 EP

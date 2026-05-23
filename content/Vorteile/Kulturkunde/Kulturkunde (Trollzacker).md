@@ -1,9 +1,14 @@
 ---
 Entitätstyp: Vorteil
-ID: c22aade6-06f3-4940-b7ff-a2697cf824f1
+ID: 441fe318-b261-49b5-8b70-07de57136fa8
 Name: Kulturkunde (Trollzacker)
+title: Kulturkunde (Trollzacker)
 Kategorie: Kulturkunde
 Nachkauf: häufig
 Kosten: 20
 ---
 Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eigenen Gebräuche haben. Kulturkunde stellt deine Kenntnis über diese Gebräuche dar. Falls eine erlernte Kultur bei einer Probe auf Darbietung, Diplomatie, Straßenkunde oder Mythenkunde relevant ist, erhältst du Vorteil auf die Probe.
+
+---
+
+- **Kosten:** 20 EP

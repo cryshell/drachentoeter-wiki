@@ -1,17 +1,24 @@
 ---
 Entitätstyp: Talent
-ID: 2e4cf751-b79b-482b-8fd9-890f661afde6
+ID: 3d31f0f7-993f-4b50-9526-5c0867ea7ef9
 Name: Nagellack
+title: Nagellack
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
 Kosten: 5
 ---
 Du kannst die Farbe deiner Nägel verändern.
-<b>Probenschwierigkeit:</b> keine Probe
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> selbst
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 1 AsP
-<b>Fertigkeiten:</b> Verwandlung
+
+- **Probenschwierigkeit:** keine Probe
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** selbst
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 1 AsP
+- **Fertigkeiten:** Verwandlung
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
+- **Kosten:** 5 EP

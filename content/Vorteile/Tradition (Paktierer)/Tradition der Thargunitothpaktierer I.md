@@ -1,11 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: 300253af-f56d-43a6-b583-3f63dccc4f33
+ID: e38dc4b3-7f1b-42e3-a05b-bef04a3e9a4b
 Name: Tradition der Thargunitothpaktierer I
+title: Tradition der Thargunitothpaktierer I
 Kategorie: Tradition (Paktierer)
 Voraussetzungen:
-  - "Attribut MU 4"
-  - "Vorteil Paktierer I"
+  - Attribut MU 4
+  - Vorteil Paktierer I
   - "Kein Vorteil Tradition der *paktierer I"
 Nachkauf: häufig
 Kosten: 20
@@ -13,3 +14,11 @@ Kosten: 20
 Du kannst Anrufungen in der Tradition der Paktierer (Tgt) erlernen und benutzen. Solche Anrufungen findest du unter den allgemeinen Anrufungen und unter Anrufung Thargunitoths.
 
 Dämonische Kräfte sind chaotisch, Anrufungsproben werden mit 1W20 gewürfelt.
+
+---
+
+- **Kosten:** 20 EP
+- **Voraussetzungen:**
+  - "Attribut MU 4"
+  - "Vorteil Paktierer I"
+  - "Kein Vorteil Tradition der *paktierer I"

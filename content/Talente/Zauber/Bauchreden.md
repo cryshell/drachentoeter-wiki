@@ -1,17 +1,24 @@
 ---
 Entitätstyp: Talent
-ID: 6bfc9c4f-328a-407e-9f18-ed27f28da670
+ID: f7b5ef3c-ae1b-4a04-ae9a-fb3dd705a29b
 Name: Bauchreden
+title: Bauchreden
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
 Kosten: 5
 ---
 Du lässt ein Wort oder kurzes Geräusch erklingen. Dabei handelt es sich um eine *Illusion* (Gehör).
-<b>Probenschwierigkeit:</b> keine Probe
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> Zone
-<b>Reichweite:</b> 8 Schritt
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 1 AsP
-<b>Fertigkeiten:</b> Illusion
+
+- **Probenschwierigkeit:** keine Probe
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** Zone
+- **Reichweite:** 8 Schritt
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 1 AsP
+- **Fertigkeiten:** Illusion
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
+- **Kosten:** 5 EP

@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: a56c5f13-4f7c-4154-850f-33fc229e457e
+ID: 546d42dc-cb54-4e79-8b54-bdd1fb264e25
 Name: Hauch der Pestilenz
+title: Hauch der Pestilenz
 Kategorie: Anrufungen
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Anrufung Belzhorashs|Anrufung Belzhorashs]]"
@@ -9,13 +10,19 @@ Kosten: 20
 Spezialisierbar: 1
 ---
 Du infizierst dein Opfer mit einer dir bekannten Krankheit deiner Wahl, die dann ihren natürlichen Krankheitsverlauf nimmt. Die maximale Krankheitsstufe ist 16.
-<b>Hohe Qualität:</b> Erhöht die maximale Krankheitsstufe um +4.
-<b>Probenschwierigkeit:</b> MU
-<b>Modifikationen:</b> Einzelfall (-4; die Krankheit ist nicht ansteckend.)
-<b>Vorbereitungszeit:</b> 4 Aktionen
-<b>Ziel:</b> Humanoid
-<b>Reichweite:</b> 4 Schritt
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 8 GuP
-<b>Fertigkeiten:</b> Anrufung Belzhorashs
-<b>Erlernen:</b> Blz 12; 20 EP
+
+- **Hohe Qualität:** Erhöht die maximale Krankheitsstufe um +4.
+- **Probenschwierigkeit:** MU
+- **Modifikationen:** Einzelfall (-4; die Krankheit ist nicht ansteckend.)
+- **Vorbereitungszeit:** 4 Aktionen
+- **Ziel:** Humanoid
+- **Reichweite:** 4 Schritt
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 8 GuP
+- **Fertigkeiten:** Anrufung Belzhorashs
+- **Erlernen:** Blz 12; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Belzhorashs|Anrufung Belzhorashs]]
+- **Kosten:** 20 EP

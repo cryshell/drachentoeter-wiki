@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 9a0eb390-ccd8-4e15-a180-5e4e563fd3d2
+ID: 2f16463e-3e68-4e69-8ff8-24e5883c6529
 Name: Unfruchtbarkeit
+title: Unfruchtbarkeit
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
@@ -11,11 +12,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hexen I
 ---
 Solange der Fluch wirkt, ist das Opfer unfruchtbar. 
-<b>Probenschwierigkeit:</b> Magieresistenz
-<b>Vorbereitungszeit:</b> 4 Aktionen
-<b>Ziel:</b> Wesen
-<b>Reichweite:</b> 8 Schritt
-<b>Wirkungsdauer:</b> 4 Woche
-<b>Kosten:</b> 8 AsP
-<b>Fertigkeiten:</b> Dämonisch, Hexenflüche
-<b>Erlernen:</b> Hex 16; 10 EP
+
+- **Probenschwierigkeit:** Magieresistenz
+- **Vorbereitungszeit:** 4 Aktionen
+- **Ziel:** Wesen
+- **Reichweite:** 8 Schritt
+- **Wirkungsdauer:** 4 Woche
+- **Kosten:** 8 AsP
+- **Fertigkeiten:** Dämonisch, Hexenflüche
+- **Erlernen:** Hex 16; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]], [[Inhalt/Fertigkeiten/Hexenflüche|Hexenflüche]]
+- **Kosten:** 10 EP

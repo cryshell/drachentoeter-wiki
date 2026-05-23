@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 9abfa84e-28f8-48f7-b42e-777e883a950c
+ID: b459b8cc-fea3-4c86-9902-75ad58a23726
 Name: Vipernblick (Tiergeist)
+title: Vipernblick (Tiergeist)
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]]"
@@ -11,3 +12,8 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tiergeist (Schlange)
 ---
 $talent:Vipernblick$
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]], [[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]
+- **Kosten:** 20 EP

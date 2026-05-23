@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: fad6a47f-38b5-40c1-9e43-0abf4bfebdd6
+ID: 3dd3ce84-db22-4adc-a06a-5e30e8b3662e
 Name: Heilige Salbung
+title: Heilige Salbung
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Friede|Friede]]"
@@ -12,12 +13,18 @@ Voraussetzungen: Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition
 ---
 Du salbst das Ziel täglich. Es muss sich über die gesamte Vorbereitungszeit in einem Tempel deiner Gottheit aufhalten. Dies heilt 4 Sikaryanwunden des Ziels, falls es selbst Sikaryan besitzt.
 Hohe Qualität: Heilt 2 weitere Sikaryanwunden.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 1 Woche (täglich 1 Stunde)
-<b>Ziel:</b> Humanoid
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 32 KaP
-<b>Fertigkeiten:</b> Friede, Heilung
-<b>Erlernen:</b> Per, Tsa 20; 10 EP
-<b>Anmerkung:</b> Auch bekannt als Tsas heiliges Lebensgeschenk (Tsa).
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 1 Woche (täglich 1 Stunde)
+- **Ziel:** Humanoid
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 32 KaP
+- **Fertigkeiten:** Friede, Heilung
+- **Erlernen:** Per, Tsa 20; 10 EP
+- **Anmerkung:** Auch bekannt als Tsas heiliges Lebensgeschenk (Tsa).
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Friede|Friede]], [[Inhalt/Fertigkeiten/Heilung|Heilung]]
+- **Kosten:** 10 EP

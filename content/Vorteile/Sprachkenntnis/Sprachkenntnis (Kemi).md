@@ -1,9 +1,14 @@
 ---
 Entitätstyp: Vorteil
-ID: f81ac23f-6915-419d-a131-07b27f9fdd28
+ID: 35f529aa-6c56-4d49-bbc5-dcaa3180e06b
 Name: Sprachkenntnis (Kemi)
+title: Sprachkenntnis (Kemi)
 Kategorie: Sprachkenntnis
 Nachkauf: häufig
 Kosten: 20
 ---
 Kemi gehört zur Tulamidya-Familie.
+
+---
+
+- **Kosten:** 20 EP

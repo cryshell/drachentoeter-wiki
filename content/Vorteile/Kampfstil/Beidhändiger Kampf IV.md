@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Vorteil
-ID: 18b5c1af-6761-4a68-b7ed-65f7d4296257
+ID: ebe48700-23da-434d-9e8f-2ff17145bb8f
 Name: Beidhändiger Kampf IV
+title: Beidhändiger Kampf IV
 Kategorie: Kampfstil
 Voraussetzungen:
   - MeisterAttribut GE 10
@@ -10,3 +11,10 @@ Nachkauf: häufig
 Kosten: 80
 ---
 8 Punkte können zur Verbesserung des Kampfstils verwendet werden.
+
+---
+
+- **Kosten:** 80 EP
+- **Voraussetzungen:**
+  - "MeisterAttribut GE 10"
+  - "Vorteil Beidhändiger Kampf III"

@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 4c36d3aa-d3dc-45c9-a119-6f7333088e2a
+ID: fce29697-a162-413c-8b0f-1cfb27d99461
 Name: Meister der Form
+title: Meister der Form
 Kategorie: Anrufungen
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Anrufung Asfaloths|Anrufung Asfaloths]]"
@@ -9,11 +10,17 @@ Kosten: 20
 Spezialisierbar: 1
 ---
 Du kannst durch Berührung eines Körperteils diesem eine neue Form geben. Das Opfer stirbt selbst durch die seltsamsten Verwandlungen nicht. Je nach Form kann dies einen passenden Verwandlungsbonus aus dem Tiergeist-Kapitel verleihen.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 4 Aktionen
-<b>Ziel:</b> Wesen
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 1 Woche
-<b>Kosten:</b> 8 GuP
-<b>Fertigkeiten:</b> Anrufung Asfaloths
-<b>Erlernen:</b> Asf 8; 20 EP
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 4 Aktionen
+- **Ziel:** Wesen
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 1 Woche
+- **Kosten:** 8 GuP
+- **Fertigkeiten:** Anrufung Asfaloths
+- **Erlernen:** Asf 8; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Asfaloths|Anrufung Asfaloths]]
+- **Kosten:** 20 EP

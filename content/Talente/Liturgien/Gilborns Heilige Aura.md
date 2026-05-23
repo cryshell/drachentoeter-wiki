@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 53c8f041-c12b-47c2-aed3-c096133769b0
+ID: 435c858a-6f20-4ce1-8977-8a66ce7e8c51
 Name: Gilborns Heilige Aura
+title: Gilborns Heilige Aura
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Magiebann|Magiebann]]"
@@ -10,5 +11,11 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Praiosgeweihten I
 ---
 $talent:Argelions Mantel$
-<b>Fertigkeiten:</b> Magiebann
-<b>Erlernen:</b> Pra 14; 20 EP
+
+- **Fertigkeiten:** Magiebann
+- **Erlernen:** Pra 14; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Magiebann|Magiebann]]
+- **Kosten:** 20 EP

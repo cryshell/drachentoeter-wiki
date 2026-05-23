@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 8ae7e4f6-947e-4ef5-9fae-e7927c03a2b7
+ID: 44db417e-6ac2-4df6-ba7d-4b459169a125
 Name: Untote erheben
+title: Untote erheben
 Kategorie: Anrufungen
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Anrufung Thargunitoths|Anrufung Thargunitoths]]"
@@ -9,12 +10,18 @@ Kosten: 40
 Spezialisierbar: 1
 ---
 Du lässt durch eine bloße Berührung einen Nephazz in einen Leichnam fahren, der diesen augenblicklich als schwachen oder nützlichen Untoten erhebt. Dies umgeht die üblichen Beschwörungsregeln.
-<b>Hohe Qualität:</b> Der Nephazz verleiht dem Untoten zusätzliche Eigenschaften im Wert von einem Beschwörungsproben-Modifikator von -6.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 1 Aktion
-<b>Ziel:</b> Leiche
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 1 Stunde
-<b>Kosten:</b> 4 GuP
-<b>Fertigkeiten:</b> Anrufung Thargunitoths
-<b>Erlernen:</b> Tgt 12; 40 EP
+
+- **Hohe Qualität:** Der Nephazz verleiht dem Untoten zusätzliche Eigenschaften im Wert von einem Beschwörungsproben-Modifikator von -6.
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 1 Aktion
+- **Ziel:** Leiche
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 1 Stunde
+- **Kosten:** 4 GuP
+- **Fertigkeiten:** Anrufung Thargunitoths
+- **Erlernen:** Tgt 12; 40 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Thargunitoths|Anrufung Thargunitoths]]
+- **Kosten:** 40 EP

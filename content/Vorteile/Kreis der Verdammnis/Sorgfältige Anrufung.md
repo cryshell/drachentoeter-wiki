@@ -1,12 +1,20 @@
 ---
 Entitätstyp: Vorteil
-ID: 50007a59-0c96-43f4-b3fe-496f68414e3d
+ID: e8630b6f-1cae-4b18-a20c-db0a05fff33a
 Name: Sorgfältige Anrufung
+title: Sorgfältige Anrufung
 Kategorie: Kreis der Verdammnis
 Voraussetzungen:
-  - "Attribut KL 6"
-  - "Vorteil Paktierer I"
+  - Attribut KL 6
+  - Vorteil Paktierer I
 Nachkauf: häufig
 Kosten: 40
 ---
 Misslungene Anrufungen kosten nur ein Viertel der Basiskosten.
+
+---
+
+- **Kosten:** 40 EP
+- **Voraussetzungen:**
+  - "Attribut KL 6"
+  - "Vorteil Paktierer I"

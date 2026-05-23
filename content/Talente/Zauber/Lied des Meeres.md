@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 09fca26f-99da-4567-802d-e1121ce4493b
+ID: b8dc7f51-c7e1-4077-989a-265b15be630d
 Name: Lied des Meeres
+title: Lied des Meeres
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]"
@@ -11,11 +12,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zauberbarden I
 ---
 Dein Lied stimmt Zuhörer in einem Radius von 4 Schritt auf das Meer ein. Sie erhalten Vorteil auf Seefahrts-Proben.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 16 Aktionen
-<b>Ziel:</b> Zone
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 4 Stunden
-<b>Kosten:</b> 8 AsP
-<b>Fertigkeiten:</b> Zaubermelodien, Eigenschaften
-<b>Erlernen:</b> Bard 16; 10 EP
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 16 Aktionen
+- **Ziel:** Zone
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 4 Stunden
+- **Kosten:** 8 AsP
+- **Fertigkeiten:** Zaubermelodien, Eigenschaften
+- **Erlernen:** Bard 16; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]], [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]
+- **Kosten:** 10 EP

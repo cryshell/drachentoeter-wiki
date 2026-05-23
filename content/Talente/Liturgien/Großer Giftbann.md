@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 9a682471-5b28-4014-8753-02f44822f262
+ID: e7987a14-ffee-4148-b585-5615c54e5fd8
 Name: Großer Giftbann
+title: Großer Giftbann
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Heilung|Heilung]]"
@@ -11,13 +12,19 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Traviageweihten I
 ---
 Du segnest eine Mahlzeit samt Getränken für bis zu 32 Personen. Die Mahlzeit wird von Giften und Krankheitsüberträgern gesäubert und sogar giftige Pflanzen können gegessen werden.
-<b>Hohe Qualität:</b> Du segnest eine Mahlzeit für bis zu 16 weitere Personen.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 4 Minuten
-<b>Ziel:</b> Zone
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 8 KaP
-<b>Fertigkeiten:</b> Heilung, Heim und Herd
-<b>Erlernen:</b> Per, Tra 14; 10 EP
-<b>Anmerkung:</b> Auch bekannt als Großer Speisesegen (Tra).
+
+- **Hohe Qualität:** Du segnest eine Mahlzeit für bis zu 16 weitere Personen.
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 4 Minuten
+- **Ziel:** Zone
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 8 KaP
+- **Fertigkeiten:** Heilung, Heim und Herd
+- **Erlernen:** Per, Tra 14; 10 EP
+- **Anmerkung:** Auch bekannt als Großer Speisesegen (Tra).
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heilung|Heilung]], [[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]]
+- **Kosten:** 10 EP

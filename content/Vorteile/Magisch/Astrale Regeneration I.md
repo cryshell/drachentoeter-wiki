@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Vorteil
-ID: 982afcdc-aa0b-4c09-9254-ee2f6d0dcfe0
+ID: cd433d22-0ad5-4960-a7f5-6c5ea316feb9
 Name: Astrale Regeneration I
+title: Astrale Regeneration I
 Kategorie: Magisch
 Voraussetzungen: Vorteil Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I
 Querverweise:
@@ -10,3 +11,9 @@ Nachkauf: häufig
 Kosten: 20
 ---
 Du regenerierst 1 zusätzliche AsP pro *langer Rast*.
+
+---
+
+- **Kosten:** 20 EP
+- **Voraussetzungen:** Vorteil Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I
+- **Siehe auch:** [[Inhalt/Kapitel/Regeneration|Regeneration]]

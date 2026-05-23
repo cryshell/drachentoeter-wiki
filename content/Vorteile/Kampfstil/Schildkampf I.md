@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Vorteil
-ID: b14afaa4-f965-41ca-a789-8e7f8d429eab
+ID: 68c1b1db-a26d-40cb-b0ae-284844043cbf
 Name: Schildkampf I
+title: Schildkampf I
 Kategorie: Kampfstil
 Voraussetzungen: Attribut KK 4 ODER Attribut IN 4
 Querverweise:
@@ -10,3 +11,9 @@ Nachkauf: häufig
 Kosten: 20
 ---
 Schildblock: Wenn du einen Treffer erleiden würdest, kannst du als Reaktion deine VT nachträglich um 2 Punkte verbessern.
+
+---
+
+- **Kosten:** 20 EP
+- **Voraussetzungen:** Attribut KK 4 ODER Attribut IN 4
+- **Siehe auch:** [[Inhalt/Kapitel/Reaktion|Reaktion]]

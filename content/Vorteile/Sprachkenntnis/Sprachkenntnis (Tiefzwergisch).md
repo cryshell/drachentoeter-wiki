@@ -1,9 +1,14 @@
 ---
 Entitätstyp: Vorteil
-ID: 1dd6b234-adf9-4cc4-b89a-9c0b3882e3a9
+ID: ee6762fd-c679-4042-99fa-b06714a8e77c
 Name: Sprachkenntnis (Tiefzwergisch)
+title: Sprachkenntnis (Tiefzwergisch)
 Kategorie: Sprachkenntnis
 Nachkauf: häufig
 Kosten: 10
 ---
 Tiefzwergisch gehört zur Zwergisch-Familie.
+
+---
+
+- **Kosten:** 10 EP

@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 3cd32945-f7f6-4e63-8372-e2acf0559825
+ID: 83038b02-6b73-48b1-bc4d-ad07145b7ae8
 Name: Travinians Segen des Lagerfeuers
+title: Travinians Segen des Lagerfeuers
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Sichere Heimkehr|Sichere Heimkehr]]"
@@ -10,13 +11,19 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Traviageweihten I
 ---
 Du segnest ein Lagerfeuer. Unheilige Wesenheiten mit einer maximalen Beschwörungsschwierigkeit von 20 sind diesem gegenüber *verängstigt*. Die Liturgie ignoriert die Eigenschaft Immunität (Verängstigt). Erlaubt *Aufrechterhalten*.
-<b>Hohe Qualität:</b> Erhöht die maximale Beschwörungsschwierigkeit um 4.
-<b>Probenschwierigkeit:</b> 12
-<b>Varianten:</b> Wärmendes Feuer (Wirkungsdauer 6 Stunden, 4 KaP; die Temperatur um ein Lagerfeuer steigt um 1 Stufe, bis maximal auf normal.)
-<b>Vorbereitungszeit:</b> 16 Aktionen
-<b>Ziel:</b> Zone
-<b>Reichweite:</b> 2 Schritt
-<b>Wirkungsdauer:</b> 1 Stunde
-<b>Kosten:</b> 8 KaP
-<b>Fertigkeiten:</b> Sichere Heimkehr
-<b>Erlernen:</b> Tra 14; 20 EP
+
+- **Hohe Qualität:** Erhöht die maximale Beschwörungsschwierigkeit um 4.
+- **Probenschwierigkeit:** 12
+- **Varianten:** Wärmendes Feuer (Wirkungsdauer 6 Stunden, 4 KaP; die Temperatur um ein Lagerfeuer steigt um 1 Stufe, bis maximal auf normal.)
+- **Vorbereitungszeit:** 16 Aktionen
+- **Ziel:** Zone
+- **Reichweite:** 2 Schritt
+- **Wirkungsdauer:** 1 Stunde
+- **Kosten:** 8 KaP
+- **Fertigkeiten:** Sichere Heimkehr
+- **Erlernen:** Tra 14; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Sichere Heimkehr|Sichere Heimkehr]]
+- **Kosten:** 20 EP

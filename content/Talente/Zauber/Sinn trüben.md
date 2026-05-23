@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 887128e1-d8d4-4ca1-b534-9e550ea7fdca
+ID: dafd8795-68b2-404d-bc24-ecc1f66ee997
 Name: Sinn trüben
+title: Sinn trüben
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
@@ -11,12 +12,18 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hexen I
 ---
 Bei deinem Opfer trübt sich ein Sinn deiner Wahl. Alle Proben auf Tätigkeiten, die den Einsatz dieses Sinnes benötigen, haben Nachteil.
-<b>Hohe Qualität:</b> Für 2 Stufen schlagen entsprechende Proben automatisch fehl.
-<b>Probenschwierigkeit:</b> Magieresistenz
-<b>Vorbereitungszeit:</b> 4 Aktionen
-<b>Ziel:</b> Humanoid
-<b>Reichweite:</b> 8 Schritt
-<b>Wirkungsdauer:</b> 1 Tag
-<b>Kosten:</b> 16 AsP
-<b>Fertigkeiten:</b> Eigenschaften, Hexenflüche
-<b>Erlernen:</b> Hex 12; 10 EP
+
+- **Hohe Qualität:** Für 2 Stufen schlagen entsprechende Proben automatisch fehl.
+- **Probenschwierigkeit:** Magieresistenz
+- **Vorbereitungszeit:** 4 Aktionen
+- **Ziel:** Humanoid
+- **Reichweite:** 8 Schritt
+- **Wirkungsdauer:** 1 Tag
+- **Kosten:** 16 AsP
+- **Fertigkeiten:** Eigenschaften, Hexenflüche
+- **Erlernen:** Hex 12; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Hexenflüche|Hexenflüche]]
+- **Kosten:** 10 EP

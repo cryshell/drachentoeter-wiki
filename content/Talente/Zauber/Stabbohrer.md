@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 6952db3f-2ccf-4237-8629-4d915c9dc7f0
+ID: 7732cbff-5d50-4b88-9acb-53022d8c51f7
 Name: Stabbohrer
+title: Stabbohrer
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]]"
@@ -11,12 +12,18 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
 ---
 Du hältst den Stab an ein Objekt und er beginnt sich hineinzubohren. Für je 2 Punkte Härte des Objekts benötigt er 1 Zug, um 1 Finger voranzukommen.
-<b>Hohe Qualität:</b> Der Stab bohrt doppelt so schnell.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> Zauberstab
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 16 Züge
-<b>Kosten:</b> 2 AsP
-<b>Fertigkeiten:</b> Stabzauber, Umwelt
-<b>Erlernen:</b> Mag 16; 20 EP
+
+- **Hohe Qualität:** Der Stab bohrt doppelt so schnell.
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** Zauberstab
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 16 Züge
+- **Kosten:** 2 AsP
+- **Fertigkeiten:** Stabzauber, Umwelt
+- **Erlernen:** Mag 16; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
+- **Kosten:** 20 EP

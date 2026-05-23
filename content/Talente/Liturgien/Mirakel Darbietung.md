@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 7783a05f-b3ed-42e2-b566-bf62b02f44ee
+ID: 835e01f3-8683-4b53-a6d2-ea1f5483b9a3
 Name: "Mirakel: Darbietung"
+title: "Mirakel: Darbietung"
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Rausch|Rausch]]"
@@ -9,13 +10,20 @@ Kosten: 10
 Spezialisierbar: 1
 ---
 Deine nächste Probe auf Darbietung ist um +4 Punkte erleichtert.
-<b>Hohe Qualität:</b> Erhöht die Erleichterung um +2.
-<b>Probenschwierigkeit:</b> 12
-<b>Modifikationen:</b> Intervention (-8; *Reaktive* Liturgie (beliebiges Ereignis). Hohe Qualität ist nicht möglich.)
+
+- **Hohe Qualität:** Erhöht die Erleichterung um +2.
+- **Probenschwierigkeit:** 12
+- **Modifikationen:** Intervention (-8; *Reaktive* Liturgie (beliebiges Ereignis). Hohe Qualität ist nicht möglich.)
 Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion ausführen. Hohe Qualität ist nicht möglich.)
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> selbst
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 4 Minuten
-<b>Kosten:</b> 4 KaP
-<b>Erlernen:</b> 10 EP
+
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** selbst
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 4 Minuten
+- **Kosten:** 4 KaP
+- **Erlernen:** 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Rausch|Rausch]]
+- **Kosten:** 10 EP

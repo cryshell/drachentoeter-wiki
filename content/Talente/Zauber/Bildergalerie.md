@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 169754f0-8779-4330-9020-9b6428953806
+ID: 3a1d3056-8d6d-4ee5-babb-8e2235ff554c
 Name: Bildergalerie
+title: Bildergalerie
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Illusion|Illusion]]"
@@ -12,11 +13,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Scharlatane I
 ---
 Du speicherst einen soeben gewirkten Illusionszauber in die Kugel. Maximal kannst du PW Kugelzauber Illusionen speichern. Wenn du die Illusion abspielen möchtest, musst du eine Probe auf Kugelzauber (12) ablegen, 1 Aktion und 1 AsP aufwenden. Beim Abspielen befindet sich die Kugel im Zentrum der Illusion.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 4 Aktionen
-<b>Ziel:</b> Kristallkugel
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> bis die Bindung gelöst wird
-<b>Kosten:</b> 4 AsP, davon 1 gAsP
-<b>Fertigkeiten:</b> Illusion, Kraft, Kugelzauber
-<b>Erlernen:</b> Srl 16; 10 EP
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 4 Aktionen
+- **Ziel:** Kristallkugel
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** bis die Bindung gelöst wird
+- **Kosten:** 4 AsP, davon 1 gAsP
+- **Fertigkeiten:** Illusion, Kraft, Kugelzauber
+- **Erlernen:** Srl 16; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Illusion|Illusion]], [[Inhalt/Fertigkeiten/Kraft|Kraft]], [[Inhalt/Fertigkeiten/Kugelzauber|Kugelzauber]]
+- **Kosten:** 10 EP

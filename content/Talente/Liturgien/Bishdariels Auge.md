@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 00fd9ff9-cdec-421e-bd6a-1f647ba9b388
+ID: b5479485-67f6-4661-8b3f-f625f526ffef
 Name: Bishdariels Auge
+title: Bishdariels Auge
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Einsicht|Einsicht]]"
@@ -11,14 +12,21 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der Nandusgeweihten I
 ---
 Du erhältst einen Einblick in den Traum deines Ziels. Erfordert *Konzentration*, erlaubt *Aufrechterhalten*.
-<b>Probenschwierigkeit:</b> 12
-<b>Modifikationen:</b> Traumreise (nicht Nan, -4, 8 KaP; du kannst in den Traum des Schlafenden reisen.)
+
+- **Probenschwierigkeit:** 12
+- **Modifikationen:** Traumreise (nicht Nan, -4, 8 KaP; du kannst in den Traum des Schlafenden reisen.)
 Große Traumreise (nicht Nan, -8, 16 KaP; du kannst mit einigen Gefährten in den Traum reisen.)
-<b>Vorbereitungszeit:</b> 16 Aktionen
-<b>Ziel:</b> Humanoid
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 1 Stunde
-<b>Kosten:</b> 4 KaP
-<b>Fertigkeiten:</b> Einsicht, Schlaf
-<b>Erlernen:</b> Brn, Nan 12; 10 EP
-<b>Anmerkungen:</b> Als Teil ihres Moralkodex schweigen Borongeweihte über den Inhalt des Traums und lassen Mitreisende üblicherweise einen Eid schwören, dies ebenso zu tun.
+
+- **Vorbereitungszeit:** 16 Aktionen
+- **Ziel:** Humanoid
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 1 Stunde
+- **Kosten:** 4 KaP
+- **Fertigkeiten:** Einsicht, Schlaf
+- **Erlernen:** Brn, Nan 12; 10 EP
+- **Anmerkungen:** Als Teil ihres Moralkodex schweigen Borongeweihte über den Inhalt des Traums und lassen Mitreisende üblicherweise einen Eid schwören, dies ebenso zu tun.
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einsicht|Einsicht]], [[Inhalt/Fertigkeiten/Schlaf|Schlaf]]
+- **Kosten:** 10 EP

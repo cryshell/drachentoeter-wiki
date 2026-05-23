@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 200b5980-8a0c-42a9-9c3d-4937a0dc130f
+ID: b68d865e-56a4-40cc-89d4-130e1733923f
 Name: Dinge aufspüren
+title: Dinge aufspüren
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
@@ -11,11 +12,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Zibilja I
 ---
 Dein Vertrautentier teilt dir mit, in welcher Richtung sich ein Gegenstand aus deinem Besitz befindet. Der Zauber ignoriert die Bedingung Sicht.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> Objekt
-<b>Reichweite:</b> 16 Meilen
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 1 AsP
-<b>Fertigkeiten:</b> Hellsicht, Vertrautenmagie
-<b>Erlernen:</b> Geo, Hex 12; Smn (Gob), Zib 16; 10 EP
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** Objekt
+- **Reichweite:** 16 Meilen
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 1 AsP
+- **Fertigkeiten:** Hellsicht, Vertrautenmagie
+- **Erlernen:** Geo, Hex 12; Smn (Gob), Zib 16; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Vertrautenmagie|Vertrautenmagie]]
+- **Kosten:** 10 EP

@@ -1,9 +1,14 @@
 ---
 Entitätstyp: Vorteil
-ID: 85c63119-fc1d-46a3-a7b5-503790bf9fd1
+ID: b5cc0312-6386-4546-b229-46220da58306
 Name: Kulturkunde (Thorwal)
+title: Kulturkunde (Thorwal)
 Kategorie: Kulturkunde
 Nachkauf: häufig
 Kosten: 20
 ---
 Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eigenen Gebräuche haben. Kulturkunde stellt deine Kenntnis über diese Gebräuche dar. Falls eine erlernte Kultur bei einer Probe auf Darbietung, Diplomatie, Straßenkunde oder Mythenkunde relevant ist, erhältst du Vorteil auf die Probe.
+
+---
+
+- **Kosten:** 20 EP

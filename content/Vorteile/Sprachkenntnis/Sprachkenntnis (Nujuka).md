@@ -1,9 +1,14 @@
 ---
 Entitätstyp: Vorteil
-ID: d233b32e-144e-4838-98b6-a1822a87bc61
+ID: cb81e926-0a39-4329-b1cc-a5ea4548aea5
 Name: Sprachkenntnis (Nujuka)
+title: Sprachkenntnis (Nujuka)
 Kategorie: Sprachkenntnis
 Nachkauf: häufig
 Kosten: 20
 ---
 Nujuka gehört zu keiner Sprachfamilie.
+
+---
+
+- **Kosten:** 20 EP

@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 311af905-9878-4c76-9d7d-ccb67c068c5b
+ID: 9be8aa2e-3fa6-49c4-8b45-5850ae5c5f00
 Name: Segen der Heiligen Velvenya
+title: Segen der Heiligen Velvenya
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Vergessen|Vergessen]]"
@@ -10,12 +11,18 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borongeweihten I
 ---
 Mit dem Segen Borons ist dein Ziel frei von Schlafstörungen, Albträumen, Todesängsten und quälenden Erinnerungen. Es erhält Vorteil auf Gegenproben gegen *Verängstigt* und *Panisch*. 
-<b>Probenschwierigkeit:</b> 12
-<b>Modifikationen:</b> Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, 8 KaP, davon 2 gKaP)
-<b>Vorbereitungszeit:</b> 1 Stunde
-<b>Ziel:</b> Humanoid
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 1 Monat
-<b>Kosten:</b> 8 KaP
-<b>Fertigkeiten:</b> Vergessen
-<b>Erlernen:</b> Brn 14; 20 EP
+
+- **Probenschwierigkeit:** 12
+- **Modifikationen:** Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, 8 KaP, davon 2 gKaP)
+- **Vorbereitungszeit:** 1 Stunde
+- **Ziel:** Humanoid
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 1 Monat
+- **Kosten:** 8 KaP
+- **Fertigkeiten:** Vergessen
+- **Erlernen:** Brn 14; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Vergessen|Vergessen]]
+- **Kosten:** 20 EP

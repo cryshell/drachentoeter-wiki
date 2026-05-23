@@ -1,14 +1,23 @@
 ---
 Entitätstyp: Vorteil
-ID: c4068c7a-c155-472c-9f18-d95328747f15
+ID: 3d112ace-8dbc-421f-bd37-b91ee943c646
 Name: Disziplinierte Anrufung
+title: Disziplinierte Anrufung
 Kategorie: Kreis der Verdammnis
 Voraussetzungen:
-  - "Attribut KL 8"
-  - "Vorteil Paktierer I"
+  - Attribut KL 8
+  - Vorteil Paktierer I
 Querverweise:
   - "[[Inhalt/Kapitel/Kosten sparen (D)|Kosten sparen (D)]]"
 Nachkauf: häufig
 Kosten: 60
 ---
 Ermöglicht die spontane Modifikation Kosten sparen.
+
+---
+
+- **Kosten:** 60 EP
+- **Voraussetzungen:**
+  - "Attribut KL 8"
+  - "Vorteil Paktierer I"
+- **Siehe auch:** [[Inhalt/Kapitel/Kosten sparen (D)|Kosten sparen (D)]]

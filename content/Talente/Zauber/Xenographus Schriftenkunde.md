@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 8ff8cee2-d21a-4b61-b82e-c327df155fac
+ID: a0935705-825b-41e0-b854-6a8eda15477a
 Name: Xenographus Schriftenkunde
+title: Xenographus Schriftenkunde
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
@@ -10,12 +11,18 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I
 ---
 Du kannst den Sinn eines geschriebenen Satzes verstehen, auch wenn du Schrift und Sprache nicht kennst.
-<b>Hohe Qualität:</b> Verdoppelt die Anzahl der Sätze.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 8 Aktionen
-<b>Ziel:</b> Objekt
-<b>Reichweite:</b> 4 Schritt
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 4 AsP
-<b>Fertigkeiten:</b> Hellsicht
-<b>Erlernen:</b> Alch, Dil 18; Mag 20; 20 EP
+
+- **Hohe Qualität:** Verdoppelt die Anzahl der Sätze.
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 8 Aktionen
+- **Ziel:** Objekt
+- **Reichweite:** 4 Schritt
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 4 AsP
+- **Fertigkeiten:** Hellsicht
+- **Erlernen:** Alch, Dil 18; Mag 20; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]
+- **Kosten:** 20 EP

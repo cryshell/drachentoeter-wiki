@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Vorteil
-ID: ac5fb3ca-ba6f-4d92-bb34-a70ae4cee134
+ID: a1e7d854-086d-4111-9502-64ca372125ab
 Name: Bornisches Raufen
+title: Bornisches Raufen
 Kategorie: Kampf
 Voraussetzungen: Attribut KK 8
 Querverweise:
@@ -10,3 +11,9 @@ Nachkauf: häufig
 Kosten: 60
 ---
 Deine *schmutzigen Tricks* haben Vorteil.
+
+---
+
+- **Kosten:** 60 EP
+- **Voraussetzungen:** Attribut KK 8
+- **Siehe auch:** [[Inhalt/Kapitel/Schmutzige Tricks|Schmutzige Tricks]]

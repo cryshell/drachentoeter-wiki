@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 99bd5539-cd54-44e8-8e7c-63d0696212a6
+ID: f893d445-162c-47fe-a43d-f8060cbddbcd
 Name: Pfeilrune
+title: Pfeilrune
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Illusion|Illusion]]"
@@ -11,11 +12,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Runenmagier
 ---
 Die Rune wird in einem Durchmesser von 16 Fingern auf einem Wesen oder Objekt angebracht. Fernkampfangriffe gegen den Träger haben Nachteil.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 4 Stunden
-<b>Ziel:</b> passende Zauberrune
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> bis die Bindung gelöst wird
-<b>Kosten:</b> 16 AsP, davon 4 gAsP
-<b>Fertigkeiten:</b> Illusion, Zauberrunen
-<b>Erlernen:</b> Run 18; 20 EP
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 4 Stunden
+- **Ziel:** passende Zauberrune
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** bis die Bindung gelöst wird
+- **Kosten:** 16 AsP, davon 4 gAsP
+- **Fertigkeiten:** Illusion, Zauberrunen
+- **Erlernen:** Run 18; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Illusion|Illusion]], [[Inhalt/Fertigkeiten/Zauberrunen|Zauberrunen]]
+- **Kosten:** 20 EP

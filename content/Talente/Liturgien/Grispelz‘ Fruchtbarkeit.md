@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 282e525d-6219-41f2-8bbc-422ef83bcaf7
+ID: 27525d3d-196f-47df-90a8-2a79f9f420b2
 Name: Grispelz‘ Fruchtbarkeit
+title: Grispelz‘ Fruchtbarkeit
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Hilfe der Sippe|Hilfe der Sippe]]"
@@ -10,5 +11,11 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Himmelswölfegeweihten I
 ---
 $talent:Tsas Fruchtbarkeit$
-<b>Fertigkeiten:</b> Hilfe der Sippe
-<b>Erlernen:</b> Him 12; 0 EP
+
+- **Fertigkeiten:** Hilfe der Sippe
+- **Erlernen:** Him 12; 0 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hilfe der Sippe|Hilfe der Sippe]]
+- **Kosten:** 0 EP

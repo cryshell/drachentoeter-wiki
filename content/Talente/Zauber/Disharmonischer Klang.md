@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: b286ee0a-9f98-471c-8062-88a7389c560d
+ID: f5b839df-02c9-4793-9475-97010ae878b2
 Name: Disharmonischer Klang
+title: Disharmonischer Klang
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Antimagie|Antimagie]]"
@@ -12,12 +13,18 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zauberbarden I
 ---
 Der Klang stört einen anderen Zauberer während dessen Zaubervorbereitung. Das Ziel muss eine MU-Probe (16) ablegen, um den Zauber fortzusetzen.
-<b>Hohe Qualität:</b> Erhöht die Schwierigkeit der Probe um 4.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> Humanoid
-<b>Reichweite:</b> 8 Schritt
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 4 AsP
-<b>Fertigkeiten:</b> Antimagie, Einfluss, Zaubermelodien
-<b>Erlernen:</b> Bard 18; 20 EP
+
+- **Hohe Qualität:** Erhöht die Schwierigkeit der Probe um 4.
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** Humanoid
+- **Reichweite:** 8 Schritt
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 4 AsP
+- **Fertigkeiten:** Antimagie, Einfluss, Zaubermelodien
+- **Erlernen:** Bard 18; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Antimagie|Antimagie]], [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]
+- **Kosten:** 20 EP

@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 92fc8634-fc8a-42c6-98b4-5258a6d3a3a8
+ID: 8a97925b-e2b4-4d78-889e-473c27946027
 Name: Fluch des Siechtums
+title: Fluch des Siechtums
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
@@ -11,5 +12,11 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Waldmenschen) I
 ---
 $talent:Fluch der Pestilenz$
-<b>Fertigkeiten:</b> Dämonisch, Geister des Zorns
-<b>Erlernen:</b> Smn (Wal) 14; 20 EP
+
+- **Fertigkeiten:** Dämonisch, Geister des Zorns
+- **Erlernen:** Smn (Wal) 14; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]], [[Inhalt/Fertigkeiten/Geister des Zorns|Geister des Zorns]]
+- **Kosten:** 20 EP

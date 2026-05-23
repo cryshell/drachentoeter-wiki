@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: b50e27d8-207a-407e-959c-16940d0e77bf
+ID: d5fe3ae1-0ed5-4dab-a9e8-8a88db3df3d7
 Name: Körperbeherrschung
+title: Körperbeherrschung
 Kategorie: Profan
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Athletik|Athletik]]"
@@ -9,3 +10,8 @@ Kosten: 40
 Spezialisierbar: 1
 ---
 Körperbeherrschung wird für gewagte Kunststücke und Balanceakte verwendet und kann auch den Fallschaden reduzieren.
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Athletik|Athletik]]
+- **Kosten:** 40 EP

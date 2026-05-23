@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 368bd7f5-cda0-4825-bed1-50a8fc0f7ab3
+ID: a5bb30d8-8bbd-4085-99a5-5cb1dd340f9c
 Name: "Schlangenbund: Tarnung"
+title: "Schlangenbund: Tarnung"
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Schlangenbund|Schlangenbund]]"
@@ -10,11 +11,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der H’Szintgeweihten I
 ---
 Dein Vertrautentier erhält die Eigenschaft Tarnung (kein Malus durch ein fehlendes Versteck bei Pirschen und Untertauchen). Erlaubt *Aufrechterhalten*.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> selbst
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 1 Stunde
-<b>Kosten:</b> 1 KaP
-<b>Fertigkeiten:</b> Schlangenbund
-<b>Erlernen:</b> Hsz 14; 10 EP
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** selbst
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 1 Stunde
+- **Kosten:** 1 KaP
+- **Fertigkeiten:** Schlangenbund
+- **Erlernen:** Hsz 14; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schlangenbund|Schlangenbund]]
+- **Kosten:** 10 EP

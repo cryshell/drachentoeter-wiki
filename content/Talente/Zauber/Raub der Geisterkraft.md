@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 485b62e8-57f9-4762-9a80-b4f37bd888bf
+ID: c49c3c4e-1f84-4694-ae4d-41d89a09c35c
 Name: Raub der Geisterkraft
+title: Raub der Geisterkraft
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]"
@@ -12,5 +13,11 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Orks) I ODER Vorteil Tradition der Schamanen (Trollzacker) I
 ---
 $talent:Magischer Raub$
-<b>Fertigkeiten:</b> Geister rufen, Kraft, Verständigung
-<b>Erlernen:</b> Smn (Fer, Ork, Tro) 16; 20 EP
+
+- **Fertigkeiten:** Geister rufen, Kraft, Verständigung
+- **Erlernen:** Smn (Fer, Ork, Tro) 16; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]], [[Inhalt/Fertigkeiten/Kraft|Kraft]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
+- **Kosten:** 20 EP

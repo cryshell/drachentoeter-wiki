@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 2753df93-cde7-4688-921e-52f66938579d
+ID: 263c65da-b3bf-4e7b-8654-3bda42d57527
 Name: Sechs Leben des Mungo
+title: Sechs Leben des Mungo
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Nächtlicher Schatten|Nächtlicher Schatten]]"
@@ -10,11 +11,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Phexgeweihten I
 ---
 Halbiert die effektive Höhe eines Sturzes kumulativ zur Körperbeherrschungs-Probe. *Reaktive* Liturgie (wenn du stürzt).
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> selbst
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 16 Züge
-<b>Kosten:</b> 4 KaP
-<b>Fertigkeiten:</b> Nächtlicher Schatten
-<b>Erlernen:</b> Phe 12; 20 EP
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** selbst
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 16 Züge
+- **Kosten:** 4 KaP
+- **Fertigkeiten:** Nächtlicher Schatten
+- **Erlernen:** Phe 12; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Nächtlicher Schatten|Nächtlicher Schatten]]
+- **Kosten:** 20 EP

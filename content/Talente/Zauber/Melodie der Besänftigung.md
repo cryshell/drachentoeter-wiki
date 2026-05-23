@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: a374a987-68f6-499c-8af9-7c2c94c67f85
+ID: 67559d66-bafc-4c86-99cf-396b94c9ab1d
 Name: Melodie der Besänftigung
+title: Melodie der Besänftigung
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
@@ -11,11 +12,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zauberbarden I
 ---
 Die Melodie besänftigt Tiere, die sich während der Wirkungsdauer in einem Radius von 32 Schritt befinden. Wenn ihnen eine Magieresistenz-Gegenprobe misslingt, verlieren sie ihre Angriffslust, solange sie nicht angegriffen oder gereizt werden. Erfordert *Konzentration*, erlaubt *Aufrechterhalten*.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 1 Aktion
-<b>Ziel:</b> Zone
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 4 Minuten
-<b>Kosten:</b> 8 AsP
-<b>Fertigkeiten:</b> Einfluss, Zaubermelodien
-<b>Erlernen:</b> Bard 16; 10 EP
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 1 Aktion
+- **Ziel:** Zone
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 4 Minuten
+- **Kosten:** 8 AsP
+- **Fertigkeiten:** Einfluss, Zaubermelodien
+- **Erlernen:** Bard 16; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]
+- **Kosten:** 10 EP

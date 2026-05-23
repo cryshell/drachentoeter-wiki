@@ -1,17 +1,24 @@
 ---
 Entitätstyp: Talent
-ID: b723ab89-7a5d-4064-aebe-351c5c329404
+ID: 06899ddb-9769-4b5a-a70e-f67a0ad1299c
 Name: Trocken
+title: Trocken
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
 Kosten: 5
 ---
 Du und deine Kleidung werdet prophylaktisch von leichter Nässe verschont (z.B. bei Regen).
-<b>Probenschwierigkeit:</b> keine Probe
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> selbst
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 4 Minuten
-<b>Kosten:</b> 1 AsP
-<b>Fertigkeiten:</b> Feuer, Umwelt, Wasser
+
+- **Probenschwierigkeit:** keine Probe
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** selbst
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 4 Minuten
+- **Kosten:** 1 AsP
+- **Fertigkeiten:** Feuer, Umwelt, Wasser
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
+- **Kosten:** 5 EP

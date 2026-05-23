@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: df8575d6-8611-487d-9fce-dc63803950de
+ID: 5d0ad428-3661-4161-b648-a47c240ec5d6
 Name: Zungenschwellung
+title: Zungenschwellung
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
@@ -11,11 +12,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hexen I
 ---
 Es fällt dem Ziel schwer, artikuliert zu sprechen. Die Zuhörer müssen eine IN-Gegenprobe ablegen, um den Sprecher zu verstehen. Laut gesprochene oder gesungene Zauberformeln sind dadurch unmöglich.
-<b>Probenschwierigkeit:</b> Magieresistenz
-<b>Vorbereitungszeit:</b> 4 Aktionen
-<b>Ziel:</b> Humanoid
-<b>Reichweite:</b> 8 Schritt
-<b>Wirkungsdauer:</b> 1 Tag
-<b>Kosten:</b> 8 AsP
-<b>Fertigkeiten:</b> Eigenschaften, Hexenflüche
-<b>Erlernen:</b> Hex 16; 10 EP
+
+- **Probenschwierigkeit:** Magieresistenz
+- **Vorbereitungszeit:** 4 Aktionen
+- **Ziel:** Humanoid
+- **Reichweite:** 8 Schritt
+- **Wirkungsdauer:** 1 Tag
+- **Kosten:** 8 AsP
+- **Fertigkeiten:** Eigenschaften, Hexenflüche
+- **Erlernen:** Hex 16; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Hexenflüche|Hexenflüche]]
+- **Kosten:** 10 EP

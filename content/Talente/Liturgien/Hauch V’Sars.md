@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 20d0c128-4266-4e10-aeb0-9a11fd3ace36
+ID: 99f2787b-740e-491b-ba71-f4f3421e803c
 Name: Hauch V’Sars
+title: Hauch V’Sars
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Nacht|Nacht]]"
@@ -10,5 +11,11 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der V’Sargeweihten I
 ---
 $talent:Hauch Borons$
-<b>Fertigkeiten:</b> Nacht
-<b>Erlernen:</b> Vsa 14; 20 EP
+
+- **Fertigkeiten:** Nacht
+- **Erlernen:** Vsa 14; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Nacht|Nacht]]
+- **Kosten:** 20 EP

@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: b8de4092-94db-42ca-8faa-4643d690291a
+ID: 292a0dbe-946e-4024-9f39-6770cb21e29b
 Name: Hexenblick (Dämonisch)
+title: Hexenblick (Dämonisch)
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
@@ -11,5 +12,11 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borbaradianer I
 ---
 $talent:Hexenblick$
-<b>Fertigkeiten:</b> Dämonisch (nur Bor), Verständigung
-<b>Erlernen:</b> Hex 8; Bor 18; 10 EP
+
+- **Fertigkeiten:** Dämonisch (nur Bor), Verständigung
+- **Erlernen:** Hex 8; Bor 18; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
+- **Kosten:** 10 EP

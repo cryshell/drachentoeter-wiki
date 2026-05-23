@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 77ed7edd-6538-48e2-9ee7-fbc0ba765693
+ID: c24c1509-b5b2-47de-8824-3045e6c2a06b
 Name: Mächtige Schwingen
+title: Mächtige Schwingen
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Herr des Himmels|Herr des Himmels]]"
@@ -10,5 +11,11 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Chr’Ssir’Ssrgeweihten I
 ---
 $talent:Tharvuns Schwingen$
-<b>Fertigkeiten:</b> Herr des Himmels
-<b>Erlernen:</b> Chr 16; 10 EP
+
+- **Fertigkeiten:** Herr des Himmels
+- **Erlernen:** Chr 16; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Herr des Himmels|Herr des Himmels]]
+- **Kosten:** 10 EP

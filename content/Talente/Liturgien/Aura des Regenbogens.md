@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 107c54cc-1d53-440c-a634-ddad5f4315ee
+ID: 9b0e02f0-0027-4813-8a8d-eb8fb1b4ed3b
 Name: Aura des Regenbogens
+title: Aura des Regenbogens
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Friede|Friede]]"
@@ -10,12 +11,18 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Tsageweihten I
 ---
 Ein Regenbogen erzeugt in einem Radius von 4 Schritt *helles Licht* und in 4 weiteren Schritt *schwaches Licht*. Der gesamte Bereich gilt als geweihter Boden und Chimären sind diesem gegenüber *verängstigt*. Erlaubt *Aufrechterhalten*.
-<b>Hohe Qualität:</b> Mit zwei Stufen gilt der Boden als heilig.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 16 Aktionen
-<b>Ziel:</b> Zone
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 1 Stunde
-<b>Kosten:</b> 16 KaP
-<b>Fertigkeiten:</b> Friede
-<b>Erlernen:</b> Tsa 18; 20 EP
+
+- **Hohe Qualität:** Mit zwei Stufen gilt der Boden als heilig.
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 16 Aktionen
+- **Ziel:** Zone
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 1 Stunde
+- **Kosten:** 16 KaP
+- **Fertigkeiten:** Friede
+- **Erlernen:** Tsa 18; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Friede|Friede]]
+- **Kosten:** 20 EP

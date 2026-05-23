@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 1b27825f-6b1e-41c2-8325-8f7124ba7c87
+ID: 8d731dcc-7cbb-4148-91d2-7f84dcb766cb
 Name: Schlaf rauben
+title: Schlaf rauben
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
@@ -11,11 +12,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hexen I
 ---
 Das von deinem Vertrautentier beobachtete Opfer regeneriert in dieser Nacht keine AsP oder Wunden. Stattdessen erscheint ihm das Vertrautentier in fürchterlichen Albträumen.
-<b>Probenschwierigkeit:</b> Magieresistenz
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> Humanoid
-<b>Reichweite:</b> 16 Schritt
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 1 AsP
-<b>Fertigkeiten:</b> Einfluss, Vertrautenmagie
-<b>Erlernen:</b> Hex 16; 10 EP
+
+- **Probenschwierigkeit:** Magieresistenz
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** Humanoid
+- **Reichweite:** 16 Schritt
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 1 AsP
+- **Fertigkeiten:** Einfluss, Vertrautenmagie
+- **Erlernen:** Hex 16; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Vertrautenmagie|Vertrautenmagie]]
+- **Kosten:** 10 EP

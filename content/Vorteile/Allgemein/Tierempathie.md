@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Vorteil
-ID: b4aef589-47d8-4da5-981d-092206ec8e33
+ID: 02b8f347-46ee-416e-9b5b-407a19e65bc7
 Name: Tierempathie
+title: Tierempathie
 Kategorie: Allgemein
 Querverweise:
   - "[[Inhalt/Talente/Profan/Naturkunde/Tierkunde|Tierkunde]]"
@@ -12,3 +13,8 @@ Du kannst das Talent Tierkunde verwenden, um die Gedanken von Tieren zu verstehe
 - Flugtiere (60 EP)
 - Landtiere (60 EP)
 - Wassertiere (40 EP)
+
+---
+
+- **Kosten:** 60 EP
+- **Siehe auch:** [[Inhalt/Talente/Profan/Naturkunde/Tierkunde|Tierkunde]]

@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: a469d294-b7d4-46fa-8e4c-7512f0522417
+ID: 1b2c08b7-79c3-476a-85c1-932243980b94
 Name: Tanz der Wacht
+title: Tanz der Wacht
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]]"
@@ -11,11 +12,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zaubertänzer I
 ---
 Bei diesem Tanz schreitest du eine Zone von 16 Schritt Radius ab. Jeder der die Zone nachträglich betreten will, kann das nur nach einer gelungenen MU-Gegenprobe. Sollte jemand die Zone betreten, nimmst du dies intuitiv wahr.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 4 Minuten
-<b>Ziel:</b> Zone
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 8 Stunden
-<b>Kosten:</b> 16 AsP
-<b>Fertigkeiten:</b> Zaubertänze, Einfluss
-<b>Erlernen:</b> Ztz 16; 10 EP
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 4 Minuten
+- **Ziel:** Zone
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 8 Stunden
+- **Kosten:** 16 AsP
+- **Fertigkeiten:** Zaubertänze, Einfluss
+- **Erlernen:** Ztz 16; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]], [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
+- **Kosten:** 10 EP

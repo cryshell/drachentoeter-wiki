@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 337b1940-5b13-4d13-8918-2cc1e76116a4
+ID: 55910932-8323-4d7a-93c4-20e6a0f5ed0c
 Name: Lähmende Furcht
+title: Lähmende Furcht
 Kategorie: Anrufungen
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Anrufung Belhalhars|Anrufung Belhalhars]]"
@@ -9,11 +10,17 @@ Kosten: 20
 Spezialisierbar: 1
 ---
 Du erscheinst jedem, der dich sehen kann als ein Wesen mit Schreckgestalt (Anrufungs-EW).
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 2 Aktionen
-<b>Ziel:</b> selbst
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 16 Züge
-<b>Kosten:</b> 4 GuP
-<b>Fertigkeiten:</b> Anrufung Belhalhars
-<b>Erlernen:</b> Blh 8; 20 EP
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 2 Aktionen
+- **Ziel:** selbst
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 16 Züge
+- **Kosten:** 4 GuP
+- **Fertigkeiten:** Anrufung Belhalhars
+- **Erlernen:** Blh 8; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Belhalhars|Anrufung Belhalhars]]
+- **Kosten:** 20 EP

@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: fa22b2b0-6e66-496b-9209-d619a92e4528
+ID: cccab759-1950-4ec2-a9bf-1ad7607f4390
 Name: Goldener Blick
+title: Goldener Blick
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Heiliges Erz|Heiliges Erz]]"
@@ -10,12 +11,18 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Graveshgeweihten I
 ---
 Du erspürst die Gegenwart und die genaue Lage von unverarbeiteten Bodenschätzen, etwa Edelsteine oder Erzadern, in einem Radius von 32 Schritt.
-<b>Hohe Qualität:</b> Verdoppelt den Radius.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 16 Aktionen
-<b>Ziel:</b> selbst
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 8 KaP
-<b>Fertigkeiten:</b> Heiliges Erz
-<b>Erlernen:</b> Ang 16; Gra, Ing 18; 10 EP
+
+- **Hohe Qualität:** Verdoppelt den Radius.
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 16 Aktionen
+- **Ziel:** selbst
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 8 KaP
+- **Fertigkeiten:** Heiliges Erz
+- **Erlernen:** Ang 16; Gra, Ing 18; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heiliges Erz|Heiliges Erz]]
+- **Kosten:** 10 EP

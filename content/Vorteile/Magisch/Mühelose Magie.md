@@ -1,12 +1,20 @@
 ---
 Entitätstyp: Vorteil
-ID: 25ea3fdc-b3fe-4da8-89cc-bdada8a7fc83
+ID: 40a1c3ff-2c91-4f8d-8551-6c2fa29305a7
 Name: Mühelose Magie
+title: Mühelose Magie
 Kategorie: Magisch
 Voraussetzungen:
-  - "Vorteil Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I"
-  - "Attribut IN 8"
+  - Vorteil Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I
+  - Attribut IN 8
 Nachkauf: häufig
 Kosten: 60
 ---
 Zeigt der gewertete Würfel bei einem Zauber eine 16 oder höher, erhält der Zauber eine zusätzliche Stufe Hohe Qualität. Außerdem erhältst du die Hälfte der AsP zurück, die du für den Zauber bezahlt hast.
+
+---
+
+- **Kosten:** 60 EP
+- **Voraussetzungen:**
+  - "Vorteil Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I"
+  - "Attribut IN 8"

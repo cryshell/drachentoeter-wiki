@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 593be686-ab09-45e1-b6c5-5334fa769a0b
+ID: 32a212d7-a3ae-45f7-b143-1dad89e97a38
 Name: Sinesigill Unerkannt
+title: Sinesigill Unerkannt
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Antimagie|Antimagie]]"
@@ -11,12 +12,18 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
 ---
 Während der Wirkungsdauer ist dein Gildensiegel von einer *Illusion* (Sicht) verdeckt und auch vor ungezielter Hellsicht verborgen. Erlaubt *Aufrechterhalten*.
-<b>Probenschwierigkeit:</b> 12
-<b>Modifikationen:</b> Fremde Hand (-4, Humanoid)
-<b>Vorbereitungszeit:</b> 16 Aktionen
-<b>Ziel:</b> selbst
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 8 Stunden
-<b>Kosten:</b> 4 AsP
-<b>Fertigkeiten:</b> Antimagie, Illusion
-<b>Erlernen:</b> Mag 20; 10 EP
+
+- **Probenschwierigkeit:** 12
+- **Modifikationen:** Fremde Hand (-4, Humanoid)
+- **Vorbereitungszeit:** 16 Aktionen
+- **Ziel:** selbst
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 8 Stunden
+- **Kosten:** 4 AsP
+- **Fertigkeiten:** Antimagie, Illusion
+- **Erlernen:** Mag 20; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Antimagie|Antimagie]], [[Inhalt/Fertigkeiten/Illusion|Illusion]]
+- **Kosten:** 10 EP

@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 17f7176f-f013-4753-be33-f6835675bb2f
+ID: 7422c768-f1cc-4659-bffa-60357edaaff0
 Name: Xenographus Schriftenkunde (Tiergeist)
+title: Xenographus Schriftenkunde (Tiergeist)
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]]"
@@ -11,3 +12,8 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tiergeist (Elefant)
 ---
 $talent:Xenographus Schriftenkunde$
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]], [[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]
+- **Kosten:** 20 EP

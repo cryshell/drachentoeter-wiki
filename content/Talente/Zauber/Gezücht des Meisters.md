@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 124f87bf-5237-455c-baae-4534e505f579
+ID: b7ed2d6d-359c-4b27-b67e-efc2f94f6080
 Name: Gezücht des Meisters
+title: Gezücht des Meisters
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
@@ -12,11 +13,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I
 ---
 Das Zeichen wird in einem Durchmesser von 16 Fingern auf einer beliebigen Fläche angebracht. Beim handwerklichen Erstellen des Zeichens wird eine Tierart festgelegt. Die Glyphe bindet ein einzelnes Tier dieser Art an sich, sobald sich eines in einem Radius von 4 Schritt befindet und ihm eine Magieresistenz-Gegenprobe misslingt. Es fällt dann in einen magischen Schlaf, in dem es weder Nahrung noch Sauerstoff braucht. Betritt dann ein Wesen den 4 Schritt Radius, so erwacht das Tier und greift den Eindringling an. Die Werte des Tieres können gemäß den Beschwörungsregeln mit zusätzlichen Fähigkeiten verbessert werden. *Ortsgebundenes* Zeichen. 
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 8 Minuten
-<b>Ziel:</b> passendes Zauberzeichen
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 1 Woche
-<b>Kosten:</b> 16 AsP
-<b>Fertigkeiten:</b> Einfluss, Temporal, Zauberzeichen
-<b>Erlernen:</b> Ach, Mag 20; 20 EP
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 8 Minuten
+- **Ziel:** passendes Zauberzeichen
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 1 Woche
+- **Kosten:** 16 AsP
+- **Fertigkeiten:** Einfluss, Temporal, Zauberzeichen
+- **Erlernen:** Ach, Mag 20; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Temporal|Temporal]], [[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]
+- **Kosten:** 20 EP

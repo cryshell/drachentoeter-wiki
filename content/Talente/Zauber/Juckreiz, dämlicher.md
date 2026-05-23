@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: c027f1bb-28ca-4a7f-8bfe-3bf0ef7ebf74
+ID: 5a081470-f51e-436a-b078-f474fd921817
 Name: "Juckreiz, dämlicher!"
+title: "Juckreiz, dämlicher!"
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
@@ -10,11 +11,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schelme I
 ---
 Die Person mit der niedrigsten KL im Radius von 8 Schritt wird von einem heftigen Juckreiz befallen, insbesondere dort, wo sie sich nicht kratzen kann. Dadurch kann sie sich schlecht konzentrieren und ist *verwirrt*.
-<b>Probenschwierigkeit:</b> Magieresistenz
-<b>Vorbereitungszeit:</b> 2 Aktionen
-<b>Ziel:</b> Zone
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 16 Minuten
-<b>Kosten:</b> 4 AsP
-<b>Fertigkeiten:</b> Einfluss
-<b>Erlernen:</b> Sch 18; 10 EP
+
+- **Probenschwierigkeit:** Magieresistenz
+- **Vorbereitungszeit:** 2 Aktionen
+- **Ziel:** Zone
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 16 Minuten
+- **Kosten:** 4 AsP
+- **Fertigkeiten:** Einfluss
+- **Erlernen:** Sch 18; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
+- **Kosten:** 10 EP

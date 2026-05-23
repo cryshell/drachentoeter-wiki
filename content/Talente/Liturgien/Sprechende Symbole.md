@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: ad3abde6-b1c1-445a-bd96-4355ab0c15a5
+ID: c0dfeb8b-5252-42e4-8da2-9857f846956d
 Name: Sprechende Symbole
+title: Sprechende Symbole
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Wissen|Wissen]]"
@@ -10,12 +11,18 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Nandusgeweihten I
 ---
 Du erhältst einen groben Eindruck über die Bedeutung eines Symbols.
-<b>Hohe Qualität:</b> Für je 2 Stufen erhältst du einen guten/vollständigen Eindruck.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 4 Minuten
-<b>Ziel:</b> selbst
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 4 KaP
-<b>Fertigkeiten:</b> Wissen
-<b>Erlernen:</b> Hes, Nan 12; 10 EP
+
+- **Hohe Qualität:** Für je 2 Stufen erhältst du einen guten/vollständigen Eindruck.
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 4 Minuten
+- **Ziel:** selbst
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 4 KaP
+- **Fertigkeiten:** Wissen
+- **Erlernen:** Hes, Nan 12; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wissen|Wissen]]
+- **Kosten:** 10 EP

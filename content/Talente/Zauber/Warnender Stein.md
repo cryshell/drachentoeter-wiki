@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 840c1638-c0e0-4a22-a469-ce27fd2750dd
+ID: 73b3a432-2017-4473-a56d-a5751e41fba0
 Name: Warnender Stein
+title: Warnender Stein
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
@@ -11,11 +12,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I
 ---
 Der Kristall leuchtet auf, falls sich eine feindlich gesinnte Person in weniger als 16 Schritt Entfernung befindet und ihr eine Magieresistenz-Gegenprobe misslingt.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 4 Aktionen
-<b>Ziel:</b> gebundener Kristall
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 1 Stunde
-<b>Kosten:</b> 4 AsP
-<b>Fertigkeiten:</b> Hellsicht, Kristallmagie
-<b>Erlernen:</b> Ach 16; 20 EP
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 4 Aktionen
+- **Ziel:** gebundener Kristall
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 1 Stunde
+- **Kosten:** 4 AsP
+- **Fertigkeiten:** Hellsicht, Kristallmagie
+- **Erlernen:** Ach 16; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]
+- **Kosten:** 20 EP

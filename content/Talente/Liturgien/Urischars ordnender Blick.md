@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 96cd6724-4d22-471a-a924-be8656a88558
+ID: b52a3d32-4790-4fda-b08c-c52ee9b8ebaa
 Name: Urischars ordnender Blick
+title: Urischars ordnender Blick
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Einsicht|Einsicht]]"
@@ -11,12 +12,18 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Praiosgeweihten I
 ---
 Du siehst die verborgene Ordnung im Chaos: Du findest Bücher der gleichen Fachrichtung in einer Bibliothek, Gegenstände des gleichen Vorbesitzers beim Hehler, und das Muster in der Einbruchsliste der Stadtgarde. Entsprechende Proben haben Vorteil.
-<b>Hohe Qualität:</b> Für 2 Stufen haben die Proben legendären Vorteil.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 4 Minuten
-<b>Ziel:</b> selbst
-<b>Reichweite:</b> 8 Schritt
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 8 KaP
-<b>Fertigkeiten:</b> Einsicht, Ordnung
-<b>Erlernen:</b> Pra 12, Nan 16; 10 EP
+
+- **Hohe Qualität:** Für 2 Stufen haben die Proben legendären Vorteil.
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 4 Minuten
+- **Ziel:** selbst
+- **Reichweite:** 8 Schritt
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 8 KaP
+- **Fertigkeiten:** Einsicht, Ordnung
+- **Erlernen:** Pra 12, Nan 16; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einsicht|Einsicht]], [[Inhalt/Fertigkeiten/Ordnung|Ordnung]]
+- **Kosten:** 10 EP

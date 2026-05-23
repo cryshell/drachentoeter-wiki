@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 18f7145d-b9d5-4c46-abe0-b252581e23ac
+ID: 64bb5a84-d420-4863-9e69-0228070a0433
 Name: Grispelz’ Ackersegen
+title: Grispelz’ Ackersegen
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Hilfe der Sippe|Hilfe der Sippe]]"
@@ -10,5 +11,11 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Himmelswölfegeweihten I
 ---
 $talent:Dreifacher Saatsegen$
-<b>Fertigkeiten:</b> Hilfe der Sippe
-<b>Erlernen:</b> Him 8; 0 EP
+
+- **Fertigkeiten:** Hilfe der Sippe
+- **Erlernen:** Him 8; 0 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hilfe der Sippe|Hilfe der Sippe]]
+- **Kosten:** 0 EP

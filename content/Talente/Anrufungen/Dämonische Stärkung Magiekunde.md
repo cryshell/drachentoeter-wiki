@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 47eea51a-8788-49e2-9c95-ab38e0f20075
+ID: b6d51d4b-33e5-45f7-bb71-b5b63c30d786
 Name: "Dämonische Stärkung: Magiekunde"
+title: "Dämonische Stärkung: Magiekunde"
 Kategorie: Anrufungen
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Anrufung Thargunitoths|Anrufung Thargunitoths]]"
@@ -12,13 +13,20 @@ Kosten: 10
 Spezialisierbar: 1
 ---
 Deine nächste Probe auf Magiekunde ist um +4 Punkte erleichtert.
-<b>Hohe Qualität:</b> Erhöht die Erleichterung um +2.
-<b>Probenschwierigkeit:</b> 12
-<b>Modifikationen:</b> Intervention (-8; *Reaktive* Anrufung (beliebiges Ereignis). Hohe Qualität ist nicht möglich.)
+
+- **Hohe Qualität:** Erhöht die Erleichterung um +2.
+- **Probenschwierigkeit:** 12
+- **Modifikationen:** Intervention (-8; *Reaktive* Anrufung (beliebiges Ereignis). Hohe Qualität ist nicht möglich.)
 Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion ausführen. Hohe Qualität ist nicht möglich.)
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> selbst
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 4 Minuten
-<b>Kosten:</b> 4 GuP
-<b>Erlernen:</b> 10 EP
+
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** selbst
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 4 Minuten
+- **Kosten:** 4 GuP
+- **Erlernen:** 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Thargunitoths|Anrufung Thargunitoths]], [[Inhalt/Fertigkeiten/Anrufung Amazeroths|Anrufung Amazeroths]], [[Inhalt/Fertigkeiten/Anrufung Asfaloths|Anrufung Asfaloths]], [[Inhalt/Fertigkeiten/Anrufung Heskatets|Anrufung Heskatets]]
+- **Kosten:** 10 EP

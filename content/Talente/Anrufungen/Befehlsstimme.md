@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 3cf0064c-1041-4c8e-9485-a7bee1d71f7a
+ID: 920cbbd1-7d98-4ad7-a930-3c4f5aabfc76
 Name: Befehlsstimme
+title: Befehlsstimme
 Kategorie: Anrufungen
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Anrufung Belhalhars|Anrufung Belhalhars]]"
@@ -9,12 +10,18 @@ Kosten: 20
 Spezialisierbar: 1
 ---
 Deine Stimme ist bis zu 64 Schritt weit zu hören, egal wie laut es in der Umgebung ist. Proben auf Anführen haben Vorteil. Erlaubt *Aufrechterhalten*.
-<b>Hohe Qualität:</b> Verdoppelt die Reichweite. Für 2 Stufen haben die Proben zudem legendären Vorteil.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 1 Aktion
-<b>Ziel:</b> selbst
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 1 Stunde
-<b>Kosten:</b> 4 GuP
-<b>Fertigkeiten:</b> Anrufung Belhalhars
-<b>Erlernen:</b> Blh 8; 20 EP
+
+- **Hohe Qualität:** Verdoppelt die Reichweite. Für 2 Stufen haben die Proben zudem legendären Vorteil.
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 1 Aktion
+- **Ziel:** selbst
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 1 Stunde
+- **Kosten:** 4 GuP
+- **Fertigkeiten:** Anrufung Belhalhars
+- **Erlernen:** Blh 8; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Belhalhars|Anrufung Belhalhars]]
+- **Kosten:** 20 EP

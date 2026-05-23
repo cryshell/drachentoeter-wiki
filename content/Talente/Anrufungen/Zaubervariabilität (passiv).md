@@ -1,11 +1,18 @@
 ---
 Entitätstyp: Talent
-ID: a9eee8ca-5835-4bd9-b725-35cc761493e6
+ID: b9bc77ea-a4d0-4e71-964c-a99d966f4d86
 Name: Zaubervariabilität (passiv)
+title: Zaubervariabilität (passiv)
 Kategorie: Anrufungen
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Anrufung Amazeroths|Anrufung Amazeroths]]"
 Kosten: 80
 ---
 Die Erschwernis von Basismodifikationen für Zauber wird halbiert.
-<b>Erlernen:</b> Amz 12; 80 EP
+
+- **Erlernen:** Amz 12; 80 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Amazeroths|Anrufung Amazeroths]]
+- **Kosten:** 80 EP

@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 10ba16d1-1fa8-4149-8b82-700d5ad794b8
+ID: 75d48171-afa6-4494-b139-06b05f9b4420
 Name: Opferkeule (passiv)
+title: Opferkeule (passiv)
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Keulenrituale|Keulenrituale]]"
@@ -9,5 +10,11 @@ Kosten: 20
 Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
 ---
 $talent:Opferdolch (passiv)$
-<b>Erlernen:</b> Smn (alle) 18; 20 EP
-<b>Anmerkung:</b> Finstere Schamanen hüten Varianten dieses Rituals, deren Wirkung nicht auf Tiere beschränkt ist.
+
+- **Erlernen:** Smn (alle) 18; 20 EP
+- **Anmerkung:** Finstere Schamanen hüten Varianten dieses Rituals, deren Wirkung nicht auf Tiere beschränkt ist.
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Keulenrituale|Keulenrituale]]
+- **Kosten:** 20 EP

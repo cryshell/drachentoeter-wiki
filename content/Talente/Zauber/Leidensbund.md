@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: d01fa37b-91f7-4ca8-8d52-054ee256b384
+ID: 9804bc99-b9e8-4839-a20d-b7d7ce985964
 Name: Leidensbund
+title: Leidensbund
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
@@ -11,15 +12,22 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I
 ---
 Du übernimmst 2 Wunden von deinem Ziel.
-<b>Hohe Qualität:</b> Du kannst 1 weitere Wunde übernehmen.
-<b>Probenschwierigkeit:</b> 12
-<b>Modifikationen:</b> Heilender Dritter (-4, zwei Humanoide; du überträgst die Wunden von einem Ziel auf ein freiwilliges anderes.)
-<b>Varianten:</b> Krankheitsbund (Probenschwierigkeit Krankheitsstufe; du übernimmst die Krankheit deines Ziels.)
+
+- **Hohe Qualität:** Du kannst 1 weitere Wunde übernehmen.
+- **Probenschwierigkeit:** 12
+- **Modifikationen:** Heilender Dritter (-4, zwei Humanoide; du überträgst die Wunden von einem Ziel auf ein freiwilliges anderes.)
+- **Varianten:** Krankheitsbund (Probenschwierigkeit Krankheitsstufe; du übernimmst die Krankheit deines Ziels.)
 Giftbund (Probenschwierigkeit Giftstufe; du übernimmst das Gift von deinem Ziel.)
-<b>Vorbereitungszeit:</b> 4 Minuten
-<b>Ziel:</b> Humanoid
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 4 AsP
-<b>Fertigkeiten:</b> Dämonisch (nur Bor), Humus, Verständigung
-<b>Erlernen:</b> Ach 18; Bor, Hex 20; 20 EP
+
+- **Vorbereitungszeit:** 4 Minuten
+- **Ziel:** Humanoid
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 4 AsP
+- **Fertigkeiten:** Dämonisch (nur Bor), Humus, Verständigung
+- **Erlernen:** Ach 18; Bor, Hex 20; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Humus|Humus]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
+- **Kosten:** 20 EP

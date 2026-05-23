@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Vorteil
-ID: 0e14faa4-5b0e-41a0-81f9-a9cc2a327276
+ID: faa43a82-cdaf-48bb-b756-044af40a7cbe
 Name: Astrale Regeneration II
+title: Astrale Regeneration II
 Kategorie: Magisch
 Voraussetzungen: Vorteil Astrale Regeneration I
 Querverweise:
@@ -10,3 +11,9 @@ Nachkauf: häufig
 Kosten: 20
 ---
 Du regenerierst 1 zusätzliche AsP pro *langer Rast*.
+
+---
+
+- **Kosten:** 20 EP
+- **Voraussetzungen:** Vorteil Astrale Regeneration I
+- **Siehe auch:** [[Inhalt/Kapitel/Regeneration|Regeneration]]

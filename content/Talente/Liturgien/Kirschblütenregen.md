@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 4647bbb1-09b9-45b7-a59a-3d7a48ddd250
+ID: fd6060f8-163d-4efa-9594-d7ab9f5dbb3b
 Name: Kirschblütenregen
+title: Kirschblütenregen
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Friede|Friede]]"
@@ -10,13 +11,19 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Tsageweihten I
 ---
 In einem Radius von 16 Schritt regnen unzählige Kirschblüten herab. Diese sorgen für eine *schlechte Sicht* und werden nicht von Wind beeinflusst. Deine Sicht ist davon nicht beeinträchtigt.
-<b>Hohe Qualität:</b> Verdoppelt den Radius oder verursacht für 2 Stufen eine *miserable Sicht*.
-<b>Probenschwierigkeit:</b> 12
-<b>Modifikationen:</b> Begleiter (-4; der Kirschblütenregen bewegt sich mit dir.)
-<b>Vorbereitungszeit:</b> 1 Aktion
-<b>Ziel:</b> Zone
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 4 Minuten
-<b>Kosten:</b> 4 KaP
-<b>Fertigkeiten:</b> Friede
-<b>Erlernen:</b> Tsa 14; 20 EP
+
+- **Hohe Qualität:** Verdoppelt den Radius oder verursacht für 2 Stufen eine *miserable Sicht*.
+- **Probenschwierigkeit:** 12
+- **Modifikationen:** Begleiter (-4; der Kirschblütenregen bewegt sich mit dir.)
+- **Vorbereitungszeit:** 1 Aktion
+- **Ziel:** Zone
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 4 Minuten
+- **Kosten:** 4 KaP
+- **Fertigkeiten:** Friede
+- **Erlernen:** Tsa 14; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Friede|Friede]]
+- **Kosten:** 20 EP

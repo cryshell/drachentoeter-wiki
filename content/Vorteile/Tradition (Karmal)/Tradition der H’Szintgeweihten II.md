@@ -1,12 +1,20 @@
 ---
 Entitätstyp: Vorteil
-ID: 58bc8a7f-cb61-45ca-9cf5-2e211925f269
+ID: 34e91bdd-cd55-4415-b38a-bdd5855e7bc0
 Name: Tradition der H’Szintgeweihten II
+title: Tradition der H’Szintgeweihten II
 Kategorie: Tradition (Karmal)
 Voraussetzungen:
-  - "Attribut KL 6"
-  - "Vorteil Tradition der H’Szintgeweihten I"
+  - Attribut KL 6
+  - Vorteil Tradition der H’Szintgeweihten I
 Nachkauf: häufig
 Kosten: 40
 ---
 H’Szintgeweihte können auch mit mehrfach veränderten Liturgien gut umgehen. Wenn du eine Liturgie mit mindestens zwei unterschiedlichen spontanen Modifikationen wirkst, kannst du eine Basismodifikation ohne Erschwernis wählen.
+
+---
+
+- **Kosten:** 40 EP
+- **Voraussetzungen:**
+  - "Attribut KL 6"
+  - "Vorteil Tradition der H’Szintgeweihten I"

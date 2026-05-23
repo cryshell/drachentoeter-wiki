@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: cb859b66-28ec-4062-ba26-5ecab3be7618
+ID: 2e56b8e6-1915-439b-ab67-311f3d9b74c8
 Name: Weisheit der Bäume
+title: Weisheit der Bäume
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
@@ -11,12 +12,18 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I
 ---
 Du verwandelst dich in einen prächtigen Baum. Während deiner Zeit als Baum bist du *ohnmächtig*, dafür fügen dir Gifte und Krankheiten keinen Schaden zu. Erleidest du mehr als 4 Wunden, verwandelst du dich zurück.
-<b>Probenschwierigkeit:</b> 12
-<b>Modifikationen:</b> Bewusst (-8; du bleibst bei Bewusstsein und kannst dich jederzeit zurückverwandeln.)
-<b>Vorbereitungszeit:</b> 1 Stunde
-<b>Ziel:</b> selbst
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 1 Jahr
-<b>Kosten:</b> 8 AsP
-<b>Fertigkeiten:</b> Humus, Verwandlung
-<b>Erlernen:</b> Geo, Dru 16; Elf 20; 10 EP
+
+- **Probenschwierigkeit:** 12
+- **Modifikationen:** Bewusst (-8; du bleibst bei Bewusstsein und kannst dich jederzeit zurückverwandeln.)
+- **Vorbereitungszeit:** 1 Stunde
+- **Ziel:** selbst
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 1 Jahr
+- **Kosten:** 8 AsP
+- **Fertigkeiten:** Humus, Verwandlung
+- **Erlernen:** Geo, Dru 16; Elf 20; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Humus|Humus]], [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
+- **Kosten:** 10 EP

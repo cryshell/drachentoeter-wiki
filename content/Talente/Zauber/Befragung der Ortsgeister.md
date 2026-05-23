@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 322d957e-e65f-4386-a456-6199c6de5d8a
+ID: aa5831c0-6fcb-4f05-8e47-acc23e4de744
 Name: Befragung der Ortsgeister
+title: Befragung der Ortsgeister
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]"
@@ -12,5 +13,11 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Orks) I
 ---
 $talent:Blick in die Vergangenheit$
-<b>Fertigkeiten:</b> Geister rufen, Hellsicht, Temporal
-<b>Erlernen:</b> Smn (Ork) 14; 10 EP
+
+- **Fertigkeiten:** Geister rufen, Hellsicht, Temporal
+- **Erlernen:** Smn (Ork) 14; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]], [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Temporal|Temporal]]
+- **Kosten:** 10 EP

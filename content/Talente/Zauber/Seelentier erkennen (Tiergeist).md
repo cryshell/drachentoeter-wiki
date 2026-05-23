@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 73f8fc5e-27d6-46e0-93e8-10d8e2f2a144
+ID: ff644bb1-2514-4514-8488-da611859b5f5
 Name: Seelentier erkennen (Tiergeist)
+title: Seelentier erkennen (Tiergeist)
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]]"
@@ -11,3 +12,8 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tiergeist (Elefant)
 ---
 $talent:Seelentier erkennen$
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]], [[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]
+- **Kosten:** 20 EP

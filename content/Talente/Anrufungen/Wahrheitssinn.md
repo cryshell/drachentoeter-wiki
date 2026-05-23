@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: d986fdc5-e00d-4cc1-a89a-588141709041
+ID: b04b02b6-ef6a-4400-9930-8b2c43e13b9f
 Name: Wahrheitssinn
+title: Wahrheitssinn
 Kategorie: Anrufungen
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Anrufung Blakharazs|Anrufung Blakharazs]]"
@@ -9,11 +10,17 @@ Kosten: 20
 Spezialisierbar: 1
 ---
 Jeder in einem Radius von 16 Schritt hält sich an die Wahrheit. Versuche zu Lügen haben Nachteil und erfordern zuvor eine MU-Gegenprobe. Erlaubt *Aufrechterhalten*.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 4 Minuten
-<b>Ziel:</b> Zone
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 1 Stunde
-<b>Kosten:</b> 16 GuP
-<b>Fertigkeiten:</b> Anrufung Blakharazs
-<b>Erlernen:</b> Blk 8; 20 EP
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 4 Minuten
+- **Ziel:** Zone
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 1 Stunde
+- **Kosten:** 16 GuP
+- **Fertigkeiten:** Anrufung Blakharazs
+- **Erlernen:** Blk 8; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Blakharazs|Anrufung Blakharazs]]
+- **Kosten:** 20 EP

@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 24252fe5-2d32-4e20-9ce6-32f75b3788b4
+ID: fd06685b-9bd8-4659-9bec-74afd744dbb9
 Name: "Schlangenbund: Bindungspartner finden"
+title: "Schlangenbund: Bindungspartner finden"
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Schlangenbund|Schlangenbund]]"
@@ -10,11 +11,17 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der H’Szintgeweihten I
 ---
 Das Vertrautentier erspürt deinen ungefähren Aufenthaltsort. Die Liturgie ignoriert die Bedingung Sicht.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> Bindungspartner
-<b>Reichweite:</b> 16 Meilen
-<b>Wirkungsdauer:</b> 1 Stunde
-<b>Kosten:</b> 1 KaP
-<b>Fertigkeiten:</b> Schlangenbund
-<b>Erlernen:</b> Hsz 8; 10 EP
+
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** Bindungspartner
+- **Reichweite:** 16 Meilen
+- **Wirkungsdauer:** 1 Stunde
+- **Kosten:** 1 KaP
+- **Fertigkeiten:** Schlangenbund
+- **Erlernen:** Hsz 8; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schlangenbund|Schlangenbund]]
+- **Kosten:** 10 EP

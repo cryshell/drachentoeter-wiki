@@ -1,13 +1,22 @@
 ---
 Entitätstyp: Vorteil
-ID: 956475d4-ff6d-482b-974c-cf81aab205d9
+ID: f76580a7-2cb0-4589-b56b-b692cef00b08
 Name: Wahre Namen Lolgramoths IV
+title: Wahre Namen Lolgramoths IV
 Kategorie: Wahre Namen
 Voraussetzungen:
-  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
-  - "MeisterAttribut KL 10"
-  - "Vorteil Wahre Namen Lolgramoths III"
+  - Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I
+  - MeisterAttribut KL 10
+  - Vorteil Wahre Namen Lolgramoths III
 Nachkauf: häufig
 Kosten: 20
 ---
 8 Punkte können zur Verbesserung der Wahren Namen verwendet werden.
+
+---
+
+- **Kosten:** 20 EP
+- **Voraussetzungen:**
+  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
+  - "MeisterAttribut KL 10"
+  - "Vorteil Wahre Namen Lolgramoths III"

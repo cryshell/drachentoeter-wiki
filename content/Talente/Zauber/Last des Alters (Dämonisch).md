@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 34b1f5a1-b118-4e8b-9e89-1cffa8c6b55a
+ID: 54471cb2-2b31-4ce7-b425-d9287c3f4902
 Name: Last des Alters (Dämonisch)
+title: Last des Alters (Dämonisch)
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
@@ -12,5 +13,11 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borbaradianer I
 ---
 $talent:Last des Alters$
-<b>Fertigkeiten:</b> Dämonisch (nur Bor), Temporal, Verwandlung
-<b>Erlernen:</b> Bor 20; Mag 100 (W100); 10 EP
+
+- **Fertigkeiten:** Dämonisch (nur Bor), Temporal, Verwandlung
+- **Erlernen:** Bor 20; Mag 100 (W100); 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]], [[Inhalt/Fertigkeiten/Temporal|Temporal]], [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
+- **Kosten:** 10 EP

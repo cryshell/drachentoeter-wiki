@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: a8092660-357e-4a6e-961d-0d655991af54
+ID: 0a53ce40-2226-4bd1-9334-72381bf43fc5
 Name: Besessenheit herbeirufen
+title: Besessenheit herbeirufen
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
@@ -12,12 +13,18 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Trollzacker) I
 ---
 Dein Opfer verliert die Kontrolle über seinen Körper und wird *handlungsunfähig*. Es beginnt wie ein wildes Tier zu wüten und erleidet nach dem Ende der Wirkungsdauer 2 Punkte Erschöpfung. Angriffe auf das Opfer haben eine Schwierigkeit von 16.
-<b>Hohe Qualität:</b> Das Opfer erleidet einen weiteren Punkt Erschöpfung.
-<b>Probenschwierigkeit:</b> Magieresistenz
-<b>Vorbereitungszeit:</b> 2 Aktionen
-<b>Ziel:</b> Humanoid
-<b>Reichweite:</b> 8 Schritt
-<b>Wirkungsdauer:</b> 4 Minuten
-<b>Kosten:</b> 16 AsP
-<b>Fertigkeiten:</b> Einfluss, Geister des Zorns, Geister rufen
-<b>Erlernen:</b> Smn (Fer, Tro) 14, 20 EP
+
+- **Hohe Qualität:** Das Opfer erleidet einen weiteren Punkt Erschöpfung.
+- **Probenschwierigkeit:** Magieresistenz
+- **Vorbereitungszeit:** 2 Aktionen
+- **Ziel:** Humanoid
+- **Reichweite:** 8 Schritt
+- **Wirkungsdauer:** 4 Minuten
+- **Kosten:** 16 AsP
+- **Fertigkeiten:** Einfluss, Geister des Zorns, Geister rufen
+- **Erlernen:** Smn (Fer, Tro) 14, 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Geister des Zorns|Geister des Zorns]], [[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]
+- **Kosten:** 20 EP

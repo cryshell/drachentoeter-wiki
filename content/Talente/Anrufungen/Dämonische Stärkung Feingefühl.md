@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 7a648592-3131-4d34-9108-31ea2761d98f
+ID: 11e399ae-5c96-45cc-b63a-c65b7adce073
 Name: "Dämonische Stärkung: Feingefühl"
+title: "Dämonische Stärkung: Feingefühl"
 Kategorie: Anrufungen
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Anrufung Blakharazs|Anrufung Blakharazs]]"
@@ -13,13 +14,20 @@ Kosten: 10
 Spezialisierbar: 1
 ---
 Deine nächste Probe auf Feingefühl ist um +4 Punkte erleichtert.
-<b>Hohe Qualität:</b> Erhöht die Erleichterung um +2.
-<b>Probenschwierigkeit:</b> 12
-<b>Modifikationen:</b> Intervention (-8; *Reaktive* Anrufung (beliebiges Ereignis). Hohe Qualität ist nicht möglich.)
+
+- **Hohe Qualität:** Erhöht die Erleichterung um +2.
+- **Probenschwierigkeit:** 12
+- **Modifikationen:** Intervention (-8; *Reaktive* Anrufung (beliebiges Ereignis). Hohe Qualität ist nicht möglich.)
 Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion ausführen. Hohe Qualität ist nicht möglich.)
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> selbst
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 4 Minuten
-<b>Kosten:</b> 4 GuP
-<b>Erlernen:</b> 10 EP
+
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** selbst
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 4 Minuten
+- **Kosten:** 4 GuP
+- **Erlernen:** 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Blakharazs|Anrufung Blakharazs]], [[Inhalt/Fertigkeiten/Anrufung Thargunitoths|Anrufung Thargunitoths]], [[Inhalt/Fertigkeiten/Anrufung Belzhorashs|Anrufung Belzhorashs]], [[Inhalt/Fertigkeiten/Anrufung Aphestadils|Anrufung Aphestadils]], [[Inhalt/Fertigkeiten/Anrufung Belkelels|Anrufung Belkelels]]
+- **Kosten:** 10 EP

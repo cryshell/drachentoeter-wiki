@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 449efeb5-04df-4858-bb20-218a8f6e60cf
+ID: b810d4c4-4ad0-48b2-922c-15aec4d6ee23
 Name: Goldene Hand
+title: Goldene Hand
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Verführung|Verführung]]"
@@ -10,12 +11,18 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Namenlosgeweihten I
 ---
 Du verwandelst einen Gegenstand von maximal 1 Stein Gewicht in pures Gold im Wert von ca. 50 Dukaten. Nach Ende der Wirkungsdauer zerfällt es zu Staub.
-<b>Probenschwierigkeit:</b> 12
-<b>Modifikationen:</b> Schweres Objekt (-4 pro Erhöhung; erhöht das maximale Gewicht um 1 Stein.)
-<b>Vorbereitungszeit:</b> 4 Aktionen
-<b>Ziel:</b> Objekt
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 1 Tag
-<b>Kosten:</b> 4 KaP
-<b>Fertigkeiten:</b> Verführung
-<b>Erlernen:</b> Nam 12; 20 EP
+
+- **Probenschwierigkeit:** 12
+- **Modifikationen:** Schweres Objekt (-4 pro Erhöhung; erhöht das maximale Gewicht um 1 Stein.)
+- **Vorbereitungszeit:** 4 Aktionen
+- **Ziel:** Objekt
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 1 Tag
+- **Kosten:** 4 KaP
+- **Fertigkeiten:** Verführung
+- **Erlernen:** Nam 12; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verführung|Verführung]]
+- **Kosten:** 20 EP

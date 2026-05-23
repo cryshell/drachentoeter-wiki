@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: f18294b2-5899-4fbc-87b3-1361a9242b69
+ID: f850c374-540e-4f81-9881-9db85a227a1b
 Name: Lied der Feen
+title: Lied der Feen
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
@@ -11,5 +12,11 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zauberbarden I
 ---
 $talent:Zauberwesen der Natur$
-<b>Fertigkeiten:</b> Verständigung, Zaubermelodien
-<b>Erlernen:</b> Bard 16; 10 EP
+
+- **Fertigkeiten:** Verständigung, Zaubermelodien
+- **Erlernen:** Bard 16; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verständigung|Verständigung]], [[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]
+- **Kosten:** 10 EP

@@ -1,12 +1,20 @@
 ---
 Entitätstyp: Vorteil
-ID: 4f48b9b8-a3c1-46fc-99ba-2485905a735e
+ID: 142d4efc-f683-42b6-a91b-68466de6b19c
 Name: Unbändige Magie
+title: Unbändige Magie
 Kategorie: Magisch
 Voraussetzungen:
-  - "Vorteil Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I"
-  - "Attribut KO 10"
+  - Vorteil Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I
+  - Attribut KO 10
 Nachkauf: häufig
 Kosten: 80
 ---
 Du kannst Vorteil auf einen Zauber erhalten, der Schaden in Form von SP oder TP verursacht. Anschließend erleidest du einen Punkt Erschöpfung.
+
+---
+
+- **Kosten:** 80 EP
+- **Voraussetzungen:**
+  - "Vorteil Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I"
+  - "Attribut KO 10"

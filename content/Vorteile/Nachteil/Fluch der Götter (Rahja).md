@@ -1,10 +1,16 @@
 ---
 Entitätstyp: Vorteil
-ID: 620b5f0c-50a9-4e93-86f4-22e2cc2c2a14
+ID: 422eb177-827f-4294-9135-02fa62279aba
 Name: Fluch der Götter (Rahja)
+title: Fluch der Götter (Rahja)
 Kategorie: Nachteil
 Voraussetzungen: Vorteil Vampir I
 Nachkauf: extrem selten
-Kosten: -200
+Kosten: "-200"
 ---
 Du erhältst die "Vorteile" Verwundbarkeit II (Rahja), Empfindlichkeit I (Pflanzen und Steine von Rahja), II (Lust) und III (Rauschmittel).
+
+---
+
+- **Kosten:** -200 EP
+- **Voraussetzungen:** Vorteil Vampir I

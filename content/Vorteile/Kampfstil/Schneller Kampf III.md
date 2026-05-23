@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Vorteil
-ID: 3ac6d489-bc7d-4834-8325-7740cfaa0701
+ID: ffabd0dd-fdfc-4485-b7b0-2501082720e2
 Name: Schneller Kampf III
+title: Schneller Kampf III
 Kategorie: Kampfstil
 Voraussetzungen:
   - Attribut GE 8
@@ -12,3 +13,11 @@ Nachkauf: häufig
 Kosten: 60
 ---
 Unterlaufen: Wenn du in einer Aktion Angriff einen Nahkampftreffer landest, darfst du mit dieser einen zweiten Nahkampfangriff durchführen.
+
+---
+
+- **Kosten:** 60 EP
+- **Voraussetzungen:**
+  - "Attribut GE 8"
+  - "Vorteil Schneller Kampf II"
+- **Siehe auch:** [[Inhalt/Kapitel/Aktion Angriff|Aktion Angriff]]

@@ -1,17 +1,24 @@
 ---
 Entitätstyp: Talent
-ID: d2019f8a-1670-439b-8837-2c93ded316bd
+ID: 93bb7b8b-4b13-4dae-a468-9638695cd684
 Name: Unheimliches Lachen
+title: Unheimliches Lachen
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
 Kosten: 5
 ---
 Dein Lachen hört sich besonders bedrohlich an. Dabei handelt es sich um eine *Illusion* (Gehör).
-<b>Probenschwierigkeit:</b> keine Probe
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> selbst
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 2 Züge
-<b>Kosten:</b> 1 AsP
-<b>Fertigkeiten:</b> Einfluss, Illusion
+
+- **Probenschwierigkeit:** keine Probe
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** selbst
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 2 Züge
+- **Kosten:** 1 AsP
+- **Fertigkeiten:** Einfluss, Illusion
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
+- **Kosten:** 5 EP

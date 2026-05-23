@@ -1,17 +1,24 @@
 ---
 Entitätstyp: Talent
-ID: 1e1d6909-0bf8-46b5-bae6-ec65ddb3ae6d
+ID: 4342de6f-72b0-4a9e-8577-c9e0b784c206
 Name: Guten Morgen
+title: Guten Morgen
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
 Kosten: 5
 ---
 Das Opfer spürt instinktiv, dass es jetzt angebracht wäre, dich freundlich zu grüßen. Es entscheidet selbst, ob es dem nachgeht.
-<b>Probenschwierigkeit:</b> keine Probe
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> Humanoid
-<b>Reichweite:</b> 8 Schritt
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 1 AsP
-<b>Fertigkeiten:</b> Einfluss
+
+- **Probenschwierigkeit:** keine Probe
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** Humanoid
+- **Reichweite:** 8 Schritt
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 1 AsP
+- **Fertigkeiten:** Einfluss
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
+- **Kosten:** 5 EP

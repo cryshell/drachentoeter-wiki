@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: fecf42d3-e72a-4085-b960-0cc725366d21
+ID: a19b2071-e568-437c-92c3-01047c3de576
 Name: Geistermantel
+title: Geistermantel
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Geister|Geister]]"
@@ -10,5 +11,11 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Tairachgeweihten I
 ---
 $talent:Argelions Mantel$
-<b>Fertigkeiten:</b> Geister
-<b>Erlernen:</b> Tai 14; 20 EP
+
+- **Fertigkeiten:** Geister
+- **Erlernen:** Tai 14; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Geister|Geister]]
+- **Kosten:** 20 EP

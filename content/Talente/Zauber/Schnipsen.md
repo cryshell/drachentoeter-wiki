@@ -1,17 +1,24 @@
 ---
 Entitätstyp: Talent
-ID: 976307c2-8636-4d59-983f-162d9fa6142b
+ID: d7a9baec-83e5-4551-b8dd-a949b51e8b6f
 Name: Schnipsen
+title: Schnipsen
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
 Kosten: 5
 ---
 Der Trick verursacht beim Ziel eine kleine Entladung telekinetischer Energie, die von der Stärke her einem Fingerschnipsen entspricht.
-<b>Probenschwierigkeit:</b> keine Probe
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> Wesen oder Objekt
-<b>Reichweite:</b> 4 Schritt
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 1 AsP
-<b>Fertigkeiten:</b> Umwelt
+
+- **Probenschwierigkeit:** keine Probe
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** Wesen oder Objekt
+- **Reichweite:** 4 Schritt
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 1 AsP
+- **Fertigkeiten:** Umwelt
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
+- **Kosten:** 5 EP

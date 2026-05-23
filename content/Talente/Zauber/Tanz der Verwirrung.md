@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: d86b02bb-4cd1-41d6-88d2-97f63cb21239
+ID: 6eb204b5-4385-4792-8776-4e6520bc04e6
 Name: Tanz der Verwirrung
+title: Tanz der Verwirrung
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]]"
@@ -11,5 +12,11 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zaubertänzer I
 ---
 $talent:Melodie der Verwirrung$
-<b>Fertigkeiten:</b> Zaubertänze, Eigenschaften
-<b>Erlernen:</b> Ztz 16; 10 EP
+
+- **Fertigkeiten:** Zaubertänze, Eigenschaften
+- **Erlernen:** Ztz 16; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]], [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]
+- **Kosten:** 10 EP

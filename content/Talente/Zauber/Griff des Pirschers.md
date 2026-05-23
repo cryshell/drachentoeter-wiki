@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: bc12df1e-09f1-4c2c-8079-1519459f74aa
+ID: b886faea-3316-4b66-b8a7-174a6772b2aa
 Name: Griff des Pirschers
+title: Griff des Pirschers
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Vampirische Kräfte|Vampirische Kräfte]]"
@@ -11,12 +12,18 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kinder der Finsternis ODER Vorteil Tradition der Kinder der Nacht
 ---
 Deine Hände und Füße haften an Oberflächen, sodass du mit halber GS an glatten Wänden und sogar Decken klettern kannst.
-<b>Hohe Qualität:</b> Für zwei Stufen kannst du deine volle GS nutzen.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> selbst
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 2 Stunden
-<b>Kosten:</b> 8 AsP
-<b>Fertigkeiten:</b> Vampirische Kräfte, Eigenschaften
-<b>Erlernen:</b> Kdn, Kdf 12; 20 EP
+
+- **Hohe Qualität:** Für zwei Stufen kannst du deine volle GS nutzen.
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** selbst
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 2 Stunden
+- **Kosten:** 8 AsP
+- **Fertigkeiten:** Vampirische Kräfte, Eigenschaften
+- **Erlernen:** Kdn, Kdf 12; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Vampirische Kräfte|Vampirische Kräfte]], [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]
+- **Kosten:** 20 EP

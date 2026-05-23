@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 60f62b3d-332a-4201-90ed-223d02e2d882
+ID: ccfd5ca7-6526-4023-ab6e-8af153593a9b
 Name: Valetudo Lebenskraft
+title: Valetudo Lebenskraft
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
@@ -12,12 +13,18 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
 ---
 Eine unsichtbare Welle magischer Kraft gibt dem Ziel 1W6 Heilpunkte, für jede Überschreitung der WS heilst du eine Wunde.
-<b>Hohe Qualität:</b> Erhöht die Heilpunkte um 1.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> Wesen
-<b>Reichweite:</b> 8 Schritt
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 16 AsP
-<b>Fertigkeiten:</b> Humus, Kraft, Verwandlung
-<b>Erlernen:</b> Mag legendär (oder Reversalis Fulminictus); 40 EP
+
+- **Hohe Qualität:** Erhöht die Heilpunkte um 1.
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** Wesen
+- **Reichweite:** 8 Schritt
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 16 AsP
+- **Fertigkeiten:** Humus, Kraft, Verwandlung
+- **Erlernen:** Mag legendär (oder Reversalis Fulminictus); 40 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Humus|Humus]], [[Inhalt/Fertigkeiten/Kraft|Kraft]], [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
+- **Kosten:** 40 EP

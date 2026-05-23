@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 9677951b-64d8-421a-8834-c7c6d2b37e2c
+ID: f727b7a7-0520-4a04-a7de-0d6317873a49
 Name: Kamaluqs unerbittlicher Speer
+title: Kamaluqs unerbittlicher Speer
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Tapam|Tapam]]"
@@ -10,5 +11,11 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kamaluqgeweihten I
 ---
 $talent:Bannfluch des Heiligen Khalid$
-<b>Fertigkeiten:</b> Tapam
-<b>Erlernen:</b> Kam 14; 20 EP
+
+- **Fertigkeiten:** Tapam
+- **Erlernen:** Kam 14; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Tapam|Tapam]]
+- **Kosten:** 20 EP

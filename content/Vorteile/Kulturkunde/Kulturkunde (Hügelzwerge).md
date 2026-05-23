@@ -1,9 +1,14 @@
 ---
 Entitätstyp: Vorteil
-ID: ed1e7ecf-e74e-47ee-b39a-b33ad315ae2a
+ID: b00f9836-ce88-42d4-8bff-d903e5aaa661
 Name: Kulturkunde (Hügelzwerge)
+title: Kulturkunde (Hügelzwerge)
 Kategorie: Kulturkunde
 Nachkauf: häufig
 Kosten: 20
 ---
 Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eigenen Gebräuche haben. Kulturkunde stellt deine Kenntnis über diese Gebräuche dar. Falls eine erlernte Kultur bei einer Probe auf Darbietung, Diplomatie, Straßenkunde oder Mythenkunde relevant ist, erhältst du Vorteil auf die Probe.
+
+---
+
+- **Kosten:** 20 EP

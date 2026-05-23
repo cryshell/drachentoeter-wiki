@@ -1,10 +1,16 @@
 ---
 Entitätstyp: Vorteil
-ID: 88da75fc-9038-49ef-88f2-ac5b9f23118f
+ID: a20052e5-b545-4cf9-bf35-5c85e07d3fac
 Name: Ausweichen I
+title: Ausweichen I
 Kategorie: Profan
 Voraussetzungen: Attribut GE 4
 Nachkauf: häufig
 Kosten: 20
 ---
 Deine Ausweichen-VT steigt um +1 Punkt.
+
+---
+
+- **Kosten:** 20 EP
+- **Voraussetzungen:** Attribut GE 4

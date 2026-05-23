@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 45306c2a-940f-4b5a-bb8a-663f10797f2b
+ID: b6d9d623-bbd3-462e-a782-3098d44f0304
 Name: Namenloses Vergessen
+title: Namenloses Vergessen
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Verführung|Verführung]]"
@@ -10,12 +11,18 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Namenlosgeweihten I
 ---
 Dein Ziel verliert sämtliche Erinnerung an sein voriges Leben und kann sich später nicht an Ereignisse während der Wirkungsdauer erinnern.
-<b>Hohe Qualität:</b> Für 2 Stufen wird das Opfer wird dir gegenüber sehr vertrauensselig und Beeinflussungs-Proben gegen es haben Vorteil.
-<b>Probenschwierigkeit:</b> MU
-<b>Vorbereitungszeit:</b> 1 Aktion
-<b>Ziel:</b> Humanoid
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 4 Stunden
-<b>Kosten:</b> 8 KaP
-<b>Fertigkeiten:</b> Verführung
-<b>Erlernen:</b> Nam 8; 20 EP
+
+- **Hohe Qualität:** Für 2 Stufen wird das Opfer wird dir gegenüber sehr vertrauensselig und Beeinflussungs-Proben gegen es haben Vorteil.
+- **Probenschwierigkeit:** MU
+- **Vorbereitungszeit:** 1 Aktion
+- **Ziel:** Humanoid
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 4 Stunden
+- **Kosten:** 8 KaP
+- **Fertigkeiten:** Verführung
+- **Erlernen:** Nam 8; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verführung|Verführung]]
+- **Kosten:** 20 EP

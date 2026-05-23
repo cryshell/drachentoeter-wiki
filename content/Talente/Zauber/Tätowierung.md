@@ -1,17 +1,24 @@
 ---
 Entitätstyp: Talent
-ID: 0e183ec4-f50e-4dec-af82-093902c88135
+ID: 8d340285-54f2-4ebd-a14e-1b852394bb7f
 Name: Tätowierung
+title: Tätowierung
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
 Kosten: 5
 ---
 Du erzeugst auf der Haut des Verzauberten eine maximal handgroße Tätowierung. Es sind nur einfache Muster möglich.
-<b>Probenschwierigkeit:</b> keine Probe
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> Humanoid
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 1 Stunde
-<b>Kosten:</b> 1 AsP
-<b>Fertigkeiten:</b> Verwandlung
+
+- **Probenschwierigkeit:** keine Probe
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** Humanoid
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 1 Stunde
+- **Kosten:** 1 AsP
+- **Fertigkeiten:** Verwandlung
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
+- **Kosten:** 5 EP

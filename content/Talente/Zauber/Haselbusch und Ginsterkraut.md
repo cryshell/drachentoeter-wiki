@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: adc15a83-42e3-4b43-9d61-3db1b9dcfdd2
+ID: b6349bf1-d518-4f97-95c5-df20c8417dbf
 Name: Haselbusch und Ginsterkraut
+title: Haselbusch und Ginsterkraut
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
@@ -15,12 +16,18 @@ Du leitest das Wachstum einer Pflanze, kannst es beschleunigen und formen. Die S
 - 16, 8 AsP, 32 Minuten: Ein Baum trägt drei Monate zu früh Früchte.
 - 20, 4 AsP, 4 Minuten: Die Rinde eines Baumes zeigt eine Botschaft.
 - 28, 128 AsP, 1 Woche: Eine Baumkrone wird zu einem Baumhaus mit Möbeln, Dach und Fenstern.
-<b>Probenschwierigkeit:</b> nach Vorhaben
-<b>Varianten:</b> Humuszauber übernehmen (Probenschwierigkeit EW des Zaubers, 4 Aktionen, Ziel Humuszauber, augenblicklich; du erhältst die Kontrolle über einen wirkenden Humuszauber, als hättest du ihn selbst gewirkt. Wirkt nicht gegen Humuselementare und Zauber, in die gAsP geflossen sind.)
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> Zone
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> nach Vorhaben
-<b>Kosten:</b> nach Vorhaben
-<b>Fertigkeiten:</b> Humus, Verwandlung
-<b>Erlernen:</b> Elf 14; Geo 18; Alch, Dru, Hex, Mag 20; 20 EP
+
+- **Probenschwierigkeit:** nach Vorhaben
+- **Varianten:** Humuszauber übernehmen (Probenschwierigkeit EW des Zaubers, 4 Aktionen, Ziel Humuszauber, augenblicklich; du erhältst die Kontrolle über einen wirkenden Humuszauber, als hättest du ihn selbst gewirkt. Wirkt nicht gegen Humuselementare und Zauber, in die gAsP geflossen sind.)
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** Zone
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** nach Vorhaben
+- **Kosten:** nach Vorhaben
+- **Fertigkeiten:** Humus, Verwandlung
+- **Erlernen:** Elf 14; Geo 18; Alch, Dru, Hex, Mag 20; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Humus|Humus]], [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
+- **Kosten:** 20 EP

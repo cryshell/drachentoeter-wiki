@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: f8a338ea-2466-47d3-bbf9-cc6eb42b7edc
+ID: 6d44a17b-8274-4c8b-bde9-a2ed4ade2ed9
 Name: Fluch des Verräters
+title: Fluch des Verräters
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Eroberung|Eroberung]]"
@@ -11,12 +12,18 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I
 ---
 Du rufst Kors Strafe auf einen reuelosen Sünder oder Deserteur herab. Er ist in jedem Kampf dem gesamten Geschehen gegenüber *verängstigt*.
-<b>Probenschwierigkeit:</b> MU
-<b>Modifikationen:</b> Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, 8 KaP, davon 2 gKaP)
-<b>Vorbereitungszeit:</b> 4 Minuten
-<b>Ziel:</b> Humanoid
-<b>Reichweite:</b> 16 Schritt
-<b>Wirkungsdauer:</b> 1 Woche
-<b>Kosten:</b> 8 KaP
-<b>Fertigkeiten:</b> Eroberung, Gutes Gold
-<b>Erlernen:</b> Kor, Krt 14; 10 EP
+
+- **Probenschwierigkeit:** MU
+- **Modifikationen:** Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, 8 KaP, davon 2 gKaP)
+- **Vorbereitungszeit:** 4 Minuten
+- **Ziel:** Humanoid
+- **Reichweite:** 16 Schritt
+- **Wirkungsdauer:** 1 Woche
+- **Kosten:** 8 KaP
+- **Fertigkeiten:** Eroberung, Gutes Gold
+- **Erlernen:** Kor, Krt 14; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eroberung|Eroberung]], [[Inhalt/Fertigkeiten/Gutes Gold|Gutes Gold]]
+- **Kosten:** 10 EP

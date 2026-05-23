@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 0b80436b-82c6-4947-af55-a470718480ca
+ID: e77685fa-defe-486b-ab94-da35ea789fb1
 Name: "Schlangenbund: Stimmungssinn"
+title: "Schlangenbund: Stimmungssinn"
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Schlangenbund|Schlangenbund]]"
@@ -10,12 +11,18 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der H’Szintgeweihten I
 ---
 Dein Vertrautentier starrt das Ziel an und gibt dir seine Eindrücke weiter. Menschenkenntnis-Proben gegen das Ziel haben Vorteil.
-<b>Hohe Qualität:</b> Für 2 Stufen haben die Proben legendären Vorteil.
-<b>Probenschwierigkeit:</b> MU
-<b>Vorbereitungszeit:</b> 0 Aktionen
-<b>Ziel:</b> Humanoid
-<b>Reichweite:</b> 2 Schritt
-<b>Wirkungsdauer:</b> 1 Stunde
-<b>Kosten:</b> 4 KaP
-<b>Fertigkeiten:</b> Schlangenbund
-<b>Erlernen:</b> Hsz 12; 20 EP
+
+- **Hohe Qualität:** Für 2 Stufen haben die Proben legendären Vorteil.
+- **Probenschwierigkeit:** MU
+- **Vorbereitungszeit:** 0 Aktionen
+- **Ziel:** Humanoid
+- **Reichweite:** 2 Schritt
+- **Wirkungsdauer:** 1 Stunde
+- **Kosten:** 4 KaP
+- **Fertigkeiten:** Schlangenbund
+- **Erlernen:** Hsz 12; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schlangenbund|Schlangenbund]]
+- **Kosten:** 20 EP

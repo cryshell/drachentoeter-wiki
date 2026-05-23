@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 11ca749f-bfc5-485d-87a0-2bf12c9f2400
+ID: a7b9c1e6-f68c-4fba-b873-5984a06ed5b1
 Name: Adlerschwinge
+title: Adlerschwinge
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
@@ -10,14 +11,20 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Shakagra I
 ---
 Du verwandelst dich in ein fliegendes Tier deiner Wahl. Du behältst deine geistigen Fähigkeiten, deine körperlichen Fähigkeiten entsprechen denen des Tiers. Schwierigkeit und Kosten richten sich nach dessen Mächtigkeit auf der Skala nutzlos (z. B. Huhn)/schwach (z. B. Rabe)/nützlich (z. B. Eule, Falke)/stark (z. B. Libelle, Flugechse)/mächtig (z. B. junger Horndrache). Du kannst in Tiergestalt keine Spezialtalente wirken. Erlaubt *Aufrechterhalten*.
-<b>Hohe Qualität:</b> Du darfst 2 Spielwerte um je 1 Punkt erhöhen, solange das Ergebnis dem gesunden Menschenverstand nicht widerspricht.
-<b>Probenschwierigkeit:</b> 8/12/16/20/24
-<b>Modifikationen:</b> Seelentier (+4, nur Elf; du verwandelst dich in dein Seelentier. Dabei können die Instinkte des Tieres überhand nehmen.)
-<b>Vorbereitungszeit:</b> 4 Aktionen
-<b>Ziel:</b> selbst
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 1 Stunde
-<b>Kosten:</b> 4/8/16/24/32 AsP
-<b>Fertigkeiten:</b> Verwandlung
-<b>Erlernen:</b> Elf, Shak 8; Ach, Alch, Dil, Mag 18; Dru, Hex, Srl 20; 40 EP
-<b>Anmerkungen:</b> Bevor du dich in ein spezifisches Tier verwandeln kannst, musst du es eingängig studiert haben. Dies entspricht regeltechnisch einer Steigerung von Tierkunde. Wenn das Tier auch am Boden oder im Wasser uneingeschränkt agieren kann, ist zusätzlich die Kenntnis des Wolfstatze bzw. Fischflosse nötig.
+
+- **Hohe Qualität:** Du darfst 2 Spielwerte um je 1 Punkt erhöhen, solange das Ergebnis dem gesunden Menschenverstand nicht widerspricht.
+- **Probenschwierigkeit:** 8/12/16/20/24
+- **Modifikationen:** Seelentier (+4, nur Elf; du verwandelst dich in dein Seelentier. Dabei können die Instinkte des Tieres überhand nehmen.)
+- **Vorbereitungszeit:** 4 Aktionen
+- **Ziel:** selbst
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 1 Stunde
+- **Kosten:** 4/8/16/24/32 AsP
+- **Fertigkeiten:** Verwandlung
+- **Erlernen:** Elf, Shak 8; Ach, Alch, Dil, Mag 18; Dru, Hex, Srl 20; 40 EP
+- **Anmerkungen:** Bevor du dich in ein spezifisches Tier verwandeln kannst, musst du es eingängig studiert haben. Dies entspricht regeltechnisch einer Steigerung von Tierkunde. Wenn das Tier auch am Boden oder im Wasser uneingeschränkt agieren kann, ist zusätzlich die Kenntnis des Wolfstatze bzw. Fischflosse nötig.
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
+- **Kosten:** 40 EP

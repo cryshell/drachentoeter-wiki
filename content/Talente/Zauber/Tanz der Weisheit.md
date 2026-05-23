@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: f60b5c16-3e25-416e-ac01-4d763b1ca334
+ID: 59d747eb-cb4f-4ec4-a8e2-7291678fb3ae
 Name: Tanz der Weisheit
+title: Tanz der Weisheit
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
@@ -11,5 +12,11 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zaubertänzer I
 ---
 $talent:Lied der Weisheit$
-<b>Fertigkeiten:</b> Eigenschaften, Zaubertänze
-<b>Erlernen:</b> Ztz 18; 20 EP
+
+- **Fertigkeiten:** Eigenschaften, Zaubertänze
+- **Erlernen:** Ztz 18; 20 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]]
+- **Kosten:** 20 EP

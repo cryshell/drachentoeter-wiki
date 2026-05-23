@@ -1,10 +1,16 @@
 ---
 Entitätstyp: Vorteil
-ID: 0740d5a5-590f-4064-8a05-7f21fe60f420
+ID: 0e36fe21-ea1d-47cc-b506-ae3b31257f69
 Name: Tierbändiger
+title: Tierbändiger
 Kategorie: Profan
 Voraussetzungen: Attribut CH 4
 Nachkauf: häufig
 Kosten: 20
 ---
 Proben zum Abrichten deiner Tierbegleiter haben Vorteil.
+
+---
+
+- **Kosten:** 20 EP
+- **Voraussetzungen:** Attribut CH 4

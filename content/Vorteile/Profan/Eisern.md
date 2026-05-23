@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Vorteil
-ID: 2570b941-f33d-4c51-8e04-e9a32a41074e
+ID: 41ee3dec-f1e5-4871-a591-cfc89d29fceb
 Name: Eisern
+title: Eisern
 Kategorie: Profan
 Voraussetzungen: Attribut KO 10
 Querverweise:
@@ -13,3 +14,9 @@ Kosten: 80
 Deine WS steigt um 1 Punkt.
 
 Wenn KO-Proben zum Ignorieren von Bewusstlosigkeit misslingen, erleidest du keine Erschöpfung.
+
+---
+
+- **Kosten:** 80 EP
+- **Voraussetzungen:** Attribut KO 10
+- **Siehe auch:** [[Inhalt/Abgeleiteter Wert/WS|WS]], [[Inhalt/Kapitel/Bewusstlosigkeit|Bewusstlosigkeit]]

@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 8fc98417-349e-477f-9e13-cfe4d46cdfcb
+ID: 7fd650fc-57bc-4a8c-ab1d-2bdf7bf60f38
 Name: Vertrauter des Felsens
+title: Vertrauter des Felsens
 Kategorie: Liturgien
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Heiliges Erz|Heiliges Erz]]"
@@ -10,12 +11,18 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Graveshgeweihten I
 ---
 Du bist immun gegen Erzschaden und Schaden aus Steinschlag und Steinwaffen. Erlaubt *Aufrechterhalten*.
-<b>Probenschwierigkeit:</b> 12
-<b>Modifikationen:</b> Erweiterter Schutz (-4; der Schutz betrifft auch deine Ausrüstung.)
-<b>Vorbereitungszeit:</b> 4 Aktionen
-<b>Ziel:</b> selbst
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> 1 Stunde
-<b>Kosten:</b> 8 KaP
-<b>Fertigkeiten:</b> Heiliges Erz
-<b>Erlernen:</b> Ang 14; Ing 16; Gra 18; 10 EP
+
+- **Probenschwierigkeit:** 12
+- **Modifikationen:** Erweiterter Schutz (-4; der Schutz betrifft auch deine Ausrüstung.)
+- **Vorbereitungszeit:** 4 Aktionen
+- **Ziel:** selbst
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** 1 Stunde
+- **Kosten:** 8 KaP
+- **Fertigkeiten:** Heiliges Erz
+- **Erlernen:** Ang 14; Ing 16; Gra 18; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heiliges Erz|Heiliges Erz]]
+- **Kosten:** 10 EP

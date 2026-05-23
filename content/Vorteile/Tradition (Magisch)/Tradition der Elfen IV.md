@@ -1,12 +1,20 @@
 ---
 Entitätstyp: Vorteil
-ID: 5c156ba7-6264-4562-b2d1-7fa18cab8c55
+ID: 06b380f0-61ee-4664-b7ea-913f9acd1061
 Name: Tradition der Elfen IV
+title: Tradition der Elfen IV
 Kategorie: Tradition (Magisch)
 Voraussetzungen:
-  - "MeisterAttribut IN 10"
-  - "Vorteil Tradition der Elfen III"
+  - MeisterAttribut IN 10
+  - Vorteil Tradition der Elfen III
 Nachkauf: häufig
 Kosten: 80
 ---
 8 Punkte können zur Verbesserung der Tradition verwendet werden.
+
+---
+
+- **Kosten:** 80 EP
+- **Voraussetzungen:**
+  - "MeisterAttribut IN 10"
+  - "Vorteil Tradition der Elfen III"

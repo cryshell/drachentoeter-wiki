@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: 3c877b28-4690-429d-9900-7b12cd1e1906
+ID: 61c8e1be-d36a-4edf-95bf-15e52c57d9b5
 Name: Seelenopfer
+title: Seelenopfer
 Kategorie: Anrufungen
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Dämonischer Ritus|Dämonischer Ritus]]"
@@ -9,13 +10,19 @@ Kosten: 20
 Spezialisierbar: 1
 ---
 Du lässt das Opfer während der Zeremonie ausbluten und schickst seine Seele direkt zu deinem Erzdämon. Du erhältst für 1 Woche Vorteil auf die höchste Fertigkeit des Opfers.
-<b>Hohe Qualität:</b> Du erhältst den Bonus auch auf die zweit-/dritt-/... höchste Fertigkeit.
-<b>Probenschwierigkeit:</b> 12
-<b>Vorbereitungszeit:</b> 4 Minuten
-<b>Ziel:</b> Humanoid
-<b>Reichweite:</b> Berührung
-<b>Wirkungsdauer:</b> augenblicklich
-<b>Kosten:</b> 16 GuP
-<b>Fertigkeiten:</b> Dämonischer Ritus
-<b>Erlernen:</b> alle 18; 20 EP
-<b>Anmerkung:</b> Dies ist üblicherweise eine kleine gefällige Tat, mittel wenn das Ziel geweiht ist.
+
+- **Hohe Qualität:** Du erhältst den Bonus auch auf die zweit-/dritt-/... höchste Fertigkeit.
+- **Probenschwierigkeit:** 12
+- **Vorbereitungszeit:** 4 Minuten
+- **Ziel:** Humanoid
+- **Reichweite:** Berührung
+- **Wirkungsdauer:** augenblicklich
+- **Kosten:** 16 GuP
+- **Fertigkeiten:** Dämonischer Ritus
+- **Erlernen:** alle 18; 20 EP
+- **Anmerkung:** Dies ist üblicherweise eine kleine gefällige Tat, mittel wenn das Ziel geweiht ist.
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonischer Ritus|Dämonischer Ritus]]
+- **Kosten:** 20 EP

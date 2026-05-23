@@ -1,7 +1,8 @@
 ---
 Entitätstyp: Talent
-ID: ab3b1b32-858e-4506-a0de-29d9365bf3e1
+ID: 8817ca88-44be-4b45-b58a-5248ab5870eb
 Name: Tanz der Betörung
+title: Tanz der Betörung
 Kategorie: Zauber
 Fertigkeiten:
   - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
@@ -12,13 +13,19 @@ Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zaubertänzer I
 ---
 Das Ziel entbrennt in heißer Leidenschaft zu dir. Auf einer Skala von abstoßend/uninteressant/neutral/begehrenswert/unwiderstehlich steigt deine Anziehungskraft ihm gegenüber um eine Stufe.
-<b>Hohe Qualität:</b> Steigert die Anziehungskraft um eine weitere Stufe.
-<b>Probenschwierigkeit:</b> Magieresistenz
-<b>Modifikationen:</b> Tanz des Begehrens (Probenschwierigkeit 20, Zone, 16 AsP; der Zauber wirkt auf alle Zuschauer in einem Radius von 4 Schritt, denen eine Magieresistenz-Gegenprobe misslingt.)
-<b>Vorbereitungszeit:</b> 1 Stunde
-<b>Ziel:</b> Humanoid
-<b>Reichweite:</b> 4 Schritt
-<b>Wirkungsdauer:</b> 1 Tag
-<b>Kosten:</b> 8 AsP
-<b>Fertigkeiten:</b> Einfluss, Verständigung, Zaubertänze
-<b>Erlernen:</b> Ztz 14; 10 EP
+
+- **Hohe Qualität:** Steigert die Anziehungskraft um eine weitere Stufe.
+- **Probenschwierigkeit:** Magieresistenz
+- **Modifikationen:** Tanz des Begehrens (Probenschwierigkeit 20, Zone, 16 AsP; der Zauber wirkt auf alle Zuschauer in einem Radius von 4 Schritt, denen eine Magieresistenz-Gegenprobe misslingt.)
+- **Vorbereitungszeit:** 1 Stunde
+- **Ziel:** Humanoid
+- **Reichweite:** 4 Schritt
+- **Wirkungsdauer:** 1 Tag
+- **Kosten:** 8 AsP
+- **Fertigkeiten:** Einfluss, Verständigung, Zaubertänze
+- **Erlernen:** Ztz 14; 10 EP
+
+---
+
+- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]], [[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]]
+- **Kosten:** 10 EP

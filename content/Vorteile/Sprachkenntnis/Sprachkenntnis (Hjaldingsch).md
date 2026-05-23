@@ -1,9 +1,14 @@
 ---
 Entitätstyp: Vorteil
-ID: 0a88f79f-b13c-40f3-a17a-5d8d1ef6d159
+ID: a657a20b-ddab-46e9-bb6a-4e6c5811a960
 Name: Sprachkenntnis (Hjaldingsch)
+title: Sprachkenntnis (Hjaldingsch)
 Kategorie: Sprachkenntnis
 Nachkauf: häufig
 Kosten: 20
 ---
 Hjaldingsch gehört zur Thorwalsch-Familie.
+
+---
+
+- **Kosten:** 20 EP
