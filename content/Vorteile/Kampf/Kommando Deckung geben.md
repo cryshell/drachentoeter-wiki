@@ -1,7 +1,7 @@
 ---
 Entitätstyp: Vorteil
 ID: a043690c-1444-4040-bacb-03f9baa2dd7a
-Name: Kommando: Deckung geben!
+Name: "Kommando: Deckung geben!"
 Kategorie: Kampf
 Voraussetzungen: Attribut KL 4
 Nachkauf: häufig

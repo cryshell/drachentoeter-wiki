@@ -1,7 +1,7 @@
 ---
 Entitätstyp: Vorteil
 ID: a6bfc3f9-337b-4630-9a37-1fc56cb40e37
-Name: Kommando: Kennt Keinen Schmerz!
+Name: "Kommando: Kennt Keinen Schmerz!"
 Kategorie: Kampf
 Voraussetzungen: Attribut CH 10
 Nachkauf: häufig

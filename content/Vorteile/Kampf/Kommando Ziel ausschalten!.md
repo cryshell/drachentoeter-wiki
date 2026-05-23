@@ -1,7 +1,7 @@
 ---
 Entitätstyp: Vorteil
 ID: 38a305a8-d136-4e63-aa5e-c5dd8ea1feba
-Name: Kommando: Ziel ausschalten!
+Name: "Kommando: Ziel ausschalten!"
 Kategorie: Kampf
 Voraussetzungen: Attribut KL 6
 Nachkauf: häufig

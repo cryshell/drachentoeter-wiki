@@ -1,7 +1,7 @@
 ---
 Entitätstyp: Vorteil
 ID: d7863b0b-c7bf-4a41-b13c-81b9ac9af621
-Name: Kommando: Keine Gefangenen!
+Name: "Kommando: Keine Gefangenen!"
 Kategorie: Kampf
 Voraussetzungen: Attribut CH 8
 Querverweise:
