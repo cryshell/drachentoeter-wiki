@@ -1,0 +1,25 @@
+---
+Entitätstyp: Talent
+ID: 772c22f0-77aa-47e8-8e1c-9f1fb64c886a
+Name: Handwerkssegen
+Kategorie: Liturgien
+Fertigkeiten:
+  - "[[Inhalt/Fertigkeiten/Göttlicher Ritus|Göttlicher Ritus]]"
+  - "[[Inhalt/Fertigkeiten/Harmonie|Harmonie]]"
+  - "[[Inhalt/Fertigkeiten/Heiliges Handwerk|Heiliges Handwerk]]"
+  - "[[Inhalt/Fertigkeiten/Wissen|Wissen]]"
+Kosten: 40
+Spezialisierbar: 1
+Voraussetzungen: Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Avesgeweihten I ODER Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I ODER Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Firungeweihten I ODER Vorteil Tradition der Graveshgeweihten I ODER Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Himmelswölfegeweihten I ODER Vorteil Tradition der H’Szintgeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Kamaluqgeweihten I ODER Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I ODER Vorteil Tradition der Namenlosgeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Rondrageweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der Swafnirgeweihten I ODER Vorteil Tradition der Tairachgeweihten I ODER Vorteil Tradition der Traviageweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der V’Sargeweihten I ODER Vorteil Tradition der Zsahhgeweihten I
+---
+Der Segen verleiht allen Proben auf eine Mirakel-Fertigkeit deiner Gottheit für ein bestimmtes Vorhaben Vorteil. Im Kampf endet die Wirkung nach der ersten begünstigten Probe.
+<b>Hohe Qualität:</b> Eine weitere Mirakel-Fertigkeit erhält Vorteil.
+<b>Probenschwierigkeit:</b> 12
+<b>Vorbereitungszeit:</b> 4 Minuten
+<b>Ziel:</b> Humanoid
+<b>Reichweite:</b> Berührung
+<b>Wirkungsdauer:</b> bis zum Abschluss des Vorhabens
+<b>Kosten:</b> 8 KaP
+<b>Fertigkeiten:</b> Göttlicher Ritus, Harmonie, Heiliges Handwerk, Wissen
+<b>Erlernen:</b> Ang, Gra, Hes, Hsz, Ing, Rah 12; alle anderen 16; 40 EP
+<b>Anmerkung:</b> Auch bekannt als Cereborns Handreichung (Hes) und Hauch der Leidenschaft (Rah).

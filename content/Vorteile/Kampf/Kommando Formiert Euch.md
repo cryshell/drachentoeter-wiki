@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: bc0f9492-e6d8-49f7-8f7a-aa73d5575178
+ID: c181d1f7-42bf-41cf-897a-2d342410788d
 Name: "Kommando: Formiert Euch!"
 Kategorie: Kampf
 Voraussetzungen: Attribut CH 6

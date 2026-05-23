@@ -1,0 +1,20 @@
+---
+Entitätstyp: Talent
+ID: ac5ebcda-d8a2-4bb4-a8c9-6e78864447fe
+Name: Licht des verborgenen Pfades
+Kategorie: Liturgien
+Fertigkeiten:
+  - "[[Inhalt/Fertigkeiten/Heiliges Erz|Heiliges Erz]]"
+Kosten: 10
+Spezialisierbar: 1
+Voraussetzungen: Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Graveshgeweihten I
+---
+An einer unterirdischen Weggabelung findest du die richtige Abzweigung zu deinem Ziel.
+<b>Probenschwierigkeit:</b> 12
+<b>Vorbereitungszeit:</b> 16 Aktionen
+<b>Ziel:</b> selbst
+<b>Reichweite:</b> Berührung
+<b>Wirkungsdauer:</b> augenblicklich
+<b>Kosten:</b> 2 KaP
+<b>Fertigkeiten:</b> Heiliges Erz
+<b>Erlernen:</b> Ang 12; Gra, Ing 14; 10 EP

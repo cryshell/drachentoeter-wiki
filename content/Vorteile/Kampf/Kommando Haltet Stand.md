@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2e4b8232-d74f-4ee6-ac5c-dc7c21cbcebc
+ID: 4694dc8c-211c-4e12-b82d-ed3a1e02b609
 Name: "Kommando: Haltet Stand!"
 Kategorie: Kampf
 Voraussetzungen: Attribut CH 4

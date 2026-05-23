@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a043690c-1444-4040-bacb-03f9baa2dd7a
+ID: ea7cb9b5-cc2d-4f80-9c23-e06e253ffa24
 Name: "Kommando: Deckung geben!"
 Kategorie: Kampf
 Voraussetzungen: Attribut KL 4
