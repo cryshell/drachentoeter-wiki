@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 7acee0d2-45d6-4f7b-b649-4e154856aeeb
+ID: 5025653c-2e07-4767-9424-f2552ea00469
 Name: Tiergeist (Khoramsbestie)
 title: Tiergeist (Khoramsbestie)
 Kategorie: Tiergeist

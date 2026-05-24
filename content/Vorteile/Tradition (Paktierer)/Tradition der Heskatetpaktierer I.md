@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a6edf181-b1f1-4601-ac2d-a7ee609e03da
+ID: fd2fb462-9247-4e3b-8e52-920be7fdd333
 Name: Tradition der Heskatetpaktierer I
 title: Tradition der Heskatetpaktierer I
 Kategorie: Tradition (Paktierer)

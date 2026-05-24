@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6282aa05-9c2e-4eee-8458-940a47f6034d
+ID: 67812e7e-681e-4aa1-a256-8c40ee4c658e
 Name: Todesstoß
 title: Todesstoß
 Kategorie: Kampf
@@ -16,6 +16,6 @@ Erlaubt das Manöver Todesstoß.
 
 - **Erlernen:** 60 EP
 - **Voraussetzungen:**
-  - Attribut [[Gewandheit|GE]] 8
+  - Attribut [[Gewandtheit|GE]] 8
 - **Siehe auch:**
   - [[Todesstoß]]

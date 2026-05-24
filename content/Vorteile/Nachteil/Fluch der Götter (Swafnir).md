@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 042a21b4-38bc-4234-a028-d7f3fcd98584
+ID: 1861c200-5949-44dd-8c1c-10d3584eb882
 Name: Fluch der Götter (Swafnir)
 title: Fluch der Götter (Swafnir)
 Kategorie: Nachteil

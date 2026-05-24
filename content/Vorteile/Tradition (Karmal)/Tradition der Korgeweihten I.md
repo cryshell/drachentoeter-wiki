@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 7321135e-edac-417a-90a0-dc5644cca855
+ID: 771f6d5e-d70b-48a3-9ec0-396efd26bb7a
 Name: Tradition der Korgeweihten I
 title: Tradition der Korgeweihten I
 Kategorie: Tradition (Karmal)

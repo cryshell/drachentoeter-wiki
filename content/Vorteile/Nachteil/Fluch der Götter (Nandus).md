@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 77c3590e-a678-4ba4-bbef-fdff0adf3bed
+ID: 16f22ed5-5609-4fca-adf3-e3ff845317ed
 Name: Fluch der Götter (Nandus)
 title: Fluch der Götter (Nandus)
 Kategorie: Nachteil

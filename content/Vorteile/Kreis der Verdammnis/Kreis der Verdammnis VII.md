@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 5aec7de2-3a57-49ad-bef3-af0dcde3ae33
+ID: 91c04e5a-ce3c-4e30-8e99-5abcf987f7a4
 Name: Kreis der Verdammnis VII
 title: Kreis der Verdammnis VII
 Kategorie: Kreis der Verdammnis

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 965ea710-3f13-4141-91af-6783f92b7ad0
+ID: 8db08c6e-a63b-443f-bca5-8613eeff18e1
 Name: Anrufung Aphasmayras
 title: Anrufung Aphasmayras
 Kategorie: Anrufungen
 Attribute:
-  - "[[Gewandheit|GE]]"
+  - "[[Gewandtheit|GE]]"
   - "[[Intuition|IN]]"
   - "[[Charisma|CH]]"
 Steigerungsfaktor: 3
@@ -31,7 +31,7 @@ Aphasmayra, freie Erzdämonin und Bringerin des verdorbenen Fleisches, verleiht 
 
 ---
 
-- **Attribute:** [[Gewandheit|GE]], [[Intuition|IN]], [[Charisma|CH]]
+- **Attribute:** [[Gewandtheit|GE]], [[Intuition|IN]], [[Charisma|CH]]
 - **Steigerungsfaktor:** 3
 - **Talente:**
   - [[Begehren überkomme euch|Begehren überkomme euch!]]

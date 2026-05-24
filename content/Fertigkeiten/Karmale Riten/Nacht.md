@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 1d3a50c1-6ddc-4efc-8bcc-64f9900094ca
+ID: 6f43ab9d-e3f9-4bb5-a121-e41effe1df34
 Name: Nacht
 title: Nacht
 Kategorie: Karmale Riten
 Attribute:
   - "[[Klugheit|KL]]"
   - "[[Intuition|IN]]"
-  - "[[Gewandheit|GE]]"
+  - "[[Gewandtheit|GE]]"
 Steigerungsfaktor: 2
 Talente:
   - "[[Auge des Mondes]]"
@@ -27,7 +27,7 @@ V’Sargeweihte haben jegliche Angst vor Dunkelheit verloren und können sie sic
 
 ---
 
-- **Attribute:** [[Klugheit|KL]], [[Intuition|IN]], [[Gewandheit|GE]]
+- **Attribute:** [[Klugheit|KL]], [[Intuition|IN]], [[Gewandtheit|GE]]
 - **Steigerungsfaktor:** 2
 - **Talente:**
   - [[Auge des Mondes]]

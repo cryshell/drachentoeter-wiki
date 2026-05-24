@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a0a6f3d6-de99-4ed9-8ff8-c11016f0087c
+ID: e3454c5c-191c-4fde-aa0a-9416caa6ea00
 Name: Katzenhaft
 title: Katzenhaft
 Kategorie: Profan
@@ -19,7 +19,7 @@ Kosten: 60
 
 - **Erlernen:** 60 EP
 - **Voraussetzungen:**
-  - Attribut [[Gewandheit|GE]] 8
+  - Attribut [[Gewandtheit|GE]] 8
 - **Siehe auch:**
   - [[Aktion Sprint]]
   - [[Bonusaktion]]

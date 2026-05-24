@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: df9eb506-86a7-43c2-89a0-5ef8f2878d58
+ID: 71ee39f3-aa45-40e3-8c12-41b5e5aa03f3
 Name: "Dämonische Stärkung: Überleben"
 title: "Dämonische Stärkung: Überleben"
 Kategorie: Anrufungen

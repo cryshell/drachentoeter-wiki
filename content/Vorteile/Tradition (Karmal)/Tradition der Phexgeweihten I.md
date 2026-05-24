@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4b24a885-6992-4807-a41c-fd3c5d53e38c
+ID: b130f92a-2051-4dc6-ba66-64d12a81bebf
 Name: Tradition der Phexgeweihten I
 title: Tradition der Phexgeweihten I
 Kategorie: Tradition (Karmal)

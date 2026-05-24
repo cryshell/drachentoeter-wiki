@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: d0926ada-556a-4665-bccb-30c217ef55dc
+ID: b6055a1e-247b-4708-8ae5-b47ee7d571db
 Name: Gespür der Keule
 title: Gespür der Keule
 Kategorie: Zauber

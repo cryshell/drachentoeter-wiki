@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b8a84e09-20fe-418b-a5d8-1c289eda0499
+ID: fad798d7-6a78-49ee-bf7d-b9a0efde6e2e
 Name: Lockruf (Wesen)
 title: Lockruf (Wesen)
 Kategorie: Zauber

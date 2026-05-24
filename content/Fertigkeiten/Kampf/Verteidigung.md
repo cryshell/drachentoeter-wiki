@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Fertigkeit
-ID: d9d2d844-d068-4cd2-b7e3-a7020c0aa841
+ID: 01e3ba01-778d-44a6-b4ee-3556e566587c
 Name: Verteidigung
 title: Verteidigung
 Kategorie: Kampf
 Attribute:
-  - "[[Gewandheit|GE]]"
+  - "[[Gewandtheit|GE]]"
   - "[[Körperkraft|KK]]"
   - "[[Intuition|IN]]"
 Steigerungsfaktor: 4
@@ -17,7 +17,7 @@ Wer in Verteidigung geübt ist, kann Angriffen geschickt ausweichen oder sie mit
 
 ---
 
-- **Attribute:** [[Gewandheit|GE]], [[Körperkraft|KK]], [[Intuition|IN]]
+- **Attribute:** [[Gewandtheit|GE]], [[Körperkraft|KK]], [[Intuition|IN]]
 - **Steigerungsfaktor:** 4
 - **Talente:**
   - [[Ausweichen]]

@@ -1,9 +1,8 @@
 ---
 Entitätstyp: Attribut
-ID: d5c99cea-71aa-48a9-871d-003271c1704d
+ID: 9c7afe96-b5ce-49b9-b7b2-abbefc7eb63e
 Name: Mut
 title: Mut
-aliases: "[MU]"
 Abkürzung: MU
 Steigerungsfaktor: 16
 ---

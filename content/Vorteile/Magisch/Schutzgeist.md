@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 5b9bcf88-cac2-4f07-90fc-7c1538616394
+ID: a9fa22d2-f979-4955-9679-706d9a7c9862
 Name: Schutzgeist
 title: Schutzgeist
 Kategorie: Magisch

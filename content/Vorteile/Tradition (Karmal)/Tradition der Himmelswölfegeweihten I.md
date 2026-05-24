@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 8ca24e79-fe34-4139-8923-fe1b1ccd74a0
+ID: 2c473829-acd7-41a3-bb16-b39327c17810
 Name: Tradition der Himmelswölfegeweihten I
 title: Tradition der Himmelswölfegeweihten I
 Kategorie: Tradition (Karmal)

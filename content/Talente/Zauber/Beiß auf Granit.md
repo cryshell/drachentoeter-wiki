@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: d074b81e-db1a-4e1e-a8c3-c505b8b09a89
+ID: ee3a68b1-0cc3-4995-b34c-13dbb0fd7fc5
 Name: "Beiß auf Granit!"
 title: "Beiß auf Granit!"
 Kategorie: Zauber

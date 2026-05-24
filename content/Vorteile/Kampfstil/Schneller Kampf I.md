@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a79f0f74-8195-4aec-9a41-c03e48de8cc1
+ID: b839942c-907c-414c-91e1-c24b0e56eecc
 Name: Schneller Kampf I
 title: Schneller Kampf I
 Kategorie: Kampfstil
@@ -14,4 +14,4 @@ Kosten: 20
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Attribut [[Gewandheit|GE]] 4
+  - Attribut [[Gewandtheit|GE]] 4

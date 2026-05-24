@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 010f69e9-2d9f-43e3-9c72-31238c839a92
+ID: d0d15b18-a139-4fc0-ba9b-12aebbdb1539
 Name: Nächtlicher Schatten
 title: Nächtlicher Schatten
 Kategorie: Karmale Riten
 Attribute:
   - "[[Fingerfertigkeit|FF]]"
-  - "[[Gewandheit|GE]]"
+  - "[[Gewandtheit|GE]]"
   - "[[Mut|MU]]"
 Steigerungsfaktor: 3
 Talente:
@@ -32,7 +32,7 @@ Phex ist der Herrscher der Nacht und viele seiner Diener handeln unter dem Mante
 
 ---
 
-- **Attribute:** [[Fingerfertigkeit|FF]], [[Gewandheit|GE]], [[Mut|MU]]
+- **Attribute:** [[Fingerfertigkeit|FF]], [[Gewandtheit|GE]], [[Mut|MU]]
 - **Steigerungsfaktor:** 3
 - **Talente:**
   - [[Auge des Mondes]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 28d4e32b-9cf6-43da-b22c-d9ac08b13262
+ID: 46b0003c-bfca-4b2b-a3ff-a007adb1980b
 Name: "Mirakel: Feinhandwerk"
 title: "Mirakel: Feinhandwerk"
 Kategorie: Liturgien

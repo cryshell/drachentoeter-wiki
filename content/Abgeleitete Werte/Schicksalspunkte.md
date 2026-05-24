@@ -1,8 +1,9 @@
 ---
 Entitätstyp: Abgeleiteter Wert
-ID: d2debefc-36c4-4ecb-bacf-b4b92b5d7a59
+ID: f23b892d-61ee-4061-988d-8ae66804af38
 Name: Schicksalspunkte
 title: Schicksalspunkte
+Abkürzung: SchiP
 Formel: 4
 ---
 ---

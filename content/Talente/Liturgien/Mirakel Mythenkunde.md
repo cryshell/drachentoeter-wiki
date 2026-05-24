@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 9cf490a8-4841-4312-8083-a1a672a2516e
+ID: 18fcc332-f145-459e-a7c7-6c5079b05e0e
 Name: "Mirakel: Mythenkunde"
 title: "Mirakel: Mythenkunde"
 Kategorie: Liturgien

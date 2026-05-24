@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: eabefd97-3d00-4365-82c8-ce89beab6d00
+ID: cc3e0e42-1111-4281-953f-55d88dcab57f
 Name: Beidhändiger Kampf III
 title: Beidhändiger Kampf III
 Kategorie: Kampfstil
@@ -18,7 +18,7 @@ Doppelangriff: Du darfst in einer Aktion Angriff gleichzeitig zwei Nahkampfangri
 
 - **Erlernen:** 60 EP
 - **Voraussetzungen:**
-  - Attribut [[Gewandheit|GE]] 8
+  - Attribut [[Gewandtheit|GE]] 8
   - Vorteil [[Beidhändiger Kampf II]]
 - **Siehe auch:**
   - [[Aktion Angriff]]

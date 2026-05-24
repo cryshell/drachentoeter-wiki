@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 21b707df-5def-49e7-b149-aa63d2282189
+ID: 10023e03-1651-452e-a719-730a682d4c2d
 Name: Meisterliches Ausweichen
 title: Meisterliches Ausweichen
 Kategorie: Kampf
@@ -14,4 +14,4 @@ Du kannst Nah- oder Fernkampfangriffen, elementaren Schadenszaubern oder ähnlic
 
 - **Erlernen:** 80 EP
 - **Voraussetzungen:**
-  - Attribut [[Gewandheit|GE]] 10
+  - Attribut [[Gewandtheit|GE]] 10

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f8793722-779d-4947-9343-b62c24c43483
+ID: 9de557ac-604a-46cf-8b93-fd9e7847648d
 Name: Beidhändiger Kampf II
 title: Beidhändiger Kampf II
 Kategorie: Kampfstil
@@ -19,7 +19,7 @@ Alle Waffen mit RW 1 zählen für dich als Nebenhandwaffen. +1 AT mit Waffen, di
 
 - **Erlernen:** 40 EP
 - **Voraussetzungen:**
-  - Attribut [[Gewandheit|GE]] 6
+  - Attribut [[Gewandtheit|GE]] 6
   - Vorteil [[Beidhändiger Kampf I]]
 - **Siehe auch:**
   - [[Nebenhand]]

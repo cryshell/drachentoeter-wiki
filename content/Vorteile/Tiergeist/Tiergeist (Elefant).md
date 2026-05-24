@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0d63b3fa-5c3e-4396-94a1-6b768d344e2c
+ID: 904af106-49a1-43d2-b624-c2b677d410d8
 Name: Tiergeist (Elefant)
 title: Tiergeist (Elefant)
 Kategorie: Tiergeist

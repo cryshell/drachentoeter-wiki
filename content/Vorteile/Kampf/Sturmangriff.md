@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 422dfacb-c300-4b52-ad2c-52b6f7a90981
+ID: bfc0fc13-d60f-487e-b12c-855dc2d056b5
 Name: Sturmangriff
 title: Sturmangriff
 Kategorie: Kampf
@@ -17,7 +17,7 @@ Wenn du die Aktion Sprint wählst, kannst du als Bonusaktion einen Nahkampfangri
 
 - **Erlernen:** 40 EP
 - **Voraussetzungen:**
-  - Attribut [[Gewandheit|GE]] 6
+  - Attribut [[Gewandtheit|GE]] 6
 - **Siehe auch:**
   - [[Aktion Sprint]]
   - [[GS]]

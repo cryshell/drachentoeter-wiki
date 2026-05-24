@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 82082552-360f-4646-9e97-4d159331fd7f
+ID: 4dc3cdbb-4dc7-4e74-b1e0-0607e47d4efa
 Name: Fluch der Götter (Angrosch)
 title: Fluch der Götter (Angrosch)
 Kategorie: Nachteil

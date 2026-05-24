@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 736c6f00-e2db-4600-a225-05bb32f852af
+ID: 4085f9ac-afb8-4619-b4b0-b2854feacc5d
 Name: Jagd
 title: Jagd
 Kategorie: Natur
 Attribute:
-  - "[[Gewandheit|GE]]"
+  - "[[Gewandtheit|GE]]"
   - "[[Intuition|IN]]"
   - "[[Mut|MU]]"
 Steigerungsfaktor: 3
@@ -19,7 +19,7 @@ Mit Jagd kannst du dich in der Wildnis auf die Lauer legen, Fährten suchen und 
 
 ---
 
-- **Attribute:** [[Gewandheit|GE]], [[Intuition|IN]], [[Mut|MU]]
+- **Attribute:** [[Gewandtheit|GE]], [[Intuition|IN]], [[Mut|MU]]
 - **Steigerungsfaktor:** 3
 - **Talente:**
   - [[Fallenstellen]]

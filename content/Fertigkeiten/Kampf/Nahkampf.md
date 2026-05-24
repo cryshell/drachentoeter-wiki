@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 0c42660b-b0bf-4b00-a97e-a9b71c3fcc51
+ID: 23459ce2-4ed9-49d5-8334-96aaeb69bc20
 Name: Nahkampf
 title: Nahkampf
 Kategorie: Kampf
 Attribute:
-  - "[[Gewandheit|GE]]"
+  - "[[Gewandtheit|GE]]"
   - "[[Körperkraft|KK]]"
   - "[[Mut|MU]]"
 Steigerungsfaktor: 3
@@ -21,7 +21,7 @@ Die Fertigkeit Nahkampf umfasst Angriffstechniken mit Nahkampfwaffen – sei es 
 
 ---
 
-- **Attribute:** [[Gewandheit|GE]], [[Körperkraft|KK]], [[Mut|MU]]
+- **Attribute:** [[Gewandtheit|GE]], [[Körperkraft|KK]], [[Mut|MU]]
 - **Steigerungsfaktor:** 3
 - **Talente:**
   - [[Handgemenge]]

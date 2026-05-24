@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4a33fd17-bba4-41c7-ab98-c4ea49010d39
+ID: 2445431f-47c7-4b7e-a0e7-ee4e00da9a5a
 Name: Fluch der Götter (Himmelswölfe)
 title: Fluch der Götter (Himmelswölfe)
 Kategorie: Nachteil

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 53ed988f-5641-4437-abde-f236fc5932dc
+ID: 0267a758-63b1-4c15-ab94-af65a3385e39
 Name: Tiergeist (Gebirgsbock)
 title: Tiergeist (Gebirgsbock)
 Kategorie: Tiergeist

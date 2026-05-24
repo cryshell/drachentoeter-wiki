@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 72e6b07c-e292-4d08-aa36-d2f745069499
+ID: 5986dee3-6971-44ea-9b3b-a190b08b1c69
 Name: Jagd
 title: Jagd
 Kategorie: Karmale Riten
 Attribute:
   - "[[Intuition|IN]]"
-  - "[[Gewandheit|GE]]"
+  - "[[Gewandtheit|GE]]"
   - "[[Mut|MU]]"
 Steigerungsfaktor: 2
 Talente:
@@ -33,7 +33,7 @@ Die Hüter der Jagd begleiten Jagdgesellschaften und achten über die Einhaltung
 
 ---
 
-- **Attribute:** [[Intuition|IN]], [[Gewandheit|GE]], [[Mut|MU]]
+- **Attribute:** [[Intuition|IN]], [[Gewandtheit|GE]], [[Mut|MU]]
 - **Steigerungsfaktor:** 2
 - **Talente:**
   - [[Auge des Jägers]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 5037dfa7-3b0c-4936-9b18-b01a2d4bb5e1
+ID: 2015fa0a-cbbe-4aba-98ae-92abd3b274e1
 Name: "Dämonische Stärkung: Grobhandwerk"
 title: "Dämonische Stärkung: Grobhandwerk"
 Kategorie: Anrufungen

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: aaccfd53-fbc1-48b7-a740-a275bc7587db
+ID: d6701b2d-57da-4f2b-acba-2096525af17b
 Name: Hruruzat
 title: Hruruzat
 Kategorie: Kampf
@@ -14,4 +14,4 @@ Du kannst mit der Waffe Unbewaffnet in einer Aktion Angriff mit einem Sprungtrit
 
 - **Erlernen:** 40 EP
 - **Voraussetzungen:**
-  - Attribut [[Gewandheit|GE]] 6
+  - Attribut [[Gewandtheit|GE]] 6

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 9c04660d-728e-4c81-b91f-e1067fe0ee9b
+ID: 99e55297-59a6-40af-b56e-2f729ad1039f
 Name: Darbietung
 title: Darbietung
 Kategorie: Körper
 Attribute:
   - "[[Charisma|CH]]"
-  - "[[Gewandheit|GE]]"
+  - "[[Gewandtheit|GE]]"
   - "[[Klugheit|KL]]"
 Steigerungsfaktor: 2
 Talente:
@@ -18,7 +18,7 @@ Eine künstlerische Darbietung kann jede Festlichkeit unvergessen machen und zu 
 
 ---
 
-- **Attribute:** [[Charisma|CH]], [[Gewandheit|GE]], [[Klugheit|KL]]
+- **Attribute:** [[Charisma|CH]], [[Gewandtheit|GE]], [[Klugheit|KL]]
 - **Steigerungsfaktor:** 2
 - **Talente:**
   - [[Darstellen]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 03684b0c-39a3-4d97-b5a4-957012405bdc
+ID: f7aa4f6e-234f-42f0-8a70-c6ebd0994d14
 Name: Fluch der Götter (Levthan)
 title: Fluch der Götter (Levthan)
 Kategorie: Nachteil

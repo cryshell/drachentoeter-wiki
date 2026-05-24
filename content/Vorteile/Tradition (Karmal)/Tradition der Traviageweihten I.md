@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d1d4cfae-5217-46ef-99c0-02d2539db732
+ID: b101ffed-51ed-43ce-a224-ca64cbb9e03d
 Name: Tradition der Traviageweihten I
 title: Tradition der Traviageweihten I
 Kategorie: Tradition (Karmal)

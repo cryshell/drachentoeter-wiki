@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c1287674-e46d-45eb-b797-2cd296cec2cd
+ID: 57152960-b32d-4b94-bfc3-2a3dc814d00a
 Name: "Mirakel: Nahkampf"
 title: "Mirakel: Nahkampf"
 Kategorie: Liturgien

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c1413800-4fd0-450a-959a-e69439a37abd
+ID: 51ce86b4-8298-480f-98df-2fcd9916201b
 Name: Geistheilung
 title: Geistheilung
 Kategorie: Zauber

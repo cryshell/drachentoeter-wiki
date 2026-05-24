@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 50aed70f-6b35-49e8-93b3-3296f2efa959
+ID: cddef2a1-0d3f-4f52-b783-eb621dbaa749
 Name: Fluch der Götter (Hesinde)
 title: Fluch der Götter (Hesinde)
 Kategorie: Nachteil

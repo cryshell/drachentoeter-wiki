@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 45c3e9c6-c050-4800-a954-b4ffc2489c89
+ID: 7f86d2be-3378-46ad-97c4-cd9b208dcfd3
 Name: "Stein wandle!"
 title: "Stein wandle!"
 Kategorie: Zauber

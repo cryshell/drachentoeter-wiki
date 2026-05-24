@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 64087136-8a15-40f3-abcc-2c730fffa4ce
+ID: 309a5823-e4a1-4ce4-84ef-9a8420b3be08
 Name: "Mirakel: Magiekunde"
 title: "Mirakel: Magiekunde"
 Kategorie: Liturgien

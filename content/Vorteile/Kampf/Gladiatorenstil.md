@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 9c82440d-7ebc-4a5d-b283-cd7abd45894c
+ID: 2575044f-1344-4233-be5b-ff8fae5fe44d
 Name: Gladiatorenstil
 title: Gladiatorenstil
 Kategorie: Kampf
@@ -16,6 +16,6 @@ Deine unbewaffneten Umreißen-Manöver sind spektakulär. Wenn die Gegenprobe de
 
 - **Erlernen:** 40 EP
 - **Voraussetzungen:**
-  - Attribut [[Gewandheit|GE]] 6
+  - Attribut [[Gewandtheit|GE]] 6
 - **Siehe auch:**
   - [[Umreißen]]

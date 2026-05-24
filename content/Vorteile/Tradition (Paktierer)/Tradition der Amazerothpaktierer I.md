@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2c005489-b5c4-4f7b-98b5-2e11d34d2f56
+ID: 12b8f05f-d663-458e-ab20-e1bde197d28a
 Name: Tradition der Amazerothpaktierer I
 title: Tradition der Amazerothpaktierer I
 Kategorie: Tradition (Paktierer)

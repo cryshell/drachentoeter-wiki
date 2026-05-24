@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 05995844-2884-4e42-878b-8032b05ef015
+ID: 8fdfb182-928f-4dcc-ad83-8441e05fd74d
 Name: Beidhändiger Kampf I
 title: Beidhändiger Kampf I
 Kategorie: Kampfstil
@@ -17,7 +17,7 @@ Nebenhandangriffe sind nicht erschwert.
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Attribut [[Gewandheit|GE]] 4
+  - Attribut [[Gewandtheit|GE]] 4
 - **Siehe auch:**
   - [[Nebenhand]]
   - [[Bonusaktion]]

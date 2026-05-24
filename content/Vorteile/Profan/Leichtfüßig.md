@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4575b0e4-8652-437f-b4d0-44cf732b7ae8
+ID: cae8dc3b-c189-4f01-a49e-f34ca1bec636
 Name: Leichtfüßig
 title: Leichtfüßig
 Kategorie: Profan
@@ -16,6 +16,6 @@ Du darfst fehlgeschlagene Proben auf Körperfertigkeiten (außer Wahrnehmung) f�
 
 - **Erlernen:** 40 EP
 - **Voraussetzungen:**
-  - Attribut [[Gewandheit|GE]] 6
+  - Attribut [[Gewandtheit|GE]] 6
 - **Siehe auch:**
   - [[Willenskraftpunkte]]

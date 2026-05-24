@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 011733cd-e5f6-4e5f-95ab-4d34551e5b25
+ID: f80da284-11bc-4862-ae65-04b4f95d65f1
 Name: "Dämonische Stärkung: Diplomatie"
 title: "Dämonische Stärkung: Diplomatie"
 Kategorie: Anrufungen

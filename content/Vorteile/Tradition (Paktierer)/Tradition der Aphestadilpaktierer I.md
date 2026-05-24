@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: dfad72f7-128e-4025-b19b-85e8d0d3b389
+ID: 5fac94cd-1b1a-4264-b364-4685945a41b6
 Name: Tradition der Aphestadilpaktierer I
 title: Tradition der Aphestadilpaktierer I
 Kategorie: Tradition (Paktierer)

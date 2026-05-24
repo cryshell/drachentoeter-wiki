@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 5ca15e7f-8ac2-4836-af0c-a14074cdedcc
+ID: 72565cb7-b458-4dea-bcb4-e7a8c6dd49f0
 Name: Fluch der Götter (Ingerimm)
 title: Fluch der Götter (Ingerimm)
 Kategorie: Nachteil

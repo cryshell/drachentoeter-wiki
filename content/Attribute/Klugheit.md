@@ -1,9 +1,8 @@
 ---
 Entitätstyp: Attribut
-ID: 77574f15-dd47-4be5-b1cd-68d314f80225
+ID: 9f353741-fd44-4677-8158-8633695e5004
 Name: Klugheit
 title: Klugheit
-aliases: "[KL]"
 Abkürzung: KL
 Steigerungsfaktor: 16
 ---

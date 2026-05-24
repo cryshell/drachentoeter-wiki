@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: d3be0a24-0eee-4b33-b581-55e33e56c6b2
+ID: 15a290d4-3bbd-4262-bf34-cbee0db10be1
 Name: Geister der Stärkung
 title: Geister der Stärkung
 Kategorie: Zauberfertigkeiten

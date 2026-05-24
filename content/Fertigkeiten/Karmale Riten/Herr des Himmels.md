@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 0a5bfe1b-46bf-4eee-9d2f-25fc4c48da2c
+ID: 42f612f8-1753-4b7b-9cb4-0df8bd2f1d4a
 Name: Herr des Himmels
 title: Herr des Himmels
 Kategorie: Karmale Riten
 Attribute:
   - "[[Mut|MU]]"
-  - "[[Gewandheit|GE]]"
+  - "[[Gewandtheit|GE]]"
   - "[[Konstitution|KO]]"
 Steigerungsfaktor: 2
 Talente:
@@ -28,7 +28,7 @@ Priester des Chr’Ssir’Ssr vermögen es, das Wetter zu kontrollieren und mit 
 
 ---
 
-- **Attribute:** [[Mut|MU]], [[Gewandheit|GE]], [[Konstitution|KO]]
+- **Attribute:** [[Mut|MU]], [[Gewandtheit|GE]], [[Konstitution|KO]]
 - **Steigerungsfaktor:** 2
 - **Talente:**
   - [[Anrufung der Winde]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 1c56ab3a-55cb-44b5-b0bb-c0752566b8ef
+ID: ca4a59c0-d809-4213-a344-72e596478b6a
 Name: Opferkeule (passiv)
 title: Opferkeule (passiv)
 Kategorie: Zauber

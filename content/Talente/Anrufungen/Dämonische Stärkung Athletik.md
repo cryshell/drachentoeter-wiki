@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: ac6112cc-212a-47f9-bf7f-6f14ece76fcf
+ID: 4ca85529-c210-4543-9b28-7e672248d9ed
 Name: "Dämonische Stärkung: Athletik"
 title: "Dämonische Stärkung: Athletik"
 Kategorie: Anrufungen

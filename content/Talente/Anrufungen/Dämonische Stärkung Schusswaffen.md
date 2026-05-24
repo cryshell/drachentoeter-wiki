@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 87450ace-8f55-49e8-aa2d-4f3373204de6
+ID: dc025729-1531-40cb-98eb-a4e01f29ed1b
 Name: "Dämonische Stärkung: Schusswaffen"
 title: "Dämonische Stärkung: Schusswaffen"
 Kategorie: Anrufungen

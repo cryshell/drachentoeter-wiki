@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 9460fcb8-4371-4344-bb27-2b627748a2a0
+ID: 27fd10cb-4a2a-4d22-b79b-b89d92c8922d
 Name: Nipakau
 title: Nipakau
 Kategorie: Karmale Riten
 Attribute:
   - "[[Konstitution|KO]]"
-  - "[[Gewandheit|GE]]"
+  - "[[Gewandtheit|GE]]"
   - "[[Intuition|IN]]"
 Steigerungsfaktor: 3
 Talente:
@@ -30,7 +30,7 @@ Laut der Lehre der Waldmenschen ist alles in der Welt von einem Nipakau beseelt,
 
 ---
 
-- **Attribute:** [[Konstitution|KO]], [[Gewandheit|GE]], [[Intuition|IN]]
+- **Attribute:** [[Konstitution|KO]], [[Gewandtheit|GE]], [[Intuition|IN]]
 - **Steigerungsfaktor:** 3
 - **Talente:**
   - [[Auge der wartenden Seelen]]

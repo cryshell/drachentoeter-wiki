@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 60631d9e-815b-4fc8-8f70-bbdcfb9bf1ee
+ID: e13f5fcc-4b40-418c-996b-1b2bba1f9d84
 Name: Tradition der Perainegeweihten I
 title: Tradition der Perainegeweihten I
 Kategorie: Tradition (Karmal)

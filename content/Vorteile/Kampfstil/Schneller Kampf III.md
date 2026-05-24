@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6f8ef736-a3a8-4460-b0b3-c0fbe15dc6f9
+ID: 3eb87794-f85a-45c9-8516-6d89c2ce950c
 Name: Schneller Kampf III
 title: Schneller Kampf III
 Kategorie: Kampfstil
@@ -18,7 +18,7 @@ Unterlaufen: Wenn du in einer Aktion Angriff einen Nahkampftreffer landest, darf
 
 - **Erlernen:** 60 EP
 - **Voraussetzungen:**
-  - Attribut [[Gewandheit|GE]] 8
+  - Attribut [[Gewandtheit|GE]] 8
   - Vorteil [[Schneller Kampf II]]
 - **Siehe auch:**
   - [[Aktion Angriff]]

@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 9d103cbb-c59b-46b2-99dc-ca39121c8cc1
+ID: 5d2f3f84-3363-49e3-bb0d-c2b0b4bc5995
 Name: Wandlung
 title: Wandlung
 Kategorie: Karmale Riten
 Attribute:
   - "[[Intuition|IN]]"
   - "[[Mut|MU]]"
-  - "[[Gewandheit|GE]]"
+  - "[[Gewandtheit|GE]]"
 Steigerungsfaktor: 2
 Talente:
   - "[[Alte Schuppen]]"
@@ -26,7 +26,7 @@ Zsahh steht für den steten Wandel. Er sorgt dafür, dass nie etwas bleibt, wie 
 
 ---
 
-- **Attribute:** [[Intuition|IN]], [[Mut|MU]], [[Gewandheit|GE]]
+- **Attribute:** [[Intuition|IN]], [[Mut|MU]], [[Gewandtheit|GE]]
 - **Steigerungsfaktor:** 2
 - **Talente:**
   - [[Alte Schuppen]]

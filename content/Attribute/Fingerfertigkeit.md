@@ -1,9 +1,8 @@
 ---
 Entitätstyp: Attribut
-ID: b6aa28ed-46ae-47c4-95b9-0b327258717a
+ID: b685af79-f81d-4749-bda0-e17b096ae39a
 Name: Fingerfertigkeit
 title: Fingerfertigkeit
-aliases: "[FF]"
 Abkürzung: FF
 Steigerungsfaktor: 16
 ---

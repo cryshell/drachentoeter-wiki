@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 680c5d7b-683c-4be8-9d6a-20aca2d77e57
+ID: 67ad3c24-391a-44a0-a40b-cb1ddc2af9ea
 Name: Tradition der Chr’Ssir’Ssrgeweihten I
 title: Tradition der Chr’Ssir’Ssrgeweihten I
 Kategorie: Tradition (Karmal)

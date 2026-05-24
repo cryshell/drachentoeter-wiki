@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Fertigkeit
-ID: f2d97102-461f-47f9-8416-4ca40a6c2a54
+ID: ac430134-e68d-4878-a430-ebbb3dd2e152
 Name: Tierführung
 title: Tierführung
 Kategorie: Körper
 Attribute:
   - "[[Charisma|CH]]"
-  - "[[Gewandheit|GE]]"
+  - "[[Gewandtheit|GE]]"
   - "[[Körperkraft|KK]]"
 Steigerungsfaktor: 3
 Talente:
@@ -18,7 +18,7 @@ Mit Tierführung kannst du ein Pferd reiten, einen Falken abrichten, einen angre
 
 ---
 
-- **Attribute:** [[Charisma|CH]], [[Gewandheit|GE]], [[Körperkraft|KK]]
+- **Attribute:** [[Charisma|CH]], [[Gewandtheit|GE]], [[Körperkraft|KK]]
 - **Steigerungsfaktor:** 3
 - **Talente:**
   - [[Abrichten]]

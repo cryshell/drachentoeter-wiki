@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 856c7b8f-118c-4466-b540-f9d42423c7f5
+ID: 653f48ea-73a1-4e33-b814-f7f85824fadb
 Name: Anrufung Belkelels
 title: Anrufung Belkelels
 Kategorie: Anrufungen
 Attribute:
   - "[[Charisma|CH]]"
   - "[[Konstitution|KO]]"
-  - "[[Gewandheit|GE]]"
+  - "[[Gewandtheit|GE]]"
 Steigerungsfaktor: 2
 Talente:
   - "[[Belkelels Ekstase]]"
@@ -30,7 +30,7 @@ Belkelel, Widersacherin von Rahja und vielgeschlechtliche Versucherin, versprich
 
 ---
 
-- **Attribute:** [[Charisma|CH]], [[Konstitution|KO]], [[Gewandheit|GE]]
+- **Attribute:** [[Charisma|CH]], [[Konstitution|KO]], [[Gewandtheit|GE]]
 - **Steigerungsfaktor:** 2
 - **Talente:**
   - [[Belkelels Ekstase]]

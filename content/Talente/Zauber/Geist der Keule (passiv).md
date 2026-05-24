@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: dd83f7ec-2ce8-47f0-b487-e0f26200f481
+ID: 28d76348-91ab-40f2-a9c4-b82ad1a15fb4
 Name: Geist der Keule (passiv)
 title: Geist der Keule (passiv)
 Kategorie: Zauber

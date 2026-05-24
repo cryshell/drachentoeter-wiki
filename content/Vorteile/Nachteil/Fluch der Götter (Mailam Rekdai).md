@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4dec7c35-18ae-4acd-94c6-5fdd2dadd81e
+ID: 48f85448-833c-4c40-b9c9-dd0203a99e91
 Name: Fluch der Götter (Mailam Rekdai)
 title: Fluch der Götter (Mailam Rekdai)
 Kategorie: Nachteil

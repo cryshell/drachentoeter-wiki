@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 8fe013d8-7c22-4184-836f-e0e350c216ff
+ID: 5591170c-c3d5-407c-854e-334f675d5089
 Name: Zaubertänze
 title: Zaubertänze
 Kategorie: Zauberfertigkeiten
 Attribute:
   - "[[Charisma|CH]]"
-  - "[[Gewandheit|GE]]"
+  - "[[Gewandtheit|GE]]"
   - "[[Konstitution|KO]]"
 Steigerungsfaktor: 3
 Talente:
@@ -35,7 +35,7 @@ Die Zaubertänze der Tulamiden werden nur selten als Magie wahrgenommen und geh�
 
 ---
 
-- **Attribute:** [[Charisma|CH]], [[Gewandheit|GE]], [[Konstitution|KO]]
+- **Attribute:** [[Charisma|CH]], [[Gewandtheit|GE]], [[Konstitution|KO]]
 - **Steigerungsfaktor:** 3
 - **Talente:**
   - [[Tanz der Angriffslust]]

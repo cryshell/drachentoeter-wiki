@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 44069ddf-a5c2-4052-ba9a-68d36d835c02
+ID: 4013a69b-2056-4b39-9145-125c6697467f
 Name: Tradition der Zaubertänzer II
 title: Tradition der Zaubertänzer II
 Kategorie: Tradition (Magisch)
@@ -16,5 +16,5 @@ Die Darbietung eines erfahrenen Zaubertänzers hinterlässt einen bleibenden Ein
 
 - **Erlernen:** 40 EP
 - **Voraussetzungen:**
-  - Attribut [[Gewandheit|GE]] 6
+  - Attribut [[Gewandtheit|GE]] 6
   - Vorteil [[Tradition der Zaubertänzer I]]

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: eb94b29b-5361-44fb-af68-9d20548bc18b
+ID: 744fcf9b-cae3-43ef-8bbc-f536813a2505
 Name: Eigenschaften
 title: Eigenschaften
 Kategorie: Zauberfertigkeiten
 Attribute:
-  - "[[Gewandheit|GE]]"
+  - "[[Gewandtheit|GE]]"
   - "[[Intuition|IN]]"
   - "[[Konstitution|KO]]"
 Steigerungsfaktor: 3
@@ -126,7 +126,7 @@ Mit Eigenschaftsmagie kannst du deine Fähigkeiten und die deiner Gefährten ver
 
 ---
 
-- **Attribute:** [[Gewandheit|GE]], [[Intuition|IN]], [[Konstitution|KO]]
+- **Attribute:** [[Gewandtheit|GE]], [[Intuition|IN]], [[Konstitution|KO]]
 - **Steigerungsfaktor:** 3
 - **Talente:**
   - [[Adlerauge Luchsenohr]]

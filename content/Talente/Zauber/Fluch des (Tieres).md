@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 911922b6-05bf-4237-b499-d3bcbe7fe190
+ID: f479343b-f9f8-4956-84ae-f812d0005360
 Name: Fluch des (Tieres)
 title: Fluch des (Tieres)
 Kategorie: Zauber

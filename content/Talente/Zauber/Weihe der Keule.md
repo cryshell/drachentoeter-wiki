@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 9b04e948-1923-4503-b0ed-f84f748a8f7f
+ID: 25ab75d9-f48c-4e48-a361-279ff251f771
 Name: Weihe der Keule
 title: Weihe der Keule
 Kategorie: Zauber

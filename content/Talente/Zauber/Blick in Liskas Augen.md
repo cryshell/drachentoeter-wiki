@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 3b7e6ee2-cc0c-43ae-8436-680aa5b14449
+ID: fbbaa75d-3647-4db1-bd4f-31efaa01dcbc
 Name: Blick in Liskas Augen
 title: Blick in Liskas Augen
 Kategorie: Zauber

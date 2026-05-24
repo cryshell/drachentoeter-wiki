@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f0e3a0dc-8bf4-4c9b-8173-5760545fc49e
+ID: 315ec34b-c35c-403c-bd92-e7b5f3cad0a0
 Name: Tradition der Tairachgeweihten I
 title: Tradition der Tairachgeweihten I
 Kategorie: Tradition (Karmal)

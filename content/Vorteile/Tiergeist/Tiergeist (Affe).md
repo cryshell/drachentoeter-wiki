@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 30d60a06-4f83-44fb-b587-a97c6f04966e
+ID: a74c4622-2ebb-4a49-9267-c949b21144cb
 Name: Tiergeist (Affe)
 title: Tiergeist (Affe)
 Kategorie: Tiergeist

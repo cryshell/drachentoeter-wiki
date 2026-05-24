@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 3c613430-093a-4b76-8275-0f19a096c5c4
+ID: 85d8d410-445a-4508-8252-b6d4e85d65a8
 Name: Anrufung Lolgramoths
 title: Anrufung Lolgramoths
 Kategorie: Anrufungen
 Attribute:
   - "[[Fingerfertigkeit|FF]]"
-  - "[[Gewandheit|GE]]"
+  - "[[Gewandtheit|GE]]"
   - "[[Intuition|IN]]"
 Steigerungsfaktor: 2
 Talente:
@@ -30,7 +30,7 @@ Lolgramoth, Widersacher von Travia und Säer der Zwietracht, ermächtigt seine P
 
 ---
 
-- **Attribute:** [[Fingerfertigkeit|FF]], [[Gewandheit|GE]], [[Intuition|IN]]
+- **Attribute:** [[Fingerfertigkeit|FF]], [[Gewandtheit|GE]], [[Intuition|IN]]
 - **Steigerungsfaktor:** 2
 - **Talente:**
   - [[Dämonische Stärkung Athletik|Dämonische Stärkung: Athletik]]

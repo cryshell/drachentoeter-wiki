@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b73cb7c1-a7ae-481a-bf40-236aa244f601
+ID: 862245a2-caa8-4d65-ada8-4b5a076e593b
 Name: "Dämonische Stärkung: Nahkampf"
 title: "Dämonische Stärkung: Nahkampf"
 Kategorie: Anrufungen

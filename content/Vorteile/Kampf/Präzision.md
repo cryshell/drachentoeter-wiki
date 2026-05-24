@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: da2354ce-4c1e-428e-be09-91e7c1eb0472
+ID: 9e984c38-dac8-4131-a240-9eaeb5d0224f
 Name: Präzision
 title: Präzision
 Kategorie: Kampf
@@ -14,4 +14,4 @@ Einmal pro Zug richtest du bei einem Nahkampftreffer +2W6 TP an, wenn der gewert
 
 - **Erlernen:** 80 EP
 - **Voraussetzungen:**
-  - Attribut [[Gewandheit|GE]] 10
+  - Attribut [[Gewandtheit|GE]] 10

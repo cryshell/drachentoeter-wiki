@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: af44730a-b3dd-4372-b15d-8d3a9805ed70
+ID: 2e0adf2b-448a-4357-904f-6bd853e6c507
 Name: Kreis der Verdammnis III
 title: Kreis der Verdammnis III
 Kategorie: Kreis der Verdammnis

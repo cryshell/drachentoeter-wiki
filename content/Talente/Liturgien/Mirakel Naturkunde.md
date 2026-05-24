@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e2b9f531-aaee-419d-a6c7-02f1a85679b1
+ID: b60ef804-f150-4d99-9189-c2a8f0548d4b
 Name: "Mirakel: Naturkunde"
 title: "Mirakel: Naturkunde"
 Kategorie: Liturgien

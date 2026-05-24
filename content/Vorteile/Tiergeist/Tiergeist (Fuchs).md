@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0da0cc1b-c8e0-49d4-8e84-33c6477aded6
+ID: 5d134e6e-fd4f-42e8-a4ac-8df612d40da6
 Name: Tiergeist (Fuchs)
 title: Tiergeist (Fuchs)
 Kategorie: Tiergeist

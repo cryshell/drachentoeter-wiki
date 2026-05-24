@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 62384350-6f67-45ef-ab45-3f0d0ad9cdf9
+ID: bd839c1d-65ae-4754-a48e-f1af89137519
 Name: Fluch der Götter (Praios)
 title: Fluch der Götter (Praios)
 Kategorie: Nachteil

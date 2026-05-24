@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 2843ba59-49e7-402b-8852-79e8d4fb490d
+ID: c20e35d7-31ff-4bd5-a5e4-31c6dcb42d84
 Name: "Schlangenbund: Dinge aufspüren"
 title: "Schlangenbund: Dinge aufspüren"
 Kategorie: Liturgien

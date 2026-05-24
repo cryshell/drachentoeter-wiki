@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: e77cc744-c02d-4c36-945f-064c990583e9
+ID: f6d376bd-86df-4ea8-b649-147f4fdff733
 Name: Wind und Wogen
 title: Wind und Wogen
 Kategorie: Karmale Riten
 Attribute:
-  - "[[Gewandheit|GE]]"
+  - "[[Gewandtheit|GE]]"
   - "[[Intuition|IN]]"
   - "[[Klugheit|KL]]"
 Steigerungsfaktor: 3
@@ -37,7 +37,7 @@ Die Mystiker unter den Efferdgeweihten schwimmen mit den Delphinen, studieren Wi
 
 ---
 
-- **Attribute:** [[Gewandheit|GE]], [[Intuition|IN]], [[Klugheit|KL]]
+- **Attribute:** [[Gewandtheit|GE]], [[Intuition|IN]], [[Klugheit|KL]]
 - **Steigerungsfaktor:** 3
 - **Talente:**
   - [[Anrufung Kaucas]]

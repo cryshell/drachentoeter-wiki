@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e74096c9-3551-4d05-bdc5-c64a84ec5255
+ID: 6155c45e-be1b-4de0-a144-701dd527ae43
 Name: Ausweichen II
 title: Ausweichen II
 Kategorie: Profan
@@ -14,4 +14,4 @@ Deine Ausweichen-VT steigt um +1 Punkt.
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Attribut [[Gewandheit|GE]] 8
+  - Attribut [[Gewandtheit|GE]] 8

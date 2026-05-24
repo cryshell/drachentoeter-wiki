@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: fcf06038-3d2b-4154-b235-e83a60a354df
+ID: cb5b285f-9054-41af-9c21-56e8f5346814
 Name: "Dämonische Stärkung: Wurfwaffen"
 title: "Dämonische Stärkung: Wurfwaffen"
 Kategorie: Anrufungen

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c654dee8-306a-4aaa-b9b1-a935836aef53
+ID: b3ab0ad8-de9f-4ccf-a536-8e80807bd341
 Name: Fluch der Götter (Tsa)
 title: Fluch der Götter (Tsa)
 Kategorie: Nachteil

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: a349a757-d2eb-48ed-b041-c7aa97a66aa5
+ID: 89ba4eaa-7331-418c-8c0a-4971d612bbbd
 Name: Anrufung Belshirashs
 title: Anrufung Belshirashs
 Kategorie: Anrufungen
 Attribute:
   - "[[Fingerfertigkeit|FF]]"
-  - "[[Gewandheit|GE]]"
+  - "[[Gewandtheit|GE]]"
   - "[[Konstitution|KO]]"
 Steigerungsfaktor: 3
 Talente:
@@ -32,7 +32,7 @@ Belshirash, Widersacher von Firun und Jäger der Verdammnis, hilft seinen Paktie
 
 ---
 
-- **Attribute:** [[Fingerfertigkeit|FF]], [[Gewandheit|GE]], [[Konstitution|KO]]
+- **Attribute:** [[Fingerfertigkeit|FF]], [[Gewandtheit|GE]], [[Konstitution|KO]]
 - **Steigerungsfaktor:** 3
 - **Talente:**
   - [[Beutesinn]]

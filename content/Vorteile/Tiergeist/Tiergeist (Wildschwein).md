@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 687ee29b-8bb8-4ad1-87b0-f16da5dda607
+ID: 1cf3d208-e418-4d13-9200-3ae739d3db64
 Name: Tiergeist (Wildschwein)
 title: Tiergeist (Wildschwein)
 Kategorie: Tiergeist

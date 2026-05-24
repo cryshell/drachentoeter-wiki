@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 5ae6d344-ccfd-44d6-a0e4-6ce246966e87
+ID: 3f908ffe-445a-4603-ae24-859918775f25
 Name: Kreis der Verdammnis II
 title: Kreis der Verdammnis II
 Kategorie: Kreis der Verdammnis

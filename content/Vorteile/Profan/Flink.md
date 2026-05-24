@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 97e927f3-160f-4d84-8825-accbccd52c70
+ID: b1b1c582-86b9-4bfa-bfe3-243cade63784
 Name: Flink
 title: Flink
 Kategorie: Profan
@@ -16,6 +16,6 @@ Deine Geschwindigkeit steigt um 1 Punkt.
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Attribut [[Gewandheit|GE]] 4
+  - Attribut [[Gewandtheit|GE]] 4
 - **Siehe auch:**
   - [[GS]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 26bac31e-0a52-4d67-aad9-624f087b5658
+ID: bec2fd70-3e72-44cc-aee0-ffa7d0aeccff
 Name: "Mirakel: KO"
 title: "Mirakel: KO"
 Kategorie: Liturgien

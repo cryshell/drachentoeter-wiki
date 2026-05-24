@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 19e831f1-38ae-4feb-a5e6-9f75555cefa5
+ID: 05aa34dc-e3a1-4c06-89ce-ea7ce90597d0
 Name: Tradition der Geschützbauer
 title: Tradition der Geschützbauer
 Kategorie: Tradition (Profan)

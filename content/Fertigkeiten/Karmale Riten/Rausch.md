@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: a9e310f4-2369-4d26-a286-2073509d1c13
+ID: 94e13d60-43f3-4ca7-9c2c-cc36e7d6c544
 Name: Rausch
 title: Rausch
 Kategorie: Karmale Riten
 Attribute:
   - "[[Charisma|CH]]"
-  - "[[Gewandheit|GE]]"
+  - "[[Gewandtheit|GE]]"
   - "[[Intuition|IN]]"
 Steigerungsfaktor: 3
 Talente:
@@ -34,7 +34,7 @@ Im tulamidisch geprägten Kult des Ostens suchen die Geweihten die göttliche Ek
 
 ---
 
-- **Attribute:** [[Charisma|CH]], [[Gewandheit|GE]], [[Intuition|IN]]
+- **Attribute:** [[Charisma|CH]], [[Gewandtheit|GE]], [[Intuition|IN]]
 - **Steigerungsfaktor:** 3
 - **Talente:**
   - [[Ascandears Hingabe]]

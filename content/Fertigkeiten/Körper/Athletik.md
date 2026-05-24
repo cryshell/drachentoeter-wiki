@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 7d68ac37-7574-4c8f-b42a-417763f4d6d9
+ID: 94f6fc45-624f-4d72-a965-80a2fddbc3e3
 Name: Athletik
 title: Athletik
 Kategorie: Körper
 Attribute:
-  - "[[Gewandheit|GE]]"
+  - "[[Gewandtheit|GE]]"
   - "[[Körperkraft|KK]]"
   - "[[Konstitution|KO]]"
 Steigerungsfaktor: 4
@@ -19,7 +19,7 @@ Athletik umfasst alle Aktivitäten, bei denen der Charakter seinen gesamten Kör
 
 ---
 
-- **Attribute:** [[Gewandheit|GE]], [[Körperkraft|KK]], [[Konstitution|KO]]
+- **Attribute:** [[Gewandtheit|GE]], [[Körperkraft|KK]], [[Konstitution|KO]]
 - **Steigerungsfaktor:** 4
 - **Talente:**
   - [[Klettern]]
