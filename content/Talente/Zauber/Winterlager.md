@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 53dccb94-3082-44e0-9859-b692c8a6f565
+ID: 94af72f3-6aee-44b6-9ef4-6b0d360fd4b0
 Name: Winterlager
 title: Winterlager
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
-  - "[[Inhalt/Fertigkeiten/Zibiljarituale|Zibiljarituale]]"
+  - "[[Eigenschaften]]"
+  - "[[Verständigung]]"
+  - "[[Zibiljarituale]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zibilja I
@@ -26,5 +26,10 @@ Du erklärst einen Bereich mit einem Radius von 8 Schritt zum Winterlager deiner
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]], [[Inhalt/Fertigkeiten/Zibiljarituale|Zibiljarituale]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Verständigung]]
+  - [[Zibiljarituale]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zibilja I]]
+- **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 3a787ec1-b72a-4465-840a-0dd6944473f6
+ID: ae85dfad-8bf9-4b49-aa1e-bf089c707ae6
 Name: Elementaraffinität (Feuer)
 title: Elementaraffinität (Feuer)
 Kategorie: Magisch
@@ -14,7 +14,7 @@ Der Basiswert der Fertigkeit Feuer ist um zwei Punkte erhöht, der von Wasser um
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
-  - Kein Vorteil Kreis der Verdammnis I
+  - Kein Vorteil [[Kreis der Verdammnis I]]

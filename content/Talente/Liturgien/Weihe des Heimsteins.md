@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 9e29bd02-7e4f-4491-93c7-900bee97d555
+ID: 80684d1c-c054-44d7-8694-82dde350f57a
 Name: Weihe des Heimsteins
 title: Weihe des Heimsteins
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]]"
+  - "[[Heim und Herd]]"
 Kosten: 0
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Traviageweihten I
@@ -23,5 +23,8 @@ Du segnest einen Heimstein, der in die Unterkunft eingebaut wird. Solange sich d
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]]
-- **Kosten:** 0 EP
+- **Fertigkeiten:**
+  - [[Heim und Herd]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Traviageweihten I]]
+- **Erlernen:** 0 EP

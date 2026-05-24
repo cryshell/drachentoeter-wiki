@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 4a8ac0fe-21c6-4f73-94e8-dade4fb8b35e
+ID: 8b95392a-c00d-4581-91ee-4ab953e0ad75
 Name: Befreiung der Kristallgeister (passiv)
 title: Befreiung der Kristallgeister (passiv)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Keulenrituale|Keulenrituale]]"
+  - "[[Keulenrituale]]"
 Kosten: 40
 Voraussetzungen: Vorteil Tradition der Schamanen (Achaz) I
 ---
@@ -16,5 +16,8 @@ Du kannst einen Zauber mit der Essenz eines Kristalls stärken. Du zerschlägst 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Keulenrituale|Keulenrituale]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Keulenrituale]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Achaz) I]]
+- **Erlernen:** 40 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 618cf26a-33d6-417b-9c60-572ff8c3cc1b
+ID: adaa5904-0837-4f7b-b0c6-556cbb57865b
 Name: Bann der Keule (passiv)
 title: Bann der Keule (passiv)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Keulenrituale|Keulenrituale]]"
+  - "[[Keulenrituale]]"
 Kosten: 40
 Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
 ---
@@ -15,5 +15,8 @@ Ab einem Keulenrituale-PW von 4/8/12/16 kannst du 2/4/6/8 gAsP in die Keule flie
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Keulenrituale|Keulenrituale]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Keulenrituale]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+- **Erlernen:** 40 EP

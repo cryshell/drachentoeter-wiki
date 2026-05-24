@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 8831124b-ed7a-4683-a95a-9311c4d91255
+ID: bd0a91fa-b015-46c0-bee7-30febe03e26b
 Name: Tiergeist (Wildkatze)
 title: Tiergeist (Wildkatze)
 Kategorie: Tiergeist
@@ -26,8 +26,14 @@ Kosten: 0
 
 ---
 
-- **Kosten:** 0 EP
+- **Erlernen:** 0 EP
 - **Voraussetzungen:**
   - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
   - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
-- **Siehe auch:** [[Eins mit der Natur]], [[Katzenaugen]], [[Krötensprung]], [[Spurlos Trittlos]], [[Standfest Katzengleich]], [[Wipfellauf]]
+- **Siehe auch:**
+  - [[Eins mit der Natur]]
+  - [[Katzenaugen]]
+  - [[Krötensprung]]
+  - [[Spurlos Trittlos]]
+  - [[Standfest Katzengleich]]
+  - [[Wipfellauf]]

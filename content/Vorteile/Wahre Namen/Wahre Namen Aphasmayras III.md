@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 02f9ded4-f233-4ff2-b31f-36f87e076766
+ID: bf544e32-5606-440c-b93b-56876769b1c2
 Name: Wahre Namen Aphasmayras III
 title: Wahre Namen Aphasmayras III
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 ---
 
-- **Kosten:** 10 EP
+- **Erlernen:** 10 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - Attribut [[Klugheit|KL]] 8

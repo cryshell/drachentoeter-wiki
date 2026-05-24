@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d85ffe1e-5fe5-44af-86da-3005cd475db0
+ID: a0750a8e-8610-4a07-97b2-2a1d58430eba
 Name: "Kommando: Haltet Stand!"
 title: "Kommando: Haltet Stand!"
 Kategorie: Kampf
@@ -14,7 +14,8 @@ Du kannst als Bonusaktion allen *verängstigten* oder *panischen* Mitstreitern i
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 4
-- **Siehe auch:** [[Aktion Einschüchtern]]
+- **Siehe auch:**
+  - [[Aktion Einschüchtern]]

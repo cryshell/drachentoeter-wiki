@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 9f4a62db-cf60-4459-8271-6ccea27ba194
+ID: 0b60d07a-29e6-4ff0-9190-13eafb6627d7
 Name: "Hartes schmelze!"
 title: "Hartes schmelze!"
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
-  - "[[Inhalt/Fertigkeiten/Wasser|Wasser]]"
+  - "[[Objekt]]"
+  - "[[Wasser]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I
@@ -24,5 +24,9 @@ Du verzauberst je nach AsP-Aufwand hartes Material auf der Größenskala Faust/R
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Objekt|Objekt]], [[Inhalt/Fertigkeiten/Wasser|Wasser]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Objekt]]
+  - [[Wasser]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

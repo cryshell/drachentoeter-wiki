@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: fb247cb5-b618-468e-8d95-4951b96574f5
+ID: 08a596f4-19bd-47ba-9ed4-90de3a379c16
 Name: Tradition der Namenlosgeweihten I
 title: Tradition der Namenlosgeweihten I
 Kategorie: Tradition (Karmal)
@@ -17,8 +17,8 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen die Gebote des Namenlosen verst
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 4
   - Vorteil [[Geweiht I]]
-  - Kein Vorteil Tradition der *geweihten I
+  - Kein Vorteil [[Tradition der geweihten I|Tradition der *geweihten I]]

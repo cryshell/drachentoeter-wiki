@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 1d9bc938-e47d-4af3-9a42-261cff46cd73
+ID: f6e066e1-58e7-4eff-b7bb-31df3f3b8ba5
 Name: Kulturkunde (Gjalskerländer)
 title: Kulturkunde (Gjalskerländer)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

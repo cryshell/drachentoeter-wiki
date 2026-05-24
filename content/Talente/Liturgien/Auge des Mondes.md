@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 3dc5f3a4-a293-47f7-ac0d-8149b38a194a
+ID: cc654b1e-11db-4a38-80f4-aa7f3d6b7516
 Name: Auge des Mondes
 title: Auge des Mondes
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Nächtlicher Schatten|Nächtlicher Schatten]]"
-  - "[[Inhalt/Fertigkeiten/Schlaf|Schlaf]]"
-  - "[[Inhalt/Fertigkeiten/Nacht|Nacht]]"
+  - "[[Nächtlicher Schatten]]"
+  - "[[Schlaf]]"
+  - "[[Nacht]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der Phexgeweihten I
@@ -26,5 +26,10 @@ Die Helligkeit steigt für das Ziel um 1 Stufe, selbst bei absoluter Dunkelheit.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Nächtlicher Schatten|Nächtlicher Schatten]], [[Inhalt/Fertigkeiten/Schlaf|Schlaf]], [[Inhalt/Fertigkeiten/Nacht|Nacht]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Nächtlicher Schatten]]
+  - [[Schlaf]]
+  - [[Nacht]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borongeweihten I ODER Vorteil Tradition der Phexgeweihten I]]
+- **Erlernen:** 20 EP

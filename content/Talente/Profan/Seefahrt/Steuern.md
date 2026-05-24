@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 0334832f-b8ff-4a85-8a73-78b8b6144878
+ID: 64db589a-fe68-425b-9be1-59ba5132be86
 Name: Steuern
 title: Steuern
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Seefahrt|Seefahrt]]"
+  - "[[Seefahrt]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Steuern ist essenziell, um den gewünschten Zielort mit Seekarten und allerhand 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Seefahrt|Seefahrt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Seefahrt]]
+- **Erlernen:** 20 EP

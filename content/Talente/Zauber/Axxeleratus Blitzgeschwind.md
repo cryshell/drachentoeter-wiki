@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 52fb51f7-c704-403d-8096-9778f0647052
+ID: 7e9b4b24-3fbf-4830-a681-6429e73a845b
 Name: Axxeleratus Blitzgeschwind
 title: Axxeleratus Blitzgeschwind
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
+  - "[[Eigenschaften]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I
@@ -13,9 +13,9 @@ Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition d
 Die GS deines Zieles steigt um 4 Punkte, Verteidigungen sind um +2 erleichtert und Ausweichen um weitere +2. Erlaubt *Aufrechterhalten*.
 
 - **Hohe Qualität:** Die GS steigt um weitere 2 Punkte.
-- **Modifikationen:** Blitzgeschwind (-8; Proben auf Körperbeherrschung und Laufen haben Vorteil.)
-Kampfgespür (-4, selbst; du wirst außerdem durch Hinterhalte nicht *handlungsunfähig*. *Reaktiver* Zauber (deine Wahrnehmungs-Probe gegen einen Hinterhalt ist fehlgeschlagen))
-
+- **Modifikationen:**
+  - Blitzgeschwind (-8; Proben auf Körperbeherrschung und Laufen haben Vorteil.)
+  - Kampfgespür (-4, selbst; du wirst außerdem durch Hinterhalte nicht *handlungsunfähig*. *Reaktiver* Zauber (deine Wahrnehmungs-Probe gegen einen Hinterhalt ist fehlgeschlagen))
 - **Varianten:** Koboldisch (-4; deine Sprache wird beschleunigt, sodass du Koboldisch sprechen kannst, falls du die Sprache beherrschst. Erlaubt *Aufrechterhalten*.)
 - **Probenschwierigkeit:** 12
 - **Vorbereitungszeit:** 0 Aktionen
@@ -28,5 +28,8 @@ Kampfgespür (-4, selbst; du wirst außerdem durch Hinterhalte nicht *handlungsu
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

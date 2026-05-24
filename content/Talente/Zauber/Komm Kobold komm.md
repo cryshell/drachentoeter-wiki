@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 64f092eb-c025-4260-a77b-aaed71184368
+ID: 3f33599a-a02c-4ccc-a9a5-a9ac7218a5a5
 Name: Komm Kobold komm
 title: Komm Kobold komm
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Verständigung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schelme I
@@ -14,7 +14,8 @@ Du rufst einen Kobold herbei. Falls Kobolde in deiner Region nicht heimisch sind
 
 - **Hohe Qualität:** Verbessert die anfängliche Einstellung um eine Stufe.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Namensruf (-4; du rufst einen dir bereits bekannten Kobold herbei.)
+- **Modifikationen:**
+  - Namensruf (-4; du rufst einen dir bereits bekannten Kobold herbei.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -25,5 +26,8 @@ Du rufst einen Kobold herbei. Falls Kobolde in deiner Region nicht heimisch sind
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schelme I]]
+- **Erlernen:** 10 EP

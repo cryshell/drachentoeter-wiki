@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6334085d-a411-4141-a00e-98bd02f1fc20
+ID: d5728b10-17c9-40b0-845c-a57ac782dfa3
 Name: Tradition der Belzhorashpaktierer IV
 title: Tradition der Belzhorashpaktierer IV
 Kategorie: Tradition (Paktierer)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Mut|MU]] 10
   - Vorteil [[Tradition der Belzhorashpaktierer III]]

@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 4941c9e9-1368-4b41-99c0-85135e023319
+ID: f428eafa-8147-4278-ba03-6bd8865fd803
 Name: Sorgenlied
 title: Sorgenlied
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]]"
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Elfenlieder]]"
+  - "[[Hellsicht]]"
+  - "[[Verständigung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Elfen I
@@ -25,5 +25,10 @@ Das Lied vermittelt dir einen vagen Eindruck vom Wohlergehen des Zieles, mit dem
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]], [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Elfenlieder]]
+  - [[Hellsicht]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Elfen I]]
+- **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 09e3a863-15fd-4201-a6e0-6c5aed259268
+ID: 5a0a9436-656d-4c36-9fef-5e6b2a8b728b
 Name: Tradition der Alchemisten II
 title: Tradition der Alchemisten II
 Kategorie: Tradition (Magisch)
@@ -16,8 +16,9 @@ Alchemistische Zauber sind fest in der stofflichen Welt verankert. Die Wirkungsd
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Fingerfertigkeit|FF]] 6
   - Vorteil [[Tradition der Alchemisten I]]
-- **Siehe auch:** [[Artefakte - Herstellung]]
+- **Siehe auch:**
+  - [[Artefakte - Herstellung]]

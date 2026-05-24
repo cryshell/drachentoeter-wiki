@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b919764a-c061-4f28-8bf4-e4a03855374f
+ID: 34b14c4e-f054-46ad-9746-b16f1f4335ab
 Name: Kontorsionist
 title: Kontorsionist
 Kategorie: Profan
@@ -16,5 +16,7 @@ Du kannst dich in fast unmöglichem Maße verdrehen und biegen.
 
 ---
 
-- **Kosten:** 40 EP
-- **Siehe auch:** [[Halten]], [[Taschenspielerei]]
+- **Erlernen:** 40 EP
+- **Siehe auch:**
+  - [[Halten]]
+  - [[Taschenspielerei]]

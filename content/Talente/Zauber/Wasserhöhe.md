@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 06e62e0f-03c5-41cf-9325-b8b7c4273a56
+ID: 6108b97e-c4db-4595-9b78-442ba99b0baa
 Name: Wasserhöhe
 title: Wasserhöhe
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
+  - "[[Zaubertricks]]"
 Kosten: 5
 ---
 Du spürst instinktiv, ob das Gewässer vor dir tiefer ist, als du groß bist.
@@ -20,5 +20,6 @@ Du spürst instinktiv, ob das Gewässer vor dir tiefer ist, als du groß bist.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
-- **Kosten:** 5 EP
+- **Fertigkeiten:**
+  - [[Zaubertricks]]
+- **Erlernen:** 5 EP

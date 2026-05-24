@@ -1,17 +1,17 @@
 ---
 Entitätstyp: Talent
-ID: d4d40459-237e-4cc2-9f2b-4a10c379d6f5
+ID: c0af2c7b-7256-41f3-9f0a-eeb640ec4d1c
 Name: Macht des Elements
 title: Macht des Elements
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]"
-  - "[[Inhalt/Fertigkeiten/Eis|Eis]]"
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
-  - "[[Inhalt/Fertigkeiten/Feuer|Feuer]]"
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Wasser|Wasser]]"
+  - "[[Geister rufen]]"
+  - "[[Eis]]"
+  - "[[Erz]]"
+  - "[[Feuer]]"
+  - "[[Humus]]"
+  - "[[Luft]]"
+  - "[[Wasser]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
@@ -29,5 +29,14 @@ Ruft ein Elementarwesen des jeweiligen Elements herbei, das in deiner unmittelba
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]], [[Inhalt/Fertigkeiten/Eis|Eis]], [[Inhalt/Fertigkeiten/Erz|Erz]], [[Inhalt/Fertigkeiten/Feuer|Feuer]], [[Inhalt/Fertigkeiten/Humus|Humus]], [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Wasser|Wasser]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Geister rufen]]
+  - [[Eis]]
+  - [[Erz]]
+  - [[Feuer]]
+  - [[Humus]]
+  - [[Luft]]
+  - [[Wasser]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+- **Erlernen:** 40 EP

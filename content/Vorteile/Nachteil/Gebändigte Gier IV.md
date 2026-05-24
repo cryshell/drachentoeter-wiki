@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d71a4372-01ab-4b2e-865f-8561bf184e24
+ID: 37f7041b-d533-4080-8029-1aecd5e81c5e
 Name: Gebändigte Gier IV
 title: Gebändigte Gier IV
 Kategorie: Nachteil
@@ -14,7 +14,8 @@ Die MU-Probe zum vorzeitigen Beenden des Sikaryanraubs ist um +8 erleichtert.
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Vorteil [[Gebändigte Gier III]]
-- **Siehe auch:** [[Sikaryandurst und -raub]]
+- **Siehe auch:**
+  - [[Sikaryandurst und -raub]]

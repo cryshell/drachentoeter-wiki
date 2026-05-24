@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 76aed355-04e3-459b-b2ac-17d34867f829
+ID: 595cc13a-e6b3-46b0-a68d-7de97cec3f46
 Name: Tradition der Schamanen (Gjalsker) IV
 title: Tradition der Schamanen (Gjalsker) IV
 Kategorie: Tradition (Magisch)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Intuition|IN]] 10
   - Vorteil [[Tradition der Schamanen (Gjalsker) III]]

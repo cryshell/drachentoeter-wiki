@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 83b20c19-fa78-4ef6-826f-fe750520811d
+ID: 95f57328-13d3-4cdd-abdc-f23dceefd56e
 Name: Tradition der Lolgramothpaktierer II
 title: Tradition der Lolgramothpaktierer II
 Kategorie: Tradition (Paktierer)
@@ -14,7 +14,7 @@ Paktierer werden durch erlittene Wunden eher noch gefährlicher. Der Wundabzug s
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 6
   - Vorteil [[Tradition der Lolgramothpaktierer I]]

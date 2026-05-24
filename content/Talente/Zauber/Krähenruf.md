@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 24ae4767-9999-4f1c-a5d7-9cfa8b877c3a
+ID: 3fbc19d9-b546-431a-9a6d-6546484a7199
 Name: Krähenruf
 title: Krähenruf
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Einfluss]]"
+  - "[[Kraft]]"
+  - "[[Verständigung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Hexen I
@@ -31,5 +31,10 @@ Spinnenruf (entspricht der Basiswirkung mit GS 3, RW 1 und Waffeneigenschaft Gif
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Kraft|Kraft]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Kraft]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Hexen I]]
+- **Erlernen:** 20 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 11adaaa5-87e6-436c-b63e-7cb2e5f7d0e6
+ID: 46f3f888-84f0-47a2-8e75-3ad46b732386
 Name: Lager bereiten
 title: Lager bereiten
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Überleben|Überleben]]"
+  - "[[Überleben]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Beim Lager bereiten errichtest du einen stabilen, wettergeschützten Unterschlup
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Überleben|Überleben]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Überleben]]
+- **Erlernen:** 40 EP

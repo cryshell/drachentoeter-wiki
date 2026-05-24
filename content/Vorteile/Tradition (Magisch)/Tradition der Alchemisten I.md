@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4bfdc8ab-c31e-40bb-9329-bb7bcd74b024
+ID: 37e61365-109a-493a-9cc2-e76021ae9019
 Name: Tradition der Alchemisten I
 title: Tradition der Alchemisten I
 Kategorie: Tradition (Magisch)
@@ -16,7 +16,7 @@ Wenn du einen Zauber nicht in Artefakte, Tränke oder Zeichen sprichst, benötig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Fingerfertigkeit|FF]] 4
   - Vorteil [[Zauberer I]]

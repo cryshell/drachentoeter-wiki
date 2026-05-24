@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 187afd7a-9460-45da-b7e0-36e158cf66c7
+ID: b838b7ff-7ca4-4f52-a763-f60289a53455
 Name: Plumbumbarum schwerer Arm
 title: Plumbumbarum schwerer Arm
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
+  - "[[Eigenschaften]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Scharlatane I
@@ -13,7 +13,8 @@ Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition d
 Alle Nah- und Fernkampfangriffe des Ziels haben Nachteil.
 
 - **Probenschwierigkeit:** Magieresistenz
-- **Modifikationen:** Demotivation (-8; auch auf Zauberproben haben Nachteil.)
+- **Modifikationen:**
+  - Demotivation (-8; auch auf Zauberproben haben Nachteil.)
 - **Vorbereitungszeit:** 1 Aktion
 - **Ziel:** Wesen
 - **Reichweite:** 8 Schritt
@@ -24,5 +25,8 @@ Alle Nah- und Fernkampfangriffe des Ziels haben Nachteil.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Scharlatane I]]
+- **Erlernen:** 10 EP

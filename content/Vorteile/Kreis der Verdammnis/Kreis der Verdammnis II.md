@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0aaa2775-2ab8-4988-a72e-8fe748ddb989
+ID: 51280c92-f967-4c22-9b7b-405590a9b041
 Name: Kreis der Verdammnis II
 title: Kreis der Verdammnis II
 Kategorie: Kreis der Verdammnis
@@ -20,7 +20,8 @@ Der Vorteil hat folgende Auswirkungen:
 
 ---
 
-- **Kosten:** -200 EP
+- **Erlernen:** -200 EP
 - **Voraussetzungen:**
   - Vorteil [[Kreis der Verdammnis I]]
-- **Siehe auch:** [[Seelenprüfung]]
+- **Siehe auch:**
+  - [[Seelenprüfung]]

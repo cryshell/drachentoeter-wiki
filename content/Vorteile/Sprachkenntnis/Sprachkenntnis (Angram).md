@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b43b4644-e160-4fc5-af45-2996d746488c
+ID: c8473f56-4bf9-4193-a957-158feae0aeeb
 Name: Sprachkenntnis (Angram)
 title: Sprachkenntnis (Angram)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Angram gehört zur Zwergisch-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

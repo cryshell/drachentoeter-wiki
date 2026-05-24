@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0e30c206-7516-4272-ba26-fbda4a95ad4f
+ID: d4b49383-67d6-4627-98be-0038b6fff61f
 Name: Tradition der Ingenieure I
 title: Tradition der Ingenieure I
 Kategorie: Tradition (Profan)
@@ -12,6 +12,6 @@ Du beherrschst Rezepte der Tradition der Ingenieure (Igr).
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut FF 4 ODER Attribut KL 4

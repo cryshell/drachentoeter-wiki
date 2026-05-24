@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d5f14aa2-2022-42d3-9808-de4b20dd1d39
+ID: 59baeea9-8b24-4cd0-91a7-54aebfc4d974
 Name: Tradition der H’Szintgeweihten III
 title: Tradition der H’Szintgeweihten III
 Kategorie: Tradition (Karmal)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 8
   - Vorteil [[Tradition der H’Szintgeweihten II]]
-- **Siehe auch:** [[Opferung (H’Szint)]]
+- **Siehe auch:**
+  - [[Opferung (H’Szint)]]

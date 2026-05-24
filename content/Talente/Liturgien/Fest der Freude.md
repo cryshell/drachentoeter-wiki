@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 03cbf492-3b2a-4196-8bb0-f1bdabf78294
+ID: 9b0b19a3-2373-447e-a933-309fcaca8d04
 Name: Fest der Freude
 title: Fest der Freude
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Harmonie|Harmonie]]"
+  - "[[Harmonie]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rahjageweihten I
@@ -23,5 +23,8 @@ Du erbittest Rahjas Segen für ein Fest. Essen, Getränke und Unterhaltung über
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Harmonie|Harmonie]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Harmonie]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rahjageweihten I]]
+- **Erlernen:** 10 EP

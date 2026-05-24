@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 2db750ac-f383-4773-84fd-348fb43a23b1
+ID: 0db58777-b243-44c6-871f-0ea514913585
 Name: Verkleiden
 title: Verkleiden
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Beeinflussung|Beeinflussung]]"
+  - "[[Beeinflussung]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Mit Verkleiden kennst du dich mit der aktuellen Mode aus und kannst dich für ei
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Beeinflussung|Beeinflussung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Beeinflussung]]
+- **Erlernen:** 20 EP

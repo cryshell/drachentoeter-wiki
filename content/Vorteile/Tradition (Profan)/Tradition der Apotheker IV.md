@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 8f47910a-8730-481e-8095-867c48fa698b
+ID: f40a7b20-734f-4af0-9eff-da490ff857d3
 Name: Tradition der Apotheker IV
 title: Tradition der Apotheker IV
 Kategorie: Tradition (Profan)
@@ -14,7 +14,7 @@ Kosten: 20
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Klugheit|KL]] 10
   - Vorteil [[Tradition der Apotheker III]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 886179bf-1891-4134-ae69-a9fe3452cfe4
+ID: 6b721909-9686-45bf-b503-93f7a0c172b0
 Name: Niederwerfen
 title: Niederwerfen
 Kategorie: Kampf
@@ -14,7 +14,8 @@ Erlaubt das Manöver Niederwerfen.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Körperkraft|KK]] 4
-- **Siehe auch:** [[Niederwerfen]]
+- **Siehe auch:**
+  - [[Niederwerfen]]

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 3456b829-cc75-44dd-bf69-7383adf76a06
+ID: 91908f45-6488-419f-bb8a-ff1b242af966
 Name: Siegel der Stille
 title: Siegel der Stille
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
-  - "[[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]"
+  - "[[Umwelt]]"
+  - "[[Zauberzeichen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zibilja I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I
@@ -26,5 +26,9 @@ Das Zeichen in einem Durchmesser von 16 Fingern wird auf einer beliebigen Fläch
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Umwelt|Umwelt]], [[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Umwelt]]
+  - [[Zauberzeichen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zibilja I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

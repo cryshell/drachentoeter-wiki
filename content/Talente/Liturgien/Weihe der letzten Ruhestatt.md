@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: dc5926b4-db6e-4b6a-8d72-b1ed85d5c0d5
+ID: c88a868a-1730-4bbf-bb57-6878cc596f9e
 Name: Weihe der letzten Ruhestatt
 title: Weihe der letzten Ruhestatt
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Tod|Tod]]"
-  - "[[Inhalt/Fertigkeiten/Tapam|Tapam]]"
+  - "[[Tod]]"
+  - "[[Tapam]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der Kamaluqgeweihten I ODER Vorteil Tradition der V’Sargeweihten I
@@ -25,5 +25,9 @@ Du segnest einen Friedhof, der fortan als geweihter Boden gilt und Platz für et
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Tod|Tod]], [[Inhalt/Fertigkeiten/Tapam|Tapam]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Tod]]
+  - [[Tapam]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borongeweihten I ODER Vorteil Tradition der Kamaluqgeweihten I ODER Vorteil Tradition der V’Sargeweihten I]]
+- **Erlernen:** 10 EP

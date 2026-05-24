@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: dd60f3dd-dbeb-4771-acea-7502d66b74d0
+ID: 31dc93c5-deec-4717-b3a4-b89e071945aa
 Name: Incendio
 title: Incendio
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Feuer|Feuer]]"
+  - "[[Feuer]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I
@@ -23,5 +23,8 @@ Du setzt das Ziel in Brand und verursachst *Nachbrennen*. Wesen können dem mit 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Feuer|Feuer]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Feuer]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I]]
+- **Erlernen:** 20 EP

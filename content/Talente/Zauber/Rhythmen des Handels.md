@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 6835eca2-0ef7-42ad-88ba-3ea91027b3e1
+ID: 0ee60611-0e3c-4296-b603-e34e8365f968
 Name: Rhythmen des Handels
 title: Rhythmen des Handels
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Trommelrituale|Trommelrituale]]"
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Trommelrituale]]"
+  - "[[Einfluss]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Derwische I
@@ -24,5 +24,9 @@ Du beeinflusst eine Verhandlung. Jeder in einem Radius von 4 Schritt erhält Vor
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Trommelrituale|Trommelrituale]], [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Trommelrituale]]
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Derwische I]]
+- **Erlernen:** 20 EP

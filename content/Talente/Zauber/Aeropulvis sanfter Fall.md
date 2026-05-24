@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 77fd33bb-e33f-4d68-857c-29a5a7b2a8cf
+ID: 7b4d2db3-b31e-46fb-9007-c9bb9b43f49d
 Name: Aeropulvis sanfter Fall
 title: Aeropulvis sanfter Fall
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
+  - "[[Luft]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Hexen I
@@ -23,5 +23,8 @@ Halbiert die effektive Höhe eines Sturzes kumulativ zur Körperbeherrschungs-Pr
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Luft|Luft]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Luft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Hexen I]]
+- **Erlernen:** 20 EP

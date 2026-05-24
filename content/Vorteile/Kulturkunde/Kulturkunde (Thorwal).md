@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b5cc0312-6386-4546-b229-46220da58306
+ID: b52dac0d-d395-40d6-a970-9fb65a7b0f58
 Name: Kulturkunde (Thorwal)
 title: Kulturkunde (Thorwal)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

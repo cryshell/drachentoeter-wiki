@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0825cdfa-078d-4a0b-8360-547fe9deddb9
+ID: 32192194-4ff2-4c4b-8f06-5b0b613a7780
 Name: Unauer Schule
 title: Unauer Schule
 Kategorie: Kampf
@@ -16,7 +16,10 @@ Du darfst mit Nebenhandangriffen auch Halten-Manöver nutzen. Wenn du Halten geg
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Gewandheit|GE]] 8
-- **Siehe auch:** [[Nebenhand]], [[Bonusaktion]], [[Halten]]
+- **Siehe auch:**
+  - [[Nebenhand]]
+  - [[Bonusaktion]]
+  - [[Halten]]

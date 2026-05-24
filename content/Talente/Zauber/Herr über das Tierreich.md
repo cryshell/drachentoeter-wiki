@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 265d8133-a5fb-4d53-81a4-55aa3e8120f3
+ID: da767a68-3b4a-432d-a4c8-2a68d318ec1b
 Name: Herr über das Tierreich
 title: Herr über das Tierreich
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Einfluss]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I
@@ -13,9 +13,9 @@ Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfe
 Du zwingst ein Tier unter deinen Bann. Es verhält sich, als wäre es gut dressiert und dir bedingungslos loyal und erfüllt deine Befehle. Nur Befehle, die seinen Instinkten klar widersprechen, kann es mit einer MU-Gegenprobe widerstehen.
 
 - **Probenschwierigkeit:** Magieresistenz
-- **Modifikationen:** Herr der Fliegen (-4; du beherrschst einen Schwarm maximal *winziger* Tiere.)
-Herr über die Monstren (-4; der Zauber wirkt auch auf Chimären, die ausschließlich aus Tieren oder Pflanzen geschaffen wurden.)
-
+- **Modifikationen:**
+  - Herr der Fliegen (-4; du beherrschst einen Schwarm maximal *winziger* Tiere.)
+  - Herr über die Monstren (-4; der Zauber wirkt auch auf Chimären, die ausschließlich aus Tieren oder Pflanzen geschaffen wurden.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Tier
 - **Reichweite:** 4 Schritt
@@ -26,5 +26,8 @@ Herr über die Monstren (-4; der Zauber wirkt auch auf Chimären, die ausschlie�
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

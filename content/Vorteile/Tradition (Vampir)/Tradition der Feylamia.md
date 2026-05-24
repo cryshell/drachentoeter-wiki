@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 7b674aca-c25c-4269-9cd9-04fe5bf09536
+ID: 5de59438-6f2c-4ebc-9a93-ab0273c754f4
 Name: Tradition der Feylamia
 title: Tradition der Feylamia
 Kategorie: Tradition (Vampir)
@@ -20,9 +20,11 @@ Du bist von Mada verflucht und kannst Sikaryan nur regenerieren, wenn du es von 
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 4
   - Vorteil [[Vampir I]]
   - Spezies Elf
-- **Siehe auch:** [[Fluch der Götter (Mada)]], [[Verbotene Pforten]]
+- **Siehe auch:**
+  - [[Fluch der Götter (Mada)]]
+  - [[Verbotene Pforten]]

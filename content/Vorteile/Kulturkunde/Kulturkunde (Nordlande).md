@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: aa912ac9-5b1e-4cc9-b0e0-66eb55e12479
+ID: 1a304c92-10f3-498e-9f56-dfdd1c32d7cb
 Name: Kulturkunde (Nordlande)
 title: Kulturkunde (Nordlande)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

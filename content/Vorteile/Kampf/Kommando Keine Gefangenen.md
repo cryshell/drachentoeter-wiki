@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 75c8ae0a-4f46-47f4-898a-d8f71718406b
+ID: 12ee08ec-e638-4cfe-8bd2-97728a9c307a
 Name: "Kommando: Keine Gefangenen!"
 title: "Kommando: Keine Gefangenen!"
 Kategorie: Kampf
@@ -15,7 +15,9 @@ Du kannst als Bonusaktion einem Mitstreiter in Hörweite ermöglichen, als Reakt
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 8
-- **Siehe auch:** [[Reaktion]], [[Aktion Angriff]]
+- **Siehe auch:**
+  - [[Reaktion]]
+  - [[Aktion Angriff]]

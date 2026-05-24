@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: fd1e39a5-e503-45de-9875-5fc5abb882ed
+ID: 6aecaff1-91b5-4f73-9bc0-a0a4db9c4015
 Name: Fluch der Götter (Mada)
 title: Fluch der Götter (Mada)
 Kategorie: Nachteil
@@ -12,6 +12,6 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Mada), Empfindlichkeit I (Pflanze
 
 ---
 
-- **Kosten:** -200 EP
+- **Erlernen:** -200 EP
 - **Voraussetzungen:**
   - Vorteil [[Vampir I]]

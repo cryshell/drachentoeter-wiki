@@ -1,18 +1,19 @@
 ---
 Entitätstyp: Talent
-ID: 24ff4691-0da0-47fe-9962-2bdfd5f5cf57
+ID: 9fda893e-b263-432b-8f7c-e54d76832bd3
 Name: Wasserleiche erheben
 title: Wasserleiche erheben
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Charyptoroths|Anrufung Charyptoroths]]"
+  - "[[Anrufung Charyptoroths]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
 Du erhebst eine Leiche als Untoten (nur Wasserleichen möglich), der in 2 Zügen einsatzfähig ist. Schwierigkeit und Kosten richten sich nach dessen Mächtigkeit auf der Skala schwach/nützlich/stark/mächtig. Die Beherrschungsprobe wird auf MU abgelegt.
 
 - **Probenschwierigkeit:** 12/16/20/24
-- **Modifikationen:** Schnelle Erhebung (-4; der Untote ist sofort bereit.)
+- **Modifikationen:**
+  - Schnelle Erhebung (-4; der Untote ist sofort bereit.)
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** Material für einen einzelnen Untoten
 - **Wirkungsdauer:** augenblicklich
@@ -22,5 +23,6 @@ Du erhebst eine Leiche als Untoten (nur Wasserleichen möglich), der in 2 Zügen
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Charyptoroths|Anrufung Charyptoroths]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Charyptoroths]]
+- **Erlernen:** 20 EP

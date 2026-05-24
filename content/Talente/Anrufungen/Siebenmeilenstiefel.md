@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: bf4ee8c4-b3ea-4b8b-9bcc-196a524e4b41
+ID: fcb6098b-d1b4-453c-96ec-d8d52cffb188
 Name: Siebenmeilenstiefel
 title: Siebenmeilenstiefel
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Lolgramoths|Anrufung Lolgramoths]]"
+  - "[[Anrufung Lolgramoths]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Du erhältst verzauberte Stiefel, die es dir ermöglichen, mit einem Schritt 1 M
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Lolgramoths|Anrufung Lolgramoths]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Anrufung Lolgramoths]]
+- **Erlernen:** 40 EP

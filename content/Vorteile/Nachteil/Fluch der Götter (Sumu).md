@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: cccba6c6-42fd-4ec0-93a6-6b0c2ba1350d
+ID: 9800a231-3b85-48df-8432-e40238450bd8
 Name: Fluch der Götter (Sumu)
 title: Fluch der Götter (Sumu)
 Kategorie: Nachteil
@@ -12,6 +12,6 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Sumu), Empfindlichkeit I (Pflanze
 
 ---
 
-- **Kosten:** -200 EP
+- **Erlernen:** -200 EP
 - **Voraussetzungen:**
   - Vorteil [[Vampir I]]

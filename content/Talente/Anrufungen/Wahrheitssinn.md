@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: b04b02b6-ef6a-4400-9930-8b2c43e13b9f
+ID: 147a0eee-0785-4e77-8c5b-645904fef1f3
 Name: Wahrheitssinn
 title: Wahrheitssinn
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Blakharazs|Anrufung Blakharazs]]"
+  - "[[Anrufung Blakharazs]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -22,5 +22,6 @@ Jeder in einem Radius von 16 Schritt hält sich an die Wahrheit. Versuche zu Lü
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Blakharazs|Anrufung Blakharazs]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Blakharazs]]
+- **Erlernen:** 20 EP

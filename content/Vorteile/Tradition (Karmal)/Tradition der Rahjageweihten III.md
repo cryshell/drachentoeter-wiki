@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 71ee5a02-71c4-472f-a0ee-e7bb9efab77b
+ID: 624ed605-6c21-43e2-8112-40ed3db176a3
 Name: Tradition der Rahjageweihten III
 title: Tradition der Rahjageweihten III
 Kategorie: Tradition (Karmal)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 8
   - Vorteil [[Tradition der Rahjageweihten II]]
-- **Siehe auch:** [[Opferung (Rahja)]]
+- **Siehe auch:**
+  - [[Opferung (Rahja)]]

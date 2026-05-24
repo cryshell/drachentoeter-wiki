@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: fb31ba29-09e3-42ed-b601-1d8864d5b8c4
+ID: 9ec9927a-cdab-4455-9052-1f1701722a2c
 Name: Schutzsegen
 title: Schutzsegen
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schutz der Gläubigen|Schutz der Gläubigen]]"
-  - "[[Inhalt/Fertigkeiten/Göttlicher Ritus|Göttlicher Ritus]]"
-  - "[[Inhalt/Fertigkeiten/Schutz der Sippe|Schutz der Sippe]]"
+  - "[[Schutz der Gläubigen]]"
+  - "[[Göttlicher Ritus]]"
+  - "[[Schutz der Sippe]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Avesgeweihten I ODER Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Firungeweihten I ODER Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Rondrageweihten I ODER Vorteil Tradition der Swafnirgeweihten I ODER Vorteil Tradition der Traviageweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Himmelswölfegeweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I ODER Vorteil Tradition der H’Szintgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der V’Sargeweihten I ODER Vorteil Tradition der Zsahhgeweihten I
@@ -16,7 +16,8 @@ Du ziehst einen Kreis von maximal 8 Schritt Radius und nennst eine Kreaturenklas
 
 - **Hohe Qualität:** Erhöht die Beschwörungsschwierigkeit um 4.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Universeller Schutz (-4; der Segen wirkt gegen alle unheiligen Wesen.)
+- **Modifikationen:**
+  - Universeller Schutz (-4; der Segen wirkt gegen alle unheiligen Wesen.)
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -27,5 +28,10 @@ Du ziehst einen Kreis von maximal 8 Schritt Radius und nennst eine Kreaturenklas
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schutz der Gläubigen|Schutz der Gläubigen]], [[Inhalt/Fertigkeiten/Göttlicher Ritus|Göttlicher Ritus]], [[Inhalt/Fertigkeiten/Schutz der Sippe|Schutz der Sippe]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Schutz der Gläubigen]]
+  - [[Göttlicher Ritus]]
+  - [[Schutz der Sippe]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Firungeweihten I ODER Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Rondrageweihten I ODER Vorteil Tradition der Swafnirgeweihten I ODER Vorteil Tradition der Traviageweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Himmelswölfegeweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I ODER Vorteil Tradition der H’Szintgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der V’Sargeweihten I ODER Vorteil Tradition der Zsahhgeweihten I]]
+- **Erlernen:** 20 EP

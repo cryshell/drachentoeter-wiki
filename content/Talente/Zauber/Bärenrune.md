@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: ff1ce776-4ecf-4b45-983e-7a08ac07f89c
+ID: 9a1e5ebd-d403-4fa5-9336-b25250707d14
 Name: Bärenrune
 title: Bärenrune
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
-  - "[[Inhalt/Fertigkeiten/Zauberrunen|Zauberrunen]]"
+  - "[[Eigenschaften]]"
+  - "[[Objekt]]"
+  - "[[Zauberrunen]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Runenmagier
@@ -26,5 +26,10 @@ Die Rune wird in einem Durchmesser von 16 Fingern auf einem Wesen oder Objekt an
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Objekt|Objekt]], [[Inhalt/Fertigkeiten/Zauberrunen|Zauberrunen]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Objekt]]
+  - [[Zauberrunen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Runenmagier]]
+- **Erlernen:** 10 EP

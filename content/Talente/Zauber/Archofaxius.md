@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 2de12e41-8f12-44c8-b98c-cdf642708896
+ID: ba7cf4cf-dce8-45ce-aa15-d824f6125082
 Name: Archofaxius
 title: Archofaxius
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
+  - "[[Erz]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I
@@ -14,9 +14,9 @@ Ein Strahl aus elementarem Erz fügt dem Ziel 2W6 TP zu und verursacht *Niedersc
 
 - **Hohe Qualität:** Die TP steigen um 1W6.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Doppelschuss (-4, 16 AsP; die Anzahl Schadenswürfel inklusive Hohe Qualität wird verdoppelt.)
-Enger Strahl (-4; der Zauber verursacht SP statt TP.)
-
+- **Modifikationen:**
+  - Doppelschuss (-4, 16 AsP; die Anzahl Schadenswürfel inklusive Hohe Qualität wird verdoppelt.)
+  - Enger Strahl (-4; der Zauber verursacht SP statt TP.)
 - **Vorbereitungszeit:** 0 Aktionen
 - **Ziel:** Wesen, Objekt
 - **Reichweite:** 16 Schritt
@@ -27,5 +27,8 @@ Enger Strahl (-4; der Zauber verursacht SP statt TP.)
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Erz|Erz]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Erz]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

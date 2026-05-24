@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: c94e2e76-ef38-4aa9-a663-14c3ff333af8
+ID: 0dfb7dbb-6ca3-4290-b8d0-cd31b2cc2b22
 Name: Hexenschuss
 title: Hexenschuss
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Hexenflüche|Hexenflüche]]"
+  - "[[Eigenschaften]]"
+  - "[[Hexenflüche]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hexen I
@@ -24,5 +24,9 @@ Das Opfer wird nach deiner Wahl von Rücken- oder Kopfschmerzen geplagt, wodurch
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Hexenflüche|Hexenflüche]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Hexenflüche]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hexen I]]
+- **Erlernen:** 20 EP

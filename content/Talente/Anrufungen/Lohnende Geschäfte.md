@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 0ec93c93-27a1-489d-8b12-6524bdd4b0fe
+ID: fe794c03-feb1-4afa-a273-a6e403bfde0f
 Name: Lohnende Geschäfte
 title: Lohnende Geschäfte
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Tasfarelels|Anrufung Tasfarelels]]"
+  - "[[Anrufung Tasfarelels]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Deine Zunge ist flink und die Worte fließen dir nur so von den Lippen. Überred
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Tasfarelels|Anrufung Tasfarelels]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Tasfarelels]]
+- **Erlernen:** 20 EP

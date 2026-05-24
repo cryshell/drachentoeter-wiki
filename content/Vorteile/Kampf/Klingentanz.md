@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 48a3902f-7484-426d-bfc8-f34fe1bce658
+ID: 40341811-ef7d-4e42-8114-c6d15b132ea5
 Name: Klingentanz
 title: Klingentanz
 Kategorie: Kampf
@@ -17,7 +17,9 @@ Deine Initiative-Würfe haben Vorteil.
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 10
-- **Siehe auch:** [[Aktion Lösen]], [[Bonusaktion]]
+- **Siehe auch:**
+  - [[Aktion Lösen]]
+  - [[Bonusaktion]]

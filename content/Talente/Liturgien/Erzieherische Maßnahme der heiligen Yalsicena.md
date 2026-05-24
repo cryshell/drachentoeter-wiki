@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 921bcdbd-a564-4a6c-af88-566bb9037fb3
+ID: 4531025b-2609-4dd0-8715-67fd4f2ed4de
 Name: Erzieherische Maßnahme der heiligen Yalsicena
 title: Erzieherische Maßnahme der heiligen Yalsicena
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]]"
+  - "[[Heim und Herd]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Traviageweihten I
@@ -23,5 +23,8 @@ Du benennst ein Fehlverhalten des Gesegneten, wie z.B. Fluchen, Fremdgehen oder 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Heim und Herd]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Traviageweihten I]]
+- **Erlernen:** 10 EP

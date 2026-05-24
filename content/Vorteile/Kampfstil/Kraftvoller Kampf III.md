@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 813f0c67-71f0-4a72-90fe-7d552fc18ed0
+ID: ff4b0687-0b36-496e-908c-73542a86cec7
 Name: Kraftvoller Kampf III
 title: Kraftvoller Kampf III
 Kategorie: Kampfstil
@@ -16,8 +16,9 @@ Befreiungsschlag: Du kannst in einer Aktion Angriff mit dem ersten Nahkampfangri
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Körperkraft|KK]] 8
   - Vorteil [[Kraftvoller Kampf II]]
-- **Siehe auch:** [[Aktion Angriff]]
+- **Siehe auch:**
+  - [[Aktion Angriff]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 1ac35578-5389-4b47-bb30-e0b39b05cb4d
+ID: ac87dd03-85d4-414c-a75c-72fe118a301d
 Name: Unbeugsamkeit
 title: Unbeugsamkeit
 Kategorie: Profan
@@ -17,7 +17,9 @@ Mit einer Bonusaktion und einer MU-Gegenprobe kannst du einen auf dir liegenden 
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 10
-- **Siehe auch:** [[MR]], [[Bonusaktion]]
+- **Siehe auch:**
+  - [[MR]]
+  - [[Bonusaktion]]

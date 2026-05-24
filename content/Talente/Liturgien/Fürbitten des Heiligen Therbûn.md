@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: aa121291-a042-4af7-98d6-bf1f434a7716
+ID: 971b1dd0-aa01-4dd7-a2c6-8b3ef142ba2e
 Name: Fürbitten des Heiligen Therbûn
 title: Fürbitten des Heiligen Therbûn
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heilung|Heilung]]"
+  - "[[Heilung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Perainegeweihten I
@@ -25,5 +25,8 @@ Du heilst einen Gesegneten von allen Krankheiten bis maximal Stufe 20.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heilung|Heilung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Heilung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Perainegeweihten I]]
+- **Erlernen:** 10 EP

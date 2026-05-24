@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: e0296859-6cbd-43fb-abb5-05365a2ed2ae
+ID: 6ce21423-e0cd-48fa-9eca-7ace838c06d3
 Name: Duplicatus
 title: Duplicatus
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Illusion|Illusion]]"
+  - "[[Illusion]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I
@@ -14,7 +14,8 @@ Ein mit dir verschwimmender Doppelgänger erscheint. Vor gegnerischen Angriffen 
 
 - **Hohe Qualität:** Erschafft zwei/drei/vier Doppelgänger. Bei einer 8+/6+/5+ wird ein Doppelgänger zum Ziel.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Objektverdoppelung (-4, Ziel Objekt)
+- **Modifikationen:**
+  - Objektverdoppelung (-4, Ziel Objekt)
 - **Varianten:** Spiegelkabinett (-8, selbst, Wirkungsdauer 4 Minuten, 16 AsP; vier Doppelgänger erscheinen. Sie verteilen sich in einem Radius von 16 Schritt und gehen alltäglichen Tätigkeiten nach. Sie folgen dir, wenn du dich bewegst. Im Kampf sind sie durch ihr Verhalten normalerweise einfach von dir zu unterscheiden. Erlaubt *Aufrechterhalten*.)
 - **Vorbereitungszeit:** 1 Aktion
 - **Ziel:** Humanoid
@@ -26,5 +27,8 @@ Ein mit dir verschwimmender Doppelgänger erscheint. Vor gegnerischen Angriffen 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Illusion|Illusion]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Illusion]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I]]
+- **Erlernen:** 20 EP

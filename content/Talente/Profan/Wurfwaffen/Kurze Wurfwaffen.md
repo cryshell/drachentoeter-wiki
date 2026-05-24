@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 9b338ad4-57e9-45ee-ba73-3642787904c4
+ID: 3a75b636-9aec-49f0-b32e-414ab5ae205d
 Name: Kurze Wurfwaffen
 title: Kurze Wurfwaffen
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wurfwaffen|Wurfwaffen]]"
+  - "[[Wurfwaffen]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Kurze Wurfwaffen umfassen vorwiegend Wurfdolche, -äxte und -keulen. Geübte Kä
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wurfwaffen|Wurfwaffen]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Wurfwaffen]]
+- **Erlernen:** 40 EP

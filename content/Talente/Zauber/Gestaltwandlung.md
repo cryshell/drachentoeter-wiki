@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 4caf028a-ad7b-4abd-b6b0-39fcc86d73f7
+ID: 900b1b20-2728-40af-894d-8aeb56df42fa
 Name: Gestaltwandlung
 title: Gestaltwandlung
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Vampirische Kräfte|Vampirische Kräfte]]"
-  - "[[Inhalt/Fertigkeiten/Illusion|Illusion]]"
+  - "[[Vampirische Kräfte]]"
+  - "[[Illusion]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Feylamia
@@ -24,5 +24,9 @@ Du nimmst das Äußere eines Humanoiden an, den du gerade getötet hast. Deine r
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Vampirische Kräfte|Vampirische Kräfte]], [[Inhalt/Fertigkeiten/Illusion|Illusion]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Vampirische Kräfte]]
+  - [[Illusion]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Feylamia]]
+- **Erlernen:** 40 EP

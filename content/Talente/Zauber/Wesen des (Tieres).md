@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: b9a877b3-e6fe-43ab-b2d7-c20bdc4a9fc3
+ID: 7d514794-baf4-481d-9710-46b22e28f087
 Name: Wesen des (Tieres)
 title: Wesen des (Tieres)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
-  - "[[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]]"
+  - "[[Hellsicht]]"
+  - "[[Verständigung]]"
+  - "[[Gaben des Odun]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Durro-Dûn I
@@ -26,5 +26,10 @@ Du siehst die Gedanken des Tiers als verschwommene Bilder. Erlaubt *Aufrechterha
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]], [[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Hellsicht]]
+  - [[Verständigung]]
+  - [[Gaben des Odun]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Durro-Dûn I]]
+- **Erlernen:** 10 EP

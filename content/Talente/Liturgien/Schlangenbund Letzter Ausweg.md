@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 0bcce6ce-c962-4372-801f-a5546cec7973
+ID: 74670992-a003-4b21-9578-acb43c178a78
 Name: "Schlangenbund: Letzter Ausweg"
 title: "Schlangenbund: Letzter Ausweg"
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schlangenbund|Schlangenbund]]"
+  - "[[Schlangenbund]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der H’Szintgeweihten I
@@ -24,5 +24,8 @@ Dein Vertrautentier mobilisiert alle Kräfte, um dich oder sich zu retten. Alle 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schlangenbund|Schlangenbund]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Schlangenbund]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der H’Szintgeweihten I]]
+- **Erlernen:** 20 EP

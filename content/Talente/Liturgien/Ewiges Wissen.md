@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 4cfb49f4-730a-48c0-aa8a-c9872ac5496b
+ID: ccec372f-6e0f-4317-93ed-39b2af965423
 Name: Ewiges Wissen
 title: Ewiges Wissen
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Tradition|Tradition]]"
+  - "[[Tradition]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Tairachgeweihten I
@@ -23,5 +23,8 @@ Du überträgst auf jemanden Wissen, meist deinen Schüler. Du kannst nach deine
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Tradition|Tradition]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Tradition]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Tairachgeweihten I]]
+- **Erlernen:** 20 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 04d1b8db-ba60-4c19-a9bf-a92640d5eb6c
+ID: 341fb83d-251c-41c9-8529-3ddeacc3d3b5
 Name: Bindung des Ringes
 title: Bindung des Ringes
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
-  - "[[Inhalt/Fertigkeiten/Ringrituale|Ringrituale]]"
+  - "[[Objekt]]"
+  - "[[Ringrituale]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Geoden I
@@ -24,5 +24,9 @@ Du stellst eine enge magische Bindung zu deinem Schlangenreif her, welche die Vo
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Objekt|Objekt]], [[Inhalt/Fertigkeiten/Ringrituale|Ringrituale]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Objekt]]
+  - [[Ringrituale]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Geoden I]]
+- **Erlernen:** 10 EP

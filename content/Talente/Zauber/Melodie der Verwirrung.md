@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: f90e6f37-341c-44f7-968d-3298ecb9abc3
+ID: 4ed6038d-16c9-4aaa-a7e0-a096263a0c08
 Name: Melodie der Verwirrung
 title: Melodie der Verwirrung
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]"
+  - "[[Eigenschaften]]"
+  - "[[Zaubermelodien]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zauberbarden I
@@ -24,5 +24,9 @@ Jeder, der sich während der Wirkungsdauer in einem Radius von 4 Schritt befinde
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Zaubermelodien]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zauberbarden I]]
+- **Erlernen:** 10 EP

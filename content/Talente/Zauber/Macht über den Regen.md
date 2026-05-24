@@ -1,14 +1,14 @@
 ---
 Entitätstyp: Talent
-ID: 7c384351-12ac-4934-9cc4-bc219c3fe607
+ID: f0e69628-2c8c-433e-8abd-34c338d95c77
 Name: Macht über den Regen
 title: Macht über den Regen
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Ringrituale|Ringrituale]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
-  - "[[Inhalt/Fertigkeiten/Wasser|Wasser]]"
+  - "[[Luft]]"
+  - "[[Ringrituale]]"
+  - "[[Umwelt]]"
+  - "[[Wasser]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Geoden I
@@ -20,5 +20,11 @@ $talent:Wettermeisterschaft$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Ringrituale|Ringrituale]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]], [[Inhalt/Fertigkeiten/Wasser|Wasser]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Luft]]
+  - [[Ringrituale]]
+  - [[Umwelt]]
+  - [[Wasser]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Geoden I]]
+- **Erlernen:** 20 EP

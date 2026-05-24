@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: d79ffaec-195b-402e-bad1-5d5a4f91de23
+ID: 63e4fd76-bc55-42ba-98d0-9f6ebc8355b2
 Name: Bishdariels Warnung
 title: Bishdariels Warnung
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schlaf|Schlaf]]"
+  - "[[Schlaf]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borongeweihten I
@@ -24,5 +24,8 @@ Dein Ziel wird Nacht für Nacht von der Albtraumgestalt Bishdariels heimgesucht,
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schlaf|Schlaf]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Schlaf]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borongeweihten I]]
+- **Erlernen:** 20 EP

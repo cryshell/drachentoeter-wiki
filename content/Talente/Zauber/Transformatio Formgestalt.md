@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 1891cbdf-4900-4954-b45c-35c7d998caeb
+ID: d096e21e-4b9c-4bf9-a947-4442d1854c3f
 Name: Transformatio Formgestalt
 title: Transformatio Formgestalt
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
+  - "[[Objekt]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Geoden I
@@ -15,11 +15,10 @@ Du verwandelst dein Ziel. Die Probenschwierigkeit, Kosten und Zauberdauer sind S
 - 16, 8 AsP, 16 Aktionen: Ein Stein wird zu einem Kurzschwert.
 - 24, 8 AsP, 4 Minuten: Aus einem Knäuel Kamelhaar wird ein feiner mhanadischer Teppich.
 - 28, 32 AsP, 1 Stunde: Aus einem Baumstamm wird eine lebensechte Marmorstatue.
-
 - **Probenschwierigkeit:** nach Vorhaben
-- **Modifikationen:** Dauernde Form (-4, Wirkungsdauer 1 Woche)
-Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, zusätzlich ein Achtel der Basiskosten als gAsP)
-
+- **Modifikationen:**
+  - Dauernde Form (-4, Wirkungsdauer 1 Woche)
+  - Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, zusätzlich ein Achtel der Basiskosten als gAsP)
 - **Vorbereitungszeit:** nach Vorhaben
 - **Ziel:** Objekt
 - **Reichweite:** Berührung
@@ -30,5 +29,8 @@ Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, zusätzlich ein Achte
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Objekt|Objekt]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Objekt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Geoden I]]
+- **Erlernen:** 40 EP

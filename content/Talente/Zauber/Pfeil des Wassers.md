@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: ed354161-4e1b-4e4d-a19d-16b13a7088bc
+ID: 3bead108-808b-4875-ad4a-0c4ecfefac45
 Name: Pfeil des Wassers
 title: Pfeil des Wassers
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
-  - "[[Inhalt/Fertigkeiten/Wasser|Wasser]]"
+  - "[[Objekt]]"
+  - "[[Wasser]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Elfen I
@@ -14,9 +14,9 @@ Voraussetzungen: Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition 
 Du verzauberst einen Pfeil (oder Bolzen oder Wurfwaffe), sodass er im Flug die Macht des Elements freisetzt. Der Pfeil verursacht Wasserschaden und *Ertränken*. Der Pfeil wird durch Regen nicht beeinflusst und kann auch unter Wasser ohne Einschränkungen verwendet werden.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Geschütz (-4; du verzauberst ein größeres Geschoss wie das einer Balliste.)
-Permanenz (-4, 4 AsP, davon 1 gAsP, Wirkungsdauer bis die Bindung gelöst wird oder der Pfeil verschossen wurde)
-
+- **Modifikationen:**
+  - Geschütz (-4; du verzauberst ein größeres Geschoss wie das einer Balliste.)
+  - Permanenz (-4, 4 AsP, davon 1 gAsP, Wirkungsdauer bis die Bindung gelöst wird oder der Pfeil verschossen wurde)
 - **Vorbereitungszeit:** 1 Aktion
 - **Ziel:** Objekt
 - **Reichweite:** Berührung
@@ -27,5 +27,9 @@ Permanenz (-4, 4 AsP, davon 1 gAsP, Wirkungsdauer bis die Bindung gelöst wird o
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Objekt|Objekt]], [[Inhalt/Fertigkeiten/Wasser|Wasser]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Objekt]]
+  - [[Wasser]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Elfen I]]
+- **Erlernen:** 10 EP

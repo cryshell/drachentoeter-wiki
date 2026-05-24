@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: ddc55e65-c399-4b96-933d-ac8405d19751
+ID: 8388fab3-b3e5-477f-ace1-cb66a6f7a307
 Name: Sprachkenntnis (Nachtalbisch)
 title: Sprachkenntnis (Nachtalbisch)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Nachtalbisch gehört zur Elfisch-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

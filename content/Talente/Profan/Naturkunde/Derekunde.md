@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 7f321ad3-494c-49bc-9da0-071cb1bd0d31
+ID: 4ac75778-1037-4973-aeca-e47229969e37
 Name: Derekunde
 title: Derekunde
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Naturkunde|Naturkunde]]"
+  - "[[Naturkunde]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Derekunde befasst sich mit Reiserouten, den Besonderheiten verschiedener Landsch
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Naturkunde|Naturkunde]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Naturkunde]]
+- **Erlernen:** 20 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 8b900ad9-c4ae-43b3-9190-13d36cb3bc31
+ID: c8543e4f-b457-4ea4-af5e-b210977e230c
 Name: Körper des Blutgeists
 title: Körper des Blutgeists
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
-  - "[[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]"
+  - "[[Verwandlung]]"
+  - "[[Gaben des Blutgeists]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Anach-Nûrim I
@@ -25,5 +25,9 @@ Du setzt eine der bei deinem Tier angegebenen *Verwandlungen* ein. Du kannst auc
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]], [[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Verwandlung]]
+  - [[Gaben des Blutgeists]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Anach-Nûrim I]]
+- **Erlernen:** 20 EP

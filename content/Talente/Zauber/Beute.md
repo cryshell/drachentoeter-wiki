@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 204dc8b3-cf60-4991-91bf-360af80d4615
+ID: cc53497e-6c23-467d-b6c2-b210a4007212
 Name: "Beute!"
 title: "Beute!"
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Hexenflüche|Hexenflüche]]"
+  - "[[Eigenschaften]]"
+  - "[[Hexenflüche]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hexen I
@@ -25,5 +25,9 @@ Tiere reagieren aggressiv auf dein Opfer. Proben zum Umgang mit Nutztieren haben
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Hexenflüche|Hexenflüche]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Hexenflüche]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hexen I]]
+- **Erlernen:** 10 EP

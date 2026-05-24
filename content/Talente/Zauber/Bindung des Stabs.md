@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 48f8004a-d849-437b-8315-fc998ebe279d
+ID: b6ef3c6c-c210-48b1-a5ec-36b0d252e07c
 Name: Bindung des Stabs
 title: Bindung des Stabs
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
-  - "[[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]]"
+  - "[[Objekt]]"
+  - "[[Stabzauber]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
@@ -24,5 +24,9 @@ Du stellst eine enge magische Bindung zu deinem Zauberstab her, welche die Vorau
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Objekt|Objekt]], [[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Objekt]]
+  - [[Stabzauber]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 10 EP

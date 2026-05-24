@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 050d6d4c-4394-4896-9de2-a1f4ce6572a0
+ID: 9fde439d-bba4-4af6-8f83-4842fcce1698
 Name: Hexensalbe (passiv)
 title: Hexensalbe (passiv)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schalenzauber|Schalenzauber]]"
+  - "[[Schalenzauber]]"
 Kosten: 80
 Voraussetzungen: Vorteil Tradition der Hexen I
 ---
@@ -15,5 +15,8 @@ Jede Hexe kann auf einem Besen oder einem anderen Holzgegenstand mit bis zu 50 M
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schalenzauber|Schalenzauber]]
-- **Kosten:** 80 EP
+- **Fertigkeiten:**
+  - [[Schalenzauber]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hexen I]]
+- **Erlernen:** 80 EP

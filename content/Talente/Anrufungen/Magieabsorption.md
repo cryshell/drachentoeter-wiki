@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: ce05260e-79a8-4ca1-aade-b0653f075aca
+ID: e885150a-2f2b-4ead-af1f-ca6e6429bfc7
 Name: Magieabsorption
 title: Magieabsorption
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Heskatets|Anrufung Heskatets]]"
+  - "[[Anrufung Heskatets]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -22,5 +22,6 @@ Du kannst bei deiner nächsten Anrufung teilweise oder ganz auf die AsP des Ziel
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Heskatets|Anrufung Heskatets]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Heskatets]]
+- **Erlernen:** 20 EP

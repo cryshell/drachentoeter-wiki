@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 74df0150-f540-463c-9019-73b922c4dcff
+ID: 0e322773-2e7c-4929-b93a-88bd13586cbe
 Name: Verbotene Pforten
 title: Verbotene Pforten
 Kategorie: Magisch
@@ -16,8 +16,9 @@ Du kannst deine Zauber mit deiner Lebenskraft speisen. Jede selbst zugefügte Wu
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
   - Attribut [[Konstitution|KO]] 6
-- **Siehe auch:** [[WS]]
+- **Siehe auch:**
+  - [[WS]]

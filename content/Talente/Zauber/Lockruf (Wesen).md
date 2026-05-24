@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: b174d242-9622-4ff6-a3b8-9324c46ffd0f
+ID: 6f670f48-fc2f-476f-b1b6-1b3205989fb1
 Name: Lockruf (Wesen)
 title: Lockruf (Wesen)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Einfluss]]"
+  - "[[Geister rufen]]"
+  - "[[Verständigung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
@@ -16,7 +16,8 @@ Du rufst ein für deine Tradition repräsentatives, maximal *kleines* Wesen herb
 
 - **Hohe Qualität:** Verdoppelt für je 2 Stufen die Anzahl Wesen.
 - **Probenschwierigkeit:** 12/16/20/24/28
-- **Modifikationen:** Größeres Wesen (-4, Kosten +8 AsP; das Wesen darf eine Stufe größer sein. Mehrmals wählbar.)
+- **Modifikationen:**
+  - Größeres Wesen (-4, Kosten +8 AsP; das Wesen darf eine Stufe größer sein. Mehrmals wählbar.)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -28,5 +29,10 @@ Du rufst ein für deine Tradition repräsentatives, maximal *kleines* Wesen herb
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Geister rufen]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+- **Erlernen:** 10 EP

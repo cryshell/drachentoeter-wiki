@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: fec9f3ba-3309-475d-b17f-f514691c675c
+ID: 7e429606-9c4c-48d3-93a0-dae78e21d6e4
 Name: Bluttrinker
 title: Bluttrinker
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Belhalhars|Anrufung Belhalhars]]"
+  - "[[Anrufung Belhalhars]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -22,5 +22,6 @@ Wenn du einem Gegner mit einem Nahkampfangriff eine oder mehrere Wunden zufügst
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Belhalhars|Anrufung Belhalhars]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Anrufung Belhalhars]]
+- **Erlernen:** 40 EP

@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 22045c65-0af9-4c09-bc45-9b8bcadfc051
+ID: 2fe930a9-4eb6-4dbe-a847-3327416e681a
 Name: Schutzkreis gegen Traumgänger
 title: Schutzkreis gegen Traumgänger
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Antimagie|Antimagie]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
-  - "[[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]"
+  - "[[Antimagie]]"
+  - "[[Verständigung]]"
+  - "[[Zauberzeichen]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zibilja I ODER Vorteil Tradition der Gildenmagier I
@@ -25,5 +25,10 @@ Das Zeichen wird auf einer beliebigen Fläche angebracht. Du ziehst einen Kreis 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Antimagie|Antimagie]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]], [[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Antimagie]]
+  - [[Verständigung]]
+  - [[Zauberzeichen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zibilja I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 10 EP

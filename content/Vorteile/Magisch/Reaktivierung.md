@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 5e773511-ee45-4dbb-87c9-f01cc31fb357
+ID: 3d837184-0e63-4a4f-9ee3-65d322c7825c
 Name: Reaktivierung
 title: Reaktivierung
 Kategorie: Magisch
@@ -16,8 +16,9 @@ Du kannst wieder aufladbare Artefakte erschaffen und reaktivieren.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
   - Attribut [[Fingerfertigkeit|FF]] 4
-- **Siehe auch:** [[Artefakte - Herstellung]]
+- **Siehe auch:**
+  - [[Artefakte - Herstellung]]

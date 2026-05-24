@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: aa5831c0-6fcb-4f05-8e47-acc23e4de744
+ID: 7cbd7826-ee8e-4637-be20-1733f347372b
 Name: Befragung der Ortsgeister
 title: Befragung der Ortsgeister
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]"
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Temporal|Temporal]]"
+  - "[[Geister rufen]]"
+  - "[[Hellsicht]]"
+  - "[[Temporal]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Orks) I
@@ -19,5 +19,10 @@ $talent:Blick in die Vergangenheit$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]], [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Temporal|Temporal]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Geister rufen]]
+  - [[Hellsicht]]
+  - [[Temporal]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Orks) I]]
+- **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: fcc82ea5-8b6f-4e8b-be1e-5c5e2def7144
+ID: b336e5ba-1419-4c44-b3f1-0a242ba45275
 Name: Tradition der Graveshgeweihten III
 title: Tradition der Graveshgeweihten III
 Kategorie: Tradition (Karmal)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Fingerfertigkeit|FF]] 8
   - Vorteil [[Tradition der Graveshgeweihten II]]
-- **Siehe auch:** [[Opferung (Gravesh)]]
+- **Siehe auch:**
+  - [[Opferung (Gravesh)]]

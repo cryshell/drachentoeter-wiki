@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 4d11811b-4987-41cd-b0c2-ed88bc00abcc
+ID: 0a922506-af9c-4231-ba2f-0fb1afa45186
 Name: Conagas Ruf
 title: Conagas Ruf
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Seefahrt|Seefahrt]]"
+  - "[[Seefahrt]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I
@@ -24,5 +24,8 @@ Du bläst in dein Muschelhorn und segnest einen Bereich mit einem Radius von 128
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Seefahrt|Seefahrt]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Seefahrt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I]]
+- **Erlernen:** 10 EP

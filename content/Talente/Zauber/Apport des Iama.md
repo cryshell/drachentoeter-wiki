@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 33d92694-7416-455b-8ab0-e297f5fb35c5
+ID: a75ea597-0497-4fc4-8334-c7224c238db6
 Name: Apport des Iama
 title: Apport des Iama
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Elfenlieder]]"
+  - "[[Umwelt]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Elfen I ODER Vorteil Tradition der Shakagra I
@@ -24,5 +24,9 @@ Das Iama kehrt fliegend mit einer Geschwindigkeit von 10 Meilen pro Stunde zu di
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Elfenlieder]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 10 EP

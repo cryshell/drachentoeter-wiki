@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 729cba04-279b-4706-876a-d7fdb039e3a8
+ID: ce4ebfc0-653a-4981-856d-bc8b312d1b9d
 Name: Schwingen der Nacht
 title: Schwingen der Nacht
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Vampirische Kräfte|Vampirische Kräfte]]"
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
+  - "[[Vampirische Kräfte]]"
+  - "[[Verwandlung]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kinder der Nacht ODER Vorteil Tradition der Kinder der Finsternis
@@ -25,5 +25,9 @@ Du verwandelst dich in je nach Tradition in eine Riesenfledermaus (Kdf) oder ein
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Vampirische Kräfte|Vampirische Kräfte]], [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Vampirische Kräfte]]
+  - [[Verwandlung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kinder der Nacht ODER Vorteil Tradition der Kinder der Finsternis]]
+- **Erlernen:** 40 EP

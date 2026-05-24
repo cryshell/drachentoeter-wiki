@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 7b695305-061c-40b8-94d0-7fef8f23eb39
+ID: dcce23be-4b90-4d88-9ad9-fbe55ec1a872
 Name: Macht der Ungeformten
 title: Macht der Ungeformten
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
-  - "[[Inhalt/Fertigkeiten/Geister des Zorns|Geister des Zorns]]"
-  - "[[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]"
+  - "[[Dämonisch]]"
+  - "[[Geister des Zorns]]"
+  - "[[Geister rufen]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Achaz) I ODER Vorteil Tradition der Schamanen (Orks) I ODER Vorteil Tradition der Schamanen (Waldmenschen) I
@@ -26,5 +26,10 @@ Ruft einen Dämon herbei, der in deiner unmittelbaren Nähe erscheint. Schwierig
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]], [[Inhalt/Fertigkeiten/Geister des Zorns|Geister des Zorns]], [[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Dämonisch]]
+  - [[Geister des Zorns]]
+  - [[Geister rufen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Achaz) I ODER Vorteil Tradition der Schamanen (Orks) I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+- **Erlernen:** 40 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 73b3a432-2017-4473-a56d-a5751e41fba0
+ID: a7e59e2c-6ecc-4edf-8aaf-8ecd2933b14b
 Name: Warnender Stein
 title: Warnender Stein
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]"
+  - "[[Hellsicht]]"
+  - "[[Kristallmagie]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I
@@ -24,5 +24,9 @@ Der Kristall leuchtet auf, falls sich eine feindlich gesinnte Person in weniger 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Hellsicht]]
+  - [[Kristallmagie]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

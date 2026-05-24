@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 87d380c5-ed44-43b8-b39b-e10e0d3df25a
+ID: 41808787-d361-4371-b57b-13f50f397fb8
 Name: Marbos Geleit
 title: Marbos Geleit
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Tod|Tod]]"
+  - "[[Tod]]"
 Kosten: 0
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der V’Sargeweihten I
@@ -23,5 +23,8 @@ Deine Seele verlässt kurzzeitig deinen Körper und begleitet und beschützt die
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Tod|Tod]]
-- **Kosten:** 0 EP
+- **Fertigkeiten:**
+  - [[Tod]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borongeweihten I ODER Vorteil Tradition der V’Sargeweihten I]]
+- **Erlernen:** 0 EP

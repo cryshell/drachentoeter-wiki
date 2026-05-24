@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 3e9efca4-401b-434b-aa4f-cfc2dfb58f77
+ID: cc04cce6-3680-4b57-b7a3-28373bbbab56
 Name: Kulturkunde (Svellttal)
 title: Kulturkunde (Svellttal)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

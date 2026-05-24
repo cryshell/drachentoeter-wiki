@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 44cd1e3e-de11-4590-b475-86c63b87e3fd
+ID: dbe03088-703a-43af-b2a0-6002a3861545
 Name: Fluch der Götter (Ingerimm)
 title: Fluch der Götter (Ingerimm)
 Kategorie: Nachteil
@@ -12,6 +12,6 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Ingerimm), Empfindlichkeit I (Pfl
 
 ---
 
-- **Kosten:** -200 EP
+- **Erlernen:** -200 EP
 - **Voraussetzungen:**
   - Vorteil [[Vampir I]]

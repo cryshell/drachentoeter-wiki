@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: aa6def3c-606c-4b9c-b041-70b5daf5b9fb
+ID: 8339cd3d-4fb5-415d-9579-26ef94aff272
 Name: Aeromorpho Wirbelform
 title: Aeromorpho Wirbelform
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
+  - "[[Luft]]"
+  - "[[Objekt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Elfen I
@@ -16,9 +16,9 @@ Du formst Luft mit bloßen Händen in die wundersamsten Formen. Die Probenschwie
 - 16, 8 AsP, 4 Züge: Du schiebst den Rauch in einem brennenden Raum zur Seite und erschaffst so für 1 Minute eine sichere Schneise zur Flucht.
 - 20, 16 AsP, 32 Minuten: Du formst Wolken für 1 Stunde zum Abbild eines Drachen.
 - 28, 128+ AsP, 1 Woche: Du erzeugst in einem Radius von 128 Schritt für 1 Monat ein Luftflirren, sodass die Sichtverhältnisse von außen in den Bereich hinein um 1 Stufe sinken.
-
 - **Probenschwierigkeit:** nach Vorhaben
-- **Modifikationen:** Permanenz (-4, Kosten ein Viertel der Basiskosten als gAsP, bis die Bindung gelöst wird; die Luft behält deine Verformung ungeachtet natürlicher Einflüsse weiter bei, sie verwirbelt etwa auch bei starkem Wind nicht.)
+- **Modifikationen:**
+  - Permanenz (-4, Kosten ein Viertel der Basiskosten als gAsP, bis die Bindung gelöst wird; die Luft behält deine Verformung ungeachtet natürlicher Einflüsse weiter bei, sie verwirbelt etwa auch bei starkem Wind nicht.)
 - **Varianten:** Luftzauber übernehmen (Probenschwierigkeit EW des Zaubers, 4 Aktionen, Ziel Luftzauber, augenblicklich; du erhältst die Kontrolle über einen wirkenden Luftzauber, als hättest du ihn selbst gewirkt. Wirkt nicht gegen Luftelementare und Zauber, in die gAsP geflossen sind.)
 - **Vorbereitungszeit:** 0 Aktionen
 - **Ziel:** Zone
@@ -30,5 +30,9 @@ Du formst Luft mit bloßen Händen in die wundersamsten Formen. Die Probenschwie
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Objekt|Objekt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Luft]]
+  - [[Objekt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Elfen I]]
+- **Erlernen:** 20 EP

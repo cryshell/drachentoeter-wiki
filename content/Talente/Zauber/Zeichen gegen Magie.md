@@ -1,14 +1,14 @@
 ---
 Entitätstyp: Talent
-ID: 2c53ff31-cc85-40cb-b813-44b4f867813b
+ID: ff8221f6-991a-45bb-b005-cbaa31d43665
 Name: Zeichen gegen Magie
 title: Zeichen gegen Magie
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Antimagie|Antimagie]]"
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
-  - "[[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]"
+  - "[[Antimagie]]"
+  - "[[Kraft]]"
+  - "[[Objekt]]"
+  - "[[Zauberzeichen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I
@@ -28,5 +28,11 @@ Das Zeichen wird in einem Durchmesser von 16 Fingern auf einem maximal schrankgr
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Antimagie|Antimagie]], [[Inhalt/Fertigkeiten/Kraft|Kraft]], [[Inhalt/Fertigkeiten/Objekt|Objekt]], [[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Antimagie]]
+  - [[Kraft]]
+  - [[Objekt]]
+  - [[Zauberzeichen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

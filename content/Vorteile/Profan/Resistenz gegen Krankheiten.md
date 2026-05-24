@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b2ad8afe-b37e-4d29-806a-9d7bab9d2b87
+ID: 6803ee28-0bf0-48ea-a57a-59fb20d95e0f
 Name: Resistenz gegen Krankheiten
 title: Resistenz gegen Krankheiten
 Kategorie: Profan
@@ -13,5 +13,6 @@ Die Auswirkungen von Krankheiten werden gemildert.
 
 ---
 
-- **Kosten:** 20 EP
-- **Siehe auch:** [[Gifte & Krankheiten mildern]]
+- **Erlernen:** 20 EP
+- **Siehe auch:**
+  - [[Gifte & Krankheiten mildern]]

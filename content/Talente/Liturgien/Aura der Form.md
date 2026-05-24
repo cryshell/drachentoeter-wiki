@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 70542dbf-ae9e-4d57-8c15-a9b5da2ba065
+ID: 635de155-f0f8-4e10-8285-98aea6deff96
 Name: Aura der Form
 title: Aura der Form
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/List|List]]"
-  - "[[Inhalt/Fertigkeiten/Wissen|Wissen]]"
+  - "[[List]]"
+  - "[[Wissen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Nandusgeweihten I
@@ -25,5 +25,9 @@ Du erhältst einen groben Eindruck in die Vorgeschichte eines Gegenstandes.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/List|List]], [[Inhalt/Fertigkeiten/Wissen|Wissen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[List]]
+  - [[Wissen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Nandusgeweihten I]]
+- **Erlernen:** 20 EP

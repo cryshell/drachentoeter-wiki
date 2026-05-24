@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f1d40c99-da2c-40a1-b7f9-2ea15f4fdac4
+ID: 06fde522-fc0b-41d8-979e-0b92f8206eac
 Name: Sprachkenntnis (Trollisch)
 title: Sprachkenntnis (Trollisch)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Trollisch gehört zur Schratisch-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

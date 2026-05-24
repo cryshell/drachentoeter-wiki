@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 848d7829-91c8-43b5-8e20-f2bbc6079307
+ID: 4a7dbf3a-d9d6-459d-9b3d-e7056c8392f1
 Name: Arcanum Interdictum
 title: Arcanum Interdictum
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Magiebann|Magiebann]]"
+  - "[[Magiebann]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Praiosgeweihten I
@@ -14,7 +14,8 @@ Du erschaffst je nach KaP-Aufwand in einem Radius von 256/512/1024/2048 Schritt 
 
 - **Hohe Qualität:** Für 2 Stufen scheitert jegliche Magie automatisch.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, 1/4 der Kosten als gKaP)
+- **Modifikationen:**
+  - Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, 1/4 der Kosten als gKaP)
 - **Vorbereitungszeit:** 8 Stunden
 - **Ziel:** Zone
 - **Reichweite:** 64 Schritt
@@ -25,5 +26,8 @@ Du erschaffst je nach KaP-Aufwand in einem Radius von 256/512/1024/2048 Schritt 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Magiebann|Magiebann]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Magiebann]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Praiosgeweihten I]]
+- **Erlernen:** 40 EP

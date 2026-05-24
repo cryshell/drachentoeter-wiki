@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 981403f1-3905-497b-b431-0361c5a087c5
+ID: 87330d6d-49af-40c9-a06f-ae5a7a22702f
 Name: Paktierer I
 title: Paktierer I
 Kategorie: Kreis der Verdammnis
@@ -14,7 +14,7 @@ Du verfügst über 8 Gunstpunkte und kannst die dämonische Tradition deines Erz
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Vorteil [[Kreis der Verdammnis I]]
-  - Kein Vorteil Geweiht I
+  - Kein Vorteil [[Geweiht I]]

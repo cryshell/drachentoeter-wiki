@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 5f8991fe-5bd3-4dfe-8148-a948839db703
+ID: 93222125-14e5-49ad-b476-41cab995abbc
 Name: Stimmungssinn
 title: Stimmungssinn
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Vertrautenmagie|Vertrautenmagie]]"
+  - "[[Hellsicht]]"
+  - "[[Vertrautenmagie]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Zibilja I
@@ -25,5 +25,9 @@ Dein Vertrautentier starrt das Ziel an und gibt dir seine Eindrücke weiter. Men
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Vertrautenmagie|Vertrautenmagie]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Hellsicht]]
+  - [[Vertrautenmagie]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Zibilja I]]
+- **Erlernen:** 20 EP

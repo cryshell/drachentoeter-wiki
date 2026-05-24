@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c82c9973-0be9-4c49-ab63-93d603542692
+ID: 5a7550d5-e948-4d97-ad26-3bd3afefebb8
 Name: Tradition der Schamanen (Gjalsker) I
 title: Tradition der Schamanen (Gjalsker) I
 Kategorie: Tradition (Magisch)
@@ -16,7 +16,7 @@ Bei Elementarzaubern kannst du nur Humus, Luft und Wasser verwenden. Verärgert 
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 4
   - Vorteil [[Zauberer I]]

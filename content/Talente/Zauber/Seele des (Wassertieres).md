@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 48ac6d08-3509-48ec-a3bb-d694c505872d
+ID: 86a33914-39ee-4b05-b3fa-642026b4bc8c
 Name: Seele des (Wassertieres)
 title: Seele des (Wassertieres)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
-  - "[[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]]"
+  - "[[Verwandlung]]"
+  - "[[Gaben des Odun]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Durro-Dûn I
@@ -15,7 +15,8 @@ Du verwandelst dich in das Tier deines Tiergeistes. Du behältst deine geistigen
 
 - **Hohe Qualität:** Du darfst 2 Spielwerte um je 1 Punkt erhöhen, solange das Ergebnis dem gesunden Menschenverstand nicht widerspricht.
 - **Probenschwierigkeit:** 8/12/16/20/24
-- **Modifikationen:** Tierseele (+4; die Instinkte des Tieres können überhand nehmen.)
+- **Modifikationen:**
+  - Tierseele (+4; die Instinkte des Tieres können überhand nehmen.)
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -27,5 +28,9 @@ Du verwandelst dich in das Tier deines Tiergeistes. Du behältst deine geistigen
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]], [[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Verwandlung]]
+  - [[Gaben des Odun]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Durro-Dûn I]]
+- **Erlernen:** 40 EP

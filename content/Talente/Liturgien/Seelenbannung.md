@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: df2a8edc-1cdd-430a-b547-7a5df9bfefc7
+ID: 75d81e06-6d83-48e7-b75e-78e21b165262
 Name: Seelenbannung
 title: Seelenbannung
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Herrschaft|Herrschaft]]"
+  - "[[Herrschaft]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Namenlosgeweihten I
@@ -24,5 +24,8 @@ Du lässt das Opfer während der Zeremonie ausbluten und schickst seine Seele di
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Herrschaft|Herrschaft]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Herrschaft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Namenlosgeweihten I]]
+- **Erlernen:** 20 EP

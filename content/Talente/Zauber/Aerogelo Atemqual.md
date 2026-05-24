@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 001ad5bd-52e2-4938-a5eb-ed318010a553
+ID: a437bd85-3367-4b3a-88be-d04e3929232b
 Name: Aerogelo Atemqual
 title: Aerogelo Atemqual
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Luft]]"
+  - "[[Umwelt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
@@ -25,5 +25,9 @@ Die Luft wird in einem Quader von 4 Schritt Kantenlänge so dicht wie Wasser. In
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Luft]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

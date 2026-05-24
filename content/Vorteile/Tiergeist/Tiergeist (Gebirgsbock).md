@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: bd7c68ec-fe09-4546-bc00-d7820b61588e
+ID: e97ca2b4-ded7-4456-a3ef-9fdb495ae64b
 Name: Tiergeist (Gebirgsbock)
 title: Tiergeist (Gebirgsbock)
 Kategorie: Tiergeist
@@ -25,8 +25,13 @@ Kosten: 0
 
 ---
 
-- **Kosten:** 0 EP
+- **Erlernen:** 0 EP
 - **Voraussetzungen:**
   - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
   - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
-- **Siehe auch:** [[Axxeleratus Blitzgeschwind]], [[Eins mit der Natur]], [[Firnlauf]], [[Spinnenlauf]], [[Standfest Katzengleich]]
+- **Siehe auch:**
+  - [[Axxeleratus Blitzgeschwind]]
+  - [[Eins mit der Natur]]
+  - [[Firnlauf]]
+  - [[Spinnenlauf]]
+  - [[Standfest Katzengleich]]

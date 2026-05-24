@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 42a2a439-338e-4d6e-8c51-8b89a524ee6b
+ID: feaa521b-4697-4b4d-9e4a-92ec9050fd9d
 Name: Segensreiches Wasser
 title: Segensreiches Wasser
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Flüsse und Quellen|Flüsse und Quellen]]"
-  - "[[Inhalt/Fertigkeiten/Wachstum|Wachstum]]"
+  - "[[Flüsse und Quellen]]"
+  - "[[Wachstum]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Perainegeweihten I
@@ -25,5 +25,9 @@ Efferdgeweihte rufen Efferds Wasserkrug, Perainegeweihte den Krug der Heiligen L
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Flüsse und Quellen|Flüsse und Quellen]], [[Inhalt/Fertigkeiten/Wachstum|Wachstum]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Flüsse und Quellen]]
+  - [[Wachstum]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Perainegeweihten I]]
+- **Erlernen:** 40 EP

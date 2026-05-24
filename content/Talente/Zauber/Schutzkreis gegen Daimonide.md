@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 05dc01fb-c9f8-47eb-8eca-4735515476d7
+ID: 9bb79d71-553d-44ee-9774-837a72364d0a
 Name: Schutzkreis gegen Daimonide
 title: Schutzkreis gegen Daimonide
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Antimagie|Antimagie]]"
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
-  - "[[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]"
+  - "[[Antimagie]]"
+  - "[[Dämonisch]]"
+  - "[[Zauberzeichen]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schamanen (Waldmenschen) I
@@ -27,5 +27,10 @@ Das Zeichen wird auf einer beliebigen Fläche angebracht. Du ziehst einen Kreis 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Antimagie|Antimagie]], [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]], [[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Antimagie]]
+  - [[Dämonisch]]
+  - [[Zauberzeichen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+- **Erlernen:** 10 EP

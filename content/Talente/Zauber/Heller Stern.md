@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 48689159-75bf-46cb-9f6a-694b7656632f
+ID: 5ac548ad-b14c-4ecc-ab84-16267667aff5
 Name: Heller Stern
 title: Heller Stern
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
+  - "[[Zaubertricks]]"
 Kosten: 5
 ---
 Du und die verzauberte Person sehen einen oder mehrere Sterne, auf die du zeigst, aufleuchten.
@@ -20,5 +20,6 @@ Du und die verzauberte Person sehen einen oder mehrere Sterne, auf die du zeigst
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
-- **Kosten:** 5 EP
+- **Fertigkeiten:**
+  - [[Zaubertricks]]
+- **Erlernen:** 5 EP

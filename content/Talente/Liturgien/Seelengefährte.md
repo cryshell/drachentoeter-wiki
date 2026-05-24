@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 87e2e8c6-ceec-43cf-a230-102f0f281904
+ID: a1ada92c-3365-484b-83bc-0a02243e37dc
 Name: Seelengefährte
 title: Seelengefährte
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Jagd|Jagd]]"
+  - "[[Jagd]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Firungeweihten I
@@ -14,7 +14,8 @@ Du bittest Firuns Wilde Jagd um einen Gefallen. Ein in der Region heimisches, ma
 
 - **Hohe Qualität:** Verdoppelt für je 2 Stufen die Anzahl Tiere.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Größeres Tier (-4, Kosten +4 KaP; das Tier darf eine Stufe größer sein. Mehrmals wählbar.)
+- **Modifikationen:**
+  - Größeres Tier (-4, Kosten +4 KaP; das Tier darf eine Stufe größer sein. Mehrmals wählbar.)
 - **Vorbereitungszeit:** 8 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -25,5 +26,8 @@ Du bittest Firuns Wilde Jagd um einen Gefallen. Ein in der Region heimisches, ma
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Jagd|Jagd]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Jagd]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Firungeweihten I]]
+- **Erlernen:** 20 EP

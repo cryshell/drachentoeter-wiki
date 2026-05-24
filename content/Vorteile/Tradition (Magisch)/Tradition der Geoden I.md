@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0cc2706b-963c-47fd-bdaa-8be75d65e76d
+ID: bd215e52-7675-4e44-999b-6bd5de670d6a
 Name: Tradition der Geoden I
 title: Tradition der Geoden I
 Kategorie: Tradition (Magisch)
@@ -16,7 +16,7 @@ Du musst dich beim Erlernen für ein bevorzugtes Element entscheiden. Die Erschw
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 4
   - Vorteil [[Zauberer I]]

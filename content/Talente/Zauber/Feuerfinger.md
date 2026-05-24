@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 3ce0ca9c-5876-4cf0-918e-636f1422949e
+ID: f7350c01-dbfa-4479-977b-cbd532cf6e67
 Name: Feuerfinger
 title: Feuerfinger
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
+  - "[[Zaubertricks]]"
 Kosten: 5
 ---
 Du lässt eine kleine Flamme über deinem Finger entstehen.
@@ -20,5 +20,6 @@ Du lässt eine kleine Flamme über deinem Finger entstehen.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
-- **Kosten:** 5 EP
+- **Fertigkeiten:**
+  - [[Zaubertricks]]
+- **Erlernen:** 5 EP

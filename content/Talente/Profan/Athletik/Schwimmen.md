@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 9e7f6973-184d-4e38-bdd0-cf1f5bfe0ce5
+ID: e1a8e896-b9a0-43f7-b9aa-d517dd619fd6
 Name: Schwimmen
 title: Schwimmen
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Athletik|Athletik]]"
+  - "[[Athletik]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Schwimmen erlaubt eine schnellere Fortbewegung im Wasser und längere Tauchgäng
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Athletik|Athletik]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Athletik]]
+- **Erlernen:** 10 EP

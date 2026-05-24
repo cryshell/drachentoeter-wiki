@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 1a357719-183e-4ad7-ae83-bbadf44a296a
+ID: 9b1b43a8-56f1-40f1-9f26-9cec172088cf
 Name: Tradition der Swafnirgeweihten I
 title: Tradition der Swafnirgeweihten I
 Kategorie: Tradition (Karmal)
@@ -17,8 +17,8 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen Swafnirs Gebote verstößt: Ehr
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 4
   - Vorteil [[Geweiht I]]
-  - Kein Vorteil Tradition der *geweihten I
+  - Kein Vorteil [[Tradition der geweihten I|Tradition der *geweihten I]]

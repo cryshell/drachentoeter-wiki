@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 8385219f-9103-4767-86c4-aa28dfec5833
+ID: 78cf25e9-d48e-42d9-9332-6b9bbf987225
 Name: Ruf des Vampirs
 title: Ruf des Vampirs
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Vampirische Kräfte|Vampirische Kräfte]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Vampirische Kräfte]]"
+  - "[[Verständigung]]"
+  - "[[Einfluss]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kinder der Finsternis ODER Vorteil Tradition der Kinder der Nacht ODER Vorteil Tradition der Lamijahnim ODER Vorteil Tradition der Feylamia
@@ -25,5 +25,10 @@ Du sendest einen geistigen Ruf an jemanden, von dem du bereits Sikaryan geraubt 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Vampirische Kräfte|Vampirische Kräfte]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]], [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Vampirische Kräfte]]
+  - [[Verständigung]]
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kinder der Finsternis ODER Vorteil Tradition der Kinder der Nacht ODER Vorteil Tradition der Lamijahnim ODER Vorteil Tradition der Feylamia]]
+- **Erlernen:** 40 EP

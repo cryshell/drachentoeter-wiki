@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 49d882d8-f6e3-4eb6-ad8c-396de4e634d4
+ID: c33bf153-cd27-4044-9a90-62fe77b082ab
 Name: Sternkunde
 title: Sternkunde
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Bildung|Bildung]]"
+  - "[[Bildung]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Unter Sternkunde sind sowohl Astronomie als auch Astrologie vereint. Wahrsager e
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Bildung|Bildung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Bildung]]
+- **Erlernen:** 10 EP

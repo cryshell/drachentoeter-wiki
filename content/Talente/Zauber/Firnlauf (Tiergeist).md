@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: b8f93df3-6251-47eb-9749-6ad41c9d13b6
+ID: d7efcefd-6e66-4849-9b37-b7b0660322d2
 Name: Firnlauf (Tiergeist)
 title: Firnlauf (Tiergeist)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]]"
-  - "[[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]"
+  - "[[Gaben des Odun]]"
+  - "[[Gaben des Blutgeists]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tiergeist (Gebirgsbock)
@@ -15,5 +15,9 @@ $talent:Firnlauf$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]], [[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Gaben des Odun]]
+  - [[Gaben des Blutgeists]]
+- **Voraussetzungen:**
+  - Vorteil [[Tiergeist (Gebirgsbock)]]
+- **Erlernen:** 10 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 479331fa-76d9-4deb-abfb-34eab81698e6
+ID: 12b36357-bde2-42ab-bf86-d1e2e70baefb
 Name: Stehlen
 title: Stehlen
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verschlagenheit|Verschlagenheit]]"
+  - "[[Verschlagenheit]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Mit Stehlen kannst du zur richtigen Zeit am richtigen Ort sein, um die richtige 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verschlagenheit|Verschlagenheit]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Verschlagenheit]]
+- **Erlernen:** 20 EP

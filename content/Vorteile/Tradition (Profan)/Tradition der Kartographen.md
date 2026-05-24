@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: afa274f4-88d8-4a19-96b9-9bb91f62d252
+ID: 62fcf77c-9375-4bf1-b2c1-987230c92a02
 Name: Tradition der Kartographen
 title: Tradition der Kartographen
 Kategorie: Tradition (Profan)
@@ -12,6 +12,6 @@ Du beherrschst Rezepte der Tradition der Kartographen (Kar).
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut FF 4 ODER Attribut KL 4

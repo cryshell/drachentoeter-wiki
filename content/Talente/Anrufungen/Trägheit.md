@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 0c4f0426-303c-4164-98fa-d345c3e73d68
+ID: c939ff0a-a4c5-4454-8f83-b6b27378e978
 Name: Trägheit
 title: Trägheit
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Aphestadils|Anrufung Aphestadils]]"
+  - "[[Anrufung Aphestadils]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -22,5 +22,6 @@ Alle Personen in einem Radius von 8 Schritt müssen eine KO-Gegenprobe ablegen. 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Aphestadils|Anrufung Aphestadils]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Aphestadils]]
+- **Erlernen:** 20 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 9bc837a8-e1a7-412f-b5df-677c1393617f
+ID: a9f976ec-0270-4799-b1fc-efd96f6169a4
 Name: Argelions Mantel
 title: Argelions Mantel
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Abu al'Mada|Abu al'Mada]]"
-  - "[[Inhalt/Fertigkeiten/Magie|Magie]]"
+  - "[[Abu al'Mada]]"
+  - "[[Magie]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der H’Szintgeweihten I
@@ -25,5 +25,9 @@ Du ignorierst bei allen auf dich gewirkten, schädlichen Zaubern zwei Stufen Hoh
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Abu al'Mada|Abu al'Mada]], [[Inhalt/Fertigkeiten/Magie|Magie]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Abu al'Mada]]
+  - [[Magie]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der H’Szintgeweihten I]]
+- **Erlernen:** 20 EP

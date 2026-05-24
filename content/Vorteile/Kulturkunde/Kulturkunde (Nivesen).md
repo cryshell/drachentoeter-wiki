@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4182a126-8252-44cf-82fc-cf0523457a4b
+ID: 44f03e72-0724-4cc7-ad62-da3cfe4eff60
 Name: Kulturkunde (Nivesen)
 title: Kulturkunde (Nivesen)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

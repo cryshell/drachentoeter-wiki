@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: aa701205-b64e-494d-8f68-699f893521af
+ID: 0b541d0a-291b-4159-97e4-2aad204bf975
 Name: Wundsegen
 title: Wundsegen
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Friede|Friede]]"
-  - "[[Inhalt/Fertigkeiten/Fruchtbarkeit und Wiedergeburt|Fruchtbarkeit und Wiedergeburt]]"
-  - "[[Inhalt/Fertigkeiten/Heilung|Heilung]]"
+  - "[[Friede]]"
+  - "[[Fruchtbarkeit und Wiedergeburt]]"
+  - "[[Heilung]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der Zsahhgeweihten I
@@ -27,5 +27,10 @@ Der Gesegnete erhält sofort 2W6+4 Heilpunkte, für jede Überschreitung der WS 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Friede|Friede]], [[Inhalt/Fertigkeiten/Fruchtbarkeit und Wiedergeburt|Fruchtbarkeit und Wiedergeburt]], [[Inhalt/Fertigkeiten/Heilung|Heilung]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Friede]]
+  - [[Fruchtbarkeit und Wiedergeburt]]
+  - [[Heilung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Perainegeweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der Zsahhgeweihten I]]
+- **Erlernen:** 40 EP

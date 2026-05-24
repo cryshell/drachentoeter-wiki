@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 69065604-6a13-424f-a98e-8b48ba2c3568
+ID: 63e6fd62-55a2-4fc0-bf47-99a0492c5922
 Name: Geräumiger Schuppenbeutel (passiv)
 title: Geräumiger Schuppenbeutel (passiv)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]"
+  - "[[Kristallmagie]]"
 Kosten: 20
 Voraussetzungen: Vorteil Tradition der Kristallomanten I
 ---
@@ -15,5 +15,8 @@ Pro 4 volle Punkte PW Kristallmagie steigt das Volumen des Schuppenbeutels um 2 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Kristallmagie]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 25b912d7-fd2c-4d33-8ec9-d4d68415ed8f
+ID: 04e8f88a-2df2-443f-935a-1ab4f62fceac
 Name: "Schlangenbund: Dinge aufspüren"
 title: "Schlangenbund: Dinge aufspüren"
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schlangenbund|Schlangenbund]]"
+  - "[[Schlangenbund]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der H’Szintgeweihten I
@@ -23,5 +23,8 @@ Dein Vertrautentier teilt dir mit, in welcher Richtung sich ein Gegenstand aus d
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schlangenbund|Schlangenbund]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Schlangenbund]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der H’Szintgeweihten I]]
+- **Erlernen:** 10 EP

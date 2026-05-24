@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e4d57053-c65c-4b61-b758-5b61b6127529
+ID: e10c5514-c274-4fe4-9c68-ff81220f9b9e
 Name: Tradition der Schamanen (Achaz) IV
 title: Tradition der Schamanen (Achaz) IV
 Kategorie: Tradition (Magisch)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Intuition|IN]] 10
   - Vorteil [[Tradition der Schamanen (Achaz) III]]

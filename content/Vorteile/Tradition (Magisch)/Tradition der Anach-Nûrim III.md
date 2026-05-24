@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a0e4560d-d944-4d87-b0a2-6e9179d312d0
+ID: acb0b211-ae87-426a-a57c-b209ac6c51bc
 Name: Tradition der Anach-Nûrim III
 title: Tradition der Anach-Nûrim III
 Kategorie: Tradition (Magisch)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Erzwingen.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Konstitution|KO]] 8
   - Vorteil [[Tradition der Anach-Nûrim II]]
-- **Siehe auch:** [[Erzwingen]]
+- **Siehe auch:**
+  - [[Erzwingen]]

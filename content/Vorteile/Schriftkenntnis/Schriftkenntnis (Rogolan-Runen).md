@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 692a4ef5-9633-43e4-8a69-bffb82c2e793
+ID: 8e4ba8f5-7d5d-4346-b802-80fb29752e03
 Name: Schriftkenntnis (Rogolan-Runen)
 title: Schriftkenntnis (Rogolan-Runen)
 Kategorie: Schriftkenntnis
@@ -11,4 +11,4 @@ Schriften umfassen sowohl die Fähigkeit die entsprechenden Zeichen lesen als au
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

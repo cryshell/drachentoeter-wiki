@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 51a42f96-3fc1-4a65-a9ff-22e015d3a72b
+ID: af403ce2-be5a-461f-b97b-7e41dd7ee528
 Name: Sumpfstrudel
 title: Sumpfstrudel
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Humus]]"
+  - "[[Umwelt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I
@@ -14,7 +14,8 @@ Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geod
 Im Humusboden bildet sich ein morastiger Strudel mit einem Radius von 16 Schritt. Jedes Wesen muss bei Betreten des Bereichs und zu Beginn jedes Zugs darin eine KK-Gegenprobe ablegen, die ab einem halben Radius Distanz zum Zentrum Vorteil hat. Beim Misslingen wird es 2 Schritt in Richtung des Zentrums gezerrt. Im Zentrum erleidet jedes Ziel 8W6 SP und wird für die verbleibende Wirkungsdauer *handlungsunfähig*.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Dornenranken (-8; jede misslungene Gegenprobe verursacht 2W6 TP.)
+- **Modifikationen:**
+  - Dornenranken (-8; jede misslungene Gegenprobe verursacht 2W6 TP.)
 - **Vorbereitungszeit:** 8 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** 64 Schritt
@@ -25,5 +26,9 @@ Im Humusboden bildet sich ein morastiger Strudel mit einem Radius von 16 Schritt
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Humus|Humus]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Humus]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

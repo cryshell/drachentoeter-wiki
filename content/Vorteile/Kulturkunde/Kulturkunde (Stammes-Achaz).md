@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2ba14331-d5c6-4fc0-95b8-5e4111c17ece
+ID: d6138bd4-cecb-4406-832a-8d2b6cd3749f
 Name: Kulturkunde (Stammes-Achaz)
 title: Kulturkunde (Stammes-Achaz)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

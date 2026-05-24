@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 8c302011-5bd2-4bb0-8d89-5dd76b72949e
+ID: 2ffc4870-224a-4240-b0a6-660674e81c95
 Name: Soziale Anpassungsfähigkeit
 title: Soziale Anpassungsfähigkeit
 Kategorie: Profan
@@ -14,7 +14,8 @@ In einer sozialen Interaktion zählen Standesunterschiede und eine fehlende Kult
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 8
-- **Siehe auch:** [[Rededuell]]
+- **Siehe auch:**
+  - [[Rededuell]]

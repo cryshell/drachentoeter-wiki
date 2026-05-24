@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 37745336-8b3c-4adc-90b1-fbcf7575fb42
+ID: e725da58-9c7c-4640-9d45-2f8831ced8a8
 Name: Alte Schuppen
 title: Alte Schuppen
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Fruchtbarkeit und Wiedergeburt|Fruchtbarkeit und Wiedergeburt]]"
-  - "[[Inhalt/Fertigkeiten/Wandlung|Wandlung]]"
+  - "[[Fruchtbarkeit und Wiedergeburt]]"
+  - "[[Wandlung]]"
 Kosten: 0
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der Zsahhgeweihten I
@@ -24,5 +24,9 @@ Du bewirkst eine Häutung und Erneuerung der Haut. Vernarbte oder anderweitig ge
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Fruchtbarkeit und Wiedergeburt|Fruchtbarkeit und Wiedergeburt]], [[Inhalt/Fertigkeiten/Wandlung|Wandlung]]
-- **Kosten:** 0 EP
+- **Fertigkeiten:**
+  - [[Fruchtbarkeit und Wiedergeburt]]
+  - [[Wandlung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der Zsahhgeweihten I]]
+- **Erlernen:** 0 EP

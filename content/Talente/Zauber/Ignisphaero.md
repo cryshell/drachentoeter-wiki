@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 7aff4233-3015-411e-b25f-46085c3fffb3
+ID: eb2f3646-d94c-4920-9bab-8afc46a1dbcb
 Name: Ignisphaero
 title: Ignisphaero
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Feuer|Feuer]]"
+  - "[[Feuer]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I
@@ -14,7 +14,8 @@ Ein Feuerball fügt in einem Radius von 3 Schritt 4W6 TP zu und verursacht *Nach
 
 - **Hohe Qualität:** Die TP steigen um 1W6, für je 2 Stufen steigt zusätzlich der Radius um 1 Schritt.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Komplexe Bewegung (-4, Wirkungsdauer 4 Züge; erfordert *Konzentration*. Die Kugel verbleibt nach dem Wirken vor dir. Während der Aktion Konzentration kannst du sie um jeweils 16 Schritt beliebig innerhalb der Reichweite bewegen. Sie explodiert, wenn du die Konzentration oder den Blickkontakt verlierst, du sie absichtlich – jederzeit ohne Aktionsaufwand – zündest oder die Wirkungsdauer endet.)
+- **Modifikationen:**
+  - Komplexe Bewegung (-4, Wirkungsdauer 4 Züge; erfordert *Konzentration*. Die Kugel verbleibt nach dem Wirken vor dir. Während der Aktion Konzentration kannst du sie um jeweils 16 Schritt beliebig innerhalb der Reichweite bewegen. Sie explodiert, wenn du die Konzentration oder den Blickkontakt verlierst, du sie absichtlich – jederzeit ohne Aktionsaufwand – zündest oder die Wirkungsdauer endet.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** 32 Schritt
@@ -25,5 +26,8 @@ Ein Feuerball fügt in einem Radius von 3 Schritt 4W6 TP zu und verursacht *Nach
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Feuer|Feuer]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Feuer]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

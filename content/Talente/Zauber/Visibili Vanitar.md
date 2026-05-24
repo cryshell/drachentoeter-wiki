@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 011803a3-c3d7-455a-b3c3-b83d2565502f
+ID: 9d3ba925-901d-44a0-b8f4-fd0245192feb
 Name: Visibili Vanitar
 title: Visibili Vanitar
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
+  - "[[Verwandlung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I
@@ -13,7 +13,8 @@ Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition d
 Dein Ziel wird unsichtbar. Kleidung und andere Gegenstände sind nicht betroffen. Erlaubt *Aufrechterhalten*.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Teilweise Unsichtbarkeit (-4, nur Mag; nur ein von dir bestimmter Teil des Körpers wird unsichtbar.)
+- **Modifikationen:**
+  - Teilweise Unsichtbarkeit (-4, nur Mag; nur ein von dir bestimmter Teil des Körpers wird unsichtbar.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Humanoid
 - **Reichweite:** Berührung
@@ -24,5 +25,8 @@ Dein Ziel wird unsichtbar. Kleidung und andere Gegenstände sind nicht betroffen
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Verwandlung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

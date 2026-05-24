@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: c693662c-e146-452f-a518-6c08b837cb0d
+ID: b394c1ae-73cb-4fd8-83a8-5e7aef97e8fa
 Name: Ottarune
 title: Ottarune
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
-  - "[[Inhalt/Fertigkeiten/Zauberrunen|Zauberrunen]]"
+  - "[[Eigenschaften]]"
+  - "[[Verständigung]]"
+  - "[[Zauberrunen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Runenmagier
@@ -26,5 +26,10 @@ Die Rune wird in einem Durchmesser von 8 Fingern auf einem Schiff und auf bis zu
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]], [[Inhalt/Fertigkeiten/Zauberrunen|Zauberrunen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Verständigung]]
+  - [[Zauberrunen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Runenmagier]]
+- **Erlernen:** 20 EP

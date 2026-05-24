@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: af5196cf-9efb-4768-bad8-67c44c0af7d4
+ID: ffc7d58b-b832-4646-9e5d-901a1f52040a
 Name: Tradition der Aphasmayrapaktierer I
 title: Tradition der Aphasmayrapaktierer I
 Kategorie: Tradition (Paktierer)
@@ -17,8 +17,8 @@ Dämonische Kräfte sind chaotisch, Anrufungsproben werden mit 1W20 gewürfelt.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 4
   - Vorteil [[Paktierer I]]
-  - Kein Vorteil Tradition der *paktierer I
+  - Kein Vorteil [[Tradition der paktierer I|Tradition der *paktierer I]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f08e6e19-bf9f-4842-b823-6039066018d9
+ID: adf7f752-fbc0-4711-ad12-f37efe3057c5
 Name: Fluch der Götter (Raschtul)
 title: Fluch der Götter (Raschtul)
 Kategorie: Nachteil
@@ -12,6 +12,6 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Raschtul), Empfindlichkeit I (Pfl
 
 ---
 
-- **Kosten:** -200 EP
+- **Erlernen:** -200 EP
 - **Voraussetzungen:**
   - Vorteil [[Vampir I]]

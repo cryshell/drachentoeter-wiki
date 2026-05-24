@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e7655aa3-f54e-495c-a6d6-ef1bf1f310eb
+ID: 96436721-a00c-4101-8482-a43234598d71
 Name: Verwertung
 title: Verwertung
 Kategorie: Profan
@@ -12,6 +12,6 @@ Du verlierst keine Verbrauchsmaterialien, wenn deine Herstellungsprobe nur knapp
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Fingerfertigkeit|FF]] 4

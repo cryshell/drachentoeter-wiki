@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 1c15ecef-d32e-47c3-a03f-a69f257748d1
+ID: 207670a7-c718-4dac-942f-50317de5f85d
 Name: Tradition der Asfalothpaktierer III
 title: Tradition der Asfalothpaktierer III
 Kategorie: Tradition (Paktierer)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 8
   - Vorteil [[Tradition der Asfalothpaktierer II]]
-- **Siehe auch:** [[Opferung (Asfaloth)]]
+- **Siehe auch:**
+  - [[Opferung (Asfaloth)]]

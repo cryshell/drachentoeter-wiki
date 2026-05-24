@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: f643b06f-0773-4880-a155-6ad15ae7f1c3
+ID: ca44c7f2-c121-46fa-bc8e-181608d8f6e8
 Name: Spurlos Trittlos
 title: Spurlos Trittlos
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Umwelt]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I
@@ -14,9 +14,9 @@ Du tarnst deine Fährte mit Magie. Alle Proben zur Verfolgung deiner Fährte hab
 
 - **Hohe Qualität:** Für 2 Stufen schlagen Fährtensuchen-Proben automatisch fehl, wenn der Verfolger nicht den Vorteil Angepasst für die passende Umgebung besitzt. Wenn er den Vorteil besitzt, kann er dich nur mit halber Geschwindigkeit verfolgen.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Andere Person (-4, Ziel Humanoid)
-Zone (-4, Zone, 16 AsP; der Zauber betrifft alle Fährten in einem Radius von 4 Schritt. Die Zone bewegt sich mit dir.)
-
+- **Modifikationen:**
+  - Andere Person (-4, Ziel Humanoid)
+  - Zone (-4, Zone, 16 AsP; der Zauber betrifft alle Fährten in einem Radius von 4 Schritt. Die Zone bewegt sich mit dir.)
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -27,5 +27,8 @@ Zone (-4, Zone, 16 AsP; der Zauber betrifft alle Fährten in einem Radius von 4 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 10 EP

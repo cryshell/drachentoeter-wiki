@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 593a52be-d950-4d30-af67-6b22cdaefbb2
+ID: 83aac003-b2f6-44df-95d9-8adc5d25bf69
 Name: Fluch der Götter (Tairach)
 title: Fluch der Götter (Tairach)
 Kategorie: Nachteil
@@ -12,6 +12,6 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Tairach), Empfindlichkeit I (Pfla
 
 ---
 
-- **Kosten:** -200 EP
+- **Erlernen:** -200 EP
 - **Voraussetzungen:**
   - Vorteil [[Vampir I]]

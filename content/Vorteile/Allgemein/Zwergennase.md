@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 84f071aa-ad1e-4b77-889d-f03c9cb2f866
+ID: ae135dd5-7a85-47c7-8a38-57fb5e51d614
 Name: Zwergennase
 title: Zwergennase
 Kategorie: Allgemein
@@ -13,5 +13,6 @@ Mit der Gabe der Zwergennase besitzt du einen übernatürlichen Riecher für Ver
 
 ---
 
-- **Kosten:** 60 EP
-- **Siehe auch:** [[Wachsamkeit]]
+- **Erlernen:** 60 EP
+- **Siehe auch:**
+  - [[Wachsamkeit]]

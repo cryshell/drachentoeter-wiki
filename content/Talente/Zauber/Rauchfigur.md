@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 076f37f5-0fe9-43bd-adc0-243b96d5977c
+ID: 701e525a-0909-4732-be81-335f2d84461e
 Name: Rauchfigur
 title: Rauchfigur
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
+  - "[[Zaubertricks]]"
 Kosten: 5
 ---
 Du kannst eine Hand voll Rauch die Form einer kleinen Figur annehmen lassen, die einfache Bewegungen ausführen kann. Erfordert *Konzentration*.
@@ -20,5 +20,6 @@ Du kannst eine Hand voll Rauch die Form einer kleinen Figur annehmen lassen, die
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
-- **Kosten:** 5 EP
+- **Fertigkeiten:**
+  - [[Zaubertricks]]
+- **Erlernen:** 5 EP

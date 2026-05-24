@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: d659da3e-5b4d-4fad-bbea-adf51d15f43d
+ID: b7cb8378-3171-40bd-baba-4ccc10a61448
 Name: Rhythmen des Krieges
 title: Rhythmen des Krieges
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Trommelrituale|Trommelrituale]]"
+  - "[[Eigenschaften]]"
+  - "[[Trommelrituale]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Derwische I
@@ -18,5 +18,9 @@ $talent:Schlachtlied$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Trommelrituale|Trommelrituale]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Trommelrituale]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Derwische I]]
+- **Erlernen:** 20 EP

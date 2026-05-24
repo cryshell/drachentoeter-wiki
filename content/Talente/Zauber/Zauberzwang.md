@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: be955356-c30d-4efc-a276-b719a867bf2c
+ID: 16ba5619-3c85-4080-a39e-ee3e8dfb3f88
 Name: Zauberzwang
 title: Zauberzwang
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Einfluss]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Kristallomanten I
@@ -13,9 +13,9 @@ Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gild
 Du erlegst dem Opfer eine Aufgabe auf, die nicht tödlich sein darf, oder ein Gebot, an das es sich halten muss. Stehen die moralischen Vorstellungen des Opfers der Aufgabe entgegen, kann es mit einer MU-Gegenprobe widerstehen. Ignoriert das Opfer die Aufgabe oder lässt sie absichtlich scheitern, erleidet es pro Woche 1 Wunde, die während der Wirkungsdauer nicht geheilt oder regeneriert werden kann.
 
 - **Probenschwierigkeit:** Magieresistenz
-- **Modifikationen:** Letzte Warnung (-4, nur Dru; statt Wunden zu erleiden, wird das Opfer einmalig zum Ziel eines Zaubers. Diesen Zauber musst du direkt im Anschluss an den Zauberzwang wirken. Die Wirkung des Zaubers ruht bis dahin.)
-Vergessen (-8; das Opfer hat nach der Erfüllung der Aufgabe keine Erinnerung mehr an die Zeit, in der es unter der Wirkung des Zauberzwangs stand.)
-
+- **Modifikationen:**
+  - Letzte Warnung (-4, nur Dru; statt Wunden zu erleiden, wird das Opfer einmalig zum Ziel eines Zaubers. Diesen Zauber musst du direkt im Anschluss an den Zauberzwang wirken. Die Wirkung des Zaubers ruht bis dahin.)
+  - Vergessen (-8; das Opfer hat nach der Erfüllung der Aufgabe keine Erinnerung mehr an die Zeit, in der es unter der Wirkung des Zauberzwangs stand.)
 - **Vorbereitungszeit:** 1 Stunde
 - **Ziel:** Humanoid
 - **Reichweite:** Berührung
@@ -26,5 +26,8 @@ Vergessen (-8; das Opfer hat nach der Erfüllung der Aufgabe keine Erinnerung me
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 40 EP

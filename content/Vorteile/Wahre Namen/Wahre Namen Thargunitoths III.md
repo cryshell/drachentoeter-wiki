@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0fd8b346-ffcb-416d-9dbe-438479d2234a
+ID: 76c8648a-3e46-48d6-8f53-f77fb0885ff6
 Name: Wahre Namen Thargunitoths III
 title: Wahre Namen Thargunitoths III
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - Attribut [[Klugheit|KL]] 8

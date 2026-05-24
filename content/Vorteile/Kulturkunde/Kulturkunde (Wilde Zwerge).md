@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 844ba963-21be-4d5d-9d08-2151727e1c9e
+ID: 6f49140d-3979-49bf-9c8a-12ea9f9ca485
 Name: Kulturkunde (Wilde Zwerge)
 title: Kulturkunde (Wilde Zwerge)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

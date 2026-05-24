@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: d3817d18-f685-461d-b139-8fe7745ea824
+ID: 0596bd66-52a9-4d26-9be2-ac7321dd844f
 Name: Sigille der Schatten
 title: Sigille der Schatten
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
-  - "[[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]"
+  - "[[Umwelt]]"
+  - "[[Zauberzeichen]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Schamanen (Waldmenschen) I
@@ -26,5 +26,9 @@ Das Zeichen wird in einem Durchmesser von 32 Fingern auf einer beliebigen Fläch
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Umwelt|Umwelt]], [[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Umwelt]]
+  - [[Zauberzeichen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+- **Erlernen:** 10 EP

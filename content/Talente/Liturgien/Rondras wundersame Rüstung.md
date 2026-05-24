@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 3c1a262e-bad7-4687-bf2e-954b37f17d17
+ID: 2c12ba4f-2661-4749-bcdd-fbeb1a22165e
 Name: Rondras wundersame Rüstung
 title: Rondras wundersame Rüstung
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schutz der Gläubigen|Schutz der Gläubigen]]"
+  - "[[Schutz der Gläubigen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rondrageweihten I
@@ -24,5 +24,8 @@ Du rufst die wundersame Rüstung, durch die dein RS um 2 steigt.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schutz der Gläubigen|Schutz der Gläubigen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Schutz der Gläubigen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rondrageweihten I]]
+- **Erlernen:** 20 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: db3ce0f3-dec2-479b-932c-923483ac4d90
+ID: e9324c02-b864-40ce-85a5-38903b0c4f89
 Name: Kraft des Lebens
 title: Kraft des Lebens
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wachstum|Wachstum]]"
+  - "[[Wachstum]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I
@@ -24,5 +24,8 @@ Du segnest bis zu 4 Personen, sodass ihre KO-Proben um +2 erleichtert sind.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wachstum|Wachstum]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Wachstum]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Perainegeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I]]
+- **Erlernen:** 20 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 592f3e69-ab5a-4aaa-a101-01b63fc13d61
+ID: 581d7474-1814-4c12-8cfa-e352c1b71b9c
 Name: Über die Wolken
 title: Über die Wolken
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Fröhlicher Wanderer|Fröhlicher Wanderer]]"
-  - "[[Inhalt/Fertigkeiten/Herr des Himmels|Herr des Himmels]]"
+  - "[[Fröhlicher Wanderer]]"
+  - "[[Herr des Himmels]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Avesgeweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I
@@ -25,5 +25,9 @@ An deinem Rücken wachsen gewaltige Schwingen, mit denen du fliegen kannst. Daf�
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Fröhlicher Wanderer|Fröhlicher Wanderer]], [[Inhalt/Fertigkeiten/Herr des Himmels|Herr des Himmels]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Fröhlicher Wanderer]]
+  - [[Herr des Himmels]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I]]
+- **Erlernen:** 40 EP

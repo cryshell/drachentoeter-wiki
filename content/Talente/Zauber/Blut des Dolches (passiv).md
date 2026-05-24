@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: cebab449-5f97-410a-b12e-3025eb0a4331
+ID: cedda223-9109-4b8c-975a-b444507d00dd
 Name: Blut des Dolches (passiv)
 title: Blut des Dolches (passiv)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]]"
+  - "[[Dolchzauber]]"
 Kosten: 40
 Voraussetzungen: Vorteil Tradition der Druiden I
 ---
@@ -15,5 +15,8 @@ Du erhältst den Vorteil Verbotene Pforten. Verfügst du bereits über den Vorte
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Dolchzauber]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I]]
+- **Erlernen:** 40 EP

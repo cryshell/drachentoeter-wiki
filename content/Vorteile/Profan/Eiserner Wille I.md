@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 79e6a6ad-f557-453b-be4e-65fe84f4e544
+ID: b0a2eb62-076d-4f93-a25d-d130d7410abc
 Name: Eiserner Wille I
 title: Eiserner Wille I
 Kategorie: Profan
@@ -14,7 +14,8 @@ Deine Magieresistenz steigt um 2 Punkte.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 4
-- **Siehe auch:** [[MR]]
+- **Siehe auch:**
+  - [[MR]]

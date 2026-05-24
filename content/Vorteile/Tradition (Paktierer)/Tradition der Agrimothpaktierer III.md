@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c8f92b60-27a6-4272-b510-22921a4cb7a2
+ID: c3515934-2863-432e-b2ef-2fcb11e5ca1b
 Name: Tradition der Agrimothpaktierer III
 title: Tradition der Agrimothpaktierer III
 Kategorie: Tradition (Paktierer)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 8
   - Vorteil [[Tradition der Agrimothpaktierer II]]
-- **Siehe auch:** [[Opferung (Agrimoth)]]
+- **Siehe auch:**
+  - [[Opferung (Agrimoth)]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: fe22da44-6678-4f6b-b7df-a3f59b829086
+ID: b2ed13d9-54ff-4309-a5ac-caa7f113c830
 Name: Schriftkenntnis (Angram-Bilderschrift)
 title: Schriftkenntnis (Angram-Bilderschrift)
 Kategorie: Schriftkenntnis
@@ -11,4 +11,4 @@ Schriften umfassen sowohl die Fähigkeit die entsprechenden Zeichen lesen als au
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

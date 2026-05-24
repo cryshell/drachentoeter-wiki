@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0051221a-61f3-4254-b6b8-e8ebc61ad30c
+ID: 92650f64-1aaa-434a-a756-b7fbc4d48a9a
 Name: Wahre Namen Aphestadils I
 title: Wahre Namen Aphestadils I
 Kategorie: Wahre Namen
@@ -14,7 +14,7 @@ Du kannst alle Dämonen Aphestadils bis zu einer Beschwörungsschwierigkeit von 
 
 ---
 
-- **Kosten:** 10 EP
+- **Erlernen:** 10 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - Attribut [[Klugheit|KL]] 4

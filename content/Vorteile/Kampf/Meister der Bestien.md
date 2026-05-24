@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2afaed7b-addd-4e59-919b-dd4af8ae4055
+ID: 83370d1c-6338-4e6c-9f80-98d6159c68d3
 Name: Meister der Bestien
 title: Meister der Bestien
 Kategorie: Kampf
@@ -12,6 +12,6 @@ Du kannst als Bonusaktion einen Tierbegleiterbefehl ausführen.
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 6

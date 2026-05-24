@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: f046f37f-91b3-42fe-93fb-b025f0a3bf0b
+ID: 07daaae8-7243-43a8-8b6c-f0320d733cb9
 Name: Reichung des Amethyst
 title: Reichung des Amethyst
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Rausch|Rausch]]"
+  - "[[Rausch]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rahjageweihten I
@@ -25,5 +25,8 @@ Beendet die Wirkung eines Giftes bis maximal Stufe 20.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Rausch|Rausch]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Rausch]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rahjageweihten I]]
+- **Erlernen:** 20 EP

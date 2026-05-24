@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: a199b0e1-bb1a-46ee-bae1-236b5b40a44b
+ID: 2f90af17-543b-40d7-b269-c42a362e74fd
 Name: Projektimago Ebenbild
 title: Projektimago Ebenbild
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Illusion|Illusion]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Illusion]]"
+  - "[[Verständigung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I
@@ -24,5 +24,9 @@ Du lässt eine *Illusion* (Sicht und Gehör) deiner selbst an einem Ort erschein
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Illusion|Illusion]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Illusion]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I]]
+- **Erlernen:** 10 EP

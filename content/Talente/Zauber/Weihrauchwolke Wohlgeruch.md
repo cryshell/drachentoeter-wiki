@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: a54e4826-a37c-4746-8960-49c8f3ef87d2
+ID: 07ee1650-e67e-4ab7-a7aa-949d1ddec56f
 Name: Weihrauchwolke Wohlgeruch
 title: Weihrauchwolke Wohlgeruch
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Illusion|Illusion]]"
+  - "[[Illusion]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I
@@ -13,11 +13,11 @@ Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition d
 Du verleihst deinem Ziel einen angenehmen Geruch deiner Wahl. *Illusion* (Geruch).
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Geruchsspender (-4, Objekt)
-Gestank (-4; auch üble Gerüche sind möglich.)
-Ausgedehnte Wirkung (-4, Wirkungsdauer 1 Woche, 8 AsP)
-Künstlicher Geruch (-8; du kannst beliebige Gerüche erzeugen – auch solche, die eventuell noch nicht existieren.)
-
+- **Modifikationen:**
+  - Geruchsspender (-4, Objekt)
+  - Gestank (-4; auch üble Gerüche sind möglich.)
+  - Ausgedehnte Wirkung (-4, Wirkungsdauer 1 Woche, 8 AsP)
+  - Künstlicher Geruch (-8; du kannst beliebige Gerüche erzeugen – auch solche, die eventuell noch nicht existieren.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Humanoid
 - **Reichweite:** Berührung
@@ -28,5 +28,8 @@ Künstlicher Geruch (-8; du kannst beliebige Gerüche erzeugen – auch solche, 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Illusion|Illusion]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Illusion]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I]]
+- **Erlernen:** 10 EP

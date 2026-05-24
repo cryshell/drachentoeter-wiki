@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c784bb4a-c0d4-469b-a45f-4228fa92834b
+ID: d710edd2-b473-4bac-b25f-4e68b4aca68b
 Name: Tradition der Shakagra IV
 title: Tradition der Shakagra IV
 Kategorie: Tradition (Magisch)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Mut|MU]] 10
   - Vorteil [[Tradition der Shakagra III]]

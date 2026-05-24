@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 1b214a88-83eb-4b54-91bb-eb6536d4c8ac
+ID: 9781b1bb-bffc-4e6b-9b3e-c744a69496a2
 Name: Große Verwirrung
 title: Große Verwirrung
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
+  - "[[Eigenschaften]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Schelme I
@@ -23,5 +23,8 @@ Dein Opfer kann sich nicht mehr konzentrieren und ist *verwirrt*.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Schelme I]]
+- **Erlernen:** 10 EP

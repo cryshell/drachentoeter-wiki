@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f7588cc4-84b9-432a-914a-c592da88c013
+ID: 789e5a54-e354-4b09-8389-b6958a52a197
 Name: Wahre Namen des Namenlosen II
 title: Wahre Namen des Namenlosen II
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 ---
 
-- **Kosten:** 10 EP
+- **Erlernen:** 10 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - Attribut [[Klugheit|KL]] 6

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: d88d3a93-78c6-4884-9822-5b311d78539a
+ID: c07a0eb5-1c6b-4c3b-837e-63993b46ab1f
 Name: Wasseratem (Tiergeist)
 title: Wasseratem (Tiergeist)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]]"
-  - "[[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]"
+  - "[[Gaben des Odun]]"
+  - "[[Gaben des Blutgeists]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tiergeist (Fischotter)
@@ -15,5 +15,9 @@ $talent:Wasseratem$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]], [[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Gaben des Odun]]
+  - [[Gaben des Blutgeists]]
+- **Voraussetzungen:**
+  - Vorteil [[Tiergeist (Fischotter)]]
+- **Erlernen:** 10 EP

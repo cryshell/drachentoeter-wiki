@@ -1,14 +1,14 @@
 ---
 Entitätstyp: Talent
-ID: c6a05570-b125-4fe8-a16d-e0414e0c763f
+ID: d7e6ea05-a75a-429e-b1ac-19ca308d5825
 Name: Schlaf des Gesegneten
 title: Schlaf des Gesegneten
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Harmonie|Harmonie]]"
-  - "[[Inhalt/Fertigkeiten/Heilung|Heilung]]"
-  - "[[Inhalt/Fertigkeiten/Schlaf|Schlaf]]"
-  - "[[Inhalt/Fertigkeiten/Stiller Wanderer|Stiller Wanderer]]"
+  - "[[Harmonie]]"
+  - "[[Heilung]]"
+  - "[[Schlaf]]"
+  - "[[Stiller Wanderer]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Avesgeweihten I ODER Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Rahjageweihten I
@@ -28,5 +28,11 @@ Dein Ziel sinkt in einen tiefen Schlaf, während dem es 2 zusätzliche Einschrä
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Harmonie|Harmonie]], [[Inhalt/Fertigkeiten/Heilung|Heilung]], [[Inhalt/Fertigkeiten/Schlaf|Schlaf]], [[Inhalt/Fertigkeiten/Stiller Wanderer|Stiller Wanderer]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Harmonie]]
+  - [[Heilung]]
+  - [[Schlaf]]
+  - [[Stiller Wanderer]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Rahjageweihten I]]
+- **Erlernen:** 20 EP

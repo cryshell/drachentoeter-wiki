@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 16c38960-447b-4184-802c-615f33f7b7c1
+ID: 2802ffed-7a69-47c8-9373-4b54c3a1ec1c
 Name: Orakel des Mantikors
 title: Orakel des Mantikors
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eroberung|Eroberung]]"
-  - "[[Inhalt/Fertigkeiten/Gutes Gold|Gutes Gold]]"
+  - "[[Eroberung]]"
+  - "[[Gutes Gold]]"
 Kosten: 0
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I
@@ -24,5 +24,9 @@ Du erfährst, ob ein Verschollener im Kampf gefallen ist. Sollte der Verschollen
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eroberung|Eroberung]], [[Inhalt/Fertigkeiten/Gutes Gold|Gutes Gold]]
-- **Kosten:** 0 EP
+- **Fertigkeiten:**
+  - [[Eroberung]]
+  - [[Gutes Gold]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I]]
+- **Erlernen:** 0 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 8b402654-a1a7-440a-b914-433bac650653
+ID: 972f4dec-1906-4aa5-89fe-4c6ebff7b676
 Name: Lockruf
 title: Lockruf
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
+  - "[[Zaubertricks]]"
 Kosten: 5
 ---
 Ein Tier bis zur Größenklasse *winzig* nähert sich dir neugierig, wenn ihm keine MU-Probe (12) gelingt. Bei offensichtlicher Gefahr oder aggressiven Handlungen endet die Wirkung.
@@ -20,5 +20,6 @@ Ein Tier bis zur Größenklasse *winzig* nähert sich dir neugierig, wenn ihm ke
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
-- **Kosten:** 5 EP
+- **Fertigkeiten:**
+  - [[Zaubertricks]]
+- **Erlernen:** 5 EP

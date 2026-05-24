@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: ab3ffa78-1ceb-4ea6-9e1e-63c5fc822ef3
+ID: ecc11706-57c4-4a53-9b61-0ee21c5d1e75
 Name: Eindrucksvoll
 title: Eindrucksvoll
 Kategorie: Profan
@@ -15,7 +15,9 @@ Du darfst fehlgeschlagene Proben auf Interaktionsfertigkeiten für 1 WiP wiederh
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 6
-- **Siehe auch:** [[Soziale Interaktion]], [[Willenskraftpunkte]]
+- **Siehe auch:**
+  - [[Soziale Interaktion]]
+  - [[Willenskraftpunkte]]

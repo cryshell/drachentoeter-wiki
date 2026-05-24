@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 52485a68-a091-483c-83b0-2ce63107a04b
+ID: 5c526186-392d-449e-8168-21eb3524d9a6
 Name: Natürliche Rüstung
 title: Natürliche Rüstung
 Kategorie: Allgemein
@@ -11,4 +11,4 @@ Du verfügst über ein dichtes Fell oder zähe Schuppenhaut, wodurch dein RS um 
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: ba6b9342-4565-4937-ac5e-4ee05ebb2682
+ID: 06846595-d983-4bc5-a5b5-8f5de0575adf
 Name: Privilegien (Krieger)
 title: Privilegien (Krieger)
 Kategorie: Profan
@@ -11,4 +11,4 @@ Dein Ansehen steigt um +1. Als Krieger/Schwertgeselle/Rondrageweihte darfst du a
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

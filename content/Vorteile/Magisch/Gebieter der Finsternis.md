@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 9b31506b-be68-4e6d-89d8-fed58a49f639
+ID: 81398d97-0847-40be-978e-284cb4e469ef
 Name: Gebieter der Finsternis
 title: Gebieter der Finsternis
 Kategorie: Magisch
@@ -17,8 +17,10 @@ Gebundene unheilige Wesenheiten kosten nur noch die halben gAsP und eine misslun
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
   - Attribut [[Mut|MU]] 10
-- **Siehe auch:** [[Beschwörungen]], [[Beschwörungen - Bindung]]
+- **Siehe auch:**
+  - [[Beschwörungen]]
+  - [[Beschwörungen - Bindung]]

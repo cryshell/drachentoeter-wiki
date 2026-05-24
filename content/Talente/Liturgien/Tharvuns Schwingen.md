@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 2a27b458-7087-4861-a9bc-15b7cab5b09c
+ID: 0ade5f1e-f791-4f5f-b4b1-21506ebd36e5
 Name: Tharvuns Schwingen
 title: Tharvuns Schwingen
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Fröhlicher Wanderer|Fröhlicher Wanderer]]"
-  - "[[Inhalt/Fertigkeiten/Harmonie|Harmonie]]"
+  - "[[Fröhlicher Wanderer]]"
+  - "[[Harmonie]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Avesgeweihten I ODER Vorteil Tradition der Rahjageweihten I
@@ -25,5 +25,9 @@ Das gesegnete Reittier ist unaufhaltsam. Seine GS steigt um +4 und es verfügt �
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Fröhlicher Wanderer|Fröhlicher Wanderer]], [[Inhalt/Fertigkeiten/Harmonie|Harmonie]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Fröhlicher Wanderer]]
+  - [[Harmonie]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Rahjageweihten I]]
+- **Erlernen:** 10 EP

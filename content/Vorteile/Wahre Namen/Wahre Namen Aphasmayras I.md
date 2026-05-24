@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: adef4a2c-a029-4ece-9440-2661d02b2199
+ID: c5633c04-44e2-455d-bdfc-e88100f8cee4
 Name: Wahre Namen Aphasmayras I
 title: Wahre Namen Aphasmayras I
 Kategorie: Wahre Namen
@@ -14,7 +14,7 @@ Du kannst alle Dämonen Aphasmayras bis zu einer Beschwörungsschwierigkeit von 
 
 ---
 
-- **Kosten:** 10 EP
+- **Erlernen:** 10 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - Attribut [[Klugheit|KL]] 4

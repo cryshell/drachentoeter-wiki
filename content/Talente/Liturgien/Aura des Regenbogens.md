@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 9b0e02f0-0027-4813-8a8d-eb8fb1b4ed3b
+ID: 18400e70-3adc-4f92-b685-075b77d08e7c
 Name: Aura des Regenbogens
 title: Aura des Regenbogens
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Friede|Friede]]"
+  - "[[Friede]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Tsageweihten I
@@ -24,5 +24,8 @@ Ein Regenbogen erzeugt in einem Radius von 4 Schritt *helles Licht* und in 4 wei
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Friede|Friede]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Friede]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Tsageweihten I]]
+- **Erlernen:** 20 EP

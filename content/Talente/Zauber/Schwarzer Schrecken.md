@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: cdf3fdf2-7d9c-4f31-b9f5-aafeb857d191
+ID: 0b2c91e0-d670-43cd-b428-4d75959bc51a
 Name: Schwarzer Schrecken
 title: Schwarzer Schrecken
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Einfluss]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I
@@ -13,7 +13,8 @@ Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition d
 Das Opfer leidet an einer Angst vor einer Farbe oder Form deiner Wahl, meist wird die Farbe Schwarz gewählt. Alles, was diese Angst auslöst, gilt dem Ziel gegenüber als Schreckgestalt (Zauber-EW).
 
 - **Probenschwierigkeit:** Magieresistenz
-- **Modifikationen:** Panische Angst (-8; die Schreckgestalt verursacht *Panisch*. Das Opfer ist bei gelungener dennoch Gegenprobe *verängstigt*, dagegen ist keine weitere Gegenprobe erlaubt.)
+- **Modifikationen:**
+  - Panische Angst (-8; die Schreckgestalt verursacht *Panisch*. Das Opfer ist bei gelungener dennoch Gegenprobe *verängstigt*, dagegen ist keine weitere Gegenprobe erlaubt.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Humanoid
 - **Reichweite:** 8 Schritt
@@ -24,5 +25,8 @@ Das Opfer leidet an einer Angst vor einer Farbe oder Form deiner Wahl, meist wir
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4e8e7e67-dbd7-4492-aa43-f14fc832c41a
+ID: 88295f31-a632-46c6-8107-27893ec8e490
 Name: Schildkampf IV
 title: Schildkampf IV
 Kategorie: Kampfstil
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut KK 10 ODER MeisterAttribut IN 10
   - Vorteil [[Schildkampf III]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c05765be-c83f-4b16-acc3-a83cbbb0e313
+ID: bda852b9-dd55-49da-90a7-cec7c16de125
 Name: Tradition der Nandusgeweihten II
 title: Tradition der Nandusgeweihten II
 Kategorie: Tradition (Karmal)
@@ -16,8 +16,9 @@ Nandusgeweihte wissen, dass Gesten und Worte nur menschliches Beiwerk einer Litu
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 6
   - Vorteil [[Tradition der Nandusgeweihten I]]
-- **Siehe auch:** [[Liturgische Technik ignorieren]]
+- **Siehe auch:**
+  - [[Liturgische Technik ignorieren]]

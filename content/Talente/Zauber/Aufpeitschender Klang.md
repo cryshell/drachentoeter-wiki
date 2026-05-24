@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 8fbad49f-65ea-45f5-8e0f-2fb05b664566
+ID: 85642945-d325-4eaa-a6a0-94ed68b58604
 Name: Aufpeitschender Klang
 title: Aufpeitschender Klang
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]"
+  - "[[Eigenschaften]]"
+  - "[[Zaubermelodien]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zauberbarden I
@@ -24,5 +24,9 @@ Du entlockst deinem Instrument einen elektrisierenden Ton. Wenn das Ziel die nä
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Zaubermelodien]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zauberbarden I]]
+- **Erlernen:** 20 EP

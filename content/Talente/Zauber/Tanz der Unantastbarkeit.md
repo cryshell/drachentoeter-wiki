@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: d78c9421-7ac5-4f2d-a89d-865cf2fdc1b7
+ID: e8e12be2-474f-4dae-a202-55ee3c2cc514
 Name: Tanz der Unantastbarkeit
 title: Tanz der Unantastbarkeit
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]]"
+  - "[[Eigenschaften]]"
+  - "[[Zaubertänze]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zaubertänzer I
@@ -25,5 +25,9 @@ Der Tanz verbessert deinen Gleichgewichtssinn und deine Körperbeherrschung. Du 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Zaubertänze]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zaubertänzer I]]
+- **Erlernen:** 20 EP

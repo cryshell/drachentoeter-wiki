@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: fd0420a4-fe3c-4a2c-a636-dce7689e03e6
+ID: df158dca-f904-444a-a273-1b91bda9ada1
 Name: Göttliche Nähe
 title: Göttliche Nähe
 Kategorie: Karmal
@@ -16,8 +16,9 @@ Du regenerierst bei einer *langen Rast* 1 zusätzlichen KaP.
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 10
   - Vorteil [[Geweiht I]]
-- **Siehe auch:** [[Regeneration]]
+- **Siehe auch:**
+  - [[Regeneration]]

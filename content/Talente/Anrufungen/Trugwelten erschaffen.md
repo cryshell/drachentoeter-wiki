@@ -1,20 +1,20 @@
 ---
 Entitätstyp: Talent
-ID: a2c38f21-75fa-4b08-98d0-e4dc73952b39
+ID: 8de1c560-01aa-44ec-9990-589158f804dc
 Name: Trugwelten erschaffen
 title: Trugwelten erschaffen
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Amazeroths|Anrufung Amazeroths]]"
+  - "[[Anrufung Amazeroths]]"
 Kosten: 60
 Spezialisierbar: 1
 ---
 Eine statische *Illusion* (alle Sinne) deiner Wahl erscheint. Die Gegenprobe zum Durchschauen der Illusion hat Nachteil. Ihre maximale Größe beträgt PW Anrufung Amazeroths x4 Raumschritt.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Bewegte Illusion (-4; die Illusion führt eine beim Zaubern bestimmte Bewegung aus.)
-Kontrollierte Illusion (-4; du kannst die Illusion aktiv steuern, was *Konzentration* erfordert.)
-
+- **Modifikationen:**
+  - Bewegte Illusion (-4; die Illusion führt eine beim Zaubern bestimmte Bewegung aus.)
+  - Kontrollierte Illusion (-4; du kannst die Illusion aktiv steuern, was *Konzentration* erfordert.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** 32 Schritt
@@ -25,5 +25,6 @@ Kontrollierte Illusion (-4; du kannst die Illusion aktiv steuern, was *Konzentra
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Amazeroths|Anrufung Amazeroths]]
-- **Kosten:** 60 EP
+- **Fertigkeiten:**
+  - [[Anrufung Amazeroths]]
+- **Erlernen:** 60 EP

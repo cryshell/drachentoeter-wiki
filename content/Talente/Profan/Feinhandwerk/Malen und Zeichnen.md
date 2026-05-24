@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 4194d12c-d336-41ee-b39e-a4191cf51fd3
+ID: 6b0f8504-0558-4323-9b26-a549f2230f57
 Name: Malen und Zeichnen
 title: Malen und Zeichnen
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Feinhandwerk|Feinhandwerk]]"
+  - "[[Feinhandwerk]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Malen und Zeichnen umfasst das Anfertigen von kunstvollen Bildern, Tattoos, Land
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Feinhandwerk|Feinhandwerk]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Feinhandwerk]]
+- **Erlernen:** 10 EP

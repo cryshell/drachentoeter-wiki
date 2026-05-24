@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 8d2d979e-aa5a-4939-b115-afb0824552e1
+ID: eb272f46-6bff-4cd0-aa22-a5ed2162b5cf
 Name: Garafans gleißende Schwingen
 title: Garafans gleißende Schwingen
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Licht|Licht]]"
+  - "[[Licht]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Praiosgeweihten I
@@ -23,5 +23,8 @@ Du rufst einen Greifen herbei, der dir zur Seite steht. Was der Greif zu tun ber
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Licht|Licht]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Licht]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Praiosgeweihten I]]
+- **Erlernen:** 40 EP

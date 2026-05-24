@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: e2d24dfd-0e5e-4099-81b4-d242195059df
+ID: ba1e6090-3133-42db-a602-664af01759cf
 Name: Ewiger Wächter
 title: Ewiger Wächter
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Nipakau|Nipakau]]"
+  - "[[Nipakau]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kamaluqgeweihten I
@@ -24,5 +24,8 @@ Du verwandelst dich in einen Jaguar und kannst dich nur im Radius von 4 Meilen u
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Nipakau|Nipakau]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Nipakau]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kamaluqgeweihten I]]
+- **Erlernen:** 20 EP

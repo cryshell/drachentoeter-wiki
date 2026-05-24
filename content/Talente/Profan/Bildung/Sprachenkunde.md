@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: cc185031-5fb3-42d5-90ea-7ca873340980
+ID: 43d56596-a44b-4556-9dbd-6e279c76f307
 Name: Sprachenkunde
 title: Sprachenkunde
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Bildung|Bildung]]"
+  - "[[Bildung]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Sprachenkunde lehrt Grammatik sowie das Deuten und Übersetzen von dir unbekannt
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Bildung|Bildung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Bildung]]
+- **Erlernen:** 10 EP

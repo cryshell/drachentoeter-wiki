@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 1188c402-08ab-418c-9092-59d6dd31956e
+ID: eaf2f3d7-77ca-4a9c-864c-cb7676a5f7fd
 Name: Corpofrigo Kälteschock
 title: Corpofrigo Kälteschock
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Eis|Eis]]"
+  - "[[Eigenschaften]]"
+  - "[[Eis]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I
@@ -25,5 +25,9 @@ Du entziehst deinem Opfer die Körperwärme, bis sich sein Körper mit Raureif �
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Eis|Eis]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Eis]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

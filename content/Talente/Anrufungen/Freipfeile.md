@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: b89e4db1-5621-4602-b1ce-dcdcdbc77bd9
+ID: 5d1e62e7-f10c-42e7-9226-e1bf28c9fb2b
 Name: Freipfeile
 title: Freipfeile
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Belshirashs|Anrufung Belshirashs]]"
+  - "[[Anrufung Belshirashs]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -22,5 +22,6 @@ Du erschaffst sieben einmalig einsetzbare Freipfeile, die dämonischen Schaden a
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Belshirashs|Anrufung Belshirashs]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Anrufung Belshirashs]]
+- **Erlernen:** 40 EP

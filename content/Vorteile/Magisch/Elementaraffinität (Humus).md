@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e3d90dbe-3e22-4261-b968-4342ac499df8
+ID: f1f62520-ad10-4fea-a818-34ae77921219
 Name: Elementaraffinität (Humus)
 title: Elementaraffinität (Humus)
 Kategorie: Magisch
@@ -14,7 +14,7 @@ Der Basiswert der Fertigkeit Humus ist um zwei Punkte erhöht, der von Eis um vi
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
-  - Kein Vorteil Kreis der Verdammnis I
+  - Kein Vorteil [[Kreis der Verdammnis I]]

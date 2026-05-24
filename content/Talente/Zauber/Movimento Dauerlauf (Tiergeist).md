@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: ad565ab8-e46a-4ae2-8fe5-bd5b120303d1
+ID: 06d9ca54-7260-47fd-b504-2a3fe9c52479
 Name: Movimento Dauerlauf (Tiergeist)
 title: Movimento Dauerlauf (Tiergeist)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]]"
-  - "[[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]"
+  - "[[Gaben des Odun]]"
+  - "[[Gaben des Blutgeists]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tiergeist (Wolf) ODER Vorteil Tiergeist (Khoramsbestie)
@@ -15,5 +15,9 @@ $talent:Movimento Dauerlauf$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]], [[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Gaben des Odun]]
+  - [[Gaben des Blutgeists]]
+- **Voraussetzungen:**
+  - Vorteil [[Tiergeist (Wolf) ODER Vorteil Tiergeist (Khoramsbestie)]]
+- **Erlernen:** 10 EP

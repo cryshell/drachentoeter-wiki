@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: ae56ce2d-2c06-46cd-976a-df8717233af8
+ID: 72886c22-42b7-497e-b56f-fb94b13a3b14
 Name: Fahrzeug lenken
 title: Fahrzeug lenken
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Tierführung|Tierführung]]"
+  - "[[Tierführung]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Fahrzeug lenken umfasst die Kenntnis darüber Karren, Schlitten, Kutschen und an
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Tierführung|Tierführung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Tierführung]]
+- **Erlernen:** 20 EP

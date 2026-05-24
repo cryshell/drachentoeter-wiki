@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 980258af-da65-42dd-b521-ceed5e8e04d8
+ID: fa4cfcf7-af94-4bc6-bac6-86122a21b151
 Name: Duft
 title: Duft
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
+  - "[[Zaubertricks]]"
 Kosten: 5
 ---
 Du nimmst einen selbst gewählten, dezenten Geruch an. Dabei handelt es sich um eine *Illusion* (Geruch).
@@ -20,5 +20,6 @@ Du nimmst einen selbst gewählten, dezenten Geruch an. Dabei handelt es sich um 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
-- **Kosten:** 5 EP
+- **Fertigkeiten:**
+  - [[Zaubertricks]]
+- **Erlernen:** 5 EP

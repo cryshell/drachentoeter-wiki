@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: a34f25c0-b2fa-4313-8449-89116158cfdc
+ID: beca3391-562a-4e93-9846-e100f60eb3c4
 Name: Götter und Kulte
 title: Götter und Kulte
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Mythenkunde|Mythenkunde]]"
+  - "[[Mythenkunde]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Götter und Kulte befasst sich mit dem Wesen der Götter, ihrer Schöpfung und i
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Mythenkunde|Mythenkunde]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Mythenkunde]]
+- **Erlernen:** 20 EP

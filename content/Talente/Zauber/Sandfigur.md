@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 7f54703c-dc0b-4de6-b949-e493501d3128
+ID: fcde7401-0240-4dba-9e58-07f81a379e4c
 Name: Sandfigur
 title: Sandfigur
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
+  - "[[Zaubertricks]]"
 Kosten: 5
 ---
 Du kannst eine Hand voll Sand die Form einer kleinen Figur annehmen lassen, die einfache Bewegungen ausführen kann. Erfordert *Konzentration*.
@@ -20,5 +20,6 @@ Du kannst eine Hand voll Sand die Form einer kleinen Figur annehmen lassen, die 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
-- **Kosten:** 5 EP
+- **Fertigkeiten:**
+  - [[Zaubertricks]]
+- **Erlernen:** 5 EP

@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: b9d76883-bdd3-4a10-a729-ef150613982d
+ID: ce008d42-f51b-4ec5-855f-1b0a68453cad
 Name: Bienenfleiß
 title: Bienenfleiß
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
-  - "[[Inhalt/Fertigkeiten/Zibiljarituale|Zibiljarituale]]"
+  - "[[Eigenschaften]]"
+  - "[[Verständigung]]"
+  - "[[Zibiljarituale]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zibilja I
@@ -16,7 +16,8 @@ Du überträgst deinen Schlafbedarf oder den eines berührten Sippenmitglieds au
 
 - **Probenschwierigkeit:** 12
 - **Vorbereitungszeit:** 2 Minuten
-- **Modifikationen:** Winterschlaf (Probenschwierigkeit Magieresistenz, Ziel mindestens *mittelgroßes* Tier)
+- **Modifikationen:**
+  - Winterschlaf (Probenschwierigkeit Magieresistenz, Ziel mindestens *mittelgroßes* Tier)
 - **Ziel:** Bienen
 - **Reichweite:** Berührung
 - **Wirkungsdauer:** 1 Woche
@@ -26,5 +27,10 @@ Du überträgst deinen Schlafbedarf oder den eines berührten Sippenmitglieds au
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]], [[Inhalt/Fertigkeiten/Zibiljarituale|Zibiljarituale]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Verständigung]]
+  - [[Zibiljarituale]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zibilja I]]
+- **Erlernen:** 20 EP

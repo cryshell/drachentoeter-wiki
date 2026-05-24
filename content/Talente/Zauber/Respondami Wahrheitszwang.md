@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 7efca44c-0b7f-4527-82cc-137eacec982a
+ID: d8f14358-5495-4bb1-971c-0cabc44ae31b
 Name: Respondami Wahrheitszwang
 title: Respondami Wahrheitszwang
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Einfluss]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I
@@ -24,5 +24,8 @@ Das Ziel muss eine Ja/Nein-Frage wahrheitsgemäß beantworten. Ist die Frage nic
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

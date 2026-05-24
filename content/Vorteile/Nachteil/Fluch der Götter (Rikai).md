@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 1dbe0427-5a21-44be-8a51-b9888d9e974a
+ID: e53bc962-ffa7-46ce-a39a-10db1dc445bb
 Name: Fluch der Götter (Rikai)
 title: Fluch der Götter (Rikai)
 Kategorie: Nachteil
@@ -12,6 +12,6 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Rikai), Empfindlichkeit I (Pflanz
 
 ---
 
-- **Kosten:** -200 EP
+- **Erlernen:** -200 EP
 - **Voraussetzungen:**
   - Vorteil [[Vampir I]]

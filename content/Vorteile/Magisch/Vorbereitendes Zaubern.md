@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 82dfc306-bb44-4ff8-8aa0-278f31872b6e
+ID: cb1b97a9-69b4-4534-80ec-46f8ccbd0b23
 Name: Vorbereitendes Zaubern
 title: Vorbereitendes Zaubern
 Kategorie: Magisch
@@ -17,8 +17,10 @@ Zwischen dem Vorbereiten des Zaubers und der Aktion Übernatürliches wirken dü
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I]]
   - Attribut [[Klugheit|KL]] 10
-- **Siehe auch:** [[Aktion Konzentration]], [[Aktion Übernatürliches wirken]]
+- **Siehe auch:**
+  - [[Aktion Konzentration]]
+  - [[Aktion Übernatürliches wirken]]

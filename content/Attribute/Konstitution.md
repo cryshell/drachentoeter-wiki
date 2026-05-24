@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Attribut
-ID: 3cc4346b-d158-4cb1-a1b0-c93499282447
+ID: 09219b8c-fdaf-46b7-8107-d278551c042f
 Name: Konstitution
 title: Konstitution
 aliases: "[KO]"

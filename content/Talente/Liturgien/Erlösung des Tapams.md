@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 4c2045c6-a3d7-458d-840f-a59796a83de8
+ID: 578fabfb-b824-4d65-921e-b14434df6f53
 Name: Erlösung des Tapams
 title: Erlösung des Tapams
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Tapam|Tapam]]"
+  - "[[Tapam]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kamaluqgeweihten I
@@ -17,5 +17,8 @@ $talent:Borons süße Gnade$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Tapam|Tapam]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Tapam]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kamaluqgeweihten I]]
+- **Erlernen:** 20 EP

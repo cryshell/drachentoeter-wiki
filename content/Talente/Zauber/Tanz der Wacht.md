@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 1b2c08b7-79c3-476a-85c1-932243980b94
+ID: 2fb9f36f-4a26-4333-a160-7e699a434515
 Name: Tanz der Wacht
 title: Tanz der Wacht
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]]"
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Zaubertänze]]"
+  - "[[Einfluss]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zaubertänzer I
@@ -24,5 +24,9 @@ Bei diesem Tanz schreitest du eine Zone von 16 Schritt Radius ab. Jeder der die 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]], [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Zaubertänze]]
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zaubertänzer I]]
+- **Erlernen:** 10 EP

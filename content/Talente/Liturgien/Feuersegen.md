@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 42eda9e5-60a0-4b53-b34e-33a61340dcd8
+ID: b52ae20f-dc9c-4d84-877d-34a8b8e8b350
 Name: Feuersegen
 title: Feuersegen
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heiliges Feuer|Heiliges Feuer]]"
-  - "[[Inhalt/Fertigkeiten/Göttlicher Ritus|Göttlicher Ritus]]"
+  - "[[Heiliges Feuer]]"
+  - "[[Göttlicher Ritus]]"
 Kosten: 0
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Avesgeweihten I ODER Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Firungeweihten I ODER Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Rondrageweihten I ODER Vorteil Tradition der Swafnirgeweihten I ODER Vorteil Tradition der Traviageweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Graveshgeweihten I
@@ -25,5 +25,9 @@ Eine kleine Flamme entsteht in deiner Hand. Sie erzeugt in einem Radius von 4 Sc
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heiliges Feuer|Heiliges Feuer]], [[Inhalt/Fertigkeiten/Göttlicher Ritus|Göttlicher Ritus]]
-- **Kosten:** 0 EP
+- **Fertigkeiten:**
+  - [[Heiliges Feuer]]
+  - [[Göttlicher Ritus]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Firungeweihten I ODER Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Rondrageweihten I ODER Vorteil Tradition der Swafnirgeweihten I ODER Vorteil Tradition der Traviageweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+- **Erlernen:** 0 EP

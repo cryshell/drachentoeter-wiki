@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 8bbf6f12-18ef-451a-818b-dd43da2b6bef
+ID: 159b9412-6112-470e-89fe-14249ec51c2a
 Name: Nuntiovolo Botenvogel
 title: Nuntiovolo Botenvogel
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
+  - "[[Dämonisch]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I
@@ -24,5 +24,8 @@ Du formst eine Rauchgestalt, die einen kleinen Gegenstand (wie einen Brief) mit 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Dämonisch]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

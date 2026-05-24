@@ -1,12 +1,12 @@
 ---
 Entit√§tstyp: Talent
-ID: fc1ed2df-4613-4c5d-9e25-f49f1cc69149
+ID: 9b8f5a3f-38e0-4316-9e11-de31704857fd
 Name: Salzwasserrune
 title: Salzwasserrune
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
-  - "[[Inhalt/Fertigkeiten/Zauberrunen|Zauberrunen]]"
+  - "[[Objekt]]"
+  - "[[Zauberrunen]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Runenmagier
@@ -25,5 +25,9 @@ Die Rune wird in einem Durchmesser von 8 Fingern auf einem Objekt angebracht. T√
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Objekt|Objekt]], [[Inhalt/Fertigkeiten/Zauberrunen|Zauberrunen]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Objekt]]
+  - [[Zauberrunen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Runenmagier]]
+- **Erlernen:** 10 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 263c65da-b3bf-4e7b-8654-3bda42d57527
+ID: 8cdc0d2b-b2db-41e1-8e69-37facac6f5aa
 Name: Sechs Leben des Mungo
 title: Sechs Leben des Mungo
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Nächtlicher Schatten|Nächtlicher Schatten]]"
+  - "[[Nächtlicher Schatten]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Phexgeweihten I
@@ -23,5 +23,8 @@ Halbiert die effektive Höhe eines Sturzes kumulativ zur Körperbeherrschungs-Pr
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Nächtlicher Schatten|Nächtlicher Schatten]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Nächtlicher Schatten]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Phexgeweihten I]]
+- **Erlernen:** 20 EP

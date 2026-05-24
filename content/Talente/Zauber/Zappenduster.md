@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 33b33876-bc17-4747-92fb-16d71ac53851
+ID: f949b537-99d5-48fc-9d51-cc4dfabdd029
 Name: Zappenduster
 title: Zappenduster
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Umwelt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schelme I
@@ -24,5 +24,8 @@ In einem Radius von 4 Schritt entsteht eine Zone der Dunkelheit, in der die Hell
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schelme I]]
+- **Erlernen:** 20 EP

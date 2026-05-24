@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: bc136e29-bb3c-4ecf-92f2-81cce4b24bbb
+ID: abcbd437-8263-45ba-ae4a-c97746b637b3
 Name: Herr über Feuer und Glut
 title: Herr über Feuer und Glut
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heiliges Feuer|Heiliges Feuer]]"
+  - "[[Heiliges Feuer]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Graveshgeweihten I
@@ -15,7 +15,6 @@ Du formst Feuer in die wundersamsten Formen. Die Probenschwierigkeit, Kosten und
 - 16, 4 KaP, 4 Minuten: Du bündelst das Feuer einer Fackel zu einem schmalen Flammenstrahl, der ein Türschloss oder eine Eisenstange zum Schmelzen bringt.
 - 20, 8 KaP, 4 Züge: Du teilst einen Großbrand, sodass man 1 Minute lang hindurchschreiten kann, ohne Feuerschaden zu erleiden.
 - 28, 16 KaP, 1 Stunde: Du formst ein Feuer von der Größe eines Scheiterhaufens zu einer 32 Schritt hohen Flammensäule, die für 1 Tag als Leuchtturm fungieren kann.
-
 - **Probenschwierigkeit:** nach Vorhaben
 - **Varianten:** Feuerbann (entspricht dem Zauber Elementarbann, wirkt aber nur gegen Feuerzauber; statt AsP wird die Hälfte der dort angegebenen Kosten in KaP bezahlt.)
 - **Vorbereitungszeit:** 0 Aktionen
@@ -28,5 +27,8 @@ Du formst Feuer in die wundersamsten Formen. Die Probenschwierigkeit, Kosten und
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heiliges Feuer|Heiliges Feuer]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Heiliges Feuer]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+- **Erlernen:** 20 EP

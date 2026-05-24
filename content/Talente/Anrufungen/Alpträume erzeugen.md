@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: b631376a-0187-4846-b286-6320b0afd619
+ID: 58874d17-59f9-4fde-bb38-ecfda9ae6fd2
 Name: Alpträume erzeugen
 title: Alpträume erzeugen
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Thargunitoths|Anrufung Thargunitoths]]"
+  - "[[Anrufung Thargunitoths]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Dein Ziel wird Nacht für Nacht von Dämonen Thargunitoths im Traum heimgesucht.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Thargunitoths|Anrufung Thargunitoths]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Thargunitoths]]
+- **Erlernen:** 20 EP

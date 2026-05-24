@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: b52a3d32-4790-4fda-b08c-c52ee9b8ebaa
+ID: 73fdb4d7-3189-4677-a473-f5d15802287d
 Name: Urischars ordnender Blick
 title: Urischars ordnender Blick
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einsicht|Einsicht]]"
-  - "[[Inhalt/Fertigkeiten/Ordnung|Ordnung]]"
+  - "[[Einsicht]]"
+  - "[[Ordnung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Praiosgeweihten I
@@ -25,5 +25,9 @@ Du siehst die verborgene Ordnung im Chaos: Du findest Bücher der gleichen Fachr
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einsicht|Einsicht]], [[Inhalt/Fertigkeiten/Ordnung|Ordnung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Einsicht]]
+  - [[Ordnung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Nandusgeweihten I ODER Vorteil Tradition der Praiosgeweihten I]]
+- **Erlernen:** 10 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 7cfb0e0f-75f1-4b4f-834a-67d22de1e6c6
+ID: 869acd96-c213-4657-9b3a-34658d303dc4
 Name: Segen des Flussvaters
 title: Segen des Flussvaters
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Flüsse und Quellen|Flüsse und Quellen]]"
+  - "[[Flüsse und Quellen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Efferdgeweihten I
@@ -24,5 +24,8 @@ Du wirst eins mit einem Fluss. Du kannst dich durch den Fluss bewegen, ohne zu e
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Flüsse und Quellen|Flüsse und Quellen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Flüsse und Quellen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Efferdgeweihten I]]
+- **Erlernen:** 20 EP

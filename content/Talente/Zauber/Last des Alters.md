@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 26263d2d-6d87-442d-85b8-f8e4b9b6e748
+ID: a2f13eb1-e854-4972-9e53-689ce795aed9
 Name: Last des Alters
 title: Last des Alters
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Temporal|Temporal]]"
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
+  - "[[Temporal]]"
+  - "[[Verwandlung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
@@ -15,7 +15,8 @@ Dein Opfer altert schlagartig um 8 Jahre, Auswirkungen davon sind Spielleitungse
 
 - **Hohe Qualität:** Das Opfer altert um weitere 4 Jahre.
 - **Probenschwierigkeit:** Magieresistenz
-- **Modifikationen:** Verschrumpelte Glieder (-4, 8 AsP, davon 1 gAsP; der Zauber betrifft nur ein einziges Körperteil des Opfers.)
+- **Modifikationen:**
+  - Verschrumpelte Glieder (-4, 8 AsP, davon 1 gAsP; der Zauber betrifft nur ein einziges Körperteil des Opfers.)
 - **Vorbereitungszeit:** 1 Stunde
 - **Ziel:** Humanoid
 - **Reichweite:** Berührung
@@ -26,5 +27,9 @@ Dein Opfer altert schlagartig um 8 Jahre, Auswirkungen davon sind Spielleitungse
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Temporal|Temporal]], [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Temporal]]
+  - [[Verwandlung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 10 EP

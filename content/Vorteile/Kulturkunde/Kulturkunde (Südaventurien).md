@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b0074842-e29d-4e67-9c2d-f40d885cb028
+ID: 5b12e49a-d6ee-4a51-9ce7-7ebaa426b86d
 Name: Kulturkunde (Südaventurien)
 title: Kulturkunde (Südaventurien)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP

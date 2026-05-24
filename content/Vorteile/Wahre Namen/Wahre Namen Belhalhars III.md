@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 80771e8a-dce8-4563-a182-5b8e6bc71029
+ID: c7552b4d-ee84-4378-bb0c-10b68efb101b
 Name: Wahre Namen Belhalhars III
 title: Wahre Namen Belhalhars III
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - Attribut [[Klugheit|KL]] 8

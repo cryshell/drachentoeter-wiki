@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 9eb14195-e568-4354-8b83-9173ffdd0985
+ID: 94f3b7c9-c308-4f00-9b06-aa91ab397eb3
 Name: Tradition der Schamanen (Achaz) II
 title: Tradition der Schamanen (Achaz) II
 Kategorie: Tradition (Magisch)
@@ -14,7 +14,7 @@ Schamanen binden oft einen beträchtlichen Teil ihrer Astralenergie in ihre Zaub
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 6
   - Vorteil [[Tradition der Schamanen (Achaz) I]]

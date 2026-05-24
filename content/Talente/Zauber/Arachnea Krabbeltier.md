@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: f8366814-d12b-4996-8fec-2e71324b3e77
+ID: 1c958171-986a-496c-b214-b6d7cba8c9c3
 Name: Arachnea Krabbeltier
 title: Arachnea Krabbeltier
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Verständigung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I
@@ -14,9 +14,9 @@ Alle Insekten, Spinnen, Maden und anderen wirbellosen Tiere bis zur Größenklas
 
 - **Hohe Qualität:** Verdoppelt den Radius.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Maraskaner Verhältnisse (-8, Wirkungsdauer 1 Woche, 32 AsP)
-Artenkunde (-4; du kannst den Zauber auf eine bestimmte Art von Wesen beschränken oder eine Art ausnehmen.)
-
+- **Modifikationen:**
+  - Maraskaner Verhältnisse (-8, Wirkungsdauer 1 Woche, 32 AsP)
+  - Artenkunde (-4; du kannst den Zauber auf eine bestimmte Art von Wesen beschränken oder eine Art ausnehmen.)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** 16 Schritt
@@ -27,5 +27,8 @@ Artenkunde (-4; du kannst den Zauber auf eine bestimmte Art von Wesen beschränk
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I]]
+- **Erlernen:** 20 EP

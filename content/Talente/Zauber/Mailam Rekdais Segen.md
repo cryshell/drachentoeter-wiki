@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: eb8a52ac-ba42-45b5-b284-4d1f971eb29f
+ID: 3a78694a-c9cb-4bc1-b7d0-24d303cb3706
 Name: Mailam Rekdais Segen
 title: Mailam Rekdais Segen
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]"
+  - "[[Eigenschaften]]"
+  - "[[Einfluss]]"
+  - "[[Geister rufen]]"
 Kosten: 0
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Goblins) I
@@ -25,5 +25,10 @@ Der Segen erhöht die Fruchtbarkeit, die Paarungsbereitschaft und die Wahrschein
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]
-- **Kosten:** 0 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Einfluss]]
+  - [[Geister rufen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Goblins) I]]
+- **Erlernen:** 0 EP

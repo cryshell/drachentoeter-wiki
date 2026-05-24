@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 605d6e06-cd3b-4d8b-9856-ad13115cc9ab
+ID: 2102919d-8f0f-476c-bdbe-5a408f271791
 Name: Tradition der Blakharazpaktierer III
 title: Tradition der Blakharazpaktierer III
 Kategorie: Tradition (Paktierer)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 8
   - Vorteil [[Tradition der Blakharazpaktierer II]]
-- **Siehe auch:** [[Opferung (Blakharaz)]]
+- **Siehe auch:**
+  - [[Opferung (Blakharaz)]]

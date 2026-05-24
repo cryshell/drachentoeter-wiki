@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 73eb6caf-d150-4af4-8c58-b2fa079ebbe7
+ID: 24c29518-116d-4a78-b1d7-bc4fb367b330
 Name: Zunge lähmen
 title: Zunge lähmen
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
+  - "[[Eigenschaften]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schelme I
@@ -23,5 +23,8 @@ Dein Opfer kann seine Zunge nicht mehr bewegen und kann keine verständlichen Ä
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schelme I]]
+- **Erlernen:** 10 EP

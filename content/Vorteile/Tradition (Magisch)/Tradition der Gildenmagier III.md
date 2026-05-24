@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6e2189e7-6b40-43a3-84ce-03c8802df525
+ID: aa49d3f9-cc1e-4672-8cf4-c4e90c248db7
 Name: Tradition der Gildenmagier III
 title: Tradition der Gildenmagier III
 Kategorie: Tradition (Magisch)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Zeit lassen.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 8
   - Vorteil [[Tradition der Gildenmagier II]]
-- **Siehe auch:** [[Zeit lassen]]
+- **Siehe auch:**
+  - [[Zeit lassen]]

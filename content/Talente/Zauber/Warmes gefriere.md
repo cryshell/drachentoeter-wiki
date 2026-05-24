@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: b1bea910-a6e9-403d-a189-a87f0f29a85b
+ID: aae18d85-45c6-4373-ad22-1c12f11924a9
 Name: "Warmes gefriere!"
 title: "Warmes gefriere!"
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eis|Eis]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
+  - "[[Eis]]"
+  - "[[Objekt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I
@@ -25,5 +25,9 @@ Das verzauberte Material von maximal 2 Kubikmetern Volumen kühlt schlagartig au
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eis|Eis]], [[Inhalt/Fertigkeiten/Objekt|Objekt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eis]]
+  - [[Objekt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

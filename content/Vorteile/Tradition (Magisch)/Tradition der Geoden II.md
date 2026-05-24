@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 599ea9e7-0d20-4a66-95f1-2b6137c6af8e
+ID: 5305c76f-b208-4dba-9603-04c630389ba5
 Name: Tradition der Geoden II
 title: Tradition der Geoden II
 Kategorie: Tradition (Magisch)
@@ -14,7 +14,7 @@ Geoden gelten als die fähigsten Elementaristen Aventuriens. Proben auf die Fert
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 6
   - Vorteil [[Tradition der Geoden I]]

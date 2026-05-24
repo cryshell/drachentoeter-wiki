@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: cbcaf6e2-e013-498a-9173-1c8d89711ba5
+ID: 981f073f-73e8-4094-b50b-1d0dc24874a8
 Name: Tradition der Himmelswölfegeweihten III
 title: Tradition der Himmelswölfegeweihten III
 Kategorie: Tradition (Karmal)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 8
   - Vorteil [[Tradition der Himmelswölfegeweihten II]]
-- **Siehe auch:** [[Opferung (Himmelswölfe)]]
+- **Siehe auch:**
+  - [[Opferung (Himmelswölfe)]]

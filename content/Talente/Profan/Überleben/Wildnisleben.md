@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 3b04deea-797e-4c14-9c3d-2627f523da20
+ID: 55aa604c-59f5-4029-a20b-2ec8cb31faf3
 Name: Wildnisleben
 title: Wildnisleben
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Überleben|Überleben]]"
+  - "[[Überleben]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Wildnisleben beinhaltet das Planen von Routen, das Erkennen von Gefahren und das
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Überleben|Überleben]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Überleben]]
+- **Erlernen:** 40 EP

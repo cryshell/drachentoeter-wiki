@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 8ae409ed-1e39-47ae-b10b-c1ed7ed4b81f
+ID: 0075934d-b6ba-4293-834f-912a7d24d8e9
 Name: Tradition der Tsageweihten I
 title: Tradition der Tsageweihten I
 Kategorie: Tradition (Karmal)
@@ -17,8 +17,8 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen Tsas Gebote verstößt: Lebense
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 4
   - Vorteil [[Geweiht I]]
-  - Kein Vorteil Tradition der *geweihten I
+  - Kein Vorteil [[Tradition der geweihten I|Tradition der *geweihten I]]

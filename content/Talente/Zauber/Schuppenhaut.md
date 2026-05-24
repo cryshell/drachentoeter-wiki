@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: d6e04201-1997-4146-ab8b-43a47917d421
+ID: db7de147-5a15-438f-9568-60e4e8c07ac0
 Name: Schuppenhaut
 title: Schuppenhaut
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]]"
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Stabzauber]]"
+  - "[[Verwandlung]]"
+  - "[[Verständigung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
@@ -26,5 +26,10 @@ Dein Stab verwandelt sich nach deiner Wahl in eine Kobra oder ein Chamäleon. Du
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]], [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Stabzauber]]
+  - [[Verwandlung]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

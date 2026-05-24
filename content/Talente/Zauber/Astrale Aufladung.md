@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 2ecfda6d-83ef-4ab9-a282-bcb26581ef88
+ID: 29c6002b-92c2-4f42-9202-b2e3c973d9e0
 Name: Astrale Aufladung
 title: Astrale Aufladung
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schalenzauber|Schalenzauber]]"
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
+  - "[[Schalenzauber]]"
+  - "[[Verwandlung]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I
@@ -25,5 +25,9 @@ Bei der Herstellung eines Elixiers lässt du durch die Schale zusätzliche Astra
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schalenzauber|Schalenzauber]], [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Schalenzauber]]
+  - [[Verwandlung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I]]
+- **Erlernen:** 40 EP

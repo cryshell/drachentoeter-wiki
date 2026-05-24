@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: b8aa45cc-b936-4283-bd80-888d6f458011
+ID: 7e853e83-84ec-4064-9888-13772bacb44e
 Name: Efferdanes Reinigung
 title: Efferdanes Reinigung
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wind und Wogen|Wind und Wogen]]"
+  - "[[Wind und Wogen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I
@@ -26,5 +26,8 @@ Dein Gebet schwächt charyptide Einflüsse in der Umgebung. Die Verseuchung sink
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wind und Wogen|Wind und Wogen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Wind und Wogen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I]]
+- **Erlernen:** 20 EP

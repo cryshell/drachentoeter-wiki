@@ -1,14 +1,14 @@
 ---
 Entitätstyp: Talent
-ID: a1adf834-70f1-4bbd-b9af-14a86e22fa34
+ID: 948ca53e-ac8e-46ec-9f52-cf05daab6d8f
 Name: Nebelgestalt
 title: Nebelgestalt
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Herr des Himmels|Herr des Himmels]]"
-  - "[[Inhalt/Fertigkeiten/Nacht|Nacht]]"
-  - "[[Inhalt/Fertigkeiten/Nächtlicher Schatten|Nächtlicher Schatten]]"
-  - "[[Inhalt/Fertigkeiten/Wind und Wogen|Wind und Wogen]]"
+  - "[[Herr des Himmels]]"
+  - "[[Nacht]]"
+  - "[[Nächtlicher Schatten]]"
+  - "[[Wind und Wogen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I ODER Vorteil Tradition der V’Sargeweihten I
@@ -27,5 +27,11 @@ Du verwandelst dich mitsamt Ausrüstung in Nebel, dem weder Waffen noch Magie et
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Herr des Himmels|Herr des Himmels]], [[Inhalt/Fertigkeiten/Nacht|Nacht]], [[Inhalt/Fertigkeiten/Nächtlicher Schatten|Nächtlicher Schatten]], [[Inhalt/Fertigkeiten/Wind und Wogen|Wind und Wogen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Herr des Himmels]]
+  - [[Nacht]]
+  - [[Nächtlicher Schatten]]
+  - [[Wind und Wogen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Phexgeweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I ODER Vorteil Tradition der V’Sargeweihten I]]
+- **Erlernen:** 20 EP

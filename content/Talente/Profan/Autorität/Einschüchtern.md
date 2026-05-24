@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 473ba72d-6d82-44eb-a271-50fe4c65b4e0
+ID: 680537d2-ba67-4d56-b12b-3fb0e1ec4d61
 Name: Einschüchtern
 title: Einschüchtern
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Autorität|Autorität]]"
+  - "[[Autorität]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Einschüchtern jagt dem Gegenüber Angst ein und bringt ihn so zu einer gewünsc
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Autorität|Autorität]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Autorität]]
+- **Erlernen:** 40 EP

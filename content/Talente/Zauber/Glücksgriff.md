@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 87d0a46c-0ced-45e7-a074-c1c0a3fb0555
+ID: e5b547f1-527c-4eda-9001-e4a8053865fc
 Name: Glücksgriff
 title: Glücksgriff
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
+  - "[[Zaubertricks]]"
 Kosten: 5
 ---
 Du erkennst gezielt einen Gegenstand, etwa eine bestimmte Spielkarte oder eine Murmel in einem Beutel. Du musst dazu alle beteiligten Gegenstände genau kennen.
@@ -20,5 +20,6 @@ Du erkennst gezielt einen Gegenstand, etwa eine bestimmte Spielkarte oder eine M
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
-- **Kosten:** 5 EP
+- **Fertigkeiten:**
+  - [[Zaubertricks]]
+- **Erlernen:** 5 EP

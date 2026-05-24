@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 8ee4a723-89b2-4943-a82b-80a872d1111d
+ID: 71b09dda-f996-46d8-9f26-4a31a601568b
 Name: Alfenbannrune
 title: Alfenbannrune
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Antimagie|Antimagie]]"
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Zauberrunen|Zauberrunen]]"
+  - "[[Antimagie]]"
+  - "[[Einfluss]]"
+  - "[[Zauberrunen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Runenmagier
@@ -25,5 +25,10 @@ Die Rune wird in einem Durchmesser von 16 Fingern auf einem Wesen oder Objekt an
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Antimagie|Antimagie]], [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Zauberrunen|Zauberrunen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Antimagie]]
+  - [[Einfluss]]
+  - [[Zauberrunen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Runenmagier]]
+- **Erlernen:** 20 EP

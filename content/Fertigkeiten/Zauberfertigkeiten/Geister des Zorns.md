@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 8e3e585f-2e03-4ae7-b365-2765f38d5600
+ID: 42e73f99-3466-42d6-8340-ff09030e9778
 Name: Geister des Zorns
 title: Geister des Zorns
 Kategorie: Zauberfertigkeiten

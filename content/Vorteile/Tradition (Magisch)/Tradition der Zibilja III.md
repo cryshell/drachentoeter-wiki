@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 30a5aa47-0d99-47e9-9ea2-eb620e341835
+ID: 23f91a9f-29fd-4d7a-a6f7-4a1a0794b5ea
 Name: Tradition der Zibilja III
 title: Tradition der Zibilja III
 Kategorie: Tradition (Magisch)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Zeremonie.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 8
   - Vorteil [[Tradition der Zibilja II]]
-- **Siehe auch:** [[Zeremonie (M)]]
+- **Siehe auch:**
+  - [[Zeremonie (M)]]

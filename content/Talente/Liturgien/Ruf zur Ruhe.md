@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: e7b89f70-3d69-47e0-8b49-1fe13bee6369
+ID: 28cb243c-b7fe-4be5-be70-ae9537a5269c
 Name: Ruf zur Ruhe
 title: Ruf zur Ruhe
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Vergessen|Vergessen]]"
+  - "[[Vergessen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borongeweihten I
@@ -23,5 +23,8 @@ Dein Ziel verliert das Bedürfnis zu sprechen, solange du nicht sprichst.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Vergessen|Vergessen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Vergessen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borongeweihten I]]
+- **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 71666055-06f2-4e43-876b-361fa3a49f54
+ID: ab665aed-65d1-4912-9b23-10232300d64c
 Name: Kulturkunde (Bornland)
 title: Kulturkunde (Bornland)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

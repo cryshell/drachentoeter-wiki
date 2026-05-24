@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 6a8e7cd1-2b55-4edd-80ad-68f90ebb5233
+ID: f02e2dee-8ab0-4b7b-90ec-f643d0f2a086
 Name: Immerwährender Kampf
 title: Immerwährender Kampf
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Guter Kampf|Guter Kampf]]"
+  - "[[Guter Kampf]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I
@@ -24,5 +24,8 @@ Die Lebenskraft deiner Feinde stärkt dich. Wenn du seit dem Beginn deines letzt
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Guter Kampf|Guter Kampf]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Guter Kampf]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I]]
+- **Erlernen:** 40 EP

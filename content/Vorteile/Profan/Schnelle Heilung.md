@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a71be3b2-dc48-49b3-b2d6-3dc977ac84b0
+ID: ad034a73-998a-4df6-a360-2fd737571be3
 Name: Schnelle Heilung
 title: Schnelle Heilung
 Kategorie: Profan
@@ -14,7 +14,8 @@ Du regenerierst eine weitere Einschränkung pro *langer Rast* und immer noch 1 E
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Konstitution|KO]] 8
-- **Siehe auch:** [[Regeneration]]
+- **Siehe auch:**
+  - [[Regeneration]]

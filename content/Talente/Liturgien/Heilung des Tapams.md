@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 1fbbcf49-2ca9-4734-808e-0af8b14c68e9
+ID: 67fe2bee-5d57-48be-9d0c-e1042de04641
 Name: Heilung des Tapams
 title: Heilung des Tapams
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Tapam|Tapam]]"
+  - "[[Tapam]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kamaluqgeweihten I
@@ -17,5 +17,8 @@ $talent:Segen der Heiligen Noiona$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Tapam|Tapam]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Tapam]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kamaluqgeweihten I]]
+- **Erlernen:** 10 EP

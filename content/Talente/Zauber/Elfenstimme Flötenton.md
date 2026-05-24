@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: f2feb5d3-7c62-4872-8840-4a0aee2f4de1
+ID: 7c4e5e90-7341-462d-b8c0-f4f7ce61310a
 Name: Elfenstimme Flötenton
 title: Elfenstimme Flötenton
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Verständigung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Elfen I
@@ -24,5 +24,8 @@ Bis zu 4 mit dir langjährig befreundete Personen können unabhängig von ihrem 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Elfen I]]
+- **Erlernen:** 10 EP

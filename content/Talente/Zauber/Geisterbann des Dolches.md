@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: ea2f3d2b-f0df-4dfc-b17e-6395438249d7
+ID: 32962fb7-c5cf-4599-a13f-083cd53a78c8
 Name: Geisterbann des Dolches
 title: Geisterbann des Dolches
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Antimagie|Antimagie]]"
-  - "[[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Antimagie]]"
+  - "[[Dolchzauber]]"
+  - "[[Verständigung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I
@@ -25,5 +25,10 @@ Du ziehst mit deinem Ritualgegenstand einen Kreis von maximal 8 Schritt Radius. 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Antimagie|Antimagie]], [[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Antimagie]]
+  - [[Dolchzauber]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I]]
+- **Erlernen:** 10 EP

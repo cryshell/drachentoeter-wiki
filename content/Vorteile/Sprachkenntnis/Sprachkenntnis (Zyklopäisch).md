@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 95c41424-5af1-4672-8b47-a0a8efe750d2
+ID: b4e27c28-b939-4933-90d4-44ca2938dc65
 Name: Sprachkenntnis (Zyklopäisch)
 title: Sprachkenntnis (Zyklopäisch)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Zyklopäisch gehört zur Garethi-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

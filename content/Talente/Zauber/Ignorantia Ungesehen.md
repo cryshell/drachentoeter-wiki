@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: f0e866ba-6cb6-4dff-bc3d-2a2f41c9515e
+ID: 4940f7a6-9dff-4107-ace2-5ee07c885a7f
 Name: Ignorantia Ungesehen
 title: Ignorantia Ungesehen
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Illusion|Illusion]]"
+  - "[[Einfluss]]"
+  - "[[Illusion]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I
@@ -24,5 +24,9 @@ Zufällige Beobachter bemerken dich nicht und Umstehende verlieren das Interesse
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Illusion|Illusion]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Illusion]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I]]
+- **Erlernen:** 20 EP

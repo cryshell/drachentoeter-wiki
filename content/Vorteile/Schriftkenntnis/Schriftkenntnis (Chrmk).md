@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 9022f8b8-f29b-4d7e-8652-778fcde31dbb
+ID: e741f8d0-f30e-45ef-aee0-881c93ff2054
 Name: Schriftkenntnis (Chrmk)
 title: Schriftkenntnis (Chrmk)
 Kategorie: Schriftkenntnis
@@ -11,4 +11,4 @@ Schriften umfassen sowohl die Fähigkeit die entsprechenden Zeichen lesen als au
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

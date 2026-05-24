@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 6d633c5a-8118-45f8-a9af-c098d5386a3c
+ID: 0185fe93-f171-494b-83ae-37e7f9dc85fc
 Name: Pech und Schwefel
 title: Pech und Schwefel
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hass und Zerstörung|Hass und Zerstörung]]"
+  - "[[Hass und Zerstörung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Namenlosgeweihten I
@@ -14,9 +14,9 @@ Eine Flammenlanze fügt dem Ziel 2W6 TP zu und verursacht *Nachbrennen*. *Ballis
 
 - **Hohe Qualität:** Die TP steigen um 1W6.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Doppelschuss (-4, 8 KaP; die Anzahl Schadenswürfel inklusive Hohe Qualität wird verdoppelt.)
-Enger Strahl (-4; die Liturgie verursacht SP statt TP.)
-
+- **Modifikationen:**
+  - Doppelschuss (-4, 8 KaP; die Anzahl Schadenswürfel inklusive Hohe Qualität wird verdoppelt.)
+  - Enger Strahl (-4; die Liturgie verursacht SP statt TP.)
 - **Vorbereitungszeit:** 0 Aktionen
 - **Ziel:** Wesen, Objekt
 - **Reichweite:** 16 Schritt
@@ -27,5 +27,8 @@ Enger Strahl (-4; die Liturgie verursacht SP statt TP.)
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hass und Zerstörung|Hass und Zerstörung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Hass und Zerstörung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Namenlosgeweihten I]]
+- **Erlernen:** 20 EP

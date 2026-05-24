@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: fe13cd46-bcbb-4c4b-81fa-b7a03196c3a4
+ID: ac5b7be1-57ee-48a3-86f8-734de9efc29e
 Name: Wahre Namen des Erzes II
 title: Wahre Namen des Erzes II
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - Attribut [[Klugheit|KL]] 6

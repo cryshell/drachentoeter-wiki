@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: ebc4f987-8679-4673-a0c3-e384f5353211
+ID: 521260b0-975e-47f9-8aa5-51b2b7ec6c2f
 Name: Regeneration I
 title: Regeneration I
 Kategorie: Nachteil
@@ -12,6 +12,6 @@ In jedem deiner Züge heilt 1 Einschränkung.
 
 ---
 
-- **Kosten:** 0 EP
+- **Erlernen:** 0 EP
 - **Voraussetzungen:**
   - Vorteil [[Vampir II]]

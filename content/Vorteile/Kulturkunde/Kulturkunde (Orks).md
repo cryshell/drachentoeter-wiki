@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a4c9610b-a40e-40f2-ae04-04bd8f683fa3
+ID: 51e11a4b-3c20-42cc-a84e-717f7512fe51
 Name: Kulturkunde (Orks)
 title: Kulturkunde (Orks)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

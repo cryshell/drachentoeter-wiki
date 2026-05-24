@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 78c4f5bc-600b-490a-96ad-d9c3b810f2ea
+ID: 00ff932c-1111-46ee-a168-d4a0e86828a3
 Name: Belkelels Ekstase
 title: Belkelels Ekstase
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Belkelels|Anrufung Belkelels]]"
+  - "[[Anrufung Belkelels]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -13,7 +13,8 @@ Das Ziel entbrennt in heißer Leidenschaft für dich. Auf einer Skala von absto�
 
 - **Hohe Qualität:** Steigert die Anziehungskraft um eine weitere Stufe.
 - **Probenschwierigkeit:** MU
-- **Modifikationen:** Reine Übertragung (**Kosten:** 2 GuP; keine Änderung der Einstellung.)
+- **Modifikationen:**
+  - Reine Übertragung (**Kosten:** 2 GuP; keine Änderung der Einstellung.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Humanoid
 - **Reichweite:** Berührung
@@ -24,5 +25,6 @@ Das Ziel entbrennt in heißer Leidenschaft für dich. Auf einer Skala von absto�
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Belkelels|Anrufung Belkelels]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Anrufung Belkelels]]
+- **Erlernen:** 10 EP

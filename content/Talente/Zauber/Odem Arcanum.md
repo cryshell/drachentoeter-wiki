@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 3b5fbc59-21a6-46cb-bd4d-232ce6684e7f
+ID: 76249485-6ef9-43e8-89fb-a1b82b7aace8
 Name: Odem Arcanum
 title: Odem Arcanum
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
+  - "[[Hellsicht]]"
+  - "[[Kraft]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I
@@ -15,7 +15,8 @@ Du nimmst magische Kraft um das Ziel kurz als roten Schimmer wahr. Das entsprich
 
 - **Hohe Qualität:** Der Analysegrad steigt um 1.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Sichtbereich (-4, Zone; wirkt auf alle Objekte im Sichtfeld.)
+- **Modifikationen:**
+  - Sichtbereich (-4, Zone; wirkt auf alle Objekte im Sichtfeld.)
 - **Vorbereitungszeit:** 1 Aktion
 - **Ziel:** Wesen, Objekt
 - **Reichweite:** 8 Schritt
@@ -26,5 +27,9 @@ Du nimmst magische Kraft um das Ziel kurz als roten Schimmer wahr. Das entsprich
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Kraft|Kraft]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Hellsicht]]
+  - [[Kraft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

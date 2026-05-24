@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: e0a620f4-d05d-4e14-9d50-f542222bd38e
+ID: b5e80ab2-ccf4-4469-bcda-4ee3716066db
 Name: Tanz der Angriffslust
 title: Tanz der Angriffslust
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]]"
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Zaubertänze]]"
+  - "[[Einfluss]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zaubertänzer I
@@ -18,5 +18,9 @@ $talent:Melodie der Angriffslust$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]], [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Zaubertänze]]
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zaubertänzer I]]
+- **Erlernen:** 20 EP

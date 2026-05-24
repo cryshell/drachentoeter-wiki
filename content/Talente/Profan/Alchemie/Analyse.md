@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 822c3165-93b1-4257-8bfb-ef37e83e2175
+ID: 4bf73371-ae2f-40e4-97f9-99a66f05ef49
 Name: Analyse
 title: Analyse
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Alchemie|Alchemie]]"
+  - "[[Alchemie]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Mit einer alchemistischen Analyse kannst du feststellen, ob eine verstaubte Phio
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Alchemie|Alchemie]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Alchemie]]
+- **Erlernen:** 20 EP

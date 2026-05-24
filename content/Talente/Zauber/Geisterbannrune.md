@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 65ec1029-9cc5-4402-bbd7-cb338639c305
+ID: 38d038ab-d71d-450f-a937-4db761e22215
 Name: Geisterbannrune
 title: Geisterbannrune
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Antimagie|Antimagie]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
-  - "[[Inhalt/Fertigkeiten/Zauberrunen|Zauberrunen]]"
+  - "[[Antimagie]]"
+  - "[[Verständigung]]"
+  - "[[Zauberrunen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Runenmagier
@@ -25,5 +25,10 @@ Die Rune wird in einem Durchmesser von 16 Fingern auf einem Wesen oder Objekt an
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Antimagie|Antimagie]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]], [[Inhalt/Fertigkeiten/Zauberrunen|Zauberrunen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Antimagie]]
+  - [[Verständigung]]
+  - [[Zauberrunen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Runenmagier]]
+- **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0484fc57-813c-40d0-a75f-f21cd06cd030
+ID: a1c2b579-3d48-465f-9fe7-18c4ae06e9cc
 Name: Tradition der Angroschgeweihten IV
 title: Tradition der Angroschgeweihten IV
 Kategorie: Tradition (Karmal)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Fingerfertigkeit|FF]] 10
   - Vorteil [[Tradition der Angroschgeweihten III]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d9448d37-faa8-45de-b3a4-9533dd8fff86
+ID: e4c0f9aa-76d8-42f5-9bbb-258ebfe1c271
 Name: Tradition der Lolgramothpaktierer IV
 title: Tradition der Lolgramothpaktierer IV
 Kategorie: Tradition (Paktierer)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Mut|MU]] 10
   - Vorteil [[Tradition der Lolgramothpaktierer III]]

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 646dd46d-e85b-41b4-807f-4204c16d6ec8
+ID: da933700-343b-4543-b42c-54f599e9b1d7
 Name: Humosphaero
 title: Humosphaero
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
+  - "[[Humus]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I
@@ -14,7 +14,8 @@ Ein Humusball fügt in einem Radius von 3 Schritt 4W6 TP zu und verursacht *Fess
 
 - **Hohe Qualität:** Die TP steigen um 1W6, für je 2 Stufen steigt zusätzlich der Radius um 1 Schritt.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Komplexe Bewegung (-4, Wirkungsdauer 4 Züge; erfordert *Konzentration*. Die Kugel verbleibt nach dem Wirken vor dir. Während der Aktion Konzentration kannst du sie um jeweils 16 Schritt beliebig innerhalb der Reichweite bewegen. Sie explodiert, wenn du die Konzentration oder den Blickkontakt verlierst, du sie absichtlich – jederzeit ohne Aktionsaufwand – zündest oder die Wirkungsdauer endet.)
+- **Modifikationen:**
+  - Komplexe Bewegung (-4, Wirkungsdauer 4 Züge; erfordert *Konzentration*. Die Kugel verbleibt nach dem Wirken vor dir. Während der Aktion Konzentration kannst du sie um jeweils 16 Schritt beliebig innerhalb der Reichweite bewegen. Sie explodiert, wenn du die Konzentration oder den Blickkontakt verlierst, du sie absichtlich – jederzeit ohne Aktionsaufwand – zündest oder die Wirkungsdauer endet.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** 32 Schritt
@@ -25,5 +26,8 @@ Ein Humusball fügt in einem Radius von 3 Schritt 4W6 TP zu und verursacht *Fess
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Humus|Humus]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Humus]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

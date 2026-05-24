@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: a78448d9-cc6c-4ade-bf1c-54f03e965009
+ID: 9c732529-bae6-477c-82d6-e792c8fd517f
 Name: Rauschsegen
 title: Rauschsegen
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Rausch|Rausch]]"
-  - "[[Inhalt/Fertigkeiten/Schlaf|Schlaf]]"
+  - "[[Rausch]]"
+  - "[[Schlaf]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der Rahjageweihten I
@@ -25,5 +25,9 @@ Die gesegneten Rauschmittel entfalten stärkere Wirkung bei geringeren Nebenwirk
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Rausch|Rausch]], [[Inhalt/Fertigkeiten/Schlaf|Schlaf]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Rausch]]
+  - [[Schlaf]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borongeweihten I ODER Vorteil Tradition der Rahjageweihten I]]
+- **Erlernen:** 10 EP

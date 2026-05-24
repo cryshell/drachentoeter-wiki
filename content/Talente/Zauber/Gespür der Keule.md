@@ -1,14 +1,14 @@
 ---
 Entitätstyp: Talent
-ID: 6d45cea1-2ad2-4465-8666-e7f60f3782b6
+ID: c72a303e-c84a-4eb4-ae33-46f075c28994
 Name: Gespür der Keule
 title: Gespür der Keule
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]"
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Keulenrituale|Keulenrituale]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
+  - "[[Geister rufen]]"
+  - "[[Hellsicht]]"
+  - "[[Keulenrituale]]"
+  - "[[Objekt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
@@ -27,5 +27,11 @@ Die Keule zeigt dir durch ein Zittern die Gegenwart von Magie in einem Radius vo
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]], [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Keulenrituale|Keulenrituale]], [[Inhalt/Fertigkeiten/Objekt|Objekt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Geister rufen]]
+  - [[Hellsicht]]
+  - [[Keulenrituale]]
+  - [[Objekt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+- **Erlernen:** 20 EP

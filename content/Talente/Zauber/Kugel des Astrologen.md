@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: b179e64c-bec0-4641-8678-b6042b787a53
+ID: fd7deac8-94db-4a70-99da-3ff9595c0e3c
 Name: Kugel des Astrologen
 title: Kugel des Astrologen
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Kugelzauber|Kugelzauber]]"
+  - "[[Hellsicht]]"
+  - "[[Kugelzauber]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I
@@ -24,5 +24,9 @@ Voraussetzungen: Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Kugelzauber|Kugelzauber]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Hellsicht]]
+  - [[Kugelzauber]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I]]
+- **Erlernen:** 10 EP

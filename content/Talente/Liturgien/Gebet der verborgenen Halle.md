@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 8bde007c-7d3a-4045-96a5-9dad3979ad4e
+ID: bb268689-98a8-4a40-a166-ddcbb3dff4f7
 Name: Gebet der verborgenen Halle
 title: Gebet der verborgenen Halle
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Sichere Heimkehr|Sichere Heimkehr]]"
+  - "[[Sichere Heimkehr]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Traviageweihten I
@@ -23,5 +23,8 @@ Durch dein Gebet erscheint eine Tür in einen verborgenen Raum, in dem eine ange
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Sichere Heimkehr|Sichere Heimkehr]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Sichere Heimkehr]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Traviageweihten I]]
+- **Erlernen:** 40 EP

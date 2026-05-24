@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 41b8caed-ef6e-4172-9beb-55f90b327f4c
+ID: 764eaf8b-7f31-474e-8c47-a3e4752ec773
 Name: Kornfäule
 title: Kornfäule
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
-  - "[[Inhalt/Fertigkeiten/Hexenflüche|Hexenflüche]]"
+  - "[[Dämonisch]]"
+  - "[[Hexenflüche]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hexen I
@@ -26,5 +26,9 @@ Ein Feld wird von einer Seuche oder Plage befallen, welche die Hälfte der Ernte
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]], [[Inhalt/Fertigkeiten/Hexenflüche|Hexenflüche]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Dämonisch]]
+  - [[Hexenflüche]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hexen I]]
+- **Erlernen:** 20 EP

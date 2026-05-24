@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 03ec7537-67bd-400d-b70e-0e6b4bc23fb4
+ID: fd11a5dd-7300-4c70-939d-12c149798af6
 Name: Ablativum
 title: Ablativum
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Antimagie|Antimagie]]"
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
+  - "[[Antimagie]]"
+  - "[[Kraft]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
@@ -25,5 +25,9 @@ Du erschaffst eine unsichtbare und immaterielle Schutzkuppel mit dir als Zentrum
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Antimagie|Antimagie]], [[Inhalt/Fertigkeiten/Kraft|Kraft]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Antimagie]]
+  - [[Kraft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

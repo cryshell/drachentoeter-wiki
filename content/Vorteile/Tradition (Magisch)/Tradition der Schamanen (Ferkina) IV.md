@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 9d3210c5-cfd4-48a2-ab78-d90d70638e9e
+ID: 4c641129-ff1f-4ffe-a2ff-e94f7d19827e
 Name: Tradition der Schamanen (Ferkina) IV
 title: Tradition der Schamanen (Ferkina) IV
 Kategorie: Tradition (Magisch)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Intuition|IN]] 10
   - Vorteil [[Tradition der Schamanen (Ferkina) III]]

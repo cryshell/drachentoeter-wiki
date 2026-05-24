@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 499757b9-9261-4dd4-8637-e5f1e8cb22da
+ID: 918786c4-5820-4074-8ca5-ed00ae593e35
 Name: "Kusch!"
 title: "Kusch!"
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Einfluss]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Schelme I
@@ -13,7 +13,8 @@ Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition d
 Das verzauberte Tier flieht vor dir.
 
 - **Probenschwierigkeit:** Magieresistenz
-- **Modifikationen:** Schrecken des Schwarms (-4; wirkt auch gegen Schwärme von maximal *winzigen* Tieren.)
+- **Modifikationen:**
+  - Schrecken des Schwarms (-4; wirkt auch gegen Schwärme von maximal *winzigen* Tieren.)
 - **Vorbereitungszeit:** 0 Aktionen
 - **Ziel:** Tier
 - **Reichweite:** 8 Schritt
@@ -24,5 +25,8 @@ Das verzauberte Tier flieht vor dir.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Schelme I]]
+- **Erlernen:** 10 EP

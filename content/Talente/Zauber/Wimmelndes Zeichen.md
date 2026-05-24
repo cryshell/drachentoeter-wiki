@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 54aa20f0-929f-4ded-b5c2-f8ef3f1d8620
+ID: 138a0444-1f3a-421e-9080-d5c64c34d50a
 Name: Wimmelndes Zeichen
 title: Wimmelndes Zeichen
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
-  - "[[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]"
+  - "[[Dämonisch]]"
+  - "[[Verständigung]]"
+  - "[[Zauberzeichen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Zibilja I
@@ -16,7 +16,8 @@ Das Zeichen wird in einem Durchmesser von 32 Fingern auf einer beliebigen Fläch
 
 - **Hohe Qualität:** Verdoppelt den Radius, aus dem die Tiere herbeiströmen.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Artenkunde (-4; du kannst den Zauber auf eine bestimmte Art von Wesen beschränken oder eine Art ausnehmen.)
+- **Modifikationen:**
+  - Artenkunde (-4; du kannst den Zauber auf eine bestimmte Art von Wesen beschränken oder eine Art ausnehmen.)
 - **Vorbereitungszeit:** 4 Minuten
 - **Ziel:** passendes Zauberzeichen
 - **Reichweite:** Berührung
@@ -28,5 +29,10 @@ Das Zeichen wird in einem Durchmesser von 32 Fingern auf einer beliebigen Fläch
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]], [[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Dämonisch]]
+  - [[Verständigung]]
+  - [[Zauberzeichen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Zibilja I]]
+- **Erlernen:** 20 EP

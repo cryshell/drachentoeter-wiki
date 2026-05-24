@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 3d80223e-4c78-4a43-9dd9-782d71dea748
+ID: 40111e4c-802c-4654-8c27-c47d521fbbdd
 Name: Vampirische Berührung
 title: Vampirische Berührung
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Aphestadils|Anrufung Aphestadils]]"
+  - "[[Anrufung Aphestadils]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Mit einer Berührung raubst du deinem Ziel Lebenskraft. Du verursachst 2W6 SP un
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Aphestadils|Anrufung Aphestadils]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Anrufung Aphestadils]]
+- **Erlernen:** 40 EP

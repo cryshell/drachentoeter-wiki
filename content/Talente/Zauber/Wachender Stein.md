@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: f4174224-379c-4d8f-b50a-fb4c121f2e89
+ID: 4c2583c0-8af6-4802-ba55-6470f5d2b0aa
 Name: Wachender Stein
 title: Wachender Stein
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]"
+  - "[[Hellsicht]]"
+  - "[[Kristallmagie]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I
@@ -24,5 +24,9 @@ Du kannst einen Blick durch einen gebundenen Kristall werfen. Dem Kristall ist d
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Hellsicht]]
+  - [[Kristallmagie]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

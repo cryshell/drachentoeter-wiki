@@ -1,11 +1,11 @@
 ---
 Entit채tstyp: Talent
-ID: b6d9d623-bbd3-462e-a782-3098d44f0304
+ID: a5402887-1846-48d7-a37c-0816a20698b7
 Name: Namenloses Vergessen
 title: Namenloses Vergessen
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verf체hrung|Verf체hrung]]"
+  - "[[Verf체hrung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Namenlosgeweihten I
@@ -24,5 +24,8 @@ Dein Ziel verliert s채mtliche Erinnerung an sein voriges Leben und kann sich sp�
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verf체hrung|Verf체hrung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Verf체hrung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Namenlosgeweihten I]]
+- **Erlernen:** 20 EP

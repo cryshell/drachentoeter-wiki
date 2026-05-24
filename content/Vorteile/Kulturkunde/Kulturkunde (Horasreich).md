@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 73e82cd5-2df6-45ed-abb8-a9c830ead947
+ID: 5d987472-9624-4d57-89a5-09fc20a4985c
 Name: Kulturkunde (Horasreich)
 title: Kulturkunde (Horasreich)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: d6224dbc-27b9-43c7-878c-1044541df412
+ID: d48c7ff3-ba16-467a-849f-e4bf6ab63ef1
 Name: Lidaris Herz
 title: Lidaris Herz
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wildnis|Wildnis]]"
+  - "[[Wildnis]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Ifirngeweihten I
@@ -25,5 +25,8 @@ Den Gesegneten umgibt eine glitzernde Reifschicht, die den RS um 1 erhöht und F
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wildnis|Wildnis]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Wildnis]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Ifirngeweihten I]]
+- **Erlernen:** 20 EP

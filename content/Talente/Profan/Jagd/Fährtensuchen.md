@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 6d6a83bf-2d67-4776-9b98-d5d3a5a1871e
+ID: bee6858f-1ea5-4c6d-9c76-2615b0f4fc76
 Name: Fährtensuchen
 title: Fährtensuchen
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Jagd|Jagd]]"
+  - "[[Jagd]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Fährtensuchen ermöglicht es, Fährten aufzuspüren und zu folgen. Erfahrene J�
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Jagd|Jagd]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Jagd]]
+- **Erlernen:** 20 EP

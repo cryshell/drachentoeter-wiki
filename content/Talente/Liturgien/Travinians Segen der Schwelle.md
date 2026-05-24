@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 28680e5e-1539-4e31-8d03-fe79e3c9cd44
+ID: 661fd524-50d5-4926-a5db-a351af9d1879
 Name: Travinians Segen der Schwelle
 title: Travinians Segen der Schwelle
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]]"
+  - "[[Heim und Herd]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Traviageweihten I
@@ -24,5 +24,8 @@ Du segnest die Schwelle. Der dahinter liegende Raum gilt als geweihter Boden und
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Heim und Herd]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Traviageweihten I]]
+- **Erlernen:** 10 EP

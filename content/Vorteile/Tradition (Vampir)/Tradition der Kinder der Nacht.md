@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a32c2d47-8823-4b3e-8a3b-1aab08fde1c4
+ID: 56ca5c7a-c8bc-4409-a230-b4552b3474f8
 Name: Tradition der Kinder der Nacht
 title: Tradition der Kinder der Nacht
 Kategorie: Tradition (Vampir)
@@ -19,8 +19,10 @@ Du bist von Praios verflucht und kannst Vampire nur durch einflößen deines Blu
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 4
   - Vorteil [[Vampir I]]
-- **Siehe auch:** [[Verbotene Pforten]], [[Fluch der Götter (Praios)]]
+- **Siehe auch:**
+  - [[Verbotene Pforten]]
+  - [[Fluch der Götter (Praios)]]

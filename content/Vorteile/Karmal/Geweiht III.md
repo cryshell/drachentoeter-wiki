@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6a0efa59-f5e1-4c81-8bfb-5b27194ec2ab
+ID: 8963f48e-465d-4f84-99ef-83e370541233
 Name: Geweiht III
 title: Geweiht III
 Kategorie: Karmal
@@ -15,6 +15,6 @@ Kosten: 40
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Vorteil [[Geweiht II]]

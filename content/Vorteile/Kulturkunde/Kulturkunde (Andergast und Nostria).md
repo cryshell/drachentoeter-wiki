@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c10b97fa-0a51-4f2a-9ae0-e5b5d8ba94bc
+ID: 5f6a9a40-00ea-4b81-b68e-5366053246d8
 Name: Kulturkunde (Andergast und Nostria)
 title: Kulturkunde (Andergast und Nostria)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

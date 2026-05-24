@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c66c9dee-814f-4bb7-9b47-98490f20a746
+ID: c8402c9e-34bb-4a66-9687-5970c4b2e636
 Name: Tradition der Zsahhgeweihten IV
 title: Tradition der Zsahhgeweihten IV
 Kategorie: Tradition (Karmal)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Intuition|IN]] 10
   - Vorteil [[Tradition der Zsahhgeweihten III]]

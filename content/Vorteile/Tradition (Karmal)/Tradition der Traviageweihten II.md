@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 704459fa-04fa-4ff1-9e49-10cf33752723
+ID: afb917ae-b8e1-4ee6-b697-9e1b31ba83cf
 Name: Tradition der Traviageweihten II
 title: Tradition der Traviageweihten II
 Kategorie: Tradition (Karmal)
@@ -14,7 +14,7 @@ Traviageweihte spüren die Nähe zu ihrer Göttin besonders in der Nähe einer K
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 6
   - Vorteil [[Tradition der Traviageweihten I]]

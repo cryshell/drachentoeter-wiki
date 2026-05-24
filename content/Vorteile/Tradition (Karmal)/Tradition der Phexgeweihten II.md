@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c81a6872-36c6-49e1-93c0-f13ffc89e43b
+ID: 0f6bd99c-b7d4-4045-bca4-0891d8c84f33
 Name: Tradition der Phexgeweihten II
 title: Tradition der Phexgeweihten II
 Kategorie: Tradition (Karmal)
@@ -14,7 +14,7 @@ Phexgeweihte vertrauen auf ihr Können, aber manchmal auch auf ihr Glück. Du da
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 6
   - Vorteil [[Tradition der Phexgeweihten I]]

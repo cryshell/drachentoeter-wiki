@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 9a89007f-37ab-4cfb-bb79-8ec8d1a74d7a
+ID: 98579ae5-3c32-4489-b3df-e3382c4f2c91
 Name: Aureolus Güldenglanz
 title: Aureolus Güldenglanz
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Illusion|Illusion]]"
+  - "[[Illusion]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I
@@ -13,9 +13,9 @@ Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition d
 Je nach AsP-Aufwand sieht eine feste Oberfläche von bis zu 1/2/4/8 Rechtschritt so aus, als wäre sie aus purem Gold. Dabei handelt es sich um eine *Illusion* (Sicht).
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Farbenspiel (-4; du kannst auch eine andere Farbe oder ein Muster wählen.)
-Wasserfläche (-4; du kannst auch bewegte Oberflächen verzaubern, etwa Wasser oder deine Haut.)
-
+- **Modifikationen:**
+  - Farbenspiel (-4; du kannst auch eine andere Farbe oder ein Muster wählen.)
+  - Wasserfläche (-4; du kannst auch bewegte Oberflächen verzaubern, etwa Wasser oder deine Haut.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Objekt oder Wesen
 - **Reichweite:** Berührung
@@ -26,5 +26,8 @@ Wasserfläche (-4; du kannst auch bewegte Oberflächen verzaubern, etwa Wasser o
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Illusion|Illusion]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Illusion]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I]]
+- **Erlernen:** 10 EP

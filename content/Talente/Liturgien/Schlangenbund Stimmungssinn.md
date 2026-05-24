@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 45c6ed35-7a77-47c3-a846-b9f09da0d38a
+ID: ea1da7a6-641c-48a9-8adc-da855414f2e7
 Name: "Schlangenbund: Stimmungssinn"
 title: "Schlangenbund: Stimmungssinn"
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schlangenbund|Schlangenbund]]"
+  - "[[Schlangenbund]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der H’Szintgeweihten I
@@ -24,5 +24,8 @@ Dein Vertrautentier starrt das Ziel an und gibt dir seine Eindrücke weiter. Men
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schlangenbund|Schlangenbund]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Schlangenbund]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der H’Szintgeweihten I]]
+- **Erlernen:** 20 EP

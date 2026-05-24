@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: adb867f8-fd24-4f33-97a8-df631703f139
+ID: eac401d0-c264-4a52-9846-d6d75fd1e0b7
 Name: Pech wünschen
 title: Pech wünschen
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Tasfarelels|Anrufung Tasfarelels]]"
+  - "[[Anrufung Tasfarelels]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Dein Opfer wird vom Unglück verfolgt. Seine Chance auf einen Patzer steigt um 1
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Tasfarelels|Anrufung Tasfarelels]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Tasfarelels]]
+- **Erlernen:** 20 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 25d58686-8c21-4d6b-ab93-040348cd51d2
+ID: 352164b2-d9e4-4e62-b0ec-f82029fa6f95
 Name: Canyzeths Weisheit
 title: Canyzeths Weisheit
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wissen|Wissen]]"
+  - "[[Wissen]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hesindegeweihten I
@@ -23,5 +23,8 @@ Du rufst die Tafel des Erzheiligen Canyzeth herbei. Sie verleiht deinen Proben a
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wissen|Wissen]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Wissen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hesindegeweihten I]]
+- **Erlernen:** 40 EP

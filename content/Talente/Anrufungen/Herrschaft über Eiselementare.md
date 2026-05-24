@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 69fe56b3-49c0-4326-a39c-3e8a9675ef74
+ID: b985d3de-26ca-41d6-ae4c-9af29458cec5
 Name: Herrschaft über Eiselementare
 title: Herrschaft über Eiselementare
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Belshirashs|Anrufung Belshirashs]]"
+  - "[[Anrufung Belshirashs]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -22,5 +22,6 @@ Während der Wirkungsdauer kannst du einmal einen Dienst von einem Eiselementar 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Belshirashs|Anrufung Belshirashs]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Belshirashs]]
+- **Erlernen:** 20 EP

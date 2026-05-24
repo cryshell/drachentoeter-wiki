@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a5648318-3235-482e-99aa-14de4b4fc0a6
+ID: 48ca6f6e-26c0-4026-9bca-a6253c8e245a
 Name: Kulturkunde (Novadis)
 title: Kulturkunde (Novadis)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

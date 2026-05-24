@@ -1,14 +1,14 @@
 ---
 Entitätstyp: Talent
-ID: ba5ba0e1-da0a-4fc0-ac78-82440798baa8
+ID: 08bd8ff6-7186-4051-9498-e2ad278f9143
 Name: Reinigung
 title: Reinigung
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
-  - "[[Inhalt/Fertigkeiten/Wasser|Wasser]]"
+  - "[[Luft]]"
+  - "[[Stabzauber]]"
+  - "[[Umwelt]]"
+  - "[[Wasser]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
@@ -16,7 +16,8 @@ Voraussetzungen: Vorteil Tradition der Gildenmagier I
 Deine Kleidung ist so sauber, als wäre sie frisch gewaschen.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Läusekamm (-4; du wirst auch von *winzigen* Tieren und Ungeziefer befreit.)
+- **Modifikationen:**
+  - Läusekamm (-4; du wirst auch von *winzigen* Tieren und Ungeziefer befreit.)
 - **Vorbereitungszeit:** 0 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -27,5 +28,11 @@ Deine Kleidung ist so sauber, als wäre sie frisch gewaschen.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]], [[Inhalt/Fertigkeiten/Wasser|Wasser]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Luft]]
+  - [[Stabzauber]]
+  - [[Umwelt]]
+  - [[Wasser]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 10 EP

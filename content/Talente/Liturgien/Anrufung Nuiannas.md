@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 07327e69-7e75-45ef-9fd1-f856edc92434
+ID: d6bbd2de-7d56-42ef-8f98-ec648d8a4ed7
 Name: Anrufung Nuiannas
 title: Anrufung Nuiannas
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wind und Wogen|Wind und Wogen]]"
+  - "[[Wind und Wogen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I
@@ -14,7 +14,8 @@ In einem Radius von 128 Schritt entsteht eine dichte Nebelfront, die für eine *
 
 - **Hohe Qualität:** Verdoppelt den Radius oder verursacht für 2 Stufen eine *miserable Sicht*.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Begleiter (-4; die Nebelfront bewegt sich mit dir.)
+- **Modifikationen:**
+  - Begleiter (-4; die Nebelfront bewegt sich mit dir.)
 - **Vorbereitungszeit:** 4 Minuten
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -25,5 +26,8 @@ In einem Radius von 128 Schritt entsteht eine dichte Nebelfront, die für eine *
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wind und Wogen|Wind und Wogen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Wind und Wogen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I]]
+- **Erlernen:** 20 EP

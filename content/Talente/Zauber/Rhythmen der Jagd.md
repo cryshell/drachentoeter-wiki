@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: ae501a1e-a43b-44e9-81b0-f5a487c12b92
+ID: 31dd3928-a9fe-4265-b969-734a114d218a
 Name: Rhythmen der Jagd
 title: Rhythmen der Jagd
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Trommelrituale|Trommelrituale]]"
+  - "[[Eigenschaften]]"
+  - "[[Trommelrituale]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Derwische I
@@ -24,5 +24,9 @@ Du schärfst die Jagdinstinkte. Jeder in einem Radius von 4 Schritt erhält Vort
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Trommelrituale|Trommelrituale]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Trommelrituale]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Derwische I]]
+- **Erlernen:** 20 EP

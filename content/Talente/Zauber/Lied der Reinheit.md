@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: e2cb7885-6a40-47d3-bb5f-204258fdf52a
+ID: ae3c41a0-cc76-4578-9e02-e8fd9f0ee05b
 Name: Lied der Reinheit
 title: Lied der Reinheit
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Antimagie|Antimagie]]"
-  - "[[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Antimagie]]"
+  - "[[Elfenlieder]]"
+  - "[[Umwelt]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Elfen I
@@ -27,5 +27,10 @@ Dein Lied schwächt dämonische Einflüsse in deiner Umgebung, natürliches Lebe
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Antimagie|Antimagie]], [[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Antimagie]]
+  - [[Elfenlieder]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Elfen I]]
+- **Erlernen:** 10 EP

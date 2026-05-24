@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: a96a0411-a725-4c73-b7de-455f65ab7f34
+ID: b73e9373-5f51-4ca5-b43b-ccb27ee0fe88
 Name: "Schlangenbund: Ungesehener Beobachter"
 title: "Schlangenbund: Ungesehener Beobachter"
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schlangenbund|Schlangenbund]]"
+  - "[[Schlangenbund]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der H’Szintgeweihten I
@@ -24,5 +24,8 @@ Du kannst dein Vertrautentier in einem Radius von PW Schlangenbund Meilen bewege
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schlangenbund|Schlangenbund]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Schlangenbund]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der H’Szintgeweihten I]]
+- **Erlernen:** 20 EP

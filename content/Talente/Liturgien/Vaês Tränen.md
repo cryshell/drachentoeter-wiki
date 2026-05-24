@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: d7166890-cdbb-45f5-802a-3a2e8b34b412
+ID: 6774ce64-89f7-4d40-b4de-201881a48846
 Name: Vaês Tränen
 title: Vaês Tränen
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schutz der Sippe|Schutz der Sippe]]"
+  - "[[Schutz der Sippe]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Himmelswölfegeweihten I
@@ -24,5 +24,8 @@ Du opferst dich. Bei deinem Tod gehen alle Krankheiten, Gifte und Wunden desjeni
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schutz der Sippe|Schutz der Sippe]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Schutz der Sippe]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Himmelswölfegeweihten I]]
+- **Erlernen:** 20 EP

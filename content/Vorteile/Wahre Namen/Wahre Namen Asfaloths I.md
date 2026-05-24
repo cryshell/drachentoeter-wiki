@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: de35eaac-f8e1-4f56-b2a5-5da3406fb6af
+ID: 2c19efaf-533d-4934-bf78-160db2e8f6e6
 Name: Wahre Namen Asfaloths I
 title: Wahre Namen Asfaloths I
 Kategorie: Wahre Namen
@@ -14,7 +14,7 @@ Du kannst alle Dämonen Asfaloths bis zu einer Beschwörungsschwierigkeit von 16
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - Attribut [[Klugheit|KL]] 4

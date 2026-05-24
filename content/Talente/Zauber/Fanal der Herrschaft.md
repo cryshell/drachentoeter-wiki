@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: b5cce614-faf5-4231-8d8a-2716d18e07db
+ID: b582a008-ae6e-4df6-8462-439e9628434e
 Name: Fanal der Herrschaft
 title: Fanal der Herrschaft
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]"
+  - "[[Eigenschaften]]"
+  - "[[Einfluss]]"
+  - "[[Zauberzeichen]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I
@@ -16,7 +16,8 @@ Das Zeichen wird in einem Durchmesser von 16 Fingern auf einer beliebigen Fläch
 
 - **Hohe Qualität:** Der Bonus steigt um +2. Für je 4 volle Punkte Bonus sind auch Fertigkeitsproben mit CH um +1 erleichtert.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Beweglich (-8; das Zeichen wird auf einem maximal schrankgroßen Objekt angebracht. Nicht *ortsgebunden*.)
+- **Modifikationen:**
+  - Beweglich (-8; das Zeichen wird auf einem maximal schrankgroßen Objekt angebracht. Nicht *ortsgebunden*.)
 - **Vorbereitungszeit:** 8 Minuten
 - **Ziel:** passendes Zauberzeichen
 - **Reichweite:** Berührung
@@ -27,5 +28,10 @@ Das Zeichen wird in einem Durchmesser von 16 Fingern auf einer beliebigen Fläch
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Einfluss]]
+  - [[Zauberzeichen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a532abba-550d-49a0-969e-1bcb68026273
+ID: eef6135f-901a-4129-b6e6-83f353b1fbd4
 Name: Wahre Namen Lolgramoths III
 title: Wahre Namen Lolgramoths III
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - Attribut [[Klugheit|KL]] 8

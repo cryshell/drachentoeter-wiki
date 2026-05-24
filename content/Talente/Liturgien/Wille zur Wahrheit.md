@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 1689ad09-abb5-47e6-be73-10baf40dae9f
+ID: eb97ee1f-6399-4952-87e9-fc2192d85064
 Name: Wille zur Wahrheit
 title: Wille zur Wahrheit
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einsicht|Einsicht]]"
-  - "[[Inhalt/Fertigkeiten/Ordnung|Ordnung]]"
+  - "[[Einsicht]]"
+  - "[[Ordnung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Praiosgeweihten I
@@ -24,5 +24,9 @@ Jeder in einem Radius von 16 Schritt hält sich an die Wahrheit. Versuche zu Lü
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einsicht|Einsicht]], [[Inhalt/Fertigkeiten/Ordnung|Ordnung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einsicht]]
+  - [[Ordnung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Nandusgeweihten I ODER Vorteil Tradition der Praiosgeweihten I]]
+- **Erlernen:** 20 EP

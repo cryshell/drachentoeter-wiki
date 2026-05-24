@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2711a54e-c29d-457e-84cd-f33bf900c48f
+ID: 80405158-6612-4a5f-a34d-a92d03726df9
 Name: Kulturkunde (Steppenelfen)
 title: Kulturkunde (Steppenelfen)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

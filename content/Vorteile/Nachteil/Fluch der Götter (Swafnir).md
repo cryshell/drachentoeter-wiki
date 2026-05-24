@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 8f7fff59-1679-44b8-b17f-fde94491bfad
+ID: bef92993-eab3-453a-bdc3-90b3e5416a59
 Name: Fluch der Götter (Swafnir)
 title: Fluch der Götter (Swafnir)
 Kategorie: Nachteil
@@ -12,6 +12,6 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Swafnir), Empfindlichkeit I (Pfla
 
 ---
 
-- **Kosten:** -200 EP
+- **Erlernen:** -200 EP
 - **Voraussetzungen:**
   - Vorteil [[Vampir I]]

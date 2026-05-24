@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a4d57a95-30d0-43dc-9eb3-a6cdeb6c3428
+ID: e9ca9f95-b9c7-44eb-8d97-a122711c5fec
 Name: Tradition der Lolgramothpaktierer I
 title: Tradition der Lolgramothpaktierer I
 Kategorie: Tradition (Paktierer)
@@ -17,8 +17,8 @@ Dämonische Kräfte sind chaotisch, Anrufungsproben werden mit 1W20 gewürfelt.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 4
   - Vorteil [[Paktierer I]]
-  - Kein Vorteil Tradition der *paktierer I
+  - Kein Vorteil [[Tradition der paktierer I|Tradition der *paktierer I]]

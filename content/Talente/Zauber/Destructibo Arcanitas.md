@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: e78ae880-4298-4b7c-bc2a-ac1dbf4ad6f3
+ID: 3c9aad69-87e6-4dae-8a1f-4f7bc44a87b2
 Name: Destructibo Arcanitas
 title: Destructibo Arcanitas
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Antimagie|Antimagie]]"
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
+  - "[[Antimagie]]"
+  - "[[Kraft]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I
@@ -25,5 +25,9 @@ Du bannst einen Zauber, in den gAsP geflossen sind (wie ein Artefakt oder ein pe
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Antimagie|Antimagie]], [[Inhalt/Fertigkeiten/Kraft|Kraft]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Antimagie]]
+  - [[Kraft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

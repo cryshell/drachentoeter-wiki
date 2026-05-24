@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 09122c38-5e9a-47ef-8205-e887da90e33a
+ID: 1cd8e793-c983-4429-8f57-9b86a46acf4a
 Name: Ätherpeitsche
 title: Ätherpeitsche
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Belkelels|Anrufung Belkelels]]"
+  - "[[Anrufung Belkelels]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Du triffst bis zu 3 nebeneinanderstehende Lebewesen mit einer unsichtbaren Peits
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Belkelels|Anrufung Belkelels]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Belkelels]]
+- **Erlernen:** 20 EP

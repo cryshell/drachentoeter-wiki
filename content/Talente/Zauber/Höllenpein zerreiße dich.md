@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 945cb876-3819-484e-83c6-cb4e387bd225
+ID: 7fe471d4-be2f-4b39-85ad-9d52fb248ddb
 Name: "Höllenpein zerreiße dich!"
 title: "Höllenpein zerreiße dich!"
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Dämonisch]]"
+  - "[[Einfluss]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Kristallomanten I
@@ -25,5 +25,9 @@ Dein Opfer windet sich in schrecklichen Schmerzen und ist bis zum Ende der Wirku
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]], [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Dämonisch]]
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

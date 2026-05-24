@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 1421275d-2f8c-4e5e-a132-9a1cdbd0eb60
+ID: 865cd482-a159-4b3d-8a32-fd0d24f5f6e1
 Name: Tradition der Runenmagier
 title: Tradition der Runenmagier
 Kategorie: Tradition (Magisch)
@@ -18,8 +18,9 @@ Die Bedingung passende Rune kann nicht ignoriert werden.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Fingerfertigkeit|FF]] 4
   - Vorteil [[Zauberer I]]
-- **Siehe auch:** [[Zauberrunen]]
+- **Siehe auch:**
+  - [[Zauberrunen]]

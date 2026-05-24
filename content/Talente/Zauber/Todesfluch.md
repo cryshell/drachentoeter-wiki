@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: eb2cc0ec-162a-4a39-a2a9-dba955adf286
+ID: ac99149d-bbd8-4a0b-908b-fc88fcc892ac
 Name: Todesfluch
 title: Todesfluch
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hexenflüche|Hexenflüche]]"
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
+  - "[[Hexenflüche]]"
+  - "[[Verwandlung]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hexen I
@@ -24,5 +24,9 @@ Das Opfer wird langsam schwächer, bis es stirbt. Es erleidet am Ende jeden Tage
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hexenflüche|Hexenflüche]], [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Hexenflüche]]
+  - [[Verwandlung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hexen I]]
+- **Erlernen:** 40 EP

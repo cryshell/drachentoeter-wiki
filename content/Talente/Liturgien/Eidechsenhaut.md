@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 61bcc931-b5ce-4a8f-975b-8ca03f8ba1ed
+ID: 0767ce97-933d-4653-a452-b9e7d1986442
 Name: Eidechsenhaut
 title: Eidechsenhaut
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Friede|Friede]]"
-  - "[[Inhalt/Fertigkeiten/Wandlung|Wandlung]]"
+  - "[[Friede]]"
+  - "[[Wandlung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Zsahhgeweihten I
@@ -25,5 +25,9 @@ Die Haut des Ziels wird mit dicken Schuppen bedeckt. Dadurch steigt der RS um 2.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Friede|Friede]], [[Inhalt/Fertigkeiten/Wandlung|Wandlung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Friede]]
+  - [[Wandlung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Tsageweihten I ODER Vorteil Tradition der Zsahhgeweihten I]]
+- **Erlernen:** 10 EP

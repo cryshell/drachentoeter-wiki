@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: f8bf465b-4239-4df5-a72e-f7e8ac6cc1ce
+ID: f51106c3-ff0e-4b7f-a9df-e0202a1edaa1
 Name: "Herzschlag ruhe!"
 title: "Herzschlag ruhe!"
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Dämonisch]]"
+  - "[[Eigenschaften]]"
+  - "[[Einfluss]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borbaradianer I
@@ -26,5 +26,10 @@ Das Herz deines Opfers bleibt schlagartig stehen. Nach 4 und 8 Züge erleidet es
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]], [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Dämonisch]]
+  - [[Eigenschaften]]
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borbaradianer I]]
+- **Erlernen:** 20 EP

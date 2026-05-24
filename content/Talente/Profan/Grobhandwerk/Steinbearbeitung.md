@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 13d3912b-d82e-481d-99db-531484860359
+ID: 6a407a4e-4f8c-42f2-83a2-6d35ca64d0f3
 Name: Steinbearbeitung
 title: Steinbearbeitung
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Grobhandwerk|Grobhandwerk]]"
+  - "[[Grobhandwerk]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Steinbearbeitung umfasst die Herstellung von Reliefs, Statuen, Feuersteinwaffen 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Grobhandwerk|Grobhandwerk]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Grobhandwerk]]
+- **Erlernen:** 10 EP

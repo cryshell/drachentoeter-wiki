@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: bdd5d8dd-b0ec-4375-958b-5d616c9c3038
+ID: 23ee7608-b240-4b55-a150-dc0fd9817eaa
 Name: Zsahhs Fruchtbarkeit
 title: Zsahhs Fruchtbarkeit
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Fruchtbarkeit und Wiedergeburt|Fruchtbarkeit und Wiedergeburt]]"
+  - "[[Fruchtbarkeit und Wiedergeburt]]"
 Kosten: 0
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der Zsahhgeweihten I
@@ -17,5 +17,8 @@ $talent:Tsas Fruchtbarkeit$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Fruchtbarkeit und Wiedergeburt|Fruchtbarkeit und Wiedergeburt]]
-- **Kosten:** 0 EP
+- **Fertigkeiten:**
+  - [[Fruchtbarkeit und Wiedergeburt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der Zsahhgeweihten I]]
+- **Erlernen:** 0 EP

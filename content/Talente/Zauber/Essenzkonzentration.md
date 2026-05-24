@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 3474274a-f8ec-4a5e-93e9-beb10cae92cb
+ID: 410d9438-61a7-4026-97bb-4989a36bea2d
 Name: Essenzkonzentration
 title: Essenzkonzentration
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schalenzauber|Schalenzauber]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
+  - "[[Schalenzauber]]"
+  - "[[Objekt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Alchemisten I
@@ -26,5 +26,9 @@ Du konzentrierst zwei alchemistische Produkte der gleichen Art zu einem. Das ent
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schalenzauber|Schalenzauber]], [[Inhalt/Fertigkeiten/Objekt|Objekt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Schalenzauber]]
+  - [[Objekt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Alchemisten I]]
+- **Erlernen:** 20 EP

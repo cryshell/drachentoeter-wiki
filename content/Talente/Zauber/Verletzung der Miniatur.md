@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: b3375de7-3dbe-4588-843a-f9fe1a177f4a
+ID: 443eb1bc-28fc-4dad-8ad9-fe25c417c8c9
 Name: Verletzung der Miniatur
 title: Verletzung der Miniatur
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
-  - "[[Inhalt/Fertigkeiten/Geister des Zorns|Geister des Zorns]]"
+  - "[[Dolchzauber]]"
+  - "[[Verständigung]]"
+  - "[[Geister des Zorns]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Trollzacker) I
@@ -25,5 +25,10 @@ Du fügst dir mit dem Dolch selbst eine oder mehrere Wunden zu. Das Opfer deiner
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]], [[Inhalt/Fertigkeiten/Geister des Zorns|Geister des Zorns]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Dolchzauber]]
+  - [[Verständigung]]
+  - [[Geister des Zorns]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Trollzacker) I]]
+- **Erlernen:** 20 EP

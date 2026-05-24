@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 11163075-4f44-444a-8b47-18ce2ebe4f98
+ID: 17bfec92-9ed4-4667-897c-ed7c2c5f1fee
 Name: Weisung des Dolches
 title: Weisung des Dolches
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]]"
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
+  - "[[Dolchzauber]]"
+  - "[[Hellsicht]]"
+  - "[[Kraft]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I
@@ -26,5 +26,10 @@ Dein Dolch leuchtet rot auf, wenn er in Richtung einer maximal 8 Meilen entfernt
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]], [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Kraft|Kraft]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Dolchzauber]]
+  - [[Hellsicht]]
+  - [[Kraft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I]]
+- **Erlernen:** 10 EP

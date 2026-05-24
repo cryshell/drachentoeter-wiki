@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b51c1789-6d41-43a2-8ece-be5db90b0df7
+ID: 42e61fb0-1557-409f-9d00-8d75d3991961
 Name: Tradition der Kristallomanten I
 title: Tradition der Kristallomanten I
 Kategorie: Tradition (Magisch)
@@ -18,8 +18,9 @@ Wenn du einen Zauber mit der Modifikation Vorbereitung verkürzen wirkst, ist er
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 4
   - Vorteil [[Zauberer I]]
-- **Siehe auch:** [[Vorbereitung verkürzen (M)]]
+- **Siehe auch:**
+  - [[Vorbereitung verkürzen (M)]]

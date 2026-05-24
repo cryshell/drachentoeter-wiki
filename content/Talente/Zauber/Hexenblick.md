@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: ba508d22-e873-4fe4-ae13-1a647e8fcdfe
+ID: 0aea4f02-dbbf-47e6-a973-88b0d2bbe29e
 Name: Hexenblick
 title: Hexenblick
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Verständigung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hexen I
@@ -23,5 +23,8 @@ Du erfährst, ob dein Ziel die gleiche Tradition beherrscht wie du. Ein Ziel kan
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hexen I]]
+- **Erlernen:** 10 EP

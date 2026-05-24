@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Attribut
-ID: 78e7a5c5-28b7-4913-966a-dd0b23a8b5ba
+ID: 48f83697-10a1-45d1-a2ef-a6316b1d4090
 Name: Körperkraft
 title: Körperkraft
 aliases: "[KK]"

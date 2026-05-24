@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 5944d5a7-45bb-45ba-9c72-68fc4b476397
+ID: 8fb3f6fa-5464-4e23-9240-e384ea4c86dd
 Name: Kraft des Erzes
 title: Kraft des Erzes
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
+  - "[[Erz]]"
+  - "[[Objekt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I
@@ -24,5 +24,9 @@ Der schwerste Metallgegenstand in Reichweite wird stark magnetisch. Im Radius vo
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Erz|Erz]], [[Inhalt/Fertigkeiten/Objekt|Objekt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Erz]]
+  - [[Objekt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

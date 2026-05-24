@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: a568bc2a-822c-4285-a8c6-76e62e11fba5
+ID: 3f0940a5-3596-40d0-bee5-9a2ab395cc98
 Name: Dämonenbann des Dolches
 title: Dämonenbann des Dolches
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Antimagie|Antimagie]]"
-  - "[[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]]"
+  - "[[Antimagie]]"
+  - "[[Dolchzauber]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I
@@ -25,5 +25,9 @@ Du ziehst mit deinem Ritualgegenstand einen Kreis von maximal 8 Schritt Radius. 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Antimagie|Antimagie]], [[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Antimagie]]
+  - [[Dolchzauber]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I]]
+- **Erlernen:** 20 EP

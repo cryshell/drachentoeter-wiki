@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: b9fb4f2a-9787-4705-8469-5525347d5689
+ID: 81b8c293-4f18-4af9-b160-dc00ba308eb3
 Name: "Für die Göttin, für Rondra! (passiv)"
 title: "Für die Göttin, für Rondra! (passiv)"
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Ehre|Ehre]]"
+  - "[[Ehre]]"
 Kosten: 40
 Voraussetzungen: Vorteil Tradition der Rondrageweihten I
 ---
@@ -16,5 +16,8 @@ Du erhältst den Vorteil Sturmangriff. Wenn du den Vorteil bereits besitzt, kann
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Ehre|Ehre]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Ehre]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rondrageweihten I]]
+- **Erlernen:** 40 EP

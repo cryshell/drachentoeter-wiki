@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b67e7303-38f3-4a6b-95da-f4638f96a234
+ID: 0d8710a6-7d32-4401-a371-96c1e2377537
 Name: Tradition der Avesgeweihten III
 title: Tradition der Avesgeweihten III
 Kategorie: Tradition (Karmal)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 8
   - Vorteil [[Tradition der Avesgeweihten II]]
-- **Siehe auch:** [[Opferung (Aves)]]
+- **Siehe auch:**
+  - [[Opferung (Aves)]]

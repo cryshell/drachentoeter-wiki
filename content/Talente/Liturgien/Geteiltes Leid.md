@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: cf4e8de6-7c84-442b-9707-42ea5249bfb7
+ID: 0d68a160-72f8-47fd-a2c8-3cc812f8e385
 Name: Geteiltes Leid
 title: Geteiltes Leid
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]]"
-  - "[[Inhalt/Fertigkeiten/Wildnis|Wildnis]]"
+  - "[[Heim und Herd]]"
+  - "[[Wildnis]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Traviageweihten I
@@ -24,5 +24,9 @@ Du rufst den Mantel der Heiligen Mascha und schneidest für die gesegnete Person
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]], [[Inhalt/Fertigkeiten/Wildnis|Wildnis]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Heim und Herd]]
+  - [[Wildnis]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Ifirngeweihten I ODER Vorteil Tradition der Traviageweihten I]]
+- **Erlernen:** 10 EP

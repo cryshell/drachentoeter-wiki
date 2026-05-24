@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 4f3d69b0-dc6a-4b8e-b4bb-622c891b2576
+ID: d905af2e-6c1d-4e4a-b6a9-8f815cc36c83
 Name: Herrschaft über Humuselementare
 title: Herrschaft über Humuselementare
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Agrimoths|Anrufung Agrimoths]]"
+  - "[[Anrufung Agrimoths]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -22,5 +22,6 @@ Während der Wirkungsdauer kannst du einmal einen Dienst von einem Humuselementa
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Agrimoths|Anrufung Agrimoths]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Agrimoths]]
+- **Erlernen:** 20 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 444ed14e-1fca-4493-8a08-5467a867ab9d
+ID: 20191d15-fce5-4d62-be59-bbeb84d81af0
 Name: Graues Siegel
 title: Graues Siegel
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Nächtlicher Schatten|Nächtlicher Schatten]]"
-  - "[[Inhalt/Fertigkeiten/Wissen|Wissen]]"
+  - "[[Nächtlicher Schatten]]"
+  - "[[Wissen]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Phexgeweihten I
@@ -15,7 +15,8 @@ Du verschlüsselst eine Nachricht, sodass sie nur noch von einer bestimmten Pers
 
 - **Hohe Qualität:** Die Schwierigkeit der Verschlüsselung knacken-Probe steigt um 4.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Personengruppe (-4; du kannst eine Personengruppe nennen, die die Nachricht lesen kann.)
+- **Modifikationen:**
+  - Personengruppe (-4; du kannst eine Personengruppe nennen, die die Nachricht lesen kann.)
 - **Vorbereitungszeit:** 4 Minuten
 - **Ziel:** Objekt
 - **Reichweite:** Berührung
@@ -27,5 +28,9 @@ Du verschlüsselst eine Nachricht, sodass sie nur noch von einer bestimmten Pers
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Nächtlicher Schatten|Nächtlicher Schatten]], [[Inhalt/Fertigkeiten/Wissen|Wissen]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Nächtlicher Schatten]]
+  - [[Wissen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Phexgeweihten I]]
+- **Erlernen:** 10 EP

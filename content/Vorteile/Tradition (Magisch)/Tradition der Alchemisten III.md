@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 79c766e6-08ab-4111-87c7-7ad3cf51e4cd
+ID: bd3050b5-c5ac-4c4f-9393-41f212b5e25c
 Name: Tradition der Alchemisten III
 title: Tradition der Alchemisten III
 Kategorie: Tradition (Magisch)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Zeit lassen.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Fingerfertigkeit|FF]] 8
   - Vorteil [[Tradition der Alchemisten II]]
-- **Siehe auch:** [[Zeit lassen]]
+- **Siehe auch:**
+  - [[Zeit lassen]]

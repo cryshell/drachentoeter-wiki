@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 8653ecde-fe63-470a-9939-178b75eb269e
+ID: 00bbdff3-6565-4705-b8c2-45843d5adaff
 Name: Gletscherwand
 title: Gletscherwand
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eis|Eis]]"
+  - "[[Eis]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Shakagra I
@@ -14,7 +14,8 @@ Eine 4 x 3 x 1 Schritt (BxHxT) große Wand aus blankem Eis entsteht entlang eine
 
 - **Hohe Qualität:** Die Breite steigt um 2 Schritt, die Höhe um 1 Schritt.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Zylinder (-4; die Wand verläuft kreisförmig mit einem Radius in Höhe von einem Viertel der Breite. Du musst den Kreis nicht abschließen.)
+- **Modifikationen:**
+  - Zylinder (-4; die Wand verläuft kreisförmig mit einem Radius in Höhe von einem Viertel der Breite. Du musst den Kreis nicht abschließen.)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** 8 Schritt
@@ -25,5 +26,8 @@ Eine 4 x 3 x 1 Schritt (BxHxT) große Wand aus blankem Eis entsteht entlang eine
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eis|Eis]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eis]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

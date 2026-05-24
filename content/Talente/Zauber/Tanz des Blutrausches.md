@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 7fc62403-6676-4d10-8d39-161bad8085cf
+ID: 17f936f6-6bd5-4185-b6eb-943980f285e5
 Name: Tanz des Blutrausches
 title: Tanz des Blutrausches
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]]"
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Zaubertänze]]"
+  - "[[Einfluss]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zaubertänzer I
@@ -24,5 +24,9 @@ Durch diesen Tanz entfachst du unter allen Zuschauern in einem Radius von 4 Schr
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]], [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Zaubertänze]]
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zaubertänzer I]]
+- **Erlernen:** 20 EP

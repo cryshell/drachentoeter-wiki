@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 94fdc8e8-223d-43dc-88c6-a2f62ca4f7fe
+ID: 1df7989d-e484-474e-9c15-ced79c42558a
 Name: Tradition der Geschützbauer
 title: Tradition der Geschützbauer
 Kategorie: Tradition (Profan)
@@ -14,6 +14,6 @@ Kosten: 20
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Talent [['Holzbearbeitung']] 8

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: b31d382e-a751-479d-b306-5d7721b3194e
+ID: b137f711-73bd-4ef3-ad96-e53e96a5e020
 Name: Thalionmels Schlachtgesang
 title: Thalionmels Schlachtgesang
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schutz der Gläubigen|Schutz der Gläubigen]]"
+  - "[[Schutz der Gläubigen]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rondrageweihten I
@@ -24,5 +24,8 @@ Du rufst Thalionmels Segen auf dich herab und erleidest weder Patzer noch Wundab
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schutz der Gläubigen|Schutz der Gläubigen]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Schutz der Gläubigen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rondrageweihten I]]
+- **Erlernen:** 40 EP

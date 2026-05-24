@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 8b9676ab-6152-4a3d-a93b-bcc63580afc6
+ID: ba302cb4-5abe-4c70-8ad8-1c53750a239b
 Name: Harmlose Gestalt (Tiergeist)
 title: Harmlose Gestalt (Tiergeist)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]]"
-  - "[[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]"
+  - "[[Gaben des Odun]]"
+  - "[[Gaben des Blutgeists]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tiergeist (Fuchs) ODER Vorteil Tiergeist (Mungo)
@@ -15,5 +15,9 @@ $talent:Harmlose Gestalt$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]], [[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Gaben des Odun]]
+  - [[Gaben des Blutgeists]]
+- **Voraussetzungen:**
+  - Vorteil [[Tiergeist (Fuchs) ODER Vorteil Tiergeist (Mungo)]]
+- **Erlernen:** 20 EP

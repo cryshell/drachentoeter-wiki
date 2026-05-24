@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 2ae657b9-8035-41bd-a9cd-fe9913973889
+ID: d35b1856-438d-4fe0-9ecd-7258d4c87bb9
 Name: Schlangenstab
 title: Schlangenstab
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Veränderung|Veränderung]]"
-  - "[[Inhalt/Fertigkeiten/Wissen|Wissen]]"
+  - "[[Veränderung]]"
+  - "[[Wissen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der H’Szintgeweihten I
@@ -24,5 +24,9 @@ Dein Stab verwandelt sich in eine Smaragdnatter, die dich verteidigt. Die Natter
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Veränderung|Veränderung]], [[Inhalt/Fertigkeiten/Wissen|Wissen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Veränderung]]
+  - [[Wissen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der H’Szintgeweihten I]]
+- **Erlernen:** 20 EP

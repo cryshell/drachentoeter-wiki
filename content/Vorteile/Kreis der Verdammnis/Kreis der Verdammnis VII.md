@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 97b8ccfb-7c11-4c0b-b059-bc5ee84f3c89
+ID: 7e1d7311-6cce-4e3a-bd95-54408ffdf515
 Name: Kreis der Verdammnis VII
 title: Kreis der Verdammnis VII
 Kategorie: Kreis der Verdammnis
@@ -20,7 +20,8 @@ Der Vorteil hat folgende Auswirkungen:
 
 ---
 
-- **Kosten:** -200 EP
+- **Erlernen:** -200 EP
 - **Voraussetzungen:**
   - Vorteil [[Kreis der Verdammnis VI]]
-- **Siehe auch:** [[Seelenprüfung]]
+- **Siehe auch:**
+  - [[Seelenprüfung]]

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 7269547e-2149-447b-9ec1-0fc3fcad9bc5
+ID: be23bb18-158d-42d6-bdc9-1c7e686528c6
 Name: Das schwarze Fell durch das rote Blut
 title: Das schwarze Fell durch das rote Blut
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Guter Kampf|Guter Kampf]]"
+  - "[[Guter Kampf]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I
@@ -24,5 +24,8 @@ Dein vergossenes Blut legt sich wie eine schützende Haut um deinen Körper. Dei
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Guter Kampf|Guter Kampf]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Guter Kampf]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I]]
+- **Erlernen:** 20 EP

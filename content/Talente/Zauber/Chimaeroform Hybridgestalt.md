@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: a96c2eae-6044-47b6-9148-648605b2166f
+ID: f83e4ead-4013-4b9a-ab8f-0faeb1d04600
 Name: Chimaeroform Hybridgestalt
 title: Chimaeroform Hybridgestalt
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
+  - "[[Dämonisch]]"
+  - "[[Verwandlung]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I
@@ -23,5 +23,9 @@ Du erschaffst eine Chimäre aus zwei oder mehr Lebewesen. Eines dieser Lebewesen
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]], [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Dämonisch]]
+  - [[Verwandlung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 40 EP

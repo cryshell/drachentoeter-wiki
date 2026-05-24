@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 97e8ced9-37ea-486b-bb90-a864df15a2a2
+ID: 5e8551e9-eaa4-4619-8e4d-f7a8f7750593
 Name: Tradition der Tsageweihten III
 title: Tradition der Tsageweihten III
 Kategorie: Tradition (Karmal)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Zeremonie.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 8
   - Vorteil [[Tradition der Tsageweihten II]]
-- **Siehe auch:** [[Zeremonie (L)]]
+- **Siehe auch:**
+  - [[Zeremonie (L)]]

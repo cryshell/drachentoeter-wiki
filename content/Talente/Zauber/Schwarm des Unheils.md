@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 79544f89-c161-4139-8e92-fd898c91b3aa
+ID: d7c8a117-7370-4faf-a108-d8b05db9ffd9
 Name: Schwarm des Unheils
 title: Schwarm des Unheils
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Vampirische Kräfte|Vampirische Kräfte]]"
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
+  - "[[Vampirische Kräfte]]"
+  - "[[Verwandlung]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kinder der Nacht ODER Vorteil Tradition der Kinder der Finsternis
@@ -28,5 +28,9 @@ Fledermausschwarm (-4, nur Kdf; entspricht der Variante Rabenschwarm mit Radarsi
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Vampirische Kräfte|Vampirische Kräfte]], [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Vampirische Kräfte]]
+  - [[Verwandlung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kinder der Nacht ODER Vorteil Tradition der Kinder der Finsternis]]
+- **Erlernen:** 40 EP

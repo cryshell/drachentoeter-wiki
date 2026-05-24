@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: fe89351d-7df0-40b2-a809-9d6b804c2aa3
+ID: a23c1698-66e4-4579-94fa-363e17937bce
 Name: Nebelwand und Morgendunst
 title: Nebelwand und Morgendunst
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
-  - "[[Inhalt/Fertigkeiten/Wasser|Wasser]]"
+  - "[[Luft]]"
+  - "[[Umwelt]]"
+  - "[[Wasser]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Shakagra I
@@ -16,10 +16,10 @@ Du erzeugst in einem Radius von 16 Schritt eine Nebelwolke mit beliebiger, auch 
 
 - **Hohe Qualität:** Verdoppelt den Radius oder verursacht für 2 Stufen eine *miserable Sicht*.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Nebelbilder (-8; du kannst die Form der Nebelwolke stets verändern.)
-Geisternebel (-4; im Nebel bilden sich schreckliche Fratzen, er gilt als Schreckgestalt (Zauber-EW). Du bist von der Wirkung ausgenommen.)
-Begleiter (-4; die Wolke bewegt sich mit dir.)
-
+- **Modifikationen:**
+  - Nebelbilder (-8; du kannst die Form der Nebelwolke stets verändern.)
+  - Geisternebel (-4; im Nebel bilden sich schreckliche Fratzen, er gilt als Schreckgestalt (Zauber-EW). Du bist von der Wirkung ausgenommen.)
+  - Begleiter (-4; die Wolke bewegt sich mit dir.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** 8 Schritt
@@ -30,5 +30,10 @@ Begleiter (-4; die Wolke bewegt sich mit dir.)
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]], [[Inhalt/Fertigkeiten/Wasser|Wasser]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Luft]]
+  - [[Umwelt]]
+  - [[Wasser]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

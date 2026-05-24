@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 93ac30ae-bb60-4457-886a-7327fb46a62f
+ID: bacb7a13-78cf-4438-bad1-3c134684299b
 Name: Melodie der Versöhnung
 title: Melodie der Versöhnung
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]"
+  - "[[Einfluss]]"
+  - "[[Zaubermelodien]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zauberbarden I
@@ -24,5 +24,9 @@ Die Melodie schafft zwischen Zuhörern, die sich während der Wirkungsdauer in e
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Zaubermelodien]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zauberbarden I]]
+- **Erlernen:** 20 EP

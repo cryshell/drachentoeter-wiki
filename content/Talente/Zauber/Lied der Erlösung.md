@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: f406510e-c9ce-4044-ba2c-bd6fe5e177c0
+ID: f72b65bd-7953-485a-95ba-c66d1e07a337
 Name: Lied der Erlösung
 title: Lied der Erlösung
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]"
-  - "[[Inhalt/Fertigkeiten/Antimagie|Antimagie]]"
+  - "[[Zaubermelodien]]"
+  - "[[Antimagie]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zauberbarden I
@@ -18,5 +18,9 @@ $talent:Rhythmen der Reinigung$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]], [[Inhalt/Fertigkeiten/Antimagie|Antimagie]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Zaubermelodien]]
+  - [[Antimagie]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zauberbarden I]]
+- **Erlernen:** 20 EP

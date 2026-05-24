@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: fd5dc956-7d0e-4314-a664-e29c5a5bf276
+ID: 72ade10b-e0f7-4e71-a42f-a4fc037b5818
 Name: Hilferuf
 title: Hilferuf
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Geister rufen]]"
+  - "[[Verständigung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
@@ -15,9 +15,9 @@ Du rufst ein Feenwesen, einen Totengeist oder einige Mindergeister herbei. Welch
 
 - **Hohe Qualität:** Verbessert die anfängliche Einstellung um eine Stufe.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Art (-4; du kannst dir die Art des helfenden Geists aussuchen.)
-Namensruf (-4; du rufst ein dir bereits bekanntes Wesen herbei.)
-
+- **Modifikationen:**
+  - Art (-4; du kannst dir die Art des helfenden Geists aussuchen.)
+  - Namensruf (-4; du rufst ein dir bereits bekanntes Wesen herbei.)
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -28,5 +28,9 @@ Namensruf (-4; du rufst ein dir bereits bekanntes Wesen herbei.)
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Geister rufen]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+- **Erlernen:** 20 EP

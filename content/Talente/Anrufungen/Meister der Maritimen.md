@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 2dbe3125-6fc1-413f-ba36-eb7dc31fbec6
+ID: c250212c-0bb7-4941-819f-d57aa7711a6a
 Name: Meister der Maritimen
 title: Meister der Maritimen
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Charyptoroths|Anrufung Charyptoroths]]"
+  - "[[Anrufung Charyptoroths]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -22,5 +22,6 @@ Das Ziel befolgt einen charyptorothgefälligen Befehl.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Charyptoroths|Anrufung Charyptoroths]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Charyptoroths]]
+- **Erlernen:** 20 EP

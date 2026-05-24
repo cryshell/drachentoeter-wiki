@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 8386a98b-6673-437f-b412-e02f074078ea
+ID: cd3a09b8-1bc5-4d25-b423-7c7a29002d4b
 Name: Praios‘ Mahnung
 title: Praios‘ Mahnung
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Ordnung|Ordnung]]"
+  - "[[Ordnung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Praiosgeweihten I
@@ -23,5 +23,8 @@ Du nimmst dem Ziel eine von Praios‘ Gaben: Es ist für den Rest der Wirkungsda
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Ordnung|Ordnung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Ordnung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Praiosgeweihten I]]
+- **Erlernen:** 10 EP

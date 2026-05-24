@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 5eb70c2e-f18d-46b5-bb92-ab59f2b802d0
+ID: c376874e-e137-4400-9c46-84475a88f1de
 Name: Bindung der Schlange
 title: Bindung der Schlange
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schlangenbund|Schlangenbund]]"
+  - "[[Schlangenbund]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der H’Szintgeweihten I
@@ -23,5 +23,8 @@ Du stellst eine enge karmale Bindung zu deiner Schlange her. Das Tier kann ander
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schlangenbund|Schlangenbund]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Schlangenbund]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der H’Szintgeweihten I]]
+- **Erlernen:** 10 EP

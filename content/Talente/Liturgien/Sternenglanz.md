@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 56e297ca-9169-4fbb-b607-da705a5a293d
+ID: a10594b6-c907-44ad-99db-d114d084d0e7
 Name: Sternenglanz
 title: Sternenglanz
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/List|List]]"
+  - "[[List]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Phexgeweihten I
@@ -23,5 +23,8 @@ Du streust Mondstaub über das Objekt, das dadurch neu und wertvoll erscheint. D
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/List|List]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[List]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Phexgeweihten I]]
+- **Erlernen:** 20 EP

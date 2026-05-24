@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 1c928219-5f52-4240-9e01-74900da7ef9e
+ID: 476e82bd-2b3c-46a8-87bc-988a87c760e0
 Name: Tafelschliff
 title: Tafelschliff
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
-  - "[[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]"
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
+  - "[[Erz]]"
+  - "[[Kristallmagie]]"
+  - "[[Kraft]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I
@@ -25,5 +25,10 @@ Du versiehst einen gebundenen Kristall mit einem Tafelschliff. Wann immer du mit
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Erz|Erz]], [[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]], [[Inhalt/Fertigkeiten/Kraft|Kraft]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Erz]]
+  - [[Kristallmagie]]
+  - [[Kraft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 4568881f-c324-4e33-bd53-285e0f6afa9b
+ID: bd07aee9-ae05-4965-b419-711af0dd9862
 Name: Klang des Bebens
 title: Klang des Bebens
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]"
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
+  - "[[Zaubermelodien]]"
+  - "[[Erz]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zauberbarden I
@@ -25,5 +25,9 @@ Durch den Klang erbebt die Erde. Jedes Ziel in einem Radius von 4 Schritt um dic
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]], [[Inhalt/Fertigkeiten/Erz|Erz]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Zaubermelodien]]
+  - [[Erz]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zauberbarden I]]
+- **Erlernen:** 20 EP

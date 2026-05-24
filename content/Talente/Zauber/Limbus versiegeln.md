@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: bca80e8a-6132-4376-86f6-316954bfc701
+ID: aff54c2f-c459-4c8a-aa5a-8384d35ea327
 Name: Limbus versiegeln
 title: Limbus versiegeln
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Antimagie|Antimagie]]"
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
+  - "[[Antimagie]]"
+  - "[[Kraft]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
@@ -25,5 +25,9 @@ Du verhinderst in einem Radius von 16 Schritt sämtliche Wechsel zwischen dem Li
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Antimagie|Antimagie]], [[Inhalt/Fertigkeiten/Kraft|Kraft]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Antimagie]]
+  - [[Kraft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 10 EP

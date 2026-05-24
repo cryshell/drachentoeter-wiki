@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: c8acb389-f92a-417f-b989-24a02e97a630
+ID: 9401050d-668c-4a97-aa99-9a3c3acd23d6
 Name: Lied des Zögerns
 title: Lied des Zögerns
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]"
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Zaubermelodien]]"
+  - "[[Einfluss]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zauberbarden I
@@ -18,5 +18,9 @@ $talent:Rhythmen des Zögerns$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]], [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Zaubermelodien]]
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zauberbarden I]]
+- **Erlernen:** 20 EP

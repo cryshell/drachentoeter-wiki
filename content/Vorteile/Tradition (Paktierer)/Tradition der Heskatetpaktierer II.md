@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4d7532bc-cca8-4500-9cf3-6638d91fd9b3
+ID: 4a6aaf55-2c69-4ce1-800b-c4a97894a389
 Name: Tradition der Heskatetpaktierer II
 title: Tradition der Heskatetpaktierer II
 Kategorie: Tradition (Paktierer)
@@ -14,7 +14,7 @@ Paktierer werden durch erlittene Wunden eher noch gefährlicher. Der Wundabzug s
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 6
   - Vorteil [[Tradition der Heskatetpaktierer I]]

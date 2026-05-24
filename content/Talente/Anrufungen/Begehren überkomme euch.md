@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: eacea1b4-c3c0-460d-93b4-183e5d22fbaf
+ID: b90deb1c-e73a-4ae3-9339-fb62fcce89f3
 Name: "Begehren überkomme euch!"
 title: "Begehren überkomme euch!"
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Aphasmayras|Anrufung Aphasmayras]]"
+  - "[[Anrufung Aphasmayras]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Verbessert das Verhältnis gegenüber jedem in einem Radius von 4 Schritt, dem e
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Aphasmayras|Anrufung Aphasmayras]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Aphasmayras]]
+- **Erlernen:** 20 EP

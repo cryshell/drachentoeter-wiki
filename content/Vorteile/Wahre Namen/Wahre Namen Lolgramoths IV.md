@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 26dd1d03-c010-4bd8-851e-476162581a2f
+ID: 628b07b1-eb3c-48cd-b61e-e9afcbc62e95
 Name: Wahre Namen Lolgramoths IV
 title: Wahre Namen Lolgramoths IV
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Kosten: 20
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - MeisterAttribut [[Klugheit|KL]] 10

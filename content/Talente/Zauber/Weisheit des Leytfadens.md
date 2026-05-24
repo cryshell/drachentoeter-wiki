@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 85155dd5-f437-4d3f-8b1f-fafdb188a58c
+ID: 07108c8a-e913-4713-bc5d-1ae644c59922
 Name: Weisheit des Leytfadens
 title: Weisheit des Leytfadens
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
+  - "[[Zaubertricks]]"
 Kosten: 5
 ---
 Eine Stimme zitiert eine dir bekannte Textpassage. Dabei handelt es sich um eine *Illusion* (Gehör).
@@ -20,5 +20,6 @@ Eine Stimme zitiert eine dir bekannte Textpassage. Dabei handelt es sich um eine
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
-- **Kosten:** 5 EP
+- **Fertigkeiten:**
+  - [[Zaubertricks]]
+- **Erlernen:** 5 EP

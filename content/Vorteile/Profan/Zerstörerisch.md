@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 37f86170-6102-477b-a1c9-70cf8671004b
+ID: ce46f462-a246-4aa0-ad57-730395919e9d
 Name: Zerstörerisch
 title: Zerstörerisch
 Kategorie: Profan
@@ -15,7 +15,8 @@ Kosten: 40
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Körperkraft|KK]] 6
-- **Siehe auch:** [[Hammerschlag]]
+- **Siehe auch:**
+  - [[Hammerschlag]]

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 27eb006e-0b8a-4f97-a204-ae15bf33a7e8
+ID: 5ee85935-0f2c-4b1b-b5d0-6b10c34a111d
 Name: Kochen
 title: Kochen
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Feinhandwerk|Feinhandwerk]]"
+  - "[[Feinhandwerk]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Mit Kochen stellst du je nach Ausgangsmaterial nahrhafte und schmackhafte Nahrun
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Feinhandwerk|Feinhandwerk]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Feinhandwerk]]
+- **Erlernen:** 10 EP

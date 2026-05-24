@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 99bf753e-a400-4f6f-8f45-4049e0e68513
+ID: f1b6afe7-90d4-478b-a487-2a90bdda7e9e
 Name: Magnetismus
 title: Magnetismus
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
-  - "[[Inhalt/Fertigkeiten/Ringrituale|Ringrituale]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Erz]]"
+  - "[[Ringrituale]]"
+  - "[[Umwelt]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Geoden I
@@ -25,5 +25,10 @@ Der Erdboden wirkt in einem Radius von 8 Schritt wie ein starker Magnet. Jeder, 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Erz|Erz]], [[Inhalt/Fertigkeiten/Ringrituale|Ringrituale]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Erz]]
+  - [[Ringrituale]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Geoden I]]
+- **Erlernen:** 40 EP

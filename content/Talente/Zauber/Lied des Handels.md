@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 44a62a76-e535-4f2a-ab32-b1ab20985fe6
+ID: bc9d0141-c75a-4cd4-ab24-ba622a117674
 Name: Lied des Handels
 title: Lied des Handels
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]"
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Zaubermelodien]]"
+  - "[[Einfluss]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zauberbarden I
@@ -18,5 +18,9 @@ $talent:Rhythmen des Handels$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]], [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Zaubermelodien]]
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zauberbarden I]]
+- **Erlernen:** 20 EP

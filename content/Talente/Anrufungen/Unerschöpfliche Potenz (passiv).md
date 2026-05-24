@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 4b5ca306-d38c-4af3-9930-1a6d418d5bb5
+ID: 5587c5f5-adb0-4b41-bb6b-dab0d7f3faf0
 Name: Unerschöpfliche Potenz (passiv)
 title: Unerschöpfliche Potenz (passiv)
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Belkelels|Anrufung Belkelels]]"
+  - "[[Anrufung Belkelels]]"
 Kosten: 20
 ---
 Du kannst dem Liebesspiel ohne Pause nachgehen und entsprechende Geschlechtsmerkmale sind vergrößert.
@@ -14,5 +14,6 @@ Du kannst dem Liebesspiel ohne Pause nachgehen und entsprechende Geschlechtsmerk
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Belkelels|Anrufung Belkelels]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Belkelels]]
+- **Erlernen:** 20 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 27f94e73-b74f-4009-9b2b-b9506d59604b
+ID: 37546ee2-c209-46c8-8723-c2d406f0729b
 Name: Reflectimago Spiegelschein
 title: Reflectimago Spiegelschein
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Illusion|Illusion]]"
+  - "[[Illusion]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I
@@ -14,9 +14,9 @@ Durch eine *Illusion* (Sicht) kannst du während der Wirkungsdauer bis zu 4 Obje
 
 - **Hohe Qualität:** Die Zahl der Objekte steigt um 2.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Spiegelsaal (-4; du kannst die Spiegel in der Luft entstehen lassen.)
-Optik-Trick (-4; du kannst die Formen und Brennweiten der Spiegel verändern.)
-
+- **Modifikationen:**
+  - Spiegelsaal (-4; du kannst die Spiegel in der Luft entstehen lassen.)
+  - Optik-Trick (-4; du kannst die Formen und Brennweiten der Spiegel verändern.)
 - **Varianten:** Handspiegel (-4, Wirkungsdauer 1 Stunde, 1 AsP; ein Teil deines Körpers wird verspiegelt.)
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** selbst
@@ -28,5 +28,8 @@ Optik-Trick (-4; du kannst die Formen und Brennweiten der Spiegel verändern.)
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Illusion|Illusion]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Illusion]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I]]
+- **Erlernen:** 10 EP

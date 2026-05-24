@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4f113e8d-9261-4084-ad0b-055ebd064498
+ID: 8dc4ef7b-b6dc-4b2e-88d5-02b0e78338e8
 Name: Sprachkenntnis (Tulamidya)
 title: Sprachkenntnis (Tulamidya)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Tulamidya gehört zur Tulamidya-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

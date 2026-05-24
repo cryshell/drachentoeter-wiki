@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: e5838601-8434-4052-b2a0-eaf49541de86
+ID: 5cf732e1-7b4a-4626-be08-fb5fc5c4778a
 Name: Magischer Raub
 title: Magischer Raub
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Kraft]]"
+  - "[[Verständigung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I
@@ -24,5 +24,9 @@ Du kannst bei deinem nächsten Zauber teilweise oder ganz auf die AsP des Ziels 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Kraft|Kraft]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Kraft]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: fc4331f9-7fe3-451c-a340-5970f07e0469
+ID: b65613e1-cb9d-459e-97ac-70c0bdafcf74
 Name: Geister rufen
 title: Geister rufen
 Kategorie: Zauberfertigkeiten

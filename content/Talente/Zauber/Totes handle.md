@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: e7eb0f1c-3d5d-46c7-8937-af965b0ef7cb
+ID: d85fcbab-2b03-4e4a-8407-086fddd51680
 Name: "Totes handle!"
 title: "Totes handle!"
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
+  - "[[Dämonisch]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I
@@ -22,5 +22,8 @@ Du erschaffst aus einer Leiche einen untoten Diener. Der Untote hat sich nach 1 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Dämonisch]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 40 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 4a0103ef-8958-4528-a037-12b306d28ad7
+ID: a9030063-cf1f-4655-9ca4-3967439efecc
 Name: Philosophie
 title: Philosophie
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Bildung|Bildung]]"
+  - "[[Bildung]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Unter Philosophie fallen Logik, theoretische Rhetorik, Ethik, metaphysikalische 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Bildung|Bildung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Bildung]]
+- **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d1586dea-15ce-4512-9743-1cd399623e10
+ID: ce7d40e3-4820-4a05-9aa4-8bb0c9f16ba9
 Name: Schriftkenntnis (Altes Alaani)
 title: Schriftkenntnis (Altes Alaani)
 Kategorie: Schriftkenntnis
@@ -11,4 +11,4 @@ Schriften umfassen sowohl die Fähigkeit die entsprechenden Zeichen lesen als au
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

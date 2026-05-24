@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: ad3b3276-df59-4cb8-97fd-ba6ff31a4c10
+ID: 101a4e5c-6e94-4a44-9ec2-1b272f912ed1
 Name: Geschwindigkeit
 title: Geschwindigkeit
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Lolgramoths|Anrufung Lolgramoths]]"
+  - "[[Anrufung Lolgramoths]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -13,7 +13,8 @@ Die GS deines Zieles steigt um 4 Punkte, Verteidigungen sind um +2 erleichtert u
 
 - **Hohe Qualität:** Die GS steigt um weitere 2 Punkte.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Kampfgespür (-4, selbst; du wirst außerdem durch Hinterhalte nicht *handlungsunfähig*. *Reaktive* Anrufung (deine Wahrnehmungs-Probe gegen einen Hinterhalt ist fehlgeschlagen))
+- **Modifikationen:**
+  - Kampfgespür (-4, selbst; du wirst außerdem durch Hinterhalte nicht *handlungsunfähig*. *Reaktive* Anrufung (deine Wahrnehmungs-Probe gegen einen Hinterhalt ist fehlgeschlagen))
 - **Vorbereitungszeit:** 0 Aktionen
 - **Ziel:** Humanoid
 - **Reichweite:** 4 Schritt
@@ -24,5 +25,6 @@ Die GS deines Zieles steigt um 4 Punkte, Verteidigungen sind um +2 erleichtert u
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Lolgramoths|Anrufung Lolgramoths]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Lolgramoths]]
+- **Erlernen:** 20 EP

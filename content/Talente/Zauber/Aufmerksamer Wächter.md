@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: d05c76ed-3254-424d-93b7-a13fd1c94e15
+ID: 564918c5-6050-4658-9776-490bc99fbab6
 Name: Aufmerksamer Wächter
 title: Aufmerksamer Wächter
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Illusion|Illusion]]"
-  - "[[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]]"
+  - "[[Hellsicht]]"
+  - "[[Illusion]]"
+  - "[[Geister der Stärkung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Waldmenschen) I
@@ -25,5 +25,10 @@ Du malst, schnitzt oder formst das Abbild eines Tieres. Dieses Tier wird mit sei
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Illusion|Illusion]], [[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Hellsicht]]
+  - [[Illusion]]
+  - [[Geister der Stärkung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+- **Erlernen:** 10 EP

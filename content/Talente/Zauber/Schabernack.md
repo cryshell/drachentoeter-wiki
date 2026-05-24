@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 3351cc1b-656b-4974-8ca1-38a06e35a265
+ID: 7923d0a5-e71f-4887-aebc-eb6ab920e6b1
 Name: Schabernack
 title: Schabernack
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Einfluss]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schelme I
@@ -23,5 +23,8 @@ Deinem Opfer geschieht ein kleines Missgeschick – es stolpert, bekommt im Gesp
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schelme I]]
+- **Erlernen:** 10 EP

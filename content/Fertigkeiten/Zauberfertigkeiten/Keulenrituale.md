@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 985dc023-93c4-425b-818a-4f58084f6cf1
+ID: 76d16260-837c-4662-830e-e0b090521855
 Name: Keulenrituale
 title: Keulenrituale
 Kategorie: Zauberfertigkeiten

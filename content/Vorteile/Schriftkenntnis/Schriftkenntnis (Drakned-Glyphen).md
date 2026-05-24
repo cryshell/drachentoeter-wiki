@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4ec6ffca-a609-43c2-9ee1-cfeb193d43b1
+ID: 0feb0b23-4da7-4fa1-9c6f-7631a1ea3ad8
 Name: Schriftkenntnis (Drakned-Glyphen)
 title: Schriftkenntnis (Drakned-Glyphen)
 Kategorie: Schriftkenntnis
@@ -11,4 +11,4 @@ Schriften umfassen sowohl die Fähigkeit die entsprechenden Zeichen lesen als au
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

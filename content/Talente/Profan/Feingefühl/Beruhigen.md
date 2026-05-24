@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: f5f74e7a-8d7f-4f22-ae72-8b01d5f0568f
+ID: c13b4fb4-bc27-4a9e-8d95-936690291bbe
 Name: Beruhigen
 title: Beruhigen
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Feingefühl|Feingefühl]]"
+  - "[[Feingefühl]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Beruhigen erlaubt es dir, emotional aufgewühlte Personen zu trösten oder zu be
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Feingefühl|Feingefühl]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Feingefühl]]
+- **Erlernen:** 20 EP

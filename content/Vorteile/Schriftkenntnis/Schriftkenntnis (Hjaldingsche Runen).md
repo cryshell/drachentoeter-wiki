@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 121f3559-3065-4cb0-8a62-06f09ed82789
+ID: 36823121-df6b-42d6-857f-7029237f2b69
 Name: Schriftkenntnis (Hjaldingsche Runen)
 title: Schriftkenntnis (Hjaldingsche Runen)
 Kategorie: Schriftkenntnis
@@ -11,4 +11,4 @@ Schriften umfassen sowohl die Fähigkeit die entsprechenden Zeichen lesen als au
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

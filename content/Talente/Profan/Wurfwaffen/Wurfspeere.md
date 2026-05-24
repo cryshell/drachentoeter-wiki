@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 07b4511b-8d31-47aa-9084-daad06bf79f3
+ID: a5d1e2a7-96a8-4704-8e0b-107f0dd6a24a
 Name: Wurfspeere
 title: Wurfspeere
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wurfwaffen|Wurfwaffen]]"
+  - "[[Wurfwaffen]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Mit dem Talent Wurfspeere können die meisten Speere zielsicher auf mittlere Dis
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wurfwaffen|Wurfwaffen]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Wurfwaffen]]
+- **Erlernen:** 40 EP

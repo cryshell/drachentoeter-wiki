@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a0271659-6d9d-411f-a18d-2959e183e806
+ID: a354e91d-561d-46f3-a737-1648f16f554b
 Name: Schriftkenntnis (Chuchas)
 title: Schriftkenntnis (Chuchas)
 Kategorie: Schriftkenntnis
@@ -11,4 +11,4 @@ Schriften umfassen sowohl die Fähigkeit die entsprechenden Zeichen lesen als au
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

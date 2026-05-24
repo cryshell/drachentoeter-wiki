@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 275b13cf-ba08-410c-8b0a-4793b92fecf2
+ID: 75b02142-c24f-47c4-beba-6cbfbb832302
 Name: Tradition der Zaubertänzer I
 title: Tradition der Zaubertänzer I
 Kategorie: Tradition (Magisch)
@@ -16,7 +16,7 @@ Die Bedingung Tanz kann nicht ignoriert werden.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Gewandheit|GE]] 4
   - Vorteil [[Zauberer I]]

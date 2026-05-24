@@ -1,18 +1,19 @@
 ---
 Entitätstyp: Talent
-ID: 9ef520fe-0d0d-408e-9e80-9de69ff4b77c
+ID: f96cb49f-e457-4649-abd9-cb5778234747
 Name: Zwist und Hader
 title: Zwist und Hader
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Lolgramoths|Anrufung Lolgramoths]]"
+  - "[[Anrufung Lolgramoths]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
 Das Ziel erhält die Schwäche „Streitsucht“.
 
 - **Probenschwierigkeit:** MU
-- **Modifikationen:** Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, Kosten 4 GuP, davon 1 gGuP)
+- **Modifikationen:**
+  - Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, Kosten 4 GuP, davon 1 gGuP)
 - **Vorbereitungszeit:** 4 Minuten
 - **Ziel:** Humanoid
 - **Reichweite:** 16 Schritt
@@ -23,5 +24,6 @@ Das Ziel erhält die Schwäche „Streitsucht“.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Lolgramoths|Anrufung Lolgramoths]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Anrufung Lolgramoths]]
+- **Erlernen:** 10 EP

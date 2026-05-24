@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: edf14c48-27a7-4932-8a5a-fb9e238a1b92
+ID: b7aefd39-3eb6-4666-82ee-0c1c5c57db3d
 Name: Weisheit der Schrift
 title: Weisheit der Schrift
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
-  - "[[Inhalt/Fertigkeiten/Zibiljarituale|Zibiljarituale]]"
+  - "[[Eigenschaften]]"
+  - "[[Verständigung]]"
+  - "[[Zibiljarituale]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zibilja I
@@ -25,5 +25,10 @@ Du singst abends aus dem Seffer Manich vor. Damit gibst du deiner Sippe Zuversic
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]], [[Inhalt/Fertigkeiten/Zibiljarituale|Zibiljarituale]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Verständigung]]
+  - [[Zibiljarituale]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zibilja I]]
+- **Erlernen:** 20 EP

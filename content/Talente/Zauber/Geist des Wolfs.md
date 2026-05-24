@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: b5fd2aa9-9fec-467d-8d63-6863657d4c61
+ID: a1d28eae-283c-4c40-b344-bd36442ccc15
 Name: Geist des Wolfs
 title: Geist des Wolfs
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]]"
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
+  - "[[Geister der Stärkung]]"
+  - "[[Verwandlung]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
@@ -26,5 +26,9 @@ Du verwandelst dich in ein an Land lebendes Tier deiner Wahl. Du behältst deine
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]], [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Geister der Stärkung]]
+  - [[Verwandlung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+- **Erlernen:** 40 EP

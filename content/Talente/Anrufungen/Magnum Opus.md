@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 6dfe4768-6d18-4698-bb77-7d29ce78a0f0
+ID: 0d5a1c56-5924-40ba-b5d2-0b348f357af8
 Name: Magnum Opus
 title: Magnum Opus
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonischer Ritus|Dämonischer Ritus]]"
+  - "[[Dämonischer Ritus]]"
 Kosten: 60
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Nur mächtige Paktierer erhalten dieses Paktgeschenk. Du erhältst das Wissen, e
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonischer Ritus|Dämonischer Ritus]]
-- **Kosten:** 60 EP
+- **Fertigkeiten:**
+  - [[Dämonischer Ritus]]
+- **Erlernen:** 60 EP

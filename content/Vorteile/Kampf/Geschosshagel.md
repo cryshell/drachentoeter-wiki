@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 51329926-44eb-4119-85d4-e63a430aafd1
+ID: 3031b7ab-0860-413b-a5da-ede3b16b5673
 Name: Geschosshagel
 title: Geschosshagel
 Kategorie: Kampf
@@ -16,8 +16,9 @@ Du kannst in einer Aktion Angriff zwei Fernkampfangriffe gegen unterschiedliche 
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - Attribut [[Fingerfertigkeit|FF]] 10
   - Vorteil [[Schnellziehen]]
-- **Siehe auch:** [[Fernkampf]]
+- **Siehe auch:**
+  - [[Fernkampf]]

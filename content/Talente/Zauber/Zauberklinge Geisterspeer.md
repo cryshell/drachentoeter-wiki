@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 96b469b6-94c7-46a7-b4f1-dfea33583827
+ID: 558ca725-f575-4655-98c2-29c6757f958a
 Name: Zauberklinge Geisterspeer
 title: Zauberklinge Geisterspeer
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
+  - "[[Kraft]]"
+  - "[[Objekt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I
@@ -14,11 +14,11 @@ Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfe
 Die verzauberte Waffe gilt während der Wirkungsdauer als magisch.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Schnellverzauberung (-4, 2 Aktionen, Wirkungsdauer 1 Stunde)
-Personalisierung (-4; der Zauber wirkt nur, solange der beim Zaubern gewählte Träger die Waffe führt.)
-Namenssigille (-8; erfordert den wahren Namen eines Dämons. Wann immer der Dämon Wunden durch diese Waffe erleidet, erleidet er eine zusätzliche Wunde.)
-Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, 16 AsP, davon 2 gAsP)
-
+- **Modifikationen:**
+  - Schnellverzauberung (-4, 2 Aktionen, Wirkungsdauer 1 Stunde)
+  - Personalisierung (-4; der Zauber wirkt nur, solange der beim Zaubern gewählte Träger die Waffe führt.)
+  - Namenssigille (-8; erfordert den wahren Namen eines Dämons. Wann immer der Dämon Wunden durch diese Waffe erleidet, erleidet er eine zusätzliche Wunde.)
+  - Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, 16 AsP, davon 2 gAsP)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Objekt
 - **Reichweite:** Berührung
@@ -29,5 +29,9 @@ Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, 16 AsP, davon 2 gAsP)
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Kraft|Kraft]], [[Inhalt/Fertigkeiten/Objekt|Objekt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Kraft]]
+  - [[Objekt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

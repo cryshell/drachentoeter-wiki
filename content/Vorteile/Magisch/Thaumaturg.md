@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: fa6afcc9-4ce4-41da-9384-d81e6a608924
+ID: 0a064f4f-e735-4264-bc6c-231c8e37a45a
 Name: Thaumaturg
 title: Thaumaturg
 Kategorie: Magisch
@@ -22,8 +22,13 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
   - Attribut [[Fingerfertigkeit|FF]] 10
-- **Siehe auch:** [[Artefakte - Herstellung]], [[Beschwörungen - Beseelung]], [[Kraftlinienmagie]], [[Meister der Wünsche]], [[Meister der Seelenlosen]]
+- **Siehe auch:**
+  - [[Artefakte - Herstellung]]
+  - [[Beschwörungen - Beseelung]]
+  - [[Kraftlinienmagie]]
+  - [[Meister der Wünsche]]
+  - [[Meister der Seelenlosen]]

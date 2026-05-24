@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 83038b02-6b73-48b1-bc4d-ad07145b7ae8
+ID: 2032e2c5-3e9c-4987-8000-c810c8ec65a7
 Name: Travinians Segen des Lagerfeuers
 title: Travinians Segen des Lagerfeuers
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Sichere Heimkehr|Sichere Heimkehr]]"
+  - "[[Sichere Heimkehr]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Traviageweihten I
@@ -25,5 +25,8 @@ Du segnest ein Lagerfeuer. Unheilige Wesenheiten mit einer maximalen Beschwörun
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Sichere Heimkehr|Sichere Heimkehr]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Sichere Heimkehr]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Traviageweihten I]]
+- **Erlernen:** 20 EP

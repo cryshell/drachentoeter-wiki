@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 08e2e47e-9ecd-46d7-b705-66e196c7ae97
+ID: 415e8263-8c0f-447a-926b-d21e7241d95d
 Name: Bindung des Schuppenbeutels
 title: Bindung des Schuppenbeutels
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
+  - "[[Kristallmagie]]"
+  - "[[Objekt]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I
@@ -24,5 +24,9 @@ Du stellst eine enge magische Bindung zu deinem Schuppenbeutels her, welche die 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]], [[Inhalt/Fertigkeiten/Objekt|Objekt]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Kristallmagie]]
+  - [[Objekt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I]]
+- **Erlernen:** 10 EP

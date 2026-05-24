@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0a4b8295-5967-4ea5-b294-3a1bd5566703
+ID: cd7ee53f-27e1-4e43-bbe9-ca518c0e61ec
 Name: Tradition der Borongeweihten III
 title: Tradition der Borongeweihten III
 Kategorie: Tradition (Karmal)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Zeremonie.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 8
   - Vorteil [[Tradition der Borongeweihten II]]
-- **Siehe auch:** [[Zeremonie (L)]]
+- **Siehe auch:**
+  - [[Zeremonie (L)]]

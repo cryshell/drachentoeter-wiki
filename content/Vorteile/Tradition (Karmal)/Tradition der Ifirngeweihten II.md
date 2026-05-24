@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d17fb595-8251-4f15-aa7a-9f2c14a8a08f
+ID: 6beeac56-ccff-4b54-bf86-52c40b2432e5
 Name: Tradition der Ifirngeweihten II
 title: Tradition der Ifirngeweihten II
 Kategorie: Tradition (Karmal)
@@ -14,7 +14,7 @@ Ifirngeweihte durchstreifen die Lande und helfen denen, die in Not geraten sind.
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 6
   - Vorteil [[Tradition der Ifirngeweihten I]]

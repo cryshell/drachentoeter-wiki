@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6d6221c5-1be3-4f27-948e-3556635c9a8d
+ID: 7f53707a-47e7-4f44-8ae5-cb27946e59ee
 Name: Untotenjäger
 title: Untotenjäger
 Kategorie: Kampf
@@ -11,4 +11,4 @@ Du kannst bei einem Schadenswurf gegen Untote einmal pro Zug +1W6 TP zufügen.
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP

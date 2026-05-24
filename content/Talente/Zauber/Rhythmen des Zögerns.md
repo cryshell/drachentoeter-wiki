@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 7ef37e53-f651-490c-965b-1f0d4f05bc6d
+ID: f2c50848-b419-43ec-85e1-ce831b6da531
 Name: Rhythmen des Zögerns
 title: Rhythmen des Zögerns
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Trommelrituale|Trommelrituale]]"
+  - "[[Einfluss]]"
+  - "[[Trommelrituale]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Derwische I
@@ -24,5 +24,9 @@ Du erscheinst jedem in einem Radius von 4 Schritt als Schreckgestalt (Zauber-EW)
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Trommelrituale|Trommelrituale]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Trommelrituale]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Derwische I]]
+- **Erlernen:** 20 EP

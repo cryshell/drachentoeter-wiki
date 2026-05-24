@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 7cb9fa0f-675c-428a-8d29-d7621c16f87c
+ID: 1466edfa-3e91-42d3-b7d4-3f24e31d2faf
 Name: Bindung des Iama
 title: Bindung des Iama
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]]"
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
+  - "[[Elfenlieder]]"
+  - "[[Kraft]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Elfen I ODER Vorteil Tradition der Shakagra I
@@ -24,5 +24,9 @@ Du stellst eine enge magische Bindung zu deinem Iama her, welche die Voraussetzu
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]], [[Inhalt/Fertigkeiten/Kraft|Kraft]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Elfenlieder]]
+  - [[Kraft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 10 EP

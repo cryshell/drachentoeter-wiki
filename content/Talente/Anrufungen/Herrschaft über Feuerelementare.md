@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: f03d9094-6d0f-419f-8bed-7dd705ab163e
+ID: 3f8fdd36-802b-446a-93d3-648b5ff8ae03
 Name: Herrschaft über Feuerelementare
 title: Herrschaft über Feuerelementare
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Agrimoths|Anrufung Agrimoths]]"
+  - "[[Anrufung Agrimoths]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -22,5 +22,6 @@ Während der Wirkungsdauer kannst du einmal einen Dienst von einem Feuerelementa
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Agrimoths|Anrufung Agrimoths]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Agrimoths]]
+- **Erlernen:** 20 EP

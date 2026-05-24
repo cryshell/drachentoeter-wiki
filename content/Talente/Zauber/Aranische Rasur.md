@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 5499fe73-0da8-4f67-9051-cc864da3005e
+ID: 405f9619-031f-4951-89ab-33d740c66cd7
 Name: Aranische Rasur
 title: Aranische Rasur
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
+  - "[[Zaubertricks]]"
 Kosten: 5
 ---
 Dir fallen alle Haare aus. Du kannst bestimmte Körperregionen, etwa das Haupthaar von der Wirkung ausnehmen.
@@ -20,5 +20,6 @@ Dir fallen alle Haare aus. Du kannst bestimmte Körperregionen, etwa das Hauptha
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
-- **Kosten:** 5 EP
+- **Fertigkeiten:**
+  - [[Zaubertricks]]
+- **Erlernen:** 5 EP

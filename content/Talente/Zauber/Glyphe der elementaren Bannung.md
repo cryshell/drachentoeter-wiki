@@ -1,17 +1,17 @@
 ---
 Entitätstyp: Talent
-ID: 15be851f-f032-4f9d-9ac6-ce187c18b4ee
+ID: 89e7cf10-1997-4e64-9647-80bbd207b993
 Name: Glyphe der elementaren Bannung
 title: Glyphe der elementaren Bannung
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eis|Eis]]"
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
-  - "[[Inhalt/Fertigkeiten/Feuer|Feuer]]"
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Wasser|Wasser]]"
-  - "[[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]"
+  - "[[Eis]]"
+  - "[[Erz]]"
+  - "[[Feuer]]"
+  - "[[Humus]]"
+  - "[[Luft]]"
+  - "[[Wasser]]"
+  - "[[Zauberzeichen]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Zibilja I
@@ -20,7 +20,8 @@ Das Zeichen wird in einem Durchmesser von 8 Fingern auf einem maximal schrankgro
 
 - **Hohe Qualität:** Je zwei Stufen erhöhen die Resistenz-Stufe um 1.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Zone (-4, 16 AsP; kann auf einer beliebigen Fläche angebracht werden und wirkt auf alle Objekte einem Radius von 2 Schritt. *Ortsgebundenes* Zeichen.)
+- **Modifikationen:**
+  - Zone (-4, 16 AsP; kann auf einer beliebigen Fläche angebracht werden und wirkt auf alle Objekte einem Radius von 2 Schritt. *Ortsgebundenes* Zeichen.)
 - **Vorbereitungszeit:** 4 Minuten
 - **Ziel:** passendes Zauberzeichen
 - **Reichweite:** Berührung
@@ -31,5 +32,14 @@ Das Zeichen wird in einem Durchmesser von 8 Fingern auf einem maximal schrankgro
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eis|Eis]], [[Inhalt/Fertigkeiten/Erz|Erz]], [[Inhalt/Fertigkeiten/Feuer|Feuer]], [[Inhalt/Fertigkeiten/Humus|Humus]], [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Wasser|Wasser]], [[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Eis]]
+  - [[Erz]]
+  - [[Feuer]]
+  - [[Humus]]
+  - [[Luft]]
+  - [[Wasser]]
+  - [[Zauberzeichen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Zibilja I]]
+- **Erlernen:** 10 EP

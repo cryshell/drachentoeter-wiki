@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: d2a3f33c-e794-47d8-9834-39390bde10f8
+ID: 8bbe9bf9-98e3-41e3-80ee-b6f6bfe59c66
 Name: Reisesegen
 title: Reisesegen
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Sichere Heimkehr|Sichere Heimkehr]]"
-  - "[[Inhalt/Fertigkeiten/Stiller Wanderer|Stiller Wanderer]]"
+  - "[[Sichere Heimkehr]]"
+  - "[[Stiller Wanderer]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Avesgeweihten I ODER Vorteil Tradition der Traviageweihten I
@@ -25,5 +25,9 @@ Der Segen Travias begleitet den Reisenden und warnt ihn vor Arglist und Tücke. 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Sichere Heimkehr|Sichere Heimkehr]], [[Inhalt/Fertigkeiten/Stiller Wanderer|Stiller Wanderer]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Sichere Heimkehr]]
+  - [[Stiller Wanderer]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Traviageweihten I]]
+- **Erlernen:** 20 EP

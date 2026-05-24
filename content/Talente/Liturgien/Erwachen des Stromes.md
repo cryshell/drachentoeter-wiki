@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: ca457c22-0798-466d-b382-6d3089bd43d2
+ID: 9fdb9a9e-3bfa-4867-9498-d917c74cba70
 Name: Erwachen des Stromes
 title: Erwachen des Stromes
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Flüsse und Quellen|Flüsse und Quellen]]"
+  - "[[Flüsse und Quellen]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Efferdgeweihten I
@@ -14,7 +14,8 @@ Innerhalb weniger Minuten schwillt der Fluss an und führt so viel Wasser wie zu
 
 - **Hohe Qualität:** Der Fluss führt um ein/zwei/drei/vier Viertel mehr Wasser als zur stärksten Regenzeit.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Flutwelle (-8, 8 Aktionen, Wirkungsdauer augenblicklich; das Wasser erscheint in einer plötzlichen, zerstörerischen Flutwelle.)
+- **Modifikationen:**
+  - Flutwelle (-8, 8 Aktionen, Wirkungsdauer augenblicklich; das Wasser erscheint in einer plötzlichen, zerstörerischen Flutwelle.)
 - **Vorbereitungszeit:** 4 Minuten
 - **Ziel:** Zone
 - **Reichweite:** 32 Schritt
@@ -25,5 +26,8 @@ Innerhalb weniger Minuten schwillt der Fluss an und führt so viel Wasser wie zu
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Flüsse und Quellen|Flüsse und Quellen]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Flüsse und Quellen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Efferdgeweihten I]]
+- **Erlernen:** 10 EP

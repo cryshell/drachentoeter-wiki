@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 581d8067-9be2-4872-a732-fddeaeb4a749
+ID: 29e1ddbd-06ac-4a61-87b5-e49c0ad5f4be
 Name: Tradition der Kristallomanten III
 title: Tradition der Kristallomanten III
 Kategorie: Tradition (Magisch)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Zeit lassen.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 8
   - Vorteil [[Tradition der Kristallomanten II]]
-- **Siehe auch:** [[Zeit lassen]]
+- **Siehe auch:**
+  - [[Zeit lassen]]

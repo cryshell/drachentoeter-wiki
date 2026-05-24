@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 93d09387-ec67-4b8a-acd0-dbd0ff809679
+ID: 31ea935a-3f78-44c5-b2c4-860e8a6e6ee2
 Name: Rauschrune
 title: Rauschrune
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
-  - "[[Inhalt/Fertigkeiten/Zauberrunen|Zauberrunen]]"
+  - "[[Eigenschaften]]"
+  - "[[Objekt]]"
+  - "[[Zauberrunen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Runenmagier
@@ -26,5 +26,10 @@ Die Rune wird in einem Durchmesser von 16 Fingern auf einem Wesen oder Objekt an
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Objekt|Objekt]], [[Inhalt/Fertigkeiten/Zauberrunen|Zauberrunen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Objekt]]
+  - [[Zauberrunen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Runenmagier]]
+- **Erlernen:** 20 EP

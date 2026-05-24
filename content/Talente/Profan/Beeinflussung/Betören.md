@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: b38e9236-20c7-4e52-bbce-a270aae56d8a
+ID: cd018049-0681-4eff-8573-2c8deab4e926
 Name: Betören
 title: Betören
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Beeinflussung|Beeinflussung]]"
+  - "[[Beeinflussung]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Beim Betören nutzt du deine persönliche Ausstrahlung, um zu bekommen, was du w
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Beeinflussung|Beeinflussung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Beeinflussung]]
+- **Erlernen:** 20 EP

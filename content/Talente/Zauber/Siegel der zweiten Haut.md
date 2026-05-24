@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: da79f4e6-9ce6-45cd-9efb-1e42531cad9a
+ID: 0c2e24f2-3adf-4381-8e62-b2fb24c183e0
 Name: Siegel der zweiten Haut
 title: Siegel der zweiten Haut
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
-  - "[[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]"
+  - "[[Kraft]]"
+  - "[[Objekt]]"
+  - "[[Zauberzeichen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Gildenmagier I
@@ -15,7 +15,8 @@ Voraussetzungen: Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition 
 Das Zeichen in einem Durchmesser von 16 Fingern wird auf einem maximal schrankgroßen Objekt angebracht. Seine Härte wird verdoppelt. 
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Rüstung (-8; der RS einer Rüstung steigt um 1.)
+- **Modifikationen:**
+  - Rüstung (-8; der RS einer Rüstung steigt um 1.)
 - **Vorbereitungszeit:** 4 Minuten
 - **Ziel:** passendes Zauberzeichen
 - **Reichweite:** Berührung
@@ -27,5 +28,10 @@ Das Zeichen in einem Durchmesser von 16 Fingern wird auf einem maximal schrankgr
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Kraft|Kraft]], [[Inhalt/Fertigkeiten/Objekt|Objekt]], [[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Kraft]]
+  - [[Objekt]]
+  - [[Zauberzeichen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

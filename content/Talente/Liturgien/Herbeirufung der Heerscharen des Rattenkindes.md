@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 5bad419b-5f2a-4289-9cfb-b425d7cb982c
+ID: 28159581-b4e4-4d6c-8cfe-712a57411cc3
 Name: Herbeirufung der Heerscharen des Rattenkindes
 title: Herbeirufung der Heerscharen des Rattenkindes
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Herrschaft|Herrschaft]]"
+  - "[[Herrschaft]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Namenlosgeweihten I
@@ -27,5 +27,8 @@ Schakalruf (Wirkungsdauer 1 Stunde, Kosten 8 KaP; ruft einen Schakal herbei, sei
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Herrschaft|Herrschaft]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Herrschaft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Namenlosgeweihten I]]
+- **Erlernen:** 40 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 09975385-569c-4871-82c5-5835ebc1321c
+ID: 97124097-0bd9-4775-a95a-bce1a0fa4eec
 Name: Madas Spiegel
 title: Madas Spiegel
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Hellsicht]]"
+  - "[[Verständigung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Scharlatane I
@@ -14,7 +14,8 @@ Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition d
 Die Spiegelung des Mondes auf der Wasseroberfläche verwandelt sich in das Abbild eines dir persönlich bekannten Ziels. Du kannst das Gesicht des Ziels und kleine Teile des Hintergrunds erkennen und spürst flüchtig seine Gefühlseindrücke. Es erinnert sich währenddessen an dich. Der Zauber ignoriert die Bedingung Sicht.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Fremde Person (-8; das Ziel muss dir nicht bekannt sein, aber du benötigst einen persönlichen Gegenstand von diesem.)
+- **Modifikationen:**
+  - Fremde Person (-8; das Ziel muss dir nicht bekannt sein, aber du benötigst einen persönlichen Gegenstand von diesem.)
 - **Vorbereitungszeit:** 4 Minuten
 - **Ziel:** Humanoid
 - **Reichweite:** dereweit
@@ -25,5 +26,9 @@ Die Spiegelung des Mondes auf der Wasseroberfläche verwandelt sich in das Abbil
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Hellsicht]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Scharlatane I]]
+- **Erlernen:** 10 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 488604ea-a93f-4b09-b5df-2a919f0664eb
+ID: 0bc7dc3b-8538-47c1-b19f-ac411cffcb36
 Name: Pfeil der Luft
 title: Pfeil der Luft
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
+  - "[[Luft]]"
+  - "[[Objekt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I
@@ -14,9 +14,9 @@ Voraussetzungen: Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gilden
 Du verzauberst einen Pfeil (oder Bolzen oder Wurfwaffe), sodass er im Flug die Macht des Elements freisetzt. Der Pfeil verursacht Luftschaden und *Zurückstoßen*. Die Reichweite für diesen Schuss ist verdoppelt.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Geschütz (-4; du verzauberst ein größeres Geschoss wie das einer Balliste.)
-Permanenz (-4, 4 AsP, davon 1 gAsP, Wirkungsdauer bis die Bindung gelöst wird oder der Pfeil verschossen wurde)
-
+- **Modifikationen:**
+  - Geschütz (-4; du verzauberst ein größeres Geschoss wie das einer Balliste.)
+  - Permanenz (-4, 4 AsP, davon 1 gAsP, Wirkungsdauer bis die Bindung gelöst wird oder der Pfeil verschossen wurde)
 - **Vorbereitungszeit:** 1 Aktion
 - **Ziel:** Objekt
 - **Reichweite:** Berührung
@@ -27,5 +27,9 @@ Permanenz (-4, 4 AsP, davon 1 gAsP, Wirkungsdauer bis die Bindung gelöst wird o
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Objekt|Objekt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Luft]]
+  - [[Objekt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

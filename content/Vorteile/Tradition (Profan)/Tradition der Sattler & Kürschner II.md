@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2d39559a-f637-4ae6-8e66-f95084072dfb
+ID: 26877021-78c4-4ece-b2be-45aaf7d5e6ce
 Name: "Tradition der Sattler & Kürschner II"
 title: "Tradition der Sattler & Kürschner II"
 Kategorie: Tradition (Profan)
@@ -16,8 +16,9 @@ Du kannst die Modifikation Verzierung einmal ohne Erschwernis einsetzen.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Fingerfertigkeit|FF]] 6
   - Vorteil [[Tradition der Sattler & Kürschner I]]
-- **Siehe auch:** [[Verzierung]]
+- **Siehe auch:**
+  - [[Verzierung]]

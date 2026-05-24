@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: afaed4e0-55b5-4e23-803b-8686a09f8039
+ID: bb56ddad-b2f2-4127-849c-cb3ce59bd610
 Name: Schnellziehen
 title: Schnellziehen
 Kategorie: Kampf
@@ -15,7 +15,9 @@ Du kannst die Aktion Bereit machen als Bonusaktion durchführen.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Fingerfertigkeit|FF]] 8
-- **Siehe auch:** [[Aktion Bereit machen]], [[Bonusaktion]]
+- **Siehe auch:**
+  - [[Aktion Bereit machen]]
+  - [[Bonusaktion]]

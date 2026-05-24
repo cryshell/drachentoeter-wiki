@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a7865466-426e-4013-9951-7a58b5c4d75b
+ID: 03bfbdd2-b4e7-4ac9-8f1d-32d855b69b79
 Name: Tradition der Zauberbarden III
 title: Tradition der Zauberbarden III
 Kategorie: Tradition (Magisch)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Zeit lassen.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 8
   - Vorteil [[Tradition der Zauberbarden II]]
-- **Siehe auch:** [[Zeit lassen]]
+- **Siehe auch:**
+  - [[Zeit lassen]]

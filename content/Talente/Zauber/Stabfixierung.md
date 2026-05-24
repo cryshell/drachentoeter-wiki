@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: e2e5b05e-d4bb-4b6a-ba00-1f972fb95cd9
+ID: 029064fc-49c2-412d-bbb2-6db6ff3a950c
 Name: Stabfixierung
 title: Stabfixierung
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Stabzauber]]"
+  - "[[Umwelt]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
@@ -24,5 +24,9 @@ Du fixierst deinen Zauberstab auf einer beliebigen Oberfläche. Er kann nicht be
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Stabzauber]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 10 EP

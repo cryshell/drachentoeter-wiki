@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 8c14f98f-fcd5-4cc3-90b2-cb479ec802b8
+ID: 5ae9b86e-dcd8-44d0-9f9e-79989a3bfb1d
 Name: Tradition der Kinder der Finsternis
 title: Tradition der Kinder der Finsternis
 Kategorie: Tradition (Vampir)
@@ -18,8 +18,9 @@ Du bist von deinem Hauptgott und (falls vorhanden) mindestens zwei weiteren Göt
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 4
   - Vorteil [[Vampir I]]
-- **Siehe auch:** [[Verbotene Pforten]]
+- **Siehe auch:**
+  - [[Verbotene Pforten]]

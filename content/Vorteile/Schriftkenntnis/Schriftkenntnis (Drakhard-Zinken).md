@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d25ea663-fda7-4923-92fb-c53901563237
+ID: 48599f74-b6f2-41a7-b77d-3eca6199b4b6
 Name: Schriftkenntnis (Drakhard-Zinken)
 title: Schriftkenntnis (Drakhard-Zinken)
 Kategorie: Schriftkenntnis
@@ -11,4 +11,4 @@ Schriften umfassen sowohl die Fähigkeit die entsprechenden Zeichen lesen als au
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

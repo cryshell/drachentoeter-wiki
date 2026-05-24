@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Attribut
-ID: 86be50f3-8821-4416-bd5e-e4405c916c4c
+ID: 1fc2ecb7-7223-49ff-a6a1-dd9f2e17de6b
 Name: Gewandheit
 title: Gewandheit
 aliases: "[GE]"

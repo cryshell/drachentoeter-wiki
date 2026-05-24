@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 282abbac-4ace-46a4-9b4f-1ee07c3af557
+ID: f76726cd-7c3c-4a2d-81d4-42bb42a94715
 Name: Tradition der Schamanen (Goblins) II
 title: Tradition der Schamanen (Goblins) II
 Kategorie: Tradition (Magisch)
@@ -14,7 +14,7 @@ Schamanen binden oft einen beträchtlichen Teil ihrer Astralenergie in ihre Zaub
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 6
   - Vorteil [[Tradition der Schamanen (Goblins) I]]

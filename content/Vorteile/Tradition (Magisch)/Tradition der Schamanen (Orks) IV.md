@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 1bcb407a-8d72-44be-8479-c3aac4288ae8
+ID: 2144f930-2d9b-4b41-9817-64a3cc6207f0
 Name: Tradition der Schamanen (Orks) IV
 title: Tradition der Schamanen (Orks) IV
 Kategorie: Tradition (Magisch)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Intuition|IN]] 10
   - Vorteil [[Tradition der Schamanen (Orks) III]]

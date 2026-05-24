@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: de74a366-3dc9-48b5-98d3-7d80bd2b8156
+ID: 7a3109a1-dfdb-4cf3-94eb-668418d29333
 Name: Privilegien (Adliges Erbe)
 title: Privilegien (Adliges Erbe)
 Kategorie: Profan
@@ -12,6 +12,6 @@ Dein Stand steigt um +1. Du bist für das Erbe eines Titels und Lehens vorgesehe
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Privilegien (Adel)]]

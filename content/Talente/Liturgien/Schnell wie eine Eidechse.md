@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 4042878a-36bb-438b-8cea-dc2b020ca91f
+ID: 547390d3-5423-4cab-8ff9-69e69408fe3b
 Name: Schnell wie eine Eidechse
 title: Schnell wie eine Eidechse
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Friede|Friede]]"
-  - "[[Inhalt/Fertigkeiten/Herr des Himmels|Herr des Himmels]]"
-  - "[[Inhalt/Fertigkeiten/Wind und Wogen|Wind und Wogen]]"
+  - "[[Friede]]"
+  - "[[Herr des Himmels]]"
+  - "[[Wind und Wogen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I
@@ -16,7 +16,8 @@ Deine GS steigt um 4 Punkte, Verteidigungen sind um +2 erleichtert und Ausweiche
 
 - **Hohe Qualität:** Die GS steigt um weitere 2 Punkte. 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Kampfgespür (-4; du wirst außerdem durch Hinterhalte nicht *handlungsunfähig*. *Reaktive* Liturgie (deine Wahrnehmungs-Probe gegen einen Hinterhalt ist fehlgeschlagen))
+- **Modifikationen:**
+  - Kampfgespür (-4; du wirst außerdem durch Hinterhalte nicht *handlungsunfähig*. *Reaktive* Liturgie (deine Wahrnehmungs-Probe gegen einen Hinterhalt ist fehlgeschlagen))
 - **Vorbereitungszeit:** 0 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -27,5 +28,10 @@ Deine GS steigt um 4 Punkte, Verteidigungen sind um +2 erleichtert und Ausweiche
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Friede|Friede]], [[Inhalt/Fertigkeiten/Herr des Himmels|Herr des Himmels]], [[Inhalt/Fertigkeiten/Wind und Wogen|Wind und Wogen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Friede]]
+  - [[Herr des Himmels]]
+  - [[Wind und Wogen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Tsageweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I]]
+- **Erlernen:** 20 EP

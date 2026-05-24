@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 32a5c411-45a1-4f3a-af32-5ffc10316681
+ID: 0a3faaf5-1216-4114-b69e-f480919c7bdc
 Name: Tradition der Schamanen (Goblins) III
 title: Tradition der Schamanen (Goblins) III
 Kategorie: Tradition (Magisch)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Zeremonie.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 8
   - Vorteil [[Tradition der Schamanen (Goblins) II]]
-- **Siehe auch:** [[Zeremonie (M)]]
+- **Siehe auch:**
+  - [[Zeremonie (M)]]

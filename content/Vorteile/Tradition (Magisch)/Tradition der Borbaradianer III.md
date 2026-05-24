@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 86600538-186a-4fcb-92b3-d2ec3747682e
+ID: 19855ca5-ed5d-4997-a902-95515789630f
 Name: Tradition der Borbaradianer III
 title: Tradition der Borbaradianer III
 Kategorie: Tradition (Magisch)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Erzwingen.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 8
   - Vorteil [[Tradition der Borbaradianer II]]
-- **Siehe auch:** [[Erzwingen]]
+- **Siehe auch:**
+  - [[Erzwingen]]

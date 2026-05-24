@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 26da10e5-c588-4e76-aa3a-3ccf5ea55c1a
+ID: 7a792127-9df8-4c53-ad80-08720bf5730c
 Name: Pfeil des Feuers
 title: Pfeil des Feuers
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Feuer|Feuer]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
+  - "[[Feuer]]"
+  - "[[Objekt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Elfen I
@@ -14,9 +14,9 @@ Voraussetzungen: Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der
 Du verzauberst einen Pfeil (oder Bolzen oder Wurfwaffe), sodass er im Flug die Macht des Elements freisetzt. Der Pfeil verursacht Feuerschaden und *Nachbrennen*. Unbelebte Gegenstände gehen bei einem Treffer in Flammen auf.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Geschütz (-4; du verzauberst ein größeres Geschoss wie das einer Balliste.)
-Permanenz (-4, 4 AsP, davon 1 gAsP, Wirkungsdauer bis die Bindung gelöst wird oder der Pfeil verschossen wurde)
-
+- **Modifikationen:**
+  - Geschütz (-4; du verzauberst ein größeres Geschoss wie das einer Balliste.)
+  - Permanenz (-4, 4 AsP, davon 1 gAsP, Wirkungsdauer bis die Bindung gelöst wird oder der Pfeil verschossen wurde)
 - **Vorbereitungszeit:** 1 Aktion
 - **Ziel:** Objekt
 - **Reichweite:** Berührung
@@ -27,5 +27,9 @@ Permanenz (-4, 4 AsP, davon 1 gAsP, Wirkungsdauer bis die Bindung gelöst wird o
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Feuer|Feuer]], [[Inhalt/Fertigkeiten/Objekt|Objekt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Feuer]]
+  - [[Objekt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Elfen I]]
+- **Erlernen:** 20 EP

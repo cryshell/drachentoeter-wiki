@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 9d835f4a-5106-4f53-841b-6f8dda3ff1ac
+ID: 5aed1568-dcdf-436c-bc73-066eb1ac29c0
 Name: Kreis der Verdammnis IV
 title: Kreis der Verdammnis IV
 Kategorie: Kreis der Verdammnis
@@ -20,7 +20,8 @@ Der Vorteil hat folgende Auswirkungen:
 
 ---
 
-- **Kosten:** -200 EP
+- **Erlernen:** -200 EP
 - **Voraussetzungen:**
   - Vorteil [[Kreis der Verdammnis III]]
-- **Siehe auch:** [[Seelenprüfung]]
+- **Siehe auch:**
+  - [[Seelenprüfung]]

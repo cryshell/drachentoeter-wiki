@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 8724192f-d313-4f9e-925b-d4dd07bd4602
+ID: ffc2d577-206e-46fc-b81a-fe9d4fad887b
 Name: Tradition der Schelme IV
 title: Tradition der Schelme IV
 Kategorie: Tradition (Magisch)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Intuition|IN]] 10
   - Vorteil [[Tradition der Schelme III]]

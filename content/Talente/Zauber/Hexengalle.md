@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 29a42619-049e-4676-a445-e35582aacd0e
+ID: b8df98c1-3de1-4524-ac7c-f20106a78c57
 Name: Hexengalle
 title: Hexengalle
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
+  - "[[Eigenschaften]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I
@@ -14,7 +14,8 @@ Dein Speichel verwandelt sich in ätzende Säure, die du auf ein Wesen innerhalb
 
 - **Hohe Qualität:** Die SP steigen um +2.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Drachenspeichel (-4; der Zauber wirkt auch gegen Objekte.)
+- **Modifikationen:**
+  - Drachenspeichel (-4; der Zauber wirkt auch gegen Objekte.)
 - **Varianten:** Hexenleim (-4, Wirkungsdauer 4 Minuten; du kannst deinen Speichel als Kontaktgift nutzen (Stufe 12, Verzögerung 0; 1 Wunde). Hohe Qualität erhöht die Giftstufe um +4.)
 Krötenschweiß (-4, Wirkungsdauer 4 Minuten, 16 AsP; dein Schweiß wird ätzend. Wer mit seiner Haut deine berührt, erleidet 1W6 SP pro Zug. Dies hat keine Auswirkungen auf unbewaffnete Angriffe, wirkt aber wohl gegen durch dich *fixierte*, ungerüstete Gegner.)
 
@@ -28,5 +29,8 @@ Krötenschweiß (-4, Wirkungsdauer 4 Minuten, 16 AsP; dein Schweiß wird ätzend
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

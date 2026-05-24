@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 762d0b6d-d351-44b2-a5d8-7f2ca468def0
+ID: d05e57e8-e8f9-439e-8afc-b976969d229e
 Name: Dämonische Bindung
 title: Dämonische Bindung
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonischer Ritus|Dämonischer Ritus]]"
-  - "[[Inhalt/Fertigkeiten/Anrufung Agrimoths|Anrufung Agrimoths]]"
+  - "[[Dämonischer Ritus]]"
+  - "[[Anrufung Agrimoths]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -23,5 +23,7 @@ Mit dieser Anrufung kannst du Anrufungen in einem Gegenstand speichern. Die Rege
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonischer Ritus|Dämonischer Ritus]], [[Inhalt/Fertigkeiten/Anrufung Agrimoths|Anrufung Agrimoths]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Dämonischer Ritus]]
+  - [[Anrufung Agrimoths]]
+- **Erlernen:** 40 EP

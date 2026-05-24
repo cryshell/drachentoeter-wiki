@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 237e66a7-ea48-4e3e-9b52-998e7566daea
+ID: 8c78967e-8818-45cd-8c77-52887912d36a
 Name: Schwarmseele
 title: Schwarmseele
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
-  - "[[Inhalt/Fertigkeiten/Zibiljarituale|Zibiljarituale]]"
+  - "[[Verständigung]]"
+  - "[[Zibiljarituale]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zibilja I
@@ -24,5 +24,9 @@ Du nimmst jemanden in deine Sippe auf, der fortan für alle Zibiljarituale als S
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verständigung|Verständigung]], [[Inhalt/Fertigkeiten/Zibiljarituale|Zibiljarituale]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Verständigung]]
+  - [[Zibiljarituale]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zibilja I]]
+- **Erlernen:** 20 EP

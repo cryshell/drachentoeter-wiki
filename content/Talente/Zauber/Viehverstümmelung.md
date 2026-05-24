@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 59e15b73-6d4f-4f62-a2c1-159fc7698879
+ID: 17bb92f0-d9cc-4670-800d-16b33518f6fb
 Name: Viehverstümmelung
 title: Viehverstümmelung
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
-  - "[[Inhalt/Fertigkeiten/Hexenflüche|Hexenflüche]]"
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
+  - "[[Dämonisch]]"
+  - "[[Hexenflüche]]"
+  - "[[Verwandlung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hexen I
@@ -25,5 +25,10 @@ Ein von dir gewähltes Körperteil eines Tieres stirbt nach und nach ab. Das Tie
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]], [[Inhalt/Fertigkeiten/Hexenflüche|Hexenflüche]], [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Dämonisch]]
+  - [[Hexenflüche]]
+  - [[Verwandlung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hexen I]]
+- **Erlernen:** 10 EP

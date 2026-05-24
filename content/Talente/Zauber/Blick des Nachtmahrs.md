@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 1dc5ee83-7042-47e9-a0e7-1f4c0a8cf0d5
+ID: be11f7b9-59dc-400d-a729-32a7cbe38014
 Name: Blick des Nachtmahrs
 title: Blick des Nachtmahrs
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Vampirische Kräfte|Vampirische Kräfte]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Vampirische Kräfte]]"
+  - "[[Verständigung]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kinder der Finsternis ODER Vorteil Tradition der Kinder der Nacht ODER Vorteil Tradition der Feylamia ODER Vorteil Tradition der Lamijahnim
@@ -25,5 +25,9 @@ Du raubst deinem Opfer durch deinen bloßen Blick die Lebensessenz. Pro 4 Züge 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Vampirische Kräfte|Vampirische Kräfte]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Vampirische Kräfte]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kinder der Finsternis ODER Vorteil Tradition der Kinder der Nacht ODER Vorteil Tradition der Feylamia ODER Vorteil Tradition der Lamijahnim]]
+- **Erlernen:** 40 EP

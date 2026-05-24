@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 7acaaa6e-f47a-49b3-93fe-1fa22b528c1d
+ID: bfee4a1a-1efd-4594-a531-c34bb74f0f87
 Name: Tradition der Kamaluqgeweihten I
 title: Tradition der Kamaluqgeweihten I
 Kategorie: Tradition (Karmal)
@@ -18,9 +18,9 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen Kamaluqs Gebote verstößt: Bes
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 4
   - Vorteil [[Geweiht I]]
-  - Kein Vorteil Tradition der *geweihten I
+  - Kein Vorteil [[Tradition der geweihten I|Tradition der *geweihten I]]
   - Vorteil [[Tradition der Schamanen (Waldmenschen) III]]

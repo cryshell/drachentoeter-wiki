@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 25767b2c-1746-4365-813b-ae870ef379ef
+ID: 0359502e-7ce6-4f69-893f-d03091f4847f
 Name: Schildkampf I
 title: Schildkampf I
 Kategorie: Kampfstil
@@ -14,7 +14,8 @@ Schildblock: Wenn du einen Treffer erleiden würdest, kannst du als Reaktion dei
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut KK 4 ODER Attribut IN 4
-- **Siehe auch:** [[Reaktion]]
+- **Siehe auch:**
+  - [[Reaktion]]

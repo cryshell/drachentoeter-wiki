@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 3171f220-cf11-4579-b9fa-3d986792fde6
+ID: f7bcd644-bda3-44b1-aa6a-dc39aeab65fe
 Name: Praios‘ Magiebann
 title: Praios‘ Magiebann
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Magiebann|Magiebann]]"
+  - "[[Magiebann]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Praiosgeweihten I
@@ -23,5 +23,8 @@ Alle Zauber im Radius von 16 Schritt, deren EW nicht größer als der dieser Lit
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Magiebann|Magiebann]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Magiebann]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Praiosgeweihten I]]
+- **Erlernen:** 40 EP

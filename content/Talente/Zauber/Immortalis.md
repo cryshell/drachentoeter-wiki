@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: bef1bc4e-3aa5-402d-8ef8-648aa0af44c3
+ID: 10cb839f-4433-477f-8f30-011d4fd372c0
 Name: Immortalis
 title: Immortalis
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Temporal|Temporal]]"
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
+  - "[[Temporal]]"
+  - "[[Verwandlung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I
@@ -14,7 +14,8 @@ Voraussetzungen: Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der
 Du alterst nicht mehr.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Gefäß der Jahre (nur Mag, -8, Vorbereitungszeit 8 Stunden; du überträgst zusätzlich sämtliche Alterserscheinungen auf ein handwerkliches Abbild deiner selbst und siehst wieder aus wie in deinen besten Jahren. Wenn die Bindung gelöst wird, fallen die Jahre wieder auf dich zurück. Die Wirkungsdauer endet vorzeitig, falls du dich mehr als 8 Meilen vom Abbild entfernst oder es zerstört wird.)
+- **Modifikationen:**
+  - Gefäß der Jahre (nur Mag, -8, Vorbereitungszeit 8 Stunden; du überträgst zusätzlich sämtliche Alterserscheinungen auf ein handwerkliches Abbild deiner selbst und siehst wieder aus wie in deinen besten Jahren. Wenn die Bindung gelöst wird, fallen die Jahre wieder auf dich zurück. Die Wirkungsdauer endet vorzeitig, falls du dich mehr als 8 Meilen vom Abbild entfernst oder es zerstört wird.)
 - **Varianten:** Opferung (-8, Humanoid, augenblicklich, 64 AsP; erfordert Blutmagie; du überträgst sämtliche Alterserscheinungen auf das Ziel und siehst wieder aus wie in deinen besten Jahren. Das Ziel stirbt dadurch.)
 - **Vorbereitungszeit:** 1 Monat lang jede Nacht
 - **Ziel:** selbst
@@ -26,5 +27,9 @@ Du alterst nicht mehr.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Temporal|Temporal]], [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Temporal]]
+  - [[Verwandlung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

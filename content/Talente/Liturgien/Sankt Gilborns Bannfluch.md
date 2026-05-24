@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 27074665-cb18-41ac-9917-745bc1313bdd
+ID: c396012a-a3d1-4905-b9df-7ce346264cf8
 Name: Sankt Gilborns Bannfluch
 title: Sankt Gilborns Bannfluch
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Magiebann|Magiebann]]"
+  - "[[Magiebann]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Praiosgeweihten I
@@ -17,5 +17,8 @@ $talent:Argelions bannende Hand$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Magiebann|Magiebann]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Magiebann]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Praiosgeweihten I]]
+- **Erlernen:** 20 EP

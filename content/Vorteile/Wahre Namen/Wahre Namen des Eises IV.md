@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d2b7d3da-49c9-4895-9f81-1fa5188b5471
+ID: dbade63c-7ad5-4fbe-b57f-4797f6d36fd8
 Name: Wahre Namen des Eises IV
 title: Wahre Namen des Eises IV
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Kosten: 20
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - MeisterAttribut [[Klugheit|KL]] 10

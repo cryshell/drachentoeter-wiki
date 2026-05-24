@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 19a7e292-356a-4f88-8d1a-4e3ff183ce58
+ID: 9375bc62-dfdb-4ecd-baf1-6ab4a1b96816
 Name: Vipernblick
 title: Vipernblick
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Einfluss]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I
@@ -23,5 +23,8 @@ Du verzauberst deine Augen, sodass sie in bis zu 1 Schritt Entfernung absolut hy
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

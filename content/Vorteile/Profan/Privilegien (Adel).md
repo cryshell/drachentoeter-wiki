@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 3b9bc276-ba8b-42c8-a37a-a48531e4c531
+ID: 9fa92563-6920-43f0-bd9b-7f574db8527f
 Name: Privilegien (Adel)
 title: Privilegien (Adel)
 Kategorie: Profan
@@ -11,4 +11,4 @@ Dein Stand steigt um +1. Du darfst ein „von“ im Namen tragen, an Turnieren t
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP

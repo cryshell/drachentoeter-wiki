@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 613a287f-e7be-44dc-ab6e-ef9db5ca9140
+ID: ddbf283c-071a-4b08-8567-6795f8f88a6f
 Name: Parierwaffenkampf II
 title: Parierwaffenkampf II
 Kategorie: Kampfstil
@@ -14,7 +14,7 @@ Tückische Klinge: Einmal pro Zug richtest du bei einem Nahkampftreffer +2W6 TP 
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut GE 6 ODER Attribut IN 6
   - Vorteil [[Parierwaffenkampf I]]

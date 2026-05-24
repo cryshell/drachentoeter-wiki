@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: ed35fc0a-c359-40a6-9136-3a54f5391d05
+ID: aa56c6d6-7244-4c04-9545-526862a7d7a5
 Name: Tradition der Chr’Ssir’Ssrgeweihten III
 title: Tradition der Chr’Ssir’Ssrgeweihten III
 Kategorie: Tradition (Karmal)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 8
   - Vorteil [[Tradition der Chr’Ssir’Ssrgeweihten II]]
-- **Siehe auch:** [[Opferung (Chr’Ssir’Ssr)]]
+- **Siehe auch:**
+  - [[Opferung (Chr’Ssir’Ssr)]]

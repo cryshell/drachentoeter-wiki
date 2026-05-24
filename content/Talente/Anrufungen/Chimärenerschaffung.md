@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: bdc27cc2-01a2-4e11-b6bd-a76aa020eb2c
+ID: ee936149-3d44-44b7-bf03-1192a27efec1
 Name: Chimärenerschaffung
 title: Chimärenerschaffung
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Asfaloths|Anrufung Asfaloths]]"
+  - "[[Anrufung Asfaloths]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -21,5 +21,6 @@ Du erschaffst eine Chimäre aus zwei oder mehr Lebewesen. Eines dieser Lebewesen
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Asfaloths|Anrufung Asfaloths]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Asfaloths]]
+- **Erlernen:** 20 EP

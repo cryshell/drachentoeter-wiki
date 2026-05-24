@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 940565c3-1b98-4f74-9f62-0958f92f6245
+ID: 6a3f418a-3697-4263-a748-a7dde54cc0f0
 Name: Schutz des Dolches
 title: Schutz des Dolches
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Dolchzauber]]"
+  - "[[Umwelt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I
@@ -25,5 +25,9 @@ Dir steht die Natur schützend zur Seite. Du schwimmst leichter auf Wasser, Schn
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Dolchzauber]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I]]
+- **Erlernen:** 20 EP

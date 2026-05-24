@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 57be4a31-b38f-4209-a293-e484fc26d70d
+ID: cf9d52a0-cb8f-44b0-82e1-2d57c99f52ea
 Name: Sprachkenntnis (Neckergesang)
 title: Sprachkenntnis (Neckergesang)
 Kategorie: Sprachkenntnis
@@ -12,6 +12,6 @@ Neckergesang gehört zur Maritim-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I]]

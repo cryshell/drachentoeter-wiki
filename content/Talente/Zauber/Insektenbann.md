@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 2dfbffd4-1425-431b-9b3c-5771b090ae0e
+ID: dd7d2b52-8f80-488a-86dd-b4a22b420284
 Name: Insektenbann
 title: Insektenbann
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
+  - "[[Zaubertricks]]"
 Kosten: 5
 ---
 *Winzige* Insekten wie Fliegen oder Mücken nähern sich dir nicht. Dies schützt nicht vor aggressiven Insekten wie Wespen oder Borbarad-Moskitos.
@@ -20,5 +20,6 @@ Kosten: 5
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
-- **Kosten:** 5 EP
+- **Fertigkeiten:**
+  - [[Zaubertricks]]
+- **Erlernen:** 5 EP

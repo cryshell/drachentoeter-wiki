@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 10167aab-b351-47d5-b392-765bc46ecbcb
+ID: bdbe44ae-2197-468f-8dfc-d53b7f813734
 Name: Optikstein
 title: Optikstein
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
+  - "[[Kristallmagie]]"
+  - "[[Objekt]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I
@@ -24,5 +24,9 @@ Der Kristall kann seine Brennweite nach Belieben verändern und so als Vergröß
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]], [[Inhalt/Fertigkeiten/Objekt|Objekt]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Kristallmagie]]
+  - [[Objekt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I]]
+- **Erlernen:** 10 EP

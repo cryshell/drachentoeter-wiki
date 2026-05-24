@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: c4118863-8f4e-49c4-8614-9538bd1a56de
+ID: 2f987f9f-978c-48c3-928a-7f24b29fd3fa
 Name: "Staub wandle!"
 title: "Staub wandle!"
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
+  - "[[Erz]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
@@ -22,5 +22,8 @@ Du erschaffst einen Golem aus Holz, Stein oder anderen Materialien. Der Golem ha
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Erz|Erz]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Erz]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 40 EP

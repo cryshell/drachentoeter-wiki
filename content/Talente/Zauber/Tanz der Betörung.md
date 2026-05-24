@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 8817ca88-44be-4b45-b58a-5248ab5870eb
+ID: 5aa75373-4359-4f43-bcfd-2277c88b09ca
 Name: Tanz der Betörung
 title: Tanz der Betörung
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
-  - "[[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]]"
+  - "[[Einfluss]]"
+  - "[[Verständigung]]"
+  - "[[Zaubertänze]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zaubertänzer I
@@ -16,7 +16,8 @@ Das Ziel entbrennt in heißer Leidenschaft zu dir. Auf einer Skala von abstoßen
 
 - **Hohe Qualität:** Steigert die Anziehungskraft um eine weitere Stufe.
 - **Probenschwierigkeit:** Magieresistenz
-- **Modifikationen:** Tanz des Begehrens (Probenschwierigkeit 20, Zone, 16 AsP; der Zauber wirkt auf alle Zuschauer in einem Radius von 4 Schritt, denen eine Magieresistenz-Gegenprobe misslingt.)
+- **Modifikationen:**
+  - Tanz des Begehrens (Probenschwierigkeit 20, Zone, 16 AsP; der Zauber wirkt auf alle Zuschauer in einem Radius von 4 Schritt, denen eine Magieresistenz-Gegenprobe misslingt.)
 - **Vorbereitungszeit:** 1 Stunde
 - **Ziel:** Humanoid
 - **Reichweite:** 4 Schritt
@@ -27,5 +28,10 @@ Das Ziel entbrennt in heißer Leidenschaft zu dir. Auf einer Skala von abstoßen
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]], [[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Verständigung]]
+  - [[Zaubertänze]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zaubertänzer I]]
+- **Erlernen:** 10 EP

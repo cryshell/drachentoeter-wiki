@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f881fdd8-6eb3-46d0-844b-16ac8c4d1126
+ID: 1241f809-d383-4b8b-b503-cfd05025937a
 Name: Kulturkunde (Goblins)
 title: Kulturkunde (Goblins)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

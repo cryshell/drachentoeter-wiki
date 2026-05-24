@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 0996627c-479a-4abb-9fab-42d1186aecd6
+ID: 6e40bf1e-de73-434d-94e2-76d29550ab93
 Name: Armatrutz
 title: Armatrutz
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
+  - "[[Eigenschaften]]"
+  - "[[Erz]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Scharlatane I
@@ -26,5 +26,9 @@ Der RS deines Zieles steigt um 1.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Erz|Erz]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Erz]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Scharlatane I]]
+- **Erlernen:** 20 EP

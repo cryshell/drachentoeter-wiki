@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 73f0ac79-6ddb-4501-bab1-29214d538bfd
+ID: 6d5ff32a-0c42-4255-ace0-1241c89b73d8
 Name: Geschichten und Legenden
 title: Geschichten und Legenden
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Mythenkunde|Mythenkunde]]"
+  - "[[Mythenkunde]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Geschichten und Legenden ist das Wissen um alte Überlieferungen. Damit kannst d
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Mythenkunde|Mythenkunde]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Mythenkunde]]
+- **Erlernen:** 20 EP

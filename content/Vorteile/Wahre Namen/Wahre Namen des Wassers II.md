@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 7dc037a9-be4a-4403-9dc0-617dee1ef9d7
+ID: 7b9da3a9-80d3-41d2-b93e-4dd68bd31cf0
 Name: Wahre Namen des Wassers II
 title: Wahre Namen des Wassers II
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - Attribut [[Klugheit|KL]] 6

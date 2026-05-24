@@ -1,14 +1,14 @@
 ---
 Entitätstyp: Talent
-ID: aedd7a43-8160-4b1f-b5d2-d5a76558507f
+ID: ca27a7c4-d171-4156-b815-5c6759a7ef36
 Name: Flammenschwert
 title: Flammenschwert
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Feuer|Feuer]]"
-  - "[[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Feuer]]"
+  - "[[Stabzauber]]"
+  - "[[Objekt]]"
+  - "[[Umwelt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
@@ -17,7 +17,8 @@ Dein Stab verwandelt sich in eine feurige Klinge. Sie wird mit dem Talent Klinge
 
 - **Hohe Qualität:** Erhöht die TP um +2.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Schwebendes Schwert (16 Schritt, 16 AsP; du kannst das Schwert mit 4 Schritt pro Zug fernsteuern. Der Angriffswert entspricht dem PW der benutzten Fertigkeit. Das Schwert kann nur die Aktion Angriff und nur Basismanöver ausführen. Du musst das Schwert nicht berühren, aber der Zauber benötigt *Konzentration*.)
+- **Modifikationen:**
+  - Schwebendes Schwert (16 Schritt, 16 AsP; du kannst das Schwert mit 4 Schritt pro Zug fernsteuern. Der Angriffswert entspricht dem PW der benutzten Fertigkeit. Das Schwert kann nur die Aktion Angriff und nur Basismanöver ausführen. Du musst das Schwert nicht berühren, aber der Zauber benötigt *Konzentration*.)
 - **Vorbereitungszeit:** 1 Aktion
 - **Ziel:** Zauberstab
 - **Reichweite:** Berührung
@@ -28,5 +29,11 @@ Dein Stab verwandelt sich in eine feurige Klinge. Sie wird mit dem Talent Klinge
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Feuer|Feuer]], [[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]], [[Inhalt/Fertigkeiten/Objekt|Objekt]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Feuer]]
+  - [[Stabzauber]]
+  - [[Objekt]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

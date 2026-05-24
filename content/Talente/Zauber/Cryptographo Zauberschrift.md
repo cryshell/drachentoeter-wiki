@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: de5e01c9-7400-4f71-ae46-bb397526ad86
+ID: 2a367cc7-dab9-4f0f-ac75-e0eda62754d7
 Name: Cryptographo Zauberschrift
 title: Cryptographo Zauberschrift
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Objekt]]"
+  - "[[Verständigung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I
@@ -15,7 +15,8 @@ Eine Nachricht, die auf das verzauberte Pergament geschriebenen wird, wird autom
 
 - **Hohe Qualität:** Die Schwierigkeit der Verschlüsselung Knacken-Probe steigt um 4, die Anzahl nötiger AG um 1.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Unlesbares Buch (-4, 16 AsP; ein ganzes Buch ist betroffen. Der Zeitaufwand zur kompletten Entzifferung beträgt mehrere Monate.)
+- **Modifikationen:**
+  - Unlesbares Buch (-4, 16 AsP; ein ganzes Buch ist betroffen. Der Zeitaufwand zur kompletten Entzifferung beträgt mehrere Monate.)
 - **Vorbereitungszeit:** 4 Minuten
 - **Ziel:** Objekt
 - **Reichweite:** Berührung
@@ -26,5 +27,9 @@ Eine Nachricht, die auf das verzauberte Pergament geschriebenen wird, wird autom
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Objekt|Objekt]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Objekt]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 10 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 31f1262c-2cd2-476a-bb1f-fc121bd762bd
+ID: af23f7c0-6811-488b-b9da-c799cfe8c709
 Name: Lodernder Blick
 title: Lodernder Blick
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Blakharazs|Anrufung Blakharazs]]"
+  - "[[Anrufung Blakharazs]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -22,5 +22,6 @@ Das Ziel befolgt einen blakharazgefälligen Befehl.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Blakharazs|Anrufung Blakharazs]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Anrufung Blakharazs]]
+- **Erlernen:** 40 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 5523cf97-cb04-480d-9369-b474a0e2bd07
+ID: 1c2ecc2b-c95a-4775-9a69-70a3693607a1
 Name: Iribaars Hand
 title: Iribaars Hand
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Dämonisch]]"
+  - "[[Einfluss]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borbaradianer I
@@ -25,5 +25,9 @@ Du nimmst dem Opfer seine erlernten Fähigkeiten. Du darfst Talente und Vorteile
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]], [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Dämonisch]]
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borbaradianer I]]
+- **Erlernen:** 20 EP

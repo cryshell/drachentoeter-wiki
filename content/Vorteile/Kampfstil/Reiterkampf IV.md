@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 24915498-9243-4936-a9a6-c1a6628fc731
+ID: afd35843-d823-4f21-bb40-67b45624333d
 Name: Reiterkampf IV
 title: Reiterkampf IV
 Kategorie: Kampfstil
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut GE 10 ODER MeisterAttribut KK 10
   - Vorteil [[Reiterkampf III]]

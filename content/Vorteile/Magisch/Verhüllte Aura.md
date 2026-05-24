@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 13428424-181b-4ee7-9002-137fe8cf869e
+ID: 60c5d94c-6c01-46a1-80f0-fafdca44bc31
 Name: Verhüllte Aura
 title: Verhüllte Aura
 Kategorie: Magisch
@@ -12,6 +12,6 @@ Deine magische Aura ist nur schwer zu erkennen und erscheint schwächer als sie 
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I]]

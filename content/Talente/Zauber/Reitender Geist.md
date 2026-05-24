@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 78817e06-6822-441d-b2d3-fa0a1e04c272
+ID: 0093d342-a933-49d7-bb2e-8a206b1edd2e
 Name: Reitender Geist
 title: Reitender Geist
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]]"
+  - "[[Einfluss]]"
+  - "[[Geister der Stärkung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Orks) I
@@ -15,7 +15,8 @@ Das bezauberte Tier wird dir gegenüber brav und anhänglich. Proben im Umgang m
 
 - **Hohe Qualität:** Für 2 Stufen haben die Proben legendären Vorteil.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Anderer Reiter (-4; die Wirkung bezieht sich auf eine andere Person als dich.)
+- **Modifikationen:**
+  - Anderer Reiter (-4; die Wirkung bezieht sich auf eine andere Person als dich.)
 - **Vorbereitungszeit:** 1 Stunde
 - **Ziel:** Tier
 - **Reichweite:** Berührung
@@ -27,5 +28,9 @@ Das bezauberte Tier wird dir gegenüber brav und anhänglich. Proben im Umgang m
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Geister der Stärkung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Orks) I]]
+- **Erlernen:** 20 EP

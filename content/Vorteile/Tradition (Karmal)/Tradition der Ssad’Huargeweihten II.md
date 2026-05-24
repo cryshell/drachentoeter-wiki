@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b3dd9efa-e024-4f60-a0fb-7e750a75bc96
+ID: ebf0d004-8e1a-401e-bc9f-1426a30ae605
 Name: Tradition der Ssad’Huargeweihten II
 title: Tradition der Ssad’Huargeweihten II
 Kategorie: Tradition (Karmal)
@@ -16,8 +16,9 @@ Ssad’Huargeweihte müssen sich oft um mehrere Personen gleichzeitig kümmern. 
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 6
   - Vorteil [[Tradition der Ssad’Huargeweihten I]]
-- **Siehe auch:** [[Mehrere Ziele (L)]]
+- **Siehe auch:**
+  - [[Mehrere Ziele (L)]]

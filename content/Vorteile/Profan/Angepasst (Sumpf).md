@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d6b52619-ef35-4e5f-866a-32f6b2a003a9
+ID: 8c5688eb-0787-4392-a62d-06b7808b3303
 Name: Angepasst (Sumpf)
 title: Angepasst (Sumpf)
 Kategorie: Profan
@@ -13,5 +13,6 @@ Durch deine Spezies oder langjährige Erfahrung hast du dich an die Landschaften
 
 ---
 
-- **Kosten:** 40 EP
-- **Siehe auch:** [[Bewegung]]
+- **Erlernen:** 40 EP
+- **Siehe auch:**
+  - [[Bewegung]]

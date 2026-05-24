@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: ccfd5ca7-6526-4023-ab6e-8af153593a9b
+ID: 853b3d46-c258-4ed4-b451-73372bf6f47b
 Name: Valetudo Lebenskraft
 title: Valetudo Lebenskraft
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
+  - "[[Humus]]"
+  - "[[Kraft]]"
+  - "[[Verwandlung]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
@@ -26,5 +26,10 @@ Eine unsichtbare Welle magischer Kraft gibt dem Ziel 1W6 Heilpunkte, für jede �
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Humus|Humus]], [[Inhalt/Fertigkeiten/Kraft|Kraft]], [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Humus]]
+  - [[Kraft]]
+  - [[Verwandlung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 40 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b05d95f4-5995-4bc4-a879-59b31daeff6c
+ID: 079374f1-d1c1-4cf2-a01d-84e4ac76965f
 Name: Stärkung der Verdammten
 title: Stärkung der Verdammten
 Kategorie: Kreis der Verdammnis
@@ -14,7 +14,7 @@ Anrufungen, die ausschließlich Anhänger der Erzdämonen (und nicht dich selbst
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 10
   - Vorteil [[Paktierer I]]

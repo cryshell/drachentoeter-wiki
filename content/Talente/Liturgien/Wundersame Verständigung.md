@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: ab8cb4ea-eb97-4e31-8cfe-28dd7599c19c
+ID: 0bfa8a1a-2b26-4310-8342-48f4f72972cb
 Name: Wundersame Verständigung
 title: Wundersame Verständigung
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Fröhlicher Wanderer|Fröhlicher Wanderer]]"
-  - "[[Inhalt/Fertigkeiten/List|List]]"
-  - "[[Inhalt/Fertigkeiten/Wissen|Wissen]]"
+  - "[[Fröhlicher Wanderer]]"
+  - "[[List]]"
+  - "[[Wissen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Avesgeweihten I ODER Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Phexgeweihten I
@@ -15,7 +15,8 @@ Voraussetzungen: Vorteil Tradition der Avesgeweihten I ODER Vorteil Tradition de
 Du verfügst über eine Sprachkenntnis deiner Wahl, außer Zeichensprachen oder telepathischen Sprachen. Erlaubt *Aufrechterhalten*.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Hoftag der Sprachen (Zone, Wirkungsdauer 4 Stunden, 16 KaP; die Liturgie wirkt auf alle Ziele in einem Radius von 8 Schritt.)
+- **Modifikationen:**
+  - Hoftag der Sprachen (Zone, Wirkungsdauer 4 Stunden, 16 KaP; die Liturgie wirkt auf alle Ziele in einem Radius von 8 Schritt.)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -26,5 +27,10 @@ Du verfügst über eine Sprachkenntnis deiner Wahl, außer Zeichensprachen oder 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Fröhlicher Wanderer|Fröhlicher Wanderer]], [[Inhalt/Fertigkeiten/List|List]], [[Inhalt/Fertigkeiten/Wissen|Wissen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Fröhlicher Wanderer]]
+  - [[List]]
+  - [[Wissen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Phexgeweihten I]]
+- **Erlernen:** 20 EP

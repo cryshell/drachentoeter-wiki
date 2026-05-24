@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: fce29697-a162-413c-8b0f-1cfb27d99461
+ID: f3ad1516-bada-4788-9f84-6d4ac773d91c
 Name: Meister der Form
 title: Meister der Form
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Asfaloths|Anrufung Asfaloths]]"
+  - "[[Anrufung Asfaloths]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -22,5 +22,6 @@ Du kannst durch Berührung eines Körperteils diesem eine neue Form geben. Das O
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Asfaloths|Anrufung Asfaloths]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Asfaloths]]
+- **Erlernen:** 20 EP

@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 988d3860-8678-439c-880e-71f6805f223d
+ID: ef2301b5-34a9-429d-8a6e-fc36dbf1c5fa
 Name: Sturmlied
 title: Sturmlied
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]]"
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Elfenlieder]]"
+  - "[[Luft]]"
+  - "[[Umwelt]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Shakagra I
@@ -26,5 +26,10 @@ Du erhöhst in einem Radius von 32 Schritt die Windstärke auf einer Skala von w
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]], [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Elfenlieder]]
+  - [[Luft]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Shakagra I]]
+- **Erlernen:** 10 EP

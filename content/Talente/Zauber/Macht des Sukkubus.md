@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 4012e486-c7a8-485f-852b-7870627331db
+ID: 19fcd335-f964-4880-9030-f5826b5eef33
 Name: Macht des Sukkubus
 title: Macht des Sukkubus
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Vampirische Kräfte|Vampirische Kräfte]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Vampirische Kräfte]]"
+  - "[[Verständigung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Lamijahnim
@@ -25,5 +25,9 @@ Du raubst deinem Opfer beim Liebesspiel die Lebensessenz. Alle 8 Minuten erleide
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Vampirische Kräfte|Vampirische Kräfte]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Vampirische Kräfte]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Lamijahnim]]
+- **Erlernen:** 20 EP

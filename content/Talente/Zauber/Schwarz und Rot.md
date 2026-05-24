@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: d86a7f8c-a443-4eca-a484-5e17e5e9b7f3
+ID: 8d279c78-20b1-4798-bf7d-46b8563ebc66
 Name: Schwarz und Rot
 title: Schwarz und Rot
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
+  - "[[Dämonisch]]"
+  - "[[Eigenschaften]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I
@@ -25,5 +25,9 @@ In der Herzgegend deines Opfers entsteht ein schmerzhaftes rotes Mal, das sich l
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]], [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Dämonisch]]
+  - [[Eigenschaften]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

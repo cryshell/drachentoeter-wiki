@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 5d00806f-4dc4-4516-aa14-d100e5d171b9
+ID: 9b37bc5d-6b83-4991-83b5-65c8dee027d4
 Name: Böser Blick
 title: Böser Blick
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Einfluss]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I
@@ -27,5 +27,8 @@ Das Ziel ist dir gegenüber *verängstigt* und solange nicht imstande dir direkt
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

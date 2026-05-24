@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 0863bb4c-9da6-41ea-b5c9-60fce7eb6632
+ID: 1e73c30a-e06b-4d13-ae3d-b86928a642b8
 Name: Natûru-Gons Hieb
 title: Natûru-Gons Hieb
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Geister des Zorns|Geister des Zorns]]"
+  - "[[Eigenschaften]]"
+  - "[[Geister des Zorns]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Gjalsker) I
@@ -25,5 +25,9 @@ Die so verzauberte Nahkampfwaffe gilt als magisch und verursacht Niederwerfen.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Geister des Zorns|Geister des Zorns]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Geister des Zorns]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Gjalsker) I]]
+- **Erlernen:** 20 EP

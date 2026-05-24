@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: d9746bff-51bd-4599-b066-bbe47741216b
+ID: fcc169d7-445a-482a-adfe-a43c9760297f
 Name: Hiebwaffen
 title: Hiebwaffen
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Nahkampf|Nahkampf]]"
+  - "[[Nahkampf]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Hiebwaffen sind stumpfe oder schneidende Schlagwaffen wie Keulen, Äxte und Häm
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Nahkampf|Nahkampf]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Nahkampf]]
+- **Erlernen:** 40 EP

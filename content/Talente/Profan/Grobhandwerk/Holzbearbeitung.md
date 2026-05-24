@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 00a9f464-3cfd-411a-a278-2831c2c55b78
+ID: d37b96f8-f0c4-4710-8e68-f3848f3fd0ee
 Name: Holzbearbeitung
 title: Holzbearbeitung
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Grobhandwerk|Grobhandwerk]]"
+  - "[[Grobhandwerk]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Mit Holzbearbeitung stellst du Möbelstücke, Schnitzereien sowie Schilde, Böge
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Grobhandwerk|Grobhandwerk]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Grobhandwerk]]
+- **Erlernen:** 40 EP

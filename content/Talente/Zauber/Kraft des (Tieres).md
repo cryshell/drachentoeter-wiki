@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: fb730a13-eb89-45cb-8777-eb658890f4aa
+ID: 5f65d6a1-b805-4a1b-b676-320f075723dd
 Name: Kraft des (Tieres)
 title: Kraft des (Tieres)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]]"
+  - "[[Eigenschaften]]"
+  - "[[Geister der Stärkung]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
@@ -15,7 +15,8 @@ Du bittest den Geist eines Tieres, deine Gefährten mit seiner Kraft zu erfülle
 
 - **Hohe Qualität:** Du kannst den Effekt ein weiteres Mal einsetzen.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Art (-4; du kannst den Tiergeist bestimmen.)
+- **Modifikationen:**
+  - Art (-4; du kannst den Tiergeist bestimmen.)
 - **Vorbereitungszeit:** 1 Stunde
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -26,5 +27,9 @@ Du bittest den Geist eines Tieres, deine Gefährten mit seiner Kraft zu erfülle
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Geister der Stärkung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+- **Erlernen:** 40 EP

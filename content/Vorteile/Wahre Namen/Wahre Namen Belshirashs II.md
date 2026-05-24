@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4e1eca6d-7867-45b7-b137-37cce9591af2
+ID: 299157e7-2840-4292-a77e-8c7e20e634fa
 Name: Wahre Namen Belshirashs II
 title: Wahre Namen Belshirashs II
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - Attribut [[Klugheit|KL]] 6

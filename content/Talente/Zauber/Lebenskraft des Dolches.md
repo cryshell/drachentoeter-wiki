@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 60e55348-c888-4f2d-aaea-0e98b4910e5b
+ID: c11b35f2-cd7e-4617-824b-f047fce85fa1
 Name: Lebenskraft des Dolches
 title: Lebenskraft des Dolches
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]]"
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
+  - "[[Dolchzauber]]"
+  - "[[Humus]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I
@@ -24,5 +24,9 @@ Du entziehst dem Boden Lebenskraft und regenerierst in der nächsten *langen Ras
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]], [[Inhalt/Fertigkeiten/Humus|Humus]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Dolchzauber]]
+  - [[Humus]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I]]
+- **Erlernen:** 20 EP

@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: a8f82713-ce75-4951-b1fc-bd5e15ea6053
+ID: f0905c2e-c0af-40cb-9802-4bd6668d9537
 Name: Melodie der Ermutigung
 title: Melodie der Ermutigung
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]"
+  - "[[Eigenschaften]]"
+  - "[[Einfluss]]"
+  - "[[Zaubermelodien]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zauberbarden I
@@ -25,5 +25,10 @@ Die Melodie schenkt den Menschen Zuversicht. Alle Zuhörer, die sich während de
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Einfluss]]
+  - [[Zaubermelodien]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zauberbarden I]]
+- **Erlernen:** 20 EP

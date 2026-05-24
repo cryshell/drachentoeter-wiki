@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 11d8e2af-92c2-4b20-a010-179593663c8d
+ID: 7f2f7284-dfef-4990-b5ec-05c1c1f9d48d
 Name: Ewige Wegzehrung (passiv)
 title: Ewige Wegzehrung (passiv)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]"
+  - "[[Kristallmagie]]"
 Kosten: 20
 Voraussetzungen: Vorteil Tradition der Kristallomanten I
 ---
@@ -15,5 +15,8 @@ Im Schuppenbeutel aufbewahrte Gegenstände altern nicht.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Kristallmagie]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

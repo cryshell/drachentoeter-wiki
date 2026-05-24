@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b6160321-cd73-41aa-84df-a070207e2647
+ID: 8a13a472-e4a4-4099-8dbc-39b345280033
 Name: Tradition der Anach-Nûrim IV
 title: Tradition der Anach-Nûrim IV
 Kategorie: Tradition (Magisch)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Konstitution|KO]] 10
   - Vorteil [[Tradition der Anach-Nûrim III]]

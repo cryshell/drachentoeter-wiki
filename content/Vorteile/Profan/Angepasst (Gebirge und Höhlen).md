@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b5f2c0bd-e6bd-4032-8e63-1c20c8304dd9
+ID: 1dd49db5-4806-4c61-90e9-9f7b3a2778f8
 Name: Angepasst (Gebirge und Höhlen)
 title: Angepasst (Gebirge und Höhlen)
 Kategorie: Profan
@@ -13,5 +13,6 @@ Durch deine Spezies oder langjährige Erfahrung hast du dich an die Landschaften
 
 ---
 
-- **Kosten:** 40 EP
-- **Siehe auch:** [[Bewegung]]
+- **Erlernen:** 40 EP
+- **Siehe auch:**
+  - [[Bewegung]]

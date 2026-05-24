@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 235931c0-36e4-4fe2-b7f2-71d9520988bc
+ID: e3587507-f8b3-4389-ab9c-6782c30edb71
 Name: Sprachkenntnis (Asdharia)
 title: Sprachkenntnis (Asdharia)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Asdharia gehört zur Elfisch-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

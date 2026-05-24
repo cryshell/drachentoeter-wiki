@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: af3eccf1-6955-4395-9fb8-12ff4106eaed
+ID: 90b18808-85a5-4a9b-b4b7-4533dc7a0604
 Name: Tradition der Druiden III
 title: Tradition der Druiden III
 Kategorie: Tradition (Magisch)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Erzwingen.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 8
   - Vorteil [[Tradition der Druiden II]]
-- **Siehe auch:** [[Erzwingen]]
+- **Siehe auch:**
+  - [[Erzwingen]]

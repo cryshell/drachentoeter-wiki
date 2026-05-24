@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f3729ae9-1fad-42d1-b157-2963234740f4
+ID: b3556cce-850f-4ccc-9ea6-d0dfde5b6201
 Name: Kulturkunde (Ferkinas)
 title: Kulturkunde (Ferkinas)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

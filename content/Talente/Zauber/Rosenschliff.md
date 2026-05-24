@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: c8a5ae4c-5b4d-47ab-a411-5d38b6389927
+ID: 560a5bee-9af4-4307-8eaa-6f132195b2c7
 Name: Rosenschliff
 title: Rosenschliff
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
-  - "[[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]"
+  - "[[Erz]]"
+  - "[[Kraft]]"
+  - "[[Kristallmagie]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I
@@ -25,5 +25,10 @@ Du versiehst einen gebundenen Kristall mit einem Rosenschliff. Wann immer du mit
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Erz|Erz]], [[Inhalt/Fertigkeiten/Kraft|Kraft]], [[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Erz]]
+  - [[Kraft]]
+  - [[Kristallmagie]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

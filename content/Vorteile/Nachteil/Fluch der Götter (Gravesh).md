@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f675c481-e23e-4c4e-b554-2111c5a9f353
+ID: df0fa6c9-a0cd-464d-838e-e8352727ce4d
 Name: Fluch der Götter (Gravesh)
 title: Fluch der Götter (Gravesh)
 Kategorie: Nachteil
@@ -12,6 +12,6 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Gravesh), Empfindlichkeit I (Pfla
 
 ---
 
-- **Kosten:** 0 EP
+- **Erlernen:** 0 EP
 - **Voraussetzungen:**
   - Vorteil [[Vampir I]]

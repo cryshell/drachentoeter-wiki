@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 63e3451b-4943-43d9-9c85-42a5df031bea
+ID: f7fbbd22-bf69-4ce8-9159-00d7eb4b6eee
 Name: Finsterrune
 title: Finsterrune
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
-  - "[[Inhalt/Fertigkeiten/Zauberrunen|Zauberrunen]]"
+  - "[[Umwelt]]"
+  - "[[Verständigung]]"
+  - "[[Zauberrunen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Runenmagier
@@ -26,5 +26,10 @@ Die Rune wird in einem Durchmesser von 8 Fingern auf einem Wesen oder Objekt ang
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Umwelt|Umwelt]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]], [[Inhalt/Fertigkeiten/Zauberrunen|Zauberrunen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Umwelt]]
+  - [[Verständigung]]
+  - [[Zauberrunen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Runenmagier]]
+- **Erlernen:** 20 EP

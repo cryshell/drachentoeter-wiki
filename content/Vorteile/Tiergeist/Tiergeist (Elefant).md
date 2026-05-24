@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 9f00b326-89ee-4801-906c-480f9614cfab
+ID: 19bb89a5-1acd-4f09-9ffd-77097704d0b1
 Name: Tiergeist (Elefant)
 title: Tiergeist (Elefant)
 Kategorie: Tiergeist
@@ -24,8 +24,12 @@ Kosten: 0
 
 ---
 
-- **Kosten:** 0 EP
+- **Erlernen:** 0 EP
 - **Voraussetzungen:**
   - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
   - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
-- **Siehe auch:** [[Memorans Gedächtniskraft]], [[Psychostabilis]], [[Seelentier erkennen]], [[Xenographus Schriftenkunde]]
+- **Siehe auch:**
+  - [[Memorans Gedächtniskraft]]
+  - [[Psychostabilis]]
+  - [[Seelentier erkennen]]
+  - [[Xenographus Schriftenkunde]]

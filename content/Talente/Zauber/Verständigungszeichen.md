@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 4c7b6eb0-fce5-4cf4-a4ff-b41a6d79b8d1
+ID: e7047867-a962-4bc6-bb89-a1587bd48734
 Name: Verständigungszeichen
 title: Verständigungszeichen
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
-  - "[[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]"
+  - "[[Verständigung]]"
+  - "[[Zauberzeichen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zibilja I ODER Vorteil Tradition der Schamanen (Waldmenschen) I
@@ -25,5 +25,9 @@ Das Zeichen wird in einem Durchmesser von 8 Fingern auf einem maximal schrankgro
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verständigung|Verständigung]], [[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Verständigung]]
+  - [[Zauberzeichen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zibilja I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+- **Erlernen:** 20 EP

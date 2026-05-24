@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 49c5c80a-4e28-4cf0-89cd-b6a01063b94b
+ID: 73e83d05-e111-4ba3-bc91-4d6b1e119675
 Name: Blendstrahl aus Alveran
 title: Blendstrahl aus Alveran
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Licht|Licht]]"
+  - "[[Licht]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Praiosgeweihten I
@@ -23,5 +23,8 @@ Ein gleißender Lichtblitz fährt aus deiner Hand – dein Ziel ist *geblendet*,
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Licht|Licht]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Licht]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Praiosgeweihten I]]
+- **Erlernen:** 10 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: d09b9bc7-ee6e-4fdc-950a-c4bfabb44931
+ID: d1b2728a-bc14-423d-8534-dce5d5c3165d
 Name: "Schlangenbund: Schlaf rauben"
 title: "Schlangenbund: Schlaf rauben"
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schlangenbund|Schlangenbund]]"
+  - "[[Schlangenbund]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der H’Szintgeweihten I
@@ -23,5 +23,8 @@ Das von deinem Vertrautentier beobachtete Opfer regeneriert in dieser Nacht kein
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schlangenbund|Schlangenbund]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Schlangenbund]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der H’Szintgeweihten I]]
+- **Erlernen:** 10 EP

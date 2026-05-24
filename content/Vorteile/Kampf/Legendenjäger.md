@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 63b179c0-e6fe-4174-9b7f-59b424399ddc
+ID: 4e2a8a5c-2fa3-435d-8545-9c6e8d1911cd
 Name: Legendenjäger
 title: Legendenjäger
 Kategorie: Kampf
@@ -11,4 +11,4 @@ Du kannst bei einem Schadenswurf gegen Feenwesen, Mythenwesen und Elementare ein
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP

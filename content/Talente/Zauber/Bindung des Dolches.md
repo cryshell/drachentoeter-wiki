@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 49bfa254-1164-4808-a158-7a263576a890
+ID: d5fab718-d63b-435a-a71d-df3caf1b921e
 Name: Bindung des Dolches
 title: Bindung des Dolches
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
+  - "[[Dolchzauber]]"
+  - "[[Objekt]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I
@@ -24,5 +24,9 @@ Du stellst eine enge magische Bindung zu deinem Ritualgegenstand (ein Vulkanglas
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]], [[Inhalt/Fertigkeiten/Objekt|Objekt]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Dolchzauber]]
+  - [[Objekt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I]]
+- **Erlernen:** 10 EP

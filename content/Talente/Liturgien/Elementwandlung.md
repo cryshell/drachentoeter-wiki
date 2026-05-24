@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: d540fe84-34c9-41fe-8342-b96d8c5792d2
+ID: 94ef0c23-90c1-4e35-a47c-ed632bf790d6
 Name: Elementwandlung
 title: Elementwandlung
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Veränderung|Veränderung]]"
+  - "[[Veränderung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der H’Szintgeweihten I
@@ -24,5 +24,8 @@ Du veränderst einen maximal faustgroßen Gegenstand in seiner elementaren Zusam
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Veränderung|Veränderung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Veränderung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der H’Szintgeweihten I]]
+- **Erlernen:** 10 EP

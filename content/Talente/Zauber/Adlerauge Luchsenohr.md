@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 2c36263c-1f88-4098-a6f9-e76af30f602d
+ID: 7f7da77a-f091-4653-8670-6364e2c074bf
 Name: Adlerauge Luchsenohr
 title: Adlerauge Luchsenohr
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
+  - "[[Eigenschaften]]"
+  - "[[Hellsicht]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I
@@ -15,7 +15,8 @@ Du schärfst deine Sinne auf magische Weise. Alle Proben auf Wahrnehmung haben V
 
 - **Hohe Qualität:** Proben auf einen Sinn deiner Wahl haben legendären Vorteil.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Einzelsinn (-4, Wirkungsdauer 1 Stunde; nur ein Sinn ist betroffen. Nur dieser kann mit Hohe Qualität gewählt werden.)
+- **Modifikationen:**
+  - Einzelsinn (-4, Wirkungsdauer 1 Stunde; nur ein Sinn ist betroffen. Nur dieser kann mit Hohe Qualität gewählt werden.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -26,5 +27,9 @@ Du schärfst deine Sinne auf magische Weise. Alle Proben auf Wahrnehmung haben V
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Hellsicht]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 10 EP

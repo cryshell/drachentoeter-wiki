@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: d3345c13-8928-4978-857a-591087a41400
+ID: c20351c2-8e53-448b-8b47-01adb995f604
 Name: Schlösser knacken
 title: Schlösser knacken
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verschlagenheit|Verschlagenheit]]"
+  - "[[Verschlagenheit]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Schlösser knacken öffnet mit Hilfe eines Dietrichs oder einer Haarnadel Schatz
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verschlagenheit|Verschlagenheit]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Verschlagenheit]]
+- **Erlernen:** 40 EP

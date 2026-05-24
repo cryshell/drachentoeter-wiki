@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 8c641ce6-da6c-4477-a32f-2d81427423cc
+ID: d160ac4a-91fb-4a8e-bf1b-dfc51814a596
 Name: Krötenkuss
 title: Krötenkuss
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Hexenflüche|Hexenflüche]]"
-  - "[[Inhalt/Fertigkeiten/Illusion|Illusion]]"
+  - "[[Einfluss]]"
+  - "[[Hexenflüche]]"
+  - "[[Illusion]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hexen I
@@ -25,5 +25,10 @@ Dein Ziel wird von seiner Umgebung furchtsam gemieden. Mit Ausnahme von Einschü
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Hexenflüche|Hexenflüche]], [[Inhalt/Fertigkeiten/Illusion|Illusion]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Hexenflüche]]
+  - [[Illusion]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hexen I]]
+- **Erlernen:** 20 EP

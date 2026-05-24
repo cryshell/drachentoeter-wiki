@@ -1,14 +1,14 @@
 ---
 Entitätstyp: Talent
-ID: 73eb039c-7e13-4e97-bef4-c36dd9b2b062
+ID: b2f95fbf-f2a5-44ae-939f-3906e8e27a6b
 Name: Auge der Mada
 title: Auge der Mada
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Illusion|Illusion]]"
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
-  - "[[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]"
+  - "[[Hellsicht]]"
+  - "[[Illusion]]"
+  - "[[Kraft]]"
+  - "[[Zauberzeichen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I
@@ -28,5 +28,11 @@ Das Zeichen wird in einem Durchmesser von 16 Fingern auf einer beliebigen Fläch
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Illusion|Illusion]], [[Inhalt/Fertigkeiten/Kraft|Kraft]], [[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Hellsicht]]
+  - [[Illusion]]
+  - [[Kraft]]
+  - [[Zauberzeichen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

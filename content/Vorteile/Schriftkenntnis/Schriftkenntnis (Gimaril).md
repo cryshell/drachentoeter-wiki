@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 9bd1e54f-1962-4ab7-b541-7ece0558b9d7
+ID: faeb330e-aba5-42ab-956d-1d3f0298f482
 Name: Schriftkenntnis (Gimaril)
 title: Schriftkenntnis (Gimaril)
 Kategorie: Schriftkenntnis
@@ -11,4 +11,4 @@ Schriften umfassen sowohl die Fähigkeit die entsprechenden Zeichen lesen als au
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

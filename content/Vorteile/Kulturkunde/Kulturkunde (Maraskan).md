@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a56765b1-4833-453e-9dd9-ccd4ac5e7200
+ID: a22447c6-a136-4057-8f3f-63f1c9eb9a71
 Name: Kulturkunde (Maraskan)
 title: Kulturkunde (Maraskan)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

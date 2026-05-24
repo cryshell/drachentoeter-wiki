@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 29b90ed4-27a1-457a-85cf-bd33482c1143
+ID: ec8b0846-3a56-469b-ba24-47edd6affc5a
 Name: Blutiger Schnitter
 title: Blutiger Schnitter
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Guter Kampf|Guter Kampf]]"
+  - "[[Guter Kampf]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I
@@ -23,5 +23,8 @@ Du begibst dich in einen Kampfrausch und erleidest keine Wundabzüge. Kannst du 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Guter Kampf|Guter Kampf]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Guter Kampf]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I]]
+- **Erlernen:** 40 EP

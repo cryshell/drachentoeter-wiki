@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 657187fb-122d-4a5e-a72e-24e9d3c61375
+ID: ff4c52f9-492b-4a2d-a83a-1cd5ec801c15
 Name: Großer Geisterbann
 title: Großer Geisterbann
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Antimagie|Antimagie]]"
-  - "[[Inhalt/Fertigkeiten/Geister vertreiben|Geister vertreiben]]"
+  - "[[Antimagie]]"
+  - "[[Geister vertreiben]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Nivesen) I ODER Vorteil Tradition der Schamanen (Orks) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Waldmenschen) I
@@ -14,7 +14,8 @@ Voraussetzungen: Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradit
 Hiermit bannst du beschworene Wesenheiten, in die keine gAsP geflossen sind (wie nicht gebundene Elementare und Dämonen).
 
 - **Probenschwierigkeit:** Beschwörungsschwierigkeit des zu bannenden Wesens
-- **Modifikationen:** Geisterkerker (+4; das Wesen wird nicht verbannt, sondern permanent in ein Gefäß gesperrt. Wird das Gefäß geöffnet oder zerstört, ist das Wesen frei und meist sehr wütend auf den Schamanen und/oder den Befreier.)
+- **Modifikationen:**
+  - Geisterkerker (+4; das Wesen wird nicht verbannt, sondern permanent in ein Gefäß gesperrt. Wird das Gefäß geöffnet oder zerstört, ist das Wesen frei und meist sehr wütend auf den Schamanen und/oder den Befreier.)
 - **Varianten:** Gebundene Geister (Probenschwierigkeit EW des Zaubers, Ziel Zauber, Vorbereitungszeit 1 Stunde, 2 Schritt, halbe Basiskosten des Zaubers; wirkt auch auf Zauber, zum Beispiel Artefakte oder permanente Flüche.)
 Geister vertreiben (Probenschwierigkeit 16 bis 28 (nach Mächtigkeit des Geistes), Vorbereitungszeit 16 Aktionen, Ziel Geist, 32 Schritt, 16 AsP; du zeichnest ein Pentagramm, durch das ein Geist deiner Wahl verschwindet. Er kann 1 Woche lang nicht mehr umherspuken. Hohe Qualität verlängert die Dauer auf 1 Monat/1 Jahr/10 Jahre/100 Jahre.)
 
@@ -28,5 +29,9 @@ Geister vertreiben (Probenschwierigkeit 16 bis 28 (nach Mächtigkeit des Geistes
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Antimagie|Antimagie]], [[Inhalt/Fertigkeiten/Geister vertreiben|Geister vertreiben]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Antimagie]]
+  - [[Geister vertreiben]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Nivesen) I ODER Vorteil Tradition der Schamanen (Orks) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+- **Erlernen:** 40 EP

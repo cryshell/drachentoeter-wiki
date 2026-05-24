@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 38f0941c-a0e4-4540-b907-762224c0dfd1
+ID: c1de30db-76ac-46d4-a75d-4e32f425750a
 Name: Lied des Trostes
 title: Lied des Trostes
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]]"
+  - "[[Eigenschaften]]"
+  - "[[Einfluss]]"
+  - "[[Elfenlieder]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Elfen I
@@ -26,5 +26,10 @@ Dein Lied hilft dem Ziel, erlebte Schicksalsschläge zu verkraften und neuen Leb
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Einfluss]]
+  - [[Elfenlieder]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Elfen I]]
+- **Erlernen:** 10 EP

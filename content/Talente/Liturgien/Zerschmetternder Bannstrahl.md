@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: c710cc42-b384-4d12-8737-84de58560340
+ID: 55097602-ec8f-453f-a3a4-119f4af15691
 Name: Zerschmetternder Bannstrahl
 title: Zerschmetternder Bannstrahl
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Licht|Licht]]"
-  - "[[Inhalt/Fertigkeiten/Magiebann|Magiebann]]"
-  - "[[Inhalt/Fertigkeiten/Nipakau|Nipakau]]"
+  - "[[Licht]]"
+  - "[[Magiebann]]"
+  - "[[Nipakau]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der Kamaluqgeweihten I
@@ -26,5 +26,10 @@ Ein gleißender Bannstrahl fährt aus dem Himmel herab. Das Ziel erleidet 8W6 SP
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Licht|Licht]], [[Inhalt/Fertigkeiten/Magiebann|Magiebann]], [[Inhalt/Fertigkeiten/Nipakau|Nipakau]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Licht]]
+  - [[Magiebann]]
+  - [[Nipakau]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Praiosgeweihten I ODER Vorteil Tradition der Kamaluqgeweihten I]]
+- **Erlernen:** 40 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 1255215f-6e37-474d-b3f0-1b31b8553873
+ID: 2fecaf7a-f9ca-46b5-94c1-1aa4dd3bfd09
 Name: Ritus der Schlachthilfe
 title: Ritus der Schlachthilfe
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heerführung|Heerführung]]"
+  - "[[Heerführung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rondrageweihten I
@@ -14,7 +14,8 @@ Während du meditierst, kann deine Schwertseele einem dir persönlich bekannten 
 
 - **Hohe Qualität:** 4 weitere Angriffe oder Verteidigungen sind möglich.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Schwertbundhilfe (dereweit; nur nutzbar, wenn das Ziel unter Wirkung der Liturgie Bund der Schwerter steht.)
+- **Modifikationen:**
+  - Schwertbundhilfe (dereweit; nur nutzbar, wenn das Ziel unter Wirkung der Liturgie Bund der Schwerter steht.)
 - **Vorbereitungszeit:** 1 Aktion
 - **Ziel:** Humanoid
 - **Reichweite:** 1 Meile
@@ -25,5 +26,8 @@ Während du meditierst, kann deine Schwertseele einem dir persönlich bekannten 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heerführung|Heerführung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Heerführung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rondrageweihten I]]
+- **Erlernen:** 20 EP

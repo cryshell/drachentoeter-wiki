@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6e904b34-88f1-4df5-85d9-ad16051ea1fb
+ID: 77ee6d92-b425-45ba-9c08-e6950f65aed9
 Name: Tradition der Borongeweihten II
 title: Tradition der Borongeweihten II
 Kategorie: Tradition (Karmal)
@@ -14,7 +14,7 @@ Borongeweihte würdigen die Ruhe und das Schweigen. In der Stille haben Liturgie
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 6
   - Vorteil [[Tradition der Borongeweihten I]]

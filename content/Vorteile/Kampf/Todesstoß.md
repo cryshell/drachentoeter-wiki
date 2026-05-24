@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 5de8ad74-af10-4551-a8df-9035825fa65e
+ID: 6282aa05-9c2e-4eee-8458-940a47f6034d
 Name: Todesstoß
 title: Todesstoß
 Kategorie: Kampf
@@ -14,7 +14,8 @@ Erlaubt das Manöver Todesstoß.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Gewandheit|GE]] 8
-- **Siehe auch:** [[Todesstoß]]
+- **Siehe auch:**
+  - [[Todesstoß]]

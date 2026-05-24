@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 7aef0b55-82fc-4a9b-ae76-eb4f5fac57e1
+ID: 2f9fa3a9-2628-4d75-bd75-fd848b1f4d42
 Name: Tradition der Elfen IV
 title: Tradition der Elfen IV
 Kategorie: Tradition (Magisch)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Intuition|IN]] 10
   - Vorteil [[Tradition der Elfen III]]

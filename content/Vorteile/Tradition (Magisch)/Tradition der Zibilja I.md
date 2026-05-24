@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b2fa2ac2-200f-4188-9f82-d6cdaf818044
+ID: 1ccecd95-d820-4c36-ac97-fb66238187d9
 Name: Tradition der Zibilja I
 title: Tradition der Zibilja I
 Kategorie: Tradition (Magisch)
@@ -16,7 +16,7 @@ Die Bedingung lautes Vorlesen aus dem Seffer Manich kann nicht ignoriert werden.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 4
   - Vorteil [[Zauberer I]]

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 236c4276-a6c4-4320-90c8-3448ac2c7627
+ID: 2913f5ef-33c2-4848-bdd7-b965e9c417c6
 Name: Ordentlich
 title: Ordentlich
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
+  - "[[Zaubertricks]]"
 Kosten: 5
 ---
 Du sorgst dafür, dass die Kleidung einer Person ordentlich getragen wird. Der Trick ist zu schwach, um jemandem damit zu schaden, etwa indem man eine Korsage „ordentlich“ eng schnürt.
@@ -20,5 +20,6 @@ Du sorgst dafür, dass die Kleidung einer Person ordentlich getragen wird. Der T
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
-- **Kosten:** 5 EP
+- **Fertigkeiten:**
+  - [[Zaubertricks]]
+- **Erlernen:** 5 EP

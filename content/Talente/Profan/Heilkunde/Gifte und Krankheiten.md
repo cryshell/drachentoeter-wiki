@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 79b689d0-e1a1-4586-bf57-c7682d9f8a1a
+ID: 996d1c9d-0020-4ffe-ad49-a937d6b76f04
 Name: Gifte und Krankheiten
 title: Gifte und Krankheiten
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heilkunde|Heilkunde]]"
+  - "[[Heilkunde]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Mit dem Talent Gifte und Krankheiten stoppst du eine Tulmadron-Vergiftung, erken
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heilkunde|Heilkunde]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Heilkunde]]
+- **Erlernen:** 40 EP

@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: ca1ebc99-dde9-4415-ba3b-d16f3bd284cd
+ID: 7bb93d21-e4e7-45b7-a295-ef5c4432375d
 Name: Zähne des Feuers
 title: Zähne des Feuers
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Feuer|Feuer]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
-  - "[[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]"
+  - "[[Feuer]]"
+  - "[[Objekt]]"
+  - "[[Zauberzeichen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Alchemisten I
@@ -27,5 +27,10 @@ Die Glyphe wird in einem Durchmesser von 16 Fingern auf einer beliebigen Fläche
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Feuer|Feuer]], [[Inhalt/Fertigkeiten/Objekt|Objekt]], [[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Feuer]]
+  - [[Objekt]]
+  - [[Zauberzeichen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Alchemisten I]]
+- **Erlernen:** 20 EP

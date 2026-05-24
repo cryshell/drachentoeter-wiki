@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 30827c54-d175-43e6-9a36-13338d62dd9e
+ID: 7a099500-9da4-4622-bc0e-073b0fb43565
 Name: Sprachkenntnis (Drachisch)
 title: Sprachkenntnis (Drachisch)
 Kategorie: Sprachkenntnis
@@ -12,6 +12,6 @@ Drachisch gehört zu keiner Sprachfamilie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I]]

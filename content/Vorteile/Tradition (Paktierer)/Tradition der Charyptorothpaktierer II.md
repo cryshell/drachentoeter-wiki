@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e5ee31b7-c7e5-441b-a53f-b51df498ea8d
+ID: 40d7048e-4136-4731-87f3-582ca7866c18
 Name: Tradition der Charyptorothpaktierer II
 title: Tradition der Charyptorothpaktierer II
 Kategorie: Tradition (Paktierer)
@@ -14,7 +14,7 @@ Paktierer werden durch erlittene Wunden eher noch gefährlicher. Der Wundabzug s
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 6
   - Vorteil [[Tradition der Charyptorothpaktierer I]]

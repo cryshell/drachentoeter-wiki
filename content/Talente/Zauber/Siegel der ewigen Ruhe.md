@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 50460c83-1afa-4f33-a0a3-7c8a53ecc9ee
+ID: cb3b949b-dc2b-4383-a496-9006748a5e9a
 Name: Siegel der ewigen Ruhe
 title: Siegel der ewigen Ruhe
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
-  - "[[Inhalt/Fertigkeiten/Zibiljarituale|Zibiljarituale]]"
+  - "[[Objekt]]"
+  - "[[Umwelt]]"
+  - "[[Zibiljarituale]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zibilja I
@@ -25,5 +25,10 @@ Du versiegelst ein Grab mit großen Steinen, die sich kaum noch bewegen lassen. 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Objekt|Objekt]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]], [[Inhalt/Fertigkeiten/Zibiljarituale|Zibiljarituale]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Objekt]]
+  - [[Umwelt]]
+  - [[Zibiljarituale]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zibilja I]]
+- **Erlernen:** 20 EP

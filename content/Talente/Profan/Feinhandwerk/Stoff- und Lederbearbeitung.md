@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 895952cc-6214-4ebf-b6e9-6d25dafe59ef
+ID: 81bcba2f-30f0-4b59-bfec-f4879692fe3e
 Name: Stoff- und Lederbearbeitung
 title: Stoff- und Lederbearbeitung
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Feinhandwerk|Feinhandwerk]]"
+  - "[[Feinhandwerk]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Stoff- und Lederbearbeitung wird hauptsächlich genutzt, um Kleidung und Rüstun
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Feinhandwerk|Feinhandwerk]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Feinhandwerk]]
+- **Erlernen:** 40 EP

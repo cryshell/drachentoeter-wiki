@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: bbc3e3d2-f787-4359-88bd-aa569d3cde31
+ID: 88b71c3c-2d01-42b3-88e5-3e21f5aff1df
 Name: Motoricus Geisterhand (Tiergeist)
 title: Motoricus Geisterhand (Tiergeist)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]]"
-  - "[[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]"
+  - "[[Gaben des Odun]]"
+  - "[[Gaben des Blutgeists]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tiergeist (Affe)
@@ -15,5 +15,9 @@ $talent:Motoricus Geisterhand$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]], [[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Gaben des Odun]]
+  - [[Gaben des Blutgeists]]
+- **Voraussetzungen:**
+  - Vorteil [[Tiergeist (Affe)]]
+- **Erlernen:** 20 EP

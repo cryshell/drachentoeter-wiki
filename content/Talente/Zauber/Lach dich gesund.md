@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 978bc7ad-c846-478d-9ce6-1bbda0ad6ef7
+ID: 3a38f066-9453-4134-9b20-7c1f852b3404
 Name: Lach dich gesund
 title: Lach dich gesund
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
+  - "[[Einfluss]]"
+  - "[[Humus]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schelme I
@@ -15,7 +15,8 @@ Du erzählst deinem Ziel einen hervorragenden Witz, der es in einen kichernden R
 
 - **Hohe Qualität:** Erhöht die Heilpunkte um 4.
 - **Probenschwierigkeit:** 12+Wund-Mod des Ziels
-- **Modifikationen:** Tanz dich wach (-4; du tanzt gemeinsam mit deinem Ziel, das statt Wunden Erschöpfung regeneriert.)
+- **Modifikationen:**
+  - Tanz dich wach (-4; du tanzt gemeinsam mit deinem Ziel, das statt Wunden Erschöpfung regeneriert.)
 - **Vorbereitungszeit:** 8 Aktionen
 - **Ziel:** Humanoid
 - **Reichweite:** Berührung
@@ -26,5 +27,9 @@ Du erzählst deinem Ziel einen hervorragenden Witz, der es in einen kichernden R
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Humus|Humus]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Humus]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schelme I]]
+- **Erlernen:** 20 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: b5479485-67f6-4661-8b3f-f625f526ffef
+ID: 83e097ba-9989-4d71-82a6-c2e7af879862
 Name: Bishdariels Auge
 title: Bishdariels Auge
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einsicht|Einsicht]]"
-  - "[[Inhalt/Fertigkeiten/Schlaf|Schlaf]]"
+  - "[[Einsicht]]"
+  - "[[Schlaf]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der Nandusgeweihten I
@@ -14,9 +14,9 @@ Voraussetzungen: Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition d
 Du erhältst einen Einblick in den Traum deines Ziels. Erfordert *Konzentration*, erlaubt *Aufrechterhalten*.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Traumreise (nicht Nan, -4, 8 KaP; du kannst in den Traum des Schlafenden reisen.)
-Große Traumreise (nicht Nan, -8, 16 KaP; du kannst mit einigen Gefährten in den Traum reisen.)
-
+- **Modifikationen:**
+  - Traumreise (nicht Nan, -4, 8 KaP; du kannst in den Traum des Schlafenden reisen.)
+  - Große Traumreise (nicht Nan, -8, 16 KaP; du kannst mit einigen Gefährten in den Traum reisen.)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Humanoid
 - **Reichweite:** Berührung
@@ -28,5 +28,9 @@ Große Traumreise (nicht Nan, -8, 16 KaP; du kannst mit einigen Gefährten in de
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einsicht|Einsicht]], [[Inhalt/Fertigkeiten/Schlaf|Schlaf]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Einsicht]]
+  - [[Schlaf]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borongeweihten I ODER Vorteil Tradition der Nandusgeweihten I]]
+- **Erlernen:** 10 EP

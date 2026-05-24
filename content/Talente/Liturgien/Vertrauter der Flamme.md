@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: ea9b522f-e480-499f-80c2-249da0590696
+ID: 72190444-9067-48cb-bf0f-877cc958aa4a
 Name: Vertrauter der Flamme
 title: Vertrauter der Flamme
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heiliges Feuer|Heiliges Feuer]]"
-  - "[[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]]"
+  - "[[Heiliges Feuer]]"
+  - "[[Heim und Herd]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Traviageweihten I ODER Vorteil Tradition der Graveshgeweihten I
@@ -14,7 +14,8 @@ Voraussetzungen: Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Traditio
 Du bist immun gegen Feuerschaden und Hitze. Erlaubt *Aufrechterhalten*.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Erweiterter Schutz (-4; der Schutz betrifft auch deine Ausrüstung.)
+- **Modifikationen:**
+  - Erweiterter Schutz (-4; der Schutz betrifft auch deine Ausrüstung.)
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -26,5 +27,9 @@ Du bist immun gegen Feuerschaden und Hitze. Erlaubt *Aufrechterhalten*.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heiliges Feuer|Heiliges Feuer]], [[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Heiliges Feuer]]
+  - [[Heim und Herd]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Traviageweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+- **Erlernen:** 20 EP

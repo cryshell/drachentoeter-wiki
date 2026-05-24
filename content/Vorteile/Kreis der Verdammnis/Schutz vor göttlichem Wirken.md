@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f5cc4257-faa6-436a-81b6-6a8d011d5f19
+ID: 6946b0ac-0ced-423f-a082-10850a08e548
 Name: Schutz vor göttlichem Wirken
 title: Schutz vor göttlichem Wirken
 Kategorie: Kreis der Verdammnis
@@ -14,7 +14,7 @@ Liturgien wirken auf dich deutlich schwächer. Du ignorierst bei allen Liturgien
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 8
   - Vorteil [[Paktierer I]]

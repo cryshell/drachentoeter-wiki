@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 523d74d2-7647-445b-831d-657370668775
+ID: 4c8440c0-4974-481e-be97-5fb562ce02d7
 Name: Auge Xeledons, Xeledons helles Licht
 title: Auge Xeledons, Xeledons helles Licht
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wissen|Wissen]]"
+  - "[[Wissen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hesindegeweihten I
@@ -23,5 +23,8 @@ Du versetzt deine Mitbeter in einem Radius von 4 Schritt in eine höhere Geistes
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wissen|Wissen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Wissen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hesindegeweihten I]]
+- **Erlernen:** 20 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 227dd667-7dcb-4b4a-a0b6-6edbd1d84f86
+ID: b4fdf763-52c5-4f9d-a567-12937a4fc76d
 Name: Pech an den Hals wünschen
 title: Pech an den Hals wünschen
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Hexenflüche|Hexenflüche]]"
+  - "[[Eigenschaften]]"
+  - "[[Hexenflüche]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hexen I
@@ -25,5 +25,9 @@ Dein Opfer wird vom Unglück verfolgt. Seine Chance auf einen Patzer steigt um 1
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Hexenflüche|Hexenflüche]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Hexenflüche]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hexen I]]
+- **Erlernen:** 20 EP

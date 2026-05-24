@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 212e6749-6426-4b7a-a0ae-0258b50c9f9c
+ID: c32374de-f84c-4ab2-9dbe-827d090c6225
 Name: Weihesegen der Waffe
 title: Weihesegen der Waffe
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eroberung|Eroberung]]"
-  - "[[Inhalt/Fertigkeiten/Gutes Gold|Gutes Gold]]"
-  - "[[Inhalt/Fertigkeiten/Heerführung|Heerführung]]"
+  - "[[Eroberung]]"
+  - "[[Gutes Gold]]"
+  - "[[Heerführung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rondrageweihten I ODER Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I
@@ -28,5 +28,10 @@ Du weihst bis zu vier Nahkampfwaffen einem Radius von 4 Schritt.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eroberung|Eroberung]], [[Inhalt/Fertigkeiten/Gutes Gold|Gutes Gold]], [[Inhalt/Fertigkeiten/Heerführung|Heerführung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eroberung]]
+  - [[Gutes Gold]]
+  - [[Heerführung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rondrageweihten I ODER Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I]]
+- **Erlernen:** 20 EP

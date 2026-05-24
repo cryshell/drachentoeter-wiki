@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 4d84aad2-68b2-44eb-99d1-cc7dcfc7471e
+ID: 50abb1e2-0e40-4630-bdef-22d21eecf690
 Name: Geister der Täuschung
 title: Geister der Täuschung
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Geister des Zorns|Geister des Zorns]]"
-  - "[[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]"
+  - "[[Einfluss]]"
+  - "[[Geister des Zorns]]"
+  - "[[Geister rufen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Waldmenschen) I
@@ -19,5 +19,10 @@ $talent:Halluzination$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Geister des Zorns|Geister des Zorns]], [[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Geister des Zorns]]
+  - [[Geister rufen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+- **Erlernen:** 20 EP

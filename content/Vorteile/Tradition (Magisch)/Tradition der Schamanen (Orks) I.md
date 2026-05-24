@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 80567ed4-4c00-4c22-8c7b-d07feaae5a21
+ID: 8d9e91fb-ee4b-4dad-8eb9-49165b9ebac4
 Name: Tradition der Schamanen (Orks) I
 title: Tradition der Schamanen (Orks) I
 Kategorie: Tradition (Magisch)
@@ -16,7 +16,7 @@ Bei Elementarzaubern kannst du nur Erz, Feuer und Luft verwenden. Verärgert der
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 4
   - Vorteil [[Zauberer I]]

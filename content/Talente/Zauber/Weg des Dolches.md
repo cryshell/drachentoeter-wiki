@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: bc3c595b-88ad-40ea-8c3d-885757bd95bd
+ID: 6d9d0523-e90d-4025-b1d8-502b20586c87
 Name: Weg des Dolches
 title: Weg des Dolches
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]]"
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Dolchzauber]]"
+  - "[[Hellsicht]]"
+  - "[[Umwelt]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I
@@ -25,5 +25,10 @@ Dein Dolch zeigt in die Richtung des Ortes, an dem er geweiht wurde. Eine Überl
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]], [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Dolchzauber]]
+  - [[Hellsicht]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I]]
+- **Erlernen:** 10 EP

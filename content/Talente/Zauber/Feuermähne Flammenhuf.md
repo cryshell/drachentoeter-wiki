@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 618b0dfa-bdcc-4588-ae20-ed6461d3b3d8
+ID: d6c6261e-6197-40a7-a28a-72aa5e519481
 Name: Feuermähne Flammenhuf
 title: Feuermähne Flammenhuf
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Feuer|Feuer]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Feuer]]"
+  - "[[Verständigung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Elfen I
@@ -24,5 +24,9 @@ Du rufst eine Flammenmähre, ein Pferd aus reinem Feuer herbei. Gelingt dir eine
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Feuer|Feuer]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Feuer]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Elfen I]]
+- **Erlernen:** 20 EP

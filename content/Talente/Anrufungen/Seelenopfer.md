@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 61c8e1be-d36a-4edf-95bf-15e52c57d9b5
+ID: 491e4c2b-93f8-4f41-b904-732593d46f2f
 Name: Seelenopfer
 title: Seelenopfer
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonischer Ritus|Dämonischer Ritus]]"
+  - "[[Dämonischer Ritus]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -24,5 +24,6 @@ Du lässt das Opfer während der Zeremonie ausbluten und schickst seine Seele di
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonischer Ritus|Dämonischer Ritus]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Dämonischer Ritus]]
+- **Erlernen:** 20 EP

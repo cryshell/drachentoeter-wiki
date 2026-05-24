@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6d466658-a7a4-464b-b9dd-49945cfe54a2
+ID: 4538f0f3-8f2b-4393-b8fb-2085e7c6b6e9
 Name: Sprachkenntnis (Rissoal)
 title: Sprachkenntnis (Rissoal)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Rissoal gehört zur Maritim-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

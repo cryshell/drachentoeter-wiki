@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: fd97bf12-34f5-4ba0-a2a5-f2db2a26fe7b
+ID: 7b75b1fc-a469-498e-920a-cd038fe8989f
 Name: Fluch der Pestilenz
 title: Fluch der Pestilenz
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
+  - "[[Dämonisch]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I
@@ -14,7 +14,8 @@ Du infizierst dein Opfer mit einer dir bekannten Krankheit deiner Wahl, die dann
 
 - **Hohe Qualität:** Erhöht die maximale Krankheitsstufe um +4.
 - **Probenschwierigkeit:** Magieresistenz
-- **Modifikationen:** Einzelfall (-4; die Krankheit ist nicht ansteckend.)
+- **Modifikationen:**
+  - Einzelfall (-4; die Krankheit ist nicht ansteckend.)
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** Humanoid
 - **Reichweite:** 4 Schritt
@@ -25,5 +26,8 @@ Du infizierst dein Opfer mit einer dir bekannten Krankheit deiner Wahl, die dann
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Dämonisch]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

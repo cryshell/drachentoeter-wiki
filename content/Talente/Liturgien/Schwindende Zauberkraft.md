@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: d807b50f-1358-440d-a93d-997a793fcdb8
+ID: 30abeecd-0e21-462c-b13c-d54bb5f4ac66
 Name: Schwindende Zauberkraft
 title: Schwindende Zauberkraft
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Herrschaft|Herrschaft]]"
+  - "[[Herrschaft]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Namenlosgeweihten I
@@ -13,7 +13,8 @@ Voraussetzungen: Vorteil Tradition der Namenlosgeweihten I
 Alle Zauber im Radius von 16 Schritt, deren EW nicht größer als der dieser Liturgie ist, werden aufgehoben. Zauber, in die gAsP geflossen sind werden jedoch nur unterdrückt. Außerdem können keine neuen Zauber gewirkt oder Artefakte ausgelöst werden. 
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Astralschwund (-4; Zauberer verlieren in der Zone zu Beginn jedes Zugs 1W3 AsP.)
+- **Modifikationen:**
+  - Astralschwund (-4; Zauberer verlieren in der Zone zu Beginn jedes Zugs 1W3 AsP.)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -24,5 +25,8 @@ Alle Zauber im Radius von 16 Schritt, deren EW nicht größer als der dieser Lit
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Herrschaft|Herrschaft]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Herrschaft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Namenlosgeweihten I]]
+- **Erlernen:** 40 EP

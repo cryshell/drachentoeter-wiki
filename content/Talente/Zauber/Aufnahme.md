@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 6c7b6d67-f037-4c65-82d0-c3fb5338037c
+ID: b67c2d4c-4e98-4f20-9bee-e9189eb6eef2
 Name: Aufnahme
 title: Aufnahme
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Illusion|Illusion]]"
-  - "[[Inhalt/Fertigkeiten/Kugelzauber|Kugelzauber]]"
+  - "[[Illusion]]"
+  - "[[Kugelzauber]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Scharlatane I
@@ -24,5 +24,9 @@ Du bereitest die Kugel vor, damit sie ein bestimmtes Wesen und die nähere Umgeb
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Illusion|Illusion]], [[Inhalt/Fertigkeiten/Kugelzauber|Kugelzauber]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Illusion]]
+  - [[Kugelzauber]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Scharlatane I]]
+- **Erlernen:** 20 EP

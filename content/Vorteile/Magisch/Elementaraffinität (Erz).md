@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 73f202e1-cadf-4ce8-8c2f-f2a5498bc646
+ID: e98b77c5-ce71-472d-bc22-778b44052ffa
 Name: Elementaraffinität (Erz)
 title: Elementaraffinität (Erz)
 Kategorie: Magisch
@@ -14,7 +14,7 @@ Der Basiswert der Fertigkeit Erz ist um zwei Punkte erhöht, der von Luft um vie
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
-  - Kein Vorteil Kreis der Verdammnis I
+  - Kein Vorteil [[Kreis der Verdammnis I]]

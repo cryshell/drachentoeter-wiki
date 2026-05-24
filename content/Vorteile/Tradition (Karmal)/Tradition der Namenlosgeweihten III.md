@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: df789f93-1947-4ca9-ad4e-cc3145bb434b
+ID: 12a25504-91f6-4726-9734-30173762f0c8
 Name: Tradition der Namenlosgeweihten III
 title: Tradition der Namenlosgeweihten III
 Kategorie: Tradition (Karmal)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 8
   - Vorteil [[Tradition der Namenlosgeweihten II]]
-- **Siehe auch:** [[Opferung (Namenlos)]]
+- **Siehe auch:**
+  - [[Opferung (Namenlos)]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 11ad4913-5cd1-4508-a710-dfec8e49a4ad
+ID: 54b93170-86b9-481a-a26a-9816444c4793
 Name: Schriftkenntnis (Kusliker Zeichen)
 title: Schriftkenntnis (Kusliker Zeichen)
 Kategorie: Schriftkenntnis
@@ -11,4 +11,4 @@ Schriften umfassen sowohl die Fähigkeit die entsprechenden Zeichen lesen als au
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

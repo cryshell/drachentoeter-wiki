@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: d4c8a1fa-db68-4a37-b532-08c39af51727
+ID: 92b6270a-8f71-4a95-a782-03c82b9bb138
 Name: Schlaffluch
 title: Schlaffluch
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Hexenflüche|Hexenflüche]]"
+  - "[[Einfluss]]"
+  - "[[Hexenflüche]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hexen I
@@ -24,5 +24,9 @@ Das Opfer kann nicht schlafen und wird beim Versuch von schrecklichen Albträume
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Hexenflüche|Hexenflüche]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Hexenflüche]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hexen I]]
+- **Erlernen:** 20 EP

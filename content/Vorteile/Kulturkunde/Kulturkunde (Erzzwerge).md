@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0b5596b1-9ee6-494a-9102-81fed949ecaa
+ID: cc91f906-4c7e-4f52-a855-804a5ab8e4b6
 Name: Kulturkunde (Erzzwerge)
 title: Kulturkunde (Erzzwerge)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

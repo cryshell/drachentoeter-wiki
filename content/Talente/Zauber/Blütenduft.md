@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: ba230971-15da-4ad1-824d-d35d0778199f
+ID: 0fa1ad38-ab0d-49e5-959f-14d0fb30a46c
 Name: Blütenduft
 title: Blütenduft
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
+  - "[[Zaubertricks]]"
 Kosten: 5
 ---
 Deine Umgebung nimmt in einem Radius von 8 Schritt einen angenehmen, natürlichen Duft an, etwa nach Blumen oder frisch gemähtem Gras. Dabei handelt es sich um eine *Illusion* (Geruch).
@@ -20,5 +20,6 @@ Deine Umgebung nimmt in einem Radius von 8 Schritt einen angenehmen, natürliche
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
-- **Kosten:** 5 EP
+- **Fertigkeiten:**
+  - [[Zaubertricks]]
+- **Erlernen:** 5 EP

@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: e63a68d1-5008-4d4f-8b53-a6d28e10b69e
+ID: 64346d76-ecca-426a-9f5d-fef77be2b85c
 Name: Geschenk des Blutes
 title: Geschenk des Blutes
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Vampirische Kräfte|Vampirische Kräfte]]"
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
+  - "[[Vampirische Kräfte]]"
+  - "[[Humus]]"
+  - "[[Verwandlung]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kinder der Nacht
@@ -26,5 +26,10 @@ Du gibst jemandem von deinem Blut zu trinken. Dein Ziel erhält augenblicklich 2
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Vampirische Kräfte|Vampirische Kräfte]], [[Inhalt/Fertigkeiten/Humus|Humus]], [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Vampirische Kräfte]]
+  - [[Humus]]
+  - [[Verwandlung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kinder der Nacht]]
+- **Erlernen:** 40 EP

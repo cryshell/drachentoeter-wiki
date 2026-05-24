@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 7833a77b-5a3d-4050-91ab-f695d5de38ab
+ID: 946b0b1a-182e-4fda-bd64-0901054f1969
 Name: Salajanas Segen
 title: Salajanas Segen
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Neubeginn|Neubeginn]]"
+  - "[[Neubeginn]]"
 Kosten: 0
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Tsageweihten I
@@ -24,5 +24,8 @@ Du milderst den Wehenschmerz der Gesegneten.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Neubeginn|Neubeginn]]
-- **Kosten:** 0 EP
+- **Fertigkeiten:**
+  - [[Neubeginn]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Tsageweihten I]]
+- **Erlernen:** 0 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 58a2171b-f36b-4723-aec9-b30c69a453b2
+ID: 31debcf3-8ea1-4ffb-99b2-0693281117ae
 Name: Nackedei
 title: Nackedei
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Objekt]]"
+  - "[[Umwelt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schelme I
@@ -14,9 +14,9 @@ Voraussetzungen: Vorteil Tradition der Schelme I
 Sämtliche Stoffkleidung des Opfers fällt plötzlich zu Boden. Metallische Rüstung ist nicht betroffen.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Blechdose (-8; der Zauber betrifft auch Rüstungsteile aus Metall.)
-Absatteln (-8; der Zauber betrifft auch Pferdegeschirr und Sattelgurte, wenn dein Ziel ein Reiter ist.)
-
+- **Modifikationen:**
+  - Blechdose (-8; der Zauber betrifft auch Rüstungsteile aus Metall.)
+  - Absatteln (-8; der Zauber betrifft auch Pferdegeschirr und Sattelgurte, wenn dein Ziel ein Reiter ist.)
 - **Vorbereitungszeit:** 0 Aktionen
 - **Ziel:** Humanoid
 - **Reichweite:** 8 Schritt
@@ -27,5 +27,9 @@ Absatteln (-8; der Zauber betrifft auch Pferdegeschirr und Sattelgurte, wenn dei
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Objekt|Objekt]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Objekt]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schelme I]]
+- **Erlernen:** 20 EP

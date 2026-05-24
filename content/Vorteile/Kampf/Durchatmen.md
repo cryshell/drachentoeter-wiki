@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4c33f17c-c4d5-4f8c-b7e4-ef62e9d1aac0
+ID: 76578c56-541c-4dcf-b57e-e86b7523d85a
 Name: Durchatmen
 title: Durchatmen
 Kategorie: Kampf
@@ -14,7 +14,8 @@ Du kannst als Bonusaktion eine KO-Probe (16) ablegen. Wenn sie gelingt, regeneri
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Konstitution|KO]] 4
-- **Siehe auch:** [[Bonusaktion]]
+- **Siehe auch:**
+  - [[Bonusaktion]]

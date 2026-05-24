@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 8e0b5807-6b34-40d6-962c-5abfde0437e0
+ID: 90d1b108-e1b7-4bbb-8e12-2fc5428c0954
 Name: Fluch der Götter (Nandus)
 title: Fluch der Götter (Nandus)
 Kategorie: Nachteil
@@ -12,6 +12,6 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Nandus), Empfindlichkeit I (Pflan
 
 ---
 
-- **Kosten:** -200 EP
+- **Erlernen:** -200 EP
 - **Voraussetzungen:**
   - Vorteil [[Vampir I]]

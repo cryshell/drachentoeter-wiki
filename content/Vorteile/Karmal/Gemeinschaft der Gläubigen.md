@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 82a76142-8d0e-47db-9040-bddb0aedd4a5
+ID: 485466ce-10b8-413d-97d2-e6adda54b035
 Name: Gemeinschaft der Gläubigen
 title: Gemeinschaft der Gläubigen
 Kategorie: Karmal
@@ -14,7 +14,7 @@ Für mindestens 4/8/16/32 Mitbetende ist die Liturgieprobe um +1/2/3/4 erleichte
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 4
   - Vorteil [[Geweiht I]]

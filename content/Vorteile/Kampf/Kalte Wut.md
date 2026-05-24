@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: eb688fbd-2470-42d7-81f5-8df24c78f591
+ID: 75dcf7e8-6ad8-4b3e-abbe-5f3148a88143
 Name: Kalte Wut
 title: Kalte Wut
 Kategorie: Kampf
@@ -14,7 +14,8 @@ Du kannst dich mit einer Bonusaktion in kalte Wut versetzen und für den laufend
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 10
-- **Siehe auch:** [[Bonusaktion]]
+- **Siehe auch:**
+  - [[Bonusaktion]]

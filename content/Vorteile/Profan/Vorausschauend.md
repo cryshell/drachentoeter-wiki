@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 3183ef59-07d5-4ca0-9780-de1372721278
+ID: 7c7194b6-22f6-4571-872d-92c92c958821
 Name: Vorausschauend
 title: Vorausschauend
 Kategorie: Profan
@@ -16,7 +16,10 @@ Wenn dir in einer sozialen Interaktion eine Probe gelingt, bei der du eine Eigen
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 6
-- **Siehe auch:** [[Soziale Interaktion]], [[Rededuell]], [[Manipulation]]
+- **Siehe auch:**
+  - [[Soziale Interaktion]]
+  - [[Rededuell]]
+  - [[Manipulation]]

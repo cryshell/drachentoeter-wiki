@@ -1,14 +1,14 @@
 ---
 Entitätstyp: Talent
-ID: 2d83be9a-7525-434d-8d24-f3784dfaaa38
+ID: 73e1b1be-ec7e-41dd-8c57-43f62b5a8ab6
 Name: Mondsilberzunge
 title: Mondsilberzunge
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Friede|Friede]]"
-  - "[[Inhalt/Fertigkeiten/List|List]]"
-  - "[[Inhalt/Fertigkeiten/Stiller Wanderer|Stiller Wanderer]]"
-  - "[[Inhalt/Fertigkeiten/Gutes Gold|Gutes Gold]]"
+  - "[[Friede]]"
+  - "[[List]]"
+  - "[[Stiller Wanderer]]"
+  - "[[Gutes Gold]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Avesgeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Korgeweihten I
@@ -27,5 +27,11 @@ Deine Zunge ist flink und die Worte fließen dir nur so von den Lippen. Deine Ü
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Friede|Friede]], [[Inhalt/Fertigkeiten/List|List]], [[Inhalt/Fertigkeiten/Stiller Wanderer|Stiller Wanderer]], [[Inhalt/Fertigkeiten/Gutes Gold|Gutes Gold]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Friede]]
+  - [[List]]
+  - [[Stiller Wanderer]]
+  - [[Gutes Gold]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Korgeweihten I]]
+- **Erlernen:** 20 EP

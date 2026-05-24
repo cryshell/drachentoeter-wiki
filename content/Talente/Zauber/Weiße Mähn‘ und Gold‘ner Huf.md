@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 23793bec-d78e-4298-aa83-e358639eee67
+ID: 68f0a9b2-3134-45e5-9be0-56ddc7d28bf8
 Name: Weiße Mähn‘ und Gold‘ner Huf
 title: Weiße Mähn‘ und Gold‘ner Huf
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Kraft]]"
+  - "[[Verständigung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Elfen I
@@ -15,7 +15,8 @@ Ein Zauberpferd von den Inseln im Nebel manifestiert sich neben dir. Es hat die 
 
 - **Hohe Qualität:** Die GS des Pferds steigt um +2. Ab 2 Stufen haben zudem Reiten-Proben auf dem Pferd Vorteil.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Wille des Pferdes (-8; das Pferd akzeptiert auch einen anderen Reiter, den du festlegst.)
+- **Modifikationen:**
+  - Wille des Pferdes (-8; das Pferd akzeptiert auch einen anderen Reiter, den du festlegst.)
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** Pferd
 - **Reichweite:** dereweit
@@ -26,5 +27,9 @@ Ein Zauberpferd von den Inseln im Nebel manifestiert sich neben dir. Es hat die 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Kraft|Kraft]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Kraft]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Elfen I]]
+- **Erlernen:** 20 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: ce3fe3d5-73c4-46c2-9233-443fff918005
+ID: c810280c-70e9-42b6-898f-d181c5ef02b4
 Name: Zeichen des Handwerks
 title: Zeichen des Handwerks
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
-  - "[[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]"
+  - "[[Objekt]]"
+  - "[[Zauberzeichen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Gildenmagier I
@@ -24,5 +24,9 @@ Das Zeichen wird in einem Durchmesser von 8 Fingern auf Werkzeug angebracht. Fal
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Objekt|Objekt]], [[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Objekt]]
+  - [[Zauberzeichen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

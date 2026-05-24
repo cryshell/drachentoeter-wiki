@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 75d5ba68-26d3-4449-a93e-38740dc0ba74
+ID: 771d022d-9601-4c1e-84fd-5994a747cf64
 Name: Schriftkenntnis (Imperiale Zeichen)
 title: Schriftkenntnis (Imperiale Zeichen)
 Kategorie: Schriftkenntnis
@@ -11,4 +11,4 @@ Schriften umfassen sowohl die Fähigkeit die entsprechenden Zeichen lesen als au
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

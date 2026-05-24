@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d72a7cd9-3de9-48ba-b60e-e0f6d02964a1
+ID: 918d966b-8a12-4d9f-84b6-977a70618de5
 Name: Sprachkenntnis (Atak)
 title: Sprachkenntnis (Atak)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Atak gehört zu keiner Sprachfamilie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

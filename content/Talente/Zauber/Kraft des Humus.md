@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 7d039cb2-fe5c-4acc-b9d3-95e1c07380b9
+ID: eab690e3-c2c9-46ab-94d2-e75661e87aef
 Name: Kraft des Humus
 title: Kraft des Humus
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
+  - "[[Humus]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I
@@ -13,7 +13,8 @@ Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfe
 Du erfüllst ein großes humusaffines Wesen wie einen Baum mit elementarer Lebenskraft. Wer im Radius von 8 Schritt eine Ruhepause verbringt, regeneriert eine zusätzliche Wunde.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Heiliger Hain (-16, Wirkungsdauer bis die Bindung gelöst wird, 64 AsP, davon 16 gAsP)
+- **Modifikationen:**
+  - Heiliger Hain (-16, Wirkungsdauer bis die Bindung gelöst wird, 64 AsP, davon 16 gAsP)
 - **Vorbereitungszeit:** 1 Stunde
 - **Ziel:** Wesen
 - **Reichweite:** Berührung
@@ -24,5 +25,8 @@ Du erfüllst ein großes humusaffines Wesen wie einen Baum mit elementarer Leben
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Humus|Humus]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Humus]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

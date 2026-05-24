@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 44e08d18-bf54-420c-8ac6-9f039a5b7609
+ID: a3c3e277-6c78-4b23-881c-06187e7f0370
 Name: Monsterjäger
 title: Monsterjäger
 Kategorie: Kampf
@@ -11,4 +11,4 @@ Du kannst bei einem Schadenswurf gegen Tiere und Humanoide (nicht spielbare Spez
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP

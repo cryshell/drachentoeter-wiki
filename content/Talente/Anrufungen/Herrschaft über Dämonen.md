@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 84d540a9-0001-4f7a-8333-0cdb01ff8e8c
+ID: fba9ba7d-57e5-486a-a585-38a8a677e7de
 Name: Herrschaft über Dämonen
 title: Herrschaft über Dämonen
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonischer Ritus|Dämonischer Ritus]]"
+  - "[[Dämonischer Ritus]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -24,5 +24,6 @@ Ruft einen Dämon herbei, der in deiner unmittelbaren Nähe erscheint. Schwierig
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonischer Ritus|Dämonischer Ritus]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Dämonischer Ritus]]
+- **Erlernen:** 40 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 317230a3-4883-4296-98d5-1a120d674fb5
+ID: 323deffc-4940-49b3-adf1-223c91b885b0
 Name: Desintegratus Pulverstaub
 title: Desintegratus Pulverstaub
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
+  - "[[Objekt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I
@@ -14,7 +14,8 @@ Von deiner Hand geht 8 Schritt weit eine kegelförmige (15°) Welle astraler Kra
 
 - **Hohe Qualität:** Gegenstände bis zu einer Metallwaffe/Rüstung/dicke Stahlstangen/Hauswand werden zerstört.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Hand der Vernichtung (-4, Objekt, 4 AsP; nur ein maximal faustgroßer Gegenstand ist betroffen.)
+- **Modifikationen:**
+  - Hand der Vernichtung (-4, Objekt, 4 AsP; nur ein maximal faustgroßer Gegenstand ist betroffen.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -25,5 +26,8 @@ Von deiner Hand geht 8 Schritt weit eine kegelförmige (15°) Welle astraler Kra
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Objekt|Objekt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Objekt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

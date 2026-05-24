@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a78dc6c5-dd44-41a4-b931-5c82c660c39c
+ID: 66f4ae5b-4811-4d6b-8692-cb3bae01bc91
 Name: Sprachkenntnis (Fjarningsch)
 title: Sprachkenntnis (Fjarningsch)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Fjarningsch gehört zur Thorwalsch-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

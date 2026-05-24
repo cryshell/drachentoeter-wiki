@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: d8673543-357d-4caf-8c8a-51c1907579de
+ID: 53bf6a81-3e42-422c-bec8-332c2d64ab98
 Name: Gift der Erkenntnis
 title: Gift der Erkenntnis
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Veränderung|Veränderung]]"
-  - "[[Inhalt/Fertigkeiten/Wissen|Wissen]]"
+  - "[[Veränderung]]"
+  - "[[Wissen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der H’Szintgeweihten I
@@ -15,7 +15,8 @@ Du lässt dich von einer Schlange beißen. Solange das Gift wirkt, erhältst du 
 
 - **Hohe Qualität:** Für je 2 Stufen erhältst du einen guten/vollständigen Eindruck.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Tiefentelepathie (-16, 8 KaP; du erhältst einen Einblick in innerste Vorgänge.)
+- **Modifikationen:**
+  - Tiefentelepathie (-16, 8 KaP; du erhältst einen Einblick in innerste Vorgänge.)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -26,5 +27,9 @@ Du lässt dich von einer Schlange beißen. Solange das Gift wirkt, erhältst du 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Veränderung|Veränderung]], [[Inhalt/Fertigkeiten/Wissen|Wissen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Veränderung]]
+  - [[Wissen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der H’Szintgeweihten I]]
+- **Erlernen:** 20 EP

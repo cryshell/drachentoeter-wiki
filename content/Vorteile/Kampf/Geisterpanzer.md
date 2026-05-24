@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d7c47198-cc18-4ba5-b14b-b6a340720bc4
+ID: afbd970f-d860-47d8-85ba-9260f51eb706
 Name: Geisterpanzer
 title: Geisterpanzer
 Kategorie: Kampf
@@ -14,7 +14,8 @@ Gegen direkten (Erschöpfungs-)Schaden aus Zaubern wie Fulminictus, Ignisphaero 
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 8
-- **Siehe auch:** [[WS]]
+- **Siehe auch:**
+  - [[WS]]

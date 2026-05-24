@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b31a194e-1d23-4397-90dd-d6c0e3b98946
+ID: 4f9e4795-4bb8-41e8-895b-d20fb15ea94d
 Name: Angepasst (Wald)
 title: Angepasst (Wald)
 Kategorie: Profan
@@ -13,5 +13,6 @@ Durch deine Spezies oder langjährige Erfahrung hast du dich an die Landschaften
 
 ---
 
-- **Kosten:** 40 EP
-- **Siehe auch:** [[Bewegung]]
+- **Erlernen:** 40 EP
+- **Siehe auch:**
+  - [[Bewegung]]

@@ -1,15 +1,15 @@
 ---
 Entitätstyp: Talent
-ID: 9f52cbc6-9ee3-4776-9746-e6128361dac1
+ID: 335dfcaf-5d53-4242-920a-81db14c78d23
 Name: Sicht auf Madas Welt
 title: Sicht auf Madas Welt
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Abu al'Mada|Abu al'Mada]]"
-  - "[[Inhalt/Fertigkeiten/Einsicht|Einsicht]]"
-  - "[[Inhalt/Fertigkeiten/Magie|Magie]]"
-  - "[[Inhalt/Fertigkeiten/Magiebann|Magiebann]]"
-  - "[[Inhalt/Fertigkeiten/Geister|Geister]]"
+  - "[[Abu al'Mada]]"
+  - "[[Einsicht]]"
+  - "[[Magie]]"
+  - "[[Magiebann]]"
+  - "[[Geister]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der H’Szintgeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Tairachgeweihten I
@@ -29,5 +29,12 @@ Du nimmst magische Kraft in deiner Umgebung als silbernen Schimmer wahr. Das ent
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Abu al'Mada|Abu al'Mada]], [[Inhalt/Fertigkeiten/Einsicht|Einsicht]], [[Inhalt/Fertigkeiten/Magie|Magie]], [[Inhalt/Fertigkeiten/Magiebann|Magiebann]], [[Inhalt/Fertigkeiten/Geister|Geister]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Abu al'Mada]]
+  - [[Einsicht]]
+  - [[Magie]]
+  - [[Magiebann]]
+  - [[Geister]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der H’Szintgeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Tairachgeweihten I]]
+- **Erlernen:** 10 EP

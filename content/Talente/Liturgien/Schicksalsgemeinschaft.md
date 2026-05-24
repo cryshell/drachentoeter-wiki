@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 6100bdd1-1189-4685-bac1-7fd45664ea84
+ID: 1894cf9c-9ac3-4c52-81bf-c83c6bf39bbe
 Name: Schicksalsgemeinschaft
 title: Schicksalsgemeinschaft
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Harmonie|Harmonie]]"
-  - "[[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]]"
-  - "[[Inhalt/Fertigkeiten/Stiller Wanderer|Stiller Wanderer]]"
+  - "[[Harmonie]]"
+  - "[[Heim und Herd]]"
+  - "[[Stiller Wanderer]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Avesgeweihten I ODER Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Traviageweihten I
@@ -16,7 +16,8 @@ Du stärkst das gegenseitige Vertrauen zwischen bis zu 8 treuen Gefährten in ei
 
 - **Hohe Qualität:** Punkte können zweimal täglich/dreimal täglich/beliebig oft weitergegeben werden.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, Kosten 8 KaP, davon 2 gKaP)
+- **Modifikationen:**
+  - Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, Kosten 8 KaP, davon 2 gKaP)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -28,5 +29,10 @@ Du stärkst das gegenseitige Vertrauen zwischen bis zu 8 treuen Gefährten in ei
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Harmonie|Harmonie]], [[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]], [[Inhalt/Fertigkeiten/Stiller Wanderer|Stiller Wanderer]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Harmonie]]
+  - [[Heim und Herd]]
+  - [[Stiller Wanderer]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Traviageweihten I]]
+- **Erlernen:** 20 EP

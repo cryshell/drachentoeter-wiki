@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2b7c5de1-8ea5-4df4-a762-18fcf2ac0f1a
+ID: d34f8259-f479-42dc-95b8-875fadf95917
 Name: Kulturkunde (Fjarninger)
 title: Kulturkunde (Fjarninger)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

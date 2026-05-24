@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: f48b1805-b655-4cf7-8863-a27b8ca9914a
+ID: a2f83519-191e-4027-bb77-42441738b342
 Name: Ruf des (Tieres)
 title: Ruf des (Tieres)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
-  - "[[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]]"
+  - "[[Einfluss]]"
+  - "[[Verständigung]]"
+  - "[[Gaben des Odun]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Durro-Dûn I
@@ -16,7 +16,8 @@ Du rufst ein maximal *kleines* Exemplar deines Tiergeists herbei. Falls das Tier
 
 - **Hohe Qualität:** Verdoppelt für 2 je Stufen die Anzahl Tiere.
 - **Probenschwierigkeit:** 12/16/20/24/28
-- **Modifikationen:** Größeres Tier (-4, Kosten +8 AsP; das Tier darf eine Stufe größer sein. Mehrmals wählbar.)
+- **Modifikationen:**
+  - Größeres Tier (-4, Kosten +8 AsP; das Tier darf eine Stufe größer sein. Mehrmals wählbar.)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -27,5 +28,10 @@ Du rufst ein maximal *kleines* Exemplar deines Tiergeists herbei. Falls das Tier
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]], [[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Verständigung]]
+  - [[Gaben des Odun]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Durro-Dûn I]]
+- **Erlernen:** 10 EP

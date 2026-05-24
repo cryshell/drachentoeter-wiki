@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 74478f75-8fa2-4aed-b675-c9a316321899
+ID: bfe37a3f-4d3f-4f02-b90f-6505f07dafd5
 Name: Rondras Hochzeit
 title: Rondras Hochzeit
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heerführung|Heerführung]]"
+  - "[[Heerführung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rondrageweihten I
@@ -24,5 +24,8 @@ Ein Gewitter breitet sich am Himmel aus, dessen Kraft sich in einem Radius von 2
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heerführung|Heerführung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Heerführung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rondrageweihten I]]
+- **Erlernen:** 20 EP

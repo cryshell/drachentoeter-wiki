@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: aeb8fb66-a077-4d46-920c-bfa2892eefda
+ID: abcb9173-21a9-4369-8165-5a442ecfe305
 Name: Aller Welt Freund
 title: Aller Welt Freund
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Fröhlicher Wanderer|Fröhlicher Wanderer]]"
+  - "[[Fröhlicher Wanderer]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Avesgeweihten I
@@ -24,5 +24,8 @@ Du rufst die Lapislazuliflöte. Solange du sie spielst, können dich Humanoide n
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Fröhlicher Wanderer|Fröhlicher Wanderer]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Fröhlicher Wanderer]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Avesgeweihten I]]
+- **Erlernen:** 20 EP

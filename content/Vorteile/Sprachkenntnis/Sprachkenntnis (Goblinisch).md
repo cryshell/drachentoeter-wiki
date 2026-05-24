@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 1e71af60-c624-42d2-ba09-525185833ab9
+ID: 9337ec4d-41ab-4f7e-99e5-b60fc2b3ba3c
 Name: Sprachkenntnis (Goblinisch)
 title: Sprachkenntnis (Goblinisch)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Goblinisch gehört zu keiner Sprachfamilie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

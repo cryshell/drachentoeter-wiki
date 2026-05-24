@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 56475f7a-170a-4a60-9beb-a3b97de3a4db
+ID: a5de4447-1fd9-4aa9-a911-2a76520e2c33
 Name: Tradition der Belzhorashpaktierer III
 title: Tradition der Belzhorashpaktierer III
 Kategorie: Tradition (Paktierer)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 8
   - Vorteil [[Tradition der Belzhorashpaktierer II]]
-- **Siehe auch:** [[Opferung (Belzhorash)]]
+- **Siehe auch:**
+  - [[Opferung (Belzhorash)]]

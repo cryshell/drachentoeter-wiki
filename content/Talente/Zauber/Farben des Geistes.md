@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 42dc2ae7-70c7-4fb4-9a0d-fc3ed4c614cc
+ID: 8b235395-a710-45af-8966-68ad644dc64d
 Name: Farben des Geistes
 title: Farben des Geistes
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]"
+  - "[[Hellsicht]]"
+  - "[[Kristallmagie]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I
@@ -24,5 +24,9 @@ Berührst du jemanden mit dem Kristall, offenbart derjenige durch ein Leuchten s
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Hellsicht]]
+  - [[Kristallmagie]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

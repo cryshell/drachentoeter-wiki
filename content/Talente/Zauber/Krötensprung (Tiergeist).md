@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 6e1e738a-94ed-463e-b396-f4af330ce985
+ID: e6fcafca-dbb7-4c1e-a829-118e19344342
 Name: Krötensprung (Tiergeist)
 title: Krötensprung (Tiergeist)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]]"
-  - "[[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]"
+  - "[[Gaben des Odun]]"
+  - "[[Gaben des Blutgeists]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tiergeist (Wildkatze) ODER Vorteil Tiergeist (Panther)
@@ -15,5 +15,9 @@ $talent:Krötensprung$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]], [[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Gaben des Odun]]
+  - [[Gaben des Blutgeists]]
+- **Voraussetzungen:**
+  - Vorteil [[Tiergeist (Wildkatze) ODER Vorteil Tiergeist (Panther)]]
+- **Erlernen:** 10 EP

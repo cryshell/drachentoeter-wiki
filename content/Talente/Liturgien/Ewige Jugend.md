@@ -1,14 +1,14 @@
 ---
 Entitätstyp: Talent
-ID: d0911da8-c3d1-4c1d-a5e2-3a902c03f8a1
+ID: 054544e0-ffea-4b25-bd72-0dc574e9e475
 Name: Ewige Jugend
 title: Ewige Jugend
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Harmonie|Harmonie]]"
-  - "[[Inhalt/Fertigkeiten/Neubeginn|Neubeginn]]"
-  - "[[Inhalt/Fertigkeiten/Fruchtbarkeit und Wiedergeburt|Fruchtbarkeit und Wiedergeburt]]"
-  - "[[Inhalt/Fertigkeiten/Verführung|Verführung]]"
+  - "[[Harmonie]]"
+  - "[[Neubeginn]]"
+  - "[[Fruchtbarkeit und Wiedergeburt]]"
+  - "[[Verführung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Namenlosgeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der Zsahhgeweihten I
@@ -27,5 +27,11 @@ Der Gesegnete behält Zeit seines Lebens ein jugendliches Aussehen. Frevelt der 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Harmonie|Harmonie]], [[Inhalt/Fertigkeiten/Neubeginn|Neubeginn]], [[Inhalt/Fertigkeiten/Fruchtbarkeit und Wiedergeburt|Fruchtbarkeit und Wiedergeburt]], [[Inhalt/Fertigkeiten/Verführung|Verführung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Harmonie]]
+  - [[Neubeginn]]
+  - [[Fruchtbarkeit und Wiedergeburt]]
+  - [[Verführung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rahjageweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Namenlosgeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der Zsahhgeweihten I]]
+- **Erlernen:** 10 EP

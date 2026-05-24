@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 4a176dfe-1f27-4e7a-8c26-8042cf6e54bf
+ID: ba885127-866b-4b37-ac99-9260ff0dec58
 Name: Objekt entzaubern
 title: Objekt entzaubern
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Antimagie|Antimagie]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
+  - "[[Antimagie]]"
+  - "[[Objekt]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Scharlatane I
@@ -27,5 +27,9 @@ Magie unterdrücken (Probenschwierigkeit 12, 16 Aktionen, Zone, Wirkungsdauer 1 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Antimagie|Antimagie]], [[Inhalt/Fertigkeiten/Objekt|Objekt]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Antimagie]]
+  - [[Objekt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Scharlatane I]]
+- **Erlernen:** 10 EP

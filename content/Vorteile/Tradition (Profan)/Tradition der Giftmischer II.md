@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a9434599-b40f-4739-8487-1392c932dc59
+ID: d32e84c4-e17c-4c62-b234-3ee1792c95c0
 Name: Tradition der Giftmischer II
 title: Tradition der Giftmischer II
 Kategorie: Tradition (Profan)
@@ -14,7 +14,7 @@ Du beherrschst Rezepte der Tradition der Giftmischer bis zu einer Verbreitung vo
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Fingerfertigkeit|FF]] 6
   - Vorteil [[Tradition der Giftmischer I]]

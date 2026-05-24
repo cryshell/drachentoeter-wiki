@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6a602ad6-1aee-49d3-846b-85e29141fcf9
+ID: d6b4295e-a2f3-4699-9dbe-7ccbece6b552
 Name: Tradition der Kr’Thon’Chhgeweihten III
 title: Tradition der Kr’Thon’Chhgeweihten III
 Kategorie: Tradition (Karmal)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 8
   - Vorteil [[Tradition der Kr’Thon’Chhgeweihten II]]
-- **Siehe auch:** [[Opferung (Kr’Thon’Chh)]]
+- **Siehe auch:**
+  - [[Opferung (Kr’Thon’Chh)]]

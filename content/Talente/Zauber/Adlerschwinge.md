@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: a7b9c1e6-f68c-4fba-b873-5984a06ed5b1
+ID: d56feb6a-69a5-4b0b-bcba-e120c96c1fb1
 Name: Adlerschwinge
 title: Adlerschwinge
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
+  - "[[Verwandlung]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Shakagra I
@@ -14,7 +14,8 @@ Du verwandelst dich in ein fliegendes Tier deiner Wahl. Du behältst deine geist
 
 - **Hohe Qualität:** Du darfst 2 Spielwerte um je 1 Punkt erhöhen, solange das Ergebnis dem gesunden Menschenverstand nicht widerspricht.
 - **Probenschwierigkeit:** 8/12/16/20/24
-- **Modifikationen:** Seelentier (+4, nur Elf; du verwandelst dich in dein Seelentier. Dabei können die Instinkte des Tieres überhand nehmen.)
+- **Modifikationen:**
+  - Seelentier (+4, nur Elf; du verwandelst dich in dein Seelentier. Dabei können die Instinkte des Tieres überhand nehmen.)
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -26,5 +27,8 @@ Du verwandelst dich in ein fliegendes Tier deiner Wahl. Du behältst deine geist
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Verwandlung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 40 EP

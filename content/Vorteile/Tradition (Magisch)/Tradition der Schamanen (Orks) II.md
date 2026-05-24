@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: db39a36b-03da-4d79-b237-c8e5040cc5b1
+ID: cd3ee5f8-4ea3-4feb-9049-ec9d8b1fecfe
 Name: Tradition der Schamanen (Orks) II
 title: Tradition der Schamanen (Orks) II
 Kategorie: Tradition (Magisch)
@@ -14,7 +14,7 @@ Schamanen binden oft einen beträchtlichen Teil ihrer Astralenergie in ihre Zaub
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 6
   - Vorteil [[Tradition der Schamanen (Orks) I]]

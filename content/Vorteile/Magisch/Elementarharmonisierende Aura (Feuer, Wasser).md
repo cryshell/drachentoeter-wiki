@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: bf21932d-5804-457d-94e1-39346b86c03d
+ID: 1a53a307-1195-4177-af0e-88a98cf1da7e
 Name: Elementarharmonisierende Aura (Feuer, Wasser)
 title: Elementarharmonisierende Aura (Feuer, Wasser)
 Kategorie: Magisch
@@ -14,7 +14,7 @@ Der Basiswert der Fertigkeiten Feuer und Wasser ist um vier Punkte erhöht.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Vorteil [[Elementaraffinität (Feuer)]]
   - Vorteil [[Elementaraffinität (Wasser)]]

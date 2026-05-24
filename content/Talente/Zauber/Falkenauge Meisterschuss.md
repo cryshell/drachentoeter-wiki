@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 2d6a12ee-d0da-4bc9-92ed-3616def2776f
+ID: e8e40d27-8510-43b9-b18f-68b7e2b4c835
 Name: Falkenauge Meisterschuss
 title: Falkenauge Meisterschuss
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
+  - "[[Eigenschaften]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Shakagra I
@@ -14,7 +14,8 @@ Dein nächster Fernkampfangriff gegen das Ziel hat Vorteil.
 
 - **Hohe Qualität:** Für 2 Stufen hat der Angriff legendären Vorteil.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Dauerndes Band (-8, 8 AsP; der Zauber wirkt auf alle Fernkampfangriffe während der Wirkungsdauer.)
+- **Modifikationen:**
+  - Dauerndes Band (-8, 8 AsP; der Zauber wirkt auf alle Fernkampfangriffe während der Wirkungsdauer.)
 - **Vorbereitungszeit:** 1 Aktion
 - **Ziel:** Humanoid
 - **Reichweite:** Berührung
@@ -25,5 +26,8 @@ Dein nächster Fernkampfangriff gegen das Ziel hat Vorteil.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

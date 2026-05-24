@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0b3c499c-d81e-43e0-ab5a-64af286dd3e7
+ID: 04106462-0564-445e-9f63-62a53e495531
 Name: Matrixumkehrer
 title: Matrixumkehrer
 Kategorie: Magisch
@@ -16,8 +16,9 @@ Ermöglicht die Spontane Modifikation Reversalis.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
   - Attribut [[Klugheit|KL]] 8
-- **Siehe auch:** [[Reversalis]]
+- **Siehe auch:**
+  - [[Reversalis]]

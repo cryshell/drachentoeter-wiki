@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: dfd0d512-597d-4167-9a8c-713cde4fd1a2
+ID: f2b1c1cf-ed1d-49cd-b2a5-f7a5986ffcb7
 Name: Tradition der Ingerimmgeweihten II
 title: Tradition der Ingerimmgeweihten II
 Kategorie: Tradition (Karmal)
@@ -14,7 +14,7 @@ Ingerimmgeweihte dienen dem Herrn des Feuers und des Erzes. In Gebäuden haben L
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Fingerfertigkeit|FF]] 6
   - Vorteil [[Tradition der Ingerimmgeweihten I]]

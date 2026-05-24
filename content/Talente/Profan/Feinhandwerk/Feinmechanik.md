@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 478b64ab-a2d0-4b8d-b685-b2b96215982d
+ID: 194e78ac-01d3-450b-a6a5-b233a7a4f49b
 Name: Feinmechanik
 title: Feinmechanik
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Feinhandwerk|Feinhandwerk]]"
+  - "[[Feinhandwerk]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Mit Feinmechanik beherrscht du die Goldschmiedekunst und stellst Schlösser und 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Feinhandwerk|Feinhandwerk]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Feinhandwerk]]
+- **Erlernen:** 40 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 28343146-3554-4973-b6a5-2284ab555830
+ID: 8bb86e17-145e-4f72-abd4-6200d1d008f9
 Name: Kraftfokus (passiv)
 title: Kraftfokus (passiv)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]]"
+  - "[[Stabzauber]]"
 Kosten: 60
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
 ---
@@ -15,5 +15,8 @@ Du kannst wie mit dem Vorteil Effizientes Zaubern die Spontane Modifikation Kost
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]]
-- **Kosten:** 60 EP
+- **Fertigkeiten:**
+  - [[Stabzauber]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 60 EP

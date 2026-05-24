@@ -1,17 +1,17 @@
 ---
 Entitätstyp: Talent
-ID: c54faa5d-312c-40dd-be0a-062888b1d522
+ID: cf250897-5c07-4133-8d01-c16e547019f7
 Name: Glyphe der elementaren Attraktion
 title: Glyphe der elementaren Attraktion
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eis|Eis]]"
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
-  - "[[Inhalt/Fertigkeiten/Feuer|Feuer]]"
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Wasser|Wasser]]"
-  - "[[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]"
+  - "[[Eis]]"
+  - "[[Erz]]"
+  - "[[Feuer]]"
+  - "[[Humus]]"
+  - "[[Luft]]"
+  - "[[Wasser]]"
+  - "[[Zauberzeichen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Schamanen (Waldmenschen) I
@@ -25,7 +25,8 @@ Das Zeichen wird in einem Durchmesser von 4 Fingern auf einem maximal schrankgro
 - **Fertigkeit Luft:** Verringert das Gewicht des Objekts und seines Inhalts um ein Viertel.
 - **Fertigkeit Wasser:** Macht einen faustgroßen Teil biegsam wie Wachs.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Zone (-4, 16 AsP; kann auf einer beliebigen Fläche angebracht werden und wirkt auf alle Objekte in einem Radius von 8 Schritt. *Ortsgebundenes* Zeichen.)
+- **Modifikationen:**
+  - Zone (-4, 16 AsP; kann auf einer beliebigen Fläche angebracht werden und wirkt auf alle Objekte in einem Radius von 8 Schritt. *Ortsgebundenes* Zeichen.)
 - **Vorbereitungszeit:** 4 Minuten
 - **Ziel:** passendes Zauberzeichen
 - **Reichweite:** Berührung
@@ -37,5 +38,14 @@ Das Zeichen wird in einem Durchmesser von 4 Fingern auf einem maximal schrankgro
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eis|Eis]], [[Inhalt/Fertigkeiten/Erz|Erz]], [[Inhalt/Fertigkeiten/Feuer|Feuer]], [[Inhalt/Fertigkeiten/Humus|Humus]], [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Wasser|Wasser]], [[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eis]]
+  - [[Erz]]
+  - [[Feuer]]
+  - [[Humus]]
+  - [[Luft]]
+  - [[Wasser]]
+  - [[Zauberzeichen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+- **Erlernen:** 20 EP

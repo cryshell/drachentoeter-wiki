@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: f2f50c76-691e-49fa-93e7-130f85ff6fd4
+ID: ac23d6d3-058e-4a70-b551-10fb7c702a78
 Name: Gesang der Wölfe
 title: Gesang der Wölfe
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Geister rufen]]"
+  - "[[Verständigung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Nivesen) I
@@ -15,7 +15,8 @@ Du stößt ein lautes Wolfsgeheul aus, das im Radius von 16 Meilen zu hören ist
 
 - **Hohe Qualität:** Verdoppelt den Radius.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Gespräch der Wölfe (-4, 8 AsP, Wirkungsdauer 1 Stunde; du kannst während der Wirkungsdauer beliebig viele Nachrichten aussenden.)
+- **Modifikationen:**
+  - Gespräch der Wölfe (-4, 8 AsP, Wirkungsdauer 1 Stunde; du kannst während der Wirkungsdauer beliebig viele Nachrichten aussenden.)
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -27,5 +28,9 @@ Du stößt ein lautes Wolfsgeheul aus, das im Radius von 16 Meilen zu hören ist
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Geister rufen]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Nivesen) I]]
+- **Erlernen:** 10 EP

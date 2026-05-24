@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 9433760f-a876-4d37-bec1-2ae9519a46c1
+ID: dedaf033-9416-48f5-ae22-04016a26545c
 Name: Tradition der Firungeweihten III
 title: Tradition der Firungeweihten III
 Kategorie: Tradition (Karmal)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 8
   - Vorteil [[Tradition der Firungeweihten II]]
-- **Siehe auch:** [[Opferung (Firun)]]
+- **Siehe auch:**
+  - [[Opferung (Firun)]]

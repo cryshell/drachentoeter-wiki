@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 6c330e2c-b6bf-4430-9820-ec9199b91da6
+ID: cb300827-4101-434a-bd7c-609ad7080d58
 Name: Rhetorik
 title: Rhetorik
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Diplomatie|Diplomatie]]"
+  - "[[Diplomatie]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Rhetorik beinhaltet zahlreiche Fähigkeiten und Kniffe, um die eigenen Argumente
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Diplomatie|Diplomatie]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Diplomatie]]
+- **Erlernen:** 40 EP

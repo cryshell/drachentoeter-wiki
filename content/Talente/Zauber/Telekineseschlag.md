@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: e6acec0c-a58b-47a8-821d-4e35d5879eb3
+ID: 599527da-0fbc-410b-b13e-ae31c1581970
 Name: Telekineseschlag
 title: Telekineseschlag
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Stabzauber]]"
+  - "[[Umwelt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
@@ -14,7 +14,8 @@ Voraussetzungen: Vorteil Tradition der Gildenmagier I
 Du verursachst durch eine telekinetische Entladung deines Stabs 2W6 TP und dem Ziel muss eine KK-Gegenprobe gelingen, um nicht zu Boden geworfen zu werden. *Ballistischer* Zauber.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Druckwelle (-4, 16 AsP; du rammst den Stab in den Boden und triffst mit dem Zauber alle Umstehenden in einem Radius von 8 Schritt.)
+- **Modifikationen:**
+  - Druckwelle (-4, 16 AsP; du rammst den Stab in den Boden und triffst mit dem Zauber alle Umstehenden in einem Radius von 8 Schritt.)
 - **Vorbereitungszeit:** 0 Aktionen
 - **Ziel:** Wesen
 - **Reichweite:** 8 Schritt
@@ -25,5 +26,9 @@ Du verursachst durch eine telekinetische Entladung deines Stabs 2W6 TP und dem Z
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Stabzauber]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

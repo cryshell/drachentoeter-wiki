@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 6c5e0d7a-6f8b-4983-8caf-ee4f7f1cdc6f
+ID: c200b2e7-6f2c-4abc-a345-42125bb3ea6a
 Name: Kakophonie des Wahnsinns
 title: Kakophonie des Wahnsinns
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]]"
+  - "[[Eigenschaften]]"
+  - "[[Elfenlieder]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Shakagra I
@@ -24,5 +24,9 @@ Zuhörer, die sich während der Wirkungsdauer in einem Radius von 4 Schritt befi
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Elfenlieder]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Shakagra I]]
+- **Erlernen:** 10 EP

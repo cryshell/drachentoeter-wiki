@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 978509da-ec02-4a3a-ae0d-bf0e299e165f
+ID: 10a0fde4-847d-432f-87d2-7e6942be6208
 Name: Runjensweisung
 title: Runjensweisung
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wildnis|Wildnis]]"
+  - "[[Wildnis]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Ifirngeweihten I
@@ -24,5 +24,8 @@ Du ermöglichst es deinen Gefährten, deinen zurückgelegten Weg zu erspüren, w
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wildnis|Wildnis]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Wildnis]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Ifirngeweihten I]]
+- **Erlernen:** 10 EP

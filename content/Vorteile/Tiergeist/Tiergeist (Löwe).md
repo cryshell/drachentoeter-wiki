@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f08fb70b-1fa3-4c16-9632-b64fdded609a
+ID: d852e5dc-6698-425a-a964-58e063d5d359
 Name: Tiergeist (Löwe)
 title: Tiergeist (Löwe)
 Kategorie: Tiergeist
@@ -25,8 +25,13 @@ Kosten: 0
 
 ---
 
-- **Kosten:** 0 EP
+- **Erlernen:** 0 EP
 - **Voraussetzungen:**
   - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
   - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
-- **Siehe auch:** [[Ängste lindern]], [[Armatrutz]], [[Katzenaugen]], [[Kusch|Kusch!]], [[Standfest Katzengleich]]
+- **Siehe auch:**
+  - [[Ängste lindern]]
+  - [[Armatrutz]]
+  - [[Katzenaugen]]
+  - [[Kusch|Kusch!]]
+  - [[Standfest Katzengleich]]

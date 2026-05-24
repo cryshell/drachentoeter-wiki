@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 4294dec4-1dfb-4d2c-a62b-ae9930b5e4d5
+ID: a5f48b52-9556-4358-b8b2-6652f6216326
 Name: Schminken
 title: Schminken
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
+  - "[[Zaubertricks]]"
 Kosten: 5
 ---
 Deine Schminkutensilien schminken dich von allein. Du musst in der Zeit stillhalten.
@@ -20,5 +20,6 @@ Deine Schminkutensilien schminken dich von allein. Du musst in der Zeit stillhal
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
-- **Kosten:** 5 EP
+- **Fertigkeiten:**
+  - [[Zaubertricks]]
+- **Erlernen:** 5 EP

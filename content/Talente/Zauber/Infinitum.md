@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: a358e025-c6a3-4eb0-90fd-129276a09cc9
+ID: 1f7ba0df-338c-4d60-9c1e-e09249a19c1c
 Name: Infinitum
 title: Infinitum
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
-  - "[[Inhalt/Fertigkeiten/Temporal|Temporal]]"
+  - "[[Kraft]]"
+  - "[[Temporal]]"
 Kosten: 60
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I
@@ -14,7 +14,8 @@ Voraussetzungen: Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition 
 Ändert die Wirkungsdauer eines wirkenden Zaubers mit maximal 4 AsP Basiskosten zu der des Infinitums.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Mächtiger Zauber (-4 pro Verdopplung; verdoppelt die maximalen Basiskosten.)
+- **Modifikationen:**
+  - Mächtiger Zauber (-4 pro Verdopplung; verdoppelt die maximalen Basiskosten.)
 - **Vorbereitungszeit:** 1 Stunde
 - **Ziel:** Zauber
 - **Reichweite:** Berührung
@@ -25,5 +26,9 @@ Voraussetzungen: Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Kraft|Kraft]], [[Inhalt/Fertigkeiten/Temporal|Temporal]]
-- **Kosten:** 60 EP
+- **Fertigkeiten:**
+  - [[Kraft]]
+  - [[Temporal]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 60 EP

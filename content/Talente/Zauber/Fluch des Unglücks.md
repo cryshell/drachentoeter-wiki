@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 904c241e-0301-4958-8245-73d781df3a77
+ID: 0ec7d60f-fc72-4668-8f28-55c76d84de69
 Name: Fluch des Unglücks
 title: Fluch des Unglücks
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Geister des Zorns|Geister des Zorns]]"
+  - "[[Eigenschaften]]"
+  - "[[Geister des Zorns]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
@@ -15,7 +15,8 @@ Das Opfer wird vom Unglück verfolgt. Seine Chance auf einen Patzer steigt um 1 
 
 - **Hohe Qualität:** Je zwei Stufen steigern die Chance auf einen Patzer um einen weiteren Punkt.
 - **Probenschwierigkeit:** Magieresistenz
-- **Modifikationen:** Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, 16 AsP, davon 2 gAsP)
+- **Modifikationen:**
+  - Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, 16 AsP, davon 2 gAsP)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Humanoid
 - **Reichweite:** 32 Schritt
@@ -26,5 +27,9 @@ Das Opfer wird vom Unglück verfolgt. Seine Chance auf einen Patzer steigt um 1 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Geister des Zorns|Geister des Zorns]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Geister des Zorns]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+- **Erlernen:** 10 EP

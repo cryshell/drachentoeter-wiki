@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 2e59753a-b1fc-4b8e-9ac4-c5a544b6fafd
+ID: 890178b8-59ea-4824-83b3-c0fbc26f8698
 Name: Gemeinschaft treuer Gefährten
 title: Gemeinschaft treuer Gefährten
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Fröhlicher Wanderer|Fröhlicher Wanderer]]"
-  - "[[Inhalt/Fertigkeiten/Jagd|Jagd]]"
-  - "[[Inhalt/Fertigkeiten/Sichere Heimkehr|Sichere Heimkehr]]"
+  - "[[Fröhlicher Wanderer]]"
+  - "[[Jagd]]"
+  - "[[Sichere Heimkehr]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Avesgeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Traviageweihten I
@@ -27,5 +27,10 @@ Du stärkst die Bindung zwischen einem Tier und seinem Besitzer. Proben im Umgan
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Fröhlicher Wanderer|Fröhlicher Wanderer]], [[Inhalt/Fertigkeiten/Jagd|Jagd]], [[Inhalt/Fertigkeiten/Sichere Heimkehr|Sichere Heimkehr]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Fröhlicher Wanderer]]
+  - [[Jagd]]
+  - [[Sichere Heimkehr]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Traviageweihten I]]
+- **Erlernen:** 20 EP

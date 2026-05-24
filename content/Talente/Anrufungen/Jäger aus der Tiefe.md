@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 32e0933e-cbb3-4865-9883-b98069552697
+ID: 57e50dd1-b2c7-452e-8a5d-19ad2c9a97aa
 Name: Jäger aus der Tiefe
 title: Jäger aus der Tiefe
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Charyptoroths|Anrufung Charyptoroths]]"
+  - "[[Anrufung Charyptoroths]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Verleiht unter Wasser den Vorteil Tarnung (kein Malus durch ein fehlendes Verste
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Charyptoroths|Anrufung Charyptoroths]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Anrufung Charyptoroths]]
+- **Erlernen:** 10 EP

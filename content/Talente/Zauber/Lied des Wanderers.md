@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 7e5ba44e-1f7b-454e-a40c-82469f62331b
+ID: 15164590-31f2-401e-a49b-33cbdeff8851
 Name: Lied des Wanderers
 title: Lied des Wanderers
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]"
+  - "[[Eigenschaften]]"
+  - "[[Zaubermelodien]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zauberbarden I
@@ -25,5 +25,9 @@ Der Zuhörer mit dem geringsten Durchhaltevermögen in einem Radius von 4 Schrit
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Zaubermelodien]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zauberbarden I]]
+- **Erlernen:** 20 EP

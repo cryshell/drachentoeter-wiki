@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 08093320-182e-4f05-846f-76b8d67414bf
+ID: 44eab9b4-1fb3-44eb-858c-a4499b65943a
 Name: Tradition der Phexgeweihten III
 title: Tradition der Phexgeweihten III
 Kategorie: Tradition (Karmal)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 8
   - Vorteil [[Tradition der Phexgeweihten II]]
-- **Siehe auch:** [[Opferung (Phex)]]
+- **Siehe auch:**
+  - [[Opferung (Phex)]]

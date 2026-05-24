@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 910b37ab-3009-4c71-bf09-807aa17ac5f2
+ID: c50b3159-d6d8-4fd5-a2b7-68aff5ea7767
 Name: Tiergeist (Wildschwein)
 title: Tiergeist (Wildschwein)
 Kategorie: Tiergeist
@@ -25,8 +25,13 @@ Kosten: 0
 
 ---
 
-- **Kosten:** 0 EP
+- **Erlernen:** 0 EP
 - **Voraussetzungen:**
   - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
   - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
-- **Siehe auch:** [[Abvenenum reine Speise]], [[Eins mit der Natur]], [[Kusch|Kusch!]], [[Standfest Katzengleich]], [[Zaubernahrung Hungerbann]]
+- **Siehe auch:**
+  - [[Abvenenum reine Speise]]
+  - [[Eins mit der Natur]]
+  - [[Kusch|Kusch!]]
+  - [[Standfest Katzengleich]]
+  - [[Zaubernahrung Hungerbann]]

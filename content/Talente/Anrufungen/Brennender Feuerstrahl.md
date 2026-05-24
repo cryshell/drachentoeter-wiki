@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 5501c686-7182-44fa-8eca-b884f8794ff7
+ID: 94343b48-ad0a-4788-98c7-99e3debfaec8
 Name: Brennender Feuerstrahl
 title: Brennender Feuerstrahl
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Agrimoths|Anrufung Agrimoths]]"
+  - "[[Anrufung Agrimoths]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -13,9 +13,9 @@ Eine Flammenlanze fügt dem Ziel 2W6 TP zu und verursacht *Nachbrennen*. *Ballis
 
 - **Hohe Qualität:** Die TP steigen um 1W6.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Doppelschuss (-4, 8 GuP; die Anzahl Schadenswürfel inklusive Hohe Qualität wird verdoppelt.)
-Enger Strahl (-4; die Anrufung verursacht SP statt TP.)
-
+- **Modifikationen:**
+  - Doppelschuss (-4, 8 GuP; die Anzahl Schadenswürfel inklusive Hohe Qualität wird verdoppelt.)
+  - Enger Strahl (-4; die Anrufung verursacht SP statt TP.)
 - **Vorbereitungszeit:** 0 Aktionen
 - **Ziel:** Wesen, Objekt
 - **Reichweite:** 16 Schritt
@@ -26,5 +26,6 @@ Enger Strahl (-4; die Anrufung verursacht SP statt TP.)
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Agrimoths|Anrufung Agrimoths]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Agrimoths]]
+- **Erlernen:** 20 EP

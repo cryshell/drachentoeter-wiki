@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 23856eba-33fa-4285-9042-db27df7faca1
+ID: 45201459-7593-4884-923b-d86b71a9c7ed
 Name: Zeitstopp
 title: Zeitstopp
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Heskatets|Anrufung Heskatets]]"
+  - "[[Anrufung Heskatets]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Du hältst in einem Radius von 8 Schritt die Zeit an – für alles außer dich.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Heskatets|Anrufung Heskatets]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Anrufung Heskatets]]
+- **Erlernen:** 40 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 24701a96-fe5b-461e-b080-c26d0118120c
+ID: fb981893-ed1a-4979-8735-0cba50b25cf6
 Name: Wettermeisterschaft
 title: Wettermeisterschaft
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Luft]]"
+  - "[[Umwelt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I
@@ -17,9 +17,9 @@ Das Wetter in einer Zone von bis zu 1 Meile Radius verändert sich nach deinem W
 - **Wind:** windstill/leichte Brise/steife Brise/Sturm/Orkan
 - **Temperatur:** eiskalt/kalt/kühl/normal/warm/heiß/Khômglut
 - **Hohe Qualität:** Du kannst die Skalen um eine weitere Stufe verändern.
-- **Modifikationen:** Begleiter (-4, Reichweite Berührung; die Zone bewegt sich mit dir.)
-Windrichtung (-4; du kannst die Windrichtung beliebig ändern.)
-
+- **Modifikationen:**
+  - Begleiter (-4, Reichweite Berührung; die Zone bewegt sich mit dir.)
+  - Windrichtung (-4; du kannst die Windrichtung beliebig ändern.)
 - **Probenschwierigkeit:** 12
 - **Vorbereitungszeit:** 4 Minuten
 - **Ziel:** Zone
@@ -31,5 +31,9 @@ Windrichtung (-4; du kannst die Windrichtung beliebig ändern.)
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Luft]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

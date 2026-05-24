@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 3bb79275-7811-42e7-89de-42e06859bb3f
+ID: 3b2b5f7b-4c7f-4485-864e-caa7d24bbf19
 Name: Ruf der Gefährten
 title: Ruf der Gefährten
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wind und Wogen|Wind und Wogen]]"
+  - "[[Wind und Wogen]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I
@@ -24,5 +24,8 @@ Du rufst einen Delphin herbei. Falls Delphine in deiner Region nicht heimisch si
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wind und Wogen|Wind und Wogen]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Wind und Wogen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I]]
+- **Erlernen:** 10 EP

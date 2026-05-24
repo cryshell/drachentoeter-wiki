@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 225e075b-617c-4b29-8f1d-98f467c085ec
+ID: faca441f-c209-4d51-bf9d-f0cae66820cd
 Name: Reptilea Natternnest
 title: Reptilea Natternnest
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Dämonisch]]"
+  - "[[Verständigung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I
@@ -15,9 +15,9 @@ Alle Geschuppten bis zur Größenklasse *klein*, die sich in einem Radius von 64
 
 - **Hohe Qualität:** Verdoppelt den Radius.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Krötenkunde (-4; du kannst den Zauber auf eine bestimmte Art von Echsenwesen beschränken oder eine Art ausnehmen.)
-Selemer Verhältnisse (-8, Wirkungsdauer 1 Woche, 32 AsP)
-
+- **Modifikationen:**
+  - Krötenkunde (-4; du kannst den Zauber auf eine bestimmte Art von Echsenwesen beschränken oder eine Art ausnehmen.)
+  - Selemer Verhältnisse (-8, Wirkungsdauer 1 Woche, 32 AsP)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** 16 Schritt
@@ -28,5 +28,9 @@ Selemer Verhältnisse (-8, Wirkungsdauer 1 Woche, 32 AsP)
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Dämonisch]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

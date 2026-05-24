@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 393428b1-2823-44f5-9e30-06a560b261d4
+ID: 9446bda3-368e-47e2-a4ab-4a022367db08
 Name: Zauberhaar
 title: Zauberhaar
 Kategorie: Magisch
@@ -12,6 +12,6 @@ Deine Haare sind eine externe Erweiterung deines Astralkörpers und haben eine a
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I]]

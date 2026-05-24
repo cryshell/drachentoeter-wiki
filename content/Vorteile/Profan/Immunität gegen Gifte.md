@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 925c9aa6-5bc7-4f4c-b034-075f280d8043
+ID: ce8067fc-e7e6-4800-84c7-f3ca99d21416
 Name: Immunität gegen Gifte
 title: Immunität gegen Gifte
 Kategorie: Profan
@@ -12,6 +12,6 @@ Gifte sind gegen dich wirkungslos.
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Vorteil [[Resistenz gegen Gifte]]

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 44750f71-0b93-4b65-9f20-d8b748e651c9
+ID: fdf06236-6585-4b94-a89f-5a6d5a02ebc8
 Name: Hintergrundmusik
 title: Hintergrundmusik
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
+  - "[[Zaubertricks]]"
 Kosten: 5
 ---
 In einem Radius von 8 Schritt um dich herum ist eine leise, angenehme Melodie zu hören. Dabei handelt es sich um eine *Illusion* (Gehör).
@@ -20,5 +20,6 @@ In einem Radius von 8 Schritt um dich herum ist eine leise, angenehme Melodie zu
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
-- **Kosten:** 5 EP
+- **Fertigkeiten:**
+  - [[Zaubertricks]]
+- **Erlernen:** 5 EP

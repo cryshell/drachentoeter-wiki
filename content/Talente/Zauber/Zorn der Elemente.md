@@ -1,16 +1,16 @@
 ---
 Entitätstyp: Talent
-ID: 9f1f25bb-f506-48ba-914d-166690f70d6b
+ID: a82ad7d1-b914-4651-a992-e2e6bf83254b
 Name: Zorn der Elemente
 title: Zorn der Elemente
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eis|Eis]]"
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
-  - "[[Inhalt/Fertigkeiten/Feuer|Feuer]]"
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Wasser|Wasser]]"
+  - "[[Eis]]"
+  - "[[Erz]]"
+  - "[[Feuer]]"
+  - "[[Humus]]"
+  - "[[Luft]]"
+  - "[[Wasser]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I
@@ -35,5 +35,13 @@ Du schleuderst eine Handvoll des Elements, mit dem du den Zauber wirkst, auf dei
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eis|Eis]], [[Inhalt/Fertigkeiten/Erz|Erz]], [[Inhalt/Fertigkeiten/Feuer|Feuer]], [[Inhalt/Fertigkeiten/Humus|Humus]], [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Wasser|Wasser]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eis]]
+  - [[Erz]]
+  - [[Feuer]]
+  - [[Humus]]
+  - [[Luft]]
+  - [[Wasser]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

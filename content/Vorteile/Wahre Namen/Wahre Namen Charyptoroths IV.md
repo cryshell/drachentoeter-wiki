@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 42537e9d-a07f-4bea-8fa2-386297ca52e2
+ID: de6bd822-89df-4eea-ba33-c5823c2de6db
 Name: Wahre Namen Charyptoroths IV
 title: Wahre Namen Charyptoroths IV
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Kosten: 20
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - MeisterAttribut [[Klugheit|KL]] 10

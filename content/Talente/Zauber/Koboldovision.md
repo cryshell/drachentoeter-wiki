@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 1ec1088a-5b80-48c6-868e-b6159a93bb97
+ID: 103287c6-8964-445d-8215-e34772534e3e
 Name: Koboldovision
 title: Koboldovision
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
+  - "[[Hellsicht]]"
+  - "[[Kraft]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schelme I ODER Vorteil Tradition der Kristallomanten I
@@ -24,5 +24,9 @@ Du bist in der Lage, während der Wirkungsdauer in die Feenwelt zu blicken, sofe
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Kraft|Kraft]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Hellsicht]]
+  - [[Kraft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schelme I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 10 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 00b71219-b553-40db-abb2-74ff21d49cc8
+ID: e85cb8f4-7628-4f7c-a847-2df393a75679
 Name: Unschuldiger Geist
 title: Unschuldiger Geist
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Neubeginn|Neubeginn]]"
+  - "[[Neubeginn]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Tsageweihten I
@@ -24,5 +24,8 @@ Du ermöglichst dem Ziel einen unvoreingenommenen Blick auf eine Entscheidung od
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Neubeginn|Neubeginn]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Neubeginn]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Tsageweihten I]]
+- **Erlernen:** 20 EP

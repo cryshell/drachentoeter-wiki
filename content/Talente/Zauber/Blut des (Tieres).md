@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 0d676d63-cdd4-4052-8496-e0034abba991
+ID: d70806ed-33b6-416c-a31b-cc0c8e31ea07
 Name: Blut des (Tieres)
 title: Blut des (Tieres)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
-  - "[[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]]"
+  - "[[Verwandlung]]"
+  - "[[Gaben des Odun]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Durro-Dûn I
@@ -24,5 +24,9 @@ Du erhältst die Kreatureneigenschaft Schreckgestalt (Zauber-EW). Du kannst Ziel
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]], [[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Verwandlung]]
+  - [[Gaben des Odun]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Durro-Dûn I]]
+- **Erlernen:** 20 EP

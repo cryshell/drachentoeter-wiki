@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: ad7bc6ca-c9a3-4be2-b009-28881146f6c8
+ID: 1c9cb661-0ddb-4506-9bcc-3bb87fbff856
 Name: Sprachkenntnis (Ferkina)
 title: Sprachkenntnis (Ferkina)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Ferkina gehört zur Tulamidya-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

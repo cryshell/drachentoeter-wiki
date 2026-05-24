@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 02247aa4-e49a-4212-b2b0-197b1e2a7232
+ID: 7624b0e7-9767-456e-88cc-8ad211702b36
 Name: Protectionis Kontrabann
 title: Protectionis Kontrabann
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Antimagie|Antimagie]]"
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
+  - "[[Antimagie]]"
+  - "[[Kraft]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I
@@ -15,7 +15,8 @@ Du schützt deinen nächsten, während der Wirkungsdauer begonnenen Zauber vor A
 
 - **Hohe Qualität:** Jede Antimagie gegen diesen Zauber kostet 4 zusätzliche AsP.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Austreibung verhindern (-8; die Wirkung bezieht sich auf das nächste beschworene Wesen.)
+- **Modifikationen:**
+  - Austreibung verhindern (-8; die Wirkung bezieht sich auf das nächste beschworene Wesen.)
 - **Varianten:** Gegenzauber (Probenschwierigkeit EW des Zaubers, 0 Aktionen, Ziel Zauber, 16 Schritt, augenblicklich, halbe Basiskosten des Zaubers; du lässt den Antimagie-Zauber eines anderen Zauberers scheitern, während er ihn wirkt. *Reaktiver* Zauber (jemand, den du siehst, wirft eine Zauberprobe).)
 Magie unterdrücken (16 Aktionen, Zone, Wirkungsdauer 1 Stunde; in einem Radius von 16 Schritt haben alle zukünftigen Antimagie-Zauber Nachteil. Mit 2 Stufen Hohe Qualität scheitern sie automatisch.)
 
@@ -29,5 +30,9 @@ Magie unterdrücken (16 Aktionen, Zone, Wirkungsdauer 1 Stunde; in einem Radius 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Antimagie|Antimagie]], [[Inhalt/Fertigkeiten/Kraft|Kraft]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Antimagie]]
+  - [[Kraft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 10 EP

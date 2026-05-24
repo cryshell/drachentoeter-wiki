@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f8efd4a5-71f1-4783-a047-80ec0cc2e890
+ID: 8176d514-0433-42bf-bbfc-83193a12cda6
 Name: Fluch der Götter (Peraine)
 title: Fluch der Götter (Peraine)
 Kategorie: Nachteil
@@ -12,6 +12,6 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Peraine), Empfindlichkeit I (Pfla
 
 ---
 
-- **Kosten:** -200 EP
+- **Erlernen:** -200 EP
 - **Voraussetzungen:**
   - Vorteil [[Vampir I]]

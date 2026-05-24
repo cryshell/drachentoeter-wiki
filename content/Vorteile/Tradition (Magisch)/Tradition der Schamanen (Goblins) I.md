@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 8691918f-d85f-4fd1-bdc6-9f346a60e80d
+ID: d0ce3eba-41da-4e08-9fc4-955c84c799ce
 Name: Tradition der Schamanen (Goblins) I
 title: Tradition der Schamanen (Goblins) I
 Kategorie: Tradition (Magisch)
@@ -16,7 +16,7 @@ Bei Elementarzaubern kannst du nur Erz, Humus und Luft verwenden. Verärgert der
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 4
   - Vorteil [[Zauberer I]]

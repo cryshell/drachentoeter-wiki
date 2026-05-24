@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: d07f1c70-3099-4bce-b93e-aedcb9d66ca6
+ID: 8e31ba97-8700-410f-8051-d022d995bbcd
 Name: "Schlangenbund: Wachsame Augen"
 title: "Schlangenbund: Wachsame Augen"
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schlangenbund|Schlangenbund]]"
+  - "[[Schlangenbund]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der H’Szintgeweihten I
@@ -24,5 +24,8 @@ Dein Vertrautentier ruft Tiere seiner Gattung aus bis zu 1 Meile herbei, die üb
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schlangenbund|Schlangenbund]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Schlangenbund]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der H’Szintgeweihten I]]
+- **Erlernen:** 10 EP

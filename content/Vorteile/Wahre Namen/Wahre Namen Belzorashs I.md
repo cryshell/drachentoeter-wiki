@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 26daf2e4-ddc9-44bc-bead-d66ab08bfa21
+ID: ffb9ff04-479a-41ec-9cb5-22b23e8cce32
 Name: Wahre Namen Belzorashs I
 title: Wahre Namen Belzorashs I
 Kategorie: Wahre Namen
@@ -14,7 +14,7 @@ Du kannst alle Dämonen Belzorashs bis zu einer Beschwörungsschwierigkeit von 1
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - Attribut [[Klugheit|KL]] 4

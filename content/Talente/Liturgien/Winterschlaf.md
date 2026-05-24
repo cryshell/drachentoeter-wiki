@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 46b5fd4e-c5fb-45fd-8f7f-c607b0f9efb1
+ID: 142b876f-fbb5-477f-9c16-7725ca9da0cb
 Name: Winterschlaf
 title: Winterschlaf
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schutz der Sippe|Schutz der Sippe]]"
-  - "[[Inhalt/Fertigkeiten/Wildnis|Wildnis]]"
-  - "[[Inhalt/Fertigkeiten/Winter|Winter]]"
+  - "[[Schutz der Sippe]]"
+  - "[[Wildnis]]"
+  - "[[Winter]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Firungeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Himmelswölfegeweihten I
@@ -25,5 +25,10 @@ Das gesegnete Ziel fällt in einen tiefen Winterschlaf, in dem es weder Nahrung 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schutz der Sippe|Schutz der Sippe]], [[Inhalt/Fertigkeiten/Wildnis|Wildnis]], [[Inhalt/Fertigkeiten/Winter|Winter]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Schutz der Sippe]]
+  - [[Wildnis]]
+  - [[Winter]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Firungeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Himmelswölfegeweihten I]]
+- **Erlernen:** 10 EP

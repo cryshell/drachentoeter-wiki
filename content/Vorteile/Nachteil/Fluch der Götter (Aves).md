@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c029ca9d-6edd-49f1-9781-36ccc0cc6079
+ID: 14f091d6-7c11-4442-a551-799929c68ce8
 Name: Fluch der Götter (Aves)
 title: Fluch der Götter (Aves)
 Kategorie: Nachteil
@@ -12,6 +12,6 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Aves), Empfindlichkeit I (Pflanze
 
 ---
 
-- **Kosten:** -200 EP
+- **Erlernen:** -200 EP
 - **Voraussetzungen:**
   - Vorteil [[Vampir I]]

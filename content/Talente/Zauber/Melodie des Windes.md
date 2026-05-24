@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 9896a164-9cd9-49a2-a191-9fb6b6cd7a8c
+ID: e5824fa0-e717-4914-a601-415c4ebe4526
 Name: Melodie des Windes
 title: Melodie des Windes
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]]"
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
+  - "[[Elfenlieder]]"
+  - "[[Hellsicht]]"
+  - "[[Luft]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Elfen I
@@ -25,5 +25,10 @@ Du öffnest deine Sinne für Eindrücke aus der Windrichtung, die von der Harmon
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]], [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Luft|Luft]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Elfenlieder]]
+  - [[Hellsicht]]
+  - [[Luft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Elfen I]]
+- **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: adefc151-cecd-44d2-bc72-fabce6a2e3ee
+ID: 46c9ff86-c5ba-4b86-b647-0e37777ce646
 Name: Kulturkunde (Tulamidenlande)
 title: Kulturkunde (Tulamidenlande)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 6a2c1b40-5a41-4a3c-99ba-e6b5d8f33beb
+ID: 469dd6ff-e62e-435a-ac5e-a1240ad7c2c4
 Name: Angroschs Opfergabe
 title: Angroschs Opfergabe
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heiliges Erz|Heiliges Erz]]"
+  - "[[Heiliges Erz]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Angroschgeweihten I
@@ -23,5 +23,8 @@ Du kannst einen Gegenstand aus verarbeitetem Metall und Edelsteinen mit bis zu 8
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heiliges Erz|Heiliges Erz]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Heiliges Erz]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Angroschgeweihten I]]
+- **Erlernen:** 10 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 060f0744-e6d7-4689-bd62-4b09ba0eacf5
+ID: b10b63b9-e72f-4966-8c84-1b02736f66d9
 Name: Brennglas und Prisma
 title: Brennglas und Prisma
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Kugelzauber|Kugelzauber]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
+  - "[[Kugelzauber]]"
+  - "[[Objekt]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I
@@ -24,5 +24,9 @@ Die Kugel kann ihre Brennweite nach Belieben verändern und so als Vergrößerun
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Kugelzauber|Kugelzauber]], [[Inhalt/Fertigkeiten/Objekt|Objekt]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Kugelzauber]]
+  - [[Objekt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I]]
+- **Erlernen:** 10 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 65cc42e4-e1e3-480a-9110-607e1be22064
+ID: b5286eb8-9afa-4133-ab47-69063c9b24df
 Name: Krötensprung
 title: Krötensprung
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
+  - "[[Eigenschaften]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I
@@ -14,7 +14,8 @@ Der nächste Sprung deines Zieles ist gewaltig. Die Basisreichweite und -höhe s
 
 - **Hohe Qualität:** Die Werte verden verdreifacht/vervierfacht/...
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Krötengang (-4, 8 AsP; dein Ziel kann beliebig oft springen.)
+- **Modifikationen:**
+  - Krötengang (-4, 8 AsP; dein Ziel kann beliebig oft springen.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Humanoid
 - **Reichweite:** Berührung
@@ -25,5 +26,8 @@ Der nächste Sprung deines Zieles ist gewaltig. Die Basisreichweite und -höhe s
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 10 EP

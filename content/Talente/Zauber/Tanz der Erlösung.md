@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: d81643cf-47e9-48c6-ac30-3705bc1fb511
+ID: 2a490386-046c-4f07-b9b6-b579514fef60
 Name: Tanz der Erlösung
 title: Tanz der Erlösung
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Antimagie|Antimagie]]"
-  - "[[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]]"
+  - "[[Antimagie]]"
+  - "[[Zaubertänze]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zaubertänzer I
@@ -18,5 +18,9 @@ $talent:Rhythmen der Reinigung$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Antimagie|Antimagie]], [[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Antimagie]]
+  - [[Zaubertänze]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zaubertänzer I]]
+- **Erlernen:** 20 EP

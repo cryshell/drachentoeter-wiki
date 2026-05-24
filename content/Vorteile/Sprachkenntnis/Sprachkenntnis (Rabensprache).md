@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0aa551e0-7633-488d-ab95-80e63eabdf0e
+ID: fb2744f9-8e20-4246-8b13-66e3596a501d
 Name: Sprachkenntnis (Rabensprache)
 title: Sprachkenntnis (Rabensprache)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Rabensprache gehört zur Tulamidya-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

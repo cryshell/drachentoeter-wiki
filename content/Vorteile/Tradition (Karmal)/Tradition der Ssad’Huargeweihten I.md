@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6be20a4d-bb1f-4c82-9739-d5fed0893564
+ID: ec69de0c-b5c1-425c-8031-e7fb2e15d969
 Name: Tradition der Ssad’Huargeweihten I
 title: Tradition der Ssad’Huargeweihten I
 Kategorie: Tradition (Karmal)
@@ -17,8 +17,8 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen Ssad’Huars Gebote verstößt:
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 4
   - Vorteil [[Geweiht I]]
-  - Kein Vorteil Tradition der *geweihten I
+  - Kein Vorteil [[Tradition der geweihten I|Tradition der *geweihten I]]

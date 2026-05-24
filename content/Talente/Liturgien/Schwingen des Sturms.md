@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 0fa49549-9401-4aff-a1ce-2556d2007d38
+ID: c3399ce2-bc22-4ab4-bb28-6f95787060f8
 Name: Schwingen des Sturms
 title: Schwingen des Sturms
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schutz der Gläubigen|Schutz der Gläubigen]]"
+  - "[[Schutz der Gläubigen]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rondrageweihten I
@@ -24,5 +24,8 @@ Du reitest auf den aufkommenden Sturmböen. Während der Wirkungsdauer kannst du
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schutz der Gläubigen|Schutz der Gläubigen]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Schutz der Gläubigen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rondrageweihten I]]
+- **Erlernen:** 40 EP

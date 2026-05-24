@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: dffdd448-e4c4-47fe-a61a-c225db66281f
+ID: 62280872-a907-4e88-ba2d-5278ed82f7e6
 Name: Aquasphaero
 title: Aquasphaero
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wasser|Wasser]]"
+  - "[[Wasser]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I
@@ -14,7 +14,8 @@ Ein Wasserball fügt in einem Radius von 3 Schritt 4W6 TP zu und verursacht *Ert
 
 - **Hohe Qualität:** Die TP steigen um 1W6, für je 2 Stufen steigt zusätzlich der Radius um 1 Schritt.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Komplexe Bewegung (-4, Wirkungsdauer 4 Züge; erfordert *Konzentration*. Die Kugel verbleibt nach dem Wirken vor dir. Während der Aktion Konzentration kannst du sie um jeweils 16 Schritt beliebig innerhalb der Reichweite bewegen. Sie explodiert, wenn du die Konzentration oder den Blickkontakt verlierst, du sie absichtlich – jederzeit ohne Aktionsaufwand – zündest oder die Wirkungsdauer endet.)
+- **Modifikationen:**
+  - Komplexe Bewegung (-4, Wirkungsdauer 4 Züge; erfordert *Konzentration*. Die Kugel verbleibt nach dem Wirken vor dir. Während der Aktion Konzentration kannst du sie um jeweils 16 Schritt beliebig innerhalb der Reichweite bewegen. Sie explodiert, wenn du die Konzentration oder den Blickkontakt verlierst, du sie absichtlich – jederzeit ohne Aktionsaufwand – zündest oder die Wirkungsdauer endet.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** 32 Schritt
@@ -25,5 +26,8 @@ Ein Wasserball fügt in einem Radius von 3 Schritt 4W6 TP zu und verursacht *Ert
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wasser|Wasser]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Wasser]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

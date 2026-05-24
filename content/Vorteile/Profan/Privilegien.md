@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 69a0dc9c-8b2b-4d19-9a45-f2ca8ea98378
+ID: 580b5f6e-e0d4-4058-a0fc-61c902c94dd7
 Name: Privilegien
 title: Privilegien
 Kategorie: Profan
@@ -11,4 +11,4 @@ Dein Privileg kann spielrelevante Vorteile je nach EP-Wert bringen und verbesser
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 3d58e2e4-7a45-4d30-a942-6e940b4802bd
+ID: f300aa14-7f0c-4334-bb33-960087439440
 Name: Bögen
 title: Bögen
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schusswaffen|Schusswaffen]]"
+  - "[[Schusswaffen]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Bögen werden häufig bei der Jagd eingesetzt. Varianten wie der Kriegsbogen err
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schusswaffen|Schusswaffen]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Schusswaffen]]
+- **Erlernen:** 40 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 60342906-b93e-469a-ad4b-6fcfd17547b0
+ID: f2a57102-3ca9-48c6-8829-43ccd17c46d1
 Name: Sprachkenntnis (Molochisch)
 title: Sprachkenntnis (Molochisch)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Molochisch gehört zu keiner Sprachfamilie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

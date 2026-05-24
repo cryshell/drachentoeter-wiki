@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: ad26fb83-3328-4102-9c08-ab597ac858f0
+ID: d990b559-bb35-453f-85f4-4ec1bd3646ee
 Name: Levthans Fesseln
 title: Levthans Fesseln
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Rausch|Rausch]]"
+  - "[[Rausch]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rahjageweihten I
@@ -24,5 +24,8 @@ Der Gesegnete lenkt seine gesamte Leidenschaft auf ein von dir benanntes rahjage
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Rausch|Rausch]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Rausch]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rahjageweihten I]]
+- **Erlernen:** 10 EP

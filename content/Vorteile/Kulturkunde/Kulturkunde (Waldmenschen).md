@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a605e62c-f128-494d-bdba-93d392ba0bed
+ID: 47361dd6-ad8a-4197-a3d4-4e5d8ffc750d
 Name: Kulturkunde (Waldmenschen)
 title: Kulturkunde (Waldmenschen)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

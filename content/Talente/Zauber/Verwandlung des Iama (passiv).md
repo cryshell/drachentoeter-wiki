@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 707894c0-d631-46ea-a7d6-8dd8f2c345a5
+ID: 800eed26-40ad-49b4-8009-3f6009640741
 Name: Verwandlung des Iama (passiv)
 title: Verwandlung des Iama (passiv)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]]"
+  - "[[Elfenlieder]]"
 Kosten: 20
 Voraussetzungen: Vorteil Tradition der Elfen I ODER Vorteil Tradition der Shakagra I
 ---
@@ -15,5 +15,8 @@ Wenn du bei einer Verwandlung deines Körpers (egal ob freiwillig oder unfreiwil
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Elfenlieder]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

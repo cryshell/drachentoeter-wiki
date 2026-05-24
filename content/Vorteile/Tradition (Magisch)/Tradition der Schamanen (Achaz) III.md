@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: bb3aad62-c1ef-4f6d-89e9-a4283e1c05a7
+ID: 7f8f898b-1087-4f05-838f-abfa79fafb7e
 Name: Tradition der Schamanen (Achaz) III
 title: Tradition der Schamanen (Achaz) III
 Kategorie: Tradition (Magisch)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Zeremonie.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 8
   - Vorteil [[Tradition der Schamanen (Achaz) II]]
-- **Siehe auch:** [[Zeremonie (M)]]
+- **Siehe auch:**
+  - [[Zeremonie (M)]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a5413a32-a293-4c2f-b082-716fa8ec675c
+ID: dafe01ec-07b2-4951-af04-df00af450852
 Name: Angepasst (Dschungel)
 title: Angepasst (Dschungel)
 Kategorie: Profan
@@ -13,5 +13,6 @@ Durch deine Spezies oder langjährige Erfahrung hast du dich an die Landschaften
 
 ---
 
-- **Kosten:** 40 EP
-- **Siehe auch:** [[Bewegung]]
+- **Erlernen:** 40 EP
+- **Siehe auch:**
+  - [[Bewegung]]

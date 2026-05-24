@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: d729fcbc-5952-4ab6-9562-c9b9e63920ab
+ID: d75e74a7-0325-4303-b62e-e04bb09b75aa
 Name: Stabexplosion
 title: Stabexplosion
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]]"
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
+  - "[[Stabzauber]]"
+  - "[[Kraft]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
@@ -25,5 +25,9 @@ Dein Stab explodiert nach 2 Züge in unzählige winzige Splitter und verursacht 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]], [[Inhalt/Fertigkeiten/Kraft|Kraft]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Stabzauber]]
+  - [[Kraft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

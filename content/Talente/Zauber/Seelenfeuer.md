@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 8e37c0d2-7f7f-4207-8393-02a44bcf8ace
+ID: d25fe87c-9b61-481b-b765-6eece8736173
 Name: Seelenfeuer
 title: Seelenfeuer
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
-  - "[[Inhalt/Fertigkeiten/Ringrituale|Ringrituale]]"
+  - "[[Kraft]]"
+  - "[[Ringrituale]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Geoden I
@@ -25,5 +25,9 @@ Kalt leuchtendes Licht schießt in einem Radius von 4 Schritt aus dem Boden. Es 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Kraft|Kraft]], [[Inhalt/Fertigkeiten/Ringrituale|Ringrituale]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Kraft]]
+  - [[Ringrituale]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Geoden I]]
+- **Erlernen:** 40 EP

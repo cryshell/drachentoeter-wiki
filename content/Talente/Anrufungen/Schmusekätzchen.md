@@ -1,18 +1,19 @@
 ---
 Entitätstyp: Talent
-ID: 6dfceb02-5f91-4687-bfd4-8c6f360ac5dd
+ID: 89831d7d-85f2-496b-b7fd-ae7b0b413c60
 Name: Schmusekätzchen
 title: Schmusekätzchen
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Aphasmayras|Anrufung Aphasmayras]]"
+  - "[[Anrufung Aphasmayras]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
 Du verwandelst dich in eine Edelkatze. Du behältst deine geistigen Fähigkeiten, die körperlichen Fähigkeiten entsprechen denen des Tiers. Du kannst in Tiergestalt Anrufungen wirken, aber nicht zaubern. 
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Bedienstete (-8, 16 GuP, davon 8 gGuP; wenn du gestreichelt wirst, kannst du einmal pro Woche eine CH-Probe gegen die IN der streichelnden Person ablegen; wenn deine Probe gelingt, kannst du dem Opfer eine Aufgabe auferlegen, die nicht tödlich sein darf. Stehen die moralischen Vorstellungen des Opfers der Aufgabe entgegen, kann es mit einer MU-Gegenprobe widerstehen. Ignoriert das Opfer die Aufgabe oder lässt sie absichtlich scheitern, erleidet es pro Woche 1 Wunde, die während der Wirkungsdauer nicht geheilt oder regeneriert werden kann. Die Aufgabe endet spätestens nach 1 Monat.)
+- **Modifikationen:**
+  - Bedienstete (-8, 16 GuP, davon 8 gGuP; wenn du gestreichelt wirst, kannst du einmal pro Woche eine CH-Probe gegen die IN der streichelnden Person ablegen; wenn deine Probe gelingt, kannst du dem Opfer eine Aufgabe auferlegen, die nicht tödlich sein darf. Stehen die moralischen Vorstellungen des Opfers der Aufgabe entgegen, kann es mit einer MU-Gegenprobe widerstehen. Ignoriert das Opfer die Aufgabe oder lässt sie absichtlich scheitern, erleidet es pro Woche 1 Wunde, die während der Wirkungsdauer nicht geheilt oder regeneriert werden kann. Die Aufgabe endet spätestens nach 1 Monat.)
 - **Vorbereitungszeit:** 8 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -23,5 +24,6 @@ Du verwandelst dich in eine Edelkatze. Du behältst deine geistigen Fähigkeiten
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Aphasmayras|Anrufung Aphasmayras]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Anrufung Aphasmayras]]
+- **Erlernen:** 40 EP

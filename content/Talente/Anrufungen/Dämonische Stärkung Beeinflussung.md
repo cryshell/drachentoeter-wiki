@@ -1,17 +1,17 @@
 ---
 Entitätstyp: Talent
-ID: dd7c9b42-7209-46dd-a32b-175aa5250469
+ID: 342d633e-1c93-4c82-9605-7b55396a81d9
 Name: "Dämonische Stärkung: Beeinflussung"
 title: "Dämonische Stärkung: Beeinflussung"
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Blakharazs|Anrufung Blakharazs]]"
-  - "[[Inhalt/Fertigkeiten/Anrufung Lolgramoths|Anrufung Lolgramoths]]"
-  - "[[Inhalt/Fertigkeiten/Anrufung Asfaloths|Anrufung Asfaloths]]"
-  - "[[Inhalt/Fertigkeiten/Anrufung Tasfarelels|Anrufung Tasfarelels]]"
-  - "[[Inhalt/Fertigkeiten/Anrufung Belkelels|Anrufung Belkelels]]"
-  - "[[Inhalt/Fertigkeiten/Anrufung Aphasmayras|Anrufung Aphasmayras]]"
-  - "[[Inhalt/Fertigkeiten/Anrufung Aphestadils|Anrufung Aphestadils]]"
+  - "[[Anrufung Blakharazs]]"
+  - "[[Anrufung Lolgramoths]]"
+  - "[[Anrufung Asfaloths]]"
+  - "[[Anrufung Tasfarelels]]"
+  - "[[Anrufung Belkelels]]"
+  - "[[Anrufung Aphasmayras]]"
+  - "[[Anrufung Aphestadils]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -19,9 +19,9 @@ Deine nächste Probe auf Beeinflussung ist um +4 Punkte erleichtert.
 
 - **Hohe Qualität:** Erhöht die Erleichterung um +2.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Intervention (-8; *Reaktive* Anrufung (beliebiges Ereignis). Hohe Qualität ist nicht möglich.)
-Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion ausführen. Hohe Qualität ist nicht möglich.)
-
+- **Modifikationen:**
+  - Intervention (-8; *Reaktive* Anrufung (beliebiges Ereignis). Hohe Qualität ist nicht möglich.)
+  - Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion ausführen. Hohe Qualität ist nicht möglich.)
 - **Vorbereitungszeit:** 0 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -31,5 +31,12 @@ Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion au
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Blakharazs|Anrufung Blakharazs]], [[Inhalt/Fertigkeiten/Anrufung Lolgramoths|Anrufung Lolgramoths]], [[Inhalt/Fertigkeiten/Anrufung Asfaloths|Anrufung Asfaloths]], [[Inhalt/Fertigkeiten/Anrufung Tasfarelels|Anrufung Tasfarelels]], [[Inhalt/Fertigkeiten/Anrufung Belkelels|Anrufung Belkelels]], [[Inhalt/Fertigkeiten/Anrufung Aphasmayras|Anrufung Aphasmayras]], [[Inhalt/Fertigkeiten/Anrufung Aphestadils|Anrufung Aphestadils]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Anrufung Blakharazs]]
+  - [[Anrufung Lolgramoths]]
+  - [[Anrufung Asfaloths]]
+  - [[Anrufung Tasfarelels]]
+  - [[Anrufung Belkelels]]
+  - [[Anrufung Aphasmayras]]
+  - [[Anrufung Aphestadils]]
+- **Erlernen:** 10 EP

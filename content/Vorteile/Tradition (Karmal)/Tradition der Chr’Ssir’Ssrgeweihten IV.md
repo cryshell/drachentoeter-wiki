@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0abcf4c4-cd02-4393-8226-b81fa8d07009
+ID: df82ad15-f724-4426-8f0e-d50e9a1253af
 Name: Tradition der Chr’Ssir’Ssrgeweihten IV
 title: Tradition der Chr’Ssir’Ssrgeweihten IV
 Kategorie: Tradition (Karmal)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Mut|MU]] 10
   - Vorteil [[Tradition der Chr’Ssir’Ssrgeweihten III]]

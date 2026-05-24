@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: b551c5b1-9cfc-457e-8ba0-2b51bef1324c
+ID: 9f133732-7c25-4343-832e-c685c9522fea
 Name: Siegel Borons
 title: Siegel Borons
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Vergessen|Vergessen]]"
+  - "[[Vergessen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borongeweihten I
@@ -13,7 +13,8 @@ Voraussetzungen: Vorteil Tradition der Borongeweihten I
 Dein Ziel kann über ein bestimmtes Wissen oder Ereignis nicht sprechen oder es auf irgendeine andere Art mitteilen. Nur Hellsicht-Magie kann das Wissen noch offenbaren.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Umfassendes Siegel (-8, 16 KaP; das Ziel darf über einen großen Bereich seines Lebens nicht sprechen.)
+- **Modifikationen:**
+  - Umfassendes Siegel (-8, 16 KaP; das Ziel darf über einen großen Bereich seines Lebens nicht sprechen.)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Humanoid
 - **Reichweite:** Berührung
@@ -25,5 +26,8 @@ Dein Ziel kann über ein bestimmtes Wissen oder Ereignis nicht sprechen oder es 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Vergessen|Vergessen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Vergessen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borongeweihten I]]
+- **Erlernen:** 20 EP

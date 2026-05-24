@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 0e631b10-90c7-4cd0-81d8-898232f8befd
+ID: 5189e1c5-e8d1-4b33-803c-4b7b1f210a73
 Name: Tanzen
 title: Tanzen
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Darbietung|Darbietung]]"
+  - "[[Darbietung]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Mit Tanzen kannst du beim nächsten Ball eine gute Figur abgeben und so mancher 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Darbietung|Darbietung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Darbietung]]
+- **Erlernen:** 10 EP

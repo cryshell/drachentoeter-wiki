@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: f843f19d-665a-4a78-8791-44257843088c
+ID: 783db807-d247-4958-9961-d13bd5a62326
 Name: Ruf in Borons Arme
 title: Ruf in Borons Arme
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schlaf|Schlaf]]"
+  - "[[Schlaf]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borongeweihten I
@@ -24,5 +24,8 @@ Das Ziel fällt in einen tiefen Schlaf, während dem Gifte und Krankheiten nicht
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schlaf|Schlaf]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Schlaf]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borongeweihten I]]
+- **Erlernen:** 10 EP

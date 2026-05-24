@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 1ce73273-d2b8-46ba-8bc0-743a1dcb9e2d
+ID: 426e3d8c-b005-4bcd-a003-83ad39f6d581
 Name: Lohn der Unverzagten
 title: Lohn der Unverzagten
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heilung|Heilung]]"
-  - "[[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]]"
+  - "[[Heilung]]"
+  - "[[Heim und Herd]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Traviageweihten I
@@ -25,5 +25,9 @@ Du stärkst die Widerstandskraft des Gesegneten. Proben zur Abwehr von Krankheit
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heilung|Heilung]], [[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Heilung]]
+  - [[Heim und Herd]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Perainegeweihten I ODER Vorteil Tradition der Traviageweihten I]]
+- **Erlernen:** 10 EP

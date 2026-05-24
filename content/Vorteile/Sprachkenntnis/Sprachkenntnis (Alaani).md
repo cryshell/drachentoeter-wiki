@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c1ea6c0a-c662-4406-9f25-9420965e4db7
+ID: 1a66daa5-4b7d-45a2-bdc1-1a904ec23639
 Name: Sprachkenntnis (Alaani)
 title: Sprachkenntnis (Alaani)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Alaani gehört zur Tulamidya-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

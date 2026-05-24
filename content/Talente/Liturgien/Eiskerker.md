@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 2fdeb110-f5d3-4c89-a249-0e0c4e64452f
+ID: 0436e087-b9cd-4ee0-89d6-5658f7b4b9a1
 Name: Eiskerker
 title: Eiskerker
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Winter|Winter]]"
+  - "[[Winter]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Firungeweihten I
@@ -14,7 +14,8 @@ Das Ziel wird von einem Eiskerker mit einer Härte von 16 eingeschlossen, wenn i
 
 - **Hohe Qualität:** Die Härte steigt um +8.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Eisgrab (-8, Wirkungsdauer bis die Bindung gelöst wird, Kosten 16 KaP, davon 2 gKaP; verdoppelt die Härte, zudem hat die Gegenprobe hat Nachteil und darf nicht wiederholt werden.)
+- **Modifikationen:**
+  - Eisgrab (-8, Wirkungsdauer bis die Bindung gelöst wird, Kosten 16 KaP, davon 2 gKaP; verdoppelt die Härte, zudem hat die Gegenprobe hat Nachteil und darf nicht wiederholt werden.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Wesen
 - **Reichweite:** 16 Schritt
@@ -26,5 +27,8 @@ Das Ziel wird von einem Eiskerker mit einer Härte von 16 eingeschlossen, wenn i
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Winter|Winter]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Winter]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Firungeweihten I]]
+- **Erlernen:** 40 EP

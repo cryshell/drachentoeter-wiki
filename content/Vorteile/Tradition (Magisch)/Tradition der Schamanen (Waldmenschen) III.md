@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c922f07c-24f4-4001-9784-02ca30575546
+ID: a55db573-dd00-41f1-b91a-b877b399bc96
 Name: Tradition der Schamanen (Waldmenschen) III
 title: Tradition der Schamanen (Waldmenschen) III
 Kategorie: Tradition (Magisch)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Zeremonie.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 8
   - Vorteil [[Tradition der Schamanen (Waldmenschen) II]]
-- **Siehe auch:** [[Zeremonie (M)]]
+- **Siehe auch:**
+  - [[Zeremonie (M)]]

@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: d0b6a670-2f2d-4884-b6fe-b7b77bb8737c
+ID: 2f77b161-1a6c-4dde-8f22-042793410725
 Name: Rhythmen der Ermutigung
 title: Rhythmen der Ermutigung
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Trommelrituale|Trommelrituale]]"
+  - "[[Eigenschaften]]"
+  - "[[Einfluss]]"
+  - "[[Trommelrituale]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Derwische I
@@ -25,5 +25,10 @@ Du schenkst Zuversicht. Jeder in einem Radius von 4 Schritt erhält Vorteil auf 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Trommelrituale|Trommelrituale]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Einfluss]]
+  - [[Trommelrituale]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Derwische I]]
+- **Erlernen:** 20 EP

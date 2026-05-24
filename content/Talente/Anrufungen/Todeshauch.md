@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 00b734b3-c94b-4df9-9aa2-4ccda972c04d
+ID: 8155bec0-452f-495b-b100-3ceb60d393d9
 Name: Todeshauch
 title: Todeshauch
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Thargunitoths|Anrufung Thargunitoths]]"
+  - "[[Anrufung Thargunitoths]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -13,10 +13,10 @@ Eine giftige Wolke breitet sich aus deinem Mund 8 Schritt weit kegelförmig aus 
 
 - **Hohe Qualität:** Die SP(E) steigen um 1W6.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Ätzender Odem (-4; die Wolke verursacht SP statt SP(E).)
-Miasmasphaero (-4; die Wolke breitet sich rund um dich aus.)
-Miasmafaxius (-4, Humanoid, 8 AsP; die Wolke trifft nur ein Ziel in bis zu 8 Schritt Entfernung.)
-
+- **Modifikationen:**
+  - Ätzender Odem (-4; die Wolke verursacht SP statt SP(E).)
+  - Miasmasphaero (-4; die Wolke breitet sich rund um dich aus.)
+  - Miasmafaxius (-4, Humanoid, 8 AsP; die Wolke trifft nur ein Ziel in bis zu 8 Schritt Entfernung.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -27,5 +27,6 @@ Miasmafaxius (-4, Humanoid, 8 AsP; die Wolke trifft nur ein Ziel in bis zu 8 Sch
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Thargunitoths|Anrufung Thargunitoths]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Thargunitoths]]
+- **Erlernen:** 20 EP

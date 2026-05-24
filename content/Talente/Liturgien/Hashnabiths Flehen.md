@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 011436db-5aca-4742-9524-c27ec08cf4d0
+ID: 07458386-bf52-4c13-9f70-84e51c1d1038
 Name: Hashnabiths Flehen
 title: Hashnabiths Flehen
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Stiller Wanderer|Stiller Wanderer]]"
-  - "[[Inhalt/Fertigkeiten/Flüsse und Quellen|Flüsse und Quellen]]"
+  - "[[Stiller Wanderer]]"
+  - "[[Flüsse und Quellen]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Avesgeweihten I ODER Vorteil Tradition der Efferdgeweihten I
@@ -27,5 +27,9 @@ Quellsegen (-4, Vorbereitungszeit 1 Stunde, Ziel Wasserquelle, Wirkungsdauer 1 M
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Stiller Wanderer|Stiller Wanderer]], [[Inhalt/Fertigkeiten/Flüsse und Quellen|Flüsse und Quellen]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Stiller Wanderer]]
+  - [[Flüsse und Quellen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Efferdgeweihten I]]
+- **Erlernen:** 10 EP

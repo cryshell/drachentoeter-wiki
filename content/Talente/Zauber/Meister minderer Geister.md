@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: f15d4012-2bd2-425d-a6bd-027b2c59e861
+ID: 768541b5-dddd-4099-8a4a-e550f8794714
 Name: Meister minderer Geister
 title: Meister minderer Geister
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Verständigung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Schelme I
@@ -24,5 +24,8 @@ Du rufst einen minderen Elementargeist herbei (Elementar, WS 2). Dieser gängelt
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Schelme I]]
+- **Erlernen:** 10 EP

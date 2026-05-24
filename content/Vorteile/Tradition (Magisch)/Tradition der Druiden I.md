@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 09a974bc-c9b2-497d-a2ea-6d9964127c33
+ID: 06a1f01c-4438-4b63-9d8c-2bee7a1fcce1
 Name: Tradition der Druiden I
 title: Tradition der Druiden I
 Kategorie: Tradition (Magisch)
@@ -14,7 +14,7 @@ Du kannst Zauber in der Tradition der Druiden erlernen und benutzen. Solche Zaub
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 4
   - Vorteil [[Zauberer I]]

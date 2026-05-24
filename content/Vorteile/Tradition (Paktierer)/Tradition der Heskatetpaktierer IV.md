@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a4d34e7d-39f8-4bd3-9a01-288df92f683f
+ID: eba3c044-489d-49a1-97fc-3728ec0d6aec
 Name: Tradition der Heskatetpaktierer IV
 title: Tradition der Heskatetpaktierer IV
 Kategorie: Tradition (Paktierer)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Mut|MU]] 10
   - Vorteil [[Tradition der Heskatetpaktierer III]]

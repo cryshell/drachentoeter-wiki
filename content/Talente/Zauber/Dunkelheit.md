@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 1b1ea1e2-0466-48f7-bc2f-5e78c5f468d6
+ID: 230028f8-a757-4306-a0ad-4530b657e659
 Name: Dunkelheit
 title: Dunkelheit
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Umwelt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Shakagra I
@@ -14,7 +14,8 @@ In einem Radius von 4 Schritt entsteht eine Zone der Dunkelheit, in der die Hell
 
 - **Hohe Qualität:** Die Helligkeit sinkt um eine weitere Stufe.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Begleiter (-4; die Dunkelheit bewegt sich mit dir.)
+- **Modifikationen:**
+  - Begleiter (-4; die Dunkelheit bewegt sich mit dir.)
 - **Vorbereitungszeit:** 8 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -25,5 +26,8 @@ In einem Radius von 4 Schritt entsteht eine Zone der Dunkelheit, in der die Hell
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

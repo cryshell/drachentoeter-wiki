@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: b8dc7f51-c7e1-4077-989a-265b15be630d
+ID: 18e55b9e-1bb0-456c-8b42-97f5e04d04f5
 Name: Lied des Meeres
 title: Lied des Meeres
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]"
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
+  - "[[Zaubermelodien]]"
+  - "[[Eigenschaften]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zauberbarden I
@@ -24,5 +24,9 @@ Dein Lied stimmt Zuhörer in einem Radius von 4 Schritt auf das Meer ein. Sie er
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]], [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Zaubermelodien]]
+  - [[Eigenschaften]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zauberbarden I]]
+- **Erlernen:** 10 EP

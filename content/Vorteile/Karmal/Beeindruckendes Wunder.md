@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 9bc52803-5eb5-4fbe-969f-4c812a049c79
+ID: 29f95eab-241b-4e39-a61e-149dacbb13c3
 Name: Beeindruckendes Wunder
 title: Beeindruckendes Wunder
 Kategorie: Karmal
@@ -16,8 +16,9 @@ Bei Mirakeln verleiht Hohe Qualität einen Bonus von +4 statt +2.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 8
   - Vorteil [[Geweiht I]]
-- **Siehe auch:** [[Mirakel]]
+- **Siehe auch:**
+  - [[Mirakel]]

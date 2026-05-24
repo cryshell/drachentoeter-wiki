@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f4f253c8-8e54-4049-af72-34427d1d7775
+ID: c346b212-dc09-4bff-ae34-49c4325e6743
 Name: Astrale Regeneration VI
 title: Astrale Regeneration VI
 Kategorie: Magisch
@@ -16,8 +16,9 @@ Du regenerierst 1 zusätzliche AsP pro *langer Rast*.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Astrale Regeneration V]]
   - Attribut [[Konstitution|KO]] 10
-- **Siehe auch:** [[Regeneration]]
+- **Siehe auch:**
+  - [[Regeneration]]

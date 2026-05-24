@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 3dd3ce84-db22-4adc-a06a-5e30e8b3662e
+ID: 879235f9-8ebf-48e2-b1cc-3d323dea84dd
 Name: Heilige Salbung
 title: Heilige Salbung
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Friede|Friede]]"
-  - "[[Inhalt/Fertigkeiten/Heilung|Heilung]]"
+  - "[[Friede]]"
+  - "[[Heilung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Tsageweihten I
@@ -26,5 +26,9 @@ Hohe Qualität: Heilt 2 weitere Sikaryanwunden.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Friede|Friede]], [[Inhalt/Fertigkeiten/Heilung|Heilung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Friede]]
+  - [[Heilung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Perainegeweihten I ODER Vorteil Tradition der Tsageweihten I]]
+- **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4d8be1a2-29b9-4a56-a6c6-f96275edbd2c
+ID: 72340d22-523a-4b18-a519-28f571735109
 Name: Kulturkunde (Norbarden)
 title: Kulturkunde (Norbarden)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

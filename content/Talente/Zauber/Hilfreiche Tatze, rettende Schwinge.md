@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: cd4055ce-0fc4-4924-868f-38ae29ef9a71
+ID: 3163b267-6d04-4847-9ba7-03ac53664585
 Name: Hilfreiche Tatze, rettende Schwinge
 title: Hilfreiche Tatze, rettende Schwinge
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Einfluss]]"
+  - "[[Verständigung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Kristallomanten I
@@ -14,7 +14,8 @@ Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition d
 Du wählst eine maximal *kleine* Tierart und rufst ein entsprechendes Tier herbei. Falls das Tier in deiner Region nicht heimisch ist, erscheint nach Möglichkeit eine verwandte Art, ansonsten scheitert die Probe automatisch. Das Tier erscheint auf übernatürliche Weise in der Nähe und trifft innerhalb von 2W6 Zügen bei dir ein. Wenn es dabei auf Hindernisse stößt, sucht es das Weite. Du kannst es um einen Gefallen bitten, den es nach Möglichkeit erfüllen wird.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Größeres Tier (-4, Kosten +8 AsP; die Tierart darf eine Stufe größer sein. Mehrmals wählbar.)
+- **Modifikationen:**
+  - Größeres Tier (-4, Kosten +8 AsP; die Tierart darf eine Stufe größer sein. Mehrmals wählbar.)
 - **Vorbereitungszeit:** 8 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -25,5 +26,9 @@ Du wählst eine maximal *kleine* Tierart und rufst ein entsprechendes Tier herbe
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 10 EP

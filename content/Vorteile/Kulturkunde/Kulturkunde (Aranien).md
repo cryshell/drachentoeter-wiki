@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 8ff5afaf-c191-464c-95ef-6130412b0e00
+ID: 5f0b0176-4ce0-4a04-862c-92cd0da9f8d3
 Name: Kulturkunde (Aranien)
 title: Kulturkunde (Aranien)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 371c935a-6bc0-4b23-8849-f3a1fa1a95a4
+ID: ad8e4be4-797f-4b84-93bb-a8b56733c326
 Name: Ehrenhafter Zweikampf
 title: Ehrenhafter Zweikampf
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Ehre|Ehre]]"
-  - "[[Inhalt/Fertigkeiten/Heerführung|Heerführung]]"
+  - "[[Ehre]]"
+  - "[[Heerführung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rondrageweihten I
@@ -25,5 +25,9 @@ Dein Ziel muss sich an die Gebote des ehrenhaften Zweikampfs halten. Wer in den 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Ehre|Ehre]], [[Inhalt/Fertigkeiten/Heerführung|Heerführung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Ehre]]
+  - [[Heerführung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rondrageweihten I]]
+- **Erlernen:** 20 EP

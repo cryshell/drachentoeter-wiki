@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 5aa71664-9abc-4aee-b555-fd1da0d07ca7
+ID: 414c69ac-8a80-47f7-86f1-d9ef2ba0d8ee
 Name: Tradition der Geoden IV
 title: Tradition der Geoden IV
 Kategorie: Tradition (Magisch)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Intuition|IN]] 10
   - Vorteil [[Tradition der Geoden III]]

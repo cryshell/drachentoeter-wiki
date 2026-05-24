@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: e62966ef-c5f2-47f6-a5cb-ef5c28c6b18e
+ID: b07156ca-feb9-41e5-b544-376bbed8f8ed
 Name: Matrixstabilisierung (passiv)
 title: Matrixstabilisierung (passiv)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]]"
+  - "[[Stabzauber]]"
 Kosten: 40
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
 ---
@@ -15,5 +15,8 @@ Der Zauberstab stabilisiert die Zauberei bestimmter Fertigkeiten. In einem einst
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Stabzauber]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 40 EP

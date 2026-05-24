@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: f2084229-98b8-4794-bfc5-048269cc7db3
+ID: 704dc033-76a1-40f5-80b2-84f4f3a672b0
 Name: Seelenschwert
 title: Seelenschwert
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Blakharazs|Anrufung Blakharazs]]"
+  - "[[Anrufung Blakharazs]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Eine mit diesem Paktgeschenk versehene Hinrichtungswaffe bindet die Seelen der d
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Blakharazs|Anrufung Blakharazs]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Anrufung Blakharazs]]
+- **Erlernen:** 40 EP

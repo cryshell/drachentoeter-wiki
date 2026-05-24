@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2f3dd3a5-c8e7-42e4-a7d8-3f5b079e5003
+ID: fbc34edb-6be0-4f2f-bfca-4f790c58125e
 Name: Wahre Namen Asfaloths III
 title: Wahre Namen Asfaloths III
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - Attribut [[Klugheit|KL]] 8

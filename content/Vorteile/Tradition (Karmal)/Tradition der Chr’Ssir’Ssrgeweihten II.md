@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: efe98b70-0103-47e1-9b09-2c0ffbe3d49f
+ID: 7823292b-91fd-4431-a017-1010482e1236
 Name: Tradition der Chr’Ssir’Ssrgeweihten II
 title: Tradition der Chr’Ssir’Ssrgeweihten II
 Kategorie: Tradition (Karmal)
@@ -14,7 +14,7 @@ Chr’Ssir’Ssrgeweihte haben es sich zur Aufgabe gesetzt, den Himmel freizuhal
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 6
   - Vorteil [[Tradition der Chr’Ssir’Ssrgeweihten I]]

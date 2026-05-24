@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2502c18f-c4c5-4039-ab13-548b04fd3f6c
+ID: eef853d1-bd0d-4d5e-86fe-7ba8e36ac937
 Name: Meister der Wünsche
 title: Meister der Wünsche
 Kategorie: Magisch
@@ -17,8 +17,10 @@ Nachdem ein gebundenes Elementar einen Dienst erfüllt hat, kannst du für die H
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
   - Attribut [[Charisma|CH]] 6
-- **Siehe auch:** [[Beschwörungen]], [[Beschwörungen - Bindung]]
+- **Siehe auch:**
+  - [[Beschwörungen]]
+  - [[Beschwörungen - Bindung]]

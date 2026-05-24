@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 751f7e3d-7c31-43f2-9bbf-0be5abb63c1c
+ID: 88ddeff3-7e2c-4439-9f17-dc4c232a7507
 Name: Tradition der Ifirngeweihten IV
 title: Tradition der Ifirngeweihten IV
 Kategorie: Tradition (Karmal)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Intuition|IN]] 10
   - Vorteil [[Tradition der Ifirngeweihten III]]

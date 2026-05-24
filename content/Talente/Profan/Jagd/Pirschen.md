@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 80e19188-e959-433b-902e-b21ed030dd8a
+ID: 086ca649-34c6-4e8f-afd6-f525278f9abe
 Name: Pirschen
 title: Pirschen
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Jagd|Jagd]]"
+  - "[[Jagd]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Pirschen ermöglicht das Schleichen, Verstecken und Lauern in der freien Natur. 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Jagd|Jagd]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Jagd]]
+- **Erlernen:** 40 EP

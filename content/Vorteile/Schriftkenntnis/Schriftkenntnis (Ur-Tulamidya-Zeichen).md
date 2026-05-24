@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 108d56b6-9b4f-44a4-982e-d8f52472e47f
+ID: 812fce67-38a5-4b9d-a65e-15bd6591c82c
 Name: Schriftkenntnis (Ur-Tulamidya-Zeichen)
 title: Schriftkenntnis (Ur-Tulamidya-Zeichen)
 Kategorie: Schriftkenntnis
@@ -11,4 +11,4 @@ Schriften umfassen sowohl die Fähigkeit die entsprechenden Zeichen lesen als au
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

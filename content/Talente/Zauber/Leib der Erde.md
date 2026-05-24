@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 9f123086-cc17-43ce-8252-cc7a2c58b623
+ID: 4ce95cc6-4111-4bb6-9616-4bdb5f16c2bf
 Name: Leib der Erde
 title: Leib der Erde
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
+  - "[[Humus]]"
+  - "[[Verwandlung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I
@@ -14,10 +14,10 @@ Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfe
 Du harmonierst mit dem Element Humus. Du bist immun gegen Gifte und Humusschaden. Erlaubt *Aufrechterhalten*.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Begleiter (-4; der Zauber betrifft auch eine weitere Person, mit der du permanent Hautkontakt halten musst.)
-Leib aus Humus (-8; deine Kreaturenklasse wird zu "Elementar" mit allen entsprechenden Eigenschaften. Du kannst während der Wirkungsdauer keine Zauber wirken.)
-Reise in die Erde (-4; du kannst dich mit 2 Schritt pro Zug durch Holz und Erde bewegen, als würdest du darin tauchen. Im Humus brauchst du nicht zu atmen.)
-
+- **Modifikationen:**
+  - Begleiter (-4; der Zauber betrifft auch eine weitere Person, mit der du permanent Hautkontakt halten musst.)
+  - Leib aus Humus (-8; deine Kreaturenklasse wird zu "Elementar" mit allen entsprechenden Eigenschaften. Du kannst während der Wirkungsdauer keine Zauber wirken.)
+  - Reise in die Erde (-4; du kannst dich mit 2 Schritt pro Zug durch Holz und Erde bewegen, als würdest du darin tauchen. Im Humus brauchst du nicht zu atmen.)
 - **Vorbereitungszeit:** 8 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -28,5 +28,9 @@ Reise in die Erde (-4; du kannst dich mit 2 Schritt pro Zug durch Holz und Erde 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Humus|Humus]], [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Humus]]
+  - [[Verwandlung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

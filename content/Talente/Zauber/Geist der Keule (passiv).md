@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 27ff447f-dfcb-4787-b7f0-043c7e036601
+ID: 475a7368-ec7f-4bd1-a98a-d093d9ba897d
 Name: Geist der Keule (passiv)
 title: Geist der Keule (passiv)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Keulenrituale|Keulenrituale]]"
+  - "[[Keulenrituale]]"
 Kosten: 40
 Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
 ---
@@ -18,5 +18,8 @@ Ab einem Keulenrituale-PW von 12 haben Kontrollproben gegen das Wesen Vorteil. W
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Keulenrituale|Keulenrituale]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Keulenrituale]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+- **Erlernen:** 40 EP

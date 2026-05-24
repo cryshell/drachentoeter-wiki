@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 8442d15b-5708-4bfa-835f-8fa21ac75cdb
+ID: 29fd8d27-f125-4b69-b1d1-efa9ef386584
 Name: Unsichtbare Chronik
 title: Unsichtbare Chronik
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Zibiljarituale|Zibiljarituale]]"
+  - "[[Hellsicht]]"
+  - "[[Zibiljarituale]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zibilja I
@@ -25,5 +25,9 @@ Du befragst einen Gegenstand über jegliche Interaktionen mit Personen im letzte
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Zibiljarituale|Zibiljarituale]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Hellsicht]]
+  - [[Zibiljarituale]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zibilja I]]
+- **Erlernen:** 10 EP

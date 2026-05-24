@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: afd66606-c527-401f-8ecc-bc4de6443131
+ID: 251ee942-7306-4420-98d1-e38c6a7363a3
 Name: Schleichen in den Schatten
 title: Schleichen in den Schatten
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Aphasmayras|Anrufung Aphasmayras]]"
+  - "[[Anrufung Aphasmayras]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -22,5 +22,6 @@ Du verschmilzt mit den Schatten und kannst dich in ihnen mit GS 14 bewegen. Du k
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Aphasmayras|Anrufung Aphasmayras]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Aphasmayras]]
+- **Erlernen:** 20 EP

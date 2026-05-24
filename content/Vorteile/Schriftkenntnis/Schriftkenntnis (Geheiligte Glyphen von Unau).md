@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 09eedc2d-1b3b-4144-8474-9124c94ae911
+ID: e61b756f-db01-41a8-b9c5-a6d9cb85c21b
 Name: Schriftkenntnis (Geheiligte Glyphen von Unau)
 title: Schriftkenntnis (Geheiligte Glyphen von Unau)
 Kategorie: Schriftkenntnis
@@ -11,4 +11,4 @@ Schriften umfassen sowohl die Fähigkeit die entsprechenden Zeichen lesen als au
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 1b7ca099-6b63-41de-8715-1aeac9e30013
+ID: b03b0d0a-a678-4ba9-a661-82244f807cfb
 Name: Bornisches Raufen
 title: Bornisches Raufen
 Kategorie: Kampf
@@ -14,7 +14,8 @@ Deine *schmutzigen Tricks* haben Vorteil.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Körperkraft|KK]] 8
-- **Siehe auch:** [[Schmutzige Tricks]]
+- **Siehe auch:**
+  - [[Schmutzige Tricks]]

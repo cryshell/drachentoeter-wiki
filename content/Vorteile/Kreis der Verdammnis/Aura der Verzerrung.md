@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0c36a9dc-3cc1-4adf-b347-85d35357312b
+ID: e017b647-8d4e-4bfb-9cb0-8e11af4c27f2
 Name: Aura der Verzerrung
 title: Aura der Verzerrung
 Kategorie: Kreis der Verdammnis
@@ -14,7 +14,7 @@ Wenn Anhänger der Erzdämonen in einem Radius von 16 Schritt Proben auf Attribu
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 8
   - Vorteil [[Paktierer I]]

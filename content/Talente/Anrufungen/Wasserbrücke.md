@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: d748be51-a29e-4acd-80e2-714e9c5db3f6
+ID: 663a0af4-ada2-4ddb-990b-9eb1099334a6
 Name: Wasserbrücke
 title: Wasserbrücke
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Charyptoroths|Anrufung Charyptoroths]]"
+  - "[[Anrufung Charyptoroths]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -22,5 +22,6 @@ Du kannst auf der Wasseroberfläche gehen, als würdest du von einer Welle getra
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Charyptoroths|Anrufung Charyptoroths]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Anrufung Charyptoroths]]
+- **Erlernen:** 10 EP

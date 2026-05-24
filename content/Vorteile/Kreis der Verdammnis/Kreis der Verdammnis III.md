@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 907fe886-967f-4cc4-8203-d2d7dcba8333
+ID: 0e0f04c6-f02d-427a-9ed7-426d1c8cd828
 Name: Kreis der Verdammnis III
 title: Kreis der Verdammnis III
 Kategorie: Kreis der Verdammnis
@@ -20,7 +20,8 @@ Der Vorteil hat folgende Auswirkungen:
 
 ---
 
-- **Kosten:** -200 EP
+- **Erlernen:** -200 EP
 - **Voraussetzungen:**
   - Vorteil [[Kreis der Verdammnis II]]
-- **Siehe auch:** [[Seelenprüfung]]
+- **Siehe auch:**
+  - [[Seelenprüfung]]

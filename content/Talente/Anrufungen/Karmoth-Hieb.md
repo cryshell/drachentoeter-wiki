@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: b79f1197-3013-4a29-9eb9-d31b7012b548
+ID: eb053e20-a84d-48a4-86e6-205472173921
 Name: Karmoth-Hieb
 title: Karmoth-Hieb
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Belhalhars|Anrufung Belhalhars]]"
+  - "[[Anrufung Belhalhars]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Du wirfst die Kraft des Gnadenlosen in deinen nächsten Angriff. Trifft dieser A
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Belhalhars|Anrufung Belhalhars]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Belhalhars]]
+- **Erlernen:** 20 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 25bb839c-1020-4c1c-a6d5-1d9755391674
+ID: 6b593cbf-4507-4048-87b2-6f6d2bffa3dd
 Name: Friedenslied
 title: Friedenslied
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]]"
+  - "[[Einfluss]]"
+  - "[[Elfenlieder]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Elfen I
@@ -24,5 +24,9 @@ Alle Humanoide und Tiere, die sich während der Wirkungsdauer in einem Radius vo
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Elfenlieder]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Elfen I]]
+- **Erlernen:** 20 EP

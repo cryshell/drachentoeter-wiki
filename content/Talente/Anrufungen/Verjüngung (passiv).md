@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: e6b8352a-3757-429e-93b0-0462113f420a
+ID: 8567887e-8fcd-43f6-8739-c6f665196aee
 Name: Verjüngung (passiv)
 title: Verjüngung (passiv)
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Asfaloths|Anrufung Asfaloths]]"
+  - "[[Anrufung Asfaloths]]"
 Kosten: 40
 ---
 Du kannst jederzeit 32 GuP aufwenden, um dich um 10 Jahre zu verjüngen.
@@ -14,5 +14,6 @@ Du kannst jederzeit 32 GuP aufwenden, um dich um 10 Jahre zu verjüngen.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Asfaloths|Anrufung Asfaloths]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Anrufung Asfaloths]]
+- **Erlernen:** 40 EP

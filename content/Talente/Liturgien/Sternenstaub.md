@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: bed5fd91-3739-437e-bdf2-4b6240581264
+ID: 2c9cadb4-e14f-4726-9f2a-028b272d98bc
 Name: Sternenstaub
 title: Sternenstaub
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Abu al'Mada|Abu al'Mada]]"
+  - "[[Abu al'Mada]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Phexgeweihten I
@@ -23,5 +23,8 @@ Du wirfst Mondstaub in die Luft, der deine Gegner ablenkt. Alle Angriffe gegen d
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Abu al'Mada|Abu al'Mada]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Abu al'Mada]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Phexgeweihten I]]
+- **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: bd3a2d40-2fd5-4614-8393-292f2eb6f2ea
+ID: d0ef3ac7-366b-423d-8346-78d29b2f5be8
 Name: Eiserner Wille II
 title: Eiserner Wille II
 Kategorie: Profan
@@ -16,8 +16,9 @@ Deine Magieresistenz steigt um 2 Punkte.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 6
   - Vorteil [[Eiserner Wille I]]
-- **Siehe auch:** [[MR]]
+- **Siehe auch:**
+  - [[MR]]

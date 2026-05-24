@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a363b64d-6ab7-45f8-97a7-4461c37f1847
+ID: 798c24df-6e4c-4e12-b144-3c40a3e2a638
 Name: Wahre Namen Belzorashs III
 title: Wahre Namen Belzorashs III
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - Attribut [[Klugheit|KL]] 8

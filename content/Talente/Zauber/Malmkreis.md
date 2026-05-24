@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: e805353e-783d-42bc-bc1a-b58df7f3d0d3
+ID: 334adf17-880d-4997-9e13-753f39cadb5b
 Name: Malmkreis
 title: Malmkreis
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Erz]]"
+  - "[[Umwelt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Geoden I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Elfen I
@@ -25,5 +25,9 @@ Du erzeugst einen kleinen Sturm aus umherfliegenden Steinen mit einem Radius von
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Erz|Erz]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Erz]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Geoden I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Elfen I]]
+- **Erlernen:** 20 EP

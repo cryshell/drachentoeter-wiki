@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 5933020b-bea5-4cd3-8b2f-00199643db99
+ID: d8c4c349-74c9-47be-b61e-95a1f264baf2
 Name: Tiergestalt (Land)
 title: Tiergestalt (Land)
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Göttlicher Ritus|Göttlicher Ritus]]"
-  - "[[Inhalt/Fertigkeiten/Jagd|Jagd]]"
+  - "[[Göttlicher Ritus]]"
+  - "[[Jagd]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Avesgeweihten I ODER Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I ODER Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Firungeweihten I ODER Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Himmelswölfegeweihten I ODER Vorteil Tradition der H’Szintgeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Kamaluqgeweihten I ODER Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I ODER Vorteil Tradition der Namenlosgeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Rondrageweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der Swafnirgeweihten I ODER Vorteil Tradition der Tairachgeweihten I ODER Vorteil Tradition der Traviageweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der V’Sargeweihten I ODER Vorteil Tradition der Zsahhgeweihten I
@@ -26,5 +26,9 @@ Du verwandelst dich in ein an Land lebendes, heiliges Tier deiner Gottheit. Du b
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Göttlicher Ritus|Göttlicher Ritus]], [[Inhalt/Fertigkeiten/Jagd|Jagd]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Göttlicher Ritus]]
+  - [[Jagd]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I ODER Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Firungeweihten I ODER Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Himmelswölfegeweihten I ODER Vorteil Tradition der H’Szintgeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Kamaluqgeweihten I ODER Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I ODER Vorteil Tradition der Namenlosgeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Rondrageweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der Swafnirgeweihten I ODER Vorteil Tradition der Tairachgeweihten I ODER Vorteil Tradition der Traviageweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der V’Sargeweihten I ODER Vorteil Tradition der Zsahhgeweihten I]]
+- **Erlernen:** 40 EP

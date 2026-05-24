@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 4a3bb193-4730-4f7c-8708-53453e390df2
+ID: 617897a2-5f06-48cb-badc-6e78dbcc66e7
 Name: Schleudern
 title: Schleudern
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wurfwaffen|Wurfwaffen]]"
+  - "[[Wurfwaffen]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Schleudern umfasst archaische Steinschleudern, aber auch Lassos, Wurfnetze und m
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wurfwaffen|Wurfwaffen]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Wurfwaffen]]
+- **Erlernen:** 40 EP

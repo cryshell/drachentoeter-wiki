@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: b74d8f97-0bde-4021-8638-5bac66c195e4
+ID: b77a2b0a-198e-4b89-bc19-643aa6f3ee47
 Name: Raub der Lebenskraft
 title: Raub der Lebenskraft
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Belzhorashs|Anrufung Belzhorashs]]"
+  - "[[Anrufung Belzhorashs]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Mit einer Berührung raubst du deinem Ziel Lebenskraft. Du verursachst 2W6 SP un
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Belzhorashs|Anrufung Belzhorashs]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Anrufung Belzhorashs]]
+- **Erlernen:** 40 EP

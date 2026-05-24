@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: bf0083f2-306a-496d-b86d-f720246fc178
+ID: 73e21173-bf35-4c08-9bfc-43089824d45a
 Name: Tanz des Ungehorsams
 title: Tanz des Ungehorsams
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Antimagie|Antimagie]]"
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]]"
+  - "[[Antimagie]]"
+  - "[[Eigenschaften]]"
+  - "[[Zaubertänze]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zaubertänzer I
@@ -26,5 +26,10 @@ Magieresistenz-Proben des Ziels haben Vorteil.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Antimagie|Antimagie]], [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Antimagie]]
+  - [[Eigenschaften]]
+  - [[Zaubertänze]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zaubertänzer I]]
+- **Erlernen:** 20 EP

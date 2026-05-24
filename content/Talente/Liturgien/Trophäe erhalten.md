@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 85e2f9c1-682f-46a0-91b2-abbc16a8fedf
+ID: 0a87aaf7-974f-4e34-a574-52eb66813db6
 Name: Trophäe erhalten
 title: Trophäe erhalten
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Jagd|Jagd]]"
+  - "[[Jagd]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Firungeweihten I ODER Vorteil Tradition der Ifirngeweihten I
@@ -23,5 +23,8 @@ Die gesegnete Jagdbeute verdirbt während der Wirkungsdauer nicht und kann so ve
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Jagd|Jagd]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Jagd]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Firungeweihten I ODER Vorteil Tradition der Ifirngeweihten I]]
+- **Erlernen:** 10 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 67559d66-bafc-4c86-99cf-396b94c9ab1d
+ID: 86b99723-3e75-4e64-b08f-24321ac307ba
 Name: Melodie der Besänftigung
 title: Melodie der Besänftigung
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]"
+  - "[[Einfluss]]"
+  - "[[Zaubermelodien]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zauberbarden I
@@ -24,5 +24,9 @@ Die Melodie besänftigt Tiere, die sich während der Wirkungsdauer in einem Radi
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Zaubermelodien]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zauberbarden I]]
+- **Erlernen:** 10 EP

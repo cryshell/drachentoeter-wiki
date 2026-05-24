@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 0d8e0141-eebf-4178-a64e-f18fc7e0d48e
+ID: 89a6d3b1-003c-4132-975a-9a4231ecb3a9
 Name: Dämonischer Panzer
 title: Dämonischer Panzer
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonischer Ritus|Dämonischer Ritus]]"
+  - "[[Dämonischer Ritus]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Der RS deines Zieles steigt um 1.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonischer Ritus|Dämonischer Ritus]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Dämonischer Ritus]]
+- **Erlernen:** 20 EP

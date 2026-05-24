@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: ef2d0a6b-ad61-439b-902f-c28b2b9416ef
+ID: 0725bbfa-cf92-4043-aece-cb2a883c18e7
 Name: Pestilenz
 title: Pestilenz
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
-  - "[[Inhalt/Fertigkeiten/Hexenflüche|Hexenflüche]]"
+  - "[[Dämonisch]]"
+  - "[[Hexenflüche]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hexen I
@@ -18,5 +18,9 @@ $talent:Fluch der Pestilenz$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]], [[Inhalt/Fertigkeiten/Hexenflüche|Hexenflüche]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Dämonisch]]
+  - [[Hexenflüche]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hexen I]]
+- **Erlernen:** 20 EP

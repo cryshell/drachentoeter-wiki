@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 44db417e-6ac2-4df6-ba7d-4b459169a125
+ID: 6bdb92d9-b820-47e9-b628-faa8264cdfbf
 Name: Untote erheben
 title: Untote erheben
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Thargunitoths|Anrufung Thargunitoths]]"
+  - "[[Anrufung Thargunitoths]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Du lässt durch eine bloße Berührung einen Nephazz in einen Leichnam fahren, d
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Thargunitoths|Anrufung Thargunitoths]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Anrufung Thargunitoths]]
+- **Erlernen:** 40 EP

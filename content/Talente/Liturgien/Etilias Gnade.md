@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: e406bbc4-c494-4248-81d9-5c84add76c0e
+ID: ba0fdb92-16ce-4556-a438-d2c16f89f138
 Name: Etilias Gnade
 title: Etilias Gnade
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Tod|Tod]]"
+  - "[[Tod]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borongeweihten I
@@ -13,7 +13,8 @@ Voraussetzungen: Vorteil Tradition der Borongeweihten I
 Ein Sterbender leidet keine Schmerzen mehr.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Marbos Aufschub (-8, 1 Stunde, 16 KaP; ein langsamer Tod durch Siechtum oder Schwäche verzögert sich zusätzlich um 1 Woche. Der Gesegnete ist jedoch nicht immun gegen einen gewaltsamen Tod.)
+- **Modifikationen:**
+  - Marbos Aufschub (-8, 1 Stunde, 16 KaP; ein langsamer Tod durch Siechtum oder Schwäche verzögert sich zusätzlich um 1 Woche. Der Gesegnete ist jedoch nicht immun gegen einen gewaltsamen Tod.)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Humanoid
 - **Reichweite:** Berührung
@@ -24,5 +25,8 @@ Ein Sterbender leidet keine Schmerzen mehr.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Tod|Tod]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Tod]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borongeweihten I]]
+- **Erlernen:** 10 EP

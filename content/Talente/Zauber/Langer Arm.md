@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 8754f11c-3932-4029-95ee-a7e77bd3de93
+ID: e693571c-eec0-4fb1-a657-7e49ce2d764c
 Name: Langer Arm
 title: Langer Arm
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Stabzauber]]"
+  - "[[Umwelt]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
@@ -24,5 +24,9 @@ An der Spitze des Stabs entsteht eine astrale Hand, die du steuern kannst. Mit i
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Stabzauber]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 10 EP

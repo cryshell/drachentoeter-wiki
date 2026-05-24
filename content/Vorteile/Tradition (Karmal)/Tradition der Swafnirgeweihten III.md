@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 935d0080-7d1c-4ff4-9309-0230e809e2de
+ID: e7aeec0c-e003-4fa8-b328-2019a3df7990
 Name: Tradition der Swafnirgeweihten III
 title: Tradition der Swafnirgeweihten III
 Kategorie: Tradition (Karmal)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 8
   - Vorteil [[Tradition der Swafnirgeweihten II]]
-- **Siehe auch:** [[Opferung (Swafnir)]]
+- **Siehe auch:**
+  - [[Opferung (Swafnir)]]

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 8603b2da-11fa-4369-9b3f-40ff189ffbe0
+ID: 51ecc2d8-c2eb-41c3-b41d-2d49781f4c74
 Name: Macht des Wahnsinns
 title: Macht des Wahnsinns
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Amazeroths|Anrufung Amazeroths]]"
+  - "[[Anrufung Amazeroths]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -22,5 +22,6 @@ Du strafst dein Ziel mit Wahnsinn, es ist *verwirrt*. Im Kampf ist hierzu ein er
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Amazeroths|Anrufung Amazeroths]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Amazeroths]]
+- **Erlernen:** 20 EP

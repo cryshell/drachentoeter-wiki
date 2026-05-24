@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 984dcf10-cd7a-4b30-a907-d2d863a953fc
+ID: 32793843-a4f2-488e-9227-f37edecc85a3
 Name: Zsahhs Lebensschutz
 title: Zsahhs Lebensschutz
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Fruchtbarkeit und Wiedergeburt|Fruchtbarkeit und Wiedergeburt]]"
+  - "[[Fruchtbarkeit und Wiedergeburt]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zsahhgeweihten I
@@ -17,5 +17,8 @@ $talent:Tsas Lebensschutz$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Fruchtbarkeit und Wiedergeburt|Fruchtbarkeit und Wiedergeburt]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Fruchtbarkeit und Wiedergeburt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zsahhgeweihten I]]
+- **Erlernen:** 40 EP

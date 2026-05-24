@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d8306aeb-60ea-45fd-a7ee-9326c04d7327
+ID: 6adb21a2-837c-46a1-9819-f7eddcc07b03
 Name: Tradition der Scharlatane II
 title: Tradition der Scharlatane II
 Kategorie: Tradition (Magisch)
@@ -14,7 +14,7 @@ Scharlatane sind Meister der Illusionsmagie. Proben auf die Fertigkeit Illusion 
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 6
   - Vorteil [[Tradition der Scharlatane I]]

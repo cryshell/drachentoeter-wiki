@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 34ebd84f-4ba7-4e9a-b081-4713622dd609
+ID: 066d26aa-d379-471f-8f1f-c000ca926939
 Name: Offensiver Kampfstil
 title: Offensiver Kampfstil
 Kategorie: Kampf
@@ -14,7 +14,8 @@ Wenn du die Aktion Angriff wählst, kannst du dabei in eine volle Offensive gehe
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 6
-- **Siehe auch:** [[Aktion Angriff]]
+- **Siehe auch:**
+  - [[Aktion Angriff]]

@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 759cb47b-865b-4e4e-89f3-e7b38ce2717f
+ID: dffd595f-5ae2-49cd-80bd-1f7d3cefe90a
 Name: Wunderbarer Geschlechterwandel
 title: Wunderbarer Geschlechterwandel
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Fruchtbarkeit und Wiedergeburt|Fruchtbarkeit und Wiedergeburt]]"
-  - "[[Inhalt/Fertigkeiten/Veränderung|Veränderung]]"
-  - "[[Inhalt/Fertigkeiten/Wandlung|Wandlung]]"
+  - "[[Fruchtbarkeit und Wiedergeburt]]"
+  - "[[Veränderung]]"
+  - "[[Wandlung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der H’Szintgeweihten I ODER Vorteil Tradition der Zsahhgeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I
@@ -25,5 +25,10 @@ Du veränderst das Geschlecht des Gesegneten. Körperbau, Stimme und alle andere
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Fruchtbarkeit und Wiedergeburt|Fruchtbarkeit und Wiedergeburt]], [[Inhalt/Fertigkeiten/Veränderung|Veränderung]], [[Inhalt/Fertigkeiten/Wandlung|Wandlung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Fruchtbarkeit und Wiedergeburt]]
+  - [[Veränderung]]
+  - [[Wandlung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der H’Szintgeweihten I ODER Vorteil Tradition der Zsahhgeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I]]
+- **Erlernen:** 20 EP

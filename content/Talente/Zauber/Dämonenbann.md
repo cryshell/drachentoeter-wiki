@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 302cf148-c693-406b-9725-cceac6ca50f8
+ID: 3fb74ebc-8864-4c42-8067-3863ab107cca
 Name: Dämonenbann
 title: Dämonenbann
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Antimagie|Antimagie]]"
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
+  - "[[Antimagie]]"
+  - "[[Dämonisch]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I
@@ -28,5 +28,9 @@ Pentagramma (Probenschwierigkeit Beschwörungsschwierigkeit des Ziels, 16 Aktion
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Antimagie|Antimagie]], [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Antimagie]]
+  - [[Dämonisch]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I]]
+- **Erlernen:** 20 EP

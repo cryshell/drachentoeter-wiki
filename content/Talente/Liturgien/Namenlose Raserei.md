@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: bece8e8a-a204-4da0-ace6-2a41899309ed
+ID: 8fb4e645-1634-4760-b2a0-252720d26eae
 Name: Namenlose Raserei
 title: Namenlose Raserei
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hass und Zerstörung|Hass und Zerstörung]]"
+  - "[[Hass und Zerstörung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Namenlosgeweihten I
@@ -24,5 +24,8 @@ Das Ziel verfällt in einen *Blutrausch*.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hass und Zerstörung|Hass und Zerstörung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Hass und Zerstörung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Namenlosgeweihten I]]
+- **Erlernen:** 20 EP

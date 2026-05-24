@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a9aa9817-8fd3-4c74-acb5-a1e656d3d783
+ID: b17686f5-6882-498c-bd61-4b75b47d2c36
 Name: Sprachkenntnis (Füchsisch inkl. Schrift)
 title: Sprachkenntnis (Füchsisch inkl. Schrift)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Füchsisch gehört zu keiner Sprachfamilie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

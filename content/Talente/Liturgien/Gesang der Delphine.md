@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 01358c04-9e36-4b74-b735-c2e06f7bb97a
+ID: af5b4033-0b08-445a-ade4-758a2a43be9e
 Name: Gesang der Delphine
 title: Gesang der Delphine
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wind und Wogen|Wind und Wogen]]"
+  - "[[Wind und Wogen]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I
@@ -25,5 +25,8 @@ Das Ziel erhält den Vorteil Tierempathie (Delphine für Eff oder Pottwale für 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wind und Wogen|Wind und Wogen]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Wind und Wogen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I]]
+- **Erlernen:** 10 EP

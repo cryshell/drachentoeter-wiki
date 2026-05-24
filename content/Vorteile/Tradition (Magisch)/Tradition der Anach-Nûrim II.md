@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b08a16de-dfcf-4662-abc2-b262b48df973
+ID: 9e630f96-655d-4df6-bcab-065d81ea0455
 Name: Tradition der Anach-Nûrim II
 title: Tradition der Anach-Nûrim II
 Kategorie: Tradition (Magisch)
@@ -17,8 +17,10 @@ Wenn du einen Zauber mit verbotenen Pforten oder Blutmagie wirkst, hat er Vortei
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Konstitution|KO]] 6
   - Vorteil [[Tradition der Anach-Nûrim I]]
-- **Siehe auch:** [[Verbotene Pforten]], [[Blutmagie]]
+- **Siehe auch:**
+  - [[Verbotene Pforten]]
+  - [[Blutmagie]]

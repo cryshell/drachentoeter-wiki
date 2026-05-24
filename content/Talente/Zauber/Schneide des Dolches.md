@@ -1,14 +1,14 @@
 ---
 Entitätstyp: Talent
-ID: 0ee805ff-e088-4173-9e77-517df809a718
+ID: 23319d60-ed90-4f1f-a995-67aeff6b4bae
 Name: Schneide des Dolches
 title: Schneide des Dolches
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]]"
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
-  - "[[Inhalt/Fertigkeiten/Feuer|Feuer]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
+  - "[[Dolchzauber]]"
+  - "[[Erz]]"
+  - "[[Feuer]]"
+  - "[[Objekt]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I
@@ -26,5 +26,11 @@ Du kannst mit dem Dolch natürliches Gestein schneiden wie Wachs.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]], [[Inhalt/Fertigkeiten/Erz|Erz]], [[Inhalt/Fertigkeiten/Feuer|Feuer]], [[Inhalt/Fertigkeiten/Objekt|Objekt]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Dolchzauber]]
+  - [[Erz]]
+  - [[Feuer]]
+  - [[Objekt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I]]
+- **Erlernen:** 10 EP

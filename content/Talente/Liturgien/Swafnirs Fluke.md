@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 8e9162d1-5ff8-4a43-a859-3e41d9d94f46
+ID: 00eb570c-da59-47a5-ba0e-fda9f7511d00
 Name: Swafnirs Fluke
 title: Swafnirs Fluke
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wind und Wogen|Wind und Wogen]]"
+  - "[[Wind und Wogen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I
@@ -14,7 +14,8 @@ Voraussetzungen: Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition 
 
 - **Hohe Qualität:** Ändert die Wasseroberfläche um eine weitere Stufe oder verdoppelt den Radius.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Begleiter (-4; die Zone bewegt sich mit dir.)
+- **Modifikationen:**
+  - Begleiter (-4; die Zone bewegt sich mit dir.)
 - **Vorbereitungszeit:** 4 Minuten
 - **Ziel:** Zone
 - **Reichweite:** 4 Meilen
@@ -25,5 +26,8 @@ Voraussetzungen: Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wind und Wogen|Wind und Wogen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Wind und Wogen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I]]
+- **Erlernen:** 20 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 7e4df76d-0539-455b-b7d5-e9eb835c16b6
+ID: 45a1a8e6-b931-4294-8d3c-f929da0dc538
 Name: Wundersames Teilen des Martyriums
 title: Wundersames Teilen des Martyriums
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schutz der Gläubigen|Schutz der Gläubigen]]"
+  - "[[Schutz der Gläubigen]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rondrageweihten I
@@ -23,5 +23,8 @@ Jede zweite Wunde, die dein Ziel erleidet, wird auf dich übertragen (beginnend 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schutz der Gläubigen|Schutz der Gläubigen]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Schutz der Gläubigen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rondrageweihten I]]
+- **Erlernen:** 10 EP

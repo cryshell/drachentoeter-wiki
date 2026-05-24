@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: fa9b6c1a-d462-4f20-a7c8-0d4e50bdb3f6
+ID: 21ce6c19-45cb-43d4-91d3-902ab910320a
 Name: Frigifaxius
 title: Frigifaxius
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eis|Eis]]"
+  - "[[Eis]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Geoden I
@@ -14,9 +14,9 @@ Ein Strahl aus elementarem Eis fügt dem Ziel 2W6 TP zu und verursacht *Erfriere
 
 - **Hohe Qualität:** Die TP steigen um 1W6.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Doppelschuss (-4, 16 AsP; die Anzahl Schadenswürfel inklusive Hohe Qualität wird verdoppelt.)
-Enger Strahl (-4; der Zauber verursacht SP statt TP.)
-
+- **Modifikationen:**
+  - Doppelschuss (-4, 16 AsP; die Anzahl Schadenswürfel inklusive Hohe Qualität wird verdoppelt.)
+  - Enger Strahl (-4; der Zauber verursacht SP statt TP.)
 - **Vorbereitungszeit:** 0 Aktionen
 - **Ziel:** Wesen, Objekt
 - **Reichweite:** 16 Schritt
@@ -27,5 +27,8 @@ Enger Strahl (-4; der Zauber verursacht SP statt TP.)
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eis|Eis]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eis]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Geoden I]]
+- **Erlernen:** 20 EP

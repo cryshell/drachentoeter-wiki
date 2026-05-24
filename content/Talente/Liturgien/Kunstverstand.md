@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: a2bb091c-ba97-46ab-9764-4acca31337e2
+ID: 5555ddac-42c3-4e61-9780-6ebb55da8438
 Name: Kunstverstand
 title: Kunstverstand
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heiliges Handwerk|Heiliges Handwerk]]"
-  - "[[Inhalt/Fertigkeiten/List|List]]"
+  - "[[Heiliges Handwerk]]"
+  - "[[List]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Graveshgeweihten I
@@ -26,5 +26,9 @@ Du erhältst einen groben Eindruck von der Qualität und dem Verkaufswert des Ge
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heiliges Handwerk|Heiliges Handwerk]], [[Inhalt/Fertigkeiten/List|List]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Heiliges Handwerk]]
+  - [[List]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+- **Erlernen:** 10 EP

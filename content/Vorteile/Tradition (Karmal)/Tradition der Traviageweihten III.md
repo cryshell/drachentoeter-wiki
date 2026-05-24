@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0bb3fc86-8f3f-4b3f-9d5a-f7948722b941
+ID: a0703fa9-9c9a-4b01-8b9f-6d7c384a11d5
 Name: Tradition der Traviageweihten III
 title: Tradition der Traviageweihten III
 Kategorie: Tradition (Karmal)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Zeremonie.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 8
   - Vorteil [[Tradition der Traviageweihten II]]
-- **Siehe auch:** [[Zeremonie (L)]]
+- **Siehe auch:**
+  - [[Zeremonie (L)]]

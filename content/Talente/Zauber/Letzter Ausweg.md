@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: f60e1eb4-23bb-4c99-a171-0beb507380ad
+ID: b13baf9c-549e-4112-9a0e-161989673843
 Name: Letzter Ausweg
 title: Letzter Ausweg
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
-  - "[[Inhalt/Fertigkeiten/Vertrautenmagie|Vertrautenmagie]]"
+  - "[[Kraft]]"
+  - "[[Vertrautenmagie]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Zibilja I
@@ -25,5 +25,9 @@ Dein Vertrautentier mobilisiert alle Kräfte, um dich oder sich zu retten. Alle 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Kraft|Kraft]], [[Inhalt/Fertigkeiten/Vertrautenmagie|Vertrautenmagie]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Kraft]]
+  - [[Vertrautenmagie]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Zibilja I]]
+- **Erlernen:** 20 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 1b3bfa70-e15f-4e6a-8227-aa17d1cdb273
+ID: 0b98ce12-7ef3-4d0f-bcbb-f95861267538
 Name: Tarnung
 title: Tarnung
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Illusion|Illusion]]"
-  - "[[Inhalt/Fertigkeiten/Vertrautenmagie|Vertrautenmagie]]"
+  - "[[Illusion]]"
+  - "[[Vertrautenmagie]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Zibilja I
@@ -24,5 +24,9 @@ Dein Vertrautentier erhält die Eigenschaft Tarnung (kein Malus durch ein fehlen
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Illusion|Illusion]], [[Inhalt/Fertigkeiten/Vertrautenmagie|Vertrautenmagie]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Illusion]]
+  - [[Vertrautenmagie]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Zibilja I]]
+- **Erlernen:** 10 EP

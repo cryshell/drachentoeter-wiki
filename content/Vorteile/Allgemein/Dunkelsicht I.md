@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 7eb2091d-cfcf-4c07-b5f0-864fbd08c1d7
+ID: a1bf5a89-5073-46cc-a7aa-39dbdc591529
 Name: Dunkelsicht I
 title: Dunkelsicht I
 Kategorie: Allgemein
@@ -13,5 +13,6 @@ Durch deine Spezies bist du dunkle Umgebungen gewöhnt. Verschlechterte Sichtver
 
 ---
 
-- **Kosten:** 40 EP
-- **Siehe auch:** [[Sichtverhältnisse]]
+- **Erlernen:** 40 EP
+- **Siehe auch:**
+  - [[Sichtverhältnisse]]

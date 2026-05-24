@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 975776fc-213b-45c2-b6ad-327c3115543d
+ID: fb1b2196-7f54-47be-83a4-5f7431f18ef8
 Name: Tradition der H’Szintgeweihten I
 title: Tradition der H’Szintgeweihten I
 Kategorie: Tradition (Karmal)
@@ -17,8 +17,8 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen H’Szints Gebote verstößt: s
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 4
   - Vorteil [[Geweiht I]]
-  - Kein Vorteil Tradition der *geweihten I
+  - Kein Vorteil [[Tradition der geweihten I|Tradition der *geweihten I]]

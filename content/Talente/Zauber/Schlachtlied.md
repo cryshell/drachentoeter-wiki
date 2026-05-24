@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 5d678b8d-aa0a-43e8-879b-8aebe50f3de7
+ID: 9d17e221-15b9-4dd9-a78c-c49caff664fb
 Name: Schlachtlied
 title: Schlachtlied
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]]"
+  - "[[Eigenschaften]]"
+  - "[[Elfenlieder]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Shakagra I
@@ -24,5 +24,9 @@ Die aufpeitschenden Rhythmen stärken den Kampfesmut der Zuhörer. Alle Zuhörer
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Elfenlieder]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b2ffe53b-6f5f-43d0-9f36-09c411d0a30d
+ID: 144d78f7-ed1a-4ca2-84f8-f5909720c8c5
 Name: Sprachkenntnis (Ruuz)
 title: Sprachkenntnis (Ruuz)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Ruuz gehört zur Tulamidya-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

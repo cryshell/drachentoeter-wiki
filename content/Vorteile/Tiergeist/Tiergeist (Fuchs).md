@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 547fc2fa-91e1-4b8b-a447-8b19c9b85508
+ID: 82624df2-fa3f-4039-b9b8-2cd0135c86ca
 Name: Tiergeist (Fuchs)
 title: Tiergeist (Fuchs)
 Kategorie: Tiergeist
@@ -24,8 +24,12 @@ Kosten: 0
 
 ---
 
-- **Kosten:** 0 EP
+- **Erlernen:** 0 EP
 - **Voraussetzungen:**
   - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
   - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
-- **Siehe auch:** [[Attributo]], [[Harmlose Gestalt]], [[Sensibar Empathicus]], [[Seidenzunge Elfenwort]]
+- **Siehe auch:**
+  - [[Attributo]]
+  - [[Harmlose Gestalt]]
+  - [[Sensibar Empathicus]]
+  - [[Seidenzunge Elfenwort]]

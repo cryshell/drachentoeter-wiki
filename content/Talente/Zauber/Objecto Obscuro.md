@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 5628b68d-0605-40e1-a3b9-5fb3e2a59aef
+ID: 83df08a0-1684-4422-a025-c1311d6c01a7
 Name: Objecto Obscuro
 title: Objecto Obscuro
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
+  - "[[Objekt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I
@@ -23,5 +23,8 @@ Du machst einen Gegenstand vollkommen unsichtbar. Wird er mit mehr als 1 Schritt
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Objekt|Objekt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Objekt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I]]
+- **Erlernen:** 20 EP

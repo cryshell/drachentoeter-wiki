@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 39f121ba-9a62-4a8f-9ba4-c42f6ebb582a
+ID: 4bcfa66c-4680-4637-9ec0-40a6412c1aa1
 Name: Tanz der Erholung
 title: Tanz der Erholung
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
-  - "[[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]]"
+  - "[[Humus]]"
+  - "[[Zaubertänze]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zaubertänzer I
@@ -18,5 +18,9 @@ $talent:Rhythmen der Güte$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Humus|Humus]], [[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Humus]]
+  - [[Zaubertänze]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zaubertänzer I]]
+- **Erlernen:** 20 EP

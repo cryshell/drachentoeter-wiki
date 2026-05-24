@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 75d9d9c5-a69d-423d-b975-65b9eb4d3257
+ID: 90ca7b84-0378-4457-bc75-b449fcf53028
 Name: Vampir II
 title: Vampir II
 Kategorie: Nachteil
@@ -22,7 +22,8 @@ Du bist ein vollwertiger Vampir. Der Vorteil hat folgende Auswirkungen:
 
 ---
 
-- **Kosten:** -1200 EP
+- **Erlernen:** -1200 EP
 - **Voraussetzungen:**
   - Vorteil [[Vampir I]]
-- **Siehe auch:** [[Sikaryandurst und -raub]]
+- **Siehe auch:**
+  - [[Sikaryandurst und -raub]]

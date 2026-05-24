@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 41c21470-da51-46db-b5cf-cf41f607b29c
+ID: ab4d8e9a-4f12-4400-b98b-1172c1939ca0
 Name: Murks und Patz
 title: Murks und Patz
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Einfluss]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schelme I
@@ -23,5 +23,8 @@ Kämpfer agieren in einem Radius von 16 Schritt äußerst tölpelhaft. Jeder, de
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schelme I]]
+- **Erlernen:** 40 EP

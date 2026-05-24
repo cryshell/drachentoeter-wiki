@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 4f77e4d9-c338-42f2-802a-beb34db0d19d
+ID: 7ca0b5b2-8e45-4026-8d84-9b90262b261b
 Name: Gabe der Ewigjungen
 title: Gabe der Ewigjungen
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Friede|Friede]]"
+  - "[[Friede]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Tsageweihten I
@@ -23,5 +23,8 @@ In deiner Hand erscheint eine Frühlingsblume. Solange die Blume blüht, erhält
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Friede|Friede]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Friede]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Tsageweihten I]]
+- **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 8da5b135-3605-4759-b75f-f1798e440773
+ID: ffe5e61c-3041-479c-8d0f-e2c8c42f1bfd
 Name: Tradition der Zaubertänzer III
 title: Tradition der Zaubertänzer III
 Kategorie: Tradition (Magisch)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Gewandheit|GE]] 8
   - Vorteil [[Tradition der Zaubertänzer II]]
-- **Siehe auch:** [[Opferung (Zaubertänzer)]]
+- **Siehe auch:**
+  - [[Opferung (Zaubertänzer)]]

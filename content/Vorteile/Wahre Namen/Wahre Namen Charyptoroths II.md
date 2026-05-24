@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 7ad79526-c9cb-4e3b-a514-d49ab70792e5
+ID: 1f80ba36-be23-4a35-abe0-e7b50c7eb2cf
 Name: Wahre Namen Charyptoroths II
 title: Wahre Namen Charyptoroths II
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - Attribut [[Klugheit|KL]] 6

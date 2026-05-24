@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 72f90042-ad76-49c7-a904-1544f2779c95
+ID: 4bc513d6-4aac-47fb-891e-dee337d587e0
 Name: Selbstarchivierung
 title: Selbstarchivierung
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
+  - "[[Zaubertricks]]"
 Kosten: 5
 ---
 Ein Buch fliegt mit einer GS von 1 zurück an die Stelle, von der du es maximal vor einer Stunde entnommen haben darfst. 
@@ -20,5 +20,6 @@ Ein Buch fliegt mit einer GS von 1 zurück an die Stelle, von der du es maximal 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
-- **Kosten:** 5 EP
+- **Fertigkeiten:**
+  - [[Zaubertricks]]
+- **Erlernen:** 5 EP

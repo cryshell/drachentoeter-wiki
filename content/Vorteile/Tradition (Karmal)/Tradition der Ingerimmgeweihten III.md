@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 04b3b63b-b249-4ed6-8cfc-65eb6306da74
+ID: 8f82577e-9126-4556-a76f-4c531874c66d
 Name: Tradition der Ingerimmgeweihten III
 title: Tradition der Ingerimmgeweihten III
 Kategorie: Tradition (Karmal)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Fingerfertigkeit|FF]] 8
   - Vorteil [[Tradition der Ingerimmgeweihten II]]
-- **Siehe auch:** [[Opferung (Ingerimm)]]
+- **Siehe auch:**
+  - [[Opferung (Ingerimm)]]

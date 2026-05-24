@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: f781d7f4-85f4-4b50-8933-437dad061ddb
+ID: 9e126ea2-c2ed-4f3e-8be3-9975bfb43c1e
 Name: Zauberwesen der Natur
 title: Zauberwesen der Natur
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Verständigung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schelme I
@@ -14,7 +14,8 @@ Du rufst ein Feenwesen herbei. Falls Feenwesen in deiner Region nicht heimisch s
 
 - **Hohe Qualität:** Verbessert die anfängliche Einstellung um eine Stufe.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Namensruf (-4; du rufst ein dir bereits bekanntes Feenwesen herbei.)
+- **Modifikationen:**
+  - Namensruf (-4; du rufst ein dir bereits bekanntes Feenwesen herbei.)
 - **Vorbereitungszeit:** 4 Minuten
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -25,5 +26,8 @@ Du rufst ein Feenwesen herbei. Falls Feenwesen in deiner Region nicht heimisch s
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schelme I]]
+- **Erlernen:** 10 EP

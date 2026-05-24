@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e62a81f7-e352-475b-b988-ff260b689c6c
+ID: 39c3c068-0f5a-4883-85d2-4e97ab94d548
 Name: Tradition der Agrimothpaktierer IV
 title: Tradition der Agrimothpaktierer IV
 Kategorie: Tradition (Paktierer)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Mut|MU]] 10
   - Vorteil [[Tradition der Agrimothpaktierer III]]

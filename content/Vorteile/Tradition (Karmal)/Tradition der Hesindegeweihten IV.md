@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e68796d1-6a38-40b9-b9ad-5ad1046e5d16
+ID: f2f8ff17-b383-4488-b2d0-bcba96fc554b
 Name: Tradition der Hesindegeweihten IV
 title: Tradition der Hesindegeweihten IV
 Kategorie: Tradition (Karmal)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Klugheit|KL]] 10
   - Vorteil [[Tradition der Hesindegeweihten III]]

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: fdecfc38-1b23-4236-b44a-cf16286703d7
+ID: 86da11c1-8bd8-4932-94df-243ef4c03a3a
 Name: Mechanik
 title: Mechanik
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Bildung|Bildung]]"
+  - "[[Bildung]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Mechanik ist das Wissen um physikalische Grundlagen wie Statik, Hebelgesetze, Re
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Bildung|Bildung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Bildung]]
+- **Erlernen:** 10 EP

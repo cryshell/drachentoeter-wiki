@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 346e9fe5-5ab3-4f17-b9f6-93e3ec7b6e4d
+ID: 7261dd8d-931c-481c-951e-d06583652d9a
 Name: Gesegneter Fang
 title: Gesegneter Fang
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Flüsse und Quellen|Flüsse und Quellen]]"
-  - "[[Inhalt/Fertigkeiten/Seefahrt|Seefahrt]]"
+  - "[[Flüsse und Quellen]]"
+  - "[[Seefahrt]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I
@@ -25,5 +25,9 @@ Du segnest Fallen zum Fischfang, also Netze oder Reusen. Dadurch sinkt die Falle
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Flüsse und Quellen|Flüsse und Quellen]], [[Inhalt/Fertigkeiten/Seefahrt|Seefahrt]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Flüsse und Quellen]]
+  - [[Seefahrt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I]]
+- **Erlernen:** 10 EP

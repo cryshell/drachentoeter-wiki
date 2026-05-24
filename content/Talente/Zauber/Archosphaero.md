@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: c3d753ab-7331-4488-8be4-e43a7c6553b8
+ID: a21dc7d5-0840-4353-a6da-fa8c93c63541
 Name: Archosphaero
 title: Archosphaero
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
+  - "[[Erz]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I
@@ -14,7 +14,8 @@ Ein Erzball fügt in einem Radius von 3 Schritt 4W6 TP zu und verursacht *Nieder
 
 - **Hohe Qualität:** Die TP steigen um 1W6, für je 2 Stufen steigt zusätzlich der Radius um 1 Schritt.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Komplexe Bewegung (-4, Wirkungsdauer 4 Züge; erfordert *Konzentration*. Die Kugel verbleibt nach dem Wirken vor dir. Während der Aktion Konzentration kannst du sie um jeweils 16 Schritt beliebig innerhalb der Reichweite bewegen. Sie explodiert, wenn du die Konzentration oder den Blickkontakt verlierst, du sie absichtlich – jederzeit ohne Aktionsaufwand – zündest oder die Wirkungsdauer endet.)
+- **Modifikationen:**
+  - Komplexe Bewegung (-4, Wirkungsdauer 4 Züge; erfordert *Konzentration*. Die Kugel verbleibt nach dem Wirken vor dir. Während der Aktion Konzentration kannst du sie um jeweils 16 Schritt beliebig innerhalb der Reichweite bewegen. Sie explodiert, wenn du die Konzentration oder den Blickkontakt verlierst, du sie absichtlich – jederzeit ohne Aktionsaufwand – zündest oder die Wirkungsdauer endet.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** 32 Schritt
@@ -25,5 +26,8 @@ Ein Erzball fügt in einem Radius von 3 Schritt 4W6 TP zu und verursacht *Nieder
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Erz|Erz]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Erz]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

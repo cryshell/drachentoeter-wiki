@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 349aacb1-4234-442f-a785-88f55efc701f
+ID: e70047ca-6cb9-408d-bc0a-7b688313651c
 Name: Verborgen vor Blicken
 title: Verborgen vor Blicken
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]]"
-  - "[[Inhalt/Fertigkeiten/Illusion|Illusion]]"
+  - "[[Einfluss]]"
+  - "[[Geister der Stärkung]]"
+  - "[[Illusion]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Achaz) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Orks) I
@@ -19,5 +19,10 @@ $talent:Harmlose Gestalt$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]], [[Inhalt/Fertigkeiten/Illusion|Illusion]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Geister der Stärkung]]
+  - [[Illusion]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Achaz) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Orks) I]]
+- **Erlernen:** 20 EP

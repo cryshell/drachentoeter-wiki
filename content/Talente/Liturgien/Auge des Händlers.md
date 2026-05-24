@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: be8adc7e-1acb-4616-b65d-74ae0b4e6833
+ID: c9e85a77-d27b-4b12-a3d8-d16f1530b664
 Name: Auge des Händlers
 title: Auge des Händlers
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/List|List]]"
-  - "[[Inhalt/Fertigkeiten/Einsicht|Einsicht]]"
+  - "[[List]]"
+  - "[[Einsicht]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Phexgeweihten I
@@ -24,5 +24,9 @@ Mit untrüglicher Sicherheit findest du ein besonderes Stück auf einem Markt, i
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/List|List]], [[Inhalt/Fertigkeiten/Einsicht|Einsicht]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[List]]
+  - [[Einsicht]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Nandusgeweihten I ODER Vorteil Tradition der Phexgeweihten I]]
+- **Erlernen:** 10 EP

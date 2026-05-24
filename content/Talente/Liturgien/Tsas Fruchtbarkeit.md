@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 0b4e1faf-73b5-499f-8833-5785ca19f578
+ID: e6a73b6c-fd70-46a6-b8d9-df8bf3d75ad4
 Name: Tsas Fruchtbarkeit
 title: Tsas Fruchtbarkeit
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Neubeginn|Neubeginn]]"
+  - "[[Neubeginn]]"
 Kosten: 0
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Tsageweihten I
@@ -23,5 +23,8 @@ Das gesegnete Lebewesen ist für die Wirkungsdauer deutlich fruchtbarer.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Neubeginn|Neubeginn]]
-- **Kosten:** 0 EP
+- **Fertigkeiten:**
+  - [[Neubeginn]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Tsageweihten I]]
+- **Erlernen:** 0 EP

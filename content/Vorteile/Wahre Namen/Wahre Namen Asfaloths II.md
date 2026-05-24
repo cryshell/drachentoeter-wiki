@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b8766fca-f866-4335-8bde-7b7fdd195d71
+ID: 9d80fadb-1a9c-4fd8-8187-5b82926f197d
 Name: Wahre Namen Asfaloths II
 title: Wahre Namen Asfaloths II
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - Attribut [[Klugheit|KL]] 6

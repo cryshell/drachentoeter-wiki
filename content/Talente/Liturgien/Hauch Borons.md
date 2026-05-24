@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 48ec555f-7cf2-4f51-8b91-95deaa76f575
+ID: 7c4f8d15-1158-4ed1-9e5f-a77b839f25aa
 Name: Hauch Borons
 title: Hauch Borons
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schlaf|Schlaf]]"
+  - "[[Schlaf]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borongeweihten I
@@ -14,7 +14,8 @@ Deine Umgebung wird im Radius von 8 Schritt von absoluter Dunkelheit erfüllt, d
 
 - **Hohe Qualität:** Mit zwei Stufen gilt der Boden als heilig.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Begleiter (-4, Wirkungsdauer 4 Minuten; die Dunkelheit bewegt sich mit dir.)
+- **Modifikationen:**
+  - Begleiter (-4, Wirkungsdauer 4 Minuten; die Dunkelheit bewegt sich mit dir.)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -25,5 +26,8 @@ Deine Umgebung wird im Radius von 8 Schritt von absoluter Dunkelheit erfüllt, d
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schlaf|Schlaf]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Schlaf]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borongeweihten I]]
+- **Erlernen:** 20 EP

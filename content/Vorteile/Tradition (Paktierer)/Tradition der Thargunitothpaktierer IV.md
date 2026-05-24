@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c7ff126e-bfff-4fcc-b0a8-4524b96e3af9
+ID: 3a97b3c4-bf7f-40a6-8f0f-f3d5533a2c5e
 Name: Tradition der Thargunitothpaktierer IV
 title: Tradition der Thargunitothpaktierer IV
 Kategorie: Tradition (Paktierer)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Mut|MU]] 10
   - Vorteil [[Tradition der Thargunitothpaktierer III]]

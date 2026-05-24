@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 5e73a612-dec0-4ace-a3f3-e56258b7d141
+ID: e62f0ef4-3988-4977-91a0-da0afadc9c4b
 Name: Wahre Namen des Feuers IV
 title: Wahre Namen des Feuers IV
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Kosten: 20
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - MeisterAttribut [[Klugheit|KL]] 10

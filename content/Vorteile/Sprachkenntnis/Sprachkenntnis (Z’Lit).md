@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 33cdbb07-14f9-4e07-9e6d-a96d8801881f
+ID: 86d0bee4-79f3-4604-a2f2-5c44107482fc
 Name: Sprachkenntnis (Z’Lit)
 title: Sprachkenntnis (Z’Lit)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Z’Lit gehört zur Maritim-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

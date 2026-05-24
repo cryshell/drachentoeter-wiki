@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 8ea88662-8a9a-499e-a8ac-6e9b4d0ec891
+ID: 2a7193b6-d486-4440-b8d3-8614019e1a59
 Name: Sulvas Gnade
 title: Sulvas Gnade
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Harmonie|Harmonie]]"
-  - "[[Inhalt/Fertigkeiten/Stiller Wanderer|Stiller Wanderer]]"
+  - "[[Harmonie]]"
+  - "[[Stiller Wanderer]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Avesgeweihten I
@@ -25,5 +25,9 @@ Die Gnade der göttlichen Stute stärkt deine Beziehung zu einem Pferd. Erstens 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Harmonie|Harmonie]], [[Inhalt/Fertigkeiten/Stiller Wanderer|Stiller Wanderer]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Harmonie]]
+  - [[Stiller Wanderer]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rahjageweihten I ODER Vorteil Tradition der Avesgeweihten I]]
+- **Erlernen:** 20 EP

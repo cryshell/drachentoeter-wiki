@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 3ffae7a7-6210-444e-a8de-64b71b229685
+ID: c1b44c79-558f-4bc3-a02e-a14d21cf48a2
 Name: Pflanzenkunde
 title: Pflanzenkunde
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Naturkunde|Naturkunde]]"
+  - "[[Naturkunde]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Pflanzenkundige erforschen die vielen nützlichen, gefährlichen oder wundersame
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Naturkunde|Naturkunde]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Naturkunde]]
+- **Erlernen:** 20 EP

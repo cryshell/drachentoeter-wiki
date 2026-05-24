@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f18d5de5-6357-45c9-825c-87f9e6dcea6c
+ID: 2dee292c-d9da-49a1-a08c-f731d1604d6d
 Name: Resistenz gegen Gifte
 title: Resistenz gegen Gifte
 Kategorie: Profan
@@ -13,5 +13,6 @@ Die Auswirkungen von Giften werden gemildert.
 
 ---
 
-- **Kosten:** 40 EP
-- **Siehe auch:** [[Gifte & Krankheiten mildern]]
+- **Erlernen:** 40 EP
+- **Siehe auch:**
+  - [[Gifte & Krankheiten mildern]]

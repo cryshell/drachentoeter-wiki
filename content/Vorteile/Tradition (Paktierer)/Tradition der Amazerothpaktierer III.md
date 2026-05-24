@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: df50f05f-2a80-4024-913d-454eac6b3b26
+ID: 01cd4297-4522-4f3e-8de5-8ce1ba70898e
 Name: Tradition der Amazerothpaktierer III
 title: Tradition der Amazerothpaktierer III
 Kategorie: Tradition (Paktierer)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 8
   - Vorteil [[Tradition der Amazerothpaktierer II]]
-- **Siehe auch:** [[Opferung (Amazeroth)]]
+- **Siehe auch:**
+  - [[Opferung (Amazeroth)]]

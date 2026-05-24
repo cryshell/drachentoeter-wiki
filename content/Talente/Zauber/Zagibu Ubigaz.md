@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 88285398-be87-4eb3-b9fb-e3482aa57d05
+ID: 54479a3b-0a21-43be-9507-484a69a52dab
 Name: Zagibu Ubigaz
 title: Zagibu Ubigaz
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
+  - "[[Erz]]"
+  - "[[Objekt]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Schelme I
@@ -24,5 +24,9 @@ Du lässt einen Schatz von maximal 1 Stein Gewicht unwiederbringlich zu Staub ze
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Erz|Erz]], [[Inhalt/Fertigkeiten/Objekt|Objekt]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Erz]]
+  - [[Objekt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Schelme I]]
+- **Erlernen:** 10 EP

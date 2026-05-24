@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 062986a3-96f6-4609-987c-8fffa452725f
+ID: 3a7ca59e-33d9-48ef-b945-c1deb48c1ed3
 Name: Kulturkunde (Mittelreich)
 title: Kulturkunde (Mittelreich)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP

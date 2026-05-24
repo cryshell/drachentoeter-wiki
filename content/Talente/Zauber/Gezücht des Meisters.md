@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: b7ed2d6d-359c-4b27-b67e-efc2f94f6080
+ID: 8b002c63-6bbb-4aaf-9c58-d570b7c86324
 Name: Gezücht des Meisters
 title: Gezücht des Meisters
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Temporal|Temporal]]"
-  - "[[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]"
+  - "[[Einfluss]]"
+  - "[[Temporal]]"
+  - "[[Zauberzeichen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I
@@ -25,5 +25,10 @@ Das Zeichen wird in einem Durchmesser von 16 Fingern auf einer beliebigen Fläch
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Temporal|Temporal]], [[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Temporal]]
+  - [[Zauberzeichen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

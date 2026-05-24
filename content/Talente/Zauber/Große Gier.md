@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: f68c3e11-f996-4172-8f58-f2119d8ce9d1
+ID: 2ff051f0-e870-46ce-b663-ec487d8ad476
 Name: Große Gier
 title: Große Gier
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Einfluss]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I
@@ -14,7 +14,8 @@ Du erweckst im Ziel ein dringendes Bedürfnis nach einem Gegenstand, einer Handl
 
 - **Hohe Qualität:** Das Ziel nimmt Schmerzen oder eine peinliche Situation/kleinere Verletzungen oder einen momentanen Gesichtsverlust/schwere Verletzungen oder dauerhaften Verlust seines Rufes/jedes Risiko auf sich.
 - **Probenschwierigkeit:** Magieresistenz
-- **Modifikationen:** Schwäche ausnutzen (+4; nur wählbar, wenn du eine passende Schwäche des Ziels ausnutzt.)
+- **Modifikationen:**
+  - Schwäche ausnutzen (+4; nur wählbar, wenn du eine passende Schwäche des Ziels ausnutzt.)
 - **Vorbereitungszeit:** 1 Aktion
 - **Ziel:** Humanoid
 - **Reichweite:** Berührung
@@ -25,5 +26,8 @@ Du erweckst im Ziel ein dringendes Bedürfnis nach einem Gegenstand, einer Handl
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I]]
+- **Erlernen:** 20 EP

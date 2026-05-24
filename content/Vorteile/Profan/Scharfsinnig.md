@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c45c6341-94cb-4ab2-b569-2f61f2f66def
+ID: 3856293f-74f1-4c02-8df2-9a9f4812c171
 Name: Scharfsinnig
 title: Scharfsinnig
 Kategorie: Profan
@@ -14,7 +14,8 @@ Du darfst fehlgeschlagene Proben auf Natur- und Wissensfertigkeiten für 1 WiP w
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 6
-- **Siehe auch:** [[Willenskraftpunkte]]
+- **Siehe auch:**
+  - [[Willenskraftpunkte]]

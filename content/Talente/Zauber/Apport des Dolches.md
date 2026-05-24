@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 9b519daf-ac7c-48e6-8307-fe890122368b
+ID: d6dcbd47-fdd7-4f4b-b400-02af84887727
 Name: Apport des Dolches
 title: Apport des Dolches
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Dolchzauber]]"
+  - "[[Umwelt]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I
@@ -24,5 +24,9 @@ Der Dolch kehrt fliegend mit einer Geschwindigkeit von 10 Meilen pro Stunde zu d
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Dolchzauber]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I]]
+- **Erlernen:** 10 EP

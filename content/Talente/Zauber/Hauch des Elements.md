@@ -1,18 +1,18 @@
 ---
 Entitätstyp: Talent
-ID: 535d243c-0197-4dba-a91d-327565a58a0b
+ID: ba9ac48b-4331-4e67-88ce-2d4f1e71baa9
 Name: Hauch des Elements
 title: Hauch des Elements
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eis|Eis]]"
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
-  - "[[Inhalt/Fertigkeiten/Feuer|Feuer]]"
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Wasser|Wasser]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
-  - "[[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]]"
+  - "[[Eis]]"
+  - "[[Erz]]"
+  - "[[Feuer]]"
+  - "[[Humus]]"
+  - "[[Luft]]"
+  - "[[Wasser]]"
+  - "[[Objekt]]"
+  - "[[Geister der Stärkung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
@@ -36,5 +36,15 @@ Du bindest einen elementaren Effekt in ein maximal schrankgroßes Objekt. Der Ef
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eis|Eis]], [[Inhalt/Fertigkeiten/Erz|Erz]], [[Inhalt/Fertigkeiten/Feuer|Feuer]], [[Inhalt/Fertigkeiten/Humus|Humus]], [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Wasser|Wasser]], [[Inhalt/Fertigkeiten/Objekt|Objekt]], [[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eis]]
+  - [[Erz]]
+  - [[Feuer]]
+  - [[Humus]]
+  - [[Luft]]
+  - [[Wasser]]
+  - [[Objekt]]
+  - [[Geister der Stärkung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+- **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 8c0466bf-5ba1-49f1-95df-fc2e5070f023
+ID: f1a95e3b-65b4-4371-862f-4245f6ca1333
 Name: Magiegespür
 title: Magiegespür
 Kategorie: Allgemein
@@ -13,5 +13,6 @@ In der Nähe astraler Kräfte überfällt dich ein Frösteln, du hörst sphäris
 
 ---
 
-- **Kosten:** 60 EP
-- **Siehe auch:** [[Sinnenschärfe]]
+- **Erlernen:** 60 EP
+- **Siehe auch:**
+  - [[Sinnenschärfe]]

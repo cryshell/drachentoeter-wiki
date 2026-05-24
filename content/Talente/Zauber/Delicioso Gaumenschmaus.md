@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 1274b782-8b61-4443-bc07-c47af9712546
+ID: f799d892-4338-412f-9c21-b36ef196bed7
 Name: Delicioso Gaumenschmaus
 title: Delicioso Gaumenschmaus
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Illusion|Illusion]]"
+  - "[[Illusion]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I
@@ -13,10 +13,10 @@ Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition d
 Du kannst Geruch und Geschmack eines Gegenstandes bis zur Größe einer Truhe – meist einer Speise – bestimmen. Dabei handelt es sich um eine *Illusion* (Geschmack und Geruch).
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Aromenvielfalt (-4; du kannst die Geschmäcker einzelner Teile der Speise getrennt voneinander festlegen.)
-Völlerei (-4; die Speise scheint während der Wirkungsdauer nicht zu sättigen.)
-Widerwärtiger Geschmack (8; Geruch und Geschmack sind fürchterlich.)
-
+- **Modifikationen:**
+  - Aromenvielfalt (-4; du kannst die Geschmäcker einzelner Teile der Speise getrennt voneinander festlegen.)
+  - Völlerei (-4; die Speise scheint während der Wirkungsdauer nicht zu sättigen.)
+  - Widerwärtiger Geschmack (8; Geruch und Geschmack sind fürchterlich.)
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** Objekt
 - **Reichweite:** Berührung
@@ -27,5 +27,8 @@ Widerwärtiger Geschmack (8; Geruch und Geschmack sind fürchterlich.)
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Illusion|Illusion]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Illusion]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I]]
+- **Erlernen:** 10 EP

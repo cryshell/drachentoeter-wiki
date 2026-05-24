@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 69a26d3d-d80c-4867-9444-b93fa084f4b8
+ID: b6da3f80-39d8-49bb-a278-083c5b8670a7
 Name: Tradition der Aphasmayrapaktierer III
 title: Tradition der Aphasmayrapaktierer III
 Kategorie: Tradition (Paktierer)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 8
   - Vorteil [[Tradition der Aphasmayrapaktierer II]]
-- **Siehe auch:** [[Opferung (Aphasmayra)]]
+- **Siehe auch:**
+  - [[Opferung (Aphasmayra)]]

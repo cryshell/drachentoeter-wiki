@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 9845d029-7186-40ee-8604-96a889320891
+ID: e980ddbb-b5c5-400a-a7fb-5764589bd8de
 Name: Korn verfaulen lassen
 title: Korn verfaulen lassen
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Belzhorashs|Anrufung Belzhorashs]]"
+  - "[[Anrufung Belzhorashs]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -24,5 +24,6 @@ Ein Feld wird von einer Seuche oder Plage befallen, welche die Hälfte der Ernte
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Belzhorashs|Anrufung Belzhorashs]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Belzhorashs]]
+- **Erlernen:** 20 EP

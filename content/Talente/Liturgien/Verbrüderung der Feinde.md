@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: ce7c9eaf-3789-496b-aa4b-c7b32592c17c
+ID: 23476851-fe6c-4ba7-a3d6-7b169ff6c3fe
 Name: Verbrüderung der Feinde
 title: Verbrüderung der Feinde
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Friede|Friede]]"
-  - "[[Inhalt/Fertigkeiten/Harmonie|Harmonie]]"
-  - "[[Inhalt/Fertigkeiten/Wandlung|Wandlung]]"
+  - "[[Friede]]"
+  - "[[Harmonie]]"
+  - "[[Wandlung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Zsahhgeweihten I
@@ -16,7 +16,8 @@ Alle Lebewesen, die sich während der Wirkungsdauer in einem Radius von 4 Schrit
 
 - **Hohe Qualität:** Verdoppelt den Radius.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Wundersame Blütenpracht (-8; aus dem Boden sprießen zusätzlich Rosen (Rah) bzw. verschiedene bunte Blumen (Tsa). Der Boden gilt für die Wirkungsdauer als geweiht.)
+- **Modifikationen:**
+  - Wundersame Blütenpracht (-8; aus dem Boden sprießen zusätzlich Rosen (Rah) bzw. verschiedene bunte Blumen (Tsa). Der Boden gilt für die Wirkungsdauer als geweiht.)
 - **Varianten:** Heiliger Friedensschluss (-16, 1 Stunde, Objekt, dereweit, Wirkungsdauer 1 Woche, 32 KaP; du rufst das Joborner Friedenslicht (Rah) oder das Eidechsenauge (Tsa) herbei, das ganze Armeen in eine friedliche Stimmung versetzt und meist zu einem großen Fest (Rah) oder eifrigen Diskussionen über die Zukunft (Tsa) führt. Die Liturgie wirkt nicht, wenn eine der Seiten von dämonischen Kräften getrieben wird. Die Liturgie ignoriert die Bedingung Sicht.)
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** Zone
@@ -29,5 +30,10 @@ Alle Lebewesen, die sich während der Wirkungsdauer in einem Radius von 4 Schrit
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Friede|Friede]], [[Inhalt/Fertigkeiten/Harmonie|Harmonie]], [[Inhalt/Fertigkeiten/Wandlung|Wandlung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Friede]]
+  - [[Harmonie]]
+  - [[Wandlung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rahjageweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Zsahhgeweihten I]]
+- **Erlernen:** 20 EP

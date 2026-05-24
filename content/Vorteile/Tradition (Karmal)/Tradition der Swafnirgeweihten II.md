@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 3b3a97c3-c66c-4dc9-859c-09b9d4e14786
+ID: 0e72c744-8b3a-4048-9530-1439b0fb453f
 Name: Tradition der Swafnirgeweihten II
 title: Tradition der Swafnirgeweihten II
 Kategorie: Tradition (Karmal)
@@ -14,7 +14,7 @@ Swafnirgeweihte begleiten und unterstützen ihre Gefährten auf ihren Fahrten. A
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 6
   - Vorteil [[Tradition der Swafnirgeweihten I]]

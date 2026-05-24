@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: d4042245-8e14-4e00-b734-61bcc4a9cfe6
+ID: a6dc98e0-4781-46ba-bcfa-0975e405273f
 Name: Kraft der Keule
 title: Kraft der Keule
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Keulenrituale|Keulenrituale]]"
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
+  - "[[Keulenrituale]]"
+  - "[[Kraft]]"
+  - "[[Objekt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
@@ -16,7 +16,8 @@ Deine Keule verursacht +1W6 TP gegen "Geister", also Wesen der Kreaturenklassen 
 
 - **Hohe Qualität:** Für je 2 Stufen steigt der Bonus um +1W6.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Permanenz (Wirkungsdauer bis die Bindung gelöst wird, Kosten 8 AsP, davon 2 gAsP)
+- **Modifikationen:**
+  - Permanenz (Wirkungsdauer bis die Bindung gelöst wird, Kosten 8 AsP, davon 2 gAsP)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Knochenkeule
 - **Reichweite:** Berührung
@@ -27,5 +28,10 @@ Deine Keule verursacht +1W6 TP gegen "Geister", also Wesen der Kreaturenklassen 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Keulenrituale|Keulenrituale]], [[Inhalt/Fertigkeiten/Kraft|Kraft]], [[Inhalt/Fertigkeiten/Objekt|Objekt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Keulenrituale]]
+  - [[Kraft]]
+  - [[Objekt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+- **Erlernen:** 20 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: c2f82ad3-e84f-47f9-9831-800d90868d8c
+ID: 44835349-f1ea-45d1-a8d4-c0c86f81bdfd
 Name: Abrichten
 title: Abrichten
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Tierführung|Tierführung]]"
+  - "[[Tierführung]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Mit Abrichten kannst du Tierbegleiter ausbilden sowie wilde Tiere beruhigen oder
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Tierführung|Tierführung]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Tierführung]]
+- **Erlernen:** 40 EP

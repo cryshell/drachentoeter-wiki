@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 3230898c-650a-4ff9-bb35-bfb00ca6de28
+ID: 5ca259d0-2c93-4ca2-9ba4-989f7959bb92
 Name: Warmes Blut
 title: Warmes Blut
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Feuer|Feuer]]"
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
+  - "[[Eigenschaften]]"
+  - "[[Feuer]]"
+  - "[[Hellsicht]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Kristallomanten I
@@ -25,5 +25,10 @@ Durch diesen Zauber siehst du die Wärmestrahlung deiner Umgebung. Kaltes ersche
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Feuer|Feuer]], [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Feuer]]
+  - [[Hellsicht]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 10 EP

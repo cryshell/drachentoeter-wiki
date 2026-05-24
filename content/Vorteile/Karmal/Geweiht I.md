@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a713cdf8-e306-4497-80b8-87a5b7becc8a
+ID: 3a9e47eb-cbb6-4e97-a75a-45b320969806
 Name: Geweiht I
 title: Geweiht I
 Kategorie: Karmal
@@ -14,4 +14,4 @@ Kosten: 40
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP

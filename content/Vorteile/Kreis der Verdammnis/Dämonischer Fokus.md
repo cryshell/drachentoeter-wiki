@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4070f239-2b30-4991-a5b8-ab891936ae76
+ID: 80f17d71-7589-4f8e-8551-18d3b341dd74
 Name: Dämonischer Fokus
 title: Dämonischer Fokus
 Kategorie: Kreis der Verdammnis
@@ -16,8 +16,9 @@ Du kannst die Dämonen deines Erzdämons auch ohne Kenntnis ihrer Wahren Namen b
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 4
   - Vorteil [[Paktierer I]]
-- **Siehe auch:** [[Beschwörungen]]
+- **Siehe auch:**
+  - [[Beschwörungen]]

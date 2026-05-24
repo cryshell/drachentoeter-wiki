@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 51197813-843f-441e-87e5-9f51ef95e0e6
+ID: 77c4fc71-eeab-4d67-91c7-81ad95df6fee
 Name: Schriftkenntnis (Arkanil)
 title: Schriftkenntnis (Arkanil)
 Kategorie: Schriftkenntnis
@@ -11,4 +11,4 @@ Schriften umfassen sowohl die Fähigkeit die entsprechenden Zeichen lesen als au
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

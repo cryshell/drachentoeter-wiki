@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 6d7d46d3-dbf4-4ce5-a4a8-3e1b0dc34949
+ID: 30b4bb6a-a542-4e18-9d29-7dc1201a81c9
 Name: Koboldgeschenk
 title: Koboldgeschenk
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Einfluss]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schelme I
@@ -23,5 +23,8 @@ Du überreichst deinem Opfer einen maximal faustgroßen Gegenstand, der für ihn
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schelme I]]
+- **Erlernen:** 10 EP

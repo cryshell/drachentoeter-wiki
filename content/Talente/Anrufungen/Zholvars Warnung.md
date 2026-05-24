@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: a7180084-78cf-46db-90e0-2582b69becdb
+ID: 24a6e38d-9e87-4b7d-8bd7-f905ac465b72
 Name: Zholvars Warnung
 title: Zholvars Warnung
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Tasfarelels|Anrufung Tasfarelels]]"
+  - "[[Anrufung Tasfarelels]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Du schützt einen Schatzhort (Truhe, Kammer, o.ä.). Wenn jemand etwas aus diese
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Tasfarelels|Anrufung Tasfarelels]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Tasfarelels]]
+- **Erlernen:** 20 EP

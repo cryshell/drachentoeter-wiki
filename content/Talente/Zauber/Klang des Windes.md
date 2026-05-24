@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 209a99c0-482f-4212-9914-2a2f9e692857
+ID: 36acaac8-4c98-46a3-a1fe-25367141982f
 Name: Klang des Windes
 title: Klang des Windes
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]"
+  - "[[Luft]]"
+  - "[[Zaubermelodien]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zauberbarden I
@@ -18,5 +18,9 @@ $talent:Wirbelnder Luftschild$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Luft]]
+  - [[Zaubermelodien]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zauberbarden I]]
+- **Erlernen:** 20 EP

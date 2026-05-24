@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: ee007d55-9969-467b-ba03-d3af0059cd37
+ID: 1e23a68e-e949-4bce-8050-85a4dc10cf45
 Name: Fluch des Gewürms
 title: Fluch des Gewürms
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
-  - "[[Inhalt/Fertigkeiten/Geister des Zorns|Geister des Zorns]]"
+  - "[[Dämonisch]]"
+  - "[[Verständigung]]"
+  - "[[Geister des Zorns]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Schamanen (Achaz) I ODER Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Orks) I
@@ -25,5 +25,10 @@ Dein Opfer wird von einer Myriade Insekten und Kleintieren bedeckt. Misslingt ei
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]], [[Inhalt/Fertigkeiten/Geister des Zorns|Geister des Zorns]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Dämonisch]]
+  - [[Verständigung]]
+  - [[Geister des Zorns]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Schamanen (Achaz) I ODER Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Orks) I]]
+- **Erlernen:** 20 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 25057a36-74a5-4491-b4d5-5e622f6f26d2
+ID: 3fd02bff-1487-4723-9df2-b89caba1c6aa
 Name: Untertauchen
 title: Untertauchen
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Straßenkunde|Straßenkunde]]"
+  - "[[Straßenkunde]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Untertauchen erlaubt dir das Schleichen, Verstecken und Beschatten in der Zivili
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Straßenkunde|Straßenkunde]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Straßenkunde]]
+- **Erlernen:** 40 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 1cbb69db-bd99-48b7-ac7b-6d88c88766ab
+ID: 7e471712-a7f1-4433-b7df-d6291583d487
 Name: Etikette
 title: Etikette
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Diplomatie|Diplomatie]]"
+  - "[[Diplomatie]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Etikette beinhaltet die korrekten Umgangsformen und Anreden in gehobener Gesells
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Diplomatie|Diplomatie]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Diplomatie]]
+- **Erlernen:** 20 EP

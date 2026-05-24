@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: c3cfd455-c8d6-4467-ae1d-a124e48589a2
+ID: d3eba034-095d-4694-8dec-c406cc75f3e5
 Name: Wand aus Flammen
 title: Wand aus Flammen
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Feuer|Feuer]]"
+  - "[[Feuer]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I
@@ -14,7 +14,8 @@ Eine 4 x 3 x 1 Schritt (BxHxT) große Wand aus lodernden Flammen entsteht entlan
 
 - **Hohe Qualität:** Die Breite steigt um 2 Schritt, die Höhe um 1 Schritt. Der Schaden beim Durchqueren der Wand steigt um 2W6 SP.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Zylinder (-4; die Wand verläuft kreisförmig mit einem Radius in Höhe von einem Viertel der Breite. Du musst den Kreis nicht abschließen.)
+- **Modifikationen:**
+  - Zylinder (-4; die Wand verläuft kreisförmig mit einem Radius in Höhe von einem Viertel der Breite. Du musst den Kreis nicht abschließen.)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** 8 Schritt
@@ -25,5 +26,8 @@ Eine 4 x 3 x 1 Schritt (BxHxT) große Wand aus lodernden Flammen entsteht entlan
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Feuer|Feuer]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Feuer]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

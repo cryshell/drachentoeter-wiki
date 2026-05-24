@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 997caea3-bc8c-46eb-a8a7-7f666f48f5e3
+ID: 856914e9-c934-4bc5-8751-afbe33b07ece
 Name: Tradition der Heskatetpaktierer I
 title: Tradition der Heskatetpaktierer I
 Kategorie: Tradition (Paktierer)
@@ -17,8 +17,8 @@ Dämonische Kräfte sind chaotisch, Anrufungsproben werden mit 1W20 gewürfelt.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 4
   - Vorteil [[Paktierer I]]
-  - Kein Vorteil Tradition der *paktierer I
+  - Kein Vorteil [[Tradition der paktierer I|Tradition der *paktierer I]]

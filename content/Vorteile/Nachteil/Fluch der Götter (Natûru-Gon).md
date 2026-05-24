@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d16cd969-46ae-4412-b567-88d0bcb6f384
+ID: f79c7a26-f52b-4af8-8df1-d9226cc4a6f5
 Name: Fluch der Götter (Natûru-Gon)
 title: Fluch der Götter (Natûru-Gon)
 Kategorie: Nachteil
@@ -12,6 +12,6 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Natûru-Gon), Empfindlichkeit I (
 
 ---
 
-- **Kosten:** -200 EP
+- **Erlernen:** -200 EP
 - **Voraussetzungen:**
   - Vorteil [[Vampir I]]

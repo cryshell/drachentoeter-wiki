@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: a34c9f3b-3175-435f-9aa5-d19350beb9e8
+ID: 50f0ae55-b7e2-4565-ace2-18ca5c604b90
 Name: Staatskunde
 title: Staatskunde
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Diplomatie|Diplomatie]]"
+  - "[[Diplomatie]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Mit Staatskunde verwaltest du eine Organisation oder ein Lehen. Du hast außerde
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Diplomatie|Diplomatie]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Diplomatie]]
+- **Erlernen:** 20 EP

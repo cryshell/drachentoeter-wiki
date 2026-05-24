@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 1ffa1112-e515-4b31-b4a1-c73b716965a5
+ID: 13517b0a-6a3c-439f-801a-853aefc17732
 Name: Schriftkenntnis (Amulashtra-Glyphen)
 title: Schriftkenntnis (Amulashtra-Glyphen)
 Kategorie: Schriftkenntnis
@@ -11,4 +11,4 @@ Schriften umfassen sowohl die Fähigkeit die entsprechenden Zeichen lesen als au
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

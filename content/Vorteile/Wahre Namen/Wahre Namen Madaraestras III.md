@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 937d9f0d-9a1b-4975-a5d1-2b73a6bd8d70
+ID: b356688d-9eb1-4a18-9cbf-3d4822593427
 Name: Wahre Namen Madaraestras III
 title: Wahre Namen Madaraestras III
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 ---
 
-- **Kosten:** 10 EP
+- **Erlernen:** 10 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - Attribut [[Klugheit|KL]] 8

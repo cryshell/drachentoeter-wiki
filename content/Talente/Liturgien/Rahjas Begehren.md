@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: f9489d18-7af4-4b87-aedd-90dcdb28c99e
+ID: 07491e0e-0dbc-491c-a07c-ca2367c510fc
 Name: Rahjas Begehren
 title: Rahjas Begehren
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Rausch|Rausch]]"
+  - "[[Rausch]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rahjageweihten I
@@ -23,5 +23,8 @@ Du weckst im Ziel eine unermessliche Begierde nach dir, sodass es sich kaum auf 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Rausch|Rausch]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Rausch]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rahjageweihten I]]
+- **Erlernen:** 20 EP

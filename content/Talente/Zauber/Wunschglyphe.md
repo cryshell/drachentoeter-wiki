@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 452f4dc2-bcb2-4c0f-8782-3995d26e2144
+ID: dae5c3cd-bfc1-4487-ab5d-0e1604103dcd
 Name: Wunschglyphe
 title: Wunschglyphe
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Illusion|Illusion]]"
-  - "[[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]"
+  - "[[Einfluss]]"
+  - "[[Illusion]]"
+  - "[[Zauberzeichen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Zibilja I ODER Vorteil Tradition der Gildenmagier I
@@ -25,5 +25,10 @@ Das Zeichen wird in einem Durchmesser von 32 Fingern auf einem maximal schrankgr
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Illusion|Illusion]], [[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Illusion]]
+  - [[Zauberzeichen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Zibilja I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

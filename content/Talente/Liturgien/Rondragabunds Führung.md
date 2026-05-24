@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 138cb084-92e7-42e7-9508-9ff306ad9eb4
+ID: 31dbcec5-29b2-43db-8219-2a2511d4c29e
 Name: Rondragabunds Führung
 title: Rondragabunds Führung
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schutz der Gläubigen|Schutz der Gläubigen]]"
+  - "[[Schutz der Gläubigen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rondrageweihten I
@@ -24,5 +24,8 @@ Die Heilige Rondragabund führt die Hand des Gesegneten. Bei Verteidigungen kann
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schutz der Gläubigen|Schutz der Gläubigen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Schutz der Gläubigen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rondrageweihten I]]
+- **Erlernen:** 20 EP

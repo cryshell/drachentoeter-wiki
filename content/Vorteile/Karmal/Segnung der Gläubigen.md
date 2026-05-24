@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e0d56d26-d2f1-49c8-9312-a052b7ffd97a
+ID: 9b6362f6-3796-4b4d-917c-22e60b2ee53c
 Name: Segnung der Gläubigen
 title: Segnung der Gläubigen
 Kategorie: Karmal
@@ -14,7 +14,7 @@ Liturgien, die ausschließlich gläubige Mitstreiter (und nicht dich selbst) ver
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 10
   - Vorteil [[Geweiht I]]

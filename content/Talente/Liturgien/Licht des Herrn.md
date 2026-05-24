@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 72a49fa5-e553-4890-a061-60b6423eb51c
+ID: 106558c8-225d-4707-bb9b-f012b1df6e77
 Name: Licht des Herrn
 title: Licht des Herrn
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Licht|Licht]]"
+  - "[[Licht]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Praiosgeweihten I
@@ -24,5 +24,8 @@ Ein strahlender Sonnenstrahl erzeugt in einem Radius von 8 Schritt *helles Licht
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Licht|Licht]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Licht]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Praiosgeweihten I]]
+- **Erlernen:** 20 EP

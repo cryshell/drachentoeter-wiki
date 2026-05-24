@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: c0480eb7-f8f4-4a06-9acb-38228f1bc107
+ID: d68be89a-b77a-43f2-9bd3-6e4867fbe351
 Name: Wohlverdiente Rast
 title: Wohlverdiente Rast
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Sichere Heimkehr|Sichere Heimkehr]]"
-  - "[[Inhalt/Fertigkeiten/Wachstum|Wachstum]]"
+  - "[[Sichere Heimkehr]]"
+  - "[[Wachstum]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Traviageweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I
@@ -25,5 +25,9 @@ Jede gesegnete Person in einem Radius von 4 Schritt regeneriert 1 Punkt Erschöp
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Sichere Heimkehr|Sichere Heimkehr]], [[Inhalt/Fertigkeiten/Wachstum|Wachstum]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Sichere Heimkehr]]
+  - [[Wachstum]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Perainegeweihten I ODER Vorteil Tradition der Traviageweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I]]
+- **Erlernen:** 20 EP

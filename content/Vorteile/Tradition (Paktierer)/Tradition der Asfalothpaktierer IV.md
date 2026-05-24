@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 17c44b20-73f6-450f-8bdf-ddc7fec61a77
+ID: 3926f753-da3c-424e-a390-a299f92b3003
 Name: Tradition der Asfalothpaktierer IV
 title: Tradition der Asfalothpaktierer IV
 Kategorie: Tradition (Paktierer)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Mut|MU]] 10
   - Vorteil [[Tradition der Asfalothpaktierer III]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2db2dcaf-60ee-415e-877f-55986c380f06
+ID: b47f29af-9f2d-4e27-9c32-94c043ce5ebf
 Name: Kulturkunde (Shakagra)
 title: Kulturkunde (Shakagra)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

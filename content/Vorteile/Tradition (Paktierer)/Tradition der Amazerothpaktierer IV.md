@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 7ca9cfe6-62a3-4d74-a483-f3ac592fec4e
+ID: 41120592-0283-4a3e-b7fe-4a3bb6563c47
 Name: Tradition der Amazerothpaktierer IV
 title: Tradition der Amazerothpaktierer IV
 Kategorie: Tradition (Paktierer)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Mut|MU]] 10
   - Vorteil [[Tradition der Amazerothpaktierer III]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: ee0fd3f6-4b38-478b-b721-78d0cb8230dd
+ID: 6136315f-84c5-4cc5-a186-68777667cb39
 Name: Astrale Regeneration V
 title: Astrale Regeneration V
 Kategorie: Magisch
@@ -16,8 +16,9 @@ Du regenerierst 1 zusätzliche AsP pro *langer Rast*.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Astrale Regeneration IV]]
   - Attribut [[Konstitution|KO]] 8
-- **Siehe auch:** [[Regeneration]]
+- **Siehe auch:**
+  - [[Regeneration]]

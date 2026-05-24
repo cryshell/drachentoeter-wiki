@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 74791e4d-3433-42a6-a3ab-6651e6be39b0
+ID: 4f5d9300-79d7-443e-90da-0a063d2635a2
 Name: Wasserbann
 title: Wasserbann
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Ringrituale|Ringrituale]]"
-  - "[[Inhalt/Fertigkeiten/Wasser|Wasser]]"
+  - "[[Luft]]"
+  - "[[Ringrituale]]"
+  - "[[Wasser]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Geoden I
@@ -26,5 +26,10 @@ Eine Luftschicht schützt dich vor jeglichem Wasser. Du kannst unter Wasser atme
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Ringrituale|Ringrituale]], [[Inhalt/Fertigkeiten/Wasser|Wasser]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Luft]]
+  - [[Ringrituale]]
+  - [[Wasser]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Geoden I]]
+- **Erlernen:** 20 EP

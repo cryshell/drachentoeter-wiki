@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 1cac2108-92b8-493b-9067-e91e57838375
+ID: a522f956-450f-4b07-adde-8340bd4ff667
 Name: Smaragdschliff
 title: Smaragdschliff
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
-  - "[[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]"
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
+  - "[[Erz]]"
+  - "[[Kristallmagie]]"
+  - "[[Kraft]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I
@@ -25,5 +25,10 @@ Du versiehst einen gebundenen Kristall mit einem Smaragdschliff. Wann immer du m
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Erz|Erz]], [[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]], [[Inhalt/Fertigkeiten/Kraft|Kraft]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Erz]]
+  - [[Kristallmagie]]
+  - [[Kraft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

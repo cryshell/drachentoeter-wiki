@@ -1,14 +1,14 @@
 ---
 Entitätstyp: Talent
-ID: 4b994831-fe1a-412e-843f-11cc31a0b6c0
+ID: 91187d49-6580-407c-aa7c-0f0dbd8d2052
 Name: Schomas Kraft
 title: Schomas Kraft
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]]"
-  - "[[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]"
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
+  - "[[Eigenschaften]]"
+  - "[[Geister der Stärkung]]"
+  - "[[Geister rufen]]"
+  - "[[Humus]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Trollzacker) I
@@ -27,5 +27,11 @@ Du nimmst über Nacht die Erdgeister in dich auf. Dadurch regenerierst du eine z
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]], [[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]], [[Inhalt/Fertigkeiten/Humus|Humus]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Geister der Stärkung]]
+  - [[Geister rufen]]
+  - [[Humus]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Trollzacker) I]]
+- **Erlernen:** 20 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 8493e5d8-3fc2-40e3-bef7-0978efa97ee6
+ID: b5f964fc-6537-42bb-9e59-08ed8edf0d53
 Name: Brünstigkeit erzeugen
 title: Brünstigkeit erzeugen
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Belkelels|Anrufung Belkelels]]"
+  - "[[Anrufung Belkelels]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Alle Betören-Proben gegen dein Ziel haben Vorteil.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Belkelels|Anrufung Belkelels]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Belkelels]]
+- **Erlernen:** 20 EP

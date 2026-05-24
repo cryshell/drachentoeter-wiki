@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 7f7bd042-09fc-4198-a576-09c1cf6c32e7
+ID: 32c00c69-4866-4065-a105-ed9c40cb2e46
 Name: Fischflosse
 title: Fischflosse
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
+  - "[[Verwandlung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Shakagra I
@@ -14,7 +14,8 @@ Du verwandelst dich in ein im Wasser lebendes Tier deiner Wahl. Du behältst dei
 
 - **Hohe Qualität:** Du darfst 2 Spielwerte um je 1 Punkt erhöhen, solange das Ergebnis dem gesunden Menschenverstand nicht widerspricht.
 - **Probenschwierigkeit:** 8/12/16/20/24
-- **Modifikationen:** Seelentier (+4, nur Elf; du verwandelst dich in dein Seelentier. Dabei können die Instinkte des Tieres überhand nehmen.)
+- **Modifikationen:**
+  - Seelentier (+4, nur Elf; du verwandelst dich in dein Seelentier. Dabei können die Instinkte des Tieres überhand nehmen.)
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -26,5 +27,8 @@ Du verwandelst dich in ein im Wasser lebendes Tier deiner Wahl. Du behältst dei
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Verwandlung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

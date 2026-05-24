@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4f765200-5cf9-4a80-9f60-eaf7995e3068
+ID: 6880bb41-ad00-47dc-b323-6a83764bfe71
 Name: Tradition der Schamanen (Trollzacker) IV
 title: Tradition der Schamanen (Trollzacker) IV
 Kategorie: Tradition (Magisch)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Intuition|IN]] 10
   - Vorteil [[Tradition der Schamanen (Trollzacker) III]]

@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: b176e4c7-c922-45ed-a213-c5b235c661f7
+ID: 71db0e1d-0cbf-44e2-9076-981f1da64b0e
 Name: Pfad der Blutrache
 title: Pfad der Blutrache
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Geister des Zorns|Geister des Zorns]]"
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
+  - "[[Eigenschaften]]"
+  - "[[Geister des Zorns]]"
+  - "[[Hellsicht]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Ferkina) I
@@ -26,5 +26,10 @@ Du bittest die Geister bei der Suche nach jemandem um Hilfe. Du benötigst dafü
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Geister des Zorns|Geister des Zorns]], [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Geister des Zorns]]
+  - [[Hellsicht]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Ferkina) I]]
+- **Erlernen:** 20 EP

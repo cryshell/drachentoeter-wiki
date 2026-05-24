@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a940ba95-1ca2-4869-8281-562fecd09ce2
+ID: 2f781d97-e855-41a8-bff6-4c99f13a0126
 Name: Tradition der Traviageweihten IV
 title: Tradition der Traviageweihten IV
 Kategorie: Tradition (Karmal)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Charisma|CH]] 10
   - Vorteil [[Tradition der Traviageweihten III]]

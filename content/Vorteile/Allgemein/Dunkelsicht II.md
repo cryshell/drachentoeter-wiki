@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 5d7f385d-fcdb-4567-b3c0-3fbde6130104
+ID: 62cb44b3-a00c-427c-bdf7-05fec959a941
 Name: Dunkelsicht II
 title: Dunkelsicht II
 Kategorie: Allgemein
@@ -14,7 +14,8 @@ Durch deine Spezies bist du dunkle Umgebungen gewöhnt. Verschlechterte Sichtver
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Vorteil [[Dunkelsicht I]]
-- **Siehe auch:** [[Sichtverhältnisse]]
+- **Siehe auch:**
+  - [[Sichtverhältnisse]]

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 4e9b590c-48e1-44e0-9756-440bc6ac5cfd
+ID: 8d79b2cd-de9d-4f55-af2c-0eadb49035af
 Name: Daradors Bann der Schatten
 title: Daradors Bann der Schatten
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Licht|Licht]]"
+  - "[[Licht]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Praiosgeweihten I
@@ -24,5 +24,8 @@ In einem Radius von 8 Schritt werden sämtliche Schatten, Dunkelheit und entspre
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Licht|Licht]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Licht]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Praiosgeweihten I]]
+- **Erlernen:** 10 EP

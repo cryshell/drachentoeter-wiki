@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e579775a-b705-4ac9-9617-4a0da353dc3a
+ID: 644d39f1-36f3-4953-902a-5c5c444d726c
 Name: Schildkampf II
 title: Schildkampf II
 Kategorie: Kampfstil
@@ -20,8 +20,11 @@ Du darfst mit Nebenhandangriffen auch Umreißen- und Niederwerfen-Manöver nutze
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut KK 6 ODER Attribut IN 6
   - Vorteil [[Schildkampf I]]
-- **Siehe auch:** [[Nebenhand]], [[Umreißen]], [[Niederwerfen]]
+- **Siehe auch:**
+  - [[Nebenhand]]
+  - [[Umreißen]]
+  - [[Niederwerfen]]

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 959c9694-802b-49f0-baff-1c4119d8c135
+ID: 954dbd2f-5cd5-4857-ba61-3ed54213e9bd
 Name: Apport des Stabs
 title: Apport des Stabs
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Stabzauber]]"
+  - "[[Umwelt]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
@@ -24,5 +24,9 @@ Der Zauberstab kehrt fliegend mit einer Geschwindigkeit von 10 Meilen pro Stunde
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Stabzauber]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 32b5e739-feeb-4271-a4bc-052f38162b1a
+ID: 230d48f0-db2a-4a7b-a361-050a72c7f770
 Name: Sprachkenntnis (Ur-Tulamidya)
 title: Sprachkenntnis (Ur-Tulamidya)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Ur-Tulamidya gehört zur Tulamidya-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

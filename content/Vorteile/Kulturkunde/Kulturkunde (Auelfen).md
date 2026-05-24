@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b9fbe2bc-311f-4749-840a-d6a6c7c715b1
+ID: 77e3b834-7d25-4ba8-9f4b-3d3383ebfcc4
 Name: Kulturkunde (Auelfen)
 title: Kulturkunde (Auelfen)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

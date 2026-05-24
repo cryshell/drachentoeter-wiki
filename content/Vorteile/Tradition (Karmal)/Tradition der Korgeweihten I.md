@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c175ac50-594c-4647-a5fd-0a00c7ea5d34
+ID: 32915731-d424-4fa9-a6c6-41ee3d689aeb
 Name: Tradition der Korgeweihten I
 title: Tradition der Korgeweihten I
 Kategorie: Tradition (Karmal)
@@ -17,8 +17,8 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen Kors Gebote verstößt: guter K
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 4
   - Vorteil [[Geweiht I]]
-  - Kein Vorteil Tradition der *geweihten I
+  - Kein Vorteil [[Tradition der geweihten I|Tradition der *geweihten I]]

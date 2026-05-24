@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 9913db97-c7c3-42ef-9948-9a447610d258
+ID: 65bbb481-1aa0-4a91-9c74-3c07e27594fa
 Name: Tradition der Praiosgeweihten I
 title: Tradition der Praiosgeweihten I
 Kategorie: Tradition (Karmal)
@@ -17,8 +17,8 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen Praios’ Gebote verstößt: Wa
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 4
   - Vorteil [[Geweiht I]]
-  - Kein Vorteil Tradition der *geweihten I
+  - Kein Vorteil [[Tradition der geweihten I|Tradition der *geweihten I]]

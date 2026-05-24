@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 7d78ac1b-fb96-4ceb-8d65-fac91c6ce4ee
+ID: d4f3879b-2b30-481a-833e-13dbccda5e3b
 Name: Apport der Schale
 title: Apport der Schale
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schalenzauber|Schalenzauber]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Schalenzauber]]"
+  - "[[Umwelt]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Hexen I
@@ -24,5 +24,9 @@ Die Schale der Alchemie kehrt fliegend mit einer Geschwindigkeit von 10 Meilen p
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schalenzauber|Schalenzauber]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Schalenzauber]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Hexen I]]
+- **Erlernen:** 10 EP

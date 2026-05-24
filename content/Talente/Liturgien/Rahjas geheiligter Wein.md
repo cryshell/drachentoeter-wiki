@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: be4ef2ff-9aec-4907-8422-105f440de90d
+ID: fb64142c-e31f-47d5-be38-8285788e2e02
 Name: Rahjas geheiligter Wein
 title: Rahjas geheiligter Wein
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Rausch|Rausch]]"
+  - "[[Rausch]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rahjageweihten I
@@ -24,5 +24,8 @@ Du rufst den Kelch der Rahja. In den Kelch gegossene Flüssigkeiten verwandeln s
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Rausch|Rausch]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Rausch]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rahjageweihten I]]
+- **Erlernen:** 10 EP

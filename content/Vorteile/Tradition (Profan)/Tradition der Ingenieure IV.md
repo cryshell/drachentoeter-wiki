@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4921454d-9950-4537-be4e-f41a49c49b0e
+ID: 98ee3353-8361-4f36-b691-ef7afe70e057
 Name: Tradition der Ingenieure IV
 title: Tradition der Ingenieure IV
 Kategorie: Tradition (Profan)
@@ -14,7 +14,7 @@ Kosten: 20
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - MeisterAttribut FF 10 ODER MeisterAttribut KL 10
   - Vorteil [[Tradition der Ingenieure III]]

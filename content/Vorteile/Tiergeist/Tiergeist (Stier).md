@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d897b8b2-a67c-4b24-81a9-4b8eff88be0d
+ID: 3b88f8ba-73ff-468c-bf1c-44feb7aca898
 Name: Tiergeist (Stier)
 title: Tiergeist (Stier)
 Kategorie: Tiergeist
@@ -24,8 +24,12 @@ Kosten: 0
 
 ---
 
-- **Kosten:** 0 EP
+- **Erlernen:** 0 EP
 - **Voraussetzungen:**
   - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
   - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
-- **Siehe auch:** [[Attributo]], [[Horriphobus Schreckgestalt]], [[Sensattaco Meisterstreich]], [[Standfest Katzengleich]]
+- **Siehe auch:**
+  - [[Attributo]]
+  - [[Horriphobus Schreckgestalt]]
+  - [[Sensattaco Meisterstreich]]
+  - [[Standfest Katzengleich]]

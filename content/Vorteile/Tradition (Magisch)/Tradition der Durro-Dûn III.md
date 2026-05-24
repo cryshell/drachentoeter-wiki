@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 5314a279-d2e6-4cee-bb31-f353f857e1cd
+ID: 081ed175-7ba2-4cf4-86a6-60b724157175
 Name: Tradition der Durro-Dûn III
 title: Tradition der Durro-Dûn III
 Kategorie: Tradition (Magisch)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 8
   - Vorteil [[Tradition der Durro-Dûn II]]
-- **Siehe auch:** [[Opferung (Durro-Dûn)]]
+- **Siehe auch:**
+  - [[Opferung (Durro-Dûn)]]

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 9aec7429-33f1-4417-bbee-795d35c74b18
+ID: 85a09c79-7b5f-4e92-9f07-b618b75f4267
 Name: Foramen Foraminor
 title: Foramen Foraminor
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Objekt]]"
+  - "[[Umwelt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I
@@ -14,7 +14,8 @@ Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition d
 Du öffnest ein Schloss beliebiger Bauart.
 
 - **Probenschwierigkeit:** EW des Schlosses
-- **Modifikationen:** Riegel (-4, 8 AsP; auch ein schwerer Riegel wie an einem Stadttor kann hiermit geöffnet werden.)
+- **Modifikationen:**
+  - Riegel (-4, 8 AsP; auch ein schwerer Riegel wie an einem Stadttor kann hiermit geöffnet werden.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Objekt
 - **Reichweite:** Berührung
@@ -25,5 +26,9 @@ Du öffnest ein Schloss beliebiger Bauart.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Objekt|Objekt]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Objekt]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I]]
+- **Erlernen:** 20 EP

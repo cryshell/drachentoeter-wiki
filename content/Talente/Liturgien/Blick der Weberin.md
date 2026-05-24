@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: d8dcc338-342c-45bb-9b00-ac061f808226
+ID: c35fb860-b6f7-41f2-9439-2ff6365e1418
 Name: Blick der Weberin
 title: Blick der Weberin
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Magie|Magie]]"
-  - "[[Inhalt/Fertigkeiten/Geister|Geister]]"
+  - "[[Magie]]"
+  - "[[Geister]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der H’Szintgeweihten I ODER Vorteil Tradition der Tairachgeweihten I
@@ -26,5 +26,9 @@ Du analysierst die Kraftfäden eines arkanen Artefakts oder eines magischen Wese
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Magie|Magie]], [[Inhalt/Fertigkeiten/Geister|Geister]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Magie]]
+  - [[Geister]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der H’Szintgeweihten I ODER Vorteil Tradition der Tairachgeweihten I]]
+- **Erlernen:** 20 EP

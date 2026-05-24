@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: fd5a2a93-a118-47fa-a917-6477d9f29715
+ID: b850ae7b-913e-45a9-a3d8-911c273426c2
 Name: Eherne Kraft
 title: Eherne Kraft
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heiliges Erz|Heiliges Erz]]"
+  - "[[Heiliges Erz]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I
@@ -25,5 +25,8 @@ Die Erde bebt. Alle Ziele in einem Radius von 4 Schritt werden *niedergeschmette
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heiliges Erz|Heiliges Erz]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Heiliges Erz]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I]]
+- **Erlernen:** 20 EP

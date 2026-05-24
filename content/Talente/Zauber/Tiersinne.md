@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 58c42d11-b154-4a7a-a7c6-390e958e57fd
+ID: de609437-bcf7-4c4e-9b44-e41f3db2bf0d
 Name: Tiersinne
 title: Tiersinne
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
-  - "[[Inhalt/Fertigkeiten/Vertrautenmagie|Vertrautenmagie]]"
+  - "[[Eigenschaften]]"
+  - "[[Verständigung]]"
+  - "[[Vertrautenmagie]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Zibilja I
@@ -21,7 +21,6 @@ Dein Vertrautentier schließt seine Augen und leiht dir seine Sinne. Deine Wahrn
 - Kröte: Magiegespür
 - Affe: legendärer Vorteil auf Sinnenschärfe (Hörsinn)
 - Spinne: legendärer Vorteil auf Sinnenschärfe (Tastsinn)
-
 - **Probenschwierigkeit:** 12
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** selbst
@@ -33,5 +32,10 @@ Dein Vertrautentier schließt seine Augen und leiht dir seine Sinne. Deine Wahrn
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]], [[Inhalt/Fertigkeiten/Vertrautenmagie|Vertrautenmagie]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Verständigung]]
+  - [[Vertrautenmagie]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Zibilja I]]
+- **Erlernen:** 20 EP

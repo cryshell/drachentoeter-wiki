@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: dfd37923-d46e-4f50-9798-ce2f1e381709
+ID: 58c53e45-47d5-42a9-b9fb-f397dc0a8b4a
 Name: Atemtechnik
 title: Atemtechnik
 Kategorie: Kampf
@@ -12,6 +12,6 @@ Du kannst im Nahkampf einmal pro Zug bei einem Schadenswurf +1W6 TP zufügen, so
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Konstitution|KO]] 8

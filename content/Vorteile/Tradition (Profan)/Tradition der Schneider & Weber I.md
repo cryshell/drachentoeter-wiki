@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 94cdfc16-fb3f-4397-98c9-b3bd99916d01
+ID: ec470a9e-dc5b-41d2-83f1-6a7bd6b85b6d
 Name: "Tradition der Schneider & Weber I"
 title: "Tradition der Schneider & Weber I"
 Kategorie: Tradition (Profan)
@@ -12,6 +12,6 @@ Du beherrschst Rezepte der Tradition der Schneider und Weber (Snd).
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Fingerfertigkeit|FF]] 4

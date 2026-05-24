@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 706033eb-4173-4a54-a6b8-7c265d8a8959
+ID: 2acabd99-91cd-4b0e-af62-b3a7702b85cc
 Name: Aufwecken
 title: Aufwecken
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Einfluss]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I
@@ -23,5 +23,8 @@ Das Ziel ist sofort wach, kampfbereit und nicht überrascht. Die Position änder
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 10 EP

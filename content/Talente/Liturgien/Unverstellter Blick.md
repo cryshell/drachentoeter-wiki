@@ -1,15 +1,15 @@
 ---
 Entitätstyp: Talent
-ID: f0740b3c-93f9-4dbe-8e1e-843ec189d19a
+ID: db16132d-3556-40bc-8d92-654ef64bbf4c
 Name: Unverstellter Blick
 title: Unverstellter Blick
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Abu al'Mada|Abu al'Mada]]"
-  - "[[Inhalt/Fertigkeiten/Einsicht|Einsicht]]"
-  - "[[Inhalt/Fertigkeiten/Geister|Geister]]"
-  - "[[Inhalt/Fertigkeiten/Magie|Magie]]"
-  - "[[Inhalt/Fertigkeiten/Magiebann|Magiebann]]"
+  - "[[Abu al'Mada]]"
+  - "[[Einsicht]]"
+  - "[[Geister]]"
+  - "[[Magie]]"
+  - "[[Magiebann]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Tairachgeweihten I ODER Vorteil Tradition der H’Szintgeweihten I
@@ -28,5 +28,12 @@ Du nimmst alle Illusionen als golden (Pra), silbern (Phe) oder grün (Hes) schil
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Abu al'Mada|Abu al'Mada]], [[Inhalt/Fertigkeiten/Einsicht|Einsicht]], [[Inhalt/Fertigkeiten/Geister|Geister]], [[Inhalt/Fertigkeiten/Magie|Magie]], [[Inhalt/Fertigkeiten/Magiebann|Magiebann]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Abu al'Mada]]
+  - [[Einsicht]]
+  - [[Geister]]
+  - [[Magie]]
+  - [[Magiebann]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Tairachgeweihten I ODER Vorteil Tradition der H’Szintgeweihten I]]
+- **Erlernen:** 10 EP

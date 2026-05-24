@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: ae6f3994-6513-49c8-8dff-52e58004f1c2
+ID: c92addfd-72c8-4b5b-a8f7-b52bef715678
 Name: Spur des Missetäters
 title: Spur des Missetäters
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Blakharazs|Anrufung Blakharazs]]"
+  - "[[Anrufung Blakharazs]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -22,5 +22,6 @@ Durch Berührung eines persönlichen Gegenstands des Opfers erspürst du, in wel
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Blakharazs|Anrufung Blakharazs]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Blakharazs]]
+- **Erlernen:** 20 EP

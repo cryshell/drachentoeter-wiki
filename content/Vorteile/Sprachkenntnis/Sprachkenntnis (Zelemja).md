@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: ff697595-a2c9-4a51-9875-423103c4b564
+ID: 47ca9101-c35c-4229-ab57-b11189609fac
 Name: Sprachkenntnis (Zelemja)
 title: Sprachkenntnis (Zelemja)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Zelemja gehört zur Tulamidya-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

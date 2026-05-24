@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 416892e0-f4e0-43cb-8bc5-995d005b1c3f
+ID: d4598154-85ca-4314-bc07-3df599f0a278
 Name: Objectovoco
 title: Objectovoco
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Verständigung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schelme I
@@ -24,5 +24,8 @@ Du verzauberst einen Gegenstand, sodass er dir 4 Ja/Nein-Fragen beantwortet. Bea
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schelme I]]
+- **Erlernen:** 10 EP

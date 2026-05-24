@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c21939c2-77ad-4195-a659-867cd4933009
+ID: 8c0d6f00-b639-4fa0-9a4c-7a9a1a4c2d88
 Name: Rüstungsgewöhnung I
 title: Rüstungsgewöhnung I
 Kategorie: Kampf
@@ -14,7 +14,8 @@ Die BE aller Rüstungen ist um 1 gesenkt.
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Konstitution|KO]] 6
-- **Siehe auch:** [[BE]]
+- **Siehe auch:**
+  - [[BE]]

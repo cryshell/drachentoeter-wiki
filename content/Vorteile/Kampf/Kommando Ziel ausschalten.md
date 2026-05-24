@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 5461bd31-06e3-484c-94c2-940408199b25
+ID: 7b5fb40e-999e-4d82-b2f5-fb800c029c20
 Name: "Kommando: Ziel ausschalten!"
 title: "Kommando: Ziel ausschalten!"
 Kategorie: Kampf
@@ -12,6 +12,6 @@ Du kannst als Bonusaktion die nächste Probe eines Mitstreiters in Hörweite um 
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 6

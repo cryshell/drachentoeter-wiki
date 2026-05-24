@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 11829e91-8b5c-4cd4-b34d-88a03f76e740
+ID: fdb6cb45-795d-4bc0-8f75-62cc503109bb
 Name: Sapefacta Zauberschwamm
 title: Sapefacta Zauberschwamm
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
-  - "[[Inhalt/Fertigkeiten/Wasser|Wasser]]"
+  - "[[Luft]]"
+  - "[[Umwelt]]"
+  - "[[Wasser]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Scharlatane I
@@ -15,7 +15,8 @@ Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition d
 Deine Kleidung ist so sauber, als wäre sie frisch gewaschen.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Läusekamm (-4; du wirst auch von *winzigen* Tieren und Ungeziefer befreit.)
+- **Modifikationen:**
+  - Läusekamm (-4; du wirst auch von *winzigen* Tieren und Ungeziefer befreit.)
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -26,5 +27,10 @@ Deine Kleidung ist so sauber, als wäre sie frisch gewaschen.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]], [[Inhalt/Fertigkeiten/Wasser|Wasser]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Luft]]
+  - [[Umwelt]]
+  - [[Wasser]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Scharlatane I]]
+- **Erlernen:** 10 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 9d40637a-bcf1-4a71-aa3c-69ee5375d07b
+ID: d3c19f4c-e2c7-46d6-9c25-ec2f4679dfd9
 Name: Menschenkenntnis
 title: Menschenkenntnis
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Feingefühl|Feingefühl]]"
+  - "[[Feingefühl]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Mit Menschenkenntnis bist du geschult darin, kleinste Hinweise im Verhalten dein
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Feingefühl|Feingefühl]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Feingefühl]]
+- **Erlernen:** 40 EP

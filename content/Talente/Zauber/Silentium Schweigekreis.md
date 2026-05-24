@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 1d83d2cb-0eb5-47e1-bdca-4890660bc711
+ID: 4b7f82e0-4704-4d3a-ac5d-bbd3d1e6646d
 Name: Silentium Schweigekreis
 title: Silentium Schweigekreis
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Umwelt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I
@@ -14,11 +14,11 @@ In einem Radius von 2 Schritt werden keine Geräusche mehr übertragen und jeder
 
 - **Hohe Qualität:** Verdoppelt den Radius.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Begleiter (-4; die Kugel bewegt sich mit dir.)
-Fremdbegleiter (-8; die Kugel bewegt sich mit einem Wesen.)
-Unauffällig ruhig (-4, selbst; betrifft nur dich und deine Ausrüstung. Dies ist weniger auffällig, da gewöhnliche Umgebungsgeräusche nicht gedämpft werden.)
-Psst! (-4, Probenschwierigkeit MR, Humanoid; betrifft nur das Ziel und seine Ausrüstung.)
-
+- **Modifikationen:**
+  - Begleiter (-4; die Kugel bewegt sich mit dir.)
+  - Fremdbegleiter (-8; die Kugel bewegt sich mit einem Wesen.)
+  - Unauffällig ruhig (-4, selbst; betrifft nur dich und deine Ausrüstung. Dies ist weniger auffällig, da gewöhnliche Umgebungsgeräusche nicht gedämpft werden.)
+  - Psst! (-4, Probenschwierigkeit MR, Humanoid; betrifft nur das Ziel und seine Ausrüstung.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -29,5 +29,8 @@ Psst! (-4, Probenschwierigkeit MR, Humanoid; betrifft nur das Ziel und seine Aus
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

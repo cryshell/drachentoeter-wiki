@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4a15e05f-c120-45bf-b0f7-da315d771be2
+ID: c28c986f-27d4-44c7-98cb-b8262996595b
 Name: Sprachkenntnis (Ogrisch)
 title: Sprachkenntnis (Ogrisch)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Ogrisch gehört zu keiner Sprachfamilie.
 
 ---
 
-- **Kosten:** 10 EP
+- **Erlernen:** 10 EP

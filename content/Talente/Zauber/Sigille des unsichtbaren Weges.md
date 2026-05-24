@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: f573dd23-5e88-4d5b-a9b1-0e99a1d426ee
+ID: 85773341-55e8-4e91-ae82-1d2bbdd6b081
 Name: Sigille des unsichtbaren Weges
 title: Sigille des unsichtbaren Weges
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
-  - "[[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]"
+  - "[[Luft]]"
+  - "[[Umwelt]]"
+  - "[[Zauberzeichen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Zibilja I
@@ -16,7 +16,8 @@ Das Zeichen wird in einem Durchmesser von 8 Fingern auf einer beliebigen Fläche
 
 - **Hohe Qualität:** Die Brücke bleibt doppelt solange bestehen.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Große Brücke (-4 pro Vergrößerung; vergrößert die Länge der Brücke um bis zu 4 Schritt, die Breite um bis zu 1 Schritt.)
+- **Modifikationen:**
+  - Große Brücke (-4 pro Vergrößerung; vergrößert die Länge der Brücke um bis zu 4 Schritt, die Breite um bis zu 1 Schritt.)
 - **Vorbereitungszeit:** 4 Minuten
 - **Ziel:** passendes Zauberzeichen
 - **Reichweite:** Berührung
@@ -28,5 +29,10 @@ Das Zeichen wird in einem Durchmesser von 8 Fingern auf einer beliebigen Fläche
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]], [[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Luft]]
+  - [[Umwelt]]
+  - [[Zauberzeichen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Zibilja I]]
+- **Erlernen:** 20 EP

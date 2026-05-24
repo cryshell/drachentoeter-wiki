@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6f886db6-5061-4691-a94a-303a40c8aa5f
+ID: 14d6307f-55bb-43a3-88ad-2423ba300f79
 Name: Tradition der Geoden III
 title: Tradition der Geoden III
 Kategorie: Tradition (Magisch)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Zeit lassen.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 8
   - Vorteil [[Tradition der Geoden II]]
-- **Siehe auch:** [[Zeit lassen]]
+- **Siehe auch:**
+  - [[Zeit lassen]]

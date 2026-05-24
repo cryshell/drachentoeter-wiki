@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 87255434-09a9-414e-8e1a-d28136f96abd
+ID: 50ad7524-6464-4ad8-a83c-f603bfa8af46
 Name: Körperlose Reise
 title: Körperlose Reise
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
+  - "[[Kraft]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I
@@ -14,9 +14,9 @@ Du trennst deinen Geist vom Körper. Dein Körper bleibt totengleich zurück, w�
 
 - **Hohe Qualität:** Je 2 Stufen verdoppeln die Geschwindigkeit.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Manifestation (-4; du kannst Umstehenden während der Wirkungsdauer als geisterhafte Gestalt erscheinen.)
-Fernzauber (-8; du kannst weiterhin Zauber wirken. Dabei musst du auf Geste und Formel verzichten.)
-
+- **Modifikationen:**
+  - Manifestation (-4; du kannst Umstehenden während der Wirkungsdauer als geisterhafte Gestalt erscheinen.)
+  - Fernzauber (-8; du kannst weiterhin Zauber wirken. Dabei musst du auf Geste und Formel verzichten.)
 - **Vorbereitungszeit:** 1 Stunde
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -27,5 +27,8 @@ Fernzauber (-8; du kannst weiterhin Zauber wirken. Dabei musst du auf Geste und 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Kraft|Kraft]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Kraft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 40 EP

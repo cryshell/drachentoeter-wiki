@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 92593fca-426a-40c9-a9e3-1faf913d9942
+ID: 9fcac43d-5647-4904-8268-59fe1aacc69c
 Name: Langer Lulatsch
 title: Langer Lulatsch
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
+  - "[[Verwandlung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schelme I
@@ -24,5 +24,8 @@ Dein Opfer dehnt sich entweder auf seine dreifache Körperlänge aus oder schrum
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Verwandlung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schelme I]]
+- **Erlernen:** 10 EP

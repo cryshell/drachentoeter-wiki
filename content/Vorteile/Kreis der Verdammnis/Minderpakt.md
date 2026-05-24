@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4e6b9265-0ce7-4a84-ab60-7667cd8495ac
+ID: 32ad3ee9-9fc4-452a-93be-62fc3630595d
 Name: Minderpakt
 title: Minderpakt
 Kategorie: Kreis der Verdammnis
@@ -14,4 +14,4 @@ Du hast einen Minderpakt geschlossen.
 
 ---
 
-- **Kosten:** 0 EP
+- **Erlernen:** 0 EP

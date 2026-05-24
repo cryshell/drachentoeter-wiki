@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: fa797900-717d-4941-bf32-c6b9820f3907
+ID: 803d17b3-348a-46e6-a976-9ecb79816520
 Name: Paktierer III
 title: Paktierer III
 Kategorie: Kreis der Verdammnis
@@ -12,6 +12,6 @@ Du verfügst über 24 Gunstpunkte und kannst die dämonische Tradition deines Er
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Vorteil [[Paktierer II]]

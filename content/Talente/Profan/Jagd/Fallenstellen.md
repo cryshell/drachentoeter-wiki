@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 205c9dcc-935f-45dc-98c0-83dad5a4ea12
+ID: d94cda84-c7fb-402d-bd3e-2ef32ca145f1
 Name: Fallenstellen
 title: Fallenstellen
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Jagd|Jagd]]"
+  - "[[Jagd]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Mit Fallenstellen und einem passenden Handwerkstalent kannst du Fallen bauen und
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Jagd|Jagd]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Jagd]]
+- **Erlernen:** 20 EP

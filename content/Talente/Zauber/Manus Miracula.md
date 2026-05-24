@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 27f2a5a7-39c8-4ea9-a453-323429f804b7
+ID: 860d9424-cbe5-4451-9506-2e44608740ae
 Name: Manus Miracula
 title: Manus Miracula
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Umwelt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Scharlatane I
@@ -13,7 +13,8 @@ Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition d
 Du erzeugst eine telekinetische Verbindung zwischen deiner Hand und einem Gegenstand, der maximal 1 Stein wiegen darf. Alle Bewegungen, die du mit der Hand ausführst, werden auf den Gegenstand übertragen, so als hättest du ihn in der Hand. Erfordert *Konzentration*. Erlaubt *Aufrechterhalten*.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Schweres Objekt (-4 pro Erhöhung; erhöht das maximale Gewicht um 1 Stein.)
+- **Modifikationen:**
+  - Schweres Objekt (-4 pro Erhöhung; erhöht das maximale Gewicht um 1 Stein.)
 - **Vorbereitungszeit:** 1 Aktion
 - **Ziel:** Objekt
 - **Reichweite:** 4 Schritt
@@ -24,5 +25,8 @@ Du erzeugst eine telekinetische Verbindung zwischen deiner Hand und einem Gegens
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Scharlatane I]]
+- **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: de8314bd-b5fd-4baa-bfdb-19842eed3b33
+ID: 5c93e9d4-cd2a-420f-b9ff-11172b743898
 Name: Sprachkenntnis (Rogolan)
 title: Sprachkenntnis (Rogolan)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Rogolan gehört zur Zwergisch-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

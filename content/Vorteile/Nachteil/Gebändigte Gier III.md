@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 3d867470-f7ec-4865-a8f3-07c351eb21ba
+ID: 6d2f1840-e665-49c9-a4b5-29a65f739f55
 Name: Gebändigte Gier III
 title: Gebändigte Gier III
 Kategorie: Nachteil
@@ -14,7 +14,8 @@ Die MU-Probe zum vorzeitigen Beenden des Sikaryanraubs ist um +6 erleichtert.
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Vorteil [[Gebändigte Gier II]]
-- **Siehe auch:** [[Sikaryandurst und -raub]]
+- **Siehe auch:**
+  - [[Sikaryandurst und -raub]]

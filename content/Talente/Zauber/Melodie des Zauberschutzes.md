@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: ede9303d-41a9-40ff-a42d-89aac08f2ded
+ID: 5774db40-e911-4414-be8d-f3dbdf53fa99
 Name: Melodie des Zauberschutzes
 title: Melodie des Zauberschutzes
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Antimagie|Antimagie]]"
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]"
+  - "[[Antimagie]]"
+  - "[[Eigenschaften]]"
+  - "[[Zaubermelodien]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zauberbarden I
@@ -25,5 +25,10 @@ Magieresistenz-Proben aller Zuhörer, die sich während der Wirkungsdauer in ein
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Antimagie|Antimagie]], [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Antimagie]]
+  - [[Eigenschaften]]
+  - [[Zaubermelodien]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zauberbarden I]]
+- **Erlernen:** 20 EP

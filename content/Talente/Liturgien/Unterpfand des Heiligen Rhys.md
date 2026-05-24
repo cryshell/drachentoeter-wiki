@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 43865616-4188-4757-875e-82d97fead38e
+ID: acaf797c-ee86-43ab-9ee1-848d1b573458
 Name: Unterpfand des Heiligen Rhys
 title: Unterpfand des Heiligen Rhys
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heiliges Handwerk|Heiliges Handwerk]]"
+  - "[[Heiliges Handwerk]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Ingerimmgeweihten I
@@ -23,5 +23,8 @@ Jeder Betrachter erkennt den gerechten Verkaufswert des gesegneten Gegenstandes.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heiliges Handwerk|Heiliges Handwerk]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Heiliges Handwerk]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Ingerimmgeweihten I]]
+- **Erlernen:** 10 EP

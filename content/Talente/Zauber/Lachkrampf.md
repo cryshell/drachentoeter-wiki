@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: feebed78-a670-46c1-9d35-4ab8bdb1ac5f
+ID: c51191e0-721f-4e47-9725-14cafe7f2c37
 Name: Lachkrampf
 title: Lachkrampf
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Einfluss]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Schelme I
@@ -26,5 +26,8 @@ Schluckauf (-4; dein Opfer erhält einen kräftigen Schluckauf und kann keine Bo
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Schelme I]]
+- **Erlernen:** 10 EP

@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 2221495d-7ab0-4714-b780-cd29c3dc90bf
+ID: f6fca67e-efca-4745-8a29-fdf5bb1a9374
 Name: Kraft der Tayas
 title: Kraft der Tayas
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Eigenschaften]]"
+  - "[[Geister rufen]]"
+  - "[[Verständigung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Waldmenschen) I
@@ -25,5 +25,10 @@ Du weihst einen Ort, an welchem Geschichten (moh.: Tayas) ausgetauscht werden. J
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Geister rufen]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Waldmenschen) I]]
+- **Erlernen:** 10 EP

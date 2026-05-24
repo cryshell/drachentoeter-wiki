@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 7732cbff-5d50-4b88-9acb-53022d8c51f7
+ID: 6aae3d84-7388-4166-bc5c-46277e3129c8
 Name: Stabbohrer
 title: Stabbohrer
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Stabzauber]]"
+  - "[[Umwelt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
@@ -25,5 +25,9 @@ Du hältst den Stab an ein Objekt und er beginnt sich hineinzubohren. Für je 2 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Stabzauber]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

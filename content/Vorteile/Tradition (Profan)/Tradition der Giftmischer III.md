@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e67323b4-f6b2-4f44-a615-d8d691eeccde
+ID: bbf707e9-64aa-4fd3-967e-5450bfcf9f00
 Name: Tradition der Giftmischer III
 title: Tradition der Giftmischer III
 Kategorie: Tradition (Profan)
@@ -16,8 +16,9 @@ Du beherrschst Rezepte der Tradition der Giftmischer bis zu einer Verbreitung vo
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Fingerfertigkeit|FF]] 8
   - Vorteil [[Tradition der Giftmischer II]]
-- **Siehe auch:** [[Verdünnen]]
+- **Siehe auch:**
+  - [[Verdünnen]]

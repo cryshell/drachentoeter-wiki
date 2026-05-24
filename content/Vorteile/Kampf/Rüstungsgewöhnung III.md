@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0c747109-9545-46a1-b108-9b7d2b25aead
+ID: b9197b3d-243c-418a-97de-75af3c99eb95
 Name: Rüstungsgewöhnung III
 title: Rüstungsgewöhnung III
 Kategorie: Kampf
@@ -16,8 +16,9 @@ Die BE aller Rüstungen ist um 1 gesenkt.
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Konstitution|KO]] 10
   - Vorteil [[Rüstungsgewöhnung II]]
-- **Siehe auch:** [[BE]]
+- **Siehe auch:**
+  - [[BE]]

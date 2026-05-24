@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 06899ddb-9769-4b5a-a70e-f67a0ad1299c
+ID: 62a52667-7231-4057-81e6-56e34af6004f
 Name: Trocken
 title: Trocken
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
+  - "[[Zaubertricks]]"
 Kosten: 5
 ---
 Du und deine Kleidung werdet prophylaktisch von leichter Nässe verschont (z.B. bei Regen).
@@ -20,5 +20,6 @@ Du und deine Kleidung werdet prophylaktisch von leichter Nässe verschont (z.B. 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
-- **Kosten:** 5 EP
+- **Fertigkeiten:**
+  - [[Zaubertricks]]
+- **Erlernen:** 5 EP

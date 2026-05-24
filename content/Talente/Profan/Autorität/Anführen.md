@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 34e8fefc-fdc9-4197-bf50-4ee172de3e8a
+ID: b0c280a4-e76a-42ef-a2b7-08945d8c0319
 Name: Anführen
 title: Anführen
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Autorität|Autorität]]"
+  - "[[Autorität]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Mit Anführen leitest und motivierst du Untergebene. Du kannst Löscharbeiten od
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Autorität|Autorität]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Autorität]]
+- **Erlernen:** 40 EP

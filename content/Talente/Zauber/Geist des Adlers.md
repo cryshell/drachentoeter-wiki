@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 71b01fd3-e9bc-4899-abbc-1ec22a5a91e1
+ID: ace4e9e8-4704-43e3-83c0-9971455f88b5
 Name: Geist des Adlers
 title: Geist des Adlers
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]]"
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
+  - "[[Geister der Stärkung]]"
+  - "[[Verwandlung]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
@@ -26,5 +26,9 @@ Du verwandelst dich in ein fliegendes Tier deiner Wahl. Du behältst deine geist
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]], [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Geister der Stärkung]]
+  - [[Verwandlung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+- **Erlernen:** 40 EP

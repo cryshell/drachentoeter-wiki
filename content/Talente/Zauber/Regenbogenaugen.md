@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: d4e0cfb3-e7ce-4dc0-affb-f1c5e5f8680b
+ID: 41540092-714c-4a84-920a-40608f699c9f
 Name: Regenbogenaugen
 title: Regenbogenaugen
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
+  - "[[Zaubertricks]]"
 Kosten: 5
 ---
 Du kannst die Farbe deiner Augen verändern. Dabei handelt es sich um eine *Illusion* (Sicht).
@@ -20,5 +20,6 @@ Du kannst die Farbe deiner Augen verändern. Dabei handelt es sich um eine *Illu
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
-- **Kosten:** 5 EP
+- **Fertigkeiten:**
+  - [[Zaubertricks]]
+- **Erlernen:** 5 EP

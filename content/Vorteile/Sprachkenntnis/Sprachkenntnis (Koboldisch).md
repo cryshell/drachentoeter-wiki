@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: fa4ba3ef-45de-4d92-ae1e-b6959a949c7a
+ID: 4fce9176-7fe2-48bf-90ac-d9e0da27172c
 Name: Sprachkenntnis (Koboldisch)
 title: Sprachkenntnis (Koboldisch)
 Kategorie: Sprachkenntnis
@@ -12,6 +12,6 @@ Koboldisch gehört zu keiner Sprachfamilie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I]]

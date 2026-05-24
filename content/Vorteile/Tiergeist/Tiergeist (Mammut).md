@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 86dbb4e6-14ea-4ce6-81d8-a482c6afcddf
+ID: 9a41f8b1-fe9b-423a-bc7b-d90474e15a93
 Name: Tiergeist (Mammut)
 title: Tiergeist (Mammut)
 Kategorie: Tiergeist
@@ -25,8 +25,13 @@ Kosten: 0
 
 ---
 
-- **Kosten:** 0 EP
+- **Erlernen:** 0 EP
 - **Voraussetzungen:**
   - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
   - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
-- **Siehe auch:** [[Ängste lindern]], [[Armatrutz]], [[Kusch|Kusch!]], [[Psychostabilis]], [[Zaubernahrung Hungerbann]]
+- **Siehe auch:**
+  - [[Ängste lindern]]
+  - [[Armatrutz]]
+  - [[Kusch|Kusch!]]
+  - [[Psychostabilis]]
+  - [[Zaubernahrung Hungerbann]]

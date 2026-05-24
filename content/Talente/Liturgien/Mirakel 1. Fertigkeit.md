@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 0c10c33a-fef5-409b-8a0c-def2d64c732c
+ID: cfa2a5c8-53a2-47a9-a85a-d38fa7521e57
 Name: "Mirakel: 1. Fertigkeit"
 title: "Mirakel: 1. Fertigkeit"
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Neubeginn|Neubeginn]]"
-  - "[[Inhalt/Fertigkeiten/Wandlung|Wandlung]]"
+  - "[[Neubeginn]]"
+  - "[[Wandlung]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -14,9 +14,9 @@ Deine nächste Probe auf die gewählte Fertigkeit ist um +4 Punkte erleichtert.
 
 - **Hohe Qualität:** Erhöht die Erleichterung um +2.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Intervention (-8; *Reaktive* Liturgie (beliebiges Ereignis). Hohe Qualität ist nicht möglich.)
-Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion ausführen. Hohe Qualität ist nicht möglich.)
-
+- **Modifikationen:**
+  - Intervention (-8; *Reaktive* Liturgie (beliebiges Ereignis). Hohe Qualität ist nicht möglich.)
+  - Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion ausführen. Hohe Qualität ist nicht möglich.)
 - **Vorbereitungszeit:** 0 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -26,5 +26,7 @@ Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion au
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Neubeginn|Neubeginn]], [[Inhalt/Fertigkeiten/Wandlung|Wandlung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Neubeginn]]
+  - [[Wandlung]]
+- **Erlernen:** 10 EP

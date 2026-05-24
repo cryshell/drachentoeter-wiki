@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 14e733fa-408b-4753-ad55-07bc13aee028
+ID: f8103201-1aa6-4352-a5cd-cd6e38cad761
 Name: Zauberfeder
 title: Zauberfeder
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
+  - "[[Zaubertricks]]"
 Kosten: 5
 ---
 Du verzauberst einen Federkiel so, dass er alles mitschreibt, was du sagst. Er taucht sich auch selbstständig in Tinte und blättert um.
@@ -20,5 +20,6 @@ Du verzauberst einen Federkiel so, dass er alles mitschreibt, was du sagst. Er t
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
-- **Kosten:** 5 EP
+- **Fertigkeiten:**
+  - [[Zaubertricks]]
+- **Erlernen:** 5 EP

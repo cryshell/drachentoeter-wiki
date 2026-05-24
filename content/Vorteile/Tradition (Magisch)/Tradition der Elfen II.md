@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 8a3ac11c-a3d2-4c11-9b3d-bbb3d0464257
+ID: 034f3cb1-ae22-4439-a8c9-b7b63d8f7d35
 Name: Tradition der Elfen II
 title: Tradition der Elfen II
 Kategorie: Tradition (Magisch)
@@ -14,7 +14,7 @@ Elfen begreifen Magie als alltägliche Unterstützung ihrer Fähigkeiten. Wenn e
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 6
   - Vorteil [[Tradition der Elfen I]]

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: e749eabd-db55-4b3b-8bcd-d2b85bf5186e
+ID: 159bfbb8-72e5-4817-8f04-f5981a343b6c
 Name: Gerüchte
 title: Gerüchte
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Straßenkunde|Straßenkunde]]"
+  - "[[Straßenkunde]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Durch Gerüchte kennst du die richtigen Fragen, um den neuesten Tratsch zu erfah
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Straßenkunde|Straßenkunde]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Straßenkunde]]
+- **Erlernen:** 20 EP

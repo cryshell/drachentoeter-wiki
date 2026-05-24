@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c8fd0441-5d9b-4eec-b9a2-73998aec6daf
+ID: 65b5ef93-7e97-4707-bf27-2fba823018e0
 Name: "Tradition der Schneider & Weber II"
 title: "Tradition der Schneider & Weber II"
 Kategorie: Tradition (Profan)
@@ -16,8 +16,9 @@ Du kannst die Modifikation Verzierung einmal ohne Erschwernis einsetzen.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Fingerfertigkeit|FF]] 6
   - Vorteil [[Tradition der Schneider & Weber I]]
-- **Siehe auch:** [[Verzierung]]
+- **Siehe auch:**
+  - [[Verzierung]]

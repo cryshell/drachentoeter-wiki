@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 8a4cddcb-1baf-4e2a-a666-783e4def98a5
+ID: 0ca4c52a-dc80-442e-94ce-e6fcb3aeac3c
 Name: Tradition der Asfalothpaktierer I
 title: Tradition der Asfalothpaktierer I
 Kategorie: Tradition (Paktierer)
@@ -17,8 +17,8 @@ Dämonische Kräfte sind chaotisch, Anrufungsproben werden mit 1W20 gewürfelt.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 4
   - Vorteil [[Paktierer I]]
-  - Kein Vorteil Tradition der *paktierer I
+  - Kein Vorteil [[Tradition der paktierer I|Tradition der *paktierer I]]

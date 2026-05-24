@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 82032311-6ee2-44d0-ae82-81cd0add4aa4
+ID: 0f46f898-f15f-44ad-82ee-85fba417da50
 Name: Ausweichen
 title: Ausweichen
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verteidigung|Verteidigung]]"
+  - "[[Verteidigung]]"
 Kosten: 60
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Ausweichen ist schwieriger als eine Waffenparade, allerdings kannst du damit auc
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verteidigung|Verteidigung]]
-- **Kosten:** 60 EP
+- **Fertigkeiten:**
+  - [[Verteidigung]]
+- **Erlernen:** 60 EP

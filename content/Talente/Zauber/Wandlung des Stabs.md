@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 828d2108-2201-4c95-8b0f-bace021d3dd4
+ID: 1b1969b2-0dc3-42fe-80aa-307da439e5d6
 Name: Wandlung des Stabs
 title: Wandlung des Stabs
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
-  - "[[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]]"
+  - "[[Objekt]]"
+  - "[[Stabzauber]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
@@ -24,5 +24,9 @@ Du kannst den Stab auf die doppelte Länge ausdehnen oder auf die halbe Länge s
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Objekt|Objekt]], [[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Objekt]]
+  - [[Stabzauber]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 10 EP

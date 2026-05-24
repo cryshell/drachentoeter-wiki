@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 00519591-415c-4d06-a5fb-825481f5c46f
+ID: faed03fe-26a1-47fe-9771-f42154b933c5
 Name: Stillstand
 title: Stillstand
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eis|Eis]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Eis]]"
+  - "[[Umwelt]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Geoden I
@@ -15,7 +15,8 @@ In einem Radius von 8 Schritt werden alle Bewegungen außer deiner verlangsamt. 
 
 - **Hohe Qualität:** Erhöht den Radius um 4 Schritt.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Begleiter (-4; die Zone bewegt sich mit dir.)
+- **Modifikationen:**
+  - Begleiter (-4; die Zone bewegt sich mit dir.)
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -26,5 +27,9 @@ In einem Radius von 8 Schritt werden alle Bewegungen außer deiner verlangsamt. 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eis|Eis]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Eis]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Geoden I]]
+- **Erlernen:** 40 EP

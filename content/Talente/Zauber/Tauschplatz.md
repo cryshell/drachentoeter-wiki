@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: f6b32eaa-8b5c-4166-9d57-76f2809cdca8
+ID: 45416849-e945-41a4-89d4-3095bbda398b
 Name: Tauschplatz
 title: Tauschplatz
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]]"
+  - "[[Einfluss]]"
+  - "[[Geister der Stärkung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Waldmenschen) I
@@ -25,5 +25,9 @@ Du bittest die Geister, in einem Radius von 16 Schritt den Handel zu überwachen
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Geister der Stärkung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Waldmenschen) I]]
+- **Erlernen:** 10 EP

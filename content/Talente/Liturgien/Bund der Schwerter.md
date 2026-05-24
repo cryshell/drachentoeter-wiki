@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: db3d50ec-996f-4233-a941-656bf8bd1d0e
+ID: 8eed4cc0-4dff-48d0-807d-df7b6cbdfd86
 Name: Bund der Schwerter
 title: Bund der Schwerter
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heerführung|Heerführung]]"
+  - "[[Heerführung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rondrageweihten I
@@ -14,7 +14,8 @@ Du wählst bis zu 8 Mitstreiter in einem Radius von 4 Schritt. Bis zum Ende der 
 
 - **Hohe Qualität:** Du spürst, wenn die Mitstreiter *ohnmächtig* werden/eine Wunde erleiden/sie auf übermächtige Gegner treffen.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Permanenz (-4, Kosten 4 KaP, davon 2 gKaP, Wirkungsdauer bis die Bindung gelöst wird; der Bund wirkt immer, wenn einer der Mitglieder in einem Kampf gerät.)
+- **Modifikationen:**
+  - Permanenz (-4, Kosten 4 KaP, davon 2 gKaP, Wirkungsdauer bis die Bindung gelöst wird; der Bund wirkt immer, wenn einer der Mitglieder in einem Kampf gerät.)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -25,5 +26,8 @@ Du wählst bis zu 8 Mitstreiter in einem Radius von 4 Schritt. Bis zum Ende der 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heerführung|Heerführung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Heerführung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rondrageweihten I]]
+- **Erlernen:** 10 EP

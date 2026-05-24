@@ -1,17 +1,17 @@
 ---
 Entitätstyp: Talent
-ID: 3dbfc520-1ca8-427f-a2ec-a24a1abe10f5
+ID: 1c540b34-f5fc-4c10-af0e-855812ad7b8d
 Name: Ruf der schwachen Elementargeister
 title: Ruf der schwachen Elementargeister
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]"
-  - "[[Inhalt/Fertigkeiten/Eis|Eis]]"
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
-  - "[[Inhalt/Fertigkeiten/Feuer|Feuer]]"
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Wasser|Wasser]]"
+  - "[[Geister rufen]]"
+  - "[[Eis]]"
+  - "[[Erz]]"
+  - "[[Feuer]]"
+  - "[[Humus]]"
+  - "[[Luft]]"
+  - "[[Wasser]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
@@ -25,7 +25,8 @@ Du beschwörst eine etwa faustgroße Menge oder kleine Manifestation des Element
 - **Luft:** einen frischen Windhauch rufen, einen Wohlgeruch erzeugen, einen kleinen Luftwirbel erschaffen.
 - **Wasser:** einen Becher mit Wasser füllen, deine Hände abspülen, eine Pfütze bilden, tagsüber einen kleinen Regenbogen glitzern lassen.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Demanifesto (-4; du kannst die Manifestation nach Belieben verschwinden und wieder auftauchen lassen.)
+- **Modifikationen:**
+  - Demanifesto (-4; du kannst die Manifestation nach Belieben verschwinden und wieder auftauchen lassen.)
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -36,5 +37,14 @@ Du beschwörst eine etwa faustgroße Menge oder kleine Manifestation des Element
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]], [[Inhalt/Fertigkeiten/Eis|Eis]], [[Inhalt/Fertigkeiten/Erz|Erz]], [[Inhalt/Fertigkeiten/Feuer|Feuer]], [[Inhalt/Fertigkeiten/Humus|Humus]], [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Wasser|Wasser]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Geister rufen]]
+  - [[Eis]]
+  - [[Erz]]
+  - [[Feuer]]
+  - [[Humus]]
+  - [[Luft]]
+  - [[Wasser]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+- **Erlernen:** 20 EP

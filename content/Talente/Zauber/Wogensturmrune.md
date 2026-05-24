@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 59551f31-3f5e-4126-b819-b748b36245fa
+ID: a3318cbc-75fd-4223-bbdf-83d9e9a52174
 Name: Wogensturmrune
 title: Wogensturmrune
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
-  - "[[Inhalt/Fertigkeiten/Wasser|Wasser]]"
-  - "[[Inhalt/Fertigkeiten/Zauberrunen|Zauberrunen]]"
+  - "[[Umwelt]]"
+  - "[[Wasser]]"
+  - "[[Zauberrunen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Runenmagier
@@ -25,5 +25,10 @@ Die Rune wird in einem Durchmesser von 16 Fingern auf einem Wesen, Boot oder Sch
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Umwelt|Umwelt]], [[Inhalt/Fertigkeiten/Wasser|Wasser]], [[Inhalt/Fertigkeiten/Zauberrunen|Zauberrunen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Umwelt]]
+  - [[Wasser]]
+  - [[Zauberrunen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Runenmagier]]
+- **Erlernen:** 20 EP

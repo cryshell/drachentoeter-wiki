@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 327763bf-7b4e-41ba-9f53-1952aa0cea55
+ID: 81c477df-3111-41fc-a4c8-e073b1e46cbb
 Name: Tradition der Aphasmayrapaktierer IV
 title: Tradition der Aphasmayrapaktierer IV
 Kategorie: Tradition (Paktierer)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Mut|MU]] 10
   - Vorteil [[Tradition der Aphasmayrapaktierer III]]

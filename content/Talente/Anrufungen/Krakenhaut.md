@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 5c32d9c3-f3a4-4d8c-a9f6-1ca60d292ed3
+ID: 770b06a4-5d2d-4170-94c5-b2b60dd6431b
 Name: Krakenhaut
 title: Krakenhaut
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Charyptoroths|Anrufung Charyptoroths]]"
+  - "[[Anrufung Charyptoroths]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Du verwandelst dich in ein im Wasser lebendes Tier deiner Wahl, üblicherweise e
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Charyptoroths|Anrufung Charyptoroths]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Charyptoroths]]
+- **Erlernen:** 20 EP

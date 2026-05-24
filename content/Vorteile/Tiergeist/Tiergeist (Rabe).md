@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 70b04753-9bc7-447a-a7e4-03518fb268f9
+ID: 6e07f576-0fdc-4fa2-950c-e47daa696559
 Name: Tiergeist (Rabe)
 title: Tiergeist (Rabe)
 Kategorie: Tiergeist
@@ -24,8 +24,12 @@ Kosten: 0
 
 ---
 
-- **Kosten:** 0 EP
+- **Erlernen:** 0 EP
 - **Voraussetzungen:**
   - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
   - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
-- **Siehe auch:** [[Krähenruf]], [[Sensibar Empathicus]], [[Nekropathia Seelenreise]], [[Memorans Gedächtniskraft]]
+- **Siehe auch:**
+  - [[Krähenruf]]
+  - [[Sensibar Empathicus]]
+  - [[Nekropathia Seelenreise]]
+  - [[Memorans Gedächtniskraft]]

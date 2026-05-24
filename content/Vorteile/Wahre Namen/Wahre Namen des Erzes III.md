@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: baa65e39-ebee-4df8-88bd-dd901a357d7d
+ID: 503e7061-6236-45b3-87f8-28bb2aaaf529
 Name: Wahre Namen des Erzes III
 title: Wahre Namen des Erzes III
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - Attribut [[Klugheit|KL]] 8

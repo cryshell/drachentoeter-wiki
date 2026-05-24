@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2cdcb465-b9a6-454b-adde-64ba3810f70f
+ID: 166776f0-e6fa-4a6b-aefd-82ad2973ad34
 Name: Kulturkunde (Zyklopeninseln)
 title: Kulturkunde (Zyklopeninseln)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 35485b55-d81b-4cc5-be61-2692d69b88a4
+ID: e5aea7c8-ac7d-4935-8dc4-a244ca680161
 Name: Stärke des Blutgeists
 title: Stärke des Blutgeists
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]"
+  - "[[Eigenschaften]]"
+  - "[[Gaben des Blutgeists]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Anach-Nûrim I
@@ -24,5 +24,9 @@ Du erhältst Vorteil auf alle bei deinem Tier unter *Wertebonus* angegebenen Wer
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Gaben des Blutgeists]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Anach-Nûrim I]]
+- **Erlernen:** 20 EP

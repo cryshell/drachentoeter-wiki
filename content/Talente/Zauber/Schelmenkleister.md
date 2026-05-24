@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 70f2614d-57f5-41cc-874d-5c9fda01129e
+ID: 9d6c628a-1260-46f4-97d3-10b0f49215bf
 Name: Schelmenkleister
 title: Schelmenkleister
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Umwelt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schelme I
@@ -25,5 +25,8 @@ Der Untergrund wird in einem Radius von 4 Schritt zäh und klebrig. Jeder Schrit
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schelme I]]
+- **Erlernen:** 20 EP

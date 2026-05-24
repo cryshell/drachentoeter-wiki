@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 4998ac2e-32b9-41e0-b832-6ab93ae63e74
+ID: da8dc4b9-d706-41c3-b11e-7f04cecf046a
 Name: Nebelleib
 title: Nebelleib
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
-  - "[[Inhalt/Fertigkeiten/Wasser|Wasser]]"
+  - "[[Luft]]"
+  - "[[Verwandlung]]"
+  - "[[Wasser]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I
@@ -26,5 +26,10 @@ Du verwandelst dich in Nebel, während deine Ausrüstung zurückbleibt. In deine
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]], [[Inhalt/Fertigkeiten/Wasser|Wasser]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Luft]]
+  - [[Verwandlung]]
+  - [[Wasser]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I]]
+- **Erlernen:** 20 EP

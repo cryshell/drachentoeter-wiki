@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 1767b38b-ff48-47d6-be8c-e4e41822823e
+ID: 08aff41f-91b4-46a0-b33d-a2f5bfe0edb6
 Name: Seele des (Lufttieres)
 title: Seele des (Lufttieres)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
-  - "[[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]]"
+  - "[[Verwandlung]]"
+  - "[[Gaben des Odun]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Durro-Dûn I
@@ -15,7 +15,8 @@ Du verwandelst dich in das Tier deines Tiergeistes. Du behältst deine geistigen
 
 - **Hohe Qualität:** Du darfst 2 Spielwerte um je 1 Punkt erhöhen, solange das Ergebnis dem gesunden Menschenverstand nicht widerspricht.
 - **Probenschwierigkeit:** 8/12/16/20/24
-- **Modifikationen:** Tierseele (+4; die Instinkte des Tieres können überhand nehmen.)
+- **Modifikationen:**
+  - Tierseele (+4; die Instinkte des Tieres können überhand nehmen.)
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -27,5 +28,9 @@ Du verwandelst dich in das Tier deines Tiergeistes. Du behältst deine geistigen
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]], [[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Verwandlung]]
+  - [[Gaben des Odun]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Durro-Dûn I]]
+- **Erlernen:** 40 EP

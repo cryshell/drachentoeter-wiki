@@ -1,11 +1,11 @@
 ---
 Entit√§tstyp: Talent
-ID: da354a75-d27b-470a-a7b1-e065fa40b797
+ID: 643f1ade-1963-4eda-b820-28289788fd91
 Name: Altisonus
 title: Altisonus
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
+  - "[[Eigenschaften]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Scharlatane I
@@ -24,5 +24,8 @@ Deine Stimme wird so laut, dass dich jeder in einem Radius von 32 Schritt gut h√
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Scharlatane I]]
+- **Erlernen:** 10 EP

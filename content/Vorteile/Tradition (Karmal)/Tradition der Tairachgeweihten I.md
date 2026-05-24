@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 06442ebf-6917-4fff-a6f5-41e723af8212
+ID: c343d1e9-fbaa-4312-9d97-43c3ddee90e9
 Name: Tradition der Tairachgeweihten I
 title: Tradition der Tairachgeweihten I
 Kategorie: Tradition (Karmal)
@@ -18,9 +18,9 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen Tairachs Gebote verstößt: Bew
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 4
   - Vorteil [[Geweiht I]]
-  - Kein Vorteil Tradition der *geweihten I
+  - Kein Vorteil [[Tradition der geweihten I|Tradition der *geweihten I]]
   - Vorteil [[Tradition der Schamanen (Orks) III]]

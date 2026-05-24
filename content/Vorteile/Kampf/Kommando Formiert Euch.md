@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 5ad9937a-3a45-4791-9a6d-e27be6d9f561
+ID: 2c50d353-ae8b-4710-919a-409ac5f1e6e9
 Name: "Kommando: Formiert Euch!"
 title: "Kommando: Formiert Euch!"
 Kategorie: Kampf
@@ -15,7 +15,9 @@ Du kannst als Bonusaktion einem Mitstreiter in Hörweite ermöglichen, sich als 
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 6
-- **Siehe auch:** [[Reaktion]], [[Bewegung]]
+- **Siehe auch:**
+  - [[Reaktion]]
+  - [[Bewegung]]

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 801bc3c2-1740-4da4-9208-902d94b9fa25
+ID: e6e909da-3a7a-4673-af8a-18839a68194e
 Name: Federleichter Beutel (passiv)
 title: Federleichter Beutel (passiv)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]"
+  - "[[Kristallmagie]]"
 Kosten: 20
 Voraussetzungen: Vorteil Tradition der Kristallomanten I
 ---
@@ -15,5 +15,8 @@ Pro 4 volle Punkte PW Kristallmagie halbiert sich das Gewicht der Gegenstände i
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Kristallmagie]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

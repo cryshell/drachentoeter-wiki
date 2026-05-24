@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 951a7f6f-4902-4db7-ac09-1f0037bbda7e
+ID: 8ab6c888-c7b8-4b9c-bd83-8753077813bc
 Name: Kristallkraft bündeln (passiv)
 title: Kristallkraft bündeln (passiv)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]"
+  - "[[Kristallmagie]]"
 Kosten: 40
 Voraussetzungen: Vorteil Tradition der Kristallomanten I
 ---
@@ -15,5 +15,8 @@ Du kannst einen Zauber mit der Essenz eines gebundenen Kristalls stärken. Der Z
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Kristallmagie]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I]]
+- **Erlernen:** 40 EP

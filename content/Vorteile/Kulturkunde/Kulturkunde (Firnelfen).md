@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c023012e-ed6c-4165-96fb-192b1ed5c588
+ID: 68004c8e-ec81-409f-81ab-45c6c62f9370
 Name: Kulturkunde (Firnelfen)
 title: Kulturkunde (Firnelfen)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

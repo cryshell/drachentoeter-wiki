@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0dbb31ed-7a8e-41fc-b01b-b4f0e908a014
+ID: b4618c85-4d7c-484d-9857-0482d319fd4f
 Name: Berittener Schütze
 title: Berittener Schütze
 Kategorie: Kampf
@@ -16,7 +16,9 @@ Kosten: 20
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 4
-- **Siehe auch:** [[Fernkampf]], [[Reflexschuss]]
+- **Siehe auch:**
+  - [[Fernkampf]]
+  - [[Reflexschuss]]

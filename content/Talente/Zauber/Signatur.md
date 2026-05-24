@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: ca948c9b-17cd-4bb3-9380-a8cc4577fb35
+ID: 7212f108-e13a-4f5f-aec4-29aeedd3ae84
 Name: Signatur
 title: Signatur
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
+  - "[[Zaubertricks]]"
 Kosten: 5
 ---
 Du erzeugst auf einem Gegenstand ein kleines, einfaches Zeichen. Es lässt sich leicht wegwischen.
@@ -20,5 +20,6 @@ Du erzeugst auf einem Gegenstand ein kleines, einfaches Zeichen. Es lässt sich 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
-- **Kosten:** 5 EP
+- **Fertigkeiten:**
+  - [[Zaubertricks]]
+- **Erlernen:** 5 EP

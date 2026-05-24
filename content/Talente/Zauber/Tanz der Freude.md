@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: ed71d8f9-98dc-4395-90fd-f99746af4738
+ID: 58540e3a-3972-4e6a-bfb9-a479fdf307a0
 Name: Tanz der Freude
 title: Tanz der Freude
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
-  - "[[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]]"
+  - "[[Humus]]"
+  - "[[Zaubertänze]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zaubertänzer I
@@ -25,5 +25,9 @@ Der Tanz stärkt die Lebenskräfte und beendet ein Gift oder eine Krankheit bis 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Humus|Humus]], [[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Humus]]
+  - [[Zaubertänze]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zaubertänzer I]]
+- **Erlernen:** 10 EP

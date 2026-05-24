@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0ee04324-6377-435d-b5f6-4bf0dfd76cbe
+ID: afbf74b2-9f3e-4b3a-bab3-e059240bc457
 Name: Tradition der Anach-Nûrim I
 title: Tradition der Anach-Nûrim I
 Kategorie: Tradition (Magisch)
@@ -21,8 +21,10 @@ Wenn du einen Zauber ohne Verbotene Pforten oder Blutmagie wirkst, hat er Nachte
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Konstitution|KO]] 4
   - Vorteil [[Zauberer I]]
-- **Siehe auch:** [[Verbotene Pforten]], [[Blutmagie]]
+- **Siehe auch:**
+  - [[Verbotene Pforten]]
+  - [[Blutmagie]]

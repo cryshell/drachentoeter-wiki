@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 7cd528d7-cf5e-4553-adf4-3855e23a2f10
+ID: a7f75ea6-cc6c-46f9-92d6-d1d1c98251a5
 Name: Tradition der Apotheker III
 title: Tradition der Apotheker III
 Kategorie: Tradition (Profan)
@@ -16,8 +16,9 @@ Du beherrschst Rezepte der Tradition der Apotheker bis zu einer Verbreitung von 
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 8
   - Vorteil [[Tradition der Apotheker II]]
-- **Siehe auch:** [[Verdünnen]]
+- **Siehe auch:**
+  - [[Verdünnen]]

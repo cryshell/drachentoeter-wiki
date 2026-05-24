@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 1e06bb60-0cb4-40d0-9c61-5452bfa6d7a7
+ID: 99440b46-9aa6-4c11-86cb-639946b0b4a7
 Name: Papperlapapp
 title: Papperlapapp
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Einfluss]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schelme I
@@ -23,5 +23,8 @@ Jeder, der sich dir auf 4 Schritt nähert, muss eine Magieresistenz-Gegenprobe a
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schelme I]]
+- **Erlernen:** 20 EP

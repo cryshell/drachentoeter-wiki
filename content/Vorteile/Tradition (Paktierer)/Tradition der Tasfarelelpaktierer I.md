@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: ddd5e5f4-d2f5-4657-bcdc-9ec36c214316
+ID: 909d012f-e487-49bf-90f4-04c678652c4a
 Name: Tradition der Tasfarelelpaktierer I
 title: Tradition der Tasfarelelpaktierer I
 Kategorie: Tradition (Paktierer)
@@ -17,8 +17,8 @@ Dämonische Kräfte sind chaotisch, Anrufungsproben werden mit 1W20 gewürfelt.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 4
   - Vorteil [[Paktierer I]]
-  - Kein Vorteil Tradition der *paktierer I
+  - Kein Vorteil [[Tradition der paktierer I|Tradition der *paktierer I]]

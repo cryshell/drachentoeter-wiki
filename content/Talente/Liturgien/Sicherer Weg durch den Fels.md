@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 96d8fd5b-d8d5-4947-9e5e-b81a0138b2dc
+ID: db0ee856-afe3-48d2-aa18-d8c6d9bddb4f
 Name: Sicherer Weg durch den Fels
 title: Sicherer Weg durch den Fels
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heiliges Erz|Heiliges Erz]]"
+  - "[[Heiliges Erz]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I
@@ -24,5 +24,8 @@ Unter der Erde wird dein Ziel wie mit der Gabe Gefahreninstinkt vor natürlichen
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heiliges Erz|Heiliges Erz]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Heiliges Erz]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I]]
+- **Erlernen:** 10 EP

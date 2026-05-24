@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0583925b-8c34-409c-979c-610b6ce697a6
+ID: 5f1d6714-d840-4b6c-ac52-ad8a1838fe4a
 Name: Sprachkenntnis (Krakonisch)
 title: Sprachkenntnis (Krakonisch)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Krakonisch gehört zur Maritim-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

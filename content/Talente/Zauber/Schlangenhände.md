@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 4205c590-cd04-463f-b6e5-47db15ebafee
+ID: e6e0b6d0-b821-4241-a10d-edf0c5e2779e
 Name: Schlangenhände
 title: Schlangenhände
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
+  - "[[Zaubertricks]]"
 Kosten: 5
 ---
 Deine Hände werden so flexibel, dass du sie durch sehr schmale Öffnungen zwängen kannst.
@@ -20,5 +20,6 @@ Deine Hände werden so flexibel, dass du sie durch sehr schmale Öffnungen zwän
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
-- **Kosten:** 5 EP
+- **Fertigkeiten:**
+  - [[Zaubertricks]]
+- **Erlernen:** 5 EP

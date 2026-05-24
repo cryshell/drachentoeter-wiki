@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: de7d2a55-5d85-441b-97a3-5d60d18fc58a
+ID: 2123c44c-a476-4802-8f1a-cccd039be43d
 Name: Seelenschatten
 title: Seelenschatten
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Herrschaft|Herrschaft]]"
+  - "[[Herrschaft]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Namenlosgeweihten I
@@ -24,5 +24,8 @@ Verbirgt bei Einsatz der Liturgie Seelenprüfung, dass du dem Namenlosen geweiht
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Herrschaft|Herrschaft]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Herrschaft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Namenlosgeweihten I]]
+- **Erlernen:** 20 EP

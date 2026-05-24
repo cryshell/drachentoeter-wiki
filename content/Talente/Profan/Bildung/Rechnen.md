@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: b6ded12a-fb99-4a7d-9975-d94748842012
+ID: 7d7b6e81-fada-46ba-bd55-27761365a8a9
 Name: Rechnen
 title: Rechnen
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Bildung|Bildung]]"
+  - "[[Bildung]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Rechnen umfasst bei Anfängern die Grundrechenarten, ein Mathematicus beherrscht
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Bildung|Bildung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Bildung]]
+- **Erlernen:** 10 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 3b6089cc-fa07-41bb-ad07-819e57b40d9c
+ID: 7badb359-2c9c-4285-8f95-63ed9e4fa294
 Name: Tiere besprechen
 title: Tiere besprechen
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
+  - "[[Humus]]"
+  - "[[Verwandlung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I
@@ -28,5 +28,9 @@ Bann des Siechtums (Probenschwierigkeit 12; du beendest ein Gift oder eine Krank
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Humus|Humus]], [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Humus]]
+  - [[Verwandlung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I]]
+- **Erlernen:** 10 EP

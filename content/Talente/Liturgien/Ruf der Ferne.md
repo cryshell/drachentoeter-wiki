@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 1ad02689-b071-447b-878f-0981fe1de679
+ID: 70ba0e45-92e9-40d2-9707-d748deb01eb3
 Name: Ruf der Ferne
 title: Ruf der Ferne
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Fröhlicher Wanderer|Fröhlicher Wanderer]]"
-  - "[[Inhalt/Fertigkeiten/Heiliges Handwerk|Heiliges Handwerk]]"
+  - "[[Fröhlicher Wanderer]]"
+  - "[[Heiliges Handwerk]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Avesgeweihten I
@@ -25,5 +25,9 @@ Du segnest ein von dir gefertigtes Glöckchen oder Musikinstrument und legst dab
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Fröhlicher Wanderer|Fröhlicher Wanderer]], [[Inhalt/Fertigkeiten/Heiliges Handwerk|Heiliges Handwerk]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Fröhlicher Wanderer]]
+  - [[Heiliges Handwerk]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Avesgeweihten I]]
+- **Erlernen:** 10 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: d24b3f6b-081d-4040-8b84-6d6a9db07d82
+ID: 5d6719e5-4982-4d7d-b69d-1708518f3761
 Name: Sigille des unsichtbaren Trägers
 title: Sigille des unsichtbaren Trägers
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]"
+  - "[[Luft]]"
+  - "[[Zauberzeichen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Kristallomanten I
@@ -25,5 +25,9 @@ Das Zeichen wird in einem Durchmesser von 8 Fingern auf einem maximal schrankgro
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Luft]]
+  - [[Zauberzeichen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

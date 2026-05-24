@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b4eb77e4-5c6b-4f03-884c-514167a2dcbd
+ID: d4a3e032-8e90-48bd-98a2-d28f90eaea29
 Name: Sprachkenntnis (Zyklopisch)
 title: Sprachkenntnis (Zyklopisch)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Zyklopisch gehört zu keiner Sprachfamilie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

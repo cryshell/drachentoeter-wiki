@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: f85730ca-6836-41ab-b904-2b6029fc23cb
+ID: 262493b2-cc4f-4d8c-9b59-a0f9c67af513
 Name: Rhythmen des Sturmes
 title: Rhythmen des Sturmes
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Trommelrituale|Trommelrituale]]"
+  - "[[Eigenschaften]]"
+  - "[[Trommelrituale]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Derwische I
@@ -24,5 +24,9 @@ Du verbesserst die Reitkünste. Jeder in einem Radius von 4 Schritt erhält Vort
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Trommelrituale|Trommelrituale]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Trommelrituale]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Derwische I]]
+- **Erlernen:** 20 EP

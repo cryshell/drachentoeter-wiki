@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: a5181dcc-ae1d-4f28-b693-e90fd8455d31
+ID: 78e22c42-6e59-4241-afca-4aff55a13aaf
 Name: Invocatio
 title: Invocatio
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
+  - "[[Dämonisch]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I
@@ -24,5 +24,8 @@ Ruft einen Dämon herbei, der in deiner unmittelbaren Nähe erscheint. Schwierig
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Dämonisch]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 40 EP

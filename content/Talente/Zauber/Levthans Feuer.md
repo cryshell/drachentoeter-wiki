@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: ca076960-f296-49b9-a02c-e6b1d44d2f12
+ID: d81636cc-fe18-448a-8826-9a1209550c5c
 Name: Levthans Feuer
 title: Levthans Feuer
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Einfluss]]"
+  - "[[Verständigung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hexen I
@@ -15,7 +15,8 @@ Das Ziel entbrennt in heißer Leidenschaft für dich. Auf einer Skala von absto�
 
 - **Hohe Qualität:** Steigert die Anziehungskraft um eine weitere Stufe.
 - **Probenschwierigkeit:** Magieresistenz
-- **Modifikationen:** Reine Übertragung (Kosten 4 AsP; keine Änderung der Einstellung.)
+- **Modifikationen:**
+  - Reine Übertragung (Kosten 4 AsP; keine Änderung der Einstellung.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Humanoid
 - **Reichweite:** Berührung
@@ -26,5 +27,9 @@ Das Ziel entbrennt in heißer Leidenschaft für dich. Auf einer Skala von absto�
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hexen I]]
+- **Erlernen:** 10 EP

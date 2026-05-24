@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 3847ad48-52af-4982-ab7d-ec456425b873
+ID: f72a0ca5-c34d-4923-b1d6-eea47e2b167b
 Name: Tradition der Korgeweihten III
 title: Tradition der Korgeweihten III
 Kategorie: Tradition (Karmal)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 8
   - Vorteil [[Tradition der Korgeweihten II]]
-- **Siehe auch:** [[Opferung (Kor)]]
+- **Siehe auch:**
+  - [[Opferung (Kor)]]

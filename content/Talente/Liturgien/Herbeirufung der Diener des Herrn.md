@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 82e15f5b-39d1-449e-b9b6-b019f0b7998b
+ID: 1d83e58a-b4af-4a1f-9871-3bb6882e2a2e
 Name: Herbeirufung der Diener des Herrn
 title: Herbeirufung der Diener des Herrn
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Herrschaft|Herrschaft]]"
+  - "[[Herrschaft]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Namenlosgeweihten I
@@ -24,5 +24,8 @@ Ruft einen der drei Dämonen des Namenlosen herbei, der in deiner unmittelbaren 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Herrschaft|Herrschaft]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Herrschaft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Namenlosgeweihten I]]
+- **Erlernen:** 40 EP

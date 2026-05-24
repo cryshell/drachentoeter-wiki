@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b65a560b-8c5c-4ca8-acfd-2870b235dbbc
+ID: 9126492e-6196-444a-ac2e-323df0140ec3
 Name: Taktiker
 title: Taktiker
 Kategorie: Kampf
@@ -15,7 +15,9 @@ Du kannst die Aktion Helfen als Bonusaktion ausführen.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 8
-- **Siehe auch:** [[Aktion Helfen]], [[Bonusaktion]]
+- **Siehe auch:**
+  - [[Aktion Helfen]]
+  - [[Bonusaktion]]

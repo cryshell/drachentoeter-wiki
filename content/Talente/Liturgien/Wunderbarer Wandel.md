@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 5b23618e-1abf-45f9-89f4-d26a10876203
+ID: febf0ced-9c1c-479a-8861-495ee9f9639b
 Name: Wunderbarer Wandel
 title: Wunderbarer Wandel
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Neubeginn|Neubeginn]]"
+  - "[[Neubeginn]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Tsageweihten I
@@ -14,7 +14,8 @@ Nach dem Willen Tsas ändern sich deine Haare, Gesichtszüge und Körperbau so w
 
 - **Hohe Qualität:** Für je zwei Stufen kannst du auch den Kulturkreis/das Geschlecht verändern.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Fremdverwandlung (-4, Humanoid; verwandelt ein freiwilliges Ziel)
+- **Modifikationen:**
+  - Fremdverwandlung (-4, Humanoid; verwandelt ein freiwilliges Ziel)
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -25,5 +26,8 @@ Nach dem Willen Tsas ändern sich deine Haare, Gesichtszüge und Körperbau so w
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Neubeginn|Neubeginn]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Neubeginn]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Tsageweihten I]]
+- **Erlernen:** 20 EP

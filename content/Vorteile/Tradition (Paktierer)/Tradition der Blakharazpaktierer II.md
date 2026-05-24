@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 15f7a1a4-4e5e-4a2f-a5b7-3211aae1cb66
+ID: e4a2b9f0-18c6-4ba0-a92e-898f4af3e1d8
 Name: Tradition der Blakharazpaktierer II
 title: Tradition der Blakharazpaktierer II
 Kategorie: Tradition (Paktierer)
@@ -14,7 +14,7 @@ Paktierer werden durch erlittene Wunden eher noch gefährlicher. Der Wundabzug s
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 6
   - Vorteil [[Tradition der Blakharazpaktierer I]]

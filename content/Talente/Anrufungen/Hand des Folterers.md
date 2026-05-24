@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 6f2640a1-34f2-46da-94e0-ae3fc70dad73
+ID: 5c609839-c22c-4046-a20b-cbbf0574803a
 Name: Hand des Folterers
 title: Hand des Folterers
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Blakharazs|Anrufung Blakharazs]]"
+  - "[[Anrufung Blakharazs]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -22,5 +22,6 @@ Du kannst deinem Opfer mit einer bloßen Berührung Schmerzen zufügen. Es ist *
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Blakharazs|Anrufung Blakharazs]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Blakharazs]]
+- **Erlernen:** 20 EP

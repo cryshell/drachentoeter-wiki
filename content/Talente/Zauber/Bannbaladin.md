@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: f577a777-8b66-48c1-a6b2-fb06c0dca582
+ID: 1d61acd6-37c8-4be2-accf-56c7af1ee32d
 Name: Bannbaladin
 title: Bannbaladin
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Einfluss]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Shakagra I
@@ -14,7 +14,8 @@ Verbessert das Verhältnis zum Ziel um eine Stufe auf der Skala feindlich/ablehn
 
 - **Hohe Qualität:** Verbessert das Verhältnis um eine weitere Stufe.
 - **Probenschwierigkeit:** Magieresistenz
-- **Modifikationen:** Gemeinsame Erinnerung (-4; du teilst eine von dir bestimmte Erinnerung mit dem Ziel und kannst so einen Schlüsselmoment des Verhältnisses bestimmen.)
+- **Modifikationen:**
+  - Gemeinsame Erinnerung (-4; du teilst eine von dir bestimmte Erinnerung mit dem Ziel und kannst so einen Schlüsselmoment des Verhältnisses bestimmen.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Humanoid
 - **Reichweite:** 4 Schritt
@@ -25,5 +26,8 @@ Verbessert das Verhältnis zum Ziel um eine Stufe auf der Skala feindlich/ablehn
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

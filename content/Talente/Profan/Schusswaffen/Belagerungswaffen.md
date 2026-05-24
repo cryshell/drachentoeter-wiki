@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: cb2f4b8d-f521-4a94-8b3b-8e066d79dd39
+ID: daf39d03-737a-42b9-be24-c1b71069381d
 Name: Belagerungswaffen
 title: Belagerungswaffen
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schusswaffen|Schusswaffen]]"
+  - "[[Schusswaffen]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Mit Belagerungswaffen bedienst du große Kriegsmaschinen wie Onager oder Ballist
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schusswaffen|Schusswaffen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Schusswaffen]]
+- **Erlernen:** 20 EP

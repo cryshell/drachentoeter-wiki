@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 461647d9-5026-43a6-bf41-25fbcf04aaef
+ID: 4898cbc1-2294-45ca-9b78-5399393173e9
 Name: Schneesturm
 title: Schneesturm
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Winter|Winter]]"
+  - "[[Winter]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Firungeweihten I
@@ -25,5 +25,8 @@ Im Radius von 1 Meile entsteht ein Schneesturm. Der Wind steigt auf einer Skala 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Winter|Winter]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Winter]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Firungeweihten I]]
+- **Erlernen:** 20 EP

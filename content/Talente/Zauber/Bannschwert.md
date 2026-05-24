@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 85dc1252-69fd-4e4c-b2cf-a7ec9ddc5146
+ID: 216d9ddc-2032-482c-a548-1b2f9a2190d9
 Name: Bannschwert
 title: Bannschwert
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Antimagie|Antimagie]]"
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
+  - "[[Antimagie]]"
+  - "[[Dämonisch]]"
+  - "[[Objekt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I
@@ -16,7 +16,8 @@ Du legst bannende Zauber auf eine Handgemenge- oder Klingenwaffe mit Reichweite 
 
 - **Hohe Qualität:** Waffenschaden +1 gegen beschworene Wesenheiten.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Lange Klinge (-8/-16; die Waffe kann Reichweite 1/2 haben.)
+- **Modifikationen:**
+  - Lange Klinge (-8/-16; die Waffe kann Reichweite 1/2 haben.)
 - **Vorbereitungszeit:** 1 Stunde
 - **Ziel:** Objekt
 - **Reichweite:** Berührung
@@ -27,5 +28,10 @@ Du legst bannende Zauber auf eine Handgemenge- oder Klingenwaffe mit Reichweite 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Antimagie|Antimagie]], [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]], [[Inhalt/Fertigkeiten/Objekt|Objekt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Antimagie]]
+  - [[Dämonisch]]
+  - [[Objekt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

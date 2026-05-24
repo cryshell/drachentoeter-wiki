@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e83325bc-738b-45d7-af5f-62d30355c952
+ID: acace7ea-7ff5-4ce3-be82-c0d95421ac48
 Name: Tradition der Heskatetpaktierer III
 title: Tradition der Heskatetpaktierer III
 Kategorie: Tradition (Paktierer)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 8
   - Vorteil [[Tradition der Heskatetpaktierer II]]
-- **Siehe auch:** [[Opferung (Heskatet)]]
+- **Siehe auch:**
+  - [[Opferung (Heskatet)]]

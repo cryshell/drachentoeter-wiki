@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 91fb4893-1070-47a6-b533-4682c3ca64dc
+ID: 43a5e8a9-f3a8-4230-a0e7-7790aab57506
 Name: Tradition der Efferdgeweihten II
 title: Tradition der Efferdgeweihten II
 Kategorie: Tradition (Karmal)
@@ -14,7 +14,7 @@ Efferdgeweihte sind so wechselhaft wie das Meer. Im Zustand besonders starker Em
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 6
   - Vorteil [[Tradition der Efferdgeweihten I]]

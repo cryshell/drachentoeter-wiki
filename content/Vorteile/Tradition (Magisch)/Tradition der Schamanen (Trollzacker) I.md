@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: adf310f4-2d71-44e9-9983-19665af24499
+ID: 4ba7c918-39c3-4429-a405-06237e051f22
 Name: Tradition der Schamanen (Trollzacker) I
 title: Tradition der Schamanen (Trollzacker) I
 Kategorie: Tradition (Magisch)
@@ -16,7 +16,7 @@ Bei Elementarzaubern kannst du nur Erz, Luft und Wasser verwenden. Verärgert de
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 4
   - Vorteil [[Zauberer I]]

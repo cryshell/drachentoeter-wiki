@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f467fadd-c9fa-4f64-a1a5-568ac5998c60
+ID: 77d84267-6606-4a5b-a095-755ab0ad375b
 Name: Kulturkunde (Ambosszwerge)
 title: Kulturkunde (Ambosszwerge)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

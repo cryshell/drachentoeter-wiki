@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 4766779d-90fb-4ccc-b583-3f73d3630c32
+ID: 1c9aa996-3b77-4a88-b6a4-b58491098569
 Name: Auge des Basilisken
 title: Auge des Basilisken
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
-  - "[[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]"
+  - "[[Erz]]"
+  - "[[Verwandlung]]"
+  - "[[Zauberzeichen]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I
@@ -26,5 +26,10 @@ Das Zeichen wird in einem Durchmesser von 32 Fingern auf einer beliebigen Fläch
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Erz|Erz]], [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]], [[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Erz]]
+  - [[Verwandlung]]
+  - [[Zauberzeichen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 40 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 90fc67ac-9ca9-4678-b697-f677bbb2185c
+ID: 4464e1be-8140-41f8-ace2-1cf92852a292
 Name: Störfeld (passiv)
 title: Störfeld (passiv)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Kugelzauber|Kugelzauber]]"
+  - "[[Kugelzauber]]"
 Kosten: 20
 Voraussetzungen: Vorteil Tradition der Scharlatane I
 ---
@@ -15,5 +15,8 @@ Du lässt 2 gAsP in die Kugel fließen. Fortan kannst du mit einer Aktion *Konze
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Kugelzauber|Kugelzauber]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Kugelzauber]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Scharlatane I]]
+- **Erlernen:** 20 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: c01a1546-41c5-413f-bce3-2bdbbbeba516
+ID: d471c70e-03ae-402f-b003-2efc928834b5
 Name: Spinnenlauf
 title: Spinnenlauf
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
+  - "[[Eigenschaften]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I
@@ -14,9 +14,9 @@ Deine nackten Hände und Füße haften an Oberflächen, sodass du mit GS 1 an gl
 
 - **Hohe Qualität:** Erhöht die GS um +1.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Freihändig (-8; nur zwei Gliedmaßen müssen in permanentem Kontakt sein, sodass du beim Klettern etwas tragen oder befestigen kannst.)
-Wirkt durch Kleidung (-4; der Zauber wirkt auch durch getragene Handschuhe und Schuhe.)
-
+- **Modifikationen:**
+  - Freihändig (-8; nur zwei Gliedmaßen müssen in permanentem Kontakt sein, sodass du beim Klettern etwas tragen oder befestigen kannst.)
+  - Wirkt durch Kleidung (-4; der Zauber wirkt auch durch getragene Handschuhe und Schuhe.)
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** Humanoid
 - **Reichweite:** Berührung
@@ -27,5 +27,8 @@ Wirkt durch Kleidung (-4; der Zauber wirkt auch durch getragene Handschuhe und S
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

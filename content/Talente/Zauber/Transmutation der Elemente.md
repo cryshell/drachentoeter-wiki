@@ -1,17 +1,17 @@
 ---
 Entitätstyp: Talent
-ID: 8383f626-5bac-4247-a88c-949c0d249a38
+ID: d79fcce8-b456-44af-8de6-7de4b6d84088
 Name: Transmutation der Elemente
 title: Transmutation der Elemente
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eis|Eis]]"
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
-  - "[[Inhalt/Fertigkeiten/Feuer|Feuer]]"
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Wasser|Wasser]]"
-  - "[[Inhalt/Fertigkeiten/Schalenzauber|Schalenzauber]]"
+  - "[[Eis]]"
+  - "[[Erz]]"
+  - "[[Feuer]]"
+  - "[[Humus]]"
+  - "[[Luft]]"
+  - "[[Wasser]]"
+  - "[[Schalenzauber]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Alchemisten I
@@ -25,7 +25,8 @@ Du beschwörst eine etwa faustgroße Menge oder kleine Manifestation des Element
 - **Luft:** einen frischen Windhauch rufen, einen Wohlgeruch erzeugen, einen kleinen Luftwirbel erschaffen.
 - **Wasser:** einen Becher mit Wasser füllen, deine Hände abspülen, eine Pfütze bilden, tagsüber einen kleinen Regenbogen glitzern lassen.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Demanifesto (-4; du kannst die Manifestation nach Belieben verschwinden und wieder auftauchen lassen.)
+- **Modifikationen:**
+  - Demanifesto (-4; du kannst die Manifestation nach Belieben verschwinden und wieder auftauchen lassen.)
 - **Vorbereitungszeit:** 0 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -36,5 +37,14 @@ Du beschwörst eine etwa faustgroße Menge oder kleine Manifestation des Element
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eis|Eis]], [[Inhalt/Fertigkeiten/Erz|Erz]], [[Inhalt/Fertigkeiten/Feuer|Feuer]], [[Inhalt/Fertigkeiten/Humus|Humus]], [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Wasser|Wasser]], [[Inhalt/Fertigkeiten/Schalenzauber|Schalenzauber]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Eis]]
+  - [[Erz]]
+  - [[Feuer]]
+  - [[Humus]]
+  - [[Luft]]
+  - [[Wasser]]
+  - [[Schalenzauber]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Alchemisten I]]
+- **Erlernen:** 10 EP

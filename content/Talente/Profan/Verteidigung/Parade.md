@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 40c10fec-c404-4a1c-928e-eb419e20af52
+ID: 12d3b773-1e53-49b1-a7f2-f4eceeb44a4f
 Name: Parade
 title: Parade
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verteidigung|Verteidigung]]"
+  - "[[Verteidigung]]"
 Kosten: 60
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Mit Parade wehrst du Nahkampfangriffe ab, indem du eine Nahkampfwaffe einsetzt, 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verteidigung|Verteidigung]]
-- **Kosten:** 60 EP
+- **Fertigkeiten:**
+  - [[Verteidigung]]
+- **Erlernen:** 60 EP

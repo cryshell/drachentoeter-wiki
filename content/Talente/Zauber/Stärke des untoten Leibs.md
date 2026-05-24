@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 2b58187d-4529-4c5d-863e-9b62f26f95e7
+ID: 97903cc5-cc4d-48d1-9a4a-4eae051e2651
 Name: Stärke des untoten Leibs
 title: Stärke des untoten Leibs
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Vampirische Kräfte|Vampirische Kräfte]]"
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
+  - "[[Vampirische Kräfte]]"
+  - "[[Eigenschaften]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kinder der Finsternis ODER Vorteil Tradition der Kinder der Nacht ODER Vorteil Tradition der Lamijahnim
@@ -25,5 +25,9 @@ Wähle eines der folgenden Attribute aus: KO, KK, GE, FF. Proben auf dieses Attr
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Vampirische Kräfte|Vampirische Kräfte]], [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Vampirische Kräfte]]
+  - [[Eigenschaften]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kinder der Finsternis ODER Vorteil Tradition der Kinder der Nacht ODER Vorteil Tradition der Lamijahnim]]
+- **Erlernen:** 20 EP

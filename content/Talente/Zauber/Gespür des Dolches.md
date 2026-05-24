@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: afed685c-912d-4040-9cc7-4c31d6043d5f
+ID: fb7cdfbb-23ae-4d21-9a06-0026b62d16c1
 Name: Gespür des Dolches
 title: Gespür des Dolches
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]]"
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
+  - "[[Dolchzauber]]"
+  - "[[Hellsicht]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I
@@ -24,5 +24,9 @@ Dein Ritualgegenstand kühlt ab, wenn er dämonisch verseuchten Boden berührt. 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]], [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Dolchzauber]]
+  - [[Hellsicht]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I]]
+- **Erlernen:** 10 EP

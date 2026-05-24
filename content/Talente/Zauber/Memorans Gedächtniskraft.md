@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: bf336688-2d13-4995-b793-1d8692e939eb
+ID: 4bffaebf-cd6c-4739-a8d0-00edb93ff39d
 Name: Memorans Gedächtniskraft
 title: Memorans Gedächtniskraft
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
+  - "[[Eigenschaften]]"
+  - "[[Hellsicht]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I
@@ -27,5 +27,9 @@ Drachengedächtnis (-8, Wirkungsdauer 16 Züge; alles, was du während der Wirku
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Hellsicht]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

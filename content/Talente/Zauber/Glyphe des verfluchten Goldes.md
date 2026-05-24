@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 78fe7852-e8db-4c44-9a83-ff1b0f7da834
+ID: e9800c6d-b2f2-44fb-90f0-5df7bf8f35bd
 Name: Glyphe des verfluchten Goldes
 title: Glyphe des verfluchten Goldes
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
-  - "[[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]"
+  - "[[Eigenschaften]]"
+  - "[[Objekt]]"
+  - "[[Zauberzeichen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Zibilja I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Gildenmagier I
@@ -16,7 +16,8 @@ Das Zeichen wird in einem Durchmesser von 16 Fingern auf einem maximal schrankgr
 
 - **Hohe Qualität:** Der Dieb erleidet nach 2 weiteren Stunden eine weitere Wunde.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Zone (-4, 16 AsP; kann auf einer beliebigen Fläche angebracht werden und wirkt auf alle Objekte in einem Radius von 4 Schritt. *Ortsgebundenes* Zeichen.)
+- **Modifikationen:**
+  - Zone (-4, 16 AsP; kann auf einer beliebigen Fläche angebracht werden und wirkt auf alle Objekte in einem Radius von 4 Schritt. *Ortsgebundenes* Zeichen.)
 - **Vorbereitungszeit:** 8 Minuten
 - **Ziel:** passendes Zauberzeichen
 - **Reichweite:** Berührung
@@ -28,5 +29,10 @@ Das Zeichen wird in einem Durchmesser von 16 Fingern auf einem maximal schrankgr
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Objekt|Objekt]], [[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Objekt]]
+  - [[Zauberzeichen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Zibilja I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

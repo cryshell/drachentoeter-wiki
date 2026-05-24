@@ -1,17 +1,17 @@
 ---
 Entitätstyp: Talent
-ID: 5aafdd3e-a733-4c3a-8a1d-632481656ac4
+ID: da075315-429e-4d42-af1a-6a057583463c
 Name: "Dämonische Stärkung: FF"
 title: "Dämonische Stärkung: FF"
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Lolgramoths|Anrufung Lolgramoths]]"
-  - "[[Inhalt/Fertigkeiten/Anrufung Thargunitoths|Anrufung Thargunitoths]]"
-  - "[[Inhalt/Fertigkeiten/Anrufung Amazeroths|Anrufung Amazeroths]]"
-  - "[[Inhalt/Fertigkeiten/Anrufung Asfaloths|Anrufung Asfaloths]]"
-  - "[[Inhalt/Fertigkeiten/Anrufung Tasfarelels|Anrufung Tasfarelels]]"
-  - "[[Inhalt/Fertigkeiten/Anrufung Belzhorashs|Anrufung Belzhorashs]]"
-  - "[[Inhalt/Fertigkeiten/Anrufung Agrimoths|Anrufung Agrimoths]]"
+  - "[[Anrufung Lolgramoths]]"
+  - "[[Anrufung Thargunitoths]]"
+  - "[[Anrufung Amazeroths]]"
+  - "[[Anrufung Asfaloths]]"
+  - "[[Anrufung Tasfarelels]]"
+  - "[[Anrufung Belzhorashs]]"
+  - "[[Anrufung Agrimoths]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -19,9 +19,9 @@ Deine nächste Probe auf FF ist um +4 Punkte erleichtert.
 
 - **Hohe Qualität:** Erhöht die Erleichterung um +2.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Intervention (-8; *Reaktive* Anrufung (beliebiges Ereignis). Hohe Qualität ist nicht möglich.)
-Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion ausführen. Hohe Qualität ist nicht möglich.)
-
+- **Modifikationen:**
+  - Intervention (-8; *Reaktive* Anrufung (beliebiges Ereignis). Hohe Qualität ist nicht möglich.)
+  - Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion ausführen. Hohe Qualität ist nicht möglich.)
 - **Vorbereitungszeit:** 0 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -31,5 +31,12 @@ Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion au
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Lolgramoths|Anrufung Lolgramoths]], [[Inhalt/Fertigkeiten/Anrufung Thargunitoths|Anrufung Thargunitoths]], [[Inhalt/Fertigkeiten/Anrufung Amazeroths|Anrufung Amazeroths]], [[Inhalt/Fertigkeiten/Anrufung Asfaloths|Anrufung Asfaloths]], [[Inhalt/Fertigkeiten/Anrufung Tasfarelels|Anrufung Tasfarelels]], [[Inhalt/Fertigkeiten/Anrufung Belzhorashs|Anrufung Belzhorashs]], [[Inhalt/Fertigkeiten/Anrufung Agrimoths|Anrufung Agrimoths]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Anrufung Lolgramoths]]
+  - [[Anrufung Thargunitoths]]
+  - [[Anrufung Amazeroths]]
+  - [[Anrufung Asfaloths]]
+  - [[Anrufung Tasfarelels]]
+  - [[Anrufung Belzhorashs]]
+  - [[Anrufung Agrimoths]]
+- **Erlernen:** 10 EP

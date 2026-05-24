@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 747fa134-9f0e-4101-bc2c-7f50071395d3
+ID: 5b0bed3e-029b-4817-8095-fd807ff4d6e7
 Name: Ungesehener Beobachter
 title: Ungesehener Beobachter
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
-  - "[[Inhalt/Fertigkeiten/Vertrautenmagie|Vertrautenmagie]]"
+  - "[[Verständigung]]"
+  - "[[Vertrautenmagie]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Zibilja I
@@ -25,5 +25,9 @@ Du kannst dein Vertrautentier Tier in einem Radius von PW Vertrautenmagie Meilen
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verständigung|Verständigung]], [[Inhalt/Fertigkeiten/Vertrautenmagie|Vertrautenmagie]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Verständigung]]
+  - [[Vertrautenmagie]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hexen I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Zibilja I]]
+- **Erlernen:** 20 EP

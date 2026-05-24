@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 562cbae1-2d95-4fee-9478-2ab698976d0b
+ID: 30879932-0e0b-4c9f-bae6-bcf34ca8f484
 Name: Spinnenlauf (Tiergeist)
 title: Spinnenlauf (Tiergeist)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]]"
-  - "[[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]"
+  - "[[Gaben des Odun]]"
+  - "[[Gaben des Blutgeists]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tiergeist (Gebirgsbock)
@@ -15,5 +15,9 @@ $talent:Spinnenlauf$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]], [[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Gaben des Odun]]
+  - [[Gaben des Blutgeists]]
+- **Voraussetzungen:**
+  - Vorteil [[Tiergeist (Gebirgsbock)]]
+- **Erlernen:** 20 EP

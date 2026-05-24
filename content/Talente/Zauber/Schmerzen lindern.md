@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: fe42db78-735d-4231-9c2d-4f0a16234077
+ID: ed3e1319-51d1-4634-9d1c-68f7064b9fd3
 Name: Schmerzen lindern
 title: Schmerzen lindern
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
+  - "[[Einfluss]]"
+  - "[[Humus]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I
@@ -25,5 +25,9 @@ Dein Zauber nimmt dem Ziel Schmerzen. Wundabzüge sinken um 2 Punkte. Erleidet d
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Humus|Humus]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Humus]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 10 EP

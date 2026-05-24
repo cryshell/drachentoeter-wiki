@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 53a69220-f638-4d55-8491-070bff7bfbe9
+ID: a1ae1d9f-41e3-4914-85ef-a8af32bd70c9
 Name: Ucuris Geleit
 title: Ucuris Geleit
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Licht|Licht]]"
+  - "[[Licht]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Praiosgeweihten I
@@ -23,5 +23,8 @@ Ein Licht weist dir einen möglichst leicht gangbaren Weg zum nächsten zwölfg�
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Licht|Licht]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Licht]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Praiosgeweihten I]]
+- **Erlernen:** 10 EP

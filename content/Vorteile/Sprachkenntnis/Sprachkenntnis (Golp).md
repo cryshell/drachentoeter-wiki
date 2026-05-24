@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: bce16cf6-6294-4419-b2eb-b8553af153a5
+ID: 7f3cfc1c-2cb8-4ebc-8b82-c294fb9038c3
 Name: Sprachkenntnis (Golp)
 title: Sprachkenntnis (Golp)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Golp gehört zur Schratisch-Familie.
 
 ---
 
-- **Kosten:** 10 EP
+- **Erlernen:** 10 EP

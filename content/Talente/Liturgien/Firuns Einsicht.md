@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 4542d789-f9e2-44c9-af3e-686d700e8c6c
+ID: 2b3a5c1f-2fe2-4265-b6dc-413964f959ca
 Name: Firuns Einsicht
 title: Firuns Einsicht
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wildnis|Wildnis]]"
+  - "[[Wildnis]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Firungeweihten I
@@ -23,5 +23,8 @@ Du rufst Firuns Ring herbei, der dir den Aufenthaltsort von Lebewesen im Radius 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wildnis|Wildnis]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Wildnis]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Firungeweihten I]]
+- **Erlernen:** 20 EP

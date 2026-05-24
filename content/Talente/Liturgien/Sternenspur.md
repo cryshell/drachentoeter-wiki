@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: f2f38300-ddca-421e-9289-aa1d8357104a
+ID: edecf97c-6108-4948-86fb-a9e2190bb02a
 Name: Sternenspur
 title: Sternenspur
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einsicht|Einsicht]]"
-  - "[[Inhalt/Fertigkeiten/Nächtlicher Schatten|Nächtlicher Schatten]]"
-  - "[[Inhalt/Fertigkeiten/Stiller Wanderer|Stiller Wanderer]]"
+  - "[[Einsicht]]"
+  - "[[Nächtlicher Schatten]]"
+  - "[[Stiller Wanderer]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Avesgeweihten I
@@ -26,5 +26,10 @@ Du kannst mit einer einfachen Berührung einen leuchtenden Stern als Markierung 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einsicht|Einsicht]], [[Inhalt/Fertigkeiten/Nächtlicher Schatten|Nächtlicher Schatten]], [[Inhalt/Fertigkeiten/Stiller Wanderer|Stiller Wanderer]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Einsicht]]
+  - [[Nächtlicher Schatten]]
+  - [[Stiller Wanderer]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Nandusgeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Avesgeweihten I]]
+- **Erlernen:** 10 EP

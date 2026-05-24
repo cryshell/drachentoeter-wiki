@@ -1,16 +1,16 @@
 ---
 Entitätstyp: Talent
-ID: 8f18774d-a9ae-470a-b6a7-628a6fe27801
+ID: 208faf65-d568-4017-bcba-181863337942
 Name: Manifesto Element
 title: Manifesto Element
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eis|Eis]]"
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
-  - "[[Inhalt/Fertigkeiten/Feuer|Feuer]]"
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Wasser|Wasser]]"
+  - "[[Eis]]"
+  - "[[Erz]]"
+  - "[[Feuer]]"
+  - "[[Humus]]"
+  - "[[Luft]]"
+  - "[[Wasser]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Shakagra I
@@ -24,7 +24,8 @@ Du beschwörst eine etwa faustgroße Menge oder kleine Manifestation des Element
 - **Luft:** einen frischen Windhauch rufen, einen Wohlgeruch erzeugen, einen kleinen Luftwirbel erschaffen.
 - **Wasser:** einen Becher mit Wasser füllen, deine Hände abspülen, eine Pfütze bilden, tagsüber einen kleinen Regenbogen glitzern lassen.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Demanifesto (-4; du kannst die Manifestation nach Belieben verschwinden und wieder auftauchen lassen.)
+- **Modifikationen:**
+  - Demanifesto (-4; du kannst die Manifestation nach Belieben verschwinden und wieder auftauchen lassen.)
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -35,5 +36,13 @@ Du beschwörst eine etwa faustgroße Menge oder kleine Manifestation des Element
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eis|Eis]], [[Inhalt/Fertigkeiten/Erz|Erz]], [[Inhalt/Fertigkeiten/Feuer|Feuer]], [[Inhalt/Fertigkeiten/Humus|Humus]], [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Wasser|Wasser]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Eis]]
+  - [[Erz]]
+  - [[Feuer]]
+  - [[Humus]]
+  - [[Luft]]
+  - [[Wasser]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 10 EP

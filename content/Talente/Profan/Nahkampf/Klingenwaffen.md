@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 634d94e5-a2cb-4437-9b7b-73f63a1b5ee4
+ID: ca872106-0269-4f5f-81a5-1dc633b1dd5f
 Name: Klingenwaffen
 title: Klingenwaffen
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Nahkampf|Nahkampf]]"
+  - "[[Nahkampf]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Klingenwaffen umfassen alle Varianten von Schwertern, Säbeln und Fechtwaffen.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Nahkampf|Nahkampf]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Nahkampf]]
+- **Erlernen:** 40 EP

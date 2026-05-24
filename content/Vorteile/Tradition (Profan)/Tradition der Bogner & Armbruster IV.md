@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 1ee3a0e0-281e-4558-82bb-91ccc8a2ce0b
+ID: bdb7b15b-7283-4639-951c-830a8101b070
 Name: "Tradition der Bogner & Armbruster IV"
 title: "Tradition der Bogner & Armbruster IV"
 Kategorie: Tradition (Profan)
@@ -14,7 +14,7 @@ Kosten: 20
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Fingerfertigkeit|FF]] 10
   - Vorteil [[Tradition der Bogner & Armbruster III]]

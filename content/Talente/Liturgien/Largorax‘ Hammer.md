@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 7a186944-41b7-4860-8b55-cc962104b2b9
+ID: 5695c5bf-1066-456d-94e7-0b23151546d0
 Name: Largorax‘ Hammer
 title: Largorax‘ Hammer
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heiliges Erz|Heiliges Erz]]"
-  - "[[Inhalt/Fertigkeiten/Heiliges Handwerk|Heiliges Handwerk]]"
+  - "[[Heiliges Erz]]"
+  - "[[Heiliges Handwerk]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Angroschgeweihten I
@@ -26,5 +26,9 @@ Du rufst Largorax‘ Hammer herbei. Du kannst mit ihm einen eingestürzten Stoll
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heiliges Erz|Heiliges Erz]], [[Inhalt/Fertigkeiten/Heiliges Handwerk|Heiliges Handwerk]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Heiliges Erz]]
+  - [[Heiliges Handwerk]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Angroschgeweihten I]]
+- **Erlernen:** 40 EP

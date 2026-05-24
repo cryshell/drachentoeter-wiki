@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 60c30bb7-31e2-4808-a35c-7e4090af04cf
+ID: c9b59084-2523-42ba-aaaf-dc2e0b03a68f
 Name: Wachsamkeit
 title: Wachsamkeit
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wahrnehmung|Wahrnehmung]]"
+  - "[[Wahrnehmung]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Wachsamkeit fasst den passiven Einsatz deiner Sinne zusammen. Mit ihr entdeckst 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wahrnehmung|Wahrnehmung]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Wahrnehmung]]
+- **Erlernen:** 40 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2cb32598-f978-44bb-b5ea-341f3613598d
+ID: 29164c9b-ab1f-466a-8ef9-ec9b7be76c95
 Name: Wahre Namen Asfaloths IV
 title: Wahre Namen Asfaloths IV
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Kosten: 20
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - MeisterAttribut [[Klugheit|KL]] 10

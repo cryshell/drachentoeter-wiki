@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6f61f249-0658-4138-a5dd-1f778dc5ba27
+ID: 33523d0c-e280-4b76-93a0-baa0133f9623
 Name: Flinke Anrufung
 title: Flinke Anrufung
 Kategorie: Kreis der Verdammnis
@@ -17,8 +17,10 @@ Du darfst die Aktion Übernatürliches wirken für Anrufungen in einer Bonusakti
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 10
   - Vorteil [[Paktierer I]]
-- **Siehe auch:** [[Aktion Übernatürliches wirken]], [[Bonusaktion]]
+- **Siehe auch:**
+  - [[Aktion Übernatürliches wirken]]
+  - [[Bonusaktion]]

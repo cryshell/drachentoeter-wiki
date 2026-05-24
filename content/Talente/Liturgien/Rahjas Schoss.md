@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 5c70b49a-8f55-4781-be99-feb71c5e4f84
+ID: a5e8d39b-7e4e-47a1-b71a-412bc32ed5ef
 Name: Rahjas Schoss
 title: Rahjas Schoss
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Harmonie|Harmonie]]"
+  - "[[Harmonie]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rahjageweihten I
@@ -25,5 +25,8 @@ Du rufst das heilige Levthansband herbei, das sich um das Ziel legt und es binde
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Harmonie|Harmonie]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Harmonie]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rahjageweihten I]]
+- **Erlernen:** 40 EP

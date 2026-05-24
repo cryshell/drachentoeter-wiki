@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 69d5e617-dec1-48ed-8bd8-bf1d41b82a52
+ID: debe64ce-448b-4985-aee6-56b5f0b52623
 Name: Singendes Zeichen
 title: Singendes Zeichen
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Illusion|Illusion]]"
-  - "[[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]"
+  - "[[Illusion]]"
+  - "[[Zauberzeichen]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Alchemisten I
@@ -14,7 +14,8 @@ Voraussetzungen: Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition 
 Das Zeichen wird in einem Durchmesser von 8 Fingern auf einem maximal schrankgroßen Objekt angebracht. Wird es von jemandem berührt, so ertönt ein lautes, akustisches Signal.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Zone (-4, 8 AsP; kann auf einer beliebigen Fläche angebracht werden und schützt einen Raum in einem Radius von bis zu 4 Schritt um das Zeichen; das Signal ertönt beim Betreten. *Ortsgebundenes* Zeichen.)
+- **Modifikationen:**
+  - Zone (-4, 8 AsP; kann auf einer beliebigen Fläche angebracht werden und schützt einen Raum in einem Radius von bis zu 4 Schritt um das Zeichen; das Signal ertönt beim Betreten. *Ortsgebundenes* Zeichen.)
 - **Vorbereitungszeit:** 2 Minuten
 - **Ziel:** passendes Zauberzeichen
 - **Reichweite:** Berührung
@@ -25,5 +26,9 @@ Das Zeichen wird in einem Durchmesser von 8 Fingern auf einem maximal schrankgro
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Illusion|Illusion]], [[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Illusion]]
+  - [[Zauberzeichen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Alchemisten I]]
+- **Erlernen:** 10 EP

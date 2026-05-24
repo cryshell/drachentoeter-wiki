@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: a4d8b838-ee1b-4dfe-888b-6b9c14700347
+ID: ba8c3011-a99e-41b4-95c1-f3fa6499fe97
 Name: Rat der Ahnen
 title: Rat der Ahnen
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Geister rufen]]"
+  - "[[Verständigung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Achaz) I ODER Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Nivesen) I ODER Vorteil Tradition der Schamanen (Orks) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Waldmenschen) I
@@ -14,7 +14,8 @@ Voraussetzungen: Vorteil Tradition der Schamanen (Achaz) I ODER Vorteil Traditio
 Du rufst einen Totengeist in den Körper eines seiner Nachfahren herab. Dort verhält er sich seinem Charakter gemäß; er kann Rat geben oder die Stammeskrieger anführen. Es ist nicht möglich, die Bindung zu lösen. Der Totengeist entscheidet selbst, wann er den Körper verlässt – notfalls ist der Zauber Großer Geisterbann nötig. Der Tod des Verstorbenen darf maximal 1 Jahr zurückliegen.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Alte Seele (-4 pro Erhöhung; erhöht den maximalen Abstand zum Todeszeitpunkt auf das Zehnfache.)
+- **Modifikationen:**
+  - Alte Seele (-4 pro Erhöhung; erhöht den maximalen Abstand zum Todeszeitpunkt auf das Zehnfache.)
 - **Vorbereitungszeit:** 1 Stunde
 - **Ziel:** Humanoid
 - **Reichweite:** Berührung
@@ -25,5 +26,9 @@ Du rufst einen Totengeist in den Körper eines seiner Nachfahren herab. Dort ver
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Geister rufen]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Achaz) I ODER Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Nivesen) I ODER Vorteil Tradition der Schamanen (Orks) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+- **Erlernen:** 10 EP

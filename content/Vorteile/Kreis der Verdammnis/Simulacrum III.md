@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2e8f6c87-5483-4acd-ae4d-a32b91b18db5
+ID: 3cb55215-8a81-4566-b3a0-6085b1661e3c
 Name: Simulacrum III
 title: Simulacrum III
 Kategorie: Kreis der Verdammnis
@@ -14,7 +14,7 @@ Der Vorteil Regeneration steigt um 1 Stufe.
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 10
   - Vorteil [[Simulacrum II]]

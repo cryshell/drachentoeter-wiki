@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: e7987a14-ffee-4148-b585-5615c54e5fd8
+ID: 091bfdd8-4460-4fdb-b81a-146d27795a3d
 Name: Großer Giftbann
 title: Großer Giftbann
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heilung|Heilung]]"
-  - "[[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]]"
+  - "[[Heilung]]"
+  - "[[Heim und Herd]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Traviageweihten I
@@ -26,5 +26,9 @@ Du segnest eine Mahlzeit samt Getränken für bis zu 32 Personen. Die Mahlzeit w
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heilung|Heilung]], [[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Heilung]]
+  - [[Heim und Herd]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Perainegeweihten I ODER Vorteil Tradition der Traviageweihten I]]
+- **Erlernen:** 10 EP

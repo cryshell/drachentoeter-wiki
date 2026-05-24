@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 933fbf4b-adac-4ad8-a39d-f8a358c7196d
+ID: 042ac617-f4c4-465d-93c6-8efa2bc5590b
 Name: Nagrachs Hauch
 title: Nagrachs Hauch
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Belshirashs|Anrufung Belshirashs]]"
+  - "[[Anrufung Belshirashs]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,9 +13,9 @@ Du senkst die Temperaturstufe in einem Radius von 8 Schritt um dich herum um 2 S
 
 - **Hohe Qualität:** Senkt die Temperaturstufe um eine weitere Stufe oder verdoppelt den Radius.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Ferne Zone (-4, Zone, 8 Schritt)
-Nicht verfroren (-4; du bist von der Wirkung ausgenommen.)
-
+- **Modifikationen:**
+  - Ferne Zone (-4, Zone, 8 Schritt)
+  - Nicht verfroren (-4; du bist von der Wirkung ausgenommen.)
 - **Vorbereitungszeit:** 8 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -26,5 +26,6 @@ Nicht verfroren (-4; du bist von der Wirkung ausgenommen.)
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Belshirashs|Anrufung Belshirashs]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Anrufung Belshirashs]]
+- **Erlernen:** 40 EP

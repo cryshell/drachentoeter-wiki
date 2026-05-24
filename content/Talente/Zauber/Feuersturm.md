@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 1f92f9d5-aade-4d3e-91e4-c59483b2d94d
+ID: 2096b48a-2216-4867-a3ef-d6f5741ad917
 Name: Feuersturm
 title: Feuersturm
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Feuer|Feuer]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Feuer]]"
+  - "[[Umwelt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I
@@ -25,5 +25,9 @@ Du erzeugst einen kleinen Feuersturm mit einem Radius von 2 Schritt. Jedes Wesen
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Feuer|Feuer]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Feuer]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

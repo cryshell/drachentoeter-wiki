@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: ae3478a9-9966-4b01-887f-4f83fe4b766f
+ID: 1b8aa00e-6901-430e-968e-980728a7f706
 Name: Launen des Windes
 title: Launen des Windes
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Ringrituale|Ringrituale]]"
+  - "[[Eigenschaften]]"
+  - "[[Luft]]"
+  - "[[Ringrituale]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Geoden I
@@ -25,5 +25,10 @@ Dein Körper wird leicht wie eine Feder, die emporschwebt und vom Wind fortgetra
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Ringrituale|Ringrituale]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Luft]]
+  - [[Ringrituale]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Geoden I]]
+- **Erlernen:** 20 EP

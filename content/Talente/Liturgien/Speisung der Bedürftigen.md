@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 625e5835-8349-47ea-b8d3-c80488dfdccb
+ID: 7469688d-b26d-4a5b-95e6-631379222ece
 Name: Speisung der Bedürftigen
 title: Speisung der Bedürftigen
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heilung|Heilung]]"
-  - "[[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]]"
+  - "[[Heilung]]"
+  - "[[Heim und Herd]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Traviageweihten I
@@ -28,5 +28,9 @@ Wegzehrung der heiligen Selma (-4; das Essen bleibt eine Woche haltbar.)
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heilung|Heilung]], [[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Heilung]]
+  - [[Heim und Herd]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Perainegeweihten I ODER Vorteil Tradition der Traviageweihten I]]
+- **Erlernen:** 10 EP

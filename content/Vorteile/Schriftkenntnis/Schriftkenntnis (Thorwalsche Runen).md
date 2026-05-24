@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0a9ed413-6100-4dba-970c-4046a66aae46
+ID: c4fc3987-54f5-42be-81ac-1a81ba2b3084
 Name: Schriftkenntnis (Thorwalsche Runen)
 title: Schriftkenntnis (Thorwalsche Runen)
 Kategorie: Schriftkenntnis
@@ -11,4 +11,4 @@ Schriften umfassen sowohl die Fähigkeit die entsprechenden Zeichen lesen als au
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

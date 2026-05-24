@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: f1e95b0f-43b7-4bbb-ac7b-6af564299046
+ID: 85754ddf-039e-4c49-a81b-d9d733dcbb59
 Name: Hypnose
 title: Hypnose
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Vampirische Kräfte|Vampirische Kräfte]]"
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Vampirische Kräfte]]"
+  - "[[Einfluss]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Feylamia
@@ -14,10 +14,10 @@ Voraussetzungen: Vorteil Tradition der Feylamia
 Dein Ziel muss einen einzigen Befehl von dir ausführen und darf währenddessen nicht gegen dich vorgehen. Widerspricht der Befehl den tiefsten Überzeugungen oder dem Selbsterhaltungstrieb des Zieles, kann es mit einer MU-Gegenprobe widerstehen. Eine Verschachtelung von Befehlen („Folge allen weiteren Befehlen!“) ist nicht möglich.
 
 - **Probenschwierigkeit:** Magieresistenz
-- **Modifikationen:** Sofort (-4, 0 Aktionen, 8 AsP; es muss ein kurzer Befehl sein.)
-Später (-4; der Zauber wirkt erst, sobald ein einfacher Auslöser eintritt.)
-Dauerhafter Diener (-4, 4 Minuten, Berührung, Wirkungsdauer 16 Tage, 32 AsP; du kannst bis zu 16 Befehle äußern.)
-
+- **Modifikationen:**
+  - Sofort (-4, 0 Aktionen, 8 AsP; es muss ein kurzer Befehl sein.)
+  - Später (-4; der Zauber wirkt erst, sobald ein einfacher Auslöser eintritt.)
+  - Dauerhafter Diener (-4, 4 Minuten, Berührung, Wirkungsdauer 16 Tage, 32 AsP; du kannst bis zu 16 Befehle äußern.)
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** Humanoid
 - **Reichweite:** 4 Schritt
@@ -28,5 +28,9 @@ Dauerhafter Diener (-4, 4 Minuten, Berührung, Wirkungsdauer 16 Tage, 32 AsP; du
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Vampirische Kräfte|Vampirische Kräfte]], [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Vampirische Kräfte]]
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Feylamia]]
+- **Erlernen:** 40 EP

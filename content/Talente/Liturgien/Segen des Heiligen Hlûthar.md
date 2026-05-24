@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: cd6a01ab-5dcf-4860-826c-03baa83370a7
+ID: a02f22fa-b813-4cb5-824b-606fabeeb8e1
 Name: Segen des Heiligen Hlûthar
 title: Segen des Heiligen Hlûthar
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heerführung|Heerführung]]"
-  - "[[Inhalt/Fertigkeiten/Gutes Gold|Gutes Gold]]"
+  - "[[Heerführung]]"
+  - "[[Gutes Gold]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rondrageweihten I ODER Vorteil Tradition der Korgeweihten I
@@ -14,7 +14,8 @@ Voraussetzungen: Vorteil Tradition der Rondrageweihten I ODER Vorteil Tradition 
 Du wählst bis zu 8 Mitstreiter in einem Radius von 4 Schritt. Sie erhalten Vorteil auf Gegenproben gegen *Verängstigt* und *Panisch*. Erlaubt *Aufrechterhalten*.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Mut der Schlacht (-8, 16 KaP, Wirkungsdauer 4 Stunden; die Wirkung betrifft alle Mitglieder des Heeres, dem du angehörst.)
+- **Modifikationen:**
+  - Mut der Schlacht (-8, 16 KaP, Wirkungsdauer 4 Stunden; die Wirkung betrifft alle Mitglieder des Heeres, dem du angehörst.)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -25,5 +26,9 @@ Du wählst bis zu 8 Mitstreiter in einem Radius von 4 Schritt. Sie erhalten Vort
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heerführung|Heerführung]], [[Inhalt/Fertigkeiten/Gutes Gold|Gutes Gold]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Heerführung]]
+  - [[Gutes Gold]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rondrageweihten I ODER Vorteil Tradition der Korgeweihten I]]
+- **Erlernen:** 20 EP

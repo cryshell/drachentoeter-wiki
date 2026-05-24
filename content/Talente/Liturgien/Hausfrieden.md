@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: d6cdad07-9375-4184-be5d-8e23d4e93063
+ID: ba920eb5-745a-4a5c-b82e-3f81f9fb11be
 Name: Hausfrieden
 title: Hausfrieden
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]]"
+  - "[[Heim und Herd]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Traviageweihten I
@@ -23,5 +23,8 @@ Du segnest ein Zuhause. Alle Lebewesen, verfallen in eine friedfertige Stimmung,
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Heim und Herd]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Traviageweihten I]]
+- **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 465cdc59-a9f0-4453-b73e-15e55343078c
+ID: 1e559aac-923f-4548-a090-895612925f05
 Name: Gelehrt
 title: Gelehrt
 Kategorie: Profan
@@ -14,7 +14,8 @@ Wenn du bei Proben im Rahmen von Informationssuchen, Forschungen und Sprachkunst
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 4
-- **Siehe auch:** [[Informationen suchen]]
+- **Siehe auch:**
+  - [[Informationen suchen]]

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 8d53c88b-dcbb-4ebb-8d63-83c69bbc615d
+ID: eadaf3a1-1c86-498b-a8e5-9d48aeac3a72
 Name: Melodie der Beruhigung
 title: Melodie der Beruhigung
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]"
+  - "[[Einfluss]]"
+  - "[[Zaubermelodien]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zauberbarden I
@@ -25,5 +25,9 @@ Deine Melodie nimmt Zuhörern, die sich während der Wirkungsdauer in einem Radi
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Zaubermelodien]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zauberbarden I]]
+- **Erlernen:** 20 EP

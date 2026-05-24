@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 68735065-f84e-4a4c-aff9-c1a8268648a0
+ID: fe03df3a-4fb8-4718-a696-a1de4347dbc0
 Name: Wundheilung
 title: Wundheilung
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heilkunde|Heilkunde]]"
+  - "[[Heilkunde]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Wundheilung ermöglicht es dir, im Kampf entstandene Blutungen zu stoppen und di
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heilkunde|Heilkunde]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Heilkunde]]
+- **Erlernen:** 40 EP

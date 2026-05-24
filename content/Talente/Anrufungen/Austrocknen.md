@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: e0062943-4cbf-456b-97a4-e2719263c207
+ID: f2869b8e-d058-4f6c-9402-34a5013288bd
 Name: Austrocknen
 title: Austrocknen
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Charyptoroths|Anrufung Charyptoroths]]"
+  - "[[Anrufung Charyptoroths]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -22,5 +22,6 @@ Das Opfer trocknet langsam aus. Jede Stunde erleidet es 1 Wunde. Stirbt es währ
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Charyptoroths|Anrufung Charyptoroths]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Anrufung Charyptoroths]]
+- **Erlernen:** 40 EP

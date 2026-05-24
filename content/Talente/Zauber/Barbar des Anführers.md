@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: e3a75ab5-4189-4712-a4a0-4a9bbd06132b
+ID: 64209858-e7ae-4ea5-988c-fbc0fc449382
 Name: Barbar des Anführers
 title: Barbar des Anführers
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]]"
-  - "[[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]"
+  - "[[Einfluss]]"
+  - "[[Geister der Stärkung]]"
+  - "[[Geister rufen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Orks) I
@@ -26,5 +26,10 @@ Du bindest einen Oger an dich, der dir fortan aufs Wort gehorcht.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]], [[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Geister der Stärkung]]
+  - [[Geister rufen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Orks) I]]
+- **Erlernen:** 20 EP

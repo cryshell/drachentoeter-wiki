@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 40995919-c9f0-43b4-bb8e-612431632cc7
+ID: 70524e36-2891-4c21-b8ab-fa776e320f13
 Name: Kristallbindung
 title: Kristallbindung
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
+  - "[[Kristallmagie]]"
+  - "[[Objekt]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I
@@ -14,7 +14,8 @@ Voraussetzungen: Vorteil Tradition der Kristallomanten I
 Du bindest einen mindestens daumennagelgroßen Kristall an dich und bestimmst eine Fertigkeit. Der Kristall gilt als passender gebundener Kristall für diese Fertigkeit und erfüllt damit die Bedingung der Kristallomantischen Tradition. Außerdem ist der Kristall unzerstörbar. Du kannst mehrere solche Kristalle besitzen.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Mächtiger Kristall (16 AsP, davon 2/4/6/8 gAsP; Zauber mit der entsprechenden Fertigkeit sind um +1/2/3/4 erleichtert.)
+- **Modifikationen:**
+  - Mächtiger Kristall (16 AsP, davon 2/4/6/8 gAsP; Zauber mit der entsprechenden Fertigkeit sind um +1/2/3/4 erleichtert.)
 - **Vorbereitungszeit:** 1 Stunde
 - **Ziel:** Objekt
 - **Reichweite:** Berührung
@@ -26,5 +27,9 @@ Du bindest einen mindestens daumennagelgroßen Kristall an dich und bestimmst ei
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]], [[Inhalt/Fertigkeiten/Objekt|Objekt]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Kristallmagie]]
+  - [[Objekt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I]]
+- **Erlernen:** 10 EP

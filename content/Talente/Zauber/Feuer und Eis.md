@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 47d069f0-31e5-49d7-ae83-f546b8b11ff1
+ID: 9a82df72-b599-488f-a84d-06c109487180
 Name: Feuer und Eis
 title: Feuer und Eis
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eis|Eis]]"
-  - "[[Inhalt/Fertigkeiten/Feuer|Feuer]]"
-  - "[[Inhalt/Fertigkeiten/Schalenzauber|Schalenzauber]]"
+  - "[[Eis]]"
+  - "[[Feuer]]"
+  - "[[Schalenzauber]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I
@@ -25,5 +25,10 @@ Du kannst die Schale auf eine Temperatur zwischen niederhöllische Kälte und La
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eis|Eis]], [[Inhalt/Fertigkeiten/Feuer|Feuer]], [[Inhalt/Fertigkeiten/Schalenzauber|Schalenzauber]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Eis]]
+  - [[Feuer]]
+  - [[Schalenzauber]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 10 EP

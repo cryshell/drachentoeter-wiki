@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: f2e7c145-8dfc-47ea-b684-3cdbc5bbedab
+ID: 6b6ce83c-29ce-4d6a-89c3-d5723cce7211
 Name: Neun Leben
 title: Neun Leben
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Aphasmayras|Anrufung Aphasmayras]]"
+  - "[[Anrufung Aphasmayras]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Du setzt deinem Leben ein Ende. Nach 1 Stunde erwachst du wieder in deinem Körp
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Aphasmayras|Anrufung Aphasmayras]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Anrufung Aphasmayras]]
+- **Erlernen:** 40 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: fd306c85-b58f-4152-b297-c248742d4731
+ID: 2ce7a323-36bc-43df-b07e-7ab046e8fe84
 Name: Tempus Stasis
 title: Tempus Stasis
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Temporal|Temporal]]"
+  - "[[Temporal]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I
@@ -24,5 +24,8 @@ Du hältst in einem Radius von 8 Schritt die Zeit an – für alles außer dich.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Temporal|Temporal]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Temporal]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 40 EP

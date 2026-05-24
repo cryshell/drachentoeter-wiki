@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0df4efb8-d1d5-4e08-bbe4-7dcaefdc5861
+ID: 7917081e-ed81-473d-8693-cfa5608b07d6
 Name: Eisenaffine Aura
 title: Eisenaffine Aura
 Kategorie: Magisch
@@ -14,7 +14,8 @@ Erschwernisse durch den Bann des Eisens sinken um 8 Punkte.
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I]]
-- **Siehe auch:** [[Bann des Eisens]]
+- **Siehe auch:**
+  - [[Bann des Eisens]]

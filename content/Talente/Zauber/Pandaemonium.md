@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 95d39610-6d2f-4b8e-bcd2-4e015131eaf6
+ID: 6a62c394-4d9e-4ddc-9b1e-eb7571ca5562
 Name: Pandaemonium
 title: Pandaemonium
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
+  - "[[Dämonisch]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I
@@ -24,5 +24,8 @@ In einem Radius von 4 Schritt um das Ziel brechen Klauen, Mäuler und Tentakel h
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Dämonisch]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

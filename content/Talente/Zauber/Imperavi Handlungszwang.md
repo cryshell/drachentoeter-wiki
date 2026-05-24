@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 3cae8aab-1269-4371-8173-138625c832eb
+ID: 2754b2a9-50de-42e5-a513-8b4733a6607d
 Name: Imperavi Handlungszwang
 title: Imperavi Handlungszwang
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Einfluss]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I
@@ -13,10 +13,10 @@ Voraussetzungen: Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition de
 Dein Ziel muss einen einzigen Befehl von dir ausführen und darf währenddessen nicht gegen dich vorgehen. Widerspricht der Befehl den tiefsten Überzeugungen oder dem Selbsterhaltungstrieb des Zieles, kann es mit einer MU-Gegenprobe widerstehen. Eine Verschachtelung von Befehlen („Folge allen weiteren Befehlen!“) ist nicht möglich.
 
 - **Probenschwierigkeit:** Magieresistenz
-- **Modifikationen:** Sofort (-4, 0 Aktionen, 8 AsP; es muss ein kurzer Befehl sein.)
-Später (-4; der Zauber wirkt erst, sobald ein einfacher Auslöser eintritt.)
-Dauerhafter Diener (-4, 4 Minuten, Berührung, Wirkungsdauer 16 Tage, 32 AsP; du kannst bis zu 16 Befehle äußern.)
-
+- **Modifikationen:**
+  - Sofort (-4, 0 Aktionen, 8 AsP; es muss ein kurzer Befehl sein.)
+  - Später (-4; der Zauber wirkt erst, sobald ein einfacher Auslöser eintritt.)
+  - Dauerhafter Diener (-4, 4 Minuten, Berührung, Wirkungsdauer 16 Tage, 32 AsP; du kannst bis zu 16 Befehle äußern.)
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** Humanoid
 - **Reichweite:** 2 Schritt
@@ -27,5 +27,8 @@ Dauerhafter Diener (-4, 4 Minuten, Berührung, Wirkungsdauer 16 Tage, 32 AsP; du
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 40 EP

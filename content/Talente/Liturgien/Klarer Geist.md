@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 99c8f32e-a376-4141-ba79-01d24cfcff74
+ID: bfdd26c3-8ad2-43ba-ae1f-3fc494ae568a
 Name: Klarer Geist
 title: Klarer Geist
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einsicht|Einsicht]]"
+  - "[[Einsicht]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Nandusgeweihten I
@@ -23,5 +23,8 @@ Der Gesegnete erlangt Klarheit und ist immun gegen den Zustand *Verwirrt*. Wenn 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einsicht|Einsicht]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einsicht]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Nandusgeweihten I]]
+- **Erlernen:** 20 EP

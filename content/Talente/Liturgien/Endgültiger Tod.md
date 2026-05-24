@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 9456ab34-b702-4a95-815a-2b612ee3c985
+ID: a3c1aecb-ca0f-4631-bfda-cc79cfa41462
 Name: Endgültiger Tod
 title: Endgültiger Tod
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Tod|Tod]]"
+  - "[[Tod]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der V’Sargeweihten I
@@ -24,5 +24,8 @@ Das Herz deines Opfers bleibt schlagartig stehen. Nach 4 und 8 Züge erleidet es
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Tod|Tod]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Tod]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der V’Sargeweihten I]]
+- **Erlernen:** 20 EP

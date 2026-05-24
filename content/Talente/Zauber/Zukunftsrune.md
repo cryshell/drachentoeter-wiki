@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: cbaa084e-fd70-41a2-81d3-0245790e67e4
+ID: 709af7cf-94f1-40af-8ef0-b67337a13e0b
 Name: Zukunftsrune
 title: Zukunftsrune
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Zauberrunen|Zauberrunen]]"
+  - "[[Hellsicht]]"
+  - "[[Zauberrunen]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Runenmagier
@@ -24,5 +24,9 @@ Die Rune wird in einem Durchmesser von 8 Fingern auf einem Wesen angebracht. Wen
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Zauberrunen|Zauberrunen]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Hellsicht]]
+  - [[Zauberrunen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Runenmagier]]
+- **Erlernen:** 10 EP

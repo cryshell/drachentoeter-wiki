@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 268e8f34-5d26-4fa5-b6a9-9d3337642566
+ID: eff42f48-cd93-42b2-92a7-28b48316a7f0
 Name: "Beiß auf Granit!"
 title: "Beiß auf Granit!"
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hexenflüche|Hexenflüche]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
+  - "[[Hexenflüche]]"
+  - "[[Objekt]]"
+  - "[[Verwandlung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hexen I
@@ -25,5 +25,10 @@ Jegliche feste Nahrung verwandelt sich in eine ungenießbare Substanz deiner Wah
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hexenflüche|Hexenflüche]], [[Inhalt/Fertigkeiten/Objekt|Objekt]], [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Hexenflüche]]
+  - [[Objekt]]
+  - [[Verwandlung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hexen I]]
+- **Erlernen:** 20 EP

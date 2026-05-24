@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 9699a236-ee77-4529-83c6-6756158359a0
+ID: 10c86f78-58a2-4048-ab78-caad4953324c
 Name: Hilfreiche Tatze, rettende Schwinge (Tiergeist)
 title: Hilfreiche Tatze, rettende Schwinge (Tiergeist)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]]"
-  - "[[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]"
+  - "[[Gaben des Odun]]"
+  - "[[Gaben des Blutgeists]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tiergeist (Fischotter)
@@ -15,5 +15,9 @@ $talent:Hilfreiche Tatze, rettende Schwinge$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]], [[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Gaben des Odun]]
+  - [[Gaben des Blutgeists]]
+- **Voraussetzungen:**
+  - Vorteil [[Tiergeist (Fischotter)]]
+- **Erlernen:** 10 EP

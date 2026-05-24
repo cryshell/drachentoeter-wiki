@@ -1,18 +1,19 @@
 ---
 Entitätstyp: Talent
-ID: 23b36266-e6ea-4023-8470-660fde9a588a
+ID: fb40a0b9-8c72-4f57-9f72-b0e6499b53f1
 Name: Lustlosigkeit
 title: Lustlosigkeit
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Aphestadils|Anrufung Aphestadils]]"
+  - "[[Anrufung Aphestadils]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
 Das Ziel erhält die Schwäche „Lustlosigkeit“.
 
 - **Probenschwierigkeit:** MU
-- **Modifikationen:** Permanenz (-4, bis die Bindung gelöst wird, 4 GuP, davon 1 gGuP.)
+- **Modifikationen:**
+  - Permanenz (-4, bis die Bindung gelöst wird, 4 GuP, davon 1 gGuP.)
 - **Vorbereitungszeit:** 4 Minuten
 - **Ziel:** Humanoid
 - **Reichweite:** 16 Schritt
@@ -23,5 +24,6 @@ Das Ziel erhält die Schwäche „Lustlosigkeit“.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Aphestadils|Anrufung Aphestadils]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Anrufung Aphestadils]]
+- **Erlernen:** 10 EP

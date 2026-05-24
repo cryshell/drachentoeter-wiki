@@ -1,25 +1,25 @@
 ---
 Entitätstyp: Talent
-ID: 36048e4b-38bd-4bb5-a4a1-7cb076c6a6c3
+ID: 7b1bfd1f-0723-4c84-b999-9a346a221cfd
 Name: "Mirakel: CH"
 title: "Mirakel: CH"
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Vergessen|Vergessen]]"
-  - "[[Inhalt/Fertigkeiten/Wildnis|Wildnis]]"
-  - "[[Inhalt/Fertigkeiten/Wissen|Wissen]]"
-  - "[[Inhalt/Fertigkeiten/Wachstum|Wachstum]]"
-  - "[[Inhalt/Fertigkeiten/Licht|Licht]]"
-  - "[[Inhalt/Fertigkeiten/Harmonie|Harmonie]]"
-  - "[[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]]"
-  - "[[Inhalt/Fertigkeiten/Friede|Friede]]"
-  - "[[Inhalt/Fertigkeiten/Fröhlicher Wanderer|Fröhlicher Wanderer]]"
-  - "[[Inhalt/Fertigkeiten/Verführung|Verführung]]"
-  - "[[Inhalt/Fertigkeiten/Wandlung|Wandlung]]"
-  - "[[Inhalt/Fertigkeiten/Veränderung|Veränderung]]"
-  - "[[Inhalt/Fertigkeiten/Tapam|Tapam]]"
-  - "[[Inhalt/Fertigkeiten/Geister|Geister]]"
-  - "[[Inhalt/Fertigkeiten/Herr des Himmels|Herr des Himmels]]"
+  - "[[Vergessen]]"
+  - "[[Wildnis]]"
+  - "[[Wissen]]"
+  - "[[Wachstum]]"
+  - "[[Licht]]"
+  - "[[Harmonie]]"
+  - "[[Heim und Herd]]"
+  - "[[Friede]]"
+  - "[[Fröhlicher Wanderer]]"
+  - "[[Verführung]]"
+  - "[[Wandlung]]"
+  - "[[Veränderung]]"
+  - "[[Tapam]]"
+  - "[[Geister]]"
+  - "[[Herr des Himmels]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Kein Vorteil Tradition der Firungeweihten I
@@ -28,9 +28,9 @@ Deine nächste Probe auf CH ist um +4 Punkte erleichtert.
 
 - **Hohe Qualität:** Erhöht die Erleichterung um +2.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Intervention (-8; *Reaktive* Liturgie (beliebiges Ereignis). Hohe Qualität ist nicht möglich.)
-Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion ausführen. Hohe Qualität ist nicht möglich.)
-
+- **Modifikationen:**
+  - Intervention (-8; *Reaktive* Liturgie (beliebiges Ereignis). Hohe Qualität ist nicht möglich.)
+  - Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion ausführen. Hohe Qualität ist nicht möglich.)
 - **Vorbereitungszeit:** 0 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -40,5 +40,22 @@ Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion au
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Vergessen|Vergessen]], [[Inhalt/Fertigkeiten/Wildnis|Wildnis]], [[Inhalt/Fertigkeiten/Wissen|Wissen]], [[Inhalt/Fertigkeiten/Wachstum|Wachstum]], [[Inhalt/Fertigkeiten/Licht|Licht]], [[Inhalt/Fertigkeiten/Harmonie|Harmonie]], [[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]], [[Inhalt/Fertigkeiten/Friede|Friede]], [[Inhalt/Fertigkeiten/Fröhlicher Wanderer|Fröhlicher Wanderer]], [[Inhalt/Fertigkeiten/Verführung|Verführung]], [[Inhalt/Fertigkeiten/Wandlung|Wandlung]], [[Inhalt/Fertigkeiten/Veränderung|Veränderung]], [[Inhalt/Fertigkeiten/Tapam|Tapam]], [[Inhalt/Fertigkeiten/Geister|Geister]], [[Inhalt/Fertigkeiten/Herr des Himmels|Herr des Himmels]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Vergessen]]
+  - [[Wildnis]]
+  - [[Wissen]]
+  - [[Wachstum]]
+  - [[Licht]]
+  - [[Harmonie]]
+  - [[Heim und Herd]]
+  - [[Friede]]
+  - [[Fröhlicher Wanderer]]
+  - [[Verführung]]
+  - [[Wandlung]]
+  - [[Veränderung]]
+  - [[Tapam]]
+  - [[Geister]]
+  - [[Herr des Himmels]]
+- **Voraussetzungen:**
+  - Kein Vorteil [[Tradition der Firungeweihten I]]
+- **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 858974f2-b55c-46fb-8a54-2dc70d3fe2f5
+ID: 3d25bd44-9ee1-4e0c-809b-42cb5796d388
 Name: "Tradition der Bogner & Armbruster II"
 title: "Tradition der Bogner & Armbruster II"
 Kategorie: Tradition (Profan)
@@ -14,7 +14,7 @@ Du kannst die Modifikation Schaden erhöhen einmal ohne Erschwernis einsetzen.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Fingerfertigkeit|FF]] 6
   - Vorteil [[Tradition der Bogner & Armbruster I]]

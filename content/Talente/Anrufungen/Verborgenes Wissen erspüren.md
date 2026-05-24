@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: e23b4bc9-3460-4b9e-8e10-c09ce56ade8d
+ID: 4ea8adb2-4c28-41f2-a8fb-352cdfd8ff5a
 Name: Verborgenes Wissen erspüren
 title: Verborgenes Wissen erspüren
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Amazeroths|Anrufung Amazeroths]]"
+  - "[[Anrufung Amazeroths]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Du findest versteckte Bücher, alte Inschriften oder anderes verborgenes Wissen.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Amazeroths|Anrufung Amazeroths]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Amazeroths]]
+- **Erlernen:** 20 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 052c77b7-74cf-44dc-ab42-1dac1c465d49
+ID: 18addfe9-d39b-4a89-9e02-cbe2f35ddb73
 Name: Versöhnliches Schicksal (passiv)
 title: Versöhnliches Schicksal (passiv)
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Stiller Wanderer|Stiller Wanderer]]"
+  - "[[Stiller Wanderer]]"
 Kosten: 40
 Voraussetzungen: Vorteil Tradition der Avesgeweihten I
 ---
@@ -16,5 +16,8 @@ Wenn du eine glückliche Fügung nutzt, kannst du für 2 KaP den Bonus um +2 erh
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Stiller Wanderer|Stiller Wanderer]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Stiller Wanderer]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Avesgeweihten I]]
+- **Erlernen:** 40 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: ebaa6d73-768b-4081-9e48-515d88e1ceec
+ID: 01d7fbce-4be7-4f69-a7cc-1e32de8dd1aa
 Name: Weihe der Keule
 title: Weihe der Keule
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Keulenrituale|Keulenrituale]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
+  - "[[Keulenrituale]]"
+  - "[[Objekt]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
@@ -14,7 +14,8 @@ Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
 Du stellst eine enge magische Bindung zu deiner Knochenkeule her, welche die Voraussetzung für alle weiteren Talente dieser Fertigkeit ist. Außerdem wird die Knochenkeule unzerbrechlich und zählt als magische Waffe.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Geerbte Keule (Du bindest die Keule deines Lehrmeisters. Von ihm auf die Keule gewirkte Rituale verfliegen, aber die Keule gilt als Lehrmeister für diese Rituale.)
+- **Modifikationen:**
+  - Geerbte Keule (Du bindest die Keule deines Lehrmeisters. Von ihm auf die Keule gewirkte Rituale verfliegen, aber die Keule gilt als Lehrmeister für diese Rituale.)
 - **Vorbereitungszeit:** 8 Stunden
 - **Ziel:** Knochenkeule
 - **Reichweite:** Berührung
@@ -26,5 +27,9 @@ Du stellst eine enge magische Bindung zu deiner Knochenkeule her, welche die Vor
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Keulenrituale|Keulenrituale]], [[Inhalt/Fertigkeiten/Objekt|Objekt]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Keulenrituale]]
+  - [[Objekt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+- **Erlernen:** 10 EP

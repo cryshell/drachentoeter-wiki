@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 35bb01d2-0deb-4444-bdf5-56a22443f6b2
+ID: 0b4c3635-449a-442f-84d1-4ac39a3c7dfb
 Name: "Eigene Ängste quälen dich!"
 title: "Eigene Ängste quälen dich!"
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Dämonisch]]"
+  - "[[Eigenschaften]]"
+  - "[[Einfluss]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I
@@ -16,7 +16,8 @@ Du raubst deinem Ziel einen Sinn deiner Wahl und lieferst es völlig seinen inne
 
 - **Hohe Qualität:** Du raubst deinem Opfer einen weiteren Sinn.
 - **Probenschwierigkeit:** Magieresistenz
-- **Modifikationen:** Magiegespür rauben (-4, nur Mag; das Ziel hat Nachteil auf Hellsicht-Zauber und auf Magiegespür-Proben.)
+- **Modifikationen:**
+  - Magiegespür rauben (-4, nur Mag; das Ziel hat Nachteil auf Hellsicht-Zauber und auf Magiegespür-Proben.)
 - **Vorbereitungszeit:** 1 Aktion
 - **Ziel:** Humanoid
 - **Reichweite:** Berührung
@@ -27,5 +28,10 @@ Du raubst deinem Ziel einen Sinn deiner Wahl und lieferst es völlig seinen inne
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]], [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Dämonisch]]
+  - [[Eigenschaften]]
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

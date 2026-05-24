@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: dc83b71e-dfff-43f6-99fc-5ba48cde3670
+ID: 9d49f0c3-e39b-4cba-afff-fc812e1635d4
 Name: Tradition der Praiosgeweihten II
 title: Tradition der Praiosgeweihten II
 Kategorie: Tradition (Karmal)
@@ -14,7 +14,7 @@ Praiosgeweihte erkennen in der Sonne ihren Gott. Im direkten Sonnenlicht haben L
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 6
   - Vorteil [[Tradition der Praiosgeweihten I]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 83c373a1-5081-419b-900b-dc8953c8ceb8
+ID: 490e99eb-b534-42c4-a701-6ba7f9468488
 Name: Improvisation
 title: Improvisation
 Kategorie: Profan
@@ -12,6 +12,6 @@ Bei den handwerklichen Fertigkeiten gilt unzureichendes Werkzeug um eine Stufe h
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Fingerfertigkeit|FF]] 8

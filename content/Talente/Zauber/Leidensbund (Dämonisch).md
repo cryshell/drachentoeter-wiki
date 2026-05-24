@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: ac8ed31c-bc96-4bb7-b1cc-e5d4e4c8037a
+ID: 0799915e-70be-4365-b512-e947b525de81
 Name: Leidensbund (Dämonisch)
 title: Leidensbund (Dämonisch)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Dämonisch]]"
+  - "[[Humus]]"
+  - "[[Verständigung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borbaradianer I
@@ -19,5 +19,10 @@ $talent:Leidensbund$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]], [[Inhalt/Fertigkeiten/Humus|Humus]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Dämonisch]]
+  - [[Humus]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borbaradianer I]]
+- **Erlernen:** 20 EP

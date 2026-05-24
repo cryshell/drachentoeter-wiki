@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 298d9531-d063-44c2-8b64-57799d08dd0e
+ID: bcc40f3f-b587-47c2-bf65-a7a320a55a6f
 Name: Herrschaft über Ungeheuer
 title: Herrschaft über Ungeheuer
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonischer Ritus|Dämonischer Ritus]]"
-  - "[[Inhalt/Fertigkeiten/Anrufung Asfaloths|Anrufung Asfaloths]]"
-  - "[[Inhalt/Fertigkeiten/Anrufung Charyptoroths|Anrufung Charyptoroths]]"
+  - "[[Dämonischer Ritus]]"
+  - "[[Anrufung Asfaloths]]"
+  - "[[Anrufung Charyptoroths]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -15,7 +15,8 @@ Du rufst ein zu deinem Erzdämon passendes, maximal *großes* Ungeheuer herbei. 
 
 - **Hohe Qualität:** Verdoppelt für je 2 Stufen die Anzahl Ungeheuer.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Größeres Ungeheuer (-4, Kosten +4 GuP; das Ungeheuer darf eine Stufe größer sein. Mehrmals wählbar.)
+- **Modifikationen:**
+  - Größeres Ungeheuer (-4, Kosten +4 GuP; das Ungeheuer darf eine Stufe größer sein. Mehrmals wählbar.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -26,5 +27,8 @@ Du rufst ein zu deinem Erzdämon passendes, maximal *großes* Ungeheuer herbei. 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonischer Ritus|Dämonischer Ritus]], [[Inhalt/Fertigkeiten/Anrufung Asfaloths|Anrufung Asfaloths]], [[Inhalt/Fertigkeiten/Anrufung Charyptoroths|Anrufung Charyptoroths]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Dämonischer Ritus]]
+  - [[Anrufung Asfaloths]]
+  - [[Anrufung Charyptoroths]]
+- **Erlernen:** 40 EP

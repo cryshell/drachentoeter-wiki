@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: ad284118-25da-4702-8941-d523ba21d4e8
+ID: 0e9f9b85-9e71-4c39-bc8c-4b25912977a8
 Name: Unterstützung der Verdammten
 title: Unterstützung der Verdammten
 Kategorie: Kreis der Verdammnis
@@ -16,8 +16,9 @@ Dämonische Stärkungen können auch auf andere Anhänger gewirkt werden. Die Wi
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 6
   - Vorteil [[Paktierer I]]
-- **Siehe auch:** [[Dämonische Stärkung]]
+- **Siehe auch:**
+  - [[Dämonische Stärkung]]

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 976ac40b-7426-4a3a-8e6e-422d37954e0c
+ID: b70633f5-82e0-4a67-b620-82709035792d
 Name: Rhythmen der Geschwindigkeit
 title: Rhythmen der Geschwindigkeit
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Trommelrituale|Trommelrituale]]"
+  - "[[Eigenschaften]]"
+  - "[[Trommelrituale]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Derwische I
@@ -25,5 +25,9 @@ Deine GS erhöht sich um +4 und alle VT sind um +2 erleichtert. Erlaubt *Aufrech
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Trommelrituale|Trommelrituale]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Trommelrituale]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Derwische I]]
+- **Erlernen:** 20 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 78abe5c4-7405-4030-8330-973c390ea9ee
+ID: 29136e3b-3935-44fa-9dcb-e4e14ca32615
 Name: Sphärenkunde
 title: Sphärenkunde
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Magiekunde|Magiekunde]]"
+  - "[[Magiekunde]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Sphärenkunde befasst sich mit dem Limbus, den sieben Sphären und den dort behe
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Magiekunde|Magiekunde]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Magiekunde]]
+- **Erlernen:** 40 EP

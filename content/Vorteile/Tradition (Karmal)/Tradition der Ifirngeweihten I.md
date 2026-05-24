@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4e0fb433-c806-4a1b-b9b6-6823a6b77904
+ID: 17234c1e-dade-4a04-8089-e66eb0b4bdd2
 Name: Tradition der Ifirngeweihten I
 title: Tradition der Ifirngeweihten I
 Kategorie: Tradition (Karmal)
@@ -17,8 +17,8 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen Ifirns Gebote verstößt: Hilfs
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 4
   - Vorteil [[Geweiht I]]
-  - Kein Vorteil Tradition der *geweihten I
+  - Kein Vorteil [[Tradition der geweihten I|Tradition der *geweihten I]]

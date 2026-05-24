@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2c1944c0-f4d7-4447-bbfe-274844d32d96
+ID: 0494b52b-93c1-4976-8e45-88971e1018f3
 Name: Tradition der Schelme III
 title: Tradition der Schelme III
 Kategorie: Tradition (Magisch)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Erzwingen.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 8
   - Vorteil [[Tradition der Schelme II]]
-- **Siehe auch:** [[Erzwingen]]
+- **Siehe auch:**
+  - [[Erzwingen]]

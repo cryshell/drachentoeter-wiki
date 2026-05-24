@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 38765954-8015-4bab-b614-a3191c33c20f
+ID: 5a1edcb6-4a36-49e4-ab09-11716d9e2b9b
 Name: Tradition der Aphestadilpaktierer III
 title: Tradition der Aphestadilpaktierer III
 Kategorie: Tradition (Paktierer)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 8
   - Vorteil [[Tradition der Aphestadilpaktierer II]]
-- **Siehe auch:** [[Opferung (Aphestadil)]]
+- **Siehe auch:**
+  - [[Opferung (Aphestadil)]]

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 86b7049d-d4bb-471d-8f1e-768f11a52aed
+ID: 969b9607-4be8-47e9-85bb-dff8b78857c0
 Name: Schild der Ehre
 title: Schild der Ehre
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Ehre|Ehre]]"
+  - "[[Ehre]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rondrageweihten I
@@ -23,5 +23,8 @@ Ungezielte Geschosse (wie in einem Pfeilhagel) treffen dich nicht, Fernkampfangr
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Ehre|Ehre]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Ehre]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rondrageweihten I]]
+- **Erlernen:** 20 EP

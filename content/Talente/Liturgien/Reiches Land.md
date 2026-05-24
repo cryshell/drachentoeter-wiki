@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 3ead4feb-03f9-473f-b9aa-b4d45d390f51
+ID: 7505d518-8f12-4ace-a594-3952951cdda2
 Name: Reiches Land
 title: Reiches Land
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wachstum|Wachstum]]"
+  - "[[Wachstum]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Perainegeweihten I
@@ -14,9 +14,9 @@ Verwandelt nährstoffarmen, trockenen Boden in einem Radius von 32 Schritt in be
 
 - **Hohe Qualität:** Verdoppelt den Radius.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Sand und Eis (-8; wirkt auch an extremen Standorten.)
-Permanenz (Wirkungsdauer bis die Bindung gelöst wird, 8 KaP, davon 1 gKaP)
-
+- **Modifikationen:**
+  - Sand und Eis (-8; wirkt auch an extremen Standorten.)
+  - Permanenz (Wirkungsdauer bis die Bindung gelöst wird, 8 KaP, davon 1 gKaP)
 - **Vorbereitungszeit:** 1 Stunde
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -27,5 +27,8 @@ Permanenz (Wirkungsdauer bis die Bindung gelöst wird, 8 KaP, davon 1 gKaP)
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wachstum|Wachstum]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Wachstum]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Perainegeweihten I]]
+- **Erlernen:** 10 EP

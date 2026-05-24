@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: f71ca18c-bb3e-4192-aa03-8baa28ccc346
+ID: 663aa477-3b5f-4510-a88a-222ef3a8d08f
 Name: Ruf des Schamanen
 title: Ruf des Schamanen
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Geister rufen]]"
+  - "[[Verständigung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Achaz) I
@@ -15,7 +15,8 @@ Du sendest ein geistiges Signal an alle Stammesmitglieder im Radius von 4 Meilen
 
 - **Hohe Qualität:** Verdoppelt den Radius.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Ruf der Gefährten (-8; du rufst alle engen Gefährten zu dir.)
+- **Modifikationen:**
+  - Ruf der Gefährten (-8; du rufst alle engen Gefährten zu dir.)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -26,5 +27,9 @@ Du sendest ein geistiges Signal an alle Stammesmitglieder im Radius von 4 Meilen
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Geister rufen]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Achaz) I]]
+- **Erlernen:** 20 EP

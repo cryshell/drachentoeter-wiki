@@ -1,20 +1,20 @@
 ---
 Entitätstyp: Talent
-ID: f03db957-7411-4e3a-9958-56529750fce9
+ID: 4cad9020-95ed-41c2-b79f-380ffdda80ab
 Name: Müdigkeit
 title: Müdigkeit
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Aphestadils|Anrufung Aphestadils]]"
+  - "[[Anrufung Aphestadils]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
 Ein Ziel in einer ruhenden Position sinkt langsam in einen Tiefschlaf, aus dem es durch lauten Lärm oder Schmerzen geweckt werden kann.
 
 - **Probenschwierigkeit:** MU
-- **Modifikationen:** Beliebiges Wesen (-4; die Anrufung wirkt auf alle Wesen, die grundsätzlich schlafen müssen.)
-Ohnmacht (-8, 1 Aktion, Wirkungsdauer 16 Züge; das Opfer wird schlagartig *ohnmächtig* und ist nicht zu wecken.)
-
+- **Modifikationen:**
+  - Beliebiges Wesen (-4; die Anrufung wirkt auf alle Wesen, die grundsätzlich schlafen müssen.)
+  - Ohnmacht (-8, 1 Aktion, Wirkungsdauer 16 Züge; das Opfer wird schlagartig *ohnmächtig* und ist nicht zu wecken.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Humanoid
 - **Reichweite:** 4 Schritt
@@ -25,5 +25,6 @@ Ohnmacht (-8, 1 Aktion, Wirkungsdauer 16 Züge; das Opfer wird schlagartig *ohnm
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Aphestadils|Anrufung Aphestadils]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Aphestadils]]
+- **Erlernen:** 20 EP

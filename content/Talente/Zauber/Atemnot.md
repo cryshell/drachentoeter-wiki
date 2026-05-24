@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 8641a7f4-8fc4-47dc-a359-9f39f35988eb
+ID: 8f2eaaaa-c11e-4363-99f2-cc3d8ac8d890
 Name: Atemnot
 title: Atemnot
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
+  - "[[Eigenschaften]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Kristallomanten I
@@ -24,5 +24,8 @@ Du entziehst dem Opfer einen Teil seiner Kraft, es erleidet 2W6 SP(E). Du erhäl
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

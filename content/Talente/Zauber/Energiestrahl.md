@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 6e8b6a62-3b6a-4483-942c-0a4fdf5f2c24
+ID: 2a87dfa2-9440-4d6a-a334-cf76849b87bb
 Name: Energiestrahl
 title: Energiestrahl
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]]"
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
+  - "[[Stabzauber]]"
+  - "[[Kraft]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
@@ -25,5 +25,9 @@ Du schießt einen Strahl gebündelte astrale Kraft aus dem Stab, die dem Ziel 1W
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]], [[Inhalt/Fertigkeiten/Kraft|Kraft]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Stabzauber]]
+  - [[Kraft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

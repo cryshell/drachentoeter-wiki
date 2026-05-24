@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: fa72da95-85c3-493c-9cb5-c9d594accfb2
+ID: 33184eb5-3ff8-4a67-b31c-79a099df0642
 Name: Orkanwand
 title: Orkanwand
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
+  - "[[Luft]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Elfen I
@@ -14,7 +14,8 @@ Eine 4 x 3 x 1 Schritt (BxHxT) große Wand aus rasenden Windhosen entsteht entla
 
 - **Hohe Qualität:** Die Breite steigt um 2 Schritt, die Höhe um 1 Schritt. Der Schaden beim Durchqueren der Wand steigt um 1W6 SP(E).
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Zylinder (-4; die Wand verläuft kreisförmig mit einem Radius in Höhe von einem Viertel der Breite. Du musst den Kreis nicht abschließen.)
+- **Modifikationen:**
+  - Zylinder (-4; die Wand verläuft kreisförmig mit einem Radius in Höhe von einem Viertel der Breite. Du musst den Kreis nicht abschließen.)
 - **Vorbereitungszeit:** 8 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** 8 Schritt
@@ -25,5 +26,8 @@ Eine 4 x 3 x 1 Schritt (BxHxT) große Wand aus rasenden Windhosen entsteht entla
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Luft|Luft]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Luft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Elfen I]]
+- **Erlernen:** 20 EP

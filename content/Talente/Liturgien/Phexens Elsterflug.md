@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: aa103ecf-afd7-4f4e-bca6-fd8669c1a171
+ID: 895f9aee-00f6-496d-b3c3-c0b685eb0264
 Name: Phexens Elsterflug
 title: Phexens Elsterflug
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Nächtlicher Schatten|Nächtlicher Schatten]]"
+  - "[[Nächtlicher Schatten]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Phexgeweihten I
@@ -24,5 +24,8 @@ Das mit dieser Liturgie belegte Objekt von maximal 0,5 Stein Gewicht wird an Phe
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Nächtlicher Schatten|Nächtlicher Schatten]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Nächtlicher Schatten]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Phexgeweihten I]]
+- **Erlernen:** 20 EP

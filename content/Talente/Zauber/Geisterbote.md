@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 4c08cb91-9906-4ae1-8fd8-a5b37cc5a7f2
+ID: d051c1b7-e736-4ae4-8768-84f893af6402
 Name: Geisterbote
 title: Geisterbote
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Geister rufen]]"
+  - "[[Verständigung]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
@@ -24,5 +24,9 @@ Durch das Geisterreich schließt du eine Verbindung mit dem Ziel, von dem du ein
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Geister rufen]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+- **Erlernen:** 40 EP

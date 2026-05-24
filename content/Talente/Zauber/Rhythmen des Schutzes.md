@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 92f92957-6f24-455b-893d-f9e71249e7c2
+ID: f8a1ebfe-3d67-4ef8-b0b3-53d1a0bf595a
 Name: Rhythmen des Schutzes
 title: Rhythmen des Schutzes
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Trommelrituale|Trommelrituale]]"
+  - "[[Eigenschaften]]"
+  - "[[Trommelrituale]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Derwische I
@@ -24,5 +24,9 @@ Jeder in einem Radius von 4 Schritt erhält Vorteil auf Magieresistenz-Proben.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Trommelrituale|Trommelrituale]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Trommelrituale]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Derwische I]]
+- **Erlernen:** 20 EP

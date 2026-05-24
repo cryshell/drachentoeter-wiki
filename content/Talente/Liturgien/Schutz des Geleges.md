@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: f8f380d7-6d8e-4685-aaab-2ddc8932ea93
+ID: ec2f8690-bb5e-4ac9-b260-1cde7aa5bc44
 Name: Schutz des Geleges
 title: Schutz des Geleges
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Fruchtbarkeit und Wiedergeburt|Fruchtbarkeit und Wiedergeburt]]"
+  - "[[Fruchtbarkeit und Wiedergeburt]]"
 Kosten: 0
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der Zsahhgeweihten I
@@ -24,5 +24,8 @@ Segnet 4 Eier eines Geleges von Jungechsen, so dass sie sich nicht gegenseitig a
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Fruchtbarkeit und Wiedergeburt|Fruchtbarkeit und Wiedergeburt]]
-- **Kosten:** 0 EP
+- **Fertigkeiten:**
+  - [[Fruchtbarkeit und Wiedergeburt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der Zsahhgeweihten I]]
+- **Erlernen:** 0 EP

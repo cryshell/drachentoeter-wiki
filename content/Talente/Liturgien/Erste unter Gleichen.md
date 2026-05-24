@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 8ca163f7-3b76-44f1-bede-d27a1697435c
+ID: 05ebce63-60c8-486f-bc1a-3cb25ee99b1e
 Name: Erste unter Gleichen
 title: Erste unter Gleichen
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schlangenbund|Schlangenbund]]"
+  - "[[Schlangenbund]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der H’Szintgeweihten I
@@ -13,7 +13,8 @@ Voraussetzungen: Vorteil Tradition der H’Szintgeweihten I
 Dein Vertrautentier schüchtert eine andere Schlange bis zur Größenklasse *sehr klein* ein. Das Ziel ist dem Vertrautentier gegenüber *verängstigt*.
 
 - **Probenschwierigkeit:** MU
-- **Modifikationen:** Größeres Tier (-4 pro Stufe; die Schlange darf eine Stufe größer sein.)
+- **Modifikationen:**
+  - Größeres Tier (-4 pro Stufe; die Schlange darf eine Stufe größer sein.)
 - **Vorbereitungszeit:** 0 Aktionen
 - **Ziel:** Tier
 - **Reichweite:** 16 Schritt
@@ -24,5 +25,8 @@ Dein Vertrautentier schüchtert eine andere Schlange bis zur Größenklasse *seh
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schlangenbund|Schlangenbund]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Schlangenbund]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der H’Szintgeweihten I]]
+- **Erlernen:** 10 EP

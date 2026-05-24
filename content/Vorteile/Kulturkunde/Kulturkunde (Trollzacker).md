@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 441fe318-b261-49b5-8b70-07de57136fa8
+ID: f4739c45-65d8-40e4-a1e4-445e993001fc
 Name: Kulturkunde (Trollzacker)
 title: Kulturkunde (Trollzacker)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

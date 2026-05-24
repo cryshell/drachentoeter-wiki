@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 620b203f-a0bc-4ae4-9c40-e3625c69742d
+ID: 85d6ebc3-a3b2-4af6-b68f-64385393b9f7
 Name: Zorn des Zermalmers
 title: Zorn des Zermalmers
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eroberung|Eroberung]]"
+  - "[[Eroberung]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kr’Thon’Chhgeweihten I
@@ -23,5 +23,8 @@ Der Himmel färbt sich kurz dunkelrot und das ohrenbetäubende Gebrüll eines Sc
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eroberung|Eroberung]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Eroberung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kr’Thon’Chhgeweihten I]]
+- **Erlernen:** 40 EP

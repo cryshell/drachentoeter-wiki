@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 10b5d86e-8255-4fa7-bf41-20a432625b5c
+ID: ee8c7785-aab9-47d0-a070-f188d83caffd
 Name: Tradition der Rondrageweihten III
 title: Tradition der Rondrageweihten III
 Kategorie: Tradition (Karmal)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 8
   - Vorteil [[Tradition der Rondrageweihten II]]
-- **Siehe auch:** [[Opferung (Rondra)]]
+- **Siehe auch:**
+  - [[Opferung (Rondra)]]

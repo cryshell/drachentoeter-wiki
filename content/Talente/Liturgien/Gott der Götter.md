@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: f2e896b5-a5c4-4e71-b9d0-7021cdb2f928
+ID: 73fb0212-06f3-492f-a369-1df9306fbea9
 Name: Gott der Götter
 title: Gott der Götter
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Herrschaft|Herrschaft]]"
+  - "[[Herrschaft]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Namenlosgeweihten I
@@ -26,5 +26,8 @@ Umkehr (-8; verkehrt die Wirkung der Liturgie in ihr Gegenteil. Die Einsatzmögl
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Herrschaft|Herrschaft]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Herrschaft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Namenlosgeweihten I]]
+- **Erlernen:** 20 EP

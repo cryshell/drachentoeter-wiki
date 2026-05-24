@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 2e9eb965-9b57-4f9a-b081-48ef284c653f
+ID: e34d3125-a475-4e17-9081-e33978378264
 Name: Seil des Adepten
 title: Seil des Adepten
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
-  - "[[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Objekt]]"
+  - "[[Stabzauber]]"
+  - "[[Umwelt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
@@ -16,7 +16,8 @@ Dein Stab verwandelt sich in ein 10 Schritt langes Seil, das sich auf dein Komma
 
 - **Hohe Qualität:** Jede Stufe verlängert das Seil um 5 Schritt.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Seil des Magus (-8; das Seil kann sich auch um Lebewesen schlingen und wird hierzu wie ein Lasso mit Umklammern (16) verwendet.)
+- **Modifikationen:**
+  - Seil des Magus (-8; das Seil kann sich auch um Lebewesen schlingen und wird hierzu wie ein Lasso mit Umklammern (16) verwendet.)
 - **Varianten:** Seilpeitsche (-8; der Stab wird zu einer Peitsche statt einem Seil.)
 - **Vorbereitungszeit:** 0 Aktionen
 - **Ziel:** Zauberstab
@@ -28,5 +29,10 @@ Dein Stab verwandelt sich in ein 10 Schritt langes Seil, das sich auf dein Komma
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Objekt|Objekt]], [[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Objekt]]
+  - [[Stabzauber]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

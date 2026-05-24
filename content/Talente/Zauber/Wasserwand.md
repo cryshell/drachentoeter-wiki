@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 4205cc77-d69a-4b43-ae63-0fa751955ff5
+ID: 6e6a00ba-5d85-4d17-ac92-0065f11b7f37
 Name: Wasserwand
 title: Wasserwand
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wasser|Wasser]]"
+  - "[[Wasser]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I
@@ -14,7 +14,8 @@ Eine 4 x 3 x 1 Schritt (BxHxT) große Wand aus rauschenden Wogen entsteht entlan
 
 - **Hohe Qualität:** Die Breite steigt um 2 Schritt, die Höhe um 1 Schritt. Der Schaden beim Durchqueren der Wand steigt um 1W6 SP(E).
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Zylinder (-4; die Wand verläuft kreisförmig mit einem Radius in Höhe von einem Viertel der Breite. Du musst den Kreis nicht abschließen.)
+- **Modifikationen:**
+  - Zylinder (-4; die Wand verläuft kreisförmig mit einem Radius in Höhe von einem Viertel der Breite. Du musst den Kreis nicht abschließen.)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** 8 Schritt
@@ -25,5 +26,8 @@ Eine 4 x 3 x 1 Schritt (BxHxT) große Wand aus rauschenden Wogen entsteht entlan
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wasser|Wasser]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Wasser]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

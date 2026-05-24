@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 4342de6f-72b0-4a9e-8577-c9e0b784c206
+ID: 09c279a3-672d-4bf7-ab00-e5c774e83095
 Name: Guten Morgen
 title: Guten Morgen
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
+  - "[[Zaubertricks]]"
 Kosten: 5
 ---
 Das Opfer spürt instinktiv, dass es jetzt angebracht wäre, dich freundlich zu grüßen. Es entscheidet selbst, ob es dem nachgeht.
@@ -20,5 +20,6 @@ Das Opfer spürt instinktiv, dass es jetzt angebracht wäre, dich freundlich zu 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
-- **Kosten:** 5 EP
+- **Fertigkeiten:**
+  - [[Zaubertricks]]
+- **Erlernen:** 5 EP

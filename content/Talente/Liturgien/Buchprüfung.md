@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 67f7461c-350a-4b83-85df-ce4b59f8ceaf
+ID: c7f4216f-cf0a-4146-a478-8e8d70381be2
 Name: Buchprüfung
 title: Buchprüfung
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/List|List]]"
-  - "[[Inhalt/Fertigkeiten/Wissen|Wissen]]"
+  - "[[List]]"
+  - "[[Wissen]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Nandusgeweihten I
@@ -26,5 +26,9 @@ Du findest sofort die interessante Stelle in einem Buch. Dies reduziert zudem na
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/List|List]], [[Inhalt/Fertigkeiten/Wissen|Wissen]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[List]]
+  - [[Wissen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Nandusgeweihten I]]
+- **Erlernen:** 10 EP

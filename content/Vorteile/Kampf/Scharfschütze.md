@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: ff391ab7-42f9-42b8-9285-f402f08c05a4
+ID: 1e78d953-7a19-42c5-9e71-fe7ce43f5dcc
 Name: Scharfschütze
 title: Scharfschütze
 Kategorie: Kampf
@@ -15,7 +15,9 @@ Du ignorierst bei Fernkampfangriffen 1 Stufe Wind und 1 Stufe Deckung, außer be
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 6
-- **Siehe auch:** [[Fernkampf]], [[Deckung]]
+- **Siehe auch:**
+  - [[Fernkampf]]
+  - [[Deckung]]

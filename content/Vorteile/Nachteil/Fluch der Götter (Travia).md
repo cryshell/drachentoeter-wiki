@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 57c684ce-20c2-464d-933f-2bf0a7a3b1a1
+ID: a0810e15-53bd-477b-978d-e919ab46db6b
 Name: Fluch der Götter (Travia)
 title: Fluch der Götter (Travia)
 Kategorie: Nachteil
@@ -12,6 +12,6 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Travia), Empfindlichkeit I (Pflan
 
 ---
 
-- **Kosten:** -200 EP
+- **Erlernen:** -200 EP
 - **Voraussetzungen:**
   - Vorteil [[Vampir I]]

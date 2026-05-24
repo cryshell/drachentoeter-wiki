@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: f4f93614-5ec9-4476-a95d-d1fb83261d40
+ID: f614a404-0fd6-47c3-8376-aa085ce425c4
 Name: Handgemenge
 title: Handgemenge
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Nahkampf|Nahkampf]]"
+  - "[[Nahkampf]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Handgemenge umfasst den Umgang mit kurzen Waffen wie Messern oder Dolchen und de
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Nahkampf|Nahkampf]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Nahkampf]]
+- **Erlernen:** 40 EP

@@ -1,14 +1,14 @@
 ---
 Entitätstyp: Talent
-ID: 0dbe9a05-fe1a-4b70-b5eb-345d4366b006
+ID: e47492a1-3105-4583-b5d3-c931e502a926
 Name: Segen der Heiligen Noiona
 title: Segen der Heiligen Noiona
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heilung|Heilung]]"
-  - "[[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]]"
-  - "[[Inhalt/Fertigkeiten/Rausch|Rausch]]"
-  - "[[Inhalt/Fertigkeiten/Vergessen|Vergessen]]"
+  - "[[Heilung]]"
+  - "[[Heim und Herd]]"
+  - "[[Rausch]]"
+  - "[[Vergessen]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Traviageweihten I ODER Vorteil Tradition der Rahjageweihten I
@@ -28,5 +28,11 @@ Du erspürst Geistesstörungen und Suchtkrankheiten in deinem Ziel und erfährst
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heilung|Heilung]], [[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]], [[Inhalt/Fertigkeiten/Rausch|Rausch]], [[Inhalt/Fertigkeiten/Vergessen|Vergessen]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Heilung]]
+  - [[Heim und Herd]]
+  - [[Rausch]]
+  - [[Vergessen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borongeweihten I ODER Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Traviageweihten I ODER Vorteil Tradition der Rahjageweihten I]]
+- **Erlernen:** 10 EP

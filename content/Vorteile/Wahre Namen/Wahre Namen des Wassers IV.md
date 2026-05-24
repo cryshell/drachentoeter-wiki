@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6244c002-633f-4279-8715-2c5e9bf494c5
+ID: 9eff83bc-e1d7-4217-88d5-35c358954573
 Name: Wahre Namen des Wassers IV
 title: Wahre Namen des Wassers IV
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Kosten: 20
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - MeisterAttribut [[Klugheit|KL]] 10

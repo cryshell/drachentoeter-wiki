@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: d2027c18-5b3d-4c21-849a-4e2f59530be0
+ID: 65133707-3258-4dc2-9aa8-5131c663283c
 Name: Macht des Blutes
 title: Macht des Blutes
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Geister des Zorns|Geister des Zorns]]"
+  - "[[Einfluss]]"
+  - "[[Geister des Zorns]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Trollzacker) I
@@ -24,5 +24,9 @@ Dein Ziel muss eine körperliche Handlung deiner Wahl ausführen. Widerspricht d
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Geister des Zorns|Geister des Zorns]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Geister des Zorns]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Trollzacker) I]]
+- **Erlernen:** 20 EP

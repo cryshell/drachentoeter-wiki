@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: a5cc0ea3-e366-4e54-8b40-b4a1d29cba4e
+ID: bd2dec09-2715-471b-9b5c-801d8bcafc1a
 Name: Zaubermelodie
 title: Zaubermelodie
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]]"
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
+  - "[[Eigenschaften]]"
+  - "[[Elfenlieder]]"
+  - "[[Kraft]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Elfen I ODER Vorteil Tradition der Shakagra I
@@ -25,5 +25,10 @@ Die Melodie verleiht allen Proben auf allgemeine Zauber Vorteil.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]], [[Inhalt/Fertigkeiten/Kraft|Kraft]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Elfenlieder]]
+  - [[Kraft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

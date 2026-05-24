@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 911ecf6b-4ce4-4e93-a963-f6117b811536
+ID: 06a5805a-ed88-439e-ab40-56e256e447f3
 Name: Zauberer I
 title: Zauberer I
 Kategorie: Magisch
@@ -11,4 +11,4 @@ Du verfügst über 8 Astralpunkte und kannst magische Traditionen erlernen. Dein
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP

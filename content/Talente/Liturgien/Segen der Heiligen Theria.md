@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: cbe49196-dff1-478c-bd22-ee83faf776c0
+ID: 85224626-3e65-4476-ab45-7d0f4195ee05
 Name: Segen der Heiligen Theria
 title: Segen der Heiligen Theria
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heilung|Heilung]]"
+  - "[[Heilung]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Perainegeweihten I
@@ -24,5 +24,8 @@ Du rufst den Honinger Tiegel herbei. Wird der Honig dem Essen beigemischt, heilt
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heilung|Heilung]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Heilung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Perainegeweihten I]]
+- **Erlernen:** 40 EP

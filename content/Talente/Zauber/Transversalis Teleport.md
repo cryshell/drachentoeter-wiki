@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 141c4f75-a596-406e-95cb-73ba899fbaae
+ID: babc92ab-feb6-4752-b8c5-9984eb160566
 Name: Transversalis Teleport
 title: Transversalis Teleport
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
+  - "[[Kraft]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
@@ -14,11 +14,11 @@ Du erleidest 4W6 SP(E) und teleportierst dich an einen beliebigen Ort. Der Ort d
 
 - **Hohe Qualität:** Du erleidest 1W6 SP(E) weniger.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Anhalter (-4 pro Person; du kannst weitere Personen mitnehmen. Auch sie erleiden den Schaden.)
-Lastenteleport (-8, Objekt; du kannst eine Last von maximal 32 Stein teleportieren und musst selbst nicht dabei sein.)
-Reichweite vergrößern (-4 pro Verdopplung; verdoppelt die maximale Distanz.)
-Sichtbarer Ort (-8; du musst noch nicht am Ort gewesen sein, ihn aber sehen können.)
-
+- **Modifikationen:**
+  - Anhalter (-4 pro Person; du kannst weitere Personen mitnehmen. Auch sie erleiden den Schaden.)
+  - Lastenteleport (-8, Objekt; du kannst eine Last von maximal 32 Stein teleportieren und musst selbst nicht dabei sein.)
+  - Reichweite vergrößern (-4 pro Verdopplung; verdoppelt die maximale Distanz.)
+  - Sichtbarer Ort (-8; du musst noch nicht am Ort gewesen sein, ihn aber sehen können.)
 - **Vorbereitungszeit:** 1 Aktion
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -30,5 +30,8 @@ Sichtbarer Ort (-8; du musst noch nicht am Ort gewesen sein, ihn aber sehen kön
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Kraft|Kraft]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Kraft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 40 EP

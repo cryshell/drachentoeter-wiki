@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 9ab4565c-b725-4c15-8ba0-61052f6f1187
+ID: 158bffde-4de8-4d26-8324-66b38cfecb14
 Name: Blick in die Vergangenheit
 title: Blick in die Vergangenheit
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Temporal|Temporal]]"
+  - "[[Hellsicht]]"
+  - "[[Temporal]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I
@@ -15,7 +15,8 @@ Die Geschichte des Ortes rauscht vor deinen Augen vorbei. Während der Wirkungsd
 
 - **Hohe Qualität:** Du blickst 1 Jahr/10 Jahre/100 Jahre/1000 Jahre zurück.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Objekt (-4, Objekt; der Zauber betrifft die Geschichte eines Gegenstands.)
+- **Modifikationen:**
+  - Objekt (-4, Objekt; der Zauber betrifft die Geschichte eines Gegenstands.)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -26,5 +27,9 @@ Die Geschichte des Ortes rauscht vor deinen Augen vorbei. Während der Wirkungsd
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Temporal|Temporal]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Hellsicht]]
+  - [[Temporal]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 10 EP

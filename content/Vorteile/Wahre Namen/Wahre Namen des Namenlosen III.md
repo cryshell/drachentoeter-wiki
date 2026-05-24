@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: ecb5562d-dede-44e2-a8f3-d73233a10879
+ID: 924b6996-cba7-49dd-8012-228b334261e6
 Name: Wahre Namen des Namenlosen III
 title: Wahre Namen des Namenlosen III
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 ---
 
-- **Kosten:** 10 EP
+- **Erlernen:** 10 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - Attribut [[Klugheit|KL]] 8

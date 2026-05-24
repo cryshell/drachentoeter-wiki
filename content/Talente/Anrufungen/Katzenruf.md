@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: a5eac66d-ec84-43bc-b006-5a37296f4140
+ID: 1d31e61d-5f4c-42da-a44e-4ddf9e186a59
 Name: Katzenruf
 title: Katzenruf
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Aphasmayras|Anrufung Aphasmayras]]"
+  - "[[Anrufung Aphasmayras]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -13,7 +13,8 @@ Du rufst eine Katze herbei. Falls Katzen in deiner Region nicht heimisch sind, s
 
 - **Hohe Qualität:** Die Wachsamkeit der Katze steigt um +2.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Gesprächige Katze (-4; du kannst dich mit der Katze unterhalten und so mit einer Gerüchte-Probe eine Information über die Gegend erhalten.)
+- **Modifikationen:**
+  - Gesprächige Katze (-4; du kannst dich mit der Katze unterhalten und so mit einer Gerüchte-Probe eine Information über die Gegend erhalten.)
 - **Vorbereitungszeit:** 0 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -24,5 +25,6 @@ Du rufst eine Katze herbei. Falls Katzen in deiner Region nicht heimisch sind, s
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Aphasmayras|Anrufung Aphasmayras]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Anrufung Aphasmayras]]
+- **Erlernen:** 10 EP

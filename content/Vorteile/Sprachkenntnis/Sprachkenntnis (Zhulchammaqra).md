@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 5fa547d1-85c8-448c-9dac-7d568697a863
+ID: 5d49cb43-0fe8-47c5-ac03-d70a2147aa67
 Name: Sprachkenntnis (Zhulchammaqra)
 title: Sprachkenntnis (Zhulchammaqra)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Zhulchammaqra gehört zur Tulamidya-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

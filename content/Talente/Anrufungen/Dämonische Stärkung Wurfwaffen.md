@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: a6a73eb5-d8b6-4b25-8a8d-eee7f937bf23
+ID: d2b8daf3-2107-48df-bdd8-6c65480cc2d1
 Name: "Dämonische Stärkung: Wurfwaffen"
 title: "Dämonische Stärkung: Wurfwaffen"
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Belshirashs|Anrufung Belshirashs]]"
+  - "[[Anrufung Belshirashs]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -13,9 +13,9 @@ Deine nächste Probe auf Wurfwaffen ist um +4 Punkte erleichtert.
 
 - **Hohe Qualität:** Erhöht die Erleichterung um +2.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Intervention (-8; *Reaktive* Anrufung (beliebiges Ereignis). Hohe Qualität ist nicht möglich.)
-Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion ausführen. Hohe Qualität ist nicht möglich.)
-
+- **Modifikationen:**
+  - Intervention (-8; *Reaktive* Anrufung (beliebiges Ereignis). Hohe Qualität ist nicht möglich.)
+  - Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion ausführen. Hohe Qualität ist nicht möglich.)
 - **Vorbereitungszeit:** 0 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -25,5 +25,6 @@ Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion au
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Belshirashs|Anrufung Belshirashs]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Anrufung Belshirashs]]
+- **Erlernen:** 10 EP

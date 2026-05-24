@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e78f6f9f-9299-4788-bb40-92583bf0cc51
+ID: b52c57ea-859c-41d3-a1ec-154ced6f29b1
 Name: Kernschuss
 title: Kernschuss
 Kategorie: Kampf
@@ -14,7 +14,8 @@ Du erleidest durch Fernkampfangriffe keine Passierschläge mehr.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 8
-- **Siehe auch:** [[Fernkampf]]
+- **Siehe auch:**
+  - [[Fernkampf]]

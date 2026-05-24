@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: b7b5f1bc-d5cb-44c9-bef2-c2f9096ac731
+ID: 06f6395b-f59b-43b7-bd07-bed26e75a66f
 Name: Windgeflüster
 title: Windgeflüster
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Luft]]"
+  - "[[Verständigung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Gildenmagier I
@@ -14,9 +14,9 @@ Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition d
 Eine Botschaft von maximal 16 Worten wird von Luftelementaren binnen weniger Minuten zu deinem Empfänger weitergeflüstert. Ist dieser unaufmerksam oder befindet er sich an einem von anderen Elementen umschlossenen Ort, verhallt die Botschaft ungehört. Das Ziel muss dir persönlich bekannt sein. Der Zauber ignoriert die Bedingung Sicht.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Rede (-4 pro Erhöhung; erhöht die maximale Anzahl an Worten um 8.)
-Sturmgebrüll (-4; die Botschaft wird laut wie Sturmböen und Donnerhall wiedergegeben. Sie ist kaum zu überhören, aber auch alles andere als privat.)
-
+- **Modifikationen:**
+  - Rede (-4 pro Erhöhung; erhöht die maximale Anzahl an Worten um 8.)
+  - Sturmgebrüll (-4; die Botschaft wird laut wie Sturmböen und Donnerhall wiedergegeben. Sie ist kaum zu überhören, aber auch alles andere als privat.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Humanoid
 - **Reichweite:** 8 Meilen
@@ -27,5 +27,9 @@ Sturmgebrüll (-4; die Botschaft wird laut wie Sturmböen und Donnerhall wiederg
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Luft]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 10 EP

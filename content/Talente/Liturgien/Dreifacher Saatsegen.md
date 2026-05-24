@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 9e59cdfb-b995-40f2-a9f6-445229d5e4ba
+ID: 2c013858-4d82-4e63-afa1-078355f9930f
 Name: Dreifacher Saatsegen
 title: Dreifacher Saatsegen
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wachstum|Wachstum]]"
+  - "[[Wachstum]]"
 Kosten: 0
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I
@@ -23,5 +23,8 @@ Das gesegnete Feld ist vor Ernteschäden durch schlechte Witterung geschützt. J
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wachstum|Wachstum]]
-- **Kosten:** 0 EP
+- **Fertigkeiten:**
+  - [[Wachstum]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Perainegeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I]]
+- **Erlernen:** 0 EP

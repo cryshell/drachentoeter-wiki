@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 3cc1eb55-0f7b-4a80-9e55-f9b60fce29f8
+ID: bd44a73e-5008-4bc9-96ce-4e076f6b3f90
 Name: Sprachkenntnis (Ologhaijan)
 title: Sprachkenntnis (Ologhaijan)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Ologhaijan gehört zur Orkisch-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

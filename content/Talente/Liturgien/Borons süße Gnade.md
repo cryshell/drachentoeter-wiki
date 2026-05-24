@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 5911bdf3-64ad-460f-ab34-ce7205a0305a
+ID: 19040e7d-0ed7-4420-ab99-fa85b13b0157
 Name: Borons süße Gnade
 title: Borons süße Gnade
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Vergessen|Vergessen]]"
+  - "[[Vergessen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borongeweihten I
@@ -25,5 +25,8 @@ Du stellst verlorene Erinnerungen wieder her. Du kannst Erinnerungen an einen Ze
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Vergessen|Vergessen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Vergessen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borongeweihten I]]
+- **Erlernen:** 20 EP

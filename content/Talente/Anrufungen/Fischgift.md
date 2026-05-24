@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 5a603e34-5242-4a17-8736-a14a09db6f73
+ID: e9c056bc-5117-4a7a-8b97-bfebe591932a
 Name: Fischgift
 title: Fischgift
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Charyptoroths|Anrufung Charyptoroths]]"
+  - "[[Anrufung Charyptoroths]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Vergiftet das Wasser in einem Radius von 16 Schritt, sodass kleinere Fische und 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Charyptoroths|Anrufung Charyptoroths]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Anrufung Charyptoroths]]
+- **Erlernen:** 10 EP

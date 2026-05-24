@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 45c1244e-30c6-4b1d-87c2-7669d58ad1a0
+ID: 2af5cc18-525e-48cf-bb79-3623022e4655
 Name: Tradition der Perainegeweihten IV
 title: Tradition der Perainegeweihten IV
 Kategorie: Tradition (Karmal)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Charisma|CH]] 10
   - Vorteil [[Tradition der Perainegeweihten III]]

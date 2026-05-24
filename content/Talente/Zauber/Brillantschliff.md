@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: f663c448-063b-4673-98b5-4eeb0bcdca72
+ID: aad79d87-3c26-4a76-9b2f-c496d0924ec0
 Name: Brillantschliff
 title: Brillantschliff
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
-  - "[[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]"
+  - "[[Erz]]"
+  - "[[Kraft]]"
+  - "[[Kristallmagie]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I
@@ -25,5 +25,10 @@ Du versiehst einen gebundenen Kristall mit einem Brillantschliff. Wann immer du 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Erz|Erz]], [[Inhalt/Fertigkeiten/Kraft|Kraft]], [[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Erz]]
+  - [[Kraft]]
+  - [[Kristallmagie]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I]]
+- **Erlernen:** 10 EP

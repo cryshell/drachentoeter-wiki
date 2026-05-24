@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: dec6b707-1e6c-4a23-b877-789a626866c9
+ID: 656f4efd-183f-481a-9681-f56178feeb72
 Name: Lodernder Zorn
 title: Lodernder Zorn
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heiliges Feuer|Heiliges Feuer]]"
+  - "[[Heiliges Feuer]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I
@@ -25,5 +25,8 @@ Stichflammen schießen aus deiner Laterne oder einem mindestens fackelgroßen Fe
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heiliges Feuer|Heiliges Feuer]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Heiliges Feuer]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I]]
+- **Erlernen:** 40 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 38bbb794-1a37-4e8b-8b22-38a94a5e6702
+ID: f365f00d-a585-4b3a-91b2-bff379589654
 Name: Gebieter der Gezeiten
 title: Gebieter der Gezeiten
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Charyptoroths|Anrufung Charyptoroths]]"
+  - "[[Anrufung Charyptoroths]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Ebbe oder Flut können in einem Radius von 2 Meilen zurückgehalten, beschleunig
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Charyptoroths|Anrufung Charyptoroths]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Anrufung Charyptoroths]]
+- **Erlernen:** 10 EP

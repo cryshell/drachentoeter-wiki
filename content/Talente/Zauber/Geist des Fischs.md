@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: cedf43b6-0ae7-4116-8f87-e2922f80d625
+ID: 8a8c044f-a486-4283-b2fd-d1f5f0404583
 Name: Geist des Fischs
 title: Geist des Fischs
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]]"
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
+  - "[[Geister der Stärkung]]"
+  - "[[Verwandlung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
@@ -15,7 +15,8 @@ Du verwandelst dich in ein im Wasser lebendes Tier deiner Wahl. Du behältst dei
 
 - **Hohe Qualität:** Du darfst 2 Spielwerte um je 1 Punkt erhöhen, solange das Ergebnis dem gesunden Menschenverstand nicht widerspricht.
 - **Probenschwierigkeit:** 8/12/16/20/24
-- **Modifikationen:** Seelentier (+4, nur Elf; du verwandelst dich in dein Seelentier. Dessen Instinkte nehmen überhand, sodass auch deine geistigen Fähigkeiten denen des Tiers entsprechen.)
+- **Modifikationen:**
+  - Seelentier (+4, nur Elf; du verwandelst dich in dein Seelentier. Dessen Instinkte nehmen überhand, sodass auch deine geistigen Fähigkeiten denen des Tiers entsprechen.)
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -27,5 +28,9 @@ Du verwandelst dich in ein im Wasser lebendes Tier deiner Wahl. Du behältst dei
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]], [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Geister der Stärkung]]
+  - [[Verwandlung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+- **Erlernen:** 20 EP

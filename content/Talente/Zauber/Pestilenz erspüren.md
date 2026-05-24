@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 01a7472f-aa92-471f-bd43-2a4f899f2421
+ID: 8f4c6eec-b271-41e6-8ef1-bf343d236cf8
 Name: Pestilenz erspüren
 title: Pestilenz erspüren
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
+  - "[[Hellsicht]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I
@@ -25,5 +25,8 @@ Du erspürst die Krankheit in deinem Ziel. Du erfährst die Art der Krankheit, i
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Hellsicht]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 10 EP

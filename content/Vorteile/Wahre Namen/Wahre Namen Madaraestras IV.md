@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 540fc4a8-005b-4f4e-ad7d-98c25129fd4b
+ID: f7b4d8cf-9aad-447b-bc5f-c37c0b242650
 Name: Wahre Namen Madaraestras IV
 title: Wahre Namen Madaraestras IV
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Kosten: 10
 
 ---
 
-- **Kosten:** 10 EP
+- **Erlernen:** 10 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - MeisterAttribut [[Klugheit|KL]] 10

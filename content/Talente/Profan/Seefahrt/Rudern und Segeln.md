@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 7f86a0c9-d6bf-4729-b465-8fb004216642
+ID: 547227ea-e0cb-4d5a-8770-506ba96fcc3b
 Name: Rudern und Segeln
 title: Rudern und Segeln
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Seefahrt|Seefahrt]]"
+  - "[[Seefahrt]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Rudern und Segeln umfasst alles, was in den Aufgabenbereich eines Matrosen auf e
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Seefahrt|Seefahrt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Seefahrt]]
+- **Erlernen:** 20 EP

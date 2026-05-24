@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 716f50c1-0552-46a4-8e31-0c635b276935
+ID: 2fb442c4-71b8-45c0-8eb4-64e81ec3a2b7
 Name: Flüstern der Wildnis
 title: Flüstern der Wildnis
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wildnis|Wildnis]]"
+  - "[[Wildnis]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Firungeweihten I
@@ -24,5 +24,8 @@ Das Ziel erhält den Vorteil Tierempathie (Eisbären) und erleidet keine Erschö
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wildnis|Wildnis]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Wildnis]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Firungeweihten I]]
+- **Erlernen:** 10 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 023cce62-5686-434c-a755-1b8a33de41f3
+ID: 9e3c7874-245e-4458-8e16-dcbd2fdbd1f5
 Name: Meisterstück
 title: Meisterstück
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heiliges Handwerk|Heiliges Handwerk]]"
-  - "[[Inhalt/Fertigkeiten/Wissen|Wissen]]"
+  - "[[Heiliges Handwerk]]"
+  - "[[Wissen]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Graveshgeweihten I
@@ -25,5 +25,9 @@ Während du dich in deine Handwerkskunst versenkst, wirst du mit Inspiration erf
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heiliges Handwerk|Heiliges Handwerk]], [[Inhalt/Fertigkeiten/Wissen|Wissen]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Heiliges Handwerk]]
+  - [[Wissen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+- **Erlernen:** 40 EP

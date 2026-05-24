@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 1d186b74-cd84-4fb0-9960-bc365f860795
+ID: 1717e7c4-63d9-4a4f-bfa3-3d86185f38b9
 Name: Magische Elixiere
 title: Magische Elixiere
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Alchemie|Alchemie]]"
+  - "[[Alchemie]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Magische Elixiere beinhaltet Heiltränke, Stärkungsmittel und Verwandlungselixi
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Alchemie|Alchemie]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Alchemie]]
+- **Erlernen:** 40 EP

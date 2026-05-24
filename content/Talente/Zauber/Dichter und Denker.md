@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 2191539b-bf5b-4f0c-8891-72d218ed4a49
+ID: 457e3f80-d118-45db-94b6-4facac9b6993
 Name: Dichter und Denker
 title: Dichter und Denker
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Einfluss]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schelme I
@@ -23,5 +23,8 @@ Dein Opfer kann sich nur noch in Reimen ausdrücken. Zauber können nur noch gew
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schelme I]]
+- **Erlernen:** 10 EP

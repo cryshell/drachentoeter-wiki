@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0449c9e8-ebf8-4c54-bdd6-aea1cbe75aa8
+ID: 8530267c-3aad-491f-9a26-8b77defdf8a2
 Name: Packesel
 title: Packesel
 Kategorie: Profan
@@ -14,7 +14,8 @@ Die Tragkraft steigt um +4.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Körperkraft|KK]] 4
-- **Siehe auch:** [[TK]]
+- **Siehe auch:**
+  - [[TK]]

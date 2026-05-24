@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 23173726-6264-4ef3-a0f3-229edeb5fa23
+ID: 1a206328-7725-491b-a741-f2aeae81e126
 Name: Lange Nägel
 title: Lange Nägel
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Belkelels|Anrufung Belkelels]]"
+  - "[[Anrufung Belkelels]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Deine Fingernägel werden lang, scharf und hart wie Raubtierklauen. Deine Hände
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Belkelels|Anrufung Belkelels]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Anrufung Belkelels]]
+- **Erlernen:** 10 EP

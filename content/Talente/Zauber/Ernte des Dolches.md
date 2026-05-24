@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 4153b0e6-47e4-4348-ae37-be532fbd00a2
+ID: 32aac350-10e6-4ecb-aa12-f89854d6ca40
 Name: Ernte des Dolches
 title: Ernte des Dolches
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
-  - "[[Inhalt/Fertigkeiten/Temporal|Temporal]]"
+  - "[[Dolchzauber]]"
+  - "[[Objekt]]"
+  - "[[Temporal]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I
@@ -25,5 +25,10 @@ Die nächste mit dem Ritualgegenstand geerntete Pflanze ist viermal so lange hal
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]], [[Inhalt/Fertigkeiten/Objekt|Objekt]], [[Inhalt/Fertigkeiten/Temporal|Temporal]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Dolchzauber]]
+  - [[Objekt]]
+  - [[Temporal]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I]]
+- **Erlernen:** 10 EP

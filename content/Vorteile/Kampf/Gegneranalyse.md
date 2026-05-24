@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2198a218-2faa-4c3c-bc4d-0e369667c9b5
+ID: 67866cb4-6e3a-4bd4-8e53-148f57705cd1
 Name: Gegneranalyse
 title: Gegneranalyse
 Kategorie: Kampf
@@ -15,7 +15,8 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 10
-- **Siehe auch:** [[Triumph und Patzer]]
+- **Siehe auch:**
+  - [[Triumph und Patzer]]

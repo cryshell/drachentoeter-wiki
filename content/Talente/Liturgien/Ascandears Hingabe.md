@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 679b88ed-5182-4a36-b117-5e155cd0e6de
+ID: 4a6f7a6b-1b67-4b95-afd6-6901ea47e210
 Name: Ascandears Hingabe
 title: Ascandears Hingabe
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Rausch|Rausch]]"
+  - "[[Rausch]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rahjageweihten I
@@ -23,5 +23,8 @@ Das Ziel wird von einem glücklichen Rausch ergriffen und ist solange *handlungs
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Rausch|Rausch]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Rausch]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rahjageweihten I]]
+- **Erlernen:** 20 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 16c89179-7bef-4787-8625-7971f7ca6d3c
+ID: 082e3253-eac3-4ea2-a226-9b7b5312e7a1
 Name: Stangenwaffen
 title: Stangenwaffen
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Nahkampf|Nahkampf]]"
+  - "[[Nahkampf]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Stangenwaffen sind Langwaffen mit großer Reichweite wie Speere, Stäbe und Infa
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Nahkampf|Nahkampf]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Nahkampf]]
+- **Erlernen:** 40 EP

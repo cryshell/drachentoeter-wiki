@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: f06b8cab-6a9e-4c31-945d-e899553bddb8
+ID: f997d6ae-2395-4d9f-8b33-b41cd6429e37
 Name: Lied der Freundschaft
 title: Lied der Freundschaft
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]]"
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Zaubermelodien]]"
+  - "[[Einfluss]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zauberbarden I
@@ -25,5 +25,9 @@ Alle Zuhörer in einem Radius von 4 Schritt müssen eine Magieresistenz-Gegenpro
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubermelodien|Zaubermelodien]], [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Zaubermelodien]]
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zauberbarden I]]
+- **Erlernen:** 20 EP

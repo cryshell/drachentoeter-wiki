@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 137dbb53-61ed-49c9-b792-bac40192ef32
+ID: f221fb5d-326d-43bc-a703-a1fbbe6dc5c2
 Name: Artefakt beseelen
 title: Artefakt beseelen
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Agrimoths|Anrufung Agrimoths]]"
+  - "[[Anrufung Agrimoths]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -22,5 +22,6 @@ Du beschwörst einen Agribaal und lässt ihn mit dem Dienst Beseelen in einen Ge
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Agrimoths|Anrufung Agrimoths]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Anrufung Agrimoths]]
+- **Erlernen:** 40 EP

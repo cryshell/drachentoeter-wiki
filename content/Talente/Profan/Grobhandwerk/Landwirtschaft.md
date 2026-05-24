@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: cb73d51c-ee87-446c-be2d-e4d351cfd49d
+ID: c4bb2d90-73f9-4924-8929-99e8abd87c29
 Name: Landwirtschaft
 title: Landwirtschaft
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Grobhandwerk|Grobhandwerk]]"
+  - "[[Grobhandwerk]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Mit Landwirtschaft bestellst du die Felder, baust Weinreben an und bist bewander
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Grobhandwerk|Grobhandwerk]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Grobhandwerk]]
+- **Erlernen:** 10 EP

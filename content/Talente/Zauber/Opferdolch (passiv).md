@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 42a52a58-0131-4d8f-bfa9-eca38d87460f
+ID: 9dfc411f-b8c7-4d24-ad0f-c16d26f25771
 Name: Opferdolch (passiv)
 title: Opferdolch (passiv)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]]"
+  - "[[Dolchzauber]]"
 Kosten: 20
 Voraussetzungen: Vorteil Tradition der Druiden I
 ---
@@ -16,5 +16,8 @@ Du nutzt die Lebenskraft von Tieren für deine Zauber. Es wird dabei völlig aus
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dolchzauber|Dolchzauber]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Dolchzauber]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I]]
+- **Erlernen:** 20 EP

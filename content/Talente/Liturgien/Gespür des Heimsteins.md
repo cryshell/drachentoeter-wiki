@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: abe7b9d4-637e-4452-ac7d-5c27034231d3
+ID: 4277198e-075b-4efc-9883-820a70f00bc9
 Name: Gespür des Heimsteins
 title: Gespür des Heimsteins
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Sichere Heimkehr|Sichere Heimkehr]]"
+  - "[[Sichere Heimkehr]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Traviageweihten I
@@ -24,5 +24,8 @@ Du erspürst die Richtung, in der sich ein von dir geweihter Heimstein befindet 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Sichere Heimkehr|Sichere Heimkehr]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Sichere Heimkehr]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Traviageweihten I]]
+- **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 1d3df7f8-3a97-4b30-8f77-0a7767c9ed5e
+ID: 64b67bf6-3d72-4d32-8387-61f2c4b617d2
 Name: Tradition der Efferdgeweihten III
 title: Tradition der Efferdgeweihten III
 Kategorie: Tradition (Karmal)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 8
   - Vorteil [[Tradition der Efferdgeweihten II]]
-- **Siehe auch:** [[Opferung (Efferd)]]
+- **Siehe auch:**
+  - [[Opferung (Efferd)]]

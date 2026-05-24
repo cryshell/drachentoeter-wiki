@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 9ced72a2-44e0-4e78-ad91-38d60d294dd5
+ID: a53c774e-d6c3-4c60-9756-1f74e0223b8e
 Name: Tradition der Ingerimmgeweihten IV
 title: Tradition der Ingerimmgeweihten IV
 Kategorie: Tradition (Karmal)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Fingerfertigkeit|FF]] 10
   - Vorteil [[Tradition der Ingerimmgeweihten III]]

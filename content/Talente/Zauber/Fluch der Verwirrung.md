@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: eb44319e-7d77-4bae-b198-c33d2b501dcb
+ID: e62a63fd-d02d-4652-8f36-51b901eeb06d
 Name: Fluch der Verwirrung
 title: Fluch der Verwirrung
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Geister des Zorns|Geister des Zorns]]"
+  - "[[Dämonisch]]"
+  - "[[Einfluss]]"
+  - "[[Geister des Zorns]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Waldmenschen) I
@@ -26,5 +26,10 @@ Der Fluch beschwört einen Karunga, der deine Gegner ablenkt. Humanoide in einem
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]], [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Geister des Zorns|Geister des Zorns]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Dämonisch]]
+  - [[Einfluss]]
+  - [[Geister des Zorns]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Waldmenschen) I]]
+- **Erlernen:** 20 EP

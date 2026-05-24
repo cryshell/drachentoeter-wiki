@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 52bf178a-4c8f-4df8-acee-a157bff3f174
+ID: ffa754f4-1155-410b-8511-f208b5987741
 Name: Schutz der Jurte
 title: Schutz der Jurte
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Antimagie|Antimagie]]"
-  - "[[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]]"
-  - "[[Inhalt/Fertigkeiten/Geister vertreiben|Geister vertreiben]]"
+  - "[[Antimagie]]"
+  - "[[Geister der Stärkung]]"
+  - "[[Geister vertreiben]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Nivesen) I ODER Vorteil Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Orks) I
@@ -16,7 +16,8 @@ Du schützt einen abgeschlossenen Raum, wie eine Jurte oder einer Höhle, mit bi
 
 - **Hohe Qualität:** Die maximale Beschwörungsschwierigkeit steigt um +4.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, 16 AsP, davon 2 gAsP)
+- **Modifikationen:**
+  - Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, 16 AsP, davon 2 gAsP)
 - **Vorbereitungszeit:** 1 Stunde
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -27,5 +28,10 @@ Du schützt einen abgeschlossenen Raum, wie eine Jurte oder einer Höhle, mit bi
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Antimagie|Antimagie]], [[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]], [[Inhalt/Fertigkeiten/Geister vertreiben|Geister vertreiben]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Antimagie]]
+  - [[Geister der Stärkung]]
+  - [[Geister vertreiben]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Nivesen) I ODER Vorteil Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Orks) I]]
+- **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 7f6095af-7f0b-4d84-9794-e505c6c75f80
+ID: 918617cc-f457-4128-addd-172ff60e775e
 Name: Aufmerksamkeit
 title: Aufmerksamkeit
 Kategorie: Kampf
@@ -14,7 +14,8 @@ Du kannst den ersten Passierschlag zwischen zwei Zügen ohne Reaktion ausführen
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 8
-- **Siehe auch:** [[Reaktion]]
+- **Siehe auch:**
+  - [[Reaktion]]

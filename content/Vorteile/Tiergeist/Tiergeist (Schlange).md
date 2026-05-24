@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 00d6851d-5b56-4009-ae97-3bb294cce2f3
+ID: 36ae1644-1694-4661-ae03-54dfda3578b4
 Name: Tiergeist (Schlange)
 title: Tiergeist (Schlange)
 Kategorie: Tiergeist
@@ -25,8 +25,13 @@ Kosten: 0
 
 ---
 
-- **Kosten:** 0 EP
+- **Erlernen:** 0 EP
 - **Voraussetzungen:**
   - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
   - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
-- **Siehe auch:** [[Atemnot]], [[Psychostabilis]], [[Serpentialis Schlangenleib]], [[Vipernblick]], [[Warmes Blut]]
+- **Siehe auch:**
+  - [[Atemnot]]
+  - [[Psychostabilis]]
+  - [[Serpentialis Schlangenleib]]
+  - [[Vipernblick]]
+  - [[Warmes Blut]]

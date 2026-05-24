@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e4ff19bc-0390-42c8-aa22-b9ba8b2a263f
+ID: f617d4aa-1596-40f0-a9e2-5f52957c7302
 Name: Sprachkenntnis (Gjalskisch)
 title: Sprachkenntnis (Gjalskisch)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Gjalskisch gehört zur Thorwalsch-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

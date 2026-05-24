@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d0304845-6d36-4fd0-9cf9-53f8639eff12
+ID: 6e72e867-724f-496d-8885-2da940b8ff7c
 Name: Immunität gegen Krankheiten
 title: Immunität gegen Krankheiten
 Kategorie: Profan
@@ -12,6 +12,6 @@ Du erkrankst niemals.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Resistenz gegen Krankheiten]]

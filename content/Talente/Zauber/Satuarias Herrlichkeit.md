@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: f45ce222-e920-4d8a-a54a-97ba957f895f
+ID: e171b3c1-398c-4b0e-b992-a28ee150747e
 Name: Satuarias Herrlichkeit
 title: Satuarias Herrlichkeit
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Illusion|Illusion]]"
+  - "[[Eigenschaften]]"
+  - "[[Illusion]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Hexen I
@@ -25,5 +25,9 @@ Dein Aussehen weckt Begehren in allen an deinem Geschlecht und deiner Spezies in
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Illusion|Illusion]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Illusion]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Hexen I]]
+- **Erlernen:** 10 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: ce07972c-a71b-41a4-81be-099e6f118615
+ID: 7c0056f4-46cf-461f-ad7d-3868ae3b0239
 Name: Herr der Tiergeister
 title: Herr der Tiergeister
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]"
+  - "[[Einfluss]]"
+  - "[[Geister rufen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Achaz) I ODER Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Orks) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Waldmenschen) I
@@ -18,5 +18,9 @@ $talent:Herr über das Tierreich$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Geister rufen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Achaz) I ODER Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Orks) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+- **Erlernen:** 20 EP

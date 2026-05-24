@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 33d29a23-180e-4543-97b4-d9f6aaaee34f
+ID: cbfeb9c4-57ab-4582-8958-8df6e192b881
 Name: Schiffssymbiose
 title: Schiffssymbiose
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Charyptoroths|Anrufung Charyptoroths]]"
+  - "[[Anrufung Charyptoroths]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Der Paktierer übt besondere Macht über ein Schiff aus und kann Gegenstände mi
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Charyptoroths|Anrufung Charyptoroths]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Charyptoroths]]
+- **Erlernen:** 20 EP

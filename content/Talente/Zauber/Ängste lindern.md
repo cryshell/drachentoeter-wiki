@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: b5e06683-162c-47c1-9671-df975856d7d5
+ID: 086244f4-9e53-49ee-840e-4c150958db4f
 Name: Ängste lindern
 title: Ängste lindern
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Einfluss]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I
@@ -13,7 +13,8 @@ Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition d
 *Verängstigt* und *Panisch* sinken um eine Stufe.
 
 - **Probenschwierigkeit:** EW des Zustand-Auslösers
-- **Modifikationen:** Tiere besänftigen (-4, Ziel Tier; der Zauber wirkt auf Tiere.)
+- **Modifikationen:**
+  - Tiere besänftigen (-4, Ziel Tier; der Zauber wirkt auf Tiere.)
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** Humanoid
 - **Reichweite:** Berührung
@@ -24,5 +25,8 @@ Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition d
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I]]
+- **Erlernen:** 20 EP

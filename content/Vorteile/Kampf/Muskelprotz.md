@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6bb59563-bc0d-4c3b-89d1-30a6fb7c9241
+ID: 0a0bc526-f8cd-4336-811c-8c70a8c5183f
 Name: Muskelprotz
 title: Muskelprotz
 Kategorie: Kampf
@@ -14,7 +14,8 @@ Einschüchtern-Proben im Kampf haben Vorteil und wirken ohne zusätzliche Erschw
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Körperkraft|KK]] 8
-- **Siehe auch:** [[Aktion Einschüchtern]]
+- **Siehe auch:**
+  - [[Aktion Einschüchtern]]

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 9b7495da-a3bf-4afa-b7e6-6e1b70804ca1
+ID: b2d0fcff-0920-4eb6-8247-ec77662c671d
 Name: Pfeil des Humus
 title: Pfeil des Humus
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
+  - "[[Humus]]"
+  - "[[Objekt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Elfen I ODER Vorteil Tradition der Kristallomanten I
@@ -14,9 +14,9 @@ Voraussetzungen: Vorteil Tradition der Elfen I ODER Vorteil Tradition der Krista
 Du verzauberst einen Pfeil (oder Bolzen oder Wurfwaffe), sodass er im Flug die Macht des Elements freisetzt. Der Pfeil verursacht Humusschaden und *Fesseln*. Unbelebte Gegenstände werden bei einem Treffer mit Ranken überzogen, die Klettern-Proben Vorteil verleihen.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Geschütz (-4; du verzauberst ein größeres Geschoss wie das einer Balliste.)
-Permanenz (-4, 4 AsP, davon 1 gAsP, Wirkungsdauer bis die Bindung gelöst wird oder der Pfeil verschossen wurde)
-
+- **Modifikationen:**
+  - Geschütz (-4; du verzauberst ein größeres Geschoss wie das einer Balliste.)
+  - Permanenz (-4, 4 AsP, davon 1 gAsP, Wirkungsdauer bis die Bindung gelöst wird oder der Pfeil verschossen wurde)
 - **Vorbereitungszeit:** 1 Aktion
 - **Ziel:** Objekt
 - **Reichweite:** Berührung
@@ -27,5 +27,9 @@ Permanenz (-4, 4 AsP, davon 1 gAsP, Wirkungsdauer bis die Bindung gelöst wird o
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Humus|Humus]], [[Inhalt/Fertigkeiten/Objekt|Objekt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Humus]]
+  - [[Objekt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

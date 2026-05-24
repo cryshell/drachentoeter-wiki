@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 6fd4117d-7363-4537-802d-4ef685911ba1
+ID: 87b95d29-280d-406f-89aa-648ae52b6ce7
 Name: Handwärmer
 title: Handwärmer
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
+  - "[[Zaubertricks]]"
 Kosten: 5
 ---
 Ein Gegenstand, den du in der Hand hältst, behält seine Temperatur.
@@ -20,5 +20,6 @@ Ein Gegenstand, den du in der Hand hältst, behält seine Temperatur.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
-- **Kosten:** 5 EP
+- **Fertigkeiten:**
+  - [[Zaubertricks]]
+- **Erlernen:** 5 EP

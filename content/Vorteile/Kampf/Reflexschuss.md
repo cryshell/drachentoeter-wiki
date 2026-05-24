@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: fa067c71-1fad-4d26-93e6-2671d2deeee7
+ID: b419206b-4710-49cf-bb12-9d1325b567d4
 Name: Reflexschuss
 title: Reflexschuss
 Kategorie: Kampf
@@ -17,7 +17,8 @@ Wenn du einen Fernkampftreffer mit Vorteil landest, kannst du einmal pro Zug ein
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Fingerfertigkeit|FF]] 6
-- **Siehe auch:** [[Fernkampf]]
+- **Siehe auch:**
+  - [[Fernkampf]]

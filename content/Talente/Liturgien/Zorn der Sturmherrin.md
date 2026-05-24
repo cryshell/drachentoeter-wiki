@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 05802f49-ed36-4a21-b098-cbae8e43810f
+ID: 81986dec-306c-4d90-b7b4-23889a4ecbbf
 Name: Zorn der Sturmherrin
 title: Zorn der Sturmherrin
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heerführung|Heerführung]]"
+  - "[[Heerführung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rondrageweihten I
@@ -25,5 +25,8 @@ Ein mächtiger Blitz schlägt in ein Ziel deiner Wahl ein, das du sehen kannst, 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heerführung|Heerführung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Heerführung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rondrageweihten I]]
+- **Erlernen:** 20 EP

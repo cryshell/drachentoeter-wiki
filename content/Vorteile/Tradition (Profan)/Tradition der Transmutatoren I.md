@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 73a7191a-b2f4-42ed-9afb-8e2e9fb3269c
+ID: 022de0ed-3a68-4f23-b623-7821123ae76d
 Name: Tradition der Transmutatoren I
 title: Tradition der Transmutatoren I
 Kategorie: Tradition (Profan)
@@ -12,6 +12,6 @@ Du beherrschst Rezepte der Tradition der Transmutatoren (Trm) bis zu einer Verbr
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 4

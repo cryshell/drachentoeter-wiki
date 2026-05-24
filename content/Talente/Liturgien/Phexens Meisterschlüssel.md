@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: bbd0285e-c43e-4e42-8909-4a053cba21d8
+ID: e3572766-91b7-40f0-b8b7-2eb17fd8b229
 Name: Phexens Meisterschlüssel
 title: Phexens Meisterschlüssel
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Nächtlicher Schatten|Nächtlicher Schatten]]"
+  - "[[Nächtlicher Schatten]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Phexgeweihten I
@@ -23,5 +23,8 @@ Du rufst den Mondsilberschlüssel herbei, der fast jedes Schloss öffnet, auch m
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Nächtlicher Schatten|Nächtlicher Schatten]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Nächtlicher Schatten]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Phexgeweihten I]]
+- **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 56333ec9-8b6e-4027-87f6-1ce2a4b4bf2e
+ID: 0b87592c-4d7a-4196-96ae-a715de4c335d
 Name: Neutralisieren
 title: Neutralisieren
 Kategorie: Magisch
@@ -14,7 +14,7 @@ Ein wirkender Zauber kann durch eine Gegenprobe auf den gleichen Zauber aufgehob
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
   - Attribut [[Klugheit|KL]] 6

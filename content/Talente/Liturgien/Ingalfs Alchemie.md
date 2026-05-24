@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 625c7169-104f-4127-8bb3-738c4760fc0e
+ID: cd05fe2c-8986-490c-9ce7-71a0eb977d09
 Name: Ingalfs Alchemie
 title: Ingalfs Alchemie
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Magie|Magie]]"
+  - "[[Magie]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hesindegeweihten I
@@ -24,5 +24,8 @@ Du rufst den Heiligen Trichter Hesindes herbei, der jede alchemistische Substanz
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Magie|Magie]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Magie]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hesindegeweihten I]]
+- **Erlernen:** 20 EP

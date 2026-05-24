@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: a16c1747-3d76-4a6c-b816-f78afd6c5bbb
+ID: bda6c96a-f486-4f67-aabc-0b8e082f6e95
 Name: Traumbild
 title: Traumbild
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Nipakau|Nipakau]]"
+  - "[[Nipakau]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kamaluqgeweihten I
@@ -13,9 +13,9 @@ Voraussetzungen: Vorteil Tradition der Kamaluqgeweihten I
 Du erhältst einen Einblick in den Traum deines Ziels. Erfordert *Konzentration*, erlaubt *Aufrechterhalten*.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Traumreise (-4, 8 KaP; du kannst in den Traum des Schlafenden reisen.)
-Große Traumreise (-8, 16 KaP; du kannst mit einigen Gefährten in den Traum reisen.)
-
+- **Modifikationen:**
+  - Traumreise (-4, 8 KaP; du kannst in den Traum des Schlafenden reisen.)
+  - Große Traumreise (-8, 16 KaP; du kannst mit einigen Gefährten in den Traum reisen.)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Humanoid
 - **Reichweite:** Berührung
@@ -26,5 +26,8 @@ Große Traumreise (-8, 16 KaP; du kannst mit einigen Gefährten in den Traum rei
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Nipakau|Nipakau]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Nipakau]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kamaluqgeweihten I]]
+- **Erlernen:** 10 EP

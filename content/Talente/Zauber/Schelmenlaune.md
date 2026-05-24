@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 6c1d5cfb-b49d-4b9c-9860-d6b40c92813c
+ID: 9353909f-9ba1-4605-8e2f-c2d6cfd40693
 Name: Schelmenlaune
 title: Schelmenlaune
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Einfluss]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schelme I
@@ -23,5 +23,8 @@ Deine Stimmung überträgt sich auf jede Person in einem Umreis von 8 Schritt, d
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schelme I]]
+- **Erlernen:** 10 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 002dd401-71f2-4be1-bc4f-003773dac238
+ID: 8c72ac2e-9217-4396-9871-73fef0b9d10e
 Name: Tsas wunderbare Erneuerung
 title: Tsas wunderbare Erneuerung
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Neubeginn|Neubeginn]]"
+  - "[[Neubeginn]]"
 Kosten: 0
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Tsageweihten I
@@ -24,5 +24,8 @@ Ein verlorenes Körperteil wächst innerhalb einer Woche nach (währenddessen Ei
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Neubeginn|Neubeginn]]
-- **Kosten:** 0 EP
+- **Fertigkeiten:**
+  - [[Neubeginn]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Tsageweihten I]]
+- **Erlernen:** 0 EP

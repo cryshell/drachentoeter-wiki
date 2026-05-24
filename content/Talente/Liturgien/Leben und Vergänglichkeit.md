@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: f1d666af-09c4-4fcf-9554-967a79186b4e
+ID: 088f3e69-935f-484e-8eb7-e3201424dcab
 Name: Leben und Vergänglichkeit
 title: Leben und Vergänglichkeit
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wachstum|Wachstum]]"
+  - "[[Wachstum]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Ssad’Huargeweihten I
@@ -27,5 +27,8 @@ Giftbote (-Giftstufe/4, du überträgst deine Vergiftung auf dein Ziel.)
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wachstum|Wachstum]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Wachstum]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Ssad’Huargeweihten I]]
+- **Erlernen:** 20 EP

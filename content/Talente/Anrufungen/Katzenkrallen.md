@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 9729c301-4f84-418c-958c-c8785ad0b62f
+ID: 52cec810-aa81-4aa4-8ec0-6107acce4c41
 Name: Katzenkrallen
 title: Katzenkrallen
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Aphasmayras|Anrufung Aphasmayras]]"
+  - "[[Anrufung Aphasmayras]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Deine Fingernägel werden lang, scharf und hart wie Raubtierklauen. Deine Hände
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Aphasmayras|Anrufung Aphasmayras]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Anrufung Aphasmayras]]
+- **Erlernen:** 10 EP

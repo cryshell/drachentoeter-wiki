@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 528f0ca7-faed-4a2e-b914-c2b27fe57a84
+ID: b97134b4-9705-4d1f-a02b-6fa601b7b7e7
 Name: Fünfte Lobpreisung des Frühlings
 title: Fünfte Lobpreisung des Frühlings
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heilung|Heilung]]"
+  - "[[Heilung]]"
 Kosten: 0
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Perainegeweihten I
@@ -23,5 +23,8 @@ Du sagst dem Ziel täglich Gebete vor, während es im Moorschlamm badet. Dies be
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heilung|Heilung]]
-- **Kosten:** 0 EP
+- **Fertigkeiten:**
+  - [[Heilung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Perainegeweihten I]]
+- **Erlernen:** 0 EP

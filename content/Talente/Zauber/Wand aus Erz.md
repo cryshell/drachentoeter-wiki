@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 68e69489-e00c-4047-b0db-dd6786f5a64c
+ID: e35598d5-312a-48eb-a1f0-6c72f236b68d
 Name: Wand aus Erz
 title: Wand aus Erz
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
+  - "[[Erz]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I
@@ -14,7 +14,8 @@ Eine 4 x 3 x 1 Schritt (BxHxT) große Wand aus massivem Erz entsteht entlang ein
 
 - **Hohe Qualität:** Die Breite steigt um 2 Schritt, die Höhe um 1 Schritt.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Zylinder (-4; die Wand verläuft kreisförmig mit einem Radius in Höhe von einem Viertel der Breite. Du musst den Kreis nicht abschließen.)
+- **Modifikationen:**
+  - Zylinder (-4; die Wand verläuft kreisförmig mit einem Radius in Höhe von einem Viertel der Breite. Du musst den Kreis nicht abschließen.)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** 8 Schritt
@@ -25,5 +26,8 @@ Eine 4 x 3 x 1 Schritt (BxHxT) große Wand aus massivem Erz entsteht entlang ein
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Erz|Erz]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Erz]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

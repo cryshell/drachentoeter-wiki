@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: fc23a4f1-75ea-4197-b041-8abecf313685
+ID: 2aa4ef4b-b4ce-458a-b1a5-1eab4c5a13ef
 Name: Apport des Schuppenbeutels
 title: Apport des Schuppenbeutels
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Kristallmagie]]"
+  - "[[Umwelt]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I
@@ -24,5 +24,9 @@ Der Schuppenbeutel kehrt fliegend mit einer Geschwindigkeit von 10 Meilen pro St
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Kristallmagie]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I]]
+- **Erlernen:** 10 EP

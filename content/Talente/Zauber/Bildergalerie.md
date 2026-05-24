@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 3a1d3056-8d6d-4ee5-babb-8e2235ff554c
+ID: c5a0439a-86ae-4db6-848c-add769318b7a
 Name: Bildergalerie
 title: Bildergalerie
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Illusion|Illusion]]"
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
-  - "[[Inhalt/Fertigkeiten/Kugelzauber|Kugelzauber]]"
+  - "[[Illusion]]"
+  - "[[Kraft]]"
+  - "[[Kugelzauber]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Scharlatane I
@@ -25,5 +25,10 @@ Du speicherst einen soeben gewirkten Illusionszauber in die Kugel. Maximal kanns
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Illusion|Illusion]], [[Inhalt/Fertigkeiten/Kraft|Kraft]], [[Inhalt/Fertigkeiten/Kugelzauber|Kugelzauber]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Illusion]]
+  - [[Kraft]]
+  - [[Kugelzauber]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Scharlatane I]]
+- **Erlernen:** 10 EP

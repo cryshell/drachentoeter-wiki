@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 108daede-6227-4ea3-95b3-5879d909a001
+ID: 4a944745-fea2-49cb-b0d9-6cc57ed706af
 Name: "Tradition der Sattler & Kürschner I"
 title: "Tradition der Sattler & Kürschner I"
 Kategorie: Tradition (Profan)
@@ -12,6 +12,6 @@ Du beherrschst Rezepte der Tradition der Sattler und Kürschner (Sat).
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Fingerfertigkeit|FF]] 4

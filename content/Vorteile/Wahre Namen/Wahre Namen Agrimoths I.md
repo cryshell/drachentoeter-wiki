@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 461f6225-1971-4c1e-8c1e-13dc77bb5c55
+ID: b1b3439b-9d57-479a-8a17-8e676c44778d
 Name: Wahre Namen Agrimoths I
 title: Wahre Namen Agrimoths I
 Kategorie: Wahre Namen
@@ -14,7 +14,7 @@ Du kannst alle Dämonen Agrimoths bis zu einer Beschwörungsschwierigkeit von 16
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - Attribut [[Klugheit|KL]] 4

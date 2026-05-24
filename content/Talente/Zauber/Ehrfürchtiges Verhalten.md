@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: d551acca-ce13-407a-b312-ce0ae35d42d2
+ID: 16f20024-b1c1-4547-8361-94b7e915a63e
 Name: Ehrfürchtiges Verhalten
 title: Ehrfürchtiges Verhalten
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
+  - "[[Zaubertricks]]"
 Kosten: 5
 ---
 Das Opfer spürt instinktiv, dass es jetzt angebracht wäre, demütig zurückzuweichen. Es entscheidet selbst, ob es dem nachgeht.
@@ -20,5 +20,6 @@ Das Opfer spürt instinktiv, dass es jetzt angebracht wäre, demütig zurückzuw
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
-- **Kosten:** 5 EP
+- **Fertigkeiten:**
+  - [[Zaubertricks]]
+- **Erlernen:** 5 EP

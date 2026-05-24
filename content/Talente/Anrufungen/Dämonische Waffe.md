@@ -1,21 +1,21 @@
 ---
 Entitätstyp: Talent
-ID: bb9aa62c-29d2-41c7-a2ec-f982cd2c5c83
+ID: a36af4a4-da55-4faf-a453-7e76a91de749
 Name: Dämonische Waffe
 title: Dämonische Waffe
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonischer Ritus|Dämonischer Ritus]]"
-  - "[[Inhalt/Fertigkeiten/Anrufung Belhalhars|Anrufung Belhalhars]]"
+  - "[[Dämonischer Ritus]]"
+  - "[[Anrufung Belhalhars]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
 Du segnest eine Waffe. Diese gilt als dämonisch und erhält die Eigenschaft Unzerstörbar.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, Kosten 8 GuP, davon 2 gGuP)
-Priesterschlächter (-8; die Waffe verursacht +1W6 TP gegen Wesen mit Karmaenergie.)
-
+- **Modifikationen:**
+  - Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, Kosten 8 GuP, davon 2 gGuP)
+  - Priesterschlächter (-8; die Waffe verursacht +1W6 TP gegen Wesen mit Karmaenergie.)
 - **Vorbereitungszeit:** 1 Stunde
 - **Ziel:** Objekt
 - **Reichweite:** Berührung
@@ -27,5 +27,7 @@ Priesterschlächter (-8; die Waffe verursacht +1W6 TP gegen Wesen mit Karmaenerg
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonischer Ritus|Dämonischer Ritus]], [[Inhalt/Fertigkeiten/Anrufung Belhalhars|Anrufung Belhalhars]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Dämonischer Ritus]]
+  - [[Anrufung Belhalhars]]
+- **Erlernen:** 40 EP

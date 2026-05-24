@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: fae18595-8785-4eab-a24a-05dc6de7a2c8
+ID: 048f76e2-0c7c-4604-beef-093a77bdaf3c
 Name: Herrschaft über Luftelementare
 title: Herrschaft über Luftelementare
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Agrimoths|Anrufung Agrimoths]]"
+  - "[[Anrufung Agrimoths]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -22,5 +22,6 @@ Während der Wirkungsdauer kannst du einmal einen Dienst von einem Luftelementar
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Agrimoths|Anrufung Agrimoths]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Agrimoths]]
+- **Erlernen:** 20 EP

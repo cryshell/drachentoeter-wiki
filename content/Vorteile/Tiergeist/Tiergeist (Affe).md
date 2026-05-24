@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 225a9944-fa97-4358-b82d-55cb4af15d1e
+ID: ed354e14-fd04-452f-b56d-e5b51b0efaeb
 Name: Tiergeist (Affe)
 title: Tiergeist (Affe)
 Kategorie: Tiergeist
@@ -24,8 +24,12 @@ Kosten: 0
 
 ---
 
-- **Kosten:** 0 EP
+- **Erlernen:** 0 EP
 - **Voraussetzungen:**
   - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
   - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
-- **Siehe auch:** [[Attributo]], [[Axxeleratus Blitzgeschwind]], [[Motoricus Geisterhand]], [[Wipfellauf]]
+- **Siehe auch:**
+  - [[Attributo]]
+  - [[Axxeleratus Blitzgeschwind]]
+  - [[Motoricus Geisterhand]]
+  - [[Wipfellauf]]

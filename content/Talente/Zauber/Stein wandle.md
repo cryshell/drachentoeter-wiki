@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: f71a3294-e62c-446a-bb74-2478bd52c1e9
+ID: 05524102-ddc7-4932-9741-a5ba0d73da87
 Name: "Stein wandle!"
 title: "Stein wandle!"
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
+  - "[[Dämonisch]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I
@@ -22,5 +22,8 @@ Du erschaffst einen Golem aus Holz, Stein oder anderen Materialien. Der Golem ha
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Dämonisch]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 40 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 75c2ec00-c16d-4953-a492-aca03b08248e
+ID: 4123b21e-f5d1-41d8-a45d-e3f430c83e88
 Name: "Entzug von Nandus' Gaben"
 title: "Entzug von Nandus' Gaben"
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/List|List]]"
-  - "[[Inhalt/Fertigkeiten/Wissen|Wissen]]"
+  - "[[List]]"
+  - "[[Wissen]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Phexgeweihten I
@@ -24,5 +24,9 @@ Du strafst dein Ziel mit Dummheit, es ist *verwirrt*.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/List|List]], [[Inhalt/Fertigkeiten/Wissen|Wissen]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[List]]
+  - [[Wissen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Phexgeweihten I]]
+- **Erlernen:** 10 EP

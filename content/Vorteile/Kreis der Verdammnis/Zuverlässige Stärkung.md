@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: eee60cc6-3923-4dcc-8ec7-80c6eee0dc5a
+ID: 1725b4ff-166a-443a-a7ca-aac7e987f6e5
 Name: Zuverlässige Stärkung
 title: Zuverlässige Stärkung
 Kategorie: Kreis der Verdammnis
@@ -16,8 +16,9 @@ Schlägt eine durch Dämonische Stärkung unterstützte Probe fehl, bleibt die W
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 6
   - Vorteil [[Paktierer I]]
-- **Siehe auch:** [[Dämonische Stärkung]]
+- **Siehe auch:**
+  - [[Dämonische Stärkung]]

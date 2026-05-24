@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 84b850f3-4a04-4c52-a31a-4215bd427876
+ID: 39b8979b-a6e4-4688-9ced-6812880b2a8a
 Name: Routiniert
 title: Routiniert
 Kategorie: Profan
@@ -14,7 +14,8 @@ Du kannst die Modifikation Schnelle Fertigung ohne Erschwernis einsetzen und auc
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Fingerfertigkeit|FF]] 6
-- **Siehe auch:** [[Schnelle Fertigung]]
+- **Siehe auch:**
+  - [[Schnelle Fertigung]]

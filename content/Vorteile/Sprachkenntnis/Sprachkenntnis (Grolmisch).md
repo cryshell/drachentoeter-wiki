@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 3351273a-7bf8-4bb4-8781-08ccf63733b9
+ID: 512aa61c-a37f-4e5f-9031-93f0d20a9e27
 Name: Sprachkenntnis (Grolmisch)
 title: Sprachkenntnis (Grolmisch)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Grolmisch gehört zu keiner Sprachfamilie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

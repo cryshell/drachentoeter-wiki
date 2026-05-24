@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 4b9c0ee0-09bc-4e86-92b8-350fc6f3d5f4
+ID: d40995f2-ea52-480c-a748-9b3b003ab8fd
 Name: Abkühlung
 title: Abkühlung
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
+  - "[[Zaubertricks]]"
 Kosten: 5
 ---
 Du kühlst eine Handvoll Flüssigkeit um wenige Grad ab.
@@ -20,5 +20,6 @@ Du kühlst eine Handvoll Flüssigkeit um wenige Grad ab.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
-- **Kosten:** 5 EP
+- **Fertigkeiten:**
+  - [[Zaubertricks]]
+- **Erlernen:** 5 EP

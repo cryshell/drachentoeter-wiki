@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 26d33ae0-60db-481b-9694-4c1224454cfa
+ID: d4142a09-4fc2-4dd2-a0de-0aec7fd789f0
 Name: Taschenspielerei
 title: Taschenspielerei
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verschlagenheit|Verschlagenheit]]"
+  - "[[Verschlagenheit]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Mit Taschenspielerei kannst du dich aus Fesslen befreien und du beherrschst prof
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verschlagenheit|Verschlagenheit]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Verschlagenheit]]
+- **Erlernen:** 10 EP

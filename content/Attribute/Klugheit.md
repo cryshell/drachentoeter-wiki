@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Attribut
-ID: 600e903e-d8d1-46ad-8bc4-acf076d15264
+ID: 94dda421-8f94-4478-b925-39b810918fe9
 Name: Klugheit
 title: Klugheit
 aliases: "[KL]"

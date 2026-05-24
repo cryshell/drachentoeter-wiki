@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 3ddb475a-dadb-4dbd-a361-e732e53bc140
+ID: d4955864-78cd-4418-bea5-d36799d40dfb
 Name: Kreis der Verdammnis I
 title: Kreis der Verdammnis I
 Kategorie: Kreis der Verdammnis
@@ -19,5 +19,6 @@ Der Vorteil hat folgende Auswirkungen:
 
 ---
 
-- **Kosten:** -400 EP
-- **Siehe auch:** [[Seelenprüfung]]
+- **Erlernen:** -400 EP
+- **Siehe auch:**
+  - [[Seelenprüfung]]

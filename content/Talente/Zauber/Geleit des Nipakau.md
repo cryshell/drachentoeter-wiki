@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: a4fde02d-25a2-4afc-8623-f2e58766e96c
+ID: bfb85061-00bb-46c3-b30a-226fbce64a82
 Name: Geleit des Nipakau
 title: Geleit des Nipakau
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Antimagie|Antimagie]]"
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
-  - "[[Inhalt/Fertigkeiten/Geister vertreiben|Geister vertreiben]]"
+  - "[[Antimagie]]"
+  - "[[Dämonisch]]"
+  - "[[Geister vertreiben]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Waldmenschen) I
@@ -26,5 +26,10 @@ Du vertreibst den Nipakau eines Verstorbenen aus dessen Leiche. Zauber zur Erheb
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Antimagie|Antimagie]], [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]], [[Inhalt/Fertigkeiten/Geister vertreiben|Geister vertreiben]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Antimagie]]
+  - [[Dämonisch]]
+  - [[Geister vertreiben]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Waldmenschen) I]]
+- **Erlernen:** 10 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 3ecfb057-6d9f-48f1-a417-469d48364678
+ID: 5f1deb6b-1445-46d6-a1a0-538d0a63912c
 Name: Erneuerung des Landes
 title: Erneuerung des Landes
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wachstum|Wachstum]]"
+  - "[[Wachstum]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I
@@ -25,5 +25,8 @@ Dein Gebet schwächt dämonische Verseuchung in deiner Umgebung. Auf der Skala n
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wachstum|Wachstum]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Wachstum]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Perainegeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I]]
+- **Erlernen:** 20 EP

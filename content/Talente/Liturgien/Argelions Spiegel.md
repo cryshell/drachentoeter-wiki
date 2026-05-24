@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: c4b1994a-3f41-4ffd-b558-bbceeb2e0eb5
+ID: feea56fb-0621-4ebf-b5ae-17fde4e1c364
 Name: Argelions Spiegel
 title: Argelions Spiegel
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Magie|Magie]]"
+  - "[[Magie]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der H’Szintgeweihten I
@@ -24,5 +24,8 @@ Der nächste auf dich gewirkte Zauber wird auf den Zauberer zurückgeworfen. Erl
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Magie|Magie]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Magie]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der H’Szintgeweihten I]]
+- **Erlernen:** 20 EP

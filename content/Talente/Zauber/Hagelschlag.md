@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 159416cc-0f0c-4eed-b113-9dff388eb84c
+ID: cb20d7f2-a7eb-42c7-b91f-15e8c6b23a03
 Name: Hagelschlag
 title: Hagelschlag
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hexenflüche|Hexenflüche]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Hexenflüche]]"
+  - "[[Umwelt]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hexen I
@@ -25,5 +25,9 @@ Sobald auf natürliche Weise Wolken aufziehen, sorgen diese in einem Radius von 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hexenflüche|Hexenflüche]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Hexenflüche]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hexen I]]
+- **Erlernen:** 40 EP

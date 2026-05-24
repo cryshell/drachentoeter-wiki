@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 01a68895-988b-4206-9d79-10b96a7382ee
+ID: 987dc002-b44d-4c23-b7bb-938ae0572f7b
 Name: Lied des Schmerzes
 title: Lied des Schmerzes
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]]"
+  - "[[Einfluss]]"
+  - "[[Elfenlieder]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Shakagra I
@@ -24,5 +24,9 @@ Du entlockst deinem Instrument einen schrillen Klang, der für dein Ziel hundert
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Elfenlieder]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

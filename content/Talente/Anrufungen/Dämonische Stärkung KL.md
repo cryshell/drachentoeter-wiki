@@ -1,17 +1,17 @@
 ---
 Entitätstyp: Talent
-ID: 401f170c-5b13-422e-a00c-896df90c3044
+ID: 09c25141-f6df-4e8f-b821-0bbe8bf5806e
 Name: "Dämonische Stärkung: KL"
 title: "Dämonische Stärkung: KL"
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Thargunitoths|Anrufung Thargunitoths]]"
-  - "[[Inhalt/Fertigkeiten/Anrufung Amazeroths|Anrufung Amazeroths]]"
-  - "[[Inhalt/Fertigkeiten/Anrufung Belzhorashs|Anrufung Belzhorashs]]"
-  - "[[Inhalt/Fertigkeiten/Anrufung Agrimoths|Anrufung Agrimoths]]"
-  - "[[Inhalt/Fertigkeiten/Anrufung Aphasmayras|Anrufung Aphasmayras]]"
-  - "[[Inhalt/Fertigkeiten/Anrufung Aphestadils|Anrufung Aphestadils]]"
-  - "[[Inhalt/Fertigkeiten/Anrufung Heskatets|Anrufung Heskatets]]"
+  - "[[Anrufung Thargunitoths]]"
+  - "[[Anrufung Amazeroths]]"
+  - "[[Anrufung Belzhorashs]]"
+  - "[[Anrufung Agrimoths]]"
+  - "[[Anrufung Aphasmayras]]"
+  - "[[Anrufung Aphestadils]]"
+  - "[[Anrufung Heskatets]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -19,9 +19,9 @@ Deine nächste Probe auf KL ist um +4 Punkte erleichtert.
 
 - **Hohe Qualität:** Erhöht die Erleichterung um +2.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Intervention (-8; *Reaktive* Anrufung (beliebiges Ereignis). Hohe Qualität ist nicht möglich.)
-Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion ausführen. Hohe Qualität ist nicht möglich.)
-
+- **Modifikationen:**
+  - Intervention (-8; *Reaktive* Anrufung (beliebiges Ereignis). Hohe Qualität ist nicht möglich.)
+  - Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion ausführen. Hohe Qualität ist nicht möglich.)
 - **Vorbereitungszeit:** 0 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -31,5 +31,12 @@ Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion au
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Thargunitoths|Anrufung Thargunitoths]], [[Inhalt/Fertigkeiten/Anrufung Amazeroths|Anrufung Amazeroths]], [[Inhalt/Fertigkeiten/Anrufung Belzhorashs|Anrufung Belzhorashs]], [[Inhalt/Fertigkeiten/Anrufung Agrimoths|Anrufung Agrimoths]], [[Inhalt/Fertigkeiten/Anrufung Aphasmayras|Anrufung Aphasmayras]], [[Inhalt/Fertigkeiten/Anrufung Aphestadils|Anrufung Aphestadils]], [[Inhalt/Fertigkeiten/Anrufung Heskatets|Anrufung Heskatets]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Anrufung Thargunitoths]]
+  - [[Anrufung Amazeroths]]
+  - [[Anrufung Belzhorashs]]
+  - [[Anrufung Agrimoths]]
+  - [[Anrufung Aphasmayras]]
+  - [[Anrufung Aphestadils]]
+  - [[Anrufung Heskatets]]
+- **Erlernen:** 10 EP

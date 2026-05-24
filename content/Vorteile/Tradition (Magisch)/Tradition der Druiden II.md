@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c682e547-76e6-45c2-b88a-63b2f5973cad
+ID: 47b83cfb-f852-4fff-b3a4-dadca0c2ab15
 Name: Tradition der Druiden II
 title: Tradition der Druiden II
 Kategorie: Tradition (Magisch)
@@ -16,8 +16,9 @@ Druiden wissen um Orte von besonderer Kraft. Auf Kraftlinien und -knoten, die si
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 6
   - Vorteil [[Tradition der Druiden I]]
-- **Siehe auch:** [[Kraftlinienmagie]]
+- **Siehe auch:**
+  - [[Kraftlinienmagie]]

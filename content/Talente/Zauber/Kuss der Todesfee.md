@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 6ac573f2-6703-4860-9789-8ce7f2ccf518
+ID: e6b23169-aa85-49b5-9c67-7b926321a484
 Name: Kuss der Todesfee
 title: Kuss der Todesfee
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Vampirische Kräfte|Vampirische Kräfte]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Vampirische Kräfte]]"
+  - "[[Verständigung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kinder der Finsternis ODER Vorteil Tradition der Kinder der Nacht ODER Vorteil Tradition der Lamijahnim ODER Vorteil Tradition der Feylamia
@@ -25,5 +25,9 @@ Du raubst deinem Opfer mit einem Kuss die Lebensessenz. Pro 2 Züge erleidet es 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Vampirische Kräfte|Vampirische Kräfte]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Vampirische Kräfte]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kinder der Finsternis ODER Vorteil Tradition der Kinder der Nacht ODER Vorteil Tradition der Lamijahnim ODER Vorteil Tradition der Feylamia]]
+- **Erlernen:** 20 EP

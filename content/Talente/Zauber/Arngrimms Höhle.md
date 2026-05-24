@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 008f4ba5-d58d-4aed-9cf8-8a2eddb242e3
+ID: 3b602bc7-3e50-4b50-91a2-83221f770d86
 Name: Arngrimms Höhle
 title: Arngrimms Höhle
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Feuer|Feuer]]"
-  - "[[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Feuer]]"
+  - "[[Geister der Stärkung]]"
+  - "[[Umwelt]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Nivesen) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Achaz) I
@@ -26,5 +26,10 @@ In einem abgeschlossenen Raum wie einer Jurte oder einer kleinen Höhle steigt d
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Feuer|Feuer]], [[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Feuer]]
+  - [[Geister der Stärkung]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Nivesen) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Achaz) I]]
+- **Erlernen:** 10 EP

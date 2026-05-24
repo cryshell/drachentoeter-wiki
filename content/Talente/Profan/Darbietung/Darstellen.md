@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: b8394b9f-02ef-494f-a561-c82e5d5a2c58
+ID: f4506731-6aa7-4f5d-8f2b-634bbe535726
 Name: Darstellen
 title: Darstellen
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Darbietung|Darbietung]]"
+  - "[[Darbietung]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Mit Darstellen kannst du im Schauspielhaus deinen Lebensunterhalt verdienen, Sti
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Darbietung|Darbietung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Darbietung]]
+- **Erlernen:** 10 EP

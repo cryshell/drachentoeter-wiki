@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 76043a26-6fa9-4d09-adeb-d678ab7951a6
+ID: c845cb9a-63cb-4849-82d6-27d0047a80ec
 Name: Tradition der Hesindegeweihten II
 title: Tradition der Hesindegeweihten II
 Kategorie: Tradition (Karmal)
@@ -14,7 +14,7 @@ Hesindegeweihte können auch mit mehrfach veränderten Liturgien gut umgehen. We
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 6
   - Vorteil [[Tradition der Hesindegeweihten I]]

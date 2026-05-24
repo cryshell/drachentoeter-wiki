@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f8b3b2b5-d52b-4033-846d-de49f478457c
+ID: ac4ee1c0-7d5c-4992-8dfb-4395060e716f
 Name: Tradition der Borbaradianer IV
 title: Tradition der Borbaradianer IV
 Kategorie: Tradition (Magisch)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Mut|MU]] 10
   - Vorteil [[Tradition der Borbaradianer III]]

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 920cbbd1-7d98-4ad7-a930-3c4f5aabfc76
+ID: 9a37aa8c-07a1-4d3a-8e3b-79245102e959
 Name: Befehlsstimme
 title: Befehlsstimme
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Belhalhars|Anrufung Belhalhars]]"
+  - "[[Anrufung Belhalhars]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Deine Stimme ist bis zu 64 Schritt weit zu hören, egal wie laut es in der Umgeb
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Belhalhars|Anrufung Belhalhars]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Belhalhars]]
+- **Erlernen:** 20 EP

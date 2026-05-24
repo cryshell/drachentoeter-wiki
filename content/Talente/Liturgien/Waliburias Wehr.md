@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: af87501d-3004-429f-a648-520e30eb57be
+ID: 717892ef-5105-4d09-844f-a9094a33173e
 Name: Waliburias Wehr
 title: Waliburias Wehr
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heiliges Feuer|Heiliges Feuer]]"
-  - "[[Inhalt/Fertigkeiten/Guter Kampf|Guter Kampf]]"
+  - "[[Heiliges Feuer]]"
+  - "[[Guter Kampf]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I ODER Vorteil Tradition der Graveshgeweihten I
@@ -25,5 +25,9 @@ Bei jeder deiner Bewegungen stieben Funken und Rauch steigt auf. Für feindlich 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heiliges Feuer|Heiliges Feuer]], [[Inhalt/Fertigkeiten/Guter Kampf|Guter Kampf]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Heiliges Feuer]]
+  - [[Guter Kampf]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+- **Erlernen:** 20 EP

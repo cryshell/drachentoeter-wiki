@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 439a0975-1a3d-4d4c-bcc8-5a0ce5d9f9db
+ID: cb7d8f62-ab75-4635-9b40-98acea04ea47
 Name: Herrschaft über Erzelementare
 title: Herrschaft über Erzelementare
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Agrimoths|Anrufung Agrimoths]]"
+  - "[[Anrufung Agrimoths]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -22,5 +22,6 @@ Während der Wirkungsdauer kannst du einmal einen Dienst von einem Erzelementar 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Agrimoths|Anrufung Agrimoths]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Agrimoths]]
+- **Erlernen:** 20 EP

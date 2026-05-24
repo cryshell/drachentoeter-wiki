@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: a5b4605c-a272-4354-af18-56af6a635c53
+ID: a8d3cfbb-d571-4720-a266-04af8666f3e7
 Name: Segen des Heiligen Isegrein
 title: Segen des Heiligen Isegrein
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Stiller Wanderer|Stiller Wanderer]]"
-  - "[[Inhalt/Fertigkeiten/Wildnis|Wildnis]]"
+  - "[[Stiller Wanderer]]"
+  - "[[Wildnis]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Avesgeweihten I ODER Vorteil Tradition der Firungeweihten I ODER Vorteil Tradition der Ifirngeweihten I
@@ -25,5 +25,9 @@ Der Gesegnete wird eins mit seiner Umgebung. In der Wildnis wird er wie mit der 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Stiller Wanderer|Stiller Wanderer]], [[Inhalt/Fertigkeiten/Wildnis|Wildnis]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Stiller Wanderer]]
+  - [[Wildnis]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Firungeweihten I ODER Vorteil Tradition der Ifirngeweihten I]]
+- **Erlernen:** 20 EP

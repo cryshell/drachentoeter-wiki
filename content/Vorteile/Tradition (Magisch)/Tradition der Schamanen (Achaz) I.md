@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0e5b9066-d291-4a42-8a4a-9ed5ee6458f8
+ID: 30e49eef-b414-4357-b1ac-d5791c08571b
 Name: Tradition der Schamanen (Achaz) I
 title: Tradition der Schamanen (Achaz) I
 Kategorie: Tradition (Magisch)
@@ -16,7 +16,7 @@ Bei Elementarzaubern kannst du nur Feuer, Humus und Wasser verwenden. Verärgert
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 4
   - Vorteil [[Zauberer I]]

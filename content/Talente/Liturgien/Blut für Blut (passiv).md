@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 788323b7-0ebf-4a13-bde8-73b0328525b2
+ID: 86af2668-54e7-4f8d-b9b9-509b183c585d
 Name: Blut für Blut (passiv)
 title: Blut für Blut (passiv)
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Guter Kampf|Guter Kampf]]"
+  - "[[Guter Kampf]]"
 Kosten: 40
 Voraussetzungen: Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I
 ---
@@ -16,5 +16,8 @@ Wenn du einen Nahkampftreffer erleidest, kannst du für 2 KaP deine Waffe karmal
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Guter Kampf|Guter Kampf]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Guter Kampf]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I]]
+- **Erlernen:** 40 EP

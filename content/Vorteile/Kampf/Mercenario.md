@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: bf593acf-818a-4f8c-926f-fd1d5144715c
+ID: 956c69d3-6463-42ae-b68f-bd11fc8e8b9f
 Name: Mercenario
 title: Mercenario
 Kategorie: Kampf
@@ -14,7 +14,8 @@ Die Waffe Unbewaffnet ist nicht mehr verletzlich.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 8
-- **Siehe auch:** [[Verletzlich]]
+- **Siehe auch:**
+  - [[Verletzlich]]

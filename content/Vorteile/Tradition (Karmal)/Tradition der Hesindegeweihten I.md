@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 5100757f-30ce-4ad3-84b2-e0ac61c4bde2
+ID: 9f3c114c-9283-4f0f-a3d5-7558ceb65e91
 Name: Tradition der Hesindegeweihten I
 title: Tradition der Hesindegeweihten I
 Kategorie: Tradition (Karmal)
@@ -17,8 +17,8 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen Hesindes Gebote verstößt: Sam
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 4
   - Vorteil [[Geweiht I]]
-  - Kein Vorteil Tradition der *geweihten I
+  - Kein Vorteil [[Tradition der geweihten I|Tradition der *geweihten I]]

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 27bc4511-6823-4baa-bde7-a39138d5d6e8
+ID: 56c281b6-e64e-4eb3-994b-5a972824693a
 Name: Flirrender Funkelglanz
 title: Flirrender Funkelglanz
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Illusion|Illusion]]"
+  - "[[Illusion]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I
@@ -23,5 +23,8 @@ Du erzeugst eine illusionäre Explosion aus Farben und Formen vor den Augen dein
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Illusion|Illusion]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Illusion]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I]]
+- **Erlernen:** 20 EP

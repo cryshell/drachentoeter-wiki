@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: a445f8a2-2c3d-497b-adb2-a838b4a53d46
+ID: 1ebc12a4-2e18-4833-9788-16efe9d2f8a5
 Name: Melodie der Kunstfertigkeit
 title: Melodie der Kunstfertigkeit
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]]"
+  - "[[Eigenschaften]]"
+  - "[[Elfenlieder]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Elfen I ODER Vorteil Tradition der Shakagra I
@@ -25,5 +25,9 @@ Die Melodie verleiht allen Proben auf eine Fertigkeit zur Herstellung eines best
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Elfenlieder|Elfenlieder]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Elfenlieder]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 40 EP

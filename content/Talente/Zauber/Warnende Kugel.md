@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 6c4f3ca3-5905-404c-a3fb-81fdfe1c2b15
+ID: cf8a3f3b-d773-46be-8504-184b767dad64
 Name: Warnende Kugel
 title: Warnende Kugel
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Kugelzauber|Kugelzauber]]"
+  - "[[Hellsicht]]"
+  - "[[Kugelzauber]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I
@@ -24,5 +24,9 @@ Die Kugel leuchtet auf, falls sich eine feindlich gesinnte Person in weniger als
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Kugelzauber|Kugelzauber]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Hellsicht]]
+  - [[Kugelzauber]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I]]
+- **Erlernen:** 20 EP

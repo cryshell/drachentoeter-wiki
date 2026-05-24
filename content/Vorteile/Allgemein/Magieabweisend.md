@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2d482036-410f-40de-a528-44c4282c9108
+ID: 9ebe3eae-2fa6-48d1-a456-1d99835f143a
 Name: Magieabweisend
 title: Magieabweisend
 Kategorie: Allgemein
@@ -11,4 +11,4 @@ Zauber wirken auf dich deutlich schwächer. Du ignorierst bei allen Zaubern eine
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP

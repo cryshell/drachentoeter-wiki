@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 7dbd1850-b060-4225-be93-3ea026f7cb0a
+ID: fd96335c-f70c-4125-8ab1-565cc5bf0a82
 Name: Sprachkenntnis (Mohisch)
 title: Sprachkenntnis (Mohisch)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Mohisch gehört zu keiner Sprachfamilie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 8e7719e3-7b1d-4fb9-9ed0-ada1469005ff
+ID: 2dda1750-40e6-4c94-83bd-6adcb96eb67c
 Name: Kulturkunde (Brillantzwerge)
 title: Kulturkunde (Brillantzwerge)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

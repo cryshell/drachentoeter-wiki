@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e9386d69-c74d-421b-b33b-aee42921031b
+ID: fa8efa7a-62b2-431f-a7b7-f9fe9677aa87
 Name: Tradition der Transmutatoren IV
 title: Tradition der Transmutatoren IV
 Kategorie: Tradition (Profan)
@@ -14,7 +14,7 @@ Kosten: 20
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Klugheit|KL]] 10
   - Vorteil [[Tradition der Transmutatoren III]]

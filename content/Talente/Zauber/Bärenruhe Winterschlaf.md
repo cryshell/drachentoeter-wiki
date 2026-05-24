@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 37507ca0-f12c-437d-99a4-5226aeb7600c
+ID: e635021f-3a90-484c-92f9-1260fb8f1d14
 Name: Bärenruhe Winterschlaf
 title: Bärenruhe Winterschlaf
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
+  - "[[Verwandlung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I
@@ -13,7 +13,8 @@ Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition d
 Du versetzt dein Ziel in einen tiefen Winterschlaf. Während des Schlafes benötigt es keine Nahrung, und kein Wasser. Gifte, Krankheiten und Kälte fügen ihm keinen Schaden zu. Dafür regeneriert es auch nicht.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Der lange Schlaf (-4, Wirkungsdauer 1 Monat, 16 AsP)
+- **Modifikationen:**
+  - Der lange Schlaf (-4, Wirkungsdauer 1 Monat, 16 AsP)
 - **Vorbereitungszeit:** 4 Minuten
 - **Ziel:** Wesen
 - **Reichweite:** Berührung
@@ -24,5 +25,8 @@ Du versetzt dein Ziel in einen tiefen Winterschlaf. Während des Schlafes benöt
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Verwandlung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 10 EP

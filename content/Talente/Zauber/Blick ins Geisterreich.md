@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: fdfbd91f-a102-4824-857e-ff3b8143e09e
+ID: 31ddd935-e7c5-47c8-b466-88336e64ce60
 Name: Blick ins Geisterreich
 title: Blick ins Geisterreich
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]"
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
+  - "[[Hellsicht]]"
+  - "[[Geister rufen]]"
+  - "[[Kraft]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
@@ -19,5 +19,10 @@ $talent:Oculus Astralis$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]], [[Inhalt/Fertigkeiten/Kraft|Kraft]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Hellsicht]]
+  - [[Geister rufen]]
+  - [[Kraft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+- **Erlernen:** 40 EP

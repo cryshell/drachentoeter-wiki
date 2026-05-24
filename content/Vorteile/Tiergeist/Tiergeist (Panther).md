@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a0915586-618d-4a9d-8fbf-5f16092dc2cc
+ID: b6de46bb-e76c-442c-8fed-9c5e7b4c2ae0
 Name: Tiergeist (Panther)
 title: Tiergeist (Panther)
 Kategorie: Tiergeist
@@ -26,8 +26,14 @@ Kosten: 0
 
 ---
 
-- **Kosten:** 0 EP
+- **Erlernen:** 0 EP
 - **Voraussetzungen:**
   - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
   - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
-- **Siehe auch:** [[Eins mit der Natur]], [[Katzenaugen]], [[Krötensprung]], [[Spurlos Trittlos]], [[Standfest Katzengleich]], [[Wipfellauf]]
+- **Siehe auch:**
+  - [[Eins mit der Natur]]
+  - [[Katzenaugen]]
+  - [[Krötensprung]]
+  - [[Spurlos Trittlos]]
+  - [[Standfest Katzengleich]]
+  - [[Wipfellauf]]

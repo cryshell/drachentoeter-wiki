@@ -1,11 +1,11 @@
 ---
 Entit채tstyp: Talent
-ID: 5f4cee43-70c8-4521-80c8-a9a4f377cfc3
+ID: 06b39458-ec22-4612-ab16-a0f7ef844656
 Name: Aquafaxius
 title: Aquafaxius
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wasser|Wasser]]"
+  - "[[Wasser]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I
@@ -14,9 +14,9 @@ Ein Strahl aus elementarem Wasser f체gt dem Ziel 2W6 TP zu und verursacht *Ertr�
 
 - **Hohe Qualit채t:** Die TP steigen um 1W6.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Doppelschuss (-4, 16 AsP; die Anzahl Schadensw체rfel inklusive Hohe Qualit채t wird verdoppelt.)
-Enger Strahl (-4; der Zauber verursacht SP statt TP.)
-
+- **Modifikationen:**
+  - Doppelschuss (-4, 16 AsP; die Anzahl Schadensw체rfel inklusive Hohe Qualit채t wird verdoppelt.)
+  - Enger Strahl (-4; der Zauber verursacht SP statt TP.)
 - **Vorbereitungszeit:** 0 Aktionen
 - **Ziel:** Wesen, Objekt
 - **Reichweite:** 16 Schritt
@@ -27,5 +27,8 @@ Enger Strahl (-4; der Zauber verursacht SP statt TP.)
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wasser|Wasser]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Wasser]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

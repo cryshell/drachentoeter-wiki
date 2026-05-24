@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 20cda4a8-1c5a-456d-8c4c-fe232d5cfb87
+ID: 11a99e89-538f-464c-a90f-3a3ee7481411
 Name: Rahjas Wohlgefallen
 title: Rahjas Wohlgefallen
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Fröhlicher Wanderer|Fröhlicher Wanderer]]"
-  - "[[Inhalt/Fertigkeiten/Harmonie|Harmonie]]"
+  - "[[Fröhlicher Wanderer]]"
+  - "[[Harmonie]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Avesgeweihten I ODER Vorteil Tradition der Rahjageweihten I
@@ -25,5 +25,9 @@ Du rufst die Gunst der Göttin auf dich herab. Menschenkenntnis- und Betören-Pr
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Fröhlicher Wanderer|Fröhlicher Wanderer]], [[Inhalt/Fertigkeiten/Harmonie|Harmonie]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Fröhlicher Wanderer]]
+  - [[Harmonie]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Rahjageweihten I]]
+- **Erlernen:** 20 EP

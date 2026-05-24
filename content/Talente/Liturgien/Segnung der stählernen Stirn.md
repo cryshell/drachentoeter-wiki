@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 97c73736-de75-4b56-87c4-66f2a7a76422
+ID: 24974251-53d3-462f-aac9-0793d6d8b6ac
 Name: Segnung der stählernen Stirn
 title: Segnung der stählernen Stirn
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schutz der Gläubigen|Schutz der Gläubigen]]"
+  - "[[Schutz der Gläubigen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rondrageweihten I
@@ -24,5 +24,8 @@ Der Gesegnete fasst Mut. *Verängstigt* und *Panisch* sinken um eine Stufe.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schutz der Gläubigen|Schutz der Gläubigen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Schutz der Gläubigen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rondrageweihten I]]
+- **Erlernen:** 20 EP

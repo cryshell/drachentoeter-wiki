@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 14f45d20-b64d-4ff9-b1d9-b38df65f55b0
+ID: a5af84dc-c595-4433-830c-e68e989fb6ab
 Name: Rhythmen des gottgefälligen Zornes
 title: Rhythmen des gottgefälligen Zornes
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
-  - "[[Inhalt/Fertigkeiten/Trommelrituale|Trommelrituale]]"
+  - "[[Kraft]]"
+  - "[[Trommelrituale]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Derwische I
@@ -24,5 +24,9 @@ Die Waffen von jedem in einem Radius von 4 Schritt gelten als magisch.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Kraft|Kraft]], [[Inhalt/Fertigkeiten/Trommelrituale|Trommelrituale]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Kraft]]
+  - [[Trommelrituale]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Derwische I]]
+- **Erlernen:** 20 EP

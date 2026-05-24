@@ -1,20 +1,20 @@
 ---
 Entitätstyp: Talent
-ID: 3f549ec4-015b-47a4-99eb-f34283e1e2f4
+ID: 8b9a9eb0-398a-4d65-816f-7b42ec8fbaf5
 Name: Ein Bild für die Ewigkeit
 title: Ein Bild für die Ewigkeit
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Rausch|Rausch]]"
-  - "[[Inhalt/Fertigkeiten/Tradition|Tradition]]"
-  - "[[Inhalt/Fertigkeiten/Wissen|Wissen]]"
+  - "[[Rausch]]"
+  - "[[Tradition]]"
+  - "[[Wissen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Tairachgeweihten I
 ---
 Du prägst dir die während der Wirkungsdauer erfahrenen Sinneseindrücke für immer ein. Erlaubt *Aufrechterhalten*.
 
-- **Probenschwierigkeit:**12
+- **Probenschwierigkeit:** 12
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -25,5 +25,10 @@ Du prägst dir die während der Wirkungsdauer erfahrenen Sinneseindrücke für i
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Rausch|Rausch]], [[Inhalt/Fertigkeiten/Tradition|Tradition]], [[Inhalt/Fertigkeiten/Wissen|Wissen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Rausch]]
+  - [[Tradition]]
+  - [[Wissen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Nandusgeweihten I ODER Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Tairachgeweihten I]]
+- **Erlernen:** 20 EP

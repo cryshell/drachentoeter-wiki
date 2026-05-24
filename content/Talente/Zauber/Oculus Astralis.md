@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 556c5770-b5a2-4ace-a3b9-9d5efcfac513
+ID: 0acbc8f7-fada-4251-ba94-32c6379ffbce
 Name: Oculus Astralis
 title: Oculus Astralis
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
+  - "[[Hellsicht]]"
+  - "[[Kraft]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
@@ -25,5 +25,9 @@ Du wirfst einen Blick in die Welt der Magie. Während nichtmagische Gegenstände
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Kraft|Kraft]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Hellsicht]]
+  - [[Kraft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 40 EP

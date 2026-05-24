@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 60f12a74-0712-4751-90d2-7f946deced59
+ID: 6d7f40fa-4052-4bd4-9989-193a928b4dc7
 Name: Rhythmen der Güte
 title: Rhythmen der Güte
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
-  - "[[Inhalt/Fertigkeiten/Trommelrituale|Trommelrituale]]"
+  - "[[Humus]]"
+  - "[[Trommelrituale]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Derwische I
@@ -24,5 +24,9 @@ Du verschaffst allen Humanoiden im Radius von 4 Schritt einen erholsamen Schlaf.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Humus|Humus]], [[Inhalt/Fertigkeiten/Trommelrituale|Trommelrituale]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Humus]]
+  - [[Trommelrituale]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Derwische I]]
+- **Erlernen:** 20 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 28135759-02cc-42d4-97e2-e0aacd90cfea
+ID: 9631009b-18fa-45b9-b02c-093ff4961313
 Name: Schleichende Fäulnis
 title: Schleichende Fäulnis
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hass und Zerstörung|Hass und Zerstörung]]"
+  - "[[Hass und Zerstörung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Namenlosgeweihten I
@@ -24,5 +24,8 @@ Das Opfer beginnt zu verfaulen, kann nicht regenerieren und erleidet 2 Tage lang
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hass und Zerstörung|Hass und Zerstörung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Hass und Zerstörung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Namenlosgeweihten I]]
+- **Erlernen:** 20 EP

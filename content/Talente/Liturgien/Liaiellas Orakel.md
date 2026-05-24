@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: ee813938-0b2f-4322-9381-74398485e37b
+ID: 40206ccb-1984-4d8e-88a9-9149eaf717a7
 Name: Liaiellas Orakel
 title: Liaiellas Orakel
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Seefahrt|Seefahrt]]"
+  - "[[Seefahrt]]"
 Kosten: 0
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I
@@ -23,5 +23,8 @@ Du erfährst, ob die Seele eines Verschollenen von Liaiella in Borons Hallen (od
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Seefahrt|Seefahrt]]
-- **Kosten:** 0 EP
+- **Fertigkeiten:**
+  - [[Seefahrt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I]]
+- **Erlernen:** 0 EP

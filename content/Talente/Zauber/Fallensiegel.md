@@ -1,17 +1,17 @@
 ---
 Entitätstyp: Talent
-ID: a8ba811e-51af-425f-a8f3-3aad2be3feb6
+ID: a1c2f49e-267e-4a3e-b167-7ba3d687fadf
 Name: Fallensiegel
 title: Fallensiegel
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eis|Eis]]"
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
-  - "[[Inhalt/Fertigkeiten/Feuer|Feuer]]"
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Wasser|Wasser]]"
-  - "[[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]"
+  - "[[Eis]]"
+  - "[[Erz]]"
+  - "[[Feuer]]"
+  - "[[Humus]]"
+  - "[[Luft]]"
+  - "[[Wasser]]"
+  - "[[Zauberzeichen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Zibilja I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Schamanen (Waldmenschen) I
@@ -20,9 +20,9 @@ Das Zeichen wird in einem Durchmesser von 8 Fingern auf einem maximal schrankgro
 
 - **Hohe Qualität:** Erhöht die TP um +4.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Zielgerichtet (-4; du kannst die Wirkung auf eine Kreaturenklasse beschränken oder eine ausnehmen.)
-Zone (-4; kann auf einer beliebigen Fläche angebracht werden und löst aus, sobald jemand eine Zone von 4 Schritt Radius betritt. *Ortsgebundenes* Zeichen.)
-
+- **Modifikationen:**
+  - Zielgerichtet (-4; du kannst die Wirkung auf eine Kreaturenklasse beschränken oder eine ausnehmen.)
+  - Zone (-4; kann auf einer beliebigen Fläche angebracht werden und löst aus, sobald jemand eine Zone von 4 Schritt Radius betritt. *Ortsgebundenes* Zeichen.)
 - **Varianten:** Zusatzzeichen (-4; diese Modifikation steht bei anderen Zauberzeichen mit der Basiswirkung zur Verfügung. Hohe Qualität erhöht wahlweise die TP um +4. Statt des Objekts wird nur das Zeichen geschützt.)
 - **Vorbereitungszeit:** 4 Minuten
 - **Ziel:** passendes Zauberzeichen
@@ -35,5 +35,14 @@ Zone (-4; kann auf einer beliebigen Fläche angebracht werden und löst aus, sob
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eis|Eis]], [[Inhalt/Fertigkeiten/Erz|Erz]], [[Inhalt/Fertigkeiten/Feuer|Feuer]], [[Inhalt/Fertigkeiten/Humus|Humus]], [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Wasser|Wasser]], [[Inhalt/Fertigkeiten/Zauberzeichen|Zauberzeichen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eis]]
+  - [[Erz]]
+  - [[Feuer]]
+  - [[Humus]]
+  - [[Luft]]
+  - [[Wasser]]
+  - [[Zauberzeichen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Zibilja I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+- **Erlernen:** 20 EP

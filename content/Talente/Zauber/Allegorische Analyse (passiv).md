@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: cfa79309-0b6a-4013-88b3-649210c05911
+ID: 65a6b1af-93c6-4fc1-b5fc-8581528de58e
 Name: Allegorische Analyse (passiv)
 title: Allegorische Analyse (passiv)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schalenzauber|Schalenzauber]]"
+  - "[[Schalenzauber]]"
 Kosten: 20
 Voraussetzungen: Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I
 ---
@@ -15,5 +15,8 @@ Du lässt 4 gAsP in die Schale fließen, -1 für je 4 volle Punkte PW Schalenzau
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schalenzauber|Schalenzauber]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Schalenzauber]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I]]
+- **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 799c31bb-5c67-416b-bff1-42e5242ecc82
+ID: 950db7ff-7fe2-41e1-a8bd-69d221e6358a
 Name: Tradition der Schamanen (Orks) III
 title: Tradition der Schamanen (Orks) III
 Kategorie: Tradition (Magisch)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Zeremonie.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 8
   - Vorteil [[Tradition der Schamanen (Orks) II]]
-- **Siehe auch:** [[Zeremonie (M)]]
+- **Siehe auch:**
+  - [[Zeremonie (M)]]

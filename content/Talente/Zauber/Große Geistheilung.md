@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 41482c97-b200-4c65-b31e-667292c66b53
+ID: 9ec5000c-b002-448c-9fbe-bdf2dff2d169
 Name: Große Geistheilung
 title: Große Geistheilung
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Geister vertreiben|Geister vertreiben]]"
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
+  - "[[Geister vertreiben]]"
+  - "[[Humus]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
@@ -18,5 +18,9 @@ $talent:Kraft des Humus$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Geister vertreiben|Geister vertreiben]], [[Inhalt/Fertigkeiten/Humus|Humus]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Geister vertreiben]]
+  - [[Humus]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+- **Erlernen:** 20 EP

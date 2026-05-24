@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 87729d67-9038-49f5-a6db-dbff39e2d168
+ID: ff9857b8-9295-4a58-b485-aa72273caf69
 Name: Tradition der Hesindegeweihten III
 title: Tradition der Hesindegeweihten III
 Kategorie: Tradition (Karmal)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Zeremonie.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 8
   - Vorteil [[Tradition der Hesindegeweihten II]]
-- **Siehe auch:** [[Zeremonie (L)]]
+- **Siehe auch:**
+  - [[Zeremonie (L)]]

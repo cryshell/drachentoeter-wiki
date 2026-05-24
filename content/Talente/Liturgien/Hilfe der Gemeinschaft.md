@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 04bfd78f-7cf5-427c-9463-1732dc940655
+ID: 690970f3-13eb-4333-bd19-3382f377f680
 Name: Hilfe der Gemeinschaft
 title: Hilfe der Gemeinschaft
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Fröhlicher Wanderer|Fröhlicher Wanderer]]"
-  - "[[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]]"
+  - "[[Fröhlicher Wanderer]]"
+  - "[[Heim und Herd]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Avesgeweihten I ODER Vorteil Tradition der Traviageweihten I
@@ -15,7 +15,8 @@ Du stärkst in einem Radius von 4 Schritt den Zusammenhalt einer Familie, zwisch
 
 - **Hohe Qualität:** Für je 2 Stufen erhält eine weitere Person Vorteil.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, Kosten 8 KaP, davon 2 gKaP)
+- **Modifikationen:**
+  - Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, Kosten 8 KaP, davon 2 gKaP)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -26,5 +27,9 @@ Du stärkst in einem Radius von 4 Schritt den Zusammenhalt einer Familie, zwisch
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Fröhlicher Wanderer|Fröhlicher Wanderer]], [[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Fröhlicher Wanderer]]
+  - [[Heim und Herd]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Traviageweihten I]]
+- **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 12477e8c-b26f-41b2-8ff9-9d45fbf05db2
+ID: 4d856257-f2ae-4e90-8a1c-514f9800ad07
 Name: Wahre Namen des Feuers II
 title: Wahre Namen des Feuers II
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - Attribut [[Klugheit|KL]] 6

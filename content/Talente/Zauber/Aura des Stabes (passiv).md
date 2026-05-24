@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 412c3772-c83b-4542-ad0e-d60116f64408
+ID: e978306b-4577-40fd-a2df-67b227f37d09
 Name: Aura des Stabes (passiv)
 title: Aura des Stabes (passiv)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]]"
+  - "[[Stabzauber]]"
 Kosten: 20
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
 ---
@@ -15,5 +15,8 @@ Wenn du bei einer Verwandlung deines Körpers (egal ob freiwillig oder unfreiwil
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Stabzauber]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

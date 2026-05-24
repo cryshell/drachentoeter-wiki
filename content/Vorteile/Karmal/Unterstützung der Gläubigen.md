@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 8a4d4fc2-a7db-479c-be2b-873aabc70f2c
+ID: 55639838-1803-4ee3-afa7-6a4ea0815132
 Name: Unterstützung der Gläubigen
 title: Unterstützung der Gläubigen
 Kategorie: Karmal
@@ -16,8 +16,9 @@ Mirakel können auch auf andere Gläubige gewirkt werden. Die Wirkung solcher Mi
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 6
   - Vorteil [[Geweiht I]]
-- **Siehe auch:** [[Mirakel]]
+- **Siehe auch:**
+  - [[Mirakel]]

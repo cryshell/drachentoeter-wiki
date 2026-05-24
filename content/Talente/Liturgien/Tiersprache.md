@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 070c78aa-f923-4e0e-aa8a-995082733016
+ID: 3516126f-01e8-4791-97dc-99866cf91a48
 Name: Tiersprache
 title: Tiersprache
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Friede|Friede]]"
-  - "[[Inhalt/Fertigkeiten/Jagd|Jagd]]"
-  - "[[Inhalt/Fertigkeiten/Hilfe der Sippe|Hilfe der Sippe]]"
+  - "[[Friede]]"
+  - "[[Jagd]]"
+  - "[[Hilfe der Sippe]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Himmelswölfegeweihten I
@@ -25,5 +25,10 @@ Du erhältst den Vorteil Tierempathie und erleidest keine Erschöpfung durch den
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Friede|Friede]], [[Inhalt/Fertigkeiten/Jagd|Jagd]], [[Inhalt/Fertigkeiten/Hilfe der Sippe|Hilfe der Sippe]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Friede]]
+  - [[Jagd]]
+  - [[Hilfe der Sippe]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Ifirngeweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Himmelswölfegeweihten I]]
+- **Erlernen:** 20 EP

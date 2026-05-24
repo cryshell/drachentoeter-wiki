@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: f45f4bf3-6dec-43d5-9d57-c1b61e8b4dc2
+ID: 582a1204-54ae-46bb-96ad-4a8b22033208
 Name: Bannfluch des Heiligen Khalid
 title: Bannfluch des Heiligen Khalid
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Tod|Tod]]"
+  - "[[Tod]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der V’Sargeweihten I
@@ -24,5 +24,8 @@ Während der Wirkungsdauer zerfallen die ersten 4 Untoten, die du mit einem gewe
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Tod|Tod]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Tod]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borongeweihten I ODER Vorteil Tradition der V’Sargeweihten I]]
+- **Erlernen:** 20 EP

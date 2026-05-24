@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: e1538cbb-8d83-4dfb-b590-594e5f608b92
+ID: d59ea98b-04ef-4ead-94ba-9458b5f93dac
 Name: "Weiches Erstarre!"
 title: "Weiches Erstarre!"
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Erz]]"
+  - "[[Umwelt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I
@@ -15,7 +15,8 @@ Du lässt bis zu 8 Raumschritt Luft, Wasser oder ein anderes „weiches“ Mater
 
 - **Hohe Qualität:** Du kannst +4 Raumschritt verwandeln oder die Härte um +4 erhöhen.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Geometrische Form (-4; du kannst der verwandelten Masse eine einfache geometrische Form geben.)
+- **Modifikationen:**
+  - Geometrische Form (-4; du kannst der verwandelten Masse eine einfache geometrische Form geben.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -26,5 +27,9 @@ Du lässt bis zu 8 Raumschritt Luft, Wasser oder ein anderes „weiches“ Mater
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Erz|Erz]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Erz]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

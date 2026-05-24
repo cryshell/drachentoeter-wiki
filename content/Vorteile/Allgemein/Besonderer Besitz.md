@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: da1854e4-1404-4a1a-95ac-615533aed5b7
+ID: aace696a-d73c-4e16-a775-a5cf924f0ee3
 Name: Besonderer Besitz
 title: Besonderer Besitz
 Kategorie: Allgemein
@@ -11,4 +11,4 @@ Ein besonderer Gegenstand wie die 33-fach geflämmte Klinge deines ruhmreichen G
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP

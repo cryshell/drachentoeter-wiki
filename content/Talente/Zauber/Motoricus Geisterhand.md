@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 26a6d82d-570a-4ac2-86bf-edd5037e878a
+ID: 56972f3c-73a8-4a1a-93d3-04e30861ce2a
 Name: Motoricus Geisterhand
 title: Motoricus Geisterhand
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Umwelt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I
@@ -14,7 +14,8 @@ Du kannst einen Gegenstand mit einer KK in Höhe von PW Umwelt/2 anheben und mit
 
 - **Hohe Qualität:** Erhöht die GS um +2.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Komplexe Bewegung (-8; du kannst auch komplizierte und feine Bewegungen durchführen.)
+- **Modifikationen:**
+  - Komplexe Bewegung (-8; du kannst auch komplizierte und feine Bewegungen durchführen.)
 - **Varianten:** Fesselfeld (-8, Zone, 32 AsP; in einem Radius von 4 Schritt wird die Bewegung jedes unbelebten Objekts mit einer KK von 2 behindert, was allen Angriffen Nachteil verleiht.)
 Magische Abwehr (-4, Wirkungsdauer augenblicklich; die Zauberprobe gilt als VT gegen einen Nahkampfangriff in Reichweite. *Reaktiver* Zauber (jemand führt einen Nahkampfangriff aus).)
 Unsichtbarer Hieb (Wirkungsdauer augenblicklich; der Zauber fügt einem Objekt 2W6 SP zu. Hohe Qualität erhöht den Schaden um +4.)
@@ -29,5 +30,8 @@ Unsichtbarer Hieb (Wirkungsdauer augenblicklich; der Zauber fügt einem Objekt 2
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

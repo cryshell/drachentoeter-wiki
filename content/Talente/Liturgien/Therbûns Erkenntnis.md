@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 9d8a3bc1-8622-4655-9890-10e89531bd57
+ID: d88360a4-8cc0-47b4-807f-7c656a4b87a9
 Name: Therbûns Erkenntnis
 title: Therbûns Erkenntnis
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heilung|Heilung]]"
+  - "[[Heilung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Perainegeweihten I
@@ -24,5 +24,8 @@ Du spürst intuitiv, an welcher Krankheit oder welchem Gift der Patient leidet u
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heilung|Heilung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Heilung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Perainegeweihten I]]
+- **Erlernen:** 20 EP

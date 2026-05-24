@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: bf8a1a16-7d77-46ad-8720-f9865340010d
+ID: c05ce925-2968-4487-a2a7-6fc1f51f7f11
 Name: Vertreibung böser Nahrungsgeister
 title: Vertreibung böser Nahrungsgeister
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Geister vertreiben|Geister vertreiben]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
+  - "[[Geister vertreiben]]"
+  - "[[Objekt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
@@ -18,5 +18,9 @@ $talent:Abvenenum reine Speise$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Geister vertreiben|Geister vertreiben]], [[Inhalt/Fertigkeiten/Objekt|Objekt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Geister vertreiben]]
+  - [[Objekt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+- **Erlernen:** 20 EP

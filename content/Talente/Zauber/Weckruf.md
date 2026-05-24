@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: fdc9acec-58c5-42e9-a61d-ae6c079c7d70
+ID: 135e30a6-ca63-4a5b-b50b-247e128ce76f
 Name: Weckruf
 title: Weckruf
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]]"
+  - "[[Eigenschaften]]"
+  - "[[Einfluss]]"
+  - "[[Geister der Stärkung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Achaz) I
@@ -16,7 +16,8 @@ Du weihst einen Schlafplatz. Betritt ein Lebewesen, das größer als *winzig* is
 
 - **Probenschwierigkeit:** 12
 - **Vorbereitungszeit:** 1 Stunde
-- **Modifikationen:** Schutz des Winterschlafs (-8, Wirkungsdauer 4 Monate, 32 AsP; fast nur von Orkland-Achaz genutzt.)
+- **Modifikationen:**
+  - Schutz des Winterschlafs (-8, Wirkungsdauer 4 Monate, 32 AsP; fast nur von Orkland-Achaz genutzt.)
 - **Ziel:** Zone
 - **Reichweite:** Berührung
 - **Wirkungsdauer:** 1 Tag
@@ -26,5 +27,10 @@ Du weihst einen Schlafplatz. Betritt ein Lebewesen, das größer als *winzig* is
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Einfluss]]
+  - [[Geister der Stärkung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Achaz) I]]
+- **Erlernen:** 20 EP

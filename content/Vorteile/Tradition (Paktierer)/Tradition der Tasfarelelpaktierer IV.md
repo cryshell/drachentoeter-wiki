@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 47fc5ca2-bc26-4528-b26d-da63a075bc11
+ID: dc260c28-623a-4adb-b2e4-192b160060c3
 Name: Tradition der Tasfarelelpaktierer IV
 title: Tradition der Tasfarelelpaktierer IV
 Kategorie: Tradition (Paktierer)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Mut|MU]] 10
   - Vorteil [[Tradition der Tasfarelelpaktierer III]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 8bfa2e19-c5ae-4b5b-8ed5-6f700f5fec72
+ID: 7b0be6ca-23c8-44df-877b-f209d4261411
 Name: Blutrausch
 title: Blutrausch
 Kategorie: Allgemein
@@ -11,4 +11,4 @@ Sobald du stark provoziert wirst oder im Kampf zwei Einschränkungen auf einen S
 
 ---
 
-- **Kosten:** 0 EP
+- **Erlernen:** 0 EP

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 347a4eb8-9255-4c02-bf82-ee96992e47cf
+ID: a314202b-bb0f-4a64-8fb3-687aafe5bb88
 Name: Leib der Wogen
 title: Leib der Wogen
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wasser|Wasser]]"
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
+  - "[[Wasser]]"
+  - "[[Verwandlung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I
@@ -14,10 +14,10 @@ Voraussetzungen: Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden
 Du harmonierst mit dem Element Wasser. Du bist immun gegen Wasserschaden. Strömungen und der Druck unter Wasser beeinflussen dich nicht. Erlaubt *Aufrechterhalten*.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Begleiter (-4; der Zauber betrifft auch eine weitere Person, mit der du permanent Hautkontakt halten musst.)
-Leib aus Wasser (-8; deine Kreaturenklasse wird zu "Elementar" mit allen entsprechenden Eigenschaften. Du kannst während der Wirkungsdauer keine Zauber wirken.)
-Reise ins Wasser (-4; du kannst dich mit GS Schritt pro Zug durchs Wasser bewegen. Du musst im Wasser nicht atmen.)
-
+- **Modifikationen:**
+  - Begleiter (-4; der Zauber betrifft auch eine weitere Person, mit der du permanent Hautkontakt halten musst.)
+  - Leib aus Wasser (-8; deine Kreaturenklasse wird zu "Elementar" mit allen entsprechenden Eigenschaften. Du kannst während der Wirkungsdauer keine Zauber wirken.)
+  - Reise ins Wasser (-4; du kannst dich mit GS Schritt pro Zug durchs Wasser bewegen. Du musst im Wasser nicht atmen.)
 - **Vorbereitungszeit:** 8 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -28,5 +28,9 @@ Reise ins Wasser (-4; du kannst dich mit GS Schritt pro Zug durchs Wasser bewege
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wasser|Wasser]], [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Wasser]]
+  - [[Verwandlung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 20 EP

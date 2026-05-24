@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 7e593bda-412e-4074-a76b-46e1fa2bc41d
+ID: 9c67f583-a5cb-475f-a753-e7a7b0c4f18b
 Name: Pflanzengespür
 title: Pflanzengespür
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wachstum|Wachstum]]"
+  - "[[Wachstum]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I
@@ -24,5 +24,8 @@ Du erhältst einen groben Eindruck von der Wirkung der berührten Pflanze – et
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wachstum|Wachstum]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Wachstum]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Perainegeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I]]
+- **Erlernen:** 10 EP

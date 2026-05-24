@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f36ac95c-b336-4f21-aadc-e94700609c2b
+ID: 18284c6a-26a6-411b-adf0-75a880cb04a6
 Name: Tradition der Blakharazpaktierer IV
 title: Tradition der Blakharazpaktierer IV
 Kategorie: Tradition (Paktierer)
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Mut|MU]] 10
   - Vorteil [[Tradition der Blakharazpaktierer III]]

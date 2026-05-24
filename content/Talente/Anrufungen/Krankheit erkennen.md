@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: a2fede9e-04c2-4d24-9372-bfe276417566
+ID: 3f195ab8-8dde-4bd7-b5d7-c95ff2ba8133
 Name: Krankheit erkennen
 title: Krankheit erkennen
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Belzhorashs|Anrufung Belzhorashs]]"
+  - "[[Anrufung Belzhorashs]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -24,5 +24,6 @@ Du erspürst die Krankheit in deinem Ziel. Du erfährst die Art der Krankheit, i
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Belzhorashs|Anrufung Belzhorashs]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Anrufung Belzhorashs]]
+- **Erlernen:** 10 EP

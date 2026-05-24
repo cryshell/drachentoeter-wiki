@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0bec3186-77dc-47cd-974d-a9ef003d16f5
+ID: b363fb8d-d891-4d62-a72b-3a6aaa999373
 Name: Tradition der Borongeweihten I
 title: Tradition der Borongeweihten I
 Kategorie: Tradition (Karmal)
@@ -17,8 +17,8 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen Borons Gebote verstößt: Besta
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 4
   - Vorteil [[Geweiht I]]
-  - Kein Vorteil Tradition der *geweihten I
+  - Kein Vorteil [[Tradition der geweihten I|Tradition der *geweihten I]]

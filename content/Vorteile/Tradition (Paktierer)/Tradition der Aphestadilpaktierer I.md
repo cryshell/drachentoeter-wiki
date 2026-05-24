@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f8eee454-46a4-4faa-a630-7d595224f25d
+ID: 2d5ea6db-1d9d-4a4e-93cb-aa78b67a82e5
 Name: Tradition der Aphestadilpaktierer I
 title: Tradition der Aphestadilpaktierer I
 Kategorie: Tradition (Paktierer)
@@ -17,8 +17,8 @@ Dämonische Kräfte sind chaotisch, Anrufungsproben werden mit 1W20 gewürfelt.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 4
   - Vorteil [[Paktierer I]]
-  - Kein Vorteil Tradition der *paktierer I
+  - Kein Vorteil [[Tradition der paktierer I|Tradition der *paktierer I]]

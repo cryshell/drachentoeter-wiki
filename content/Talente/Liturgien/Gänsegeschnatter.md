@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 37794b3d-e54a-426a-abe1-d7be2527ea30
+ID: d0d9a4f9-2cde-44ed-8de3-7e8b97984694
 Name: Gänsegeschnatter
 title: Gänsegeschnatter
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Fröhlicher Wanderer|Fröhlicher Wanderer]]"
-  - "[[Inhalt/Fertigkeiten/Sichere Heimkehr|Sichere Heimkehr]]"
+  - "[[Fröhlicher Wanderer]]"
+  - "[[Sichere Heimkehr]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Avesgeweihten I ODER Vorteil Tradition der Traviageweihten I
@@ -15,7 +15,8 @@ Im Laufe des Tages fliegt dir eine Wildgans (Tra) oder ein Zugvogel (Aves) zu, d
 
 - **Hohe Qualität:** Die Wachsamkeit des Tiers steigt um +2.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, 8 KaP, davon 2 gKaP)
+- **Modifikationen:**
+  - Permanenz (-4, Wirkungsdauer bis die Bindung gelöst wird, 8 KaP, davon 2 gKaP)
 - **Vorbereitungszeit:** 4 Minuten
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -26,5 +27,9 @@ Im Laufe des Tages fliegt dir eine Wildgans (Tra) oder ein Zugvogel (Aves) zu, d
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Fröhlicher Wanderer|Fröhlicher Wanderer]], [[Inhalt/Fertigkeiten/Sichere Heimkehr|Sichere Heimkehr]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Fröhlicher Wanderer]]
+  - [[Sichere Heimkehr]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Traviageweihten I]]
+- **Erlernen:** 20 EP

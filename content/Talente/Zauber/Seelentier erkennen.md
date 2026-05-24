@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 8f0ab4b9-f2e0-4130-bcea-a035535893f8
+ID: 256e9c0d-41e0-4cd4-ab0f-465d23ade6cd
 Name: Seelentier erkennen
 title: Seelentier erkennen
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
+  - "[[Hellsicht]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Elfen I
@@ -23,5 +23,8 @@ Du erkennst das Seelentier deines Zieles. Wenn dir das Tier und seine assoziiert
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Hellsicht]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Elfen I]]
+- **Erlernen:** 20 EP

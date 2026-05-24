@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6bcd2bd9-08d4-48df-95e7-f2092729aefb
+ID: b55454b0-9f58-4956-88d6-1f45ce6c054a
 Name: Schriftkenntnis (Isdira- und Asdharia-Zeichen)
 title: Schriftkenntnis (Isdira- und Asdharia-Zeichen)
 Kategorie: Schriftkenntnis
@@ -11,4 +11,4 @@ Schriften umfassen sowohl die Fähigkeit die entsprechenden Zeichen lesen als au
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

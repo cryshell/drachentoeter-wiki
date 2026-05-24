@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: af3dc302-bc90-4785-bf63-95ca235f8837
+ID: b340f9fd-aeca-492d-8477-d7217d306241
 Name: Radau
 title: Radau
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Luft]]"
+  - "[[Umwelt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hexen I
@@ -15,7 +15,8 @@ Du verzauberst deinen Besen, sodass er ein zufälliges Ziel in einem Radius von 
 
 - **Hohe Qualität:** AT und TP steigen um +2.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Gezielte Wut (-4, Wesen; der Besen greift nur ein von dir vorbestimmtes Ziel an.)
+- **Modifikationen:**
+  - Gezielte Wut (-4, Wesen; der Besen greift nur ein von dir vorbestimmtes Ziel an.)
 - **Vorbereitungszeit:** 1 Aktion
 - **Ziel:** Objekt (Hexenbesen)
 - **Reichweite:** 16 Schritt
@@ -26,5 +27,9 @@ Du verzauberst deinen Besen, sodass er ein zufälliges Ziel in einem Radius von 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Luft]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hexen I]]
+- **Erlernen:** 20 EP

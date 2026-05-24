@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: fb36d0ad-9778-4498-866e-a4cfbe8d5f93
+ID: 9688a87d-4384-43c3-8e55-e313aaa291c6
 Name: Wahre Namen Thargunitoths II
 title: Wahre Namen Thargunitoths II
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - Attribut [[Klugheit|KL]] 6

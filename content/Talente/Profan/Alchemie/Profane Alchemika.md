@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: ba2b31fd-557c-4e9c-ab1a-2031a957b3fa
+ID: 202a1ece-40f5-49c8-a888-cbb6e46427b8
 Name: Profane Alchemika
 title: Profane Alchemika
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Alchemie|Alchemie]]"
+  - "[[Alchemie]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Profane Alchemika ist das Handwerk der Meuchler, Waldläufer, Kräuterfrauen und
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Alchemie|Alchemie]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Alchemie]]
+- **Erlernen:** 40 EP

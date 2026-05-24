@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 5f7a663d-71f3-4e6f-a219-b64e8cbd8ac4
+ID: 3011f185-a7d7-4f97-a6e6-889564b9e4ca
 Name: Kreis der Verdammnis V
 title: Kreis der Verdammnis V
 Kategorie: Kreis der Verdammnis
@@ -20,7 +20,8 @@ Der Vorteil hat folgende Auswirkungen:
 
 ---
 
-- **Kosten:** -200 EP
+- **Erlernen:** -200 EP
 - **Voraussetzungen:**
   - Vorteil [[Kreis der Verdammnis IV]]
-- **Siehe auch:** [[Seelenprüfung]]
+- **Siehe auch:**
+  - [[Seelenprüfung]]

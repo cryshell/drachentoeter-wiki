@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 76eca985-8d06-4a35-9393-22224bf2038a
+ID: c4fae617-c3cd-4694-8e4e-91de9eccb6c5
 Name: Hilfe in der Not
 title: Hilfe in der Not
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wildnis|Wildnis]]"
-  - "[[Inhalt/Fertigkeiten/Fröhlicher Wanderer|Fröhlicher Wanderer]]"
+  - "[[Wildnis]]"
+  - "[[Fröhlicher Wanderer]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Avesgeweihten I
@@ -25,5 +25,9 @@ Du erhältst einen groben Eindruck, in welcher Richtung sich eine gesuchte Perso
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wildnis|Wildnis]], [[Inhalt/Fertigkeiten/Fröhlicher Wanderer|Fröhlicher Wanderer]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Wildnis]]
+  - [[Fröhlicher Wanderer]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Ifirngeweihten I ODER Vorteil Tradition der Avesgeweihten I]]
+- **Erlernen:** 20 EP

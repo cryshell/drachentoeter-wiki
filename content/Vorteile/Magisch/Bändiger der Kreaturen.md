@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6dc9eed7-44a0-4c5a-adad-a1ced5e465a8
+ID: 04080907-13a9-4c24-b0a7-94f42f55ebd0
 Name: Bändiger der Kreaturen
 title: Bändiger der Kreaturen
 Kategorie: Magisch
@@ -17,8 +17,10 @@ Du kannst von dir beschworenen unheiligen Wesenheiten zusätzliche Fähigkeiten 
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
   - Attribut [[Mut|MU]] 4
-- **Siehe auch:** [[Beschwörungen]], [[Beschwörungen - Zusätzliche Fähigkeiten]]
+- **Siehe auch:**
+  - [[Beschwörungen]]
+  - [[Beschwörungen - Zusätzliche Fähigkeiten]]

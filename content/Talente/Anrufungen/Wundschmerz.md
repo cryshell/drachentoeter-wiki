@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: b02291a0-60be-4216-a055-8ea8846b97d0
+ID: c6f36337-35dc-466d-8430-4ef1e4b73467
 Name: Wundschmerz
 title: Wundschmerz
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Belhalhars|Anrufung Belhalhars]]"
+  - "[[Anrufung Belhalhars]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -22,5 +22,6 @@ Das Ziel deines nächsten Angriffs ist für 1 Stunde *geschwächt*, wenn du ihm 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Belhalhars|Anrufung Belhalhars]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Belhalhars]]
+- **Erlernen:** 20 EP

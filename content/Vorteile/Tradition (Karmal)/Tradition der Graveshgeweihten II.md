@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f520872f-5c31-4cec-b6dd-6339ecadbb24
+ID: d7dce02b-f3ab-4c3a-96ac-30cba7dbd4a1
 Name: Tradition der Graveshgeweihten II
 title: Tradition der Graveshgeweihten II
 Kategorie: Tradition (Karmal)
@@ -16,8 +16,9 @@ Graveshgeweihte nutzen ihre Kräfte pragmatisch. Du kannst bei Liturgien die Mod
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Fingerfertigkeit|FF]] 6
   - Vorteil [[Tradition der Graveshgeweihten I]]
-- **Siehe auch:** [[Liturgische Technik ignorieren]]
+- **Siehe auch:**
+  - [[Liturgische Technik ignorieren]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 447e53ea-a6e6-4405-ab0c-bd920bc0c0cb
+ID: 8b35a988-ef87-4048-9bad-35935f54889f
 Name: Reiterkampf I
 title: Reiterkampf I
 Kategorie: Kampfstil
@@ -16,7 +16,8 @@ Kavallerist: In deiner Aktion haben Nahkampfangriffe Vorteil, wenn dein Reittier
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut GE 4 ODER Attribut KK 4
-- **Siehe auch:** [[Reittier]]
+- **Siehe auch:**
+  - [[Reittier]]

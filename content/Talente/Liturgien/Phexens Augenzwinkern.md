@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 902c4285-1ac4-43dd-a811-a9760047e8d3
+ID: 0df75fe2-3cb4-4bf3-bbf3-b8a412edc010
 Name: Phexens Augenzwinkern
 title: Phexens Augenzwinkern
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/List|List]]"
-  - "[[Inhalt/Fertigkeiten/Stiller Wanderer|Stiller Wanderer]]"
+  - "[[List]]"
+  - "[[Stiller Wanderer]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Avesgeweihten I ODER Vorteil Tradition der Phexgeweihten I
@@ -24,5 +24,9 @@ Das Ziel kann sich kaum an dein Gesicht erinnern. Selbst wenn es darauf angespro
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/List|List]], [[Inhalt/Fertigkeiten/Stiller Wanderer|Stiller Wanderer]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[List]]
+  - [[Stiller Wanderer]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Phexgeweihten I]]
+- **Erlernen:** 10 EP

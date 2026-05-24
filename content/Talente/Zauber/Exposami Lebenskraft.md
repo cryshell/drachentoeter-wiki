@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 2b9a2dc2-439f-4476-8620-e5501bbfd01d
+ID: 07ca67c4-3ce8-4e06-897a-2ea9b7ef9dae
 Name: Exposami Lebenskraft
 title: Exposami Lebenskraft
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
+  - "[[Hellsicht]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I
@@ -14,7 +14,8 @@ Das Ziel nimmt Lebewesen als grün leuchtende Flecken wahr. Der Zauber kann alle
 
 - **Hohe Qualität:** Das Ziel kann Angehörige verschiedener Spezies/verschiedene Individuen unterscheiden und wiedererkennen.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Reinheit der Aura (-8; der Zauber zeigt den Gesundheitszustand der Lebewesen, dämonische Verseuchungen usw.)
+- **Modifikationen:**
+  - Reinheit der Aura (-8; der Zauber zeigt den Gesundheitszustand der Lebewesen, dämonische Verseuchungen usw.)
 - **Vorbereitungszeit:** 1 Aktion
 - **Ziel:** Humanoid
 - **Reichweite:** 16 Schritt
@@ -25,5 +26,8 @@ Das Ziel nimmt Lebewesen als grün leuchtende Flecken wahr. Der Zauber kann alle
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Hellsicht]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 10 EP

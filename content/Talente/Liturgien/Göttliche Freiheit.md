@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 7a02fb15-5a7d-49b3-929e-7ee1b666f353
+ID: 83c38832-c5c2-47d4-9720-47197db583ed
 Name: Göttliche Freiheit
 title: Göttliche Freiheit
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Fröhlicher Wanderer|Fröhlicher Wanderer]]"
-  - "[[Inhalt/Fertigkeiten/Neubeginn|Neubeginn]]"
-  - "[[Inhalt/Fertigkeiten/Rausch|Rausch]]"
+  - "[[Fröhlicher Wanderer]]"
+  - "[[Neubeginn]]"
+  - "[[Rausch]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Avesgeweihten I ODER Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Tsageweihten I
@@ -25,5 +25,10 @@ Der Gesegnete wird von einer Fessel befreit, zum Beispiel von einer Eisenkette, 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Fröhlicher Wanderer|Fröhlicher Wanderer]], [[Inhalt/Fertigkeiten/Neubeginn|Neubeginn]], [[Inhalt/Fertigkeiten/Rausch|Rausch]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Fröhlicher Wanderer]]
+  - [[Neubeginn]]
+  - [[Rausch]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Tsageweihten I]]
+- **Erlernen:** 20 EP

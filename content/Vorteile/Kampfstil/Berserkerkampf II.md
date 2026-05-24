@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b7518216-41f0-45de-a714-8dc05050d894
+ID: 21d0886f-5803-4f2a-865b-c8e18da29d07
 Name: Berserkerkampf II
 title: Berserkerkampf II
 Kategorie: Kampfstil
@@ -16,8 +16,9 @@ Kampfschrei: Gegner innerhalb von 1 Schritt haben Vorteil auf Angriffe gegen dic
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Vorteil [[Berserkerkampf I]]
   - Attribut [[Mut|MU]] 6
-- **Siehe auch:** [[Aktion Angriff]]
+- **Siehe auch:**
+  - [[Aktion Angriff]]

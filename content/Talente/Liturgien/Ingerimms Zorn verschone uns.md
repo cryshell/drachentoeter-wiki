@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 50362bfb-515e-4ad8-87c2-513ba8386dc7
+ID: 39863087-65fb-4a72-9161-4445ef8a7aaf
 Name: Ingerimms Zorn verschone uns
 title: Ingerimms Zorn verschone uns
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heiliges Erz|Heiliges Erz]]"
+  - "[[Heiliges Erz]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Graveshgeweihten I
@@ -23,5 +23,8 @@ Der Stein des Ingerimm erscheint. Im Radius von 8 Meilen um diesen unbeweglichen
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heiliges Erz|Heiliges Erz]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Heiliges Erz]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+- **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 56d06452-b584-4729-8cc9-72f780321c4a
+ID: efafdba4-4e64-4a6b-9c1c-72b5a944a9c6
 Name: Gegenhalten
 title: Gegenhalten
 Kategorie: Kampf
@@ -14,7 +14,8 @@ Wenn ein Gegner deinen Kontrollbereich betritt, darfst du einen Passierschlag ge
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 8
-- **Siehe auch:** [[Reaktion]]
+- **Siehe auch:**
+  - [[Reaktion]]

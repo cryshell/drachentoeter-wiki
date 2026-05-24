@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: a0fa0bf6-0d68-42da-9258-51c368ec09d0
+ID: c2321527-e177-4679-97fd-18bd2e14b5a4
 Name: Fluch wider die Ungläubigen
 title: Fluch wider die Ungläubigen
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hass und Zerstörung|Hass und Zerstörung]]"
+  - "[[Hass und Zerstörung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Namenlosgeweihten I
@@ -17,5 +17,8 @@ $talent:Eherne Kraft$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hass und Zerstörung|Hass und Zerstörung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Hass und Zerstörung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Namenlosgeweihten I]]
+- **Erlernen:** 20 EP

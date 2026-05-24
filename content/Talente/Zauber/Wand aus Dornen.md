@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 65bca39a-c3dc-44f3-85f1-6925b1417696
+ID: 12715e7a-d100-4bb8-a949-03519a7603a7
 Name: Wand aus Dornen
 title: Wand aus Dornen
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
+  - "[[Humus]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Elfen I
@@ -14,7 +14,8 @@ Eine 4 x 3 x 1 Schritt (BxHxT) große Wand aus spitzen Dornen entsteht entlang e
 
 - **Hohe Qualität:** Die Breite steigt um 2 Schritt, die Tiefe um 0,5 Schritt.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Zylinder (-4; die Wand verläuft kreisförmig mit einem Radius in Höhe von einem Viertel der Breite. Die Ausdehnung in die Tiefe verläuft vom Radius nach außen. Du musst den Kreis nicht abschließen.)
+- **Modifikationen:**
+  - Zylinder (-4; die Wand verläuft kreisförmig mit einem Radius in Höhe von einem Viertel der Breite. Die Ausdehnung in die Tiefe verläuft vom Radius nach außen. Du musst den Kreis nicht abschließen.)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** 8 Schritt
@@ -25,5 +26,8 @@ Eine 4 x 3 x 1 Schritt (BxHxT) große Wand aus spitzen Dornen entsteht entlang e
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Humus|Humus]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Humus]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Elfen I]]
+- **Erlernen:** 20 EP

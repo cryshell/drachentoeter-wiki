@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: ea2789cb-b689-4bd4-a312-8bda27ac1204
+ID: e15a5b15-1e7c-4b20-be1d-fb8e39606b8f
 Name: Beutesinn
 title: Beutesinn
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Belshirashs|Anrufung Belshirashs]]"
+  - "[[Anrufung Belshirashs]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -22,5 +22,6 @@ Durch Berührung eines persönlichen Gegenstands des Opfers erspürst du, in wel
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Belshirashs|Anrufung Belshirashs]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Belshirashs]]
+- **Erlernen:** 20 EP

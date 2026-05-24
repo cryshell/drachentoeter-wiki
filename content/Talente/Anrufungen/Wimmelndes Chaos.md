@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 47ee5dd8-d368-49bf-b22d-5b08ac87a638
+ID: 53826543-16b1-4cce-94dc-d771bb6fdd2b
 Name: Wimmelndes Chaos
 title: Wimmelndes Chaos
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Asfaloths|Anrufung Asfaloths]]"
+  - "[[Anrufung Asfaloths]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -13,9 +13,9 @@ Alle Insekten, Spinnen, Maden und anderen wirbellosen Tiere der Größenklasse *
 
 - **Hohe Qualität:** Verdoppelt den Radius oder erhöht die maximale Größenklasse auf *sehr klein*/*klein*.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Maraskaner Verhältnisse (-8, Wirkungsdauer 1 Woche, 16 GuP)
-Artenkunde (-4; du kannst die Anrufung auf eine bestimmte Art von Wesen beschränken oder eine Art ausnehmen.)
-
+- **Modifikationen:**
+  - Maraskaner Verhältnisse (-8, Wirkungsdauer 1 Woche, 16 GuP)
+  - Artenkunde (-4; du kannst die Anrufung auf eine bestimmte Art von Wesen beschränken oder eine Art ausnehmen.)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** 16 Schritt
@@ -26,5 +26,6 @@ Artenkunde (-4; du kannst die Anrufung auf eine bestimmte Art von Wesen beschrä
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Asfaloths|Anrufung Asfaloths]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Asfaloths]]
+- **Erlernen:** 20 EP

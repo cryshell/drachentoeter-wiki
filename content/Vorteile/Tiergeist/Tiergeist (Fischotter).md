@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c6988347-c43c-4941-ac48-cef0d8e3776c
+ID: fa55b0fe-84b1-4f42-8374-bd75dea3663c
 Name: Tiergeist (Fischotter)
 title: Tiergeist (Fischotter)
 Kategorie: Tiergeist
@@ -26,8 +26,14 @@ Kosten: 0
 
 ---
 
-- **Kosten:** 0 EP
+- **Erlernen:** 0 EP
 - **Voraussetzungen:**
   - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
   - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
-- **Siehe auch:** [[Eins mit der Natur]], [[Katzenaugen]], [[Foramen Foraminor]], [[Wasseratem]], [[Wellenlauf]], [[Hilfreiche Tatze, rettende Schwinge]]
+- **Siehe auch:**
+  - [[Eins mit der Natur]]
+  - [[Katzenaugen]]
+  - [[Foramen Foraminor]]
+  - [[Wasseratem]]
+  - [[Wellenlauf]]
+  - [[Hilfreiche Tatze, rettende Schwinge]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6ae9ad37-7b1d-4686-a7a5-ff453a39d088
+ID: 1b1af9c5-2253-46a9-9de9-16d53115c175
 Name: Kulturkunde (Archaische Achaz)
 title: Kulturkunde (Archaische Achaz)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

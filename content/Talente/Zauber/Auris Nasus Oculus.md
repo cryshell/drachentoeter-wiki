@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: a1945a86-9e9a-4f3b-9fdb-177d1231aecb
+ID: 09c884d3-202c-4c29-ab68-f9bd5c556d00
 Name: Auris Nasus Oculus
 title: Auris Nasus Oculus
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Illusion|Illusion]]"
+  - "[[Illusion]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I
@@ -14,9 +14,9 @@ Eine statische *Illusion* (Sicht, Gehör oder Geruch) deiner Wahl erscheint. Ihr
 
 - **Hohe Qualität:** Die Illusion betrifft einen weiteren, oben genannten Sinn.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Bewegte Illusion (-4; die Illusion führt eine beim Zaubern bestimmte Bewegung aus.)
-Blendwerk (-4; du kannst die Illusion aktiv steuern, was *Konzentration* erfordert.)
-
+- **Modifikationen:**
+  - Bewegte Illusion (-4; die Illusion führt eine beim Zaubern bestimmte Bewegung aus.)
+  - Blendwerk (-4; du kannst die Illusion aktiv steuern, was *Konzentration* erfordert.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** 32 Schritt
@@ -27,5 +27,8 @@ Blendwerk (-4; du kannst die Illusion aktiv steuern, was *Konzentration* erforde
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Illusion|Illusion]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Illusion]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I]]
+- **Erlernen:** 40 EP

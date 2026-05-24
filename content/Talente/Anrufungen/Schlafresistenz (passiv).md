@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 72dd6f34-6d17-4eb1-8157-90467454e23f
+ID: 142395d0-5d6b-4a6a-98b1-6057d4768b6b
 Name: Schlafresistenz (passiv)
 title: Schlafresistenz (passiv)
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Lolgramoths|Anrufung Lolgramoths]]"
+  - "[[Anrufung Lolgramoths]]"
 Kosten: 80
 ---
 Du hast keinen Schlafbedarf mehr und wirst nie *übermüdet*. Für eine *lange Rast* reichen dir 8 ruhige Minuten.
@@ -14,5 +14,6 @@ Du hast keinen Schlafbedarf mehr und wirst nie *übermüdet*. Für eine *lange R
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Lolgramoths|Anrufung Lolgramoths]]
-- **Kosten:** 80 EP
+- **Fertigkeiten:**
+  - [[Anrufung Lolgramoths]]
+- **Erlernen:** 80 EP

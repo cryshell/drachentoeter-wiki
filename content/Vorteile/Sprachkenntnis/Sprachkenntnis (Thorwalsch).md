@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 62ed6143-b761-43e7-8746-b1a8408a47bc
+ID: dad833e9-6d8e-4f40-b9fa-1bc6c05edba3
 Name: Sprachkenntnis (Thorwalsch)
 title: Sprachkenntnis (Thorwalsch)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Thorwalsch gehört zur Thorwalsch-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

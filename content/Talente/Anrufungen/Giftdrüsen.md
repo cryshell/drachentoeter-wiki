@@ -1,18 +1,19 @@
 ---
 Entitätstyp: Talent
-ID: 34e920cb-da85-4aa8-bf1e-0c438815b1b9
+ID: 7959f7fd-b07a-441a-aaf0-c673d14b1f20
 Name: Giftdrüsen
 title: Giftdrüsen
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Belzhorashs|Anrufung Belzhorashs]]"
+  - "[[Anrufung Belzhorashs]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
 Du kannst bei Berührung ein Kontaktgift absondern (Werte wie Goldleim). Im Kampf ist hierzu ein erfolgreicher waffenloser Angriff nötig.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Lähmungsgift (-4; Werte wie Höhlenspinnengift.)
+- **Modifikationen:**
+  - Lähmungsgift (-4; Werte wie Höhlenspinnengift.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -23,5 +24,6 @@ Du kannst bei Berührung ein Kontaktgift absondern (Werte wie Goldleim). Im Kamp
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Belzhorashs|Anrufung Belzhorashs]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Belzhorashs]]
+- **Erlernen:** 20 EP

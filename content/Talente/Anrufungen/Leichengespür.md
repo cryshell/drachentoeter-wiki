@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: ae8df8d5-d3f3-4364-b17a-9e1137ccf46e
+ID: 52eff18e-09ed-4580-922e-438db395d79d
 Name: Leichengespür
 title: Leichengespür
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Thargunitoths|Anrufung Thargunitoths]]"
+  - "[[Anrufung Thargunitoths]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Du kannst in einem Radius von 1 Meile alle sterblichen Überreste aufspüren, di
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Thargunitoths|Anrufung Thargunitoths]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Thargunitoths]]
+- **Erlernen:** 20 EP

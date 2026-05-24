@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 23189d85-9f6a-48cc-a363-31a52b652199
+ID: 9f9638ff-1e30-4aa4-baa7-50f14b95c074
 Name: Innere Ruhe
 title: Innere Ruhe
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Nacht|Nacht]]"
-  - "[[Inhalt/Fertigkeiten/Ordnung|Ordnung]]"
-  - "[[Inhalt/Fertigkeiten/Vergessen|Vergessen]]"
+  - "[[Nacht]]"
+  - "[[Ordnung]]"
+  - "[[Vergessen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der V’Sargeweihten I
@@ -26,5 +26,10 @@ Du besinnst dich auf deine innere Kraft. Proben auf MU und KO haben Vorteil. Erl
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Nacht|Nacht]], [[Inhalt/Fertigkeiten/Ordnung|Ordnung]], [[Inhalt/Fertigkeiten/Vergessen|Vergessen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Nacht]]
+  - [[Ordnung]]
+  - [[Vergessen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borongeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der V’Sargeweihten I]]
+- **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e22742fb-f685-4ee3-a47d-e03063ac3ae6
+ID: e99e0120-c671-41ef-b60f-cd1006435108
 Name: Schriftkenntnis (Mahrische Glyphen)
 title: Schriftkenntnis (Mahrische Glyphen)
 Kategorie: Schriftkenntnis
@@ -11,4 +11,4 @@ Schriften umfassen sowohl die Fähigkeit die entsprechenden Zeichen lesen als au
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

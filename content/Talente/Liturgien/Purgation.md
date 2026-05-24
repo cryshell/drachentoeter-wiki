@@ -1,16 +1,16 @@
 ---
 Entitätstyp: Talent
-ID: 58ff28b5-2b24-4552-bc4f-8256d0880b45
+ID: 55200c3b-f612-49cc-a149-d39fcf82ca7e
 Name: Purgation
 title: Purgation
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heiliges Handwerk|Heiliges Handwerk]]"
-  - "[[Inhalt/Fertigkeiten/Magie|Magie]]"
-  - "[[Inhalt/Fertigkeiten/Magiebann|Magiebann]]"
-  - "[[Inhalt/Fertigkeiten/Schutz der Gläubigen|Schutz der Gläubigen]]"
-  - "[[Inhalt/Fertigkeiten/Geister|Geister]]"
-  - "[[Inhalt/Fertigkeiten/Nipakau|Nipakau]]"
+  - "[[Heiliges Handwerk]]"
+  - "[[Magie]]"
+  - "[[Magiebann]]"
+  - "[[Schutz der Gläubigen]]"
+  - "[[Geister]]"
+  - "[[Nipakau]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der Rondrageweihten I ODER Vorteil Tradition der H’Szintgeweihten I ODER Vorteil Tradition der Tairachgeweihten I ODER Vorteil Tradition der Kamaluqgeweihten I ODER Vorteil Tradition der Graveshgeweihten I
@@ -29,5 +29,13 @@ Du bannst einen Zauber, in den gAsP geflossen sind (wie ein Artefakt oder ein pe
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heiliges Handwerk|Heiliges Handwerk]], [[Inhalt/Fertigkeiten/Magie|Magie]], [[Inhalt/Fertigkeiten/Magiebann|Magiebann]], [[Inhalt/Fertigkeiten/Schutz der Gläubigen|Schutz der Gläubigen]], [[Inhalt/Fertigkeiten/Geister|Geister]], [[Inhalt/Fertigkeiten/Nipakau|Nipakau]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Heiliges Handwerk]]
+  - [[Magie]]
+  - [[Magiebann]]
+  - [[Schutz der Gläubigen]]
+  - [[Geister]]
+  - [[Nipakau]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der Rondrageweihten I ODER Vorteil Tradition der H’Szintgeweihten I ODER Vorteil Tradition der Tairachgeweihten I ODER Vorteil Tradition der Kamaluqgeweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+- **Erlernen:** 20 EP

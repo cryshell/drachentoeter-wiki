@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 289deae0-15a8-4b8e-8af6-71247328a3ae
+ID: 34f78ef9-3f37-4ff2-9f10-d14e0ee8a7c2
 Name: Blick in Liskas Augen
 title: Blick in Liskas Augen
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]"
+  - "[[Hellsicht]]"
+  - "[[Geister rufen]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
@@ -24,5 +24,9 @@ Du erhältst den Vorteil Prophezeien und erleidest keine Erschöpfung durch den 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Hellsicht]]
+  - [[Geister rufen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+- **Erlernen:** 10 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 374c5d8f-0e89-4b65-bcfe-5bb14818cf3f
+ID: 151dfb8b-16bf-4eae-93a3-72a9f5394acd
 Name: Schelmenrausch
 title: Schelmenrausch
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Einfluss]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schelme I
@@ -23,5 +23,8 @@ Du versetzt dein Ziel in einen friedvoll-glücklichen Rauschzustand, der es *ben
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schelme I]]
+- **Erlernen:** 20 EP

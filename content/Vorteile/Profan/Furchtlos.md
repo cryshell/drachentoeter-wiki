@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2ec401e3-6f67-4920-bfdf-95bc409ceca9
+ID: 0fac8880-bad9-4c7c-8266-e7d1eb8e3235
 Name: Furchtlos
 title: Furchtlos
 Kategorie: Profan
@@ -12,6 +12,6 @@ Du hast Vorteil auf Gegenproben gegen *Verängstigt* und *Panisch*.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 6

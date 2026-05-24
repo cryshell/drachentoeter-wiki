@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 7c799afd-f83f-4366-a64a-1f87d8c261c3
+ID: 3db65726-f7b7-4a8c-b7a0-40c08a321ac5
 Name: Segensreicher Neuanfang
 title: Segensreicher Neuanfang
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Heiliges Handwerk|Heiliges Handwerk]]"
-  - "[[Inhalt/Fertigkeiten/Neubeginn|Neubeginn]]"
+  - "[[Heiliges Handwerk]]"
+  - "[[Neubeginn]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Graveshgeweihten I
@@ -26,5 +26,9 @@ Du segnest ein neues Unternehmen. Der Gesegnete erhält temporär 1 WiP, auch ü
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Heiliges Handwerk|Heiliges Handwerk]], [[Inhalt/Fertigkeiten/Neubeginn|Neubeginn]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Heiliges Handwerk]]
+  - [[Neubeginn]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Tsageweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+- **Erlernen:** 20 EP

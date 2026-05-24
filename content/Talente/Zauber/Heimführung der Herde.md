@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 2c6f4867-0440-49af-9b27-4b2351f714eb
+ID: 632b2374-68ee-4eb1-bd6e-8b413b2c9966
 Name: Heimführung der Herde
 title: Heimführung der Herde
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]]"
-  - "[[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Geister der Stärkung]]"
+  - "[[Geister rufen]]"
+  - "[[Verständigung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Nivesen) I ODER Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Orks) I
@@ -16,7 +16,8 @@ Alle Tiere in einem Radius von 4 Meilen, die dir gehören, kommen zu dir.
 
 - **Hohe Qualität:** Verdoppelt den Radius.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Namensruf (-4; der Ruf betrifft nur ein bestimmtes Tier in einem Radius von 8 Meilen.)
+- **Modifikationen:**
+  - Namensruf (-4; der Ruf betrifft nur ein bestimmtes Tier in einem Radius von 8 Meilen.)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -27,5 +28,10 @@ Alle Tiere in einem Radius von 4 Meilen, die dir gehören, kommen zu dir.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]], [[Inhalt/Fertigkeiten/Geister rufen|Geister rufen]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Geister der Stärkung]]
+  - [[Geister rufen]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Nivesen) I ODER Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Orks) I]]
+- **Erlernen:** 10 EP

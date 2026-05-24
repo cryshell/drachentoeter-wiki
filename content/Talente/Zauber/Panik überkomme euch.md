@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: f550fb83-0476-4926-b9f4-eddc1b031975
+ID: 2fe81d50-53c3-43ba-bdf6-1f859104bf37
 Name: "Panik überkomme euch!"
 title: "Panik überkomme euch!"
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Dämonisch]]"
+  - "[[Einfluss]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Borbaradianer I
@@ -14,9 +14,9 @@ Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition d
 Du erhältst die Kreatureneigenschaft Schreckgestalt (Zauber-EW). Die Gegenprobe wird auf MR statt MU abgelegt.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Objekt (-4, Objekt; der Zauber betrifft jeden, der das Objekt sehen kann.)
-Panische Angst (-8; die Schreckgestalt verursacht *Panisch*. Opfer sind bei gelungener Gegenprobe dennoch *verängstigt*, dagegen ist keine weitere Gegenprobe erlaubt.)
-
+- **Modifikationen:**
+  - Objekt (-4, Objekt; der Zauber betrifft jeden, der das Objekt sehen kann.)
+  - Panische Angst (-8; die Schreckgestalt verursacht *Panisch*. Opfer sind bei gelungener Gegenprobe dennoch *verängstigt*, dagegen ist keine weitere Gegenprobe erlaubt.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -27,5 +27,9 @@ Panische Angst (-8; die Schreckgestalt verursacht *Panisch*. Opfer sind bei gelu
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]], [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Dämonisch]]
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Borbaradianer I]]
+- **Erlernen:** 20 EP

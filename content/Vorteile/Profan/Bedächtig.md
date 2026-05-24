@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: fbc11e49-b416-40f3-b14c-6f68e53ca2ac
+ID: 2e78f716-9449-4886-b1fc-684f3ee1f4a7
 Name: Bedächtig
 title: Bedächtig
 Kategorie: Profan
@@ -16,7 +16,10 @@ Deine defensiven Proben in sozialen Interaktionen haben Vorteil.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 8
-- **Siehe auch:** [[Soziale Interaktion]], [[Rededuell]], [[Manipulation]]
+- **Siehe auch:**
+  - [[Soziale Interaktion]]
+  - [[Rededuell]]
+  - [[Manipulation]]

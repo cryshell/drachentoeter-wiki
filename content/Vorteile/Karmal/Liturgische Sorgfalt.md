@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4c929ec0-61c6-4bf3-b8ab-0f95739b2fa9
+ID: 56a4de00-fd51-4677-b5f0-75063d016d8f
 Name: Liturgische Sorgfalt
 title: Liturgische Sorgfalt
 Kategorie: Karmal
@@ -14,7 +14,7 @@ Misslungene Liturgien kosten nur 1/4 der Basiskosten.
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 6
   - Vorteil [[Geweiht I]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c3f4cc7e-bc85-4f9e-ae78-7a006e7bdb5d
+ID: 6ede1507-0c3c-4bbe-ae5c-f406291b7e0c
 Name: Schneller Kampf IV
 title: Schneller Kampf IV
 Kategorie: Kampfstil
@@ -14,7 +14,7 @@ Kosten: 80
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - MeisterAttribut [[Gewandheit|GE]] 10
   - Vorteil [[Schneller Kampf III]]

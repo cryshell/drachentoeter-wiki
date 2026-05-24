@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 1f3bee2b-cef5-4052-8246-8b700729de9c
+ID: 8e3a618b-aa1c-4d87-9a84-e3c3ebee7b12
 Name: Rundschliff
 title: Rundschliff
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Erz|Erz]]"
-  - "[[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]"
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
+  - "[[Erz]]"
+  - "[[Kristallmagie]]"
+  - "[[Kraft]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I
@@ -25,5 +25,10 @@ Du versiehst einen gebundenen Kristall mit einem Rundschliff. Wann immer du mit 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Erz|Erz]], [[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]], [[Inhalt/Fertigkeiten/Kraft|Kraft]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Erz]]
+  - [[Kristallmagie]]
+  - [[Kraft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

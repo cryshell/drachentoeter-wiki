@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 154b7f95-f92b-4d6f-a895-a6f8fad06951
+ID: 9d9a7855-e44d-465a-a908-f1465ec18bd3
 Name: Geisterruf
 title: Geisterruf
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Verständigung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I
@@ -14,7 +14,8 @@ Du rufst einen Geist herbei. Falls Geister in deiner Region nicht heimisch sind,
 
 - **Hohe Qualität:** Verbessert die anfängliche Einstellung um eine Stufe.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Namensruf (-4; du rufst einen dir bereits bekannten Geist herbei.)
+- **Modifikationen:**
+  - Namensruf (-4; du rufst einen dir bereits bekannten Geist herbei.)
 - **Vorbereitungszeit:** 4 Minuten
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -25,5 +26,8 @@ Du rufst einen Geist herbei. Falls Geister in deiner Region nicht heimisch sind,
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I]]
+- **Erlernen:** 20 EP

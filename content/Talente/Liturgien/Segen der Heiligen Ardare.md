@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 56ecdb1f-fd22-4c2b-b7e9-e22b577869d0
+ID: b785149e-18df-4074-b3e2-1bb24a26799f
 Name: Segen der Heiligen Ardare
 title: Segen der Heiligen Ardare
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Ehre|Ehre]]"
+  - "[[Ehre]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rondrageweihten I
@@ -24,5 +24,8 @@ Du rufst das heilige Schwert Armalion herbei. Die Klingenwaffe hat folgende Wert
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Ehre|Ehre]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Ehre]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rondrageweihten I]]
+- **Erlernen:** 40 EP

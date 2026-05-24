@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 585a60da-4135-41a4-a060-760be8654e96
+ID: b361f491-cdbe-4e35-ac57-cb86ab60f353
 Name: Ein Freund in der Not
 title: Ein Freund in der Not
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Fröhlicher Wanderer|Fröhlicher Wanderer]]"
+  - "[[Fröhlicher Wanderer]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Avesgeweihten I
@@ -13,7 +13,8 @@ Voraussetzungen: Vorteil Tradition der Avesgeweihten I
 Durch Aves‘ Hilfe findest du den Weg zu einer hilfsbereiten Person im Radius von 1 Meile, die dich aus einer Notlage zu befreien versucht. Kommen mehrere Personen in Frage, führt der Weg zu derjenigen, die du schnell genug erreichen kannst und die dir am besten helfen kann.
 
 - **Hohe Qualität:** Verdoppelt den Radius.
-- **Modifikationen:** Aktiver Helfer (-4; der Helfer bewegt sich unbewusst in deine Richtung, sofern ihm daraus kein bedeutender Nachteil erwächst.)
+- **Modifikationen:**
+  - Aktiver Helfer (-4; der Helfer bewegt sich unbewusst in deine Richtung, sofern ihm daraus kein bedeutender Nachteil erwächst.)
 - **Probenschwierigkeit:** 12
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** selbst
@@ -26,5 +27,8 @@ Durch Aves‘ Hilfe findest du den Weg zu einer hilfsbereiten Person im Radius v
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Fröhlicher Wanderer|Fröhlicher Wanderer]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Fröhlicher Wanderer]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Avesgeweihten I]]
+- **Erlernen:** 20 EP

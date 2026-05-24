@@ -1,17 +1,17 @@
 ---
 Entitätstyp: Talent
-ID: daec5938-8c04-49e2-a970-b01fd0ba48f3
+ID: d8e6b08e-0b35-4a1c-a798-838069ace946
 Name: "Mirakel: Feingefühl"
 title: "Mirakel: Feingefühl"
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Tod|Tod]]"
-  - "[[Inhalt/Fertigkeiten/Heilung|Heilung]]"
-  - "[[Inhalt/Fertigkeiten/Ordnung|Ordnung]]"
-  - "[[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]]"
-  - "[[Inhalt/Fertigkeiten/Harmonie|Harmonie]]"
-  - "[[Inhalt/Fertigkeiten/Einsicht|Einsicht]]"
-  - "[[Inhalt/Fertigkeiten/Verführung|Verführung]]"
+  - "[[Tod]]"
+  - "[[Heilung]]"
+  - "[[Ordnung]]"
+  - "[[Heim und Herd]]"
+  - "[[Harmonie]]"
+  - "[[Einsicht]]"
+  - "[[Verführung]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -19,9 +19,9 @@ Deine nächste Probe auf Feingefühl ist um +4 Punkte erleichtert.
 
 - **Hohe Qualität:** Erhöht die Erleichterung um +2.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Intervention (-8; *Reaktive* Liturgie (beliebiges Ereignis). Hohe Qualität ist nicht möglich.)
-Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion ausführen. Hohe Qualität ist nicht möglich.)
-
+- **Modifikationen:**
+  - Intervention (-8; *Reaktive* Liturgie (beliebiges Ereignis). Hohe Qualität ist nicht möglich.)
+  - Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion ausführen. Hohe Qualität ist nicht möglich.)
 - **Vorbereitungszeit:** 0 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -31,5 +31,12 @@ Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion au
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Tod|Tod]], [[Inhalt/Fertigkeiten/Heilung|Heilung]], [[Inhalt/Fertigkeiten/Ordnung|Ordnung]], [[Inhalt/Fertigkeiten/Heim und Herd|Heim und Herd]], [[Inhalt/Fertigkeiten/Harmonie|Harmonie]], [[Inhalt/Fertigkeiten/Einsicht|Einsicht]], [[Inhalt/Fertigkeiten/Verführung|Verführung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Tod]]
+  - [[Heilung]]
+  - [[Ordnung]]
+  - [[Heim und Herd]]
+  - [[Harmonie]]
+  - [[Einsicht]]
+  - [[Verführung]]
+- **Erlernen:** 10 EP

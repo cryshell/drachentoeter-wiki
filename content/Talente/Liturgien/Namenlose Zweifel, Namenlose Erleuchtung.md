@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 3cd4cb7f-78cf-4ca9-a226-cf5983613f8e
+ID: 8c020d0b-b577-41cb-8d1d-25c0d15ca7f2
 Name: Namenlose Zweifel, Namenlose Erleuchtung
 title: Namenlose Zweifel, Namenlose Erleuchtung
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verführung|Verführung]]"
+  - "[[Verführung]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Namenlosgeweihten I
@@ -23,5 +23,8 @@ Du kehrst die moralischen Grundsätze des Opfers um, sodass es die Eigenheit „
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verführung|Verführung]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Verführung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Namenlosgeweihten I]]
+- **Erlernen:** 40 EP

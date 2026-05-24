@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 914ea92d-0ace-4468-95e2-447e879a238f
+ID: 34cba1bf-fa10-4503-b0ff-912780134a98
 Name: Serpentialis Schlangenleib (Tiergeist)
 title: Serpentialis Schlangenleib (Tiergeist)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]]"
-  - "[[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]"
+  - "[[Gaben des Odun]]"
+  - "[[Gaben des Blutgeists]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tiergeist (Schlange)
@@ -15,5 +15,9 @@ $talent:Serpentialis Schlangenleib$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Gaben des Odun|Gaben des Odun]], [[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Gaben des Odun]]
+  - [[Gaben des Blutgeists]]
+- **Voraussetzungen:**
+  - Vorteil [[Tiergeist (Schlange)]]
+- **Erlernen:** 20 EP

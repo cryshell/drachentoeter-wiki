@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 35c4a71c-7dd5-4f6c-8156-e4b4545e1ecc
+ID: db813e20-2f92-4eb9-a8bb-542b39388083
 Name: Wahre Namen der Luft II
 title: Wahre Namen der Luft II
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - Attribut [[Klugheit|KL]] 6

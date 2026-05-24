@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 3b65921d-925f-44d2-b5de-6202b246a68e
+ID: c46b2b4c-3aa1-41b6-b40a-e0d273da29ef
 Name: Verborgen wie der Neumond
 title: Verborgen wie der Neumond
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Nächtlicher Schatten|Nächtlicher Schatten]]"
-  - "[[Inhalt/Fertigkeiten/Nacht|Nacht]]"
+  - "[[Nächtlicher Schatten]]"
+  - "[[Nacht]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der V’Sargeweihten I
@@ -25,5 +25,9 @@ Du passt dich deiner Umgebung an. Du erhältst den Vorteil Tarnung (kein Malus d
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Nächtlicher Schatten|Nächtlicher Schatten]], [[Inhalt/Fertigkeiten/Nacht|Nacht]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Nächtlicher Schatten]]
+  - [[Nacht]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Phexgeweihten I ODER Vorteil Tradition der V’Sargeweihten I]]
+- **Erlernen:** 20 EP

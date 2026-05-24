@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: d9872766-1e6c-4cb1-acbd-d9ac3edad532
+ID: ccd43e84-188c-4fc6-8d6f-32efa3e25387
 Name: Ewige Flamme
 title: Ewige Flamme
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Feuer|Feuer]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
-  - "[[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]]"
+  - "[[Feuer]]"
+  - "[[Objekt]]"
+  - "[[Stabzauber]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
@@ -25,5 +25,10 @@ Die Spitze des Stabes bricht in Flammen aus, die in Leuchtkraft und Eigenschafte
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Feuer|Feuer]], [[Inhalt/Fertigkeiten/Objekt|Objekt]], [[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Feuer]]
+  - [[Objekt]]
+  - [[Stabzauber]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 10 EP

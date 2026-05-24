@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 09b0d601-ace7-48d6-b996-495639e801a3
+ID: c3c3273c-0b8d-4e84-819d-b96dd26e96bb
 Name: Sprachkenntnis (Aureliani)
 title: Sprachkenntnis (Aureliani)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Aureliani gehört zur Garethi-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

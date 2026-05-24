@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: df33f71e-b4f3-4a35-be4a-c4b5231a39e2
+ID: 883c03c4-1496-4cd5-a21d-239f57248a5a
 Name: Tsas lachende Gefolgschaft
 title: Tsas lachende Gefolgschaft
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Neubeginn|Neubeginn]]"
+  - "[[Neubeginn]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Tsageweihten I
@@ -14,7 +14,8 @@ Du rufst einen Kobold herbei. Falls Kobolde in deiner Region nicht heimisch sind
 
 - **Hohe Qualität:** Verbessert die anfängliche Einstellung um eine Stufe.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Namensruf (-4; du rufst einen dir bereits bekannten Kobold herbei.)
+- **Modifikationen:**
+  - Namensruf (-4; du rufst einen dir bereits bekannten Kobold herbei.)
 - **Vorbereitungszeit:** 2 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -25,5 +26,8 @@ Du rufst einen Kobold herbei. Falls Kobolde in deiner Region nicht heimisch sind
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Neubeginn|Neubeginn]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Neubeginn]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Tsageweihten I]]
+- **Erlernen:** 10 EP

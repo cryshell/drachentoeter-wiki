@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 99f6e908-f5c3-4993-b441-045ee1aa4903
+ID: eddeee73-b601-4305-ab98-2714378d62c0
 Name: Standfest
 title: Standfest
 Kategorie: Kampf
@@ -12,6 +12,6 @@ Deine Gegenproben, um einen Sturz zu verhindern, haben Vorteil.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Gewandheit|GE]] 4

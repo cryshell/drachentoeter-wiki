@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 36999b36-6879-4b4f-bb98-8c94c327e23a
+ID: 4c6ce412-c771-413a-88e5-d1a324529dec
 Name: Magietheorie
 title: Magietheorie
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Magiekunde|Magiekunde]]"
+  - "[[Magiekunde]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Magietheorie hilft dir bei der Einschätzung und der Analyse von magischen Phän
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Magiekunde|Magiekunde]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Magiekunde]]
+- **Erlernen:** 40 EP

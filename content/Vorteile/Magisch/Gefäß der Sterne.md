@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 323b654a-5c4f-4ee9-97c8-a2a19eaaeae9
+ID: 627023a7-8576-4c0a-ad8c-9259ba079180
 Name: Gefäß der Sterne
 title: Gefäß der Sterne
 Kategorie: Magisch
@@ -14,7 +14,7 @@ Deine maximale Astralenergie steigt um 4 + CH Punkte.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
   - Attribut [[Charisma|CH]] 8

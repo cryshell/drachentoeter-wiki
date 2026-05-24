@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 49b87d76-bc57-4918-96c5-b4f879e2d7fa
+ID: acd976b3-6db8-4f4f-89c5-dbff0d62db23
 Name: Zwingtanz
 title: Zwingtanz
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Einfluss]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I
@@ -24,5 +24,8 @@ Dein Opfer verliert die Kontrolle über seinen Körper und wird *handlungsunfäh
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I]]
+- **Erlernen:** 20 EP

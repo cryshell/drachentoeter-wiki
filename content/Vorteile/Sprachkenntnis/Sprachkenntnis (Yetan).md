@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a3c8a9c7-c56f-4ad2-9339-78678f3eb52c
+ID: dfd7266f-37fe-4063-b34e-2e0f0c9deff4
 Name: Sprachkenntnis (Yetan)
 title: Sprachkenntnis (Yetan)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Yetan gehört zur Schratisch-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

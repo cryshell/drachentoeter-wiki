@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 8d1bbcc3-040e-4328-85d2-b16b6b2f299d
+ID: f96e439b-ddb8-42c9-a899-33554cbcba58
 Name: Sog des Purpurnen (passiv)
 title: Sog des Purpurnen (passiv)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Vampirische Kräfte|Vampirische Kräfte]]"
+  - "[[Vampirische Kräfte]]"
 Kosten: 40
 Voraussetzungen:
   - Vorteil Zauberer I
@@ -17,5 +17,9 @@ Du hast gelernt, statt Sikaryan auch die Astralkraft deiner Opfer zu rauben. Sta
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Vampirische Kräfte|Vampirische Kräfte]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Vampirische Kräfte]]
+- **Voraussetzungen:**
+  - Vorteil [[Zauberer I]]
+  - Vorteil [[Tradition der Kinder der Nacht ODER Vorteil Tradition der Kinder der Finsternis ODER Vorteil Tradition der Feylamia ODER Vorteil Tradition der Lamijahnim]]
+- **Erlernen:** 40 EP

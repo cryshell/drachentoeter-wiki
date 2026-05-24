@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 069f8c31-283a-49c2-9b2c-228d8c988035
+ID: 9d5e6c78-2987-4c01-8c3a-a9243b7b899e
 Name: Schriftkenntnis (Kemi-Symbole)
 title: Schriftkenntnis (Kemi-Symbole)
 Kategorie: Schriftkenntnis
@@ -11,4 +11,4 @@ Schriften umfassen sowohl die Fähigkeit die entsprechenden Zeichen lesen als au
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

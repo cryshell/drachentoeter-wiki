@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 154b3932-b030-4bcf-9623-4aa1da1f0f46
+ID: c57bf983-2136-4c3c-b1f1-d2884cf05d91
 Name: Wahre Namen Belkelels IV
 title: Wahre Namen Belkelels IV
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Kosten: 20
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - MeisterAttribut [[Klugheit|KL]] 10

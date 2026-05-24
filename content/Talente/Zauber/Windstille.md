@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 7e658619-67f1-4fb0-9590-54d119ac93c1
+ID: 37879556-f028-4684-a89d-e232b2f22b1c
 Name: Windstille
 title: Windstille
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Luft]]"
+  - "[[Umwelt]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I
@@ -15,7 +15,8 @@ In einem Radius von 32 Schritt senkst du die Windstärke auf einer Skala von win
 
 - **Hohe Qualität:** Du senkst die Windstärke um eine weitere Stufe.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Anderes Zentrum (-4; die Zone bewegt sich mit einem Wesen oder Objekt.)
+- **Modifikationen:**
+  - Anderes Zentrum (-4; die Zone bewegt sich mit einem Wesen oder Objekt.)
 - **Vorbereitungszeit:** 8 Aktionen
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -26,5 +27,9 @@ In einem Radius von 32 Schritt senkst du die Windstärke auf einer Skala von win
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Luft]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I]]
+- **Erlernen:** 10 EP

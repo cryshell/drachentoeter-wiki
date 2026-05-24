@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 61e5cbf1-2ea0-4aa4-9b83-c73f94fe217e
+ID: eb538730-036e-4bfa-a645-57f2df9d2c45
 Name: Tradition der Firungeweihten II
 title: Tradition der Firungeweihten II
 Kategorie: Tradition (Karmal)
@@ -14,7 +14,7 @@ Firungeweihte sind Einzelgänger. Die Wirkungsdauer deiner Liturgien, die auf di
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Mut|MU]] 6
   - Vorteil [[Tradition der Firungeweihten I]]

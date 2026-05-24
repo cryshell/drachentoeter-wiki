@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: da790558-4ac3-4823-9bab-b92614908ce2
+ID: bc5962c9-c2a9-498a-8355-9f7ee204614f
 Name: Schlangensinne
 title: Schlangensinne
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schlangenbund|Schlangenbund]]"
+  - "[[Schlangenbund]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der H’Szintgeweihten I
@@ -24,5 +24,8 @@ Dein Vertrautentier schließt seine Augen und leiht dir seine Sinne. Deine Wahrn
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schlangenbund|Schlangenbund]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Schlangenbund]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der H’Szintgeweihten I]]
+- **Erlernen:** 20 EP

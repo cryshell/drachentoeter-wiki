@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: b3fe7b6b-e11b-4912-b692-4dcf73d43bde
+ID: 1f613a07-913d-480d-be0b-7388447d4561
 Name: Kristallbilder
 title: Kristallbilder
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Illusion|Illusion]]"
-  - "[[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]"
+  - "[[Illusion]]"
+  - "[[Kristallmagie]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kristallomanten I
@@ -14,9 +14,9 @@ Voraussetzungen: Vorteil Tradition der Kristallomanten I
 Du kannst in dem Kristall eine beliebige *Illusion* (Sicht) erscheinen lassen. Die Illusion kann sich auch bewegen, was *Konzentration* erfordert.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Fernbild (-4, 128 Meilen; der Zauber ignoriert die Bedingung Sicht.)
-Fremde Kugel (-8; das Ziel kann eine beliebige Kristallkugel sein, die du zuvor einmal berührt hast.)
-
+- **Modifikationen:**
+  - Fernbild (-4, 128 Meilen; der Zauber ignoriert die Bedingung Sicht.)
+  - Fremde Kugel (-8; das Ziel kann eine beliebige Kristallkugel sein, die du zuvor einmal berührt hast.)
 - **Vorbereitungszeit:** 4 Aktionen
 - **Ziel:** gebundener Kristall
 - **Reichweite:** 8 Schritt
@@ -27,5 +27,9 @@ Fremde Kugel (-8; das Ziel kann eine beliebige Kristallkugel sein, die du zuvor 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Illusion|Illusion]], [[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Illusion]]
+  - [[Kristallmagie]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

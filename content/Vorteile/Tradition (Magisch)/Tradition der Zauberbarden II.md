@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 590a2175-a0a3-45d2-a6a8-60adef2329dd
+ID: bfcfd408-b15d-42ef-8b2d-31e5057a50f0
 Name: Tradition der Zauberbarden II
 title: Tradition der Zauberbarden II
 Kategorie: Tradition (Magisch)
@@ -16,8 +16,9 @@ Zauberbarden können ihre Melodie flexibel verändern. Während du einen Zauber 
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 6
   - Vorteil [[Tradition der Zauberbarden I]]
-- **Siehe auch:** [[Eigenschaft Konzentration (M)]]
+- **Siehe auch:**
+  - [[Eigenschaft Konzentration (M)]]

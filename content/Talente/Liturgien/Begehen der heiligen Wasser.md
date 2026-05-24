@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: befb9529-d16d-42cc-beca-2badb0a4454a
+ID: 66f36ae9-ba0e-4722-b8e1-515bc0cbbc66
 Name: Begehen der heiligen Wasser
 title: Begehen der heiligen Wasser
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wind und Wogen|Wind und Wogen]]"
+  - "[[Wind und Wogen]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I
@@ -23,5 +23,8 @@ Du kannst auf der Wasseroberfläche gehen, als würdest du von einer Welle getra
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wind und Wogen|Wind und Wogen]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Wind und Wogen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I]]
+- **Erlernen:** 10 EP

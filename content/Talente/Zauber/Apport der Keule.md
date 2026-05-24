@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 01ac56a5-c2b3-4ff4-bb77-3937697ff427
+ID: f683d3dd-8034-4980-a92b-1afc30992355
 Name: Apport der Keule
 title: Apport der Keule
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Keulenrituale|Keulenrituale]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Keulenrituale]]"
+  - "[[Umwelt]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
@@ -24,5 +24,9 @@ Die Knochenkeule kehrt fliegend mit einer Geschwindigkeit von 10 Meilen pro Stun
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Keulenrituale|Keulenrituale]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Keulenrituale]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+- **Erlernen:** 10 EP

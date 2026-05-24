@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 8f86220c-b195-4073-ae3c-062bd610d84f
+ID: 0e959a8a-54ca-4188-afa3-0fde42a45f71
 Name: Amrychoths Tanz
 title: Amrychoths Tanz
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Charyptoroths|Anrufung Charyptoroths]]"
+  - "[[Anrufung Charyptoroths]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -24,5 +24,6 @@ Im Radius von einer Meile kannst du den Wind auf einer Skala von windstill/leich
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Charyptoroths|Anrufung Charyptoroths]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Charyptoroths]]
+- **Erlernen:** 20 EP

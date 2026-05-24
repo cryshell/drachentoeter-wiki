@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 654ca5a9-34c7-4152-9701-10d27e42bc49
+ID: c6b066b2-08e5-470f-94ff-b3599b2cb40e
 Name: Kugel des Hellsehers (passiv)
 title: Kugel des Hellsehers (passiv)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Kugelzauber|Kugelzauber]]"
+  - "[[Hellsicht]]"
+  - "[[Kugelzauber]]"
 Kosten: 20
 Voraussetzungen: Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I
 ---
@@ -17,5 +17,9 @@ Du lässt 2 gAsP in die Kugel fließen. Fortan sind Hellsichtszauber um +1 erlei
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Kugelzauber|Kugelzauber]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Hellsicht]]
+  - [[Kugelzauber]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I]]
+- **Erlernen:** 20 EP

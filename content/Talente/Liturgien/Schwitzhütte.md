@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 1a58296f-a432-4cef-be99-e7be791f250b
+ID: ba52d58b-0dec-450d-ab9b-60dbee4f02e4
 Name: Schwitzhütte
 title: Schwitzhütte
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hilfe der Sippe|Hilfe der Sippe]]"
+  - "[[Hilfe der Sippe]]"
 Kosten: 0
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Himmelswölfegeweihten I
@@ -23,5 +23,8 @@ Du sagst dem Ziel täglich Gebete vor, während es in einer Schwitzhütte verwei
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hilfe der Sippe|Hilfe der Sippe]]
-- **Kosten:** 0 EP
+- **Fertigkeiten:**
+  - [[Hilfe der Sippe]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Himmelswölfegeweihten I]]
+- **Erlernen:** 0 EP

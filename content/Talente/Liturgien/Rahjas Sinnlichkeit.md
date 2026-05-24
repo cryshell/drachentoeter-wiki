@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: ec99bff6-4066-434e-95ea-1199b594533e
+ID: 9d33598c-40d0-4647-b17e-91f709548940
 Name: Rahjas Sinnlichkeit
 title: Rahjas Sinnlichkeit
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Rausch|Rausch]]"
+  - "[[Rausch]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rahjageweihten I
@@ -24,5 +24,8 @@ Durch den Segen der Göttin erhältst du Resistenz I (profan, magisch, geweiht).
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Rausch|Rausch]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Rausch]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rahjageweihten I]]
+- **Erlernen:** 40 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 25ab9a1b-a871-4654-b199-c5750504ecf6
+ID: 6a16ab8d-e8c1-4716-a291-88d336c59a56
 Name: Horriphobus Schreckgestalt
 title: Horriphobus Schreckgestalt
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Einfluss]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Scharlatane I
@@ -23,5 +23,8 @@ Dein Opfer hat schreckliche Angst vor dir und wird *panisch*, wenn ihm eine MU-G
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Scharlatane I]]
+- **Erlernen:** 20 EP

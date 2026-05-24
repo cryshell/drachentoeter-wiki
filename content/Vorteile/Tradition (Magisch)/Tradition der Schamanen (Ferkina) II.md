@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 76b464b3-0d12-42c6-a893-3a0b3b180cf7
+ID: 89e28057-dd0a-4ff1-a53a-ef2d65c723e4
 Name: Tradition der Schamanen (Ferkina) II
 title: Tradition der Schamanen (Ferkina) II
 Kategorie: Tradition (Magisch)
@@ -14,7 +14,7 @@ Schamanen binden oft einen beträchtlichen Teil ihrer Astralenergie in ihre Zaub
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 6
   - Vorteil [[Tradition der Schamanen (Ferkina) I]]

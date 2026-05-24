@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: a07b446d-059e-4261-a52d-8714a0054c62
+ID: ce0bd9d6-a926-4c53-93ea-0f3996fba88d
 Name: Reiten
 title: Reiten
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Tierführung|Tierführung]]"
+  - "[[Tierführung]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Reiten ist die Fähigkeit, ein Pferd, Kamel oder einen Hippogriff zu kontrollier
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Tierführung|Tierführung]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Tierführung]]
+- **Erlernen:** 40 EP

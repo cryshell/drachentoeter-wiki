@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: cbea30f7-a57b-46e8-9ab6-0513ab025c02
+ID: e864033c-b941-4d25-a7d5-6cb1dbd9ee9e
 Name: Blutsbund
 title: Blutsbund
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
-  - "[[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Eigenschaften]]"
+  - "[[Geister der Stärkung]]"
+  - "[[Verständigung]]"
 Kosten: 0
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Nivesen) I ODER Vorteil Tradition der Schamanen (Orks) I
@@ -25,5 +25,10 @@ Du segnest einen Blutsbund wie etwa eine Hochzeit oder Blutsbrüderschaft. Alle 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]], [[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 0 EP
+- **Fertigkeiten:**
+  - [[Eigenschaften]]
+  - [[Geister der Stärkung]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Nivesen) I ODER Vorteil Tradition der Schamanen (Orks) I]]
+- **Erlernen:** 0 EP

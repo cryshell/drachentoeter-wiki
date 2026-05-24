@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 76961b80-cd9e-4731-8dab-579ed9687fac
+ID: 37989310-9439-4544-ac3c-ba17d0dfcec5
 Name: "Brenne toter Stoff!"
 title: "Brenne toter Stoff!"
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Feuer|Feuer]]"
-  - "[[Inhalt/Fertigkeiten/Objekt|Objekt]]"
+  - "[[Feuer]]"
+  - "[[Objekt]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I
@@ -15,7 +15,8 @@ Du entzündest ein magisches Feuer mit der Temperaturstufe *Glut*. Das Feuer hat
 
 - **Hohe Qualität:** Für 2 Stufen steigt die Temperatur auf *Lava*.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Flammeninferno (-8, 32 AsP; das Feuer breitet sich mit etwa 1 Schritt pro Zug aus.)
+- **Modifikationen:**
+  - Flammeninferno (-8, 32 AsP; das Feuer breitet sich mit etwa 1 Schritt pro Zug aus.)
 - **Vorbereitungszeit:** 1 Aktion
 - **Ziel:** Objekt
 - **Reichweite:** Berührung
@@ -26,5 +27,9 @@ Du entzündest ein magisches Feuer mit der Temperaturstufe *Glut*. Das Feuer hat
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Feuer|Feuer]], [[Inhalt/Fertigkeiten/Objekt|Objekt]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Feuer]]
+  - [[Objekt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I]]
+- **Erlernen:** 20 EP

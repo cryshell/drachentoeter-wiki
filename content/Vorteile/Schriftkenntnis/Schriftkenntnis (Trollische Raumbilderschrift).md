@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: fdc72673-72ce-4ffe-9c91-caab00129b40
+ID: b8a6b693-f1a1-450c-b038-a37d1ee006fa
 Name: Schriftkenntnis (Trollische Raumbilderschrift)
 title: Schriftkenntnis (Trollische Raumbilderschrift)
 Kategorie: Schriftkenntnis
@@ -11,4 +11,4 @@ Schriften umfassen sowohl die Fähigkeit die entsprechenden Zeichen lesen als au
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

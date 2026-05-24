@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6e125594-3873-4650-a106-6e3f4da771a5
+ID: 9646ddd2-f20d-4fb7-88bb-3714b2586d6b
 Name: Unitatio
 title: Unitatio
 Kategorie: Magisch
@@ -19,8 +19,9 @@ Du kannst mit anderen Zauberern einen Zirkel bilden. Alle Teilnehmer müssen sic
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
   - Attribut [[Intuition|IN]] 4
-- **Siehe auch:** [[Zusammenarbeit]]
+- **Siehe auch:**
+  - [[Zusammenarbeit]]

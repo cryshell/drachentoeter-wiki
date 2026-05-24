@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a7e75425-6ad4-4511-8682-f4786b86c086
+ID: 45ce9d9f-c6ae-435f-964d-4a0eccd1ecc7
 Name: Kulturkunde (Zahori)
 title: Kulturkunde (Zahori)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

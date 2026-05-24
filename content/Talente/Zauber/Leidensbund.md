@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 9804bc99-b9e8-4839-a20d-b7d7ce985964
+ID: f6e9b82c-7adc-4e24-b6dc-f8951abfbc8a
 Name: Leidensbund
 title: Leidensbund
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Humus]]"
+  - "[[Verständigung]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I
@@ -15,7 +15,8 @@ Du übernimmst 2 Wunden von deinem Ziel.
 
 - **Hohe Qualität:** Du kannst 1 weitere Wunde übernehmen.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Heilender Dritter (-4, zwei Humanoide; du überträgst die Wunden von einem Ziel auf ein freiwilliges anderes.)
+- **Modifikationen:**
+  - Heilender Dritter (-4, zwei Humanoide; du überträgst die Wunden von einem Ziel auf ein freiwilliges anderes.)
 - **Varianten:** Krankheitsbund (Probenschwierigkeit Krankheitsstufe; du übernimmst die Krankheit deines Ziels.)
 Giftbund (Probenschwierigkeit Giftstufe; du übernimmst das Gift von deinem Ziel.)
 
@@ -29,5 +30,9 @@ Giftbund (Probenschwierigkeit Giftstufe; du übernimmst das Gift von deinem Ziel
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Humus|Humus]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Humus]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

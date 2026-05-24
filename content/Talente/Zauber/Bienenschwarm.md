@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 0c4d5b32-0c17-4da5-b5e6-5f4c679d4b12
+ID: 5a986113-09da-4991-a1e6-4b06e084c2eb
 Name: Bienenschwarm
 title: Bienenschwarm
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Zibiljarituale|Zibiljarituale]]"
+  - "[[Einfluss]]"
+  - "[[Zibiljarituale]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zibilja I
@@ -24,5 +24,9 @@ Du bittest einen Bienenschwarm, ein bestimmtes Gebiet systematisch nach etwas ab
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Zibiljarituale|Zibiljarituale]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Zibiljarituale]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zibilja I]]
+- **Erlernen:** 20 EP

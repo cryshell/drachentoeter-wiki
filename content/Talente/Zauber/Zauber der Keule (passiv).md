@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: f054d76f-f0a6-405b-a5dd-28e25ceaed0f
+ID: 7173be69-9a84-4d53-a601-b28d59d9b122
 Name: Zauber der Keule (passiv)
 title: Zauber der Keule (passiv)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Keulenrituale|Keulenrituale]]"
-  - "[[Inhalt/Fertigkeiten/Kraft|Kraft]]"
+  - "[[Keulenrituale]]"
+  - "[[Kraft]]"
 Kosten: 60
 Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
 ---
@@ -16,5 +16,9 @@ Du kannst bei Schamanenzaubern wie mit dem Vorteil Effizientes Zaubern die Spont
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Keulenrituale|Keulenrituale]], [[Inhalt/Fertigkeiten/Kraft|Kraft]]
-- **Kosten:** 60 EP
+- **Fertigkeiten:**
+  - [[Keulenrituale]]
+  - [[Kraft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+- **Erlernen:** 60 EP

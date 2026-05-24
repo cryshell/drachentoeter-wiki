@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 922c7f8e-ce76-450b-99bc-37b3a0bc474e
+ID: 1f8c66d5-53ca-456f-9013-889ade279896
 Name: Macht des Lebens
 title: Macht des Lebens
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Antimagie|Antimagie]]"
-  - "[[Inhalt/Fertigkeiten/Ringrituale|Ringrituale]]"
+  - "[[Antimagie]]"
+  - "[[Ringrituale]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Geoden I
@@ -25,5 +25,9 @@ Die strahlende Macht des Lebens schreckt Untote und Daimonide ab. Liegt die Besc
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Antimagie|Antimagie]], [[Inhalt/Fertigkeiten/Ringrituale|Ringrituale]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Antimagie]]
+  - [[Ringrituale]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Geoden I]]
+- **Erlernen:** 20 EP

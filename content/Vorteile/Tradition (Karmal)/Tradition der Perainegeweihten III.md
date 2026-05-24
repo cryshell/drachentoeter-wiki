@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 76ecf080-e3aa-48a2-b3b2-d855a86cc129
+ID: e51be9f2-47ff-4c0a-b0ac-7aec04b7fbfb
 Name: Tradition der Perainegeweihten III
 title: Tradition der Perainegeweihten III
 Kategorie: Tradition (Karmal)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Zeremonie.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 8
   - Vorteil [[Tradition der Perainegeweihten II]]
-- **Siehe auch:** [[Zeremonie (L)]]
+- **Siehe auch:**
+  - [[Zeremonie (L)]]

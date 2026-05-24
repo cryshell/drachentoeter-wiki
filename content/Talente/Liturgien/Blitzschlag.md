@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 16575830-f060-41a5-971b-7e470d60f6ba
+ID: b8b3016a-5bb1-4d8a-9f8f-5b7cbac5b0d7
 Name: Blitzschlag
 title: Blitzschlag
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Herr des Himmels|Herr des Himmels]]"
+  - "[[Herr des Himmels]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Chr’Ssir’Ssrgeweihten I
@@ -18,5 +18,8 @@ $talent:Zorn der Sturmherrin$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Herr des Himmels|Herr des Himmels]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Herr des Himmels]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Chr’Ssir’Ssrgeweihten I]]
+- **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b00f9836-ce88-42d4-8bff-d903e5aaa661
+ID: e6bbdc27-7aac-42fa-be70-502b50ce4a85
 Name: Kulturkunde (Hügelzwerge)
 title: Kulturkunde (Hügelzwerge)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

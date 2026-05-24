@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: ce8fcabf-5776-4c69-80c6-f1958ec15b75
+ID: 66aa514a-5c38-43e6-9fdb-e5cdab1b39fb
 Name: Tradition der Apotheker I
 title: Tradition der Apotheker I
 Kategorie: Tradition (Profan)
@@ -12,6 +12,6 @@ Du beherrschst Rezepte der Tradition der Apotheker (Apo) bis zu einer Verbreitun
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 4

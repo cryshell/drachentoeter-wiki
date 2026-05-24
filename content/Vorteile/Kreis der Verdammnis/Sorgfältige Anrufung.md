@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 72b4071b-f43a-4b82-a267-8d75846d4f90
+ID: 93362808-1e3e-4791-b888-b9cdcd2d69f4
 Name: Sorgfältige Anrufung
 title: Sorgfältige Anrufung
 Kategorie: Kreis der Verdammnis
@@ -14,7 +14,7 @@ Misslungene Anrufungen kosten nur ein Viertel der Basiskosten.
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 6
   - Vorteil [[Paktierer I]]

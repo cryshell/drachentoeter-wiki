@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 8b0eb5b5-a682-4c72-9ccb-7745f7fe9817
+ID: c68d3145-5bdb-4b17-a2cc-16203f4c1f7e
 Name: Blick in die Erinnerung
 title: Blick in die Erinnerung
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Tradition|Tradition]]"
+  - "[[Tradition]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Tairachgeweihten I
@@ -24,5 +24,8 @@ Du stellst verlorene Erinnerungen wieder her. Du kannst Erinnerungen an einen Ze
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Tradition|Tradition]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Tradition]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Tairachgeweihten I]]
+- **Erlernen:** 20 EP

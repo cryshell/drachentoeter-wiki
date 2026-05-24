@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 97a57301-d902-42dd-b636-9c96c50903f6
+ID: 9756afc4-ea0c-49f4-a9dc-c49268cc4830
 Name: Rikais Fluch
 title: Rikais Fluch
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]]"
-  - "[[Inhalt/Fertigkeiten/Geister des Zorns|Geister des Zorns]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
+  - "[[Dämonisch]]"
+  - "[[Geister des Zorns]]"
+  - "[[Umwelt]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Orks) I ODER Vorteil Tradition der Schamanen (Nivesen) I
@@ -26,5 +26,10 @@ Der Zauber schwächt Pflanzen und Gegenstände aus dem Element Humus in einem Ra
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Dämonisch|Dämonisch]], [[Inhalt/Fertigkeiten/Geister des Zorns|Geister des Zorns]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Dämonisch]]
+  - [[Geister des Zorns]]
+  - [[Umwelt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Orks) I ODER Vorteil Tradition der Schamanen (Nivesen) I]]
+- **Erlernen:** 10 EP

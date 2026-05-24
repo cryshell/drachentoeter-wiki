@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 17dda87a-f6d9-480e-924e-11ac16718f56
+ID: 9e64f503-d610-4992-a2f6-c66427c4f6ed
 Name: Prüfung vergangener Leben
 title: Prüfung vergangener Leben
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Tod|Tod]]"
+  - "[[Tod]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der V’Sargeweihten I
@@ -24,5 +24,8 @@ Du erhältst einen Einblick in das letzte Leben deines Ziels und kannst eventuel
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Tod|Tod]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Tod]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der V’Sargeweihten I]]
+- **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 90fcbafb-fa49-4c5e-a7d9-dbe503030681
+ID: 7fa4c5f8-96f7-47c1-ac6b-41fa7c1c0fbe
 Name: Sprachkenntnis (Garethi)
 title: Sprachkenntnis (Garethi)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Garethi gehört zur Garethi-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

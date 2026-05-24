@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: bb986c5c-eede-4d93-a8fd-0ad2f8b7fe79
+ID: 4b398210-6959-4df5-accb-ada0664162dc
 Name: Kraftvoller Kampf II
 title: Kraftvoller Kampf II
 Kategorie: Kampfstil
@@ -19,8 +19,12 @@ Durchbrechen: Wenn du in deinem Zug mit einem Nahkampfangriff einen Triumph hast
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Körperkraft|KK]] 6
   - Vorteil [[Kraftvoller Kampf I]]
-- **Siehe auch:** [[Aktion Angriff]], [[Triumph und Patzer]], [[Bewusstlosigkeit]], [[Bonusaktion]]
+- **Siehe auch:**
+  - [[Aktion Angriff]]
+  - [[Triumph und Patzer]]
+  - [[Bewusstlosigkeit]]
+  - [[Bonusaktion]]

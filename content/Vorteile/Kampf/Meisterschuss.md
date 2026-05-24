@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f2ec546e-c2b9-4fef-b634-34883f04650d
+ID: 0b6de4c8-089c-44cd-9198-85410aeca9ee
 Name: Meisterschuss
 title: Meisterschuss
 Kategorie: Kampf
@@ -14,7 +14,8 @@ Erlaubt das Manöver Meisterschuss im Fernkampf.
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 10
-- **Siehe auch:** [[Meisterschuss]]
+- **Siehe auch:**
+  - [[Meisterschuss]]

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 07f4e427-7f38-41bc-9939-b0ced217a976
+ID: 879414e4-e469-4338-bd31-c14c226c53a8
 Name: Feuerhand
 title: Feuerhand
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Agrimoths|Anrufung Agrimoths]]"
+  - "[[Anrufung Agrimoths]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -13,9 +13,9 @@ Deine Hand beginnt zu brennen. Sie richtet 2W6 SP pro Zug auf einem unbelebten Z
 
 - **Hohe Qualität:** Je zwei Stufen erhöhen die SP um 1W6.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Flammeninferno (-8, 16 GuP; das Feuer breitet sich mit etwa 1 Schritt pro Zug aus.)
-Flammenfaust (-4; deine unbewaffneten Angriffe verursachen +1W6 Waffenschaden und *Nachbrennen*.)
-
+- **Modifikationen:**
+  - Flammeninferno (-8, 16 GuP; das Feuer breitet sich mit etwa 1 Schritt pro Zug aus.)
+  - Flammenfaust (-4; deine unbewaffneten Angriffe verursachen +1W6 Waffenschaden und *Nachbrennen*.)
 - **Vorbereitungszeit:** 1 Aktion
 - **Ziel:** Objekt
 - **Reichweite:** Berührung
@@ -26,5 +26,6 @@ Flammenfaust (-4; deine unbewaffneten Angriffe verursachen +1W6 Waffenschaden un
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Agrimoths|Anrufung Agrimoths]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Agrimoths]]
+- **Erlernen:** 20 EP

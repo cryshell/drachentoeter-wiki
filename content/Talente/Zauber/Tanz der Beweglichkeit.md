@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 8cdaa8c1-735d-4e31-8a47-c285e9101440
+ID: 700a8640-88ef-493a-af15-9a11668a150e
 Name: Tanz der Beweglichkeit
 title: Tanz der Beweglichkeit
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]]"
-  - "[[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]"
+  - "[[Zaubertänze]]"
+  - "[[Eigenschaften]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zaubertänzer I
@@ -18,5 +18,9 @@ $talent:Rhythmen der Geschwindigkeit$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]], [[Inhalt/Fertigkeiten/Eigenschaften|Eigenschaften]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Zaubertänze]]
+  - [[Eigenschaften]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zaubertänzer I]]
+- **Erlernen:** 20 EP

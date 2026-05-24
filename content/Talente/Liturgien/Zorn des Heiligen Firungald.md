@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 622f83f9-1163-4622-a1da-f28f88414304
+ID: 80d15ee2-1939-4223-a5d1-207116a0b454
 Name: Zorn des Heiligen Firungald
 title: Zorn des Heiligen Firungald
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Winter|Winter]]"
+  - "[[Winter]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Firungeweihten I
@@ -24,5 +24,8 @@ Du segnest eine Nahkampfwaffe. Diese gilt als geweiht und verursacht *Erfrieren*
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Winter|Winter]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Winter]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Firungeweihten I]]
+- **Erlernen:** 20 EP

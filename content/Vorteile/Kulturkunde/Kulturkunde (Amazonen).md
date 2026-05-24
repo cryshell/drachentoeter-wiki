@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b91d9d3d-c54f-4af2-9184-1d50ed65d6de
+ID: eeeaa77b-0c10-456f-8f60-bb08c0bc0b7c
 Name: Kulturkunde (Amazonen)
 title: Kulturkunde (Amazonen)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

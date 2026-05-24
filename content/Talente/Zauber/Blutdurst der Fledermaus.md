@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: a855476c-0132-4ef9-89cf-22b63eb4e3e2
+ID: 29bcdd72-c184-4745-a296-fcd850f6f463
 Name: Blutdurst der Fledermaus
 title: Blutdurst der Fledermaus
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Vampirische Kräfte|Vampirische Kräfte]]"
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
+  - "[[Vampirische Kräfte]]"
+  - "[[Verständigung]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Kinder der Finsternis ODER Vorteil Tradition der Kinder der Nacht ODER Vorteil Tradition der Feylamia
@@ -25,5 +25,9 @@ Du raubst deinem Opfer mit einem Biss und dem anschließenden Blutsaugen die Leb
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Vampirische Kräfte|Vampirische Kräfte]], [[Inhalt/Fertigkeiten/Verständigung|Verständigung]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Vampirische Kräfte]]
+  - [[Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kinder der Finsternis ODER Vorteil Tradition der Kinder der Nacht ODER Vorteil Tradition der Feylamia]]
+- **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2d536d2d-6f54-445e-8a84-81e0ae3b0791
+ID: 785b6885-6e76-45e1-8d19-059c56aaefc4
 Name: Diplomat
 title: Diplomat
 Kategorie: Profan
@@ -16,7 +16,10 @@ Wenn dein Gegenüber in einem Rededuell nicht mehr gesprächsbereit ist, darfst 
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 4
-- **Siehe auch:** [[Rededuell]], [[Soziale Interaktion]], [[Zusammenarbeit]]
+- **Siehe auch:**
+  - [[Rededuell]]
+  - [[Soziale Interaktion]]
+  - [[Zusammenarbeit]]

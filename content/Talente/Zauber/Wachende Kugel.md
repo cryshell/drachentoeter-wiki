@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 8c18895c-5e89-4aab-bf94-a9f0f3a75e8d
+ID: f2431eb1-4b5c-4dde-864b-de8d50b0278a
 Name: Wachende Kugel
 title: Wachende Kugel
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Kugelzauber|Kugelzauber]]"
+  - "[[Hellsicht]]"
+  - "[[Kugelzauber]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Scharlatane I
@@ -24,5 +24,9 @@ Du kannst einen Blick durch eine gebundene Kugel werfen. Der Kugel ist dabei nic
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Kugelzauber|Kugelzauber]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Hellsicht]]
+  - [[Kugelzauber]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Scharlatane I]]
+- **Erlernen:** 20 EP

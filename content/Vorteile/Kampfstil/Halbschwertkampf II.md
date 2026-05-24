@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 202d4a29-c685-460e-b8d7-5f213837679e
+ID: 17fb6f95-ce35-4563-8ded-175c98d7b19b
 Name: Halbschwertkampf II
 title: Halbschwertkampf II
 Kategorie: Kampfstil
@@ -14,7 +14,7 @@ Hebel: Wenn du mit einem Manöver triffst, kannst du deine Bonusaktion einsetzen
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Vorteil [[Halbschwertkampf I]]
   - Attribut GE 6 ODER Attribut KK 6 ODER Attribut MU 6

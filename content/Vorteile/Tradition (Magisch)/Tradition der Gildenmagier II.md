@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: cb073822-95eb-4425-9dce-55c6dece1780
+ID: 465e43a9-7f88-4b90-adcc-e2584c052a7f
 Name: Tradition der Gildenmagier II
 title: Tradition der Gildenmagier II
 Kategorie: Tradition (Magisch)
@@ -14,7 +14,7 @@ Gildenmagier verstehen die Matrix eines Zaubers und können ihn leichter veränd
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 6
   - Vorteil [[Tradition der Gildenmagier I]]

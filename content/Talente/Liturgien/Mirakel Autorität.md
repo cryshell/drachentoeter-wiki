@@ -1,19 +1,19 @@
 ---
 Entitätstyp: Talent
-ID: e114f67e-de61-49ee-abb3-d9854945f6bd
+ID: 7db38791-1da1-4b3b-97bb-65020f51e25b
 Name: "Mirakel: Autorität"
 title: "Mirakel: Autorität"
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Ordnung|Ordnung]]"
-  - "[[Inhalt/Fertigkeiten/Heerführung|Heerführung]]"
-  - "[[Inhalt/Fertigkeiten/Gutes Gold|Gutes Gold]]"
-  - "[[Inhalt/Fertigkeiten/Herrschaft|Herrschaft]]"
-  - "[[Inhalt/Fertigkeiten/Nipakau|Nipakau]]"
-  - "[[Inhalt/Fertigkeiten/Tradition|Tradition]]"
-  - "[[Inhalt/Fertigkeiten/Eroberung|Eroberung]]"
-  - "[[Inhalt/Fertigkeiten/Wind und Wogen|Wind und Wogen]]"
-  - "[[Inhalt/Fertigkeiten/Heiliges Erz|Heiliges Erz]]"
+  - "[[Ordnung]]"
+  - "[[Heerführung]]"
+  - "[[Gutes Gold]]"
+  - "[[Herrschaft]]"
+  - "[[Nipakau]]"
+  - "[[Tradition]]"
+  - "[[Eroberung]]"
+  - "[[Wind und Wogen]]"
+  - "[[Heiliges Erz]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -21,9 +21,9 @@ Deine nächste Probe auf Autorität ist um +4 Punkte erleichtert.
 
 - **Hohe Qualität:** Erhöht die Erleichterung um +2.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Intervention (-8; *Reaktive* Liturgie (beliebiges Ereignis). Hohe Qualität ist nicht möglich.)
-Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion ausführen. Hohe Qualität ist nicht möglich.)
-
+- **Modifikationen:**
+  - Intervention (-8; *Reaktive* Liturgie (beliebiges Ereignis). Hohe Qualität ist nicht möglich.)
+  - Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion ausführen. Hohe Qualität ist nicht möglich.)
 - **Vorbereitungszeit:** 0 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -33,5 +33,14 @@ Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion au
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Ordnung|Ordnung]], [[Inhalt/Fertigkeiten/Heerführung|Heerführung]], [[Inhalt/Fertigkeiten/Gutes Gold|Gutes Gold]], [[Inhalt/Fertigkeiten/Herrschaft|Herrschaft]], [[Inhalt/Fertigkeiten/Nipakau|Nipakau]], [[Inhalt/Fertigkeiten/Tradition|Tradition]], [[Inhalt/Fertigkeiten/Eroberung|Eroberung]], [[Inhalt/Fertigkeiten/Wind und Wogen|Wind und Wogen]], [[Inhalt/Fertigkeiten/Heiliges Erz|Heiliges Erz]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Ordnung]]
+  - [[Heerführung]]
+  - [[Gutes Gold]]
+  - [[Herrschaft]]
+  - [[Nipakau]]
+  - [[Tradition]]
+  - [[Eroberung]]
+  - [[Wind und Wogen]]
+  - [[Heiliges Erz]]
+- **Erlernen:** 10 EP

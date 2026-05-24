@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2449df69-673d-48bf-a07f-835c05c9a331
+ID: 267689b0-dee2-4b45-869b-52ce2037468d
 Name: Tradition der Schelme I
 title: Tradition der Schelme I
 Kategorie: Tradition (Magisch)
@@ -16,7 +16,7 @@ Die Erschwernis für das Ignorieren der Bedingung „Harmlosigkeit“ ist verdop
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 4
   - Vorteil [[Zauberer I]]

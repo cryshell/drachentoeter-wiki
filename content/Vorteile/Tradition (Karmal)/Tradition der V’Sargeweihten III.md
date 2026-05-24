@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 5d323f09-8348-4e8c-88fc-acfab7255ec5
+ID: 45320eb8-d7fb-453d-81d0-61a637aa6570
 Name: Tradition der V’Sargeweihten III
 title: Tradition der V’Sargeweihten III
 Kategorie: Tradition (Karmal)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 8
   - Vorteil [[Tradition der V’Sargeweihten II]]
-- **Siehe auch:** [[Opferung (V’Sar)]]
+- **Siehe auch:**
+  - [[Opferung (V’Sar)]]

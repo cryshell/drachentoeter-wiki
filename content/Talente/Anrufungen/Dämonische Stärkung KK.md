@@ -1,14 +1,14 @@
 ---
 Entitätstyp: Talent
-ID: a9c87774-1e57-4afe-831b-77b8c47d7bd5
+ID: 6ea88659-70ca-43f5-be2e-56ff9bd2a51f
 Name: "Dämonische Stärkung: KK"
 title: "Dämonische Stärkung: KK"
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Belhalhars|Anrufung Belhalhars]]"
-  - "[[Inhalt/Fertigkeiten/Anrufung Belshirashs|Anrufung Belshirashs]]"
-  - "[[Inhalt/Fertigkeiten/Anrufung Asfaloths|Anrufung Asfaloths]]"
-  - "[[Inhalt/Fertigkeiten/Anrufung Agrimoths|Anrufung Agrimoths]]"
+  - "[[Anrufung Belhalhars]]"
+  - "[[Anrufung Belshirashs]]"
+  - "[[Anrufung Asfaloths]]"
+  - "[[Anrufung Agrimoths]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -16,9 +16,9 @@ Deine nächste Probe auf KK ist um +4 Punkte erleichtert.
 
 - **Hohe Qualität:** Erhöht die Erleichterung um +2.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Intervention (-8; *Reaktive* Anrufung (beliebiges Ereignis). Hohe Qualität ist nicht möglich.)
-Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion ausführen. Hohe Qualität ist nicht möglich.)
-
+- **Modifikationen:**
+  - Intervention (-8; *Reaktive* Anrufung (beliebiges Ereignis). Hohe Qualität ist nicht möglich.)
+  - Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion ausführen. Hohe Qualität ist nicht möglich.)
 - **Vorbereitungszeit:** 0 Aktionen
 - **Ziel:** selbst
 - **Reichweite:** Berührung
@@ -28,5 +28,9 @@ Stoßgebet (-8; du kannst die Aktion Übernatürliches Wirken als Bonusaktion au
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Belhalhars|Anrufung Belhalhars]], [[Inhalt/Fertigkeiten/Anrufung Belshirashs|Anrufung Belshirashs]], [[Inhalt/Fertigkeiten/Anrufung Asfaloths|Anrufung Asfaloths]], [[Inhalt/Fertigkeiten/Anrufung Agrimoths|Anrufung Agrimoths]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Anrufung Belhalhars]]
+  - [[Anrufung Belshirashs]]
+  - [[Anrufung Asfaloths]]
+  - [[Anrufung Agrimoths]]
+- **Erlernen:** 10 EP

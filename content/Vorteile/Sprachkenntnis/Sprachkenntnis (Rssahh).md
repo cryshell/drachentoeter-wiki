@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 18625c42-4b62-4af5-85a2-87593007a3c5
+ID: 6a453d99-b20e-43cd-b693-16771cd7cd1c
 Name: Sprachkenntnis (Rssahh)
 title: Sprachkenntnis (Rssahh)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Rssahh gehört zur Echsisch-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

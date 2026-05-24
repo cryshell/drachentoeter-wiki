@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 091aeeee-f066-4639-913a-ea5fe0a82a09
+ID: 7e867a52-8ae8-4d44-9974-086b0313ff5a
 Name: Wahre Namen Belkelels I
 title: Wahre Namen Belkelels I
 Kategorie: Wahre Namen
@@ -14,7 +14,7 @@ Du kannst alle Dämonen Belkelels bis zu einer Beschwörungsschwierigkeit von 16
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - Attribut [[Klugheit|KL]] 4

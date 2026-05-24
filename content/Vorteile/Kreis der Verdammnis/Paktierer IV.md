@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0e6a7840-3aae-4a27-9f4f-1c5707d05c4e
+ID: dd3dbe35-3ff8-4e83-b641-cf7c8acc509a
 Name: Paktierer IV
 title: Paktierer IV
 Kategorie: Kreis der Verdammnis
@@ -12,6 +12,6 @@ Du verfügst über 32 Gunstpunkte und kannst die dämonische Tradition deines Er
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Vorteil [[Paktierer III]]

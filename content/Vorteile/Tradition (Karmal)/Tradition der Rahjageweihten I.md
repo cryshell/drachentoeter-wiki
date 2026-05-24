@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 9aba75e2-bdd5-40a4-be43-64fd827d48f3
+ID: daf8ac90-5612-49f1-9689-fb0cf0de7ebf
 Name: Tradition der Rahjageweihten I
 title: Tradition der Rahjageweihten I
 Kategorie: Tradition (Karmal)
@@ -17,8 +17,8 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen Rahjas Gebote verstößt: Freud
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 4
   - Vorteil [[Geweiht I]]
-  - Kein Vorteil Tradition der *geweihten I
+  - Kein Vorteil [[Tradition der geweihten I|Tradition der *geweihten I]]

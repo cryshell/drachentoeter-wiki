@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 2245b2a3-f9a9-4aae-b574-ebb066f95903
+ID: 22df27d5-dc50-401f-af67-ec8c69e31e87
 Name: Astraltransfer (passiv)
 title: Astraltransfer (passiv)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]]"
+  - "[[Stabzauber]]"
 Kosten: 40
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
 ---
@@ -15,5 +15,8 @@ Du kannst deine AsP an einen anderen Zauberer übertragen, den du berührst. Fü
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Stabzauber|Stabzauber]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Stabzauber]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 40 EP

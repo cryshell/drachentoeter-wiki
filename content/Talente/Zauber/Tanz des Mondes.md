@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 963a2679-8a2b-41b1-b188-6a860e8840a7
+ID: 935e3f05-eda8-4dfb-81f5-7b112659018d
 Name: Tanz des Mondes
 title: Tanz des Mondes
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verständigung|Verständigung]]"
-  - "[[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]]"
+  - "[[Verständigung]]"
+  - "[[Zaubertänze]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zaubertänzer I
@@ -24,5 +24,9 @@ Mit diesem Tanz kannst du in die Träume eines schlafenden Zieles eindringen und
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verständigung|Verständigung]], [[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Verständigung]]
+  - [[Zaubertänze]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zaubertänzer I]]
+- **Erlernen:** 20 EP

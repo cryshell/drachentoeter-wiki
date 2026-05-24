@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 3fa20e5c-edfa-48ba-b1cd-ecd53e78d9ee
+ID: e4345966-bcf7-4ca5-9865-88ec9ce1a3eb
 Name: Ruf des Bienenstocks
 title: Ruf des Bienenstocks
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Zibiljarituale|Zibiljarituale]]"
+  - "[[Hellsicht]]"
+  - "[[Zibiljarituale]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zibilja I
@@ -15,7 +15,8 @@ Mit diesem Ritual erfährst du, wo sich ein von der Sippe verkaufter Gegenstand 
 
 - **Hohe Qualität:** Für je 2 Stufen erhältst du einen guten/vollständigen Eindruck.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Alter Handel (-4 pro Stufe; der Handel darf auf der Skala 1 Woche/1 Monat/1 Jahr/10 Jahre/100 Jahre eine Stufe länger zurückliegen.)
+- **Modifikationen:**
+  - Alter Handel (-4 pro Stufe; der Handel darf auf der Skala 1 Woche/1 Monat/1 Jahr/10 Jahre/100 Jahre eine Stufe länger zurückliegen.)
 - **Vorbereitungszeit:** 16 Minuten
 - **Ziel:** Objekt
 - **Reichweite:** dereweit
@@ -26,5 +27,9 @@ Mit diesem Ritual erfährst du, wo sich ein von der Sippe verkaufter Gegenstand 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Zibiljarituale|Zibiljarituale]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Hellsicht]]
+  - [[Zibiljarituale]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zibilja I]]
+- **Erlernen:** 20 EP

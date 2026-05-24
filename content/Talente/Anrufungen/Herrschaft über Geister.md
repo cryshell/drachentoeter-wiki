@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: e5b0bf93-a83d-4632-9f93-fa125d015ce5
+ID: 175f1ac0-b38b-4302-9082-6641f3538e38
 Name: Herrschaft über Geister
 title: Herrschaft über Geister
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Thargunitoths|Anrufung Thargunitoths]]"
+  - "[[Anrufung Thargunitoths]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Du rufst einen Geist herbei. Falls Geister in deiner Region nicht heimisch sind,
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Thargunitoths|Anrufung Thargunitoths]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Anrufung Thargunitoths]]
+- **Erlernen:** 40 EP

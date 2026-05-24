@@ -1,14 +1,14 @@
 ---
 Entitätstyp: Talent
-ID: 2f162215-2421-4d11-a763-7c75fecd51d5
+ID: 5b08e955-e018-4a5c-85b3-e6ca7968001b
 Name: Regentanz
 title: Regentanz
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Umwelt|Umwelt]]"
-  - "[[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]]"
-  - "[[Inhalt/Fertigkeiten/Wasser|Wasser]]"
+  - "[[Luft]]"
+  - "[[Umwelt]]"
+  - "[[Geister der Stärkung]]"
+  - "[[Wasser]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Orks) I ODER Vorteil Tradition der Schamanen (Waldmenschen) I
@@ -17,7 +17,8 @@ Es regnet während der Wirkungsdauer einmal täglich auf die Felder im Radius vo
 
 - **Hohe Qualität:** Verdoppelt den Radius.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Wettertanz (-8; es können auch andere Wetterlagen, etwa Sonnenschein oder Sturm hervorgerufen werden.)
+- **Modifikationen:**
+  - Wettertanz (-8; es können auch andere Wetterlagen, etwa Sonnenschein oder Sturm hervorgerufen werden.)
 - **Vorbereitungszeit:** 1 Stunde
 - **Ziel:** Zone
 - **Reichweite:** Berührung
@@ -28,5 +29,11 @@ Es regnet während der Wirkungsdauer einmal täglich auf die Felder im Radius vo
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Umwelt|Umwelt]], [[Inhalt/Fertigkeiten/Geister der Stärkung|Geister der Stärkung]], [[Inhalt/Fertigkeiten/Wasser|Wasser]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Luft]]
+  - [[Umwelt]]
+  - [[Geister der Stärkung]]
+  - [[Wasser]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Orks) I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+- **Erlernen:** 10 EP

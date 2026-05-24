@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 6e513684-189e-429d-ab5a-a18fabf5d888
+ID: 2516e6ab-5b88-4384-93a3-0e83bcfc95bd
 Name: Igniplano Flächenbrand
 title: Igniplano Flächenbrand
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Feuer|Feuer]]"
+  - "[[Feuer]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Gildenmagier I
@@ -24,5 +24,8 @@ Du beschwörst flammende Urgewalten aus der Erde hervor. In einem Radius von 4 S
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Feuer|Feuer]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Feuer]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]
+- **Erlernen:** 40 EP

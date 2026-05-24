@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 4f9dfb14-70a3-460b-a59f-03d6d2a91526
+ID: 4cbe4c53-90af-4d11-97f9-2afa36cd6c48
 Name: "Gefunden!"
 title: "Gefunden!"
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
+  - "[[Hellsicht]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I
@@ -13,10 +13,10 @@ Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition d
 Du erspürst die Richtung, in der sich ein mindestens truhengroßer Gegenstand aus deinem Besitz befindet. Der Zauber ignoriert die Bedingung Sicht.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Fremdbesitz (-4; du musst den Gegenstand nur gesehen haben.)
-Hörensagen (-8; der Gegenstand muss dir nur ausführlich beschrieben worden sein.)
-Kleinerer Gegenstand (-4 pro Stufe; der Gegenstand kann auf der Skala Truhe/Rucksack/Faust/Münze eine Stufe kleiner sein.)
-
+- **Modifikationen:**
+  - Fremdbesitz (-4; du musst den Gegenstand nur gesehen haben.)
+  - Hörensagen (-8; der Gegenstand muss dir nur ausführlich beschrieben worden sein.)
+  - Kleinerer Gegenstand (-4 pro Stufe; der Gegenstand kann auf der Skala Truhe/Rucksack/Faust/Münze eine Stufe kleiner sein.)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Objekt
 - **Reichweite:** 4 Meilen
@@ -28,5 +28,8 @@ Kleinerer Gegenstand (-4 pro Stufe; der Gegenstand kann auf der Skala Truhe/Ruck
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Hellsicht]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I]]
+- **Erlernen:** 10 EP

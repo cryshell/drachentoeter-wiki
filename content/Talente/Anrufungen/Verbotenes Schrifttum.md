@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: aa54aea8-e581-4044-8bb4-0c4ff66c5a37
+ID: 20f246de-a2ff-48fe-8b50-a51ae1ba97b8
 Name: Verbotenes Schrifttum
 title: Verbotenes Schrifttum
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Amazeroths|Anrufung Amazeroths]]"
+  - "[[Anrufung Amazeroths]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -22,5 +22,6 @@ Du verfügst über eine Schriftkenntnis deiner Wahl. Erlaubt *Aufrechterhalten*.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Amazeroths|Anrufung Amazeroths]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Amazeroths]]
+- **Erlernen:** 20 EP

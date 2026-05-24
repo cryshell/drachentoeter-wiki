@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 35559bbd-5455-431d-bfa1-51bb38ff7df7
+ID: 200bd384-b095-4ef3-8d03-dad43fea6865
 Name: Tradition der Lamijahnim
 title: Tradition der Lamijahnim
 Kategorie: Tradition (Vampir)
@@ -18,8 +18,9 @@ Du bist von keinem Gott verflucht, aber in der Nähe von rahjagefälligen Gegens
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 4
   - Vorteil [[Vampir I]]
-- **Siehe auch:** [[Verbotene Pforten]]
+- **Siehe auch:**
+  - [[Verbotene Pforten]]

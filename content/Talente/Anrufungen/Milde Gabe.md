@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 091e9d03-1022-4077-a801-1a4d674358c2
+ID: 33c5e314-3230-4900-a967-498d16b7328b
 Name: Milde Gabe
 title: Milde Gabe
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Aphestadils|Anrufung Aphestadils]]"
+  - "[[Anrufung Aphestadils]]"
 Kosten: 10
 Spezialisierbar: 1
 ---
@@ -23,5 +23,6 @@ Personen, die sich während der Wirkungsdauer in einem Radius von 16 Schritt bef
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Aphestadils|Anrufung Aphestadils]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Anrufung Aphestadils]]
+- **Erlernen:** 10 EP

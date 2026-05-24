@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 49a79e28-4739-4272-8ae1-0f65f2c19e27
+ID: 2f961445-02a2-4944-9db7-a1a65c2528d7
 Name: Grußworte
 title: Grußworte
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]"
+  - "[[Zaubertricks]]"
 Kosten: 5
 ---
 Du übermittelst einen telepathischen Gruß.
@@ -20,5 +20,6 @@ Du übermittelst einen telepathischen Gruß.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Zaubertricks|Zaubertricks]]
-- **Kosten:** 5 EP
+- **Fertigkeiten:**
+  - [[Zaubertricks]]
+- **Erlernen:** 5 EP

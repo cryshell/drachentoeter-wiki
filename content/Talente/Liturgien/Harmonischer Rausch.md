@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 09c3bef7-2367-486a-91af-d509c5c18622
+ID: db26fdcd-2702-4666-aa2b-5526cec5398b
 Name: Harmonischer Rausch
 title: Harmonischer Rausch
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Harmonie|Harmonie]]"
-  - "[[Inhalt/Fertigkeiten/Rausch|Rausch]]"
+  - "[[Harmonie]]"
+  - "[[Rausch]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Rahjageweihten I
@@ -24,5 +24,9 @@ Du genießt mit dem Gesegneten gemeinsam den Rausch (egal ob mit Alkohol, Drogen
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Harmonie|Harmonie]], [[Inhalt/Fertigkeiten/Rausch|Rausch]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Harmonie]]
+  - [[Rausch]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rahjageweihten I]]
+- **Erlernen:** 20 EP

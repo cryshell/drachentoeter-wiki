@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: a3eed6cc-6f3f-49ea-8aa5-51b937c75a75
+ID: 145e7723-aec2-4b21-96fb-75cbc9552e89
 Name: Tanz der Wahrheit
 title: Tanz der Wahrheit
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]]"
-  - "[[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]]"
+  - "[[Hellsicht]]"
+  - "[[Zaubertänze]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Zaubertänzer I
@@ -15,7 +15,8 @@ Du erhältst einen groben Eindruck der Gedanken deines Ziels, etwa als verschwom
 
 - **Hohe Qualität:** Du erhältst einen guten/vollständigen Eindruck.
 - **Probenschwierigkeit:** Magieresistenz
-- **Modifikationen:** Tanz des Wahrheitssinns (Probenschwierigkeit 20, Zone, 16 AsP; der Zauber betrifft alle Personen, die sich während der Wirkungsdauer in einem Radius von 4 Schritt befinden und denen eine Magieresistenz-Gegenprobe misslingt.)
+- **Modifikationen:**
+  - Tanz des Wahrheitssinns (Probenschwierigkeit 20, Zone, 16 AsP; der Zauber betrifft alle Personen, die sich während der Wirkungsdauer in einem Radius von 4 Schritt befinden und denen eine Magieresistenz-Gegenprobe misslingt.)
 - **Vorbereitungszeit:** 16 Aktionen
 - **Ziel:** Humanoid
 - **Reichweite:** 4 Schritt
@@ -26,5 +27,9 @@ Du erhältst einen groben Eindruck der Gedanken deines Ziels, etwa als verschwom
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hellsicht|Hellsicht]], [[Inhalt/Fertigkeiten/Zaubertänze|Zaubertänze]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Hellsicht]]
+  - [[Zaubertänze]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zaubertänzer I]]
+- **Erlernen:** 20 EP

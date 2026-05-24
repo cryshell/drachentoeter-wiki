@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Talent
-ID: 375cf9e4-dd3f-4251-80c4-36500d014842
+ID: 4ec06a77-14e5-4007-9db8-310a1205aecb
 Name: Schrifttum ferner Lande
 title: Schrifttum ferner Lande
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/List|List]]"
-  - "[[Inhalt/Fertigkeiten/Veränderung|Veränderung]]"
-  - "[[Inhalt/Fertigkeiten/Wissen|Wissen]]"
+  - "[[List]]"
+  - "[[Veränderung]]"
+  - "[[Wissen]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der H’Szintgeweihten I ODER Vorteil Tradition der Nandusgeweihten I
@@ -26,5 +26,10 @@ Du verfügst über eine Schriftkenntnis deiner Wahl. Erlaubt *Aufrechterhalten*.
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/List|List]], [[Inhalt/Fertigkeiten/Veränderung|Veränderung]], [[Inhalt/Fertigkeiten/Wissen|Wissen]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[List]]
+  - [[Veränderung]]
+  - [[Wissen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der H’Szintgeweihten I ODER Vorteil Tradition der Nandusgeweihten I]]
+- **Erlernen:** 20 EP

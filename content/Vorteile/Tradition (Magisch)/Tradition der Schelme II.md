@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 8aa75d66-8212-4f89-8cb3-31365218fdcc
+ID: 0c1367da-97e0-41fb-814c-271f96a8b1e0
 Name: Tradition der Schelme II
 title: Tradition der Schelme II
 Kategorie: Tradition (Magisch)
@@ -14,7 +14,7 @@ Schelmenmagie umgeht den geistigen Widerstand ihrer Ziele. Magieresistenz-Proben
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Intuition|IN]] 6
   - Vorteil [[Tradition der Schelme I]]

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 0c6a37bc-de97-437b-b6f7-e5df9c7fb03e
+ID: 1f4b383c-4812-42fc-b333-8b7d463f24fa
 Name: Furchtrune
 title: Furchtrune
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
-  - "[[Inhalt/Fertigkeiten/Zauberrunen|Zauberrunen]]"
+  - "[[Einfluss]]"
+  - "[[Zauberrunen]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Runenmagier
@@ -24,5 +24,9 @@ Die Rune wird in einem Durchmesser von 32 Fingern auf einem Wesen oder Objekt an
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]], [[Inhalt/Fertigkeiten/Zauberrunen|Zauberrunen]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+  - [[Zauberrunen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Runenmagier]]
+- **Erlernen:** 40 EP

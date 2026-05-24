@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 007f5d2d-ef4f-4a0b-aaf4-f20d165cb564
+ID: 29aeffa9-3c87-4921-a617-a9e12f71f78a
 Name: Kulturkunde (Waldelfen)
 title: Kulturkunde (Waldelfen)
 Kategorie: Kulturkunde
@@ -11,4 +11,4 @@ Aventurien bietet eine Vielzahl an unterschiedlichen Kulturen, die ihre ganz eig
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

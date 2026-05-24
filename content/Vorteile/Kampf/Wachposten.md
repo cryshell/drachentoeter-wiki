@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 1402d03c-f920-414b-ab5d-7df1c5e75041
+ID: d0ab23ad-4777-415d-b14a-ec36422351c8
 Name: Wachposten
 title: Wachposten
 Kategorie: Kampf
@@ -15,7 +15,9 @@ Wenn du mit einem Passierschlag einen Treffer landest, senkst du die verbleibend
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Körperkraft|KK]] 10
-- **Siehe auch:** [[Reaktion]], [[Bewegung]]
+- **Siehe auch:**
+  - [[Reaktion]]
+  - [[Bewegung]]

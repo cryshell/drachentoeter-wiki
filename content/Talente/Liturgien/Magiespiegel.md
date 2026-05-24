@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 54a6fdea-2555-49ce-9084-9b17e14584cd
+ID: ddf07d17-203d-476b-aa05-0cb1676e148f
 Name: Magiespiegel
 title: Magiespiegel
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Herrschaft|Herrschaft]]"
+  - "[[Herrschaft]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Namenlosgeweihten I
@@ -16,5 +16,8 @@ $talent:Argelions Spiegel$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Herrschaft|Herrschaft]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Herrschaft]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Namenlosgeweihten I]]
+- **Erlernen:** 20 EP

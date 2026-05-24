@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: e913818c-3442-47f0-ae8f-cb5ea8623a0b
+ID: f72eb359-930e-4a90-96b0-8f36b27dd77c
 Name: Wirbelnder Luftschild
 title: Wirbelnder Luftschild
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Luft|Luft]]"
-  - "[[Inhalt/Fertigkeiten/Ringrituale|Ringrituale]]"
+  - "[[Luft]]"
+  - "[[Ringrituale]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Geoden I
@@ -24,5 +24,9 @@ Unberechenbare Winde lenken alle auf dich gerichteten Geschosse bis zur Größe 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Luft|Luft]], [[Inhalt/Fertigkeiten/Ringrituale|Ringrituale]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Luft]]
+  - [[Ringrituale]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Geoden I]]
+- **Erlernen:** 20 EP

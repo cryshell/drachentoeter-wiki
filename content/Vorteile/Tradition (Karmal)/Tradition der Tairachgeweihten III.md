@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 243e9957-2484-4418-b7c0-a00720eebd99
+ID: 809c5f3f-2ca8-4a66-a1b2-2068b92d9d54
 Name: Tradition der Tairachgeweihten III
 title: Tradition der Tairachgeweihten III
 Kategorie: Tradition (Karmal)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Opferung.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Klugheit|KL]] 8
   - Vorteil [[Tradition der Tairachgeweihten II]]
-- **Siehe auch:** [[Opferung (Tairach)]]
+- **Siehe auch:**
+  - [[Opferung (Tairach)]]

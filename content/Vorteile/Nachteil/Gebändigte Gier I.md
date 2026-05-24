@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 17e8b13d-d373-4c95-99fa-08eea422c484
+ID: 575f1ba2-7700-48d6-af69-ff44697a0510
 Name: Gebändigte Gier I
 title: Gebändigte Gier I
 Kategorie: Nachteil
@@ -14,7 +14,8 @@ Die MU-Probe zum vorzeitigen Beenden des Sikaryanraubs ist um +2 erleichtert.
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Vorteil [[Vampir II]]
-- **Siehe auch:** [[Sikaryandurst und -raub]]
+- **Siehe auch:**
+  - [[Sikaryandurst und -raub]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: bc2f9132-28b5-4e19-86da-a660d1b16f3b
+ID: b73bbd15-2706-40d6-a221-f1e5a1c9fef2
 Name: Angepasst (Wüste)
 title: Angepasst (Wüste)
 Kategorie: Profan
@@ -13,5 +13,6 @@ Durch deine Spezies oder langjährige Erfahrung hast du dich an die Landschaft W
 
 ---
 
-- **Kosten:** 20 EP
-- **Siehe auch:** [[Bewegung]]
+- **Erlernen:** 20 EP
+- **Siehe auch:**
+  - [[Bewegung]]

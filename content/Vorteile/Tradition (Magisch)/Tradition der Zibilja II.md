@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 1dd49a3f-c298-4ef5-89e4-834c9e4dd955
+ID: 7c6ab035-d0a9-4d9a-b655-55f9732c4a01
 Name: Tradition der Zibilja II
 title: Tradition der Zibilja II
 Kategorie: Tradition (Magisch)
@@ -14,7 +14,7 @@ Zibilja ziehen die Kraft aus ihrer Gemeinschaft. Zauber, die der Unterstützung 
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 6
   - Vorteil [[Tradition der Zibilja I]]

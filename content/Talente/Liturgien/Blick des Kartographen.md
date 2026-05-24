@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: e93bb71d-d3d9-4e04-898f-d39bd355bb38
+ID: 2d7415d3-8106-4682-a262-2281c03a9ddb
 Name: Blick des Kartographen
 title: Blick des Kartographen
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Stiller Wanderer|Stiller Wanderer]]"
+  - "[[Stiller Wanderer]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Avesgeweihten I
@@ -23,5 +23,8 @@ Du kannst dir alle Landmarken, denen du während der Wirkungsdauer auf deiner Re
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Stiller Wanderer|Stiller Wanderer]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Stiller Wanderer]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Avesgeweihten I]]
+- **Erlernen:** 10 EP

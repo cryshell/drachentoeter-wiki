@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: ae755086-8d82-4a32-8f19-7331cb6df4b0
+ID: f3d80077-260b-481a-9d88-61e7ece937fb
 Name: Seidenzunge Elfenwort
 title: Seidenzunge Elfenwort
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Einfluss]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Schelme I
@@ -24,5 +24,8 @@ Das Ziel denkt nicht zu genau über deine Worte nach und findet dich überzeugen
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Schelme I]]
+- **Erlernen:** 20 EP

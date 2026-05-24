@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 7f94a366-909a-46c9-809b-1eb42531b164
+ID: f3b7d080-e4bc-4997-b52a-343cd42a1573
 Name: Herrschaft über Wasserelementare
 title: Herrschaft über Wasserelementare
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Charyptoroths|Anrufung Charyptoroths]]"
+  - "[[Anrufung Charyptoroths]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -22,5 +22,6 @@ Während der Wirkungsdauer kannst du einmal einen Dienst von einem Wasserelement
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Charyptoroths|Anrufung Charyptoroths]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Charyptoroths]]
+- **Erlernen:** 20 EP

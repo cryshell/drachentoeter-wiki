@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 5792d083-3b91-459e-bf97-a62adf68087f
+ID: 8791d640-27c8-4dbd-81cd-bdc59fcd0eaf
 Name: Kaltes Schmieden
 title: Kaltes Schmieden
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Agrimoths|Anrufung Agrimoths]]"
+  - "[[Anrufung Agrimoths]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -22,5 +22,6 @@ Du kannst jegliches Metall mit deinen Händen formen, ohne es zu erhitzen. Deine
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Agrimoths|Anrufung Agrimoths]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Agrimoths]]
+- **Erlernen:** 20 EP

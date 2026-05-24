@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 89c0a3e4-f17a-4972-aa0f-0c4618d2f458
+ID: 2f757c22-5062-47cb-b154-640fa0e96c61
 Name: Tradition der Scharlatane III
 title: Tradition der Scharlatane III
 Kategorie: Tradition (Magisch)
@@ -16,8 +16,9 @@ Erlaubt die spontane Modifikation Zeit lassen.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 8
   - Vorteil [[Tradition der Scharlatane II]]
-- **Siehe auch:** [[Zeit lassen]]
+- **Siehe auch:**
+  - [[Zeit lassen]]

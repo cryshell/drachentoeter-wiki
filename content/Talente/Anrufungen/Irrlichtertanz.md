@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 9c01b91d-0a15-4087-88c3-001f1e8919f0
+ID: 651aeb58-95a2-4420-aa22-baaeae7a39d8
 Name: Irrlichtertanz
 title: Irrlichtertanz
 Kategorie: Anrufungen
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Anrufung Charyptoroths|Anrufung Charyptoroths]]"
+  - "[[Anrufung Charyptoroths]]"
 Kosten: 20
 Spezialisierbar: 1
 ---
@@ -22,5 +22,6 @@ Bei jeder deiner Bewegungen stieben Funken und Rauch steigt auf. Für feindlich 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Anrufung Charyptoroths|Anrufung Charyptoroths]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Anrufung Charyptoroths]]
+- **Erlernen:** 20 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 4a545bd9-2286-4da9-95fb-c28ce5ed2f82
+ID: e40c113c-a462-4355-91a2-a8b96e0ff015
 Name: "Juckreiz, dämlicher!"
 title: "Juckreiz, dämlicher!"
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[Einfluss]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Schelme I
@@ -23,5 +23,8 @@ Die Person mit der niedrigsten KL im Radius von 8 Schritt wird von einem heftige
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schelme I]]
+- **Erlernen:** 10 EP

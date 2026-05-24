@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 45f2573c-3ec2-436f-a612-308198418755
+ID: fdc3e039-f401-4748-b114-6b0c13187725
 Name: Wahre Namen Blakharazs II
 title: Wahre Namen Blakharazs II
 Kategorie: Wahre Namen
@@ -15,7 +15,7 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
   - Attribut [[Klugheit|KL]] 6

@@ -1,12 +1,12 @@
 ---
 Entit채tstyp: Talent
-ID: 9d176fbe-2fa6-44d3-928c-3a6774ceae9a
+ID: 8a18d0d8-0a3d-4ff2-9380-d10255cd2a98
 Name: "Erinnerung verlasse dich!"
 title: "Erinnerung verlasse dich!"
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/D채monisch|D채monisch]]"
-  - "[[Inhalt/Fertigkeiten/Einfluss|Einfluss]]"
+  - "[[D채monisch]]"
+  - "[[Einfluss]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I
@@ -24,5 +24,9 @@ Dein Ziel verliert s채mtliche Erinnerung an sein voriges Leben und kann sich sp�
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/D채monisch|D채monisch]], [[Inhalt/Fertigkeiten/Einfluss|Einfluss]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[D채monisch]]
+  - [[Einfluss]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I]]
+- **Erlernen:** 20 EP

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 864e25b5-bec8-4963-98ad-0bb4d4c760e0
+ID: 6c982e2c-9be3-48af-a543-1b2845da829d
 Name: Haut des Chamäleons
 title: Haut des Chamäleons
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Friede|Friede]]"
+  - "[[Friede]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Tsageweihten I
@@ -17,5 +17,8 @@ $talent:Verborgen wie der Neumond$
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Friede|Friede]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Friede]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Tsageweihten I]]
+- **Erlernen:** 20 EP

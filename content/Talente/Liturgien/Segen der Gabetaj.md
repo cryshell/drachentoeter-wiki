@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 0a191c20-a92b-4f33-8c1c-bb09f363d097
+ID: c692fe93-6b03-46e1-8340-52ca1de03584
 Name: Segen der Gabetaj
 title: Segen der Gabetaj
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Hilfe der Sippe|Hilfe der Sippe]]"
+  - "[[Hilfe der Sippe]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Himmelswölfegeweihten I
@@ -14,7 +14,8 @@ Die gesegnete Pflanze wächst doppelt so schnell, bis sie zu einem prächtigen E
 
 - **Hohe Qualität:** Die Pflanze wächst dreimal/viermal/fünfmal/sechsmal so schnell.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Heilkraut (-4, 4 KaP; innerhalb einer Stunde wächst aus einem Samen eine durchschnittliche Heilpflanze.)
+- **Modifikationen:**
+  - Heilkraut (-4, 4 KaP; innerhalb einer Stunde wächst aus einem Samen eine durchschnittliche Heilpflanze.)
 - **Vorbereitungszeit:** 4 Minuten
 - **Ziel:** Pflanze
 - **Reichweite:** Berührung
@@ -25,5 +26,8 @@ Die gesegnete Pflanze wächst doppelt so schnell, bis sie zu einem prächtigen E
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Hilfe der Sippe|Hilfe der Sippe]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Hilfe der Sippe]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Himmelswölfegeweihten I]]
+- **Erlernen:** 10 EP

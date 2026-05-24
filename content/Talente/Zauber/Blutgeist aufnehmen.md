@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 2cde8bb0-7201-4b30-a346-673234234509
+ID: 13a9ee32-81dd-4ae5-9d5c-313859d88e6c
 Name: Blutgeist aufnehmen
 title: Blutgeist aufnehmen
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]]"
-  - "[[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]"
+  - "[[Verwandlung]]"
+  - "[[Gaben des Blutgeists]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Anach-Nûrim I
@@ -24,5 +24,9 @@ Du verzehrst das frische Herz eines Tieres, um den Blutgeist des Tieres aufzuneh
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Verwandlung|Verwandlung]], [[Inhalt/Fertigkeiten/Gaben des Blutgeists|Gaben des Blutgeists]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Verwandlung]]
+  - [[Gaben des Blutgeists]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Anach-Nûrim I]]
+- **Erlernen:** 40 EP

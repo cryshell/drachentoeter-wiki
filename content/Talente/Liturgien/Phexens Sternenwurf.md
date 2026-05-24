@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: c171f20d-b979-46e4-b2db-0c156bc39cae
+ID: 4efb3d15-bcd4-4509-99f1-360abd2805e7
 Name: Phexens Sternenwurf
 title: Phexens Sternenwurf
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Abu al'Mada|Abu al'Mada]]"
+  - "[[Abu al'Mada]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Phexgeweihten I
@@ -24,5 +24,8 @@ Du rufst einen der Wurfsterne des Phex herbei. Diese kurze Wurfwaffe hat folgend
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Abu al'Mada|Abu al'Mada]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Abu al'Mada]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Phexgeweihten I]]
+- **Erlernen:** 40 EP

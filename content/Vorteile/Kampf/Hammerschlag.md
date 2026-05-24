@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4c358eb9-5a8f-4420-828b-dcf2ec0545b4
+ID: 7b90d4bd-a302-4dcd-bb04-90439d787324
 Name: Hammerschlag
 title: Hammerschlag
 Kategorie: Kampf
@@ -14,7 +14,8 @@ Erlaubt das Manöver Hammerschlag.
 
 ---
 
-- **Kosten:** 60 EP
+- **Erlernen:** 60 EP
 - **Voraussetzungen:**
   - Attribut [[Körperkraft|KK]] 8
-- **Siehe auch:** [[Hammerschlag]]
+- **Siehe auch:**
+  - [[Hammerschlag]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 3531fadb-0440-4f0d-8f62-92899be586c0
+ID: 51d10f12-a08a-4b5e-9d82-458680afd159
 Name: Sprachkenntnis (Bosparano)
 title: Sprachkenntnis (Bosparano)
 Kategorie: Sprachkenntnis
@@ -11,4 +11,4 @@ Bosparano gehört zur Garethi-Familie.
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP

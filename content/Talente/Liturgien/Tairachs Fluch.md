@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: a61757e2-4544-42a4-8446-cb656d58c34e
+ID: fb9b9034-630c-430f-be98-e67dfd518ebd
 Name: Tairachs Fluch
 title: Tairachs Fluch
 Kategorie: Liturgien
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Tradition|Tradition]]"
+  - "[[Tradition]]"
 Kosten: 20
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Tairachgeweihten I
@@ -14,7 +14,8 @@ Du beschwörst den Zorn Tairachs auf einen sippenangehörigen Verbrecher hinab. 
 
 - **Hohe Qualität:** Erhöht die Wahrscheinlichkeit auf 1-3/1-4/1-5.
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Ferner Fluch (-8, dereweit; braucht einen materiellen Fokus und die Liturgie ignoriert die Bedingung Sicht.)
+- **Modifikationen:**
+  - Ferner Fluch (-8, dereweit; braucht einen materiellen Fokus und die Liturgie ignoriert die Bedingung Sicht.)
 - **Vorbereitungszeit:** 8 Stunden
 - **Ziel:** Humanoid
 - **Reichweite:** Berührung
@@ -25,5 +26,8 @@ Du beschwörst den Zorn Tairachs auf einen sippenangehörigen Verbrecher hinab. 
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Tradition|Tradition]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Tradition]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Tairachgeweihten I]]
+- **Erlernen:** 20 EP

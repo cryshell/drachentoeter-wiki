@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0f3fbc54-28f4-4ee5-95eb-d040f5579122
+ID: 3c4b48f6-bfcb-4ee5-9b1c-8a5699302f46
 Name: Tradition der Rahjageweihten II
 title: Tradition der Rahjageweihten II
 Kategorie: Tradition (Karmal)
@@ -14,7 +14,7 @@ Rahjageweihte schätzen den Rausch, egal ob durch Alkohol, Sex, Tanz, einen Ausr
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 6
   - Vorteil [[Tradition der Rahjageweihten I]]

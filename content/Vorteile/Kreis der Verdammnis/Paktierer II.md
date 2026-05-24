@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 8d0941c7-8457-48c6-8343-217b8b1c57b5
+ID: 7ca65613-0dba-43e0-9f24-324b0022fa35
 Name: Paktierer II
 title: Paktierer II
 Kategorie: Kreis der Verdammnis
@@ -12,6 +12,6 @@ Du verfügst über 16 Gunstpunkte und kannst die dämonische Tradition deines Er
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Vorteil [[Paktierer I]]

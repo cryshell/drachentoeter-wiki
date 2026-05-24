@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e1ce9c34-ef22-493b-bfd6-a81e94eb0a47
+ID: 1cb7a724-1b00-451b-ba16-6ac51587febc
 Name: Zauberer II
 title: Zauberer II
 Kategorie: Magisch
@@ -12,6 +12,6 @@ Du verfügst über 16 Astralpunkte und kannst magische Traditionen erlernen. Dei
 
 ---
 
-- **Kosten:** 40 EP
+- **Erlernen:** 40 EP
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I]]

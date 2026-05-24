@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: fe224c2b-fbf0-40e8-9fd3-46319ec6481a
+ID: c405ed40-63ad-415f-8c63-d68e8f8a5d69
 Name: Geister vertreiben
 title: Geister vertreiben
 Kategorie: Zauberfertigkeiten

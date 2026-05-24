@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: a1f8bf1d-69dc-4b64-9f35-766773940516
+ID: dffd0183-a3b1-42f0-b088-06ccb813645e
 Name: H‘Szints Auge (passiv)
 title: H‘Szints Auge (passiv)
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]"
+  - "[[Kristallmagie]]"
 Kosten: 20
 Voraussetzungen: Vorteil Tradition der Kristallomanten I
 ---
@@ -15,5 +15,8 @@ Du kannst einen gebundenen Kristall als Hilfsmittel für eine magische Analyse v
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Kristallmagie|Kristallmagie]]
-- **Kosten:** 20 EP
+- **Fertigkeiten:**
+  - [[Kristallmagie]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Kristallomanten I]]
+- **Erlernen:** 20 EP

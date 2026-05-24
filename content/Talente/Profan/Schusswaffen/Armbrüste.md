@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: cd8a2b8b-da45-4ac7-b287-a4d9bdfc516f
+ID: ea02840d-ea51-4134-8610-04f03eed1b14
 Name: Armbrüste
 title: Armbrüste
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Schusswaffen|Schusswaffen]]"
+  - "[[Schusswaffen]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Armbrüste umfasst mechanische Fernkampfwaffen mit Spannschloss, von kleinen Han
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Schusswaffen|Schusswaffen]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Schusswaffen]]
+- **Erlernen:** 40 EP

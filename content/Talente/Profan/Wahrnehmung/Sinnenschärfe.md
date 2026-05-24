@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: bbb55158-5b0d-4d93-8ab5-24bdb9f03320
+ID: 3d5525e5-fcc7-4fb5-b5cd-8271407a725d
 Name: Sinnenschärfe
 title: Sinnenschärfe
 Kategorie: Profan
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Wahrnehmung|Wahrnehmung]]"
+  - "[[Wahrnehmung]]"
 Kosten: 40
 Spezialisierbar: 1
 ---
@@ -13,5 +13,6 @@ Sinnenschärfe ist die aktive Verwendung deiner Sinne, um einen Kollaborateur in
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Wahrnehmung|Wahrnehmung]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Wahrnehmung]]
+- **Erlernen:** 40 EP

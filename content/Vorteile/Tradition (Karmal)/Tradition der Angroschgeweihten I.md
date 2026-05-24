@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e3adac66-4d71-4087-b917-42a34dcbac0e
+ID: bbdfa485-537a-4b13-96e0-bb7999735758
 Name: Tradition der Angroschgeweihten I
 title: Tradition der Angroschgeweihten I
 Kategorie: Tradition (Karmal)
@@ -17,8 +17,8 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen Angroschs Gebote verstößt: Wa
 
 ---
 
-- **Kosten:** 20 EP
+- **Erlernen:** 20 EP
 - **Voraussetzungen:**
   - Attribut [[Fingerfertigkeit|FF]] 4
   - Vorteil [[Geweiht I]]
-  - Kein Vorteil Tradition der *geweihten I
+  - Kein Vorteil [[Tradition der geweihten I|Tradition der *geweihten I]]

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Talent
-ID: 4eb1456b-cd3a-4658-941c-0f9121c7b8b5
+ID: b5cccf47-f0b2-45f9-b517-9b79ff9cb34e
 Name: Fesselranken
 title: Fesselranken
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
+  - "[[Humus]]"
 Kosten: 10
 Spezialisierbar: 1
 Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Elfen I
@@ -13,9 +13,9 @@ Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition d
 Aus dem Boden unter deinem Opfer wachsen Ranken hervor. Es ist *fixiert*. Es kann sich mit einer Aktion und einer gelungenen GE- oder KK-Gegenprobe befreien.
 
 - **Probenschwierigkeit:** 12
-- **Modifikationen:** Dornenfessel (-8; misslungene Gegenproben fügen dem Opfer 2W6 TP zu.)
-Stabile Ranken (-4; die Ranken sind besonders hart und erschweren jede Bewegung, das Ziel ist zusätzlich *geschwächt*.) 
-
+- **Modifikationen:**
+  - Dornenfessel (-8; misslungene Gegenproben fügen dem Opfer 2W6 TP zu.)
+  - Stabile Ranken (-4; die Ranken sind besonders hart und erschweren jede Bewegung, das Ziel ist zusätzlich *geschwächt*.) 
 - **Vorbereitungszeit:** 1 Aktion
 - **Ziel:** Wesen
 - **Reichweite:** 8 Schritt
@@ -26,5 +26,8 @@ Stabile Ranken (-4; die Ranken sind besonders hart und erschweren jede Bewegung,
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Humus|Humus]]
-- **Kosten:** 10 EP
+- **Fertigkeiten:**
+  - [[Humus]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Elfen I]]
+- **Erlernen:** 10 EP

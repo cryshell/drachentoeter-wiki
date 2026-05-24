@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e3474055-066f-4421-b81d-1b237f02b19e
+ID: 32641df4-5fec-412b-a793-362fab2a7584
 Name: "Kommando: Kennt Keinen Schmerz!"
 title: "Kommando: Kennt Keinen Schmerz!"
 Kategorie: Kampf
@@ -12,6 +12,6 @@ Du kannst als Bonusaktion allen Mitstreitern in Hörweite bis zum Beginn deines 
 
 ---
 
-- **Kosten:** 80 EP
+- **Erlernen:** 80 EP
 - **Voraussetzungen:**
   - Attribut [[Charisma|CH]] 10

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Talent
-ID: 8cb372d5-7a00-48ca-97ba-0c835a1d73a9
+ID: 87d8cc01-9312-44f7-9ca7-9266cc7a8f46
 Name: Geistheilung
 title: Geistheilung
 Kategorie: Zauber
 Fertigkeiten:
-  - "[[Inhalt/Fertigkeiten/Geister vertreiben|Geister vertreiben]]"
-  - "[[Inhalt/Fertigkeiten/Humus|Humus]]"
+  - "[[Geister vertreiben]]"
+  - "[[Humus]]"
 Kosten: 40
 Spezialisierbar: 1
 Voraussetzungen: "Vorteil Tradition der Schamanen (*) I"
@@ -26,5 +26,9 @@ Dein Ziel erhält 2W6+4 Heilpunkte, für jede Überschreitung der WS wird eine W
 
 ---
 
-- **Fertigkeiten:** [[Inhalt/Fertigkeiten/Geister vertreiben|Geister vertreiben]], [[Inhalt/Fertigkeiten/Humus|Humus]]
-- **Kosten:** 40 EP
+- **Fertigkeiten:**
+  - [[Geister vertreiben]]
+  - [[Humus]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+- **Erlernen:** 40 EP
