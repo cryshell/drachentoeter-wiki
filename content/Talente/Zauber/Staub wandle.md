@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c77d7468-5bfa-4a9b-a2ec-c0825707918f
+ID: c4118863-8f4e-49c4-8614-9538bd1a56de
 Name: "Staub wandle!"
 title: "Staub wandle!"
 Kategorie: Zauber

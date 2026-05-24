@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 03d0ff09-8d04-4b28-82b9-ebc54bedfcf1
+ID: c9cb53c7-eb9a-4dcb-9f0c-6d799f09fd3c
 Name: Tradition der Elfen I
 title: Tradition der Elfen I
 Kategorie: Tradition (Magisch)
@@ -18,5 +18,5 @@ In Umgebungen mit gestörter Harmonie (z.B. dämonische Verseuchung, Geistersche
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut IN 4"
-  - "Vorteil Zauberer I"
+  - Attribut [[Intuition|IN]] 4
+  - Vorteil [[Zauberer I]]

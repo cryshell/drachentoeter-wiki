@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 1e721d56-6a7b-4f49-942e-f56407904f72
+ID: 33d404ba-b0d1-4df3-bc95-1de53a90b5b3
 Name: Tradition der Gildenmagier I
 title: Tradition der Gildenmagier I
 Kategorie: Tradition (Magisch)
@@ -18,5 +18,5 @@ Wenn du beim Vorbereiten eines Zaubers gestört wirst, haben entsprechende MU-Pr
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut KL 4"
-  - "Vorteil Zauberer I"
+  - Attribut [[Klugheit|KL]] 4
+  - Vorteil [[Zauberer I]]

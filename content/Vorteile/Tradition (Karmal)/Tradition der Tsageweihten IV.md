@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 94774777-e030-43b1-a7f4-802de6c6e083
+ID: 7f3fbce4-d641-4788-a288-295949a3d4ad
 Name: Tradition der Tsageweihten IV
 title: Tradition der Tsageweihten IV
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut IN 10"
-  - "Vorteil Tradition der Tsageweihten III"
+  - MeisterAttribut [[Intuition|IN]] 10
+  - Vorteil [[Tradition der Tsageweihten III]]

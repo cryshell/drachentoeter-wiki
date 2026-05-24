@@ -1,37 +1,37 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 057406c4-d739-4cdf-8697-924b32bb5da8
+ID: cf0a2766-98bc-43db-b2e1-c5d7310572c8
 Name: Zauberrunen
 title: Zauberrunen
 Kategorie: Zauberfertigkeiten
 Attribute:
-  - "[[Inhalt/Attribute/KL|KL]]"
-  - "[[Inhalt/Attribute/IN|IN]]"
-  - "[[Inhalt/Attribute/FF|FF]]"
+  - "[[Klugheit|KL]]"
+  - "[[Intuition|IN]]"
+  - "[[Fingerfertigkeit|FF]]"
 Steigerungsfaktor: 4
 Talente:
-  - "[[Inhalt/Talente/Zauber/Alfenbannrune|Alfenbannrune]]"
-  - "[[Inhalt/Talente/Zauber/Bärenrune|Bärenrune]]"
-  - "[[Inhalt/Talente/Zauber/Drachenrune|Drachenrune]]"
-  - "[[Inhalt/Talente/Zauber/Entgifterrune|Entgifterrune]]"
-  - "[[Inhalt/Talente/Zauber/Felsenrune|Felsenrune]]"
-  - "[[Inhalt/Talente/Zauber/Finsterrune|Finsterrune]]"
-  - "[[Inhalt/Talente/Zauber/Friedensrune|Friedensrune]]"
-  - "[[Inhalt/Talente/Zauber/Furchtrune|Furchtrune]]"
-  - "[[Inhalt/Talente/Zauber/Geisterbannrune|Geisterbannrune]]"
-  - "[[Inhalt/Talente/Zauber/Lebensrune|Lebensrune]]"
-  - "[[Inhalt/Talente/Zauber/Nebelrune|Nebelrune]]"
-  - "[[Inhalt/Talente/Zauber/Orkanstimmenrune|Orkanstimmenrune]]"
-  - "[[Inhalt/Talente/Zauber/Ottarune|Ottarune]]"
-  - "[[Inhalt/Talente/Zauber/Pfeilrune|Pfeilrune]]"
-  - "[[Inhalt/Talente/Zauber/Rauschrune|Rauschrune]]"
-  - "[[Inhalt/Talente/Zauber/Salzwasserrune|Salzwasserrune]]"
-  - "[[Inhalt/Talente/Zauber/Schicksalsrune|Schicksalsrune]]"
-  - "[[Inhalt/Talente/Zauber/Waberlohenrune|Waberlohenrune]]"
-  - "[[Inhalt/Talente/Zauber/Waffenrune|Waffenrune]]"
-  - "[[Inhalt/Talente/Zauber/Wogensturmrune|Wogensturmrune]]"
-  - "[[Inhalt/Talente/Zauber/Zukunftsrune|Zukunftsrune]]"
-  - "[[Inhalt/Talente/Zauber/Zusatzrune Blutrune (passiv)|Zusatzrune Blutrune (passiv)]]"
+  - "[[Alfenbannrune]]"
+  - "[[Bärenrune]]"
+  - "[[Drachenrune]]"
+  - "[[Entgifterrune]]"
+  - "[[Felsenrune]]"
+  - "[[Finsterrune]]"
+  - "[[Friedensrune]]"
+  - "[[Furchtrune]]"
+  - "[[Geisterbannrune]]"
+  - "[[Lebensrune]]"
+  - "[[Nebelrune]]"
+  - "[[Orkanstimmenrune]]"
+  - "[[Ottarune]]"
+  - "[[Pfeilrune]]"
+  - "[[Rauschrune]]"
+  - "[[Salzwasserrune]]"
+  - "[[Schicksalsrune]]"
+  - "[[Waberlohenrune]]"
+  - "[[Waffenrune]]"
+  - "[[Wogensturmrune]]"
+  - "[[Zukunftsrune]]"
+  - "[[Zusatzrune Blutrune (passiv)]]"
 Voraussetzungen: Vorteil Tradition der Runenmagier
 ---
 Zauberrunen sind eine bei den Thorwalern bekannte Form der Magie, bei der hjaldingsche Runen auf beliebiger Materie angebracht und verzaubert werden. Die magische Wirkung erlischt sofort, wenn diese Runen profan zerstört werden.
@@ -41,7 +41,30 @@ Zauberrunen sind eine bei den Thorwalern bekannte Form der Magie, bei der hjaldi
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/KL|KL]], [[Inhalt/Attribute/IN|IN]], [[Inhalt/Attribute/FF|FF]]
+- **Attribute:** [[Klugheit|KL]], [[Intuition|IN]], [[Fingerfertigkeit|FF]]
 - **Steigerungsfaktor:** 4
-- **Talente:** [[Inhalt/Talente/Zauber/Alfenbannrune|Alfenbannrune]], [[Inhalt/Talente/Zauber/Bärenrune|Bärenrune]], [[Inhalt/Talente/Zauber/Drachenrune|Drachenrune]], [[Inhalt/Talente/Zauber/Entgifterrune|Entgifterrune]], [[Inhalt/Talente/Zauber/Felsenrune|Felsenrune]], [[Inhalt/Talente/Zauber/Finsterrune|Finsterrune]], [[Inhalt/Talente/Zauber/Friedensrune|Friedensrune]], [[Inhalt/Talente/Zauber/Furchtrune|Furchtrune]], [[Inhalt/Talente/Zauber/Geisterbannrune|Geisterbannrune]], [[Inhalt/Talente/Zauber/Lebensrune|Lebensrune]], [[Inhalt/Talente/Zauber/Nebelrune|Nebelrune]], [[Inhalt/Talente/Zauber/Orkanstimmenrune|Orkanstimmenrune]], [[Inhalt/Talente/Zauber/Ottarune|Ottarune]], [[Inhalt/Talente/Zauber/Pfeilrune|Pfeilrune]], [[Inhalt/Talente/Zauber/Rauschrune|Rauschrune]], [[Inhalt/Talente/Zauber/Salzwasserrune|Salzwasserrune]], [[Inhalt/Talente/Zauber/Schicksalsrune|Schicksalsrune]], [[Inhalt/Talente/Zauber/Waberlohenrune|Waberlohenrune]], [[Inhalt/Talente/Zauber/Waffenrune|Waffenrune]], [[Inhalt/Talente/Zauber/Wogensturmrune|Wogensturmrune]], [[Inhalt/Talente/Zauber/Zukunftsrune|Zukunftsrune]], [[Inhalt/Talente/Zauber/Zusatzrune Blutrune (passiv)|Zusatzrune Blutrune (passiv)]]
-- **Voraussetzungen:** Vorteil Tradition der Runenmagier
+- **Talente:**
+  - [[Alfenbannrune]]
+  - [[Bärenrune]]
+  - [[Drachenrune]]
+  - [[Entgifterrune]]
+  - [[Felsenrune]]
+  - [[Finsterrune]]
+  - [[Friedensrune]]
+  - [[Furchtrune]]
+  - [[Geisterbannrune]]
+  - [[Lebensrune]]
+  - [[Nebelrune]]
+  - [[Orkanstimmenrune]]
+  - [[Ottarune]]
+  - [[Pfeilrune]]
+  - [[Rauschrune]]
+  - [[Salzwasserrune]]
+  - [[Schicksalsrune]]
+  - [[Waberlohenrune]]
+  - [[Waffenrune]]
+  - [[Wogensturmrune]]
+  - [[Zukunftsrune]]
+  - [[Zusatzrune Blutrune (passiv)]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Runenmagier]]

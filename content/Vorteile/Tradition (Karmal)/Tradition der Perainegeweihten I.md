@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: ca4aebf2-e918-420e-8c0c-533f4cf906cf
+ID: 0bdb400a-47b9-45a7-bb76-3fe85da94065
 Name: Tradition der Perainegeweihten I
 title: Tradition der Perainegeweihten I
 Kategorie: Tradition (Karmal)
@@ -19,6 +19,6 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen Peraines Gebote verstößt: Hil
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut CH 4"
-  - "Vorteil Geweiht I"
-  - "Kein Vorteil Tradition der *geweihten I"
+  - Attribut [[Charisma|CH]] 4
+  - Vorteil [[Geweiht I]]
+  - Kein Vorteil Tradition der *geweihten I

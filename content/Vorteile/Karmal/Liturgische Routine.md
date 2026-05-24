@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4b25b1d7-0891-4674-8e93-059ee7b07225
+ID: 3ee729da-8916-4f6e-9d18-ffae48a05f20
 Name: Liturgische Routine
 title: Liturgische Routine
 Kategorie: Karmal
@@ -16,5 +16,5 @@ Bei Liturgien gewürfelte Patzer gelten nur als gewöhnlich misslungen.
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut KL 4"
-  - "Vorteil Geweiht I"
+  - Attribut [[Klugheit|KL]] 4
+  - Vorteil [[Geweiht I]]

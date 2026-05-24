@@ -1,22 +1,24 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 97f395ec-1154-40e7-ab45-e9f44af9d116
+ID: 0a62359e-a2ac-4aee-ae1e-1448ffe09a03
 Name: Wahrnehmung
 title: Wahrnehmung
 Kategorie: Körper
 Attribute:
-  - "[[Inhalt/Attribute/IN|IN]]"
-  - "[[Inhalt/Attribute/IN|IN]]"
-  - "[[Inhalt/Attribute/KL|KL]]"
+  - "[[Intuition|IN]]"
+  - "[[Intuition|IN]]"
+  - "[[Klugheit|KL]]"
 Steigerungsfaktor: 3
 Talente:
-  - "[[Inhalt/Talente/Profan/Wahrnehmung/Sinnenschärfe|Sinnenschärfe]]"
-  - "[[Inhalt/Talente/Profan/Wahrnehmung/Wachsamkeit|Wachsamkeit]]"
+  - "[[Sinnenschärfe]]"
+  - "[[Wachsamkeit]]"
 ---
 Wahrnehmung ist die Fähigkeit, selbst kleinste Sinneseindrücke wahrzunehmen und richtig zu interpretieren.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/IN|IN]], [[Inhalt/Attribute/IN|IN]], [[Inhalt/Attribute/KL|KL]]
+- **Attribute:** [[Intuition|IN]], [[Intuition|IN]], [[Klugheit|KL]]
 - **Steigerungsfaktor:** 3
-- **Talente:** [[Inhalt/Talente/Profan/Wahrnehmung/Sinnenschärfe|Sinnenschärfe]], [[Inhalt/Talente/Profan/Wahrnehmung/Wachsamkeit|Wachsamkeit]]
+- **Talente:**
+  - [[Sinnenschärfe]]
+  - [[Wachsamkeit]]

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: 68d3f39b-3c7c-4eda-ac0f-3348d13557c0
+ID: 34ebd84f-4ba7-4e9a-b081-4713622dd609
 Name: Offensiver Kampfstil
 title: Offensiver Kampfstil
 Kategorie: Kampf
 Voraussetzungen: Attribut MU 6
 Querverweise:
-  - "[[Inhalt/Kapitel/Aktion Angriff|Aktion Angriff]]"
+  - "[[Aktion Angriff]]"
 Nachkauf: häufig
 Kosten: 40
 ---
@@ -15,5 +15,6 @@ Wenn du die Aktion Angriff wählst, kannst du dabei in eine volle Offensive gehe
 ---
 
 - **Kosten:** 40 EP
-- **Voraussetzungen:** Attribut MU 6
-- **Siehe auch:** [[Inhalt/Kapitel/Aktion Angriff|Aktion Angriff]]
+- **Voraussetzungen:**
+  - Attribut [[Mut|MU]] 6
+- **Siehe auch:** [[Aktion Angriff]]

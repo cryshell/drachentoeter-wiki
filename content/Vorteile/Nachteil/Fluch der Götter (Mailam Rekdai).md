@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4970c4e4-6912-4308-b85c-78417e964bdc
+ID: b633bd4a-88b8-450f-ab08-14fc04be9acf
 Name: Fluch der Götter (Mailam Rekdai)
 title: Fluch der Götter (Mailam Rekdai)
 Kategorie: Nachteil
@@ -13,4 +13,5 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Mailam Rekdai), Empfindlichkeit I
 ---
 
 - **Kosten:** -200 EP
-- **Voraussetzungen:** Vorteil Vampir I
+- **Voraussetzungen:**
+  - Vorteil [[Vampir I]]

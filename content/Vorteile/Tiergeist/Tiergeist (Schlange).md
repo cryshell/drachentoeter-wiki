@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 40f6c344-34e7-425d-8d58-22e3528ee0c1
+ID: 00d6851d-5b56-4009-ae97-3bb294cce2f3
 Name: Tiergeist (Schlange)
 title: Tiergeist (Schlange)
 Kategorie: Tiergeist
@@ -8,11 +8,11 @@ Voraussetzungen:
   - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
   - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
 Querverweise:
-  - "[[Inhalt/Talente/Zauber/Atemnot|Atemnot]]"
-  - "[[Inhalt/Talente/Zauber/Psychostabilis|Psychostabilis]]"
-  - "[[Inhalt/Talente/Zauber/Serpentialis Schlangenleib|Serpentialis Schlangenleib]]"
-  - "[[Inhalt/Talente/Zauber/Vipernblick|Vipernblick]]"
-  - "[[Inhalt/Talente/Zauber/Warmes Blut|Warmes Blut]]"
+  - "[[Atemnot]]"
+  - "[[Psychostabilis]]"
+  - "[[Serpentialis Schlangenleib]]"
+  - "[[Vipernblick]]"
+  - "[[Warmes Blut]]"
 Nachkauf: häufig
 Kosten: 0
 ---
@@ -27,6 +27,6 @@ Kosten: 0
 
 - **Kosten:** 0 EP
 - **Voraussetzungen:**
-  - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
-  - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
-- **Siehe auch:** [[Inhalt/Talente/Zauber/Atemnot|Atemnot]], [[Inhalt/Talente/Zauber/Psychostabilis|Psychostabilis]], [[Inhalt/Talente/Zauber/Serpentialis Schlangenleib|Serpentialis Schlangenleib]], [[Inhalt/Talente/Zauber/Vipernblick|Vipernblick]], [[Inhalt/Talente/Zauber/Warmes Blut|Warmes Blut]]
+  - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
+  - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
+- **Siehe auch:** [[Atemnot]], [[Psychostabilis]], [[Serpentialis Schlangenleib]], [[Vipernblick]], [[Warmes Blut]]

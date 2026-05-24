@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: 8a22af51-0a51-404b-809f-909638587ef9
+ID: 0aaa2775-2ab8-4988-a72e-8fe748ddb989
 Name: Kreis der Verdammnis II
 title: Kreis der Verdammnis II
 Kategorie: Kreis der Verdammnis
 Voraussetzungen: Vorteil Kreis der Verdammnis I
 Querverweise:
-  - "[[Inhalt/Talente/Liturgien/Seelenprüfung|Seelenprüfung]]"
+  - "[[Seelenprüfung]]"
 Nachkauf: üblich
 Kosten: "-200"
 ---
@@ -21,5 +21,6 @@ Der Vorteil hat folgende Auswirkungen:
 ---
 
 - **Kosten:** -200 EP
-- **Voraussetzungen:** Vorteil Kreis der Verdammnis I
-- **Siehe auch:** [[Inhalt/Talente/Liturgien/Seelenprüfung|Seelenprüfung]]
+- **Voraussetzungen:**
+  - Vorteil [[Kreis der Verdammnis I]]
+- **Siehe auch:** [[Seelenprüfung]]

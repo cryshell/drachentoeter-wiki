@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 55d6f250-0b21-43e9-8c5a-c516bd333a49
+ID: b78c0857-02cf-4619-b7c6-b4e8bc944af9
 Name: Gesegnete Waffe
 title: Gesegnete Waffe
 Kategorie: Karmal
@@ -16,5 +16,5 @@ Von dir genutzte Waffen gelten immer als geweiht. Einmal pro Zug kannst du mit e
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut MU 6"
-  - "Vorteil Geweiht I"
+  - Attribut [[Mut|MU]] 6
+  - Vorteil [[Geweiht I]]

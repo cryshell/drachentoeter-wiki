@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e38990d9-ccf3-4e66-bbcf-43b14b8f9acb
+ID: 11087e07-f7d7-4454-b7d8-607fc98d82d5
 Name: Tradition der Schamanen (Waldmenschen) IV
 title: Tradition der Schamanen (Waldmenschen) IV
 Kategorie: Tradition (Magisch)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut IN 10"
-  - "Vorteil Tradition der Schamanen (Waldmenschen) III"
+  - MeisterAttribut [[Intuition|IN]] 10
+  - Vorteil [[Tradition der Schamanen (Waldmenschen) III]]

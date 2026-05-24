@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 8774dc24-8a4a-4321-b137-389436b5e49e
+ID: 6862f3bd-f2e0-402a-803d-690ee20e5bc7
 Name: Tradition der Durro-Dûn II
 title: Tradition der Durro-Dûn II
 Kategorie: Tradition (Magisch)
@@ -16,5 +16,5 @@ Erfahrene Durro-Dûn rufen die Tiergeister scheinbar mühelos in ihren Körper. 
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut MU 6"
-  - "Vorteil Tradition der Durro-Dûn I"
+  - Attribut [[Mut|MU]] 6
+  - Vorteil [[Tradition der Durro-Dûn I]]

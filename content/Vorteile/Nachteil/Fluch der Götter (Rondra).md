@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 466d0b86-1cbf-44df-92af-b6a536a5b972
+ID: f00a48c8-88aa-46d8-9748-9dc58d5e4357
 Name: Fluch der Götter (Rondra)
 title: Fluch der Götter (Rondra)
 Kategorie: Nachteil
@@ -13,4 +13,5 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Rondra), Empfindlichkeit I (Pflan
 ---
 
 - **Kosten:** -200 EP
-- **Voraussetzungen:** Vorteil Vampir I
+- **Voraussetzungen:**
+  - Vorteil [[Vampir I]]

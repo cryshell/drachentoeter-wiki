@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c01eca3d-6e63-42a9-a0c0-c781aac57142
+ID: 41a2a4f8-ce3d-4d1d-a5ec-0c585d351ccd
 Name: Wahre Namen Blakharazs IV
 title: Wahre Namen Blakharazs IV
 Kategorie: Wahre Namen
@@ -17,6 +17,6 @@ Kosten: 20
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
-  - "MeisterAttribut KL 10"
-  - "Vorteil Wahre Namen Blakharazs III"
+  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - MeisterAttribut [[Klugheit|KL]] 10
+  - Vorteil [[Wahre Namen Blakharazs III]]

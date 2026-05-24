@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2c8d8f8d-98e9-4e9c-87b0-59f574999294
+ID: 443b15df-e0e3-49ab-a104-5ef5ebcd0007
 Name: Tradition der Amazerothpaktierer II
 title: Tradition der Amazerothpaktierer II
 Kategorie: Tradition (Paktierer)
@@ -16,5 +16,5 @@ Paktierer werden durch erlittene Wunden eher noch gefährlicher. Der Wundabzug s
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut MU 6"
-  - "Vorteil Tradition der Amazerothpaktierer I"
+  - Attribut [[Mut|MU]] 6
+  - Vorteil [[Tradition der Amazerothpaktierer I]]

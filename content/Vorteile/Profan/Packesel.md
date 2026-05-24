@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: 938ecd58-ab51-47f5-822f-2c782d621ae7
+ID: 0449c9e8-ebf8-4c54-bdd6-aea1cbe75aa8
 Name: Packesel
 title: Packesel
 Kategorie: Profan
 Voraussetzungen: Attribut KK 4
 Querverweise:
-  - "[[Inhalt/Abgeleiteter Wert/TK|TK]]"
+  - "[[TK]]"
 Nachkauf: häufig
 Kosten: 20
 ---
@@ -15,5 +15,6 @@ Die Tragkraft steigt um +4.
 ---
 
 - **Kosten:** 20 EP
-- **Voraussetzungen:** Attribut KK 4
-- **Siehe auch:** [[Inhalt/Abgeleiteter Wert/TK|TK]]
+- **Voraussetzungen:**
+  - Attribut [[Körperkraft|KK]] 4
+- **Siehe auch:** [[TK]]

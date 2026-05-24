@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0d6aea33-1168-4ce2-9bb6-4258e0945335
+ID: 0c747109-9545-46a1-b108-9b7d2b25aead
 Name: Rüstungsgewöhnung III
 title: Rüstungsgewöhnung III
 Kategorie: Kampf
@@ -8,7 +8,7 @@ Voraussetzungen:
   - Attribut KO 10
   - Vorteil Rüstungsgewöhnung II
 Querverweise:
-  - "[[Inhalt/Abgeleiteter Wert/BE|BE]]"
+  - "[[BE]]"
 Nachkauf: häufig
 Kosten: 40
 ---
@@ -18,6 +18,6 @@ Die BE aller Rüstungen ist um 1 gesenkt.
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut KO 10"
-  - "Vorteil Rüstungsgewöhnung II"
-- **Siehe auch:** [[Inhalt/Abgeleiteter Wert/BE|BE]]
+  - Attribut [[Konstitution|KO]] 10
+  - Vorteil [[Rüstungsgewöhnung II]]
+- **Siehe auch:** [[BE]]

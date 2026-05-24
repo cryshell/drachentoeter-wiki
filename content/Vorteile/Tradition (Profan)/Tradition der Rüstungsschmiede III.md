@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6af490ce-10f8-4655-a39d-ca2e23e6ed67
+ID: 9c292965-fa54-4c7b-8d60-3524cd5c1763
 Name: Tradition der Rüstungsschmiede III
 title: Tradition der Rüstungsschmiede III
 Kategorie: Tradition (Profan)
@@ -8,8 +8,8 @@ Voraussetzungen:
   - Attribut KO 8 ODER Attribut KK 8
   - Vorteil Tradition der Rüstungsschmiede II
 Querverweise:
-  - "[[Inhalt/Kapitel/Filigranes Kettengeflecht|Filigranes Kettengeflecht]]"
-  - "[[Inhalt/Kapitel/Komplettrüstung|Komplettrüstung]]"
+  - "[[Filigranes Kettengeflecht]]"
+  - "[[Komplettrüstung]]"
 Nachkauf: häufig
 Kosten: 20
 ---
@@ -19,6 +19,6 @@ Du kannst Drachenschuppen und Toschkril zu Rüstungen verarbeiten (beides Zwerge
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut KO 8 ODER Attribut KK 8"
-  - "Vorteil Tradition der Rüstungsschmiede II"
-- **Siehe auch:** [[Inhalt/Kapitel/Filigranes Kettengeflecht|Filigranes Kettengeflecht]], [[Inhalt/Kapitel/Komplettrüstung|Komplettrüstung]]
+  - Attribut KO 8 ODER Attribut KK 8
+  - Vorteil [[Tradition der Rüstungsschmiede II]]
+- **Siehe auch:** [[Filigranes Kettengeflecht]], [[Komplettrüstung]]

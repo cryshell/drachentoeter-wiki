@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 86005492-2148-4b22-97ec-a1feee6773dd
+ID: 919f893e-7c54-4950-ada0-6caf91954014
 Name: Wahre Namen Amazeroths III
 title: Wahre Namen Amazeroths III
 Kategorie: Wahre Namen
@@ -17,6 +17,6 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
-  - "Attribut KL 8"
-  - "Vorteil Wahre Namen Amazeroths II"
+  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Attribut [[Klugheit|KL]] 8
+  - Vorteil [[Wahre Namen Amazeroths II]]

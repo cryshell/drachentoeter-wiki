@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0f14da6e-1111-4dc8-9fa2-ae8a94cb8498
+ID: 31eb7d04-576f-418c-9f51-7fb4d88fb8e7
 Name: Wahre Namen des Humus I
 title: Wahre Namen des Humus I
 Kategorie: Wahre Namen
@@ -16,5 +16,5 @@ Du kannst alle Elementare des Humus bis zu einer Beschwörungsschwierigkeit von 
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
-  - "Attribut KL 4"
+  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Attribut [[Klugheit|KL]] 4

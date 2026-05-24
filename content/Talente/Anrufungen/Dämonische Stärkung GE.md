@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: d42029e4-a945-4dd1-877a-1d50fd4837a8
+ID: 56c0478e-8d34-47bd-8b34-9dec61377874
 Name: "Dämonische Stärkung: GE"
 title: "Dämonische Stärkung: GE"
 Kategorie: Anrufungen

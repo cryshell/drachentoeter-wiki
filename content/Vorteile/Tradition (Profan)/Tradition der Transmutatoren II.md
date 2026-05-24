@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f7f1bd27-eb92-40d7-a307-a820eb591adc
+ID: 3881a574-9738-4f6d-8a6d-fe0f436a1f85
 Name: Tradition der Transmutatoren II
 title: Tradition der Transmutatoren II
 Kategorie: Tradition (Profan)
@@ -16,5 +16,5 @@ Du beherrschst Rezepte der Tradition der Transmutatoren bis zu einer Verbreitung
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut KL 6"
-  - "Vorteil Tradition der Transmutatoren I"
+  - Attribut [[Klugheit|KL]] 6
+  - Vorteil [[Tradition der Transmutatoren I]]

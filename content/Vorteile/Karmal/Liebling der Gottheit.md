@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: ea13a1ab-c6f2-4f27-8b4f-42692edebc69
+ID: 9a180069-9bb4-487b-8356-058187cc8815
 Name: Liebling der Gottheit
 title: Liebling der Gottheit
 Kategorie: Karmal
@@ -16,5 +16,5 @@ Zeigt der gewertete Würfel bei einer Liturgie eine 16 oder höher, kostet diese
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "Attribut KL 10"
-  - "Vorteil Geweiht I"
+  - Attribut [[Klugheit|KL]] 10
+  - Vorteil [[Geweiht I]]

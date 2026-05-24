@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0191a2e3-70ee-4395-b1f8-b10269803d56
+ID: bef44620-5bfe-44d8-b2a6-c425f3420dcb
 Name: Tradition der Borongeweihten IV
 title: Tradition der Borongeweihten IV
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut KL 10"
-  - "Vorteil Tradition der Borongeweihten III"
+  - MeisterAttribut [[Klugheit|KL]] 10
+  - Vorteil [[Tradition der Borongeweihten III]]

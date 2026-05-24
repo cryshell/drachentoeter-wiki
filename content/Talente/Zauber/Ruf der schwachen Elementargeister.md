@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 276fe6fd-213e-4e51-94ef-c2c0d829ac04
+ID: 3dbfc520-1ca8-427f-a2ec-a24a1abe10f5
 Name: Ruf der schwachen Elementargeister
 title: Ruf der schwachen Elementargeister
 Kategorie: Zauber

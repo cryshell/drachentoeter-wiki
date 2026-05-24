@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Vorteil
-ID: 02b8f347-46ee-416e-9b5b-407a19e65bc7
+ID: 078b9703-4f5a-4f39-af18-fcf28ef62650
 Name: Tierempathie
 title: Tierempathie
 Kategorie: Allgemein
 Querverweise:
-  - "[[Inhalt/Talente/Profan/Naturkunde/Tierkunde|Tierkunde]]"
+  - "[[Tierkunde]]"
 Nachkauf: extrem selten
 Kosten: 60
 ---
@@ -17,4 +17,4 @@ Du kannst das Talent Tierkunde verwenden, um die Gedanken von Tieren zu verstehe
 ---
 
 - **Kosten:** 60 EP
-- **Siehe auch:** [[Inhalt/Talente/Profan/Naturkunde/Tierkunde|Tierkunde]]
+- **Siehe auch:** [[Tierkunde]]

@@ -1,32 +1,43 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 42c470eb-74bd-4fd5-b078-7f971d063a2a
+ID: 981cb424-ec65-4973-be9a-d190a6653152
 Name: Schlaf
 title: Schlaf
 Kategorie: Karmale Riten
 Attribute:
-  - "[[Inhalt/Attribute/CH|CH]]"
-  - "[[Inhalt/Attribute/FF|FF]]"
-  - "[[Inhalt/Attribute/KL|KL]]"
+  - "[[Charisma|CH]]"
+  - "[[Fingerfertigkeit|FF]]"
+  - "[[Klugheit|KL]]"
 Steigerungsfaktor: 2
 Talente:
-  - "[[Inhalt/Talente/Liturgien/Auge des Mondes|Auge des Mondes]]"
-  - "[[Inhalt/Talente/Liturgien/Bishdariels Auge|Bishdariels Auge]]"
-  - "[[Inhalt/Talente/Liturgien/Bishdariels Warnung|Bishdariels Warnung]]"
-  - "[[Inhalt/Talente/Liturgien/Hauch Borons|Hauch Borons]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Alchemie|Mirakel: Alchemie]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: IN|Mirakel: IN]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Mythenkunde|Mirakel: Mythenkunde]]"
-  - "[[Inhalt/Talente/Liturgien/Rauschsegen|Rauschsegen]]"
-  - "[[Inhalt/Talente/Liturgien/Ruf in Borons Arme|Ruf in Borons Arme]]"
-  - "[[Inhalt/Talente/Liturgien/Schlaf des Gesegneten|Schlaf des Gesegneten]]"
+  - "[[Auge des Mondes]]"
+  - "[[Bishdariels Auge]]"
+  - "[[Bishdariels Warnung]]"
+  - "[[Hauch Borons]]"
+  - "[[Mirakel Alchemie|Mirakel: Alchemie]]"
+  - "[[Mirakel IN|Mirakel: IN]]"
+  - "[[Mirakel Mythenkunde|Mirakel: Mythenkunde]]"
+  - "[[Rauschsegen]]"
+  - "[[Ruf in Borons Arme]]"
+  - "[[Schlaf des Gesegneten]]"
 Voraussetzungen: Vorteil Tradition der Borongeweihten I
 ---
 Boron schenkt den Menschen Schlaf und schickt ihnen Träume und Visionen, die zu erkunden sich viele Borongeweihte zur Aufgabe gemacht haben. Gerade im Al’Anfanischen Kult wird dabei auch mit Rauschkräutern nachgeholfen.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/CH|CH]], [[Inhalt/Attribute/FF|FF]], [[Inhalt/Attribute/KL|KL]]
+- **Attribute:** [[Charisma|CH]], [[Fingerfertigkeit|FF]], [[Klugheit|KL]]
 - **Steigerungsfaktor:** 2
-- **Talente:** [[Inhalt/Talente/Liturgien/Auge des Mondes|Auge des Mondes]], [[Inhalt/Talente/Liturgien/Bishdariels Auge|Bishdariels Auge]], [[Inhalt/Talente/Liturgien/Bishdariels Warnung|Bishdariels Warnung]], [[Inhalt/Talente/Liturgien/Hauch Borons|Hauch Borons]], [[Inhalt/Talente/Liturgien/Mirakel: Alchemie|Mirakel: Alchemie]], [[Inhalt/Talente/Liturgien/Mirakel: IN|Mirakel: IN]], [[Inhalt/Talente/Liturgien/Mirakel: Mythenkunde|Mirakel: Mythenkunde]], [[Inhalt/Talente/Liturgien/Rauschsegen|Rauschsegen]], [[Inhalt/Talente/Liturgien/Ruf in Borons Arme|Ruf in Borons Arme]], [[Inhalt/Talente/Liturgien/Schlaf des Gesegneten|Schlaf des Gesegneten]]
-- **Voraussetzungen:** Vorteil Tradition der Borongeweihten I
+- **Talente:**
+  - [[Auge des Mondes]]
+  - [[Bishdariels Auge]]
+  - [[Bishdariels Warnung]]
+  - [[Hauch Borons]]
+  - [[Mirakel Alchemie|Mirakel: Alchemie]]
+  - [[Mirakel IN|Mirakel: IN]]
+  - [[Mirakel Mythenkunde|Mirakel: Mythenkunde]]
+  - [[Rauschsegen]]
+  - [[Ruf in Borons Arme]]
+  - [[Schlaf des Gesegneten]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borongeweihten I]]

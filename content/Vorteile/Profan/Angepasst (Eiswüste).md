@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Vorteil
-ID: 75f762ad-ae25-4836-9efd-8d658255a457
+ID: 4047e4e9-be6a-445d-9131-6a14da5e61d9
 Name: Angepasst (Eiswüste)
 title: Angepasst (Eiswüste)
 Kategorie: Profan
 Querverweise:
-  - "[[Inhalt/Kapitel/Bewegung|Bewegung]]"
+  - "[[Bewegung]]"
 Nachkauf: üblich
 Kosten: 20
 ---
@@ -14,4 +14,4 @@ Durch deine Spezies oder langjährige Erfahrung hast du dich an die Landschaft E
 ---
 
 - **Kosten:** 20 EP
-- **Siehe auch:** [[Inhalt/Kapitel/Bewegung|Bewegung]]
+- **Siehe auch:** [[Bewegung]]

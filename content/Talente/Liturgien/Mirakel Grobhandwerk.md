@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 31cabdbb-e2e2-4603-9e29-ad1110b4b038
+ID: 6fab0775-13bc-47c6-a9a5-8d65b801259c
 Name: "Mirakel: Grobhandwerk"
 title: "Mirakel: Grobhandwerk"
 Kategorie: Liturgien

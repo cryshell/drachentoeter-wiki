@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c84e2256-30f3-4f5d-abe6-faafbad73e76
+ID: 1ab5f92e-483d-4bb3-abb2-f68c055b258a
 Name: Meisterwerk
 title: Meisterwerk
 Kategorie: Profan
@@ -14,4 +14,5 @@ Kosten: 80
 ---
 
 - **Kosten:** 80 EP
-- **Voraussetzungen:** Attribut FF 10
+- **Voraussetzungen:**
+  - Attribut [[Fingerfertigkeit|FF]] 10

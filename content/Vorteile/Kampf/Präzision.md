@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f9d37a73-642b-4cae-84fc-a64149c9f509
+ID: 5fcef0bb-bd12-4efd-b59c-42db529a406b
 Name: Präzision
 title: Präzision
 Kategorie: Kampf
@@ -13,4 +13,5 @@ Einmal pro Zug richtest du bei einem Nahkampftreffer +2W6 TP an, wenn der gewert
 ---
 
 - **Kosten:** 80 EP
-- **Voraussetzungen:** Attribut GE 10
+- **Voraussetzungen:**
+  - Attribut [[Gewandheit|GE]] 10

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 42eb7e54-281b-4b73-9437-04f23ca35267
+ID: b469baf1-9cf6-4f6d-8c28-727713f2b0cb
 Name: Tradition der Kr’Thon’Chhgeweihten IV
 title: Tradition der Kr’Thon’Chhgeweihten IV
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut MU 10"
-  - "Vorteil Tradition der Kr’Thon’Chhgeweihten III"
+  - MeisterAttribut [[Mut|MU]] 10
+  - Vorteil [[Tradition der Kr’Thon’Chhgeweihten III]]

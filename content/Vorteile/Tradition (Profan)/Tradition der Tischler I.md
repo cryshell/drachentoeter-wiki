@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6314f216-9d7a-4c18-98d7-c3f2807aea7e
+ID: f0030553-222e-40d2-bcee-57d6cf52ad55
 Name: Tradition der Tischler I
 title: Tradition der Tischler I
 Kategorie: Tradition (Profan)
@@ -13,4 +13,5 @@ Du beherrschst Rezepte der Tradition der Tischler (Tsl).
 ---
 
 - **Kosten:** 20 EP
-- **Voraussetzungen:** Attribut FF 4 ODER Attribut KK 4
+- **Voraussetzungen:**
+  - Attribut FF 4 ODER Attribut KK 4

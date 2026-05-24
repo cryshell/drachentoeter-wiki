@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2c69ea87-2164-40f9-bd5c-3c74195cc3c5
+ID: b18c1539-43fd-40da-a87c-b996e68f6386
 Name: Tradition der Avesgeweihten I
 title: Tradition der Avesgeweihten I
 Kategorie: Tradition (Karmal)
@@ -19,6 +19,6 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen Aves‘ Gebote verstößt: Übe
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut MU 4"
-  - "Vorteil Geweiht I"
-  - "Kein Vorteil Tradition der *geweihten I"
+  - Attribut [[Mut|MU]] 4
+  - Vorteil [[Geweiht I]]
+  - Kein Vorteil Tradition der *geweihten I

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d84e9c80-58f6-4446-a09e-9167b0795431
+ID: fa469277-6ee4-461e-907b-b55536267944
 Name: Privilegien (Gildenmagier)
 title: Privilegien (Gildenmagier)
 Kategorie: Profan
@@ -13,4 +13,5 @@ Dein Ansehen steigt um +1. Du darfst Geld für magische Dienstleistungen verlang
 ---
 
 - **Kosten:** 20 EP
-- **Voraussetzungen:** Vorteil Tradition der Gildenmagier I
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Gildenmagier I]]

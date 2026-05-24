@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 71ca0497-01fb-47d9-8bca-f9aecf89f1bb
+ID: cd48a834-0bb2-4b27-81f6-8c0828a0d9a9
 Name: Tradition der Shakagra I
 title: Tradition der Shakagra I
 Kategorie: Tradition (Magisch)
@@ -18,5 +18,5 @@ Zauber-Proben haben im Sonnenlicht Nachteil.
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut MU 4"
-  - "Vorteil Zauberer I"
+  - Attribut [[Mut|MU]] 4
+  - Vorteil [[Zauberer I]]

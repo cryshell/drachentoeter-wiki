@@ -1,26 +1,26 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 1016fc9e-ae7c-4873-905f-e800879c6856
+ID: 4af1c251-5822-4780-a1a6-16338cc434ac
 Name: Schlangenbund
 title: Schlangenbund
 Kategorie: Karmale Riten
 Attribute:
-  - "[[Inhalt/Attribute/CH|CH]]"
-  - "[[Inhalt/Attribute/IN|IN]]"
-  - "[[Inhalt/Attribute/IN|IN]]"
+  - "[[Charisma|CH]]"
+  - "[[Intuition|IN]]"
+  - "[[Intuition|IN]]"
 Steigerungsfaktor: 2
 Talente:
-  - "[[Inhalt/Talente/Liturgien/Bindung der Schlange|Bindung der Schlange]]"
-  - "[[Inhalt/Talente/Liturgien/Erste unter Gleichen|Erste unter Gleichen]]"
-  - "[[Inhalt/Talente/Liturgien/Schlangenbund: Bindungspartner finden|Schlangenbund: Bindungspartner finden]]"
-  - "[[Inhalt/Talente/Liturgien/Schlangenbund: Dinge aufspüren|Schlangenbund: Dinge aufspüren]]"
-  - "[[Inhalt/Talente/Liturgien/Schlangenbund: Letzter Ausweg|Schlangenbund: Letzter Ausweg]]"
-  - "[[Inhalt/Talente/Liturgien/Schlangenbund: Schlaf rauben|Schlangenbund: Schlaf rauben]]"
-  - "[[Inhalt/Talente/Liturgien/Schlangenbund: Stimmungssinn|Schlangenbund: Stimmungssinn]]"
-  - "[[Inhalt/Talente/Liturgien/Schlangenbund: Tarnung|Schlangenbund: Tarnung]]"
-  - "[[Inhalt/Talente/Liturgien/Schlangenbund: Ungesehener Beobachter|Schlangenbund: Ungesehener Beobachter]]"
-  - "[[Inhalt/Talente/Liturgien/Schlangenbund: Wachsame Augen|Schlangenbund: Wachsame Augen]]"
-  - "[[Inhalt/Talente/Liturgien/Schlangensinne|Schlangensinne]]"
+  - "[[Bindung der Schlange]]"
+  - "[[Erste unter Gleichen]]"
+  - "[[Schlangenbund Bindungspartner finden|Schlangenbund: Bindungspartner finden]]"
+  - "[[Schlangenbund Dinge aufspüren|Schlangenbund: Dinge aufspüren]]"
+  - "[[Schlangenbund Letzter Ausweg|Schlangenbund: Letzter Ausweg]]"
+  - "[[Schlangenbund Schlaf rauben|Schlangenbund: Schlaf rauben]]"
+  - "[[Schlangenbund Stimmungssinn|Schlangenbund: Stimmungssinn]]"
+  - "[[Schlangenbund Tarnung|Schlangenbund: Tarnung]]"
+  - "[[Schlangenbund Ungesehener Beobachter|Schlangenbund: Ungesehener Beobachter]]"
+  - "[[Schlangenbund Wachsame Augen|Schlangenbund: Wachsame Augen]]"
+  - "[[Schlangensinne]]"
 Voraussetzungen: Vorteil Tradition der H’Szintgeweihten I
 ---
 H’Szint-Priester schaffen mit der Bindung der Schlange ein magisches Band zwischen sich und dem Vertrautentier. Dabei erlangt das Vertrautentier magische Fähigkeiten, die es fortan einsetzen kann.
@@ -29,7 +29,19 @@ H’Szint-Priester schaffen mit der Bindung der Schlange ein magisches Band zwis
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/CH|CH]], [[Inhalt/Attribute/IN|IN]], [[Inhalt/Attribute/IN|IN]]
+- **Attribute:** [[Charisma|CH]], [[Intuition|IN]], [[Intuition|IN]]
 - **Steigerungsfaktor:** 2
-- **Talente:** [[Inhalt/Talente/Liturgien/Bindung der Schlange|Bindung der Schlange]], [[Inhalt/Talente/Liturgien/Erste unter Gleichen|Erste unter Gleichen]], [[Inhalt/Talente/Liturgien/Schlangenbund: Bindungspartner finden|Schlangenbund: Bindungspartner finden]], [[Inhalt/Talente/Liturgien/Schlangenbund: Dinge aufspüren|Schlangenbund: Dinge aufspüren]], [[Inhalt/Talente/Liturgien/Schlangenbund: Letzter Ausweg|Schlangenbund: Letzter Ausweg]], [[Inhalt/Talente/Liturgien/Schlangenbund: Schlaf rauben|Schlangenbund: Schlaf rauben]], [[Inhalt/Talente/Liturgien/Schlangenbund: Stimmungssinn|Schlangenbund: Stimmungssinn]], [[Inhalt/Talente/Liturgien/Schlangenbund: Tarnung|Schlangenbund: Tarnung]], [[Inhalt/Talente/Liturgien/Schlangenbund: Ungesehener Beobachter|Schlangenbund: Ungesehener Beobachter]], [[Inhalt/Talente/Liturgien/Schlangenbund: Wachsame Augen|Schlangenbund: Wachsame Augen]], [[Inhalt/Talente/Liturgien/Schlangensinne|Schlangensinne]]
-- **Voraussetzungen:** Vorteil Tradition der H’Szintgeweihten I
+- **Talente:**
+  - [[Bindung der Schlange]]
+  - [[Erste unter Gleichen]]
+  - [[Schlangenbund Bindungspartner finden|Schlangenbund: Bindungspartner finden]]
+  - [[Schlangenbund Dinge aufspüren|Schlangenbund: Dinge aufspüren]]
+  - [[Schlangenbund Letzter Ausweg|Schlangenbund: Letzter Ausweg]]
+  - [[Schlangenbund Schlaf rauben|Schlangenbund: Schlaf rauben]]
+  - [[Schlangenbund Stimmungssinn|Schlangenbund: Stimmungssinn]]
+  - [[Schlangenbund Tarnung|Schlangenbund: Tarnung]]
+  - [[Schlangenbund Ungesehener Beobachter|Schlangenbund: Ungesehener Beobachter]]
+  - [[Schlangenbund Wachsame Augen|Schlangenbund: Wachsame Augen]]
+  - [[Schlangensinne]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der H’Szintgeweihten I]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 8aea62f1-6086-4007-849a-021fb71ee9e1
+ID: df639a29-3dae-4577-8fbd-92000f030e36
 Name: Gemeinsame Anrufung
 title: Gemeinsame Anrufung
 Kategorie: Kreis der Verdammnis
@@ -8,7 +8,7 @@ Voraussetzungen:
   - Attribut IN 4
   - Vorteil Paktierer I
 Querverweise:
-  - "[[Inhalt/Kapitel/Zusammenarbeit|Zusammenarbeit]]"
+  - "[[Zusammenarbeit]]"
 Nachkauf: häufig
 Kosten: 20
 ---
@@ -21,6 +21,6 @@ Du kannst mit anderen Paktierern einen Zirkel bilden. Alle Teilnehmer müssen si
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut IN 4"
-  - "Vorteil Paktierer I"
-- **Siehe auch:** [[Inhalt/Kapitel/Zusammenarbeit|Zusammenarbeit]]
+  - Attribut [[Intuition|IN]] 4
+  - Vorteil [[Paktierer I]]
+- **Siehe auch:** [[Zusammenarbeit]]

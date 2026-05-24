@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c45891f5-a80b-48ab-afc3-a1122d2a088d
+ID: c264393d-79d7-4b7c-bdb2-9dea3b01167f
 Name: Tradition der Kamaluqgeweihten IV
 title: Tradition der Kamaluqgeweihten IV
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut MU 10"
-  - "Vorteil Tradition der Kamaluqgeweihten III"
+  - MeisterAttribut [[Mut|MU]] 10
+  - Vorteil [[Tradition der Kamaluqgeweihten III]]

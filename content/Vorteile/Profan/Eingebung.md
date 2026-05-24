@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 7f2234d5-626d-4182-8bc8-e8ace89ee1f8
+ID: 47cf27e7-92e4-4648-98a4-97094c63963b
 Name: Eingebung
 title: Eingebung
 Kategorie: Profan
@@ -14,4 +14,5 @@ Kosten: 80
 ---
 
 - **Kosten:** 80 EP
-- **Voraussetzungen:** Attribut KL 10
+- **Voraussetzungen:**
+  - Attribut [[Klugheit|KL]] 10

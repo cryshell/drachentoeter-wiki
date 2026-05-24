@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 7bd99175-153d-4f34-9a74-2429ae6bda54
+ID: 1bfb1528-d256-42a1-97e5-b6f914f96827
 Name: Tradition der Blakharazpaktierer I
 title: Tradition der Blakharazpaktierer I
 Kategorie: Tradition (Paktierer)
@@ -19,6 +19,6 @@ Dämonische Kräfte sind chaotisch, Anrufungsproben werden mit 1W20 gewürfelt.
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut MU 4"
-  - "Vorteil Paktierer I"
-  - "Kein Vorteil Tradition der *paktierer I"
+  - Attribut [[Mut|MU]] 4
+  - Vorteil [[Paktierer I]]
+  - Kein Vorteil Tradition der *paktierer I

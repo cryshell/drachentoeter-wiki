@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f1df8af4-da30-454f-96bf-5ad0e5834c11
+ID: d90170c6-1d84-4e13-84a6-233a26f14b81
 Name: Berserkerkampf I
 title: Berserkerkampf I
 Kategorie: Kampfstil
@@ -13,4 +13,5 @@ Kosten: 20
 ---
 
 - **Kosten:** 20 EP
-- **Voraussetzungen:** Attribut MU 4
+- **Voraussetzungen:**
+  - Attribut [[Mut|MU]] 4

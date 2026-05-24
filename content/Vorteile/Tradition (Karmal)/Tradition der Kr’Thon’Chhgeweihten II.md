@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 100f87d7-5ec5-4f06-a71a-4760c8535cf1
+ID: f248613b-f2e6-493e-a76d-d521cbbaf997
 Name: Tradition der Kr’Thon’Chhgeweihten II
 title: Tradition der Kr’Thon’Chhgeweihten II
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ Kr’Thon’Chhgeweihte werden durch erlittene Wunden eher noch gefährlicher. D
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut MU 6"
-  - "Vorteil Tradition der Kr’Thon’Chhgeweihten I"
+  - Attribut [[Mut|MU]] 6
+  - Vorteil [[Tradition der Kr’Thon’Chhgeweihten I]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4d5aed1f-3a62-4aab-9245-9c15f78ceceb
+ID: ea7fafdd-2c27-4b79-b5e5-e22d43b50e40
 Name: Fluch der Götter (Mokoscha)
 title: Fluch der Götter (Mokoscha)
 Kategorie: Nachteil
@@ -13,4 +13,5 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Mokoscha), Empfindlichkeit I (Pfl
 ---
 
 - **Kosten:** -200 EP
-- **Voraussetzungen:** Vorteil Vampir I
+- **Voraussetzungen:**
+  - Vorteil [[Vampir I]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 38cc2d18-dcee-4713-888c-573c21d989c5
+ID: 86dbb4e6-14ea-4ce6-81d8-a482c6afcddf
 Name: Tiergeist (Mammut)
 title: Tiergeist (Mammut)
 Kategorie: Tiergeist
@@ -8,11 +8,11 @@ Voraussetzungen:
   - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
   - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
 Querverweise:
-  - "[[Inhalt/Talente/Zauber/Ängste lindern|Ängste lindern]]"
-  - "[[Inhalt/Talente/Zauber/Armatrutz|Armatrutz]]"
-  - "[[Inhalt/Talente/Zauber/Kusch!|Kusch!]]"
-  - "[[Inhalt/Talente/Zauber/Psychostabilis|Psychostabilis]]"
-  - "[[Inhalt/Talente/Zauber/Zaubernahrung Hungerbann|Zaubernahrung Hungerbann]]"
+  - "[[Ängste lindern]]"
+  - "[[Armatrutz]]"
+  - "[[Kusch|Kusch!]]"
+  - "[[Psychostabilis]]"
+  - "[[Zaubernahrung Hungerbann]]"
 Nachkauf: häufig
 Kosten: 0
 ---
@@ -27,6 +27,6 @@ Kosten: 0
 
 - **Kosten:** 0 EP
 - **Voraussetzungen:**
-  - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
-  - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
-- **Siehe auch:** [[Inhalt/Talente/Zauber/Ängste lindern|Ängste lindern]], [[Inhalt/Talente/Zauber/Armatrutz|Armatrutz]], [[Inhalt/Talente/Zauber/Kusch!|Kusch!]], [[Inhalt/Talente/Zauber/Psychostabilis|Psychostabilis]], [[Inhalt/Talente/Zauber/Zaubernahrung Hungerbann|Zaubernahrung Hungerbann]]
+  - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
+  - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
+- **Siehe auch:** [[Ängste lindern]], [[Armatrutz]], [[Kusch|Kusch!]], [[Psychostabilis]], [[Zaubernahrung Hungerbann]]

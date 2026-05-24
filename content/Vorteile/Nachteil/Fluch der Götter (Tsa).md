@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f9ca04e7-3889-4bb6-b4a7-b6992f0ee439
+ID: 15124638-b485-48fb-8de5-c36c99164b77
 Name: Fluch der Götter (Tsa)
 title: Fluch der Götter (Tsa)
 Kategorie: Nachteil
@@ -13,4 +13,5 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Tsa), Empfindlichkeit I (Pflanzen
 ---
 
 - **Kosten:** -200 EP
-- **Voraussetzungen:** Vorteil Vampir I
+- **Voraussetzungen:**
+  - Vorteil [[Vampir I]]

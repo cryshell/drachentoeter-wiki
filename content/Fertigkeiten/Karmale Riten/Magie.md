@@ -1,35 +1,49 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 47f2b42c-d368-479b-9fa1-983e0e13fccd
+ID: 42f0dd3c-a053-4ae9-8e9d-367c7b482cea
 Name: Magie
 title: Magie
 Kategorie: Karmale Riten
 Attribute:
-  - "[[Inhalt/Attribute/IN|IN]]"
-  - "[[Inhalt/Attribute/KL|KL]]"
-  - "[[Inhalt/Attribute/MU|MU]]"
+  - "[[Intuition|IN]]"
+  - "[[Klugheit|KL]]"
+  - "[[Mut|MU]]"
 Steigerungsfaktor: 3
 Talente:
-  - "[[Inhalt/Talente/Liturgien/Argelions Mantel|Argelions Mantel]]"
-  - "[[Inhalt/Talente/Liturgien/Argelions Spiegel|Argelions Spiegel]]"
-  - "[[Inhalt/Talente/Liturgien/Argelions bannende Hand|Argelions bannende Hand]]"
-  - "[[Inhalt/Talente/Liturgien/Blick der Weberin|Blick der Weberin]]"
-  - "[[Inhalt/Talente/Liturgien/Exorzismus|Exorzismus]]"
-  - "[[Inhalt/Talente/Liturgien/Ingalfs Alchemie|Ingalfs Alchemie]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Alchemie|Mirakel: Alchemie]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: IN|Mirakel: IN]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: MR|Mirakel: MR]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Magiekunde|Mirakel: Magiekunde]]"
-  - "[[Inhalt/Talente/Liturgien/Purgation|Purgation]]"
-  - "[[Inhalt/Talente/Liturgien/Sicht auf Madas Welt|Sicht auf Madas Welt]]"
-  - "[[Inhalt/Talente/Liturgien/Unverstellter Blick|Unverstellter Blick]]"
+  - "[[Argelions Mantel]]"
+  - "[[Argelions Spiegel]]"
+  - "[[Argelions bannende Hand]]"
+  - "[[Blick der Weberin]]"
+  - "[[Exorzismus]]"
+  - "[[Ingalfs Alchemie]]"
+  - "[[Mirakel Alchemie|Mirakel: Alchemie]]"
+  - "[[Mirakel IN|Mirakel: IN]]"
+  - "[[Mirakel MR|Mirakel: MR]]"
+  - "[[Mirakel Magiekunde|Mirakel: Magiekunde]]"
+  - "[[Purgation]]"
+  - "[[Sicht auf Madas Welt]]"
+  - "[[Unverstellter Blick]]"
 Voraussetzungen: Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der H’Szintgeweihten I
 ---
 Hesinde gilt als Schutzpatronin der Magie und nicht wenige Geweihte, gerade unter den Draconitern, gelten als Experten in diesem Gebiet.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/IN|IN]], [[Inhalt/Attribute/KL|KL]], [[Inhalt/Attribute/MU|MU]]
+- **Attribute:** [[Intuition|IN]], [[Klugheit|KL]], [[Mut|MU]]
 - **Steigerungsfaktor:** 3
-- **Talente:** [[Inhalt/Talente/Liturgien/Argelions Mantel|Argelions Mantel]], [[Inhalt/Talente/Liturgien/Argelions Spiegel|Argelions Spiegel]], [[Inhalt/Talente/Liturgien/Argelions bannende Hand|Argelions bannende Hand]], [[Inhalt/Talente/Liturgien/Blick der Weberin|Blick der Weberin]], [[Inhalt/Talente/Liturgien/Exorzismus|Exorzismus]], [[Inhalt/Talente/Liturgien/Ingalfs Alchemie|Ingalfs Alchemie]], [[Inhalt/Talente/Liturgien/Mirakel: Alchemie|Mirakel: Alchemie]], [[Inhalt/Talente/Liturgien/Mirakel: IN|Mirakel: IN]], [[Inhalt/Talente/Liturgien/Mirakel: MR|Mirakel: MR]], [[Inhalt/Talente/Liturgien/Mirakel: Magiekunde|Mirakel: Magiekunde]], [[Inhalt/Talente/Liturgien/Purgation|Purgation]], [[Inhalt/Talente/Liturgien/Sicht auf Madas Welt|Sicht auf Madas Welt]], [[Inhalt/Talente/Liturgien/Unverstellter Blick|Unverstellter Blick]]
-- **Voraussetzungen:** Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der H’Szintgeweihten I
+- **Talente:**
+  - [[Argelions Mantel]]
+  - [[Argelions Spiegel]]
+  - [[Argelions bannende Hand]]
+  - [[Blick der Weberin]]
+  - [[Exorzismus]]
+  - [[Ingalfs Alchemie]]
+  - [[Mirakel Alchemie|Mirakel: Alchemie]]
+  - [[Mirakel IN|Mirakel: IN]]
+  - [[Mirakel MR|Mirakel: MR]]
+  - [[Mirakel Magiekunde|Mirakel: Magiekunde]]
+  - [[Purgation]]
+  - [[Sicht auf Madas Welt]]
+  - [[Unverstellter Blick]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der H’Szintgeweihten I]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e4e358a3-9ea6-4d9f-9663-e94016b16003
+ID: cdefd81b-c27c-4cc5-96ae-1d82a859c1a3
 Name: "Tradition der Sattler & Kürschner III"
 title: "Tradition der Sattler & Kürschner III"
 Kategorie: Tradition (Profan)
@@ -8,7 +8,7 @@ Voraussetzungen:
   - Attribut FF 8
   - "Vorteil Tradition der Sattler & Kürschner II"
 Querverweise:
-  - "[[Inhalt/Kapitel/Tarnen|Tarnen]]"
+  - "[[Tarnen]]"
 Nachkauf: häufig
 Kosten: 20
 ---
@@ -18,6 +18,6 @@ Du kannst Iryanleder (Südaventurien) und Drachenleder (Zwerge) verarbeiten. Erm
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut FF 8"
-  - "Vorteil Tradition der Sattler & Kürschner II"
-- **Siehe auch:** [[Inhalt/Kapitel/Tarnen|Tarnen]]
+  - Attribut [[Fingerfertigkeit|FF]] 8
+  - Vorteil [[Tradition der Sattler & Kürschner II]]
+- **Siehe auch:** [[Tarnen]]

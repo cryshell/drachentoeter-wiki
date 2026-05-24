@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f69bf36a-7628-4fd3-84ca-a6f87ac17c80
+ID: b930347d-9320-4443-a612-1d332f917151
 Name: Tradition der Scharlatane IV
 title: Tradition der Scharlatane IV
 Kategorie: Tradition (Magisch)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut CH 10"
-  - "Vorteil Tradition der Scharlatane III"
+  - MeisterAttribut [[Charisma|CH]] 10
+  - Vorteil [[Tradition der Scharlatane III]]

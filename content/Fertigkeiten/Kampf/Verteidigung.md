@@ -1,22 +1,24 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 6ee1161d-93db-4941-94e4-acc6f9617207
+ID: d9d2d844-d068-4cd2-b7e3-a7020c0aa841
 Name: Verteidigung
 title: Verteidigung
 Kategorie: Kampf
 Attribute:
-  - "[[Inhalt/Attribute/GE|GE]]"
-  - "[[Inhalt/Attribute/KK|KK]]"
-  - "[[Inhalt/Attribute/IN|IN]]"
+  - "[[Gewandheit|GE]]"
+  - "[[Körperkraft|KK]]"
+  - "[[Intuition|IN]]"
 Steigerungsfaktor: 4
 Talente:
-  - "[[Inhalt/Talente/Profan/Verteidigung/Ausweichen|Ausweichen]]"
-  - "[[Inhalt/Talente/Profan/Verteidigung/Parade|Parade]]"
+  - "[[Ausweichen]]"
+  - "[[Parade]]"
 ---
 Wer in Verteidigung geübt ist, kann Angriffen geschickt ausweichen oder sie mit einer Waffe parieren. Verteidigungen werden immer passiv geprobt.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/GE|GE]], [[Inhalt/Attribute/KK|KK]], [[Inhalt/Attribute/IN|IN]]
+- **Attribute:** [[Gewandheit|GE]], [[Körperkraft|KK]], [[Intuition|IN]]
 - **Steigerungsfaktor:** 4
-- **Talente:** [[Inhalt/Talente/Profan/Verteidigung/Ausweichen|Ausweichen]], [[Inhalt/Talente/Profan/Verteidigung/Parade|Parade]]
+- **Talente:**
+  - [[Ausweichen]]
+  - [[Parade]]

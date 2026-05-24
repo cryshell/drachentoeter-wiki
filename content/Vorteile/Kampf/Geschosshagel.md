@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 89b0ec6d-c4a1-4d70-852d-7d841af71533
+ID: 51329926-44eb-4119-85d4-e63a430aafd1
 Name: Geschosshagel
 title: Geschosshagel
 Kategorie: Kampf
@@ -8,7 +8,7 @@ Voraussetzungen:
   - Attribut FF 10
   - Vorteil Schnellziehen
 Querverweise:
-  - "[[Inhalt/Kapitel/Fernkampf|Fernkampf]]"
+  - "[[Fernkampf]]"
 Nachkauf: häufig
 Kosten: 80
 ---
@@ -18,6 +18,6 @@ Du kannst in einer Aktion Angriff zwei Fernkampfangriffe gegen unterschiedliche 
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "Attribut FF 10"
-  - "Vorteil Schnellziehen"
-- **Siehe auch:** [[Inhalt/Kapitel/Fernkampf|Fernkampf]]
+  - Attribut [[Fingerfertigkeit|FF]] 10
+  - Vorteil [[Schnellziehen]]
+- **Siehe auch:** [[Fernkampf]]

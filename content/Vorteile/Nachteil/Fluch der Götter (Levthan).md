@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e1b7f005-926c-4fdb-9dc5-5043fe4f1eea
+ID: dabb8061-2389-4110-9c80-2b8cb7a7a9fd
 Name: Fluch der Götter (Levthan)
 title: Fluch der Götter (Levthan)
 Kategorie: Nachteil
@@ -13,4 +13,5 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Levthan), Empfindlichkeit I (Pfla
 ---
 
 - **Kosten:** -200 EP
-- **Voraussetzungen:** Vorteil Vampir I
+- **Voraussetzungen:**
+  - Vorteil [[Vampir I]]

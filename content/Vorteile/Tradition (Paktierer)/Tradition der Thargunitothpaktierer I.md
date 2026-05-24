@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e38dc4b3-7f1b-42e3-a05b-bef04a3e9a4b
+ID: 1b51542a-9f9b-40f3-b3b4-f6e6bcfca647
 Name: Tradition der Thargunitothpaktierer I
 title: Tradition der Thargunitothpaktierer I
 Kategorie: Tradition (Paktierer)
@@ -19,6 +19,6 @@ Dämonische Kräfte sind chaotisch, Anrufungsproben werden mit 1W20 gewürfelt.
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut MU 4"
-  - "Vorteil Paktierer I"
-  - "Kein Vorteil Tradition der *paktierer I"
+  - Attribut [[Mut|MU]] 4
+  - Vorteil [[Paktierer I]]
+  - Kein Vorteil Tradition der *paktierer I

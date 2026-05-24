@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 5fe56089-7448-4701-8c54-1a6ff5192491
+ID: e0850d41-c661-4f29-b565-b22052f99874
 Name: Tradition der Derwische IV
 title: Tradition der Derwische IV
 Kategorie: Tradition (Magisch)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut FF 10"
-  - "Vorteil Tradition der Derwische III"
+  - MeisterAttribut [[Fingerfertigkeit|FF]] 10
+  - Vorteil [[Tradition der Derwische III]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: cf5f2839-3145-4924-a68e-7dfaca927948
+ID: ae5c4c06-3f7c-4406-b80e-dc0ca1e199b1
 Name: Schildkampf III
 title: Schildkampf III
 Kategorie: Kampfstil
@@ -8,7 +8,7 @@ Voraussetzungen:
   - Attribut KK 8 ODER Attribut IN 8
   - Vorteil Schildkampf II
 Querverweise:
-  - "[[Inhalt/Kapitel/Reaktion|Reaktion]]"
+  - "[[Reaktion]]"
 Nachkauf: häufig
 Kosten: 60
 ---
@@ -18,6 +18,6 @@ Schildwall: Wenn ein anderes Wesen innerhalb von 1 Schritt getroffen wird, kanns
 
 - **Kosten:** 60 EP
 - **Voraussetzungen:**
-  - "Attribut KK 8 ODER Attribut IN 8"
-  - "Vorteil Schildkampf II"
-- **Siehe auch:** [[Inhalt/Kapitel/Reaktion|Reaktion]]
+  - Attribut KK 8 ODER Attribut IN 8
+  - Vorteil [[Schildkampf II]]
+- **Siehe auch:** [[Reaktion]]

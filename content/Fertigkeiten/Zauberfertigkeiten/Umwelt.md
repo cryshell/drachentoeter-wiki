@@ -1,103 +1,185 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: bd7cf81b-9110-4ae4-9b4f-076c18dde6b9
+ID: d9950474-f746-4526-9ba4-25cc2efe44de
 Name: Umwelt
 title: Umwelt
 Kategorie: Zauberfertigkeiten
 Attribute:
-  - "[[Inhalt/Attribute/KK|KK]]"
-  - "[[Inhalt/Attribute/KL|KL]]"
-  - "[[Inhalt/Attribute/MU|MU]]"
+  - "[[Körperkraft|KK]]"
+  - "[[Klugheit|KL]]"
+  - "[[Mut|MU]]"
 Steigerungsfaktor: 3
 Talente:
-  - "[[Inhalt/Talente/Zauber/Aeolitus Windgebraus|Aeolitus Windgebraus]]"
-  - "[[Inhalt/Talente/Zauber/Aerofugo Vakuum|Aerofugo Vakuum]]"
-  - "[[Inhalt/Talente/Zauber/Aerogelo Atemqual|Aerogelo Atemqual]]"
-  - "[[Inhalt/Talente/Zauber/Animatio stummer Diener|Animatio stummer Diener]]"
-  - "[[Inhalt/Talente/Zauber/Apport der Keule|Apport der Keule]]"
-  - "[[Inhalt/Talente/Zauber/Apport der Kugel|Apport der Kugel]]"
-  - "[[Inhalt/Talente/Zauber/Apport der Schale|Apport der Schale]]"
-  - "[[Inhalt/Talente/Zauber/Apport des Bannschwerts|Apport des Bannschwerts]]"
-  - "[[Inhalt/Talente/Zauber/Apport des Dolches|Apport des Dolches]]"
-  - "[[Inhalt/Talente/Zauber/Apport des Iama|Apport des Iama]]"
-  - "[[Inhalt/Talente/Zauber/Apport des Schuppenbeutels|Apport des Schuppenbeutels]]"
-  - "[[Inhalt/Talente/Zauber/Apport des Stabs|Apport des Stabs]]"
-  - "[[Inhalt/Talente/Zauber/Arngrimms Höhle|Arngrimms Höhle]]"
-  - "[[Inhalt/Talente/Zauber/Aufgeblasen abgehoben|Aufgeblasen abgehoben]]"
-  - "[[Inhalt/Talente/Zauber/Caldofrigo heiß und kalt|Caldofrigo heiß und kalt]]"
-  - "[[Inhalt/Talente/Zauber/Dunkelheit|Dunkelheit]]"
-  - "[[Inhalt/Talente/Zauber/Eiswirbel|Eiswirbel]]"
-  - "[[Inhalt/Talente/Zauber/Feuersturm|Feuersturm]]"
-  - "[[Inhalt/Talente/Zauber/Finsterrune|Finsterrune]]"
-  - "[[Inhalt/Talente/Zauber/Flammenschwert|Flammenschwert]]"
-  - "[[Inhalt/Talente/Zauber/Flim Flam Funkel|Flim Flam Funkel]]"
-  - "[[Inhalt/Talente/Zauber/Foramen Foraminor|Foramen Foraminor]]"
-  - "[[Inhalt/Talente/Zauber/Fortifex arkane Wand|Fortifex arkane Wand]]"
-  - "[[Inhalt/Talente/Zauber/Gestalt aus Rauch|Gestalt aus Rauch]]"
-  - "[[Inhalt/Talente/Zauber/Glacoflumen Fluss aus Eis|Glacoflumen Fluss aus Eis]]"
-  - "[[Inhalt/Talente/Zauber/Hagelschlag|Hagelschlag]]"
-  - "[[Inhalt/Talente/Zauber/Hammer des Magus|Hammer des Magus]]"
-  - "[[Inhalt/Talente/Zauber/Hexenholz|Hexenholz]]"
-  - "[[Inhalt/Talente/Zauber/Holterdipolter|Holterdipolter]]"
-  - "[[Inhalt/Talente/Zauber/Ignifugo Feuerbann|Ignifugo Feuerbann]]"
-  - "[[Inhalt/Talente/Zauber/Klickeradomms|Klickeradomms]]"
-  - "[[Inhalt/Talente/Zauber/Kulminatio Kugelblitz|Kulminatio Kugelblitz]]"
-  - "[[Inhalt/Talente/Zauber/Langer Arm|Langer Arm]]"
-  - "[[Inhalt/Talente/Zauber/Leuchtendes Zeichen|Leuchtendes Zeichen]]"
-  - "[[Inhalt/Talente/Zauber/Lied der Reinheit|Lied der Reinheit]]"
-  - "[[Inhalt/Talente/Zauber/Lockruf und Feenfüße|Lockruf und Feenfüße]]"
-  - "[[Inhalt/Talente/Zauber/Macht über den Regen|Macht über den Regen]]"
-  - "[[Inhalt/Talente/Zauber/Magnetismus|Magnetismus]]"
-  - "[[Inhalt/Talente/Zauber/Mahlstrom|Mahlstrom]]"
-  - "[[Inhalt/Talente/Zauber/Malmkreis|Malmkreis]]"
-  - "[[Inhalt/Talente/Zauber/Manus Miracula|Manus Miracula]]"
-  - "[[Inhalt/Talente/Zauber/Motoricus Geisterhand|Motoricus Geisterhand]]"
-  - "[[Inhalt/Talente/Zauber/Nackedei|Nackedei]]"
-  - "[[Inhalt/Talente/Zauber/Nebelrune|Nebelrune]]"
-  - "[[Inhalt/Talente/Zauber/Nebelwand und Morgendunst|Nebelwand und Morgendunst]]"
-  - "[[Inhalt/Talente/Zauber/Nihilogravo Schwerelos|Nihilogravo Schwerelos]]"
-  - "[[Inhalt/Talente/Zauber/Radau|Radau]]"
-  - "[[Inhalt/Talente/Zauber/Regentanz|Regentanz]]"
-  - "[[Inhalt/Talente/Zauber/Reinigung|Reinigung]]"
-  - "[[Inhalt/Talente/Zauber/Rikais Fluch|Rikais Fluch]]"
-  - "[[Inhalt/Talente/Zauber/Sapefacta Zauberschwamm|Sapefacta Zauberschwamm]]"
-  - "[[Inhalt/Talente/Zauber/Schelmenkleister|Schelmenkleister]]"
-  - "[[Inhalt/Talente/Zauber/Schutz des Dolches|Schutz des Dolches]]"
-  - "[[Inhalt/Talente/Zauber/Seil des Adepten|Seil des Adepten]]"
-  - "[[Inhalt/Talente/Zauber/Siegel der Stille|Siegel der Stille]]"
-  - "[[Inhalt/Talente/Zauber/Siegel der ewigen Ruhe|Siegel der ewigen Ruhe]]"
-  - "[[Inhalt/Talente/Zauber/Sigille der Schatten|Sigille der Schatten]]"
-  - "[[Inhalt/Talente/Zauber/Sigille des unsichtbaren Weges|Sigille des unsichtbaren Weges]]"
-  - "[[Inhalt/Talente/Zauber/Silentium Schweigekreis|Silentium Schweigekreis]]"
-  - "[[Inhalt/Talente/Zauber/Solidirid Weg aus Licht|Solidirid Weg aus Licht]]"
-  - "[[Inhalt/Talente/Zauber/Spurlos Trittlos|Spurlos Trittlos]]"
-  - "[[Inhalt/Talente/Zauber/Stabbohrer|Stabbohrer]]"
-  - "[[Inhalt/Talente/Zauber/Stabfixierung|Stabfixierung]]"
-  - "[[Inhalt/Talente/Zauber/Stillstand|Stillstand]]"
-  - "[[Inhalt/Talente/Zauber/Sturmlied|Sturmlied]]"
-  - "[[Inhalt/Talente/Zauber/Suchende Finger|Suchende Finger]]"
-  - "[[Inhalt/Talente/Zauber/Sumpfstrudel|Sumpfstrudel]]"
-  - "[[Inhalt/Talente/Zauber/Tauschrausch|Tauschrausch]]"
-  - "[[Inhalt/Talente/Zauber/Telekineseschlag|Telekineseschlag]]"
-  - "[[Inhalt/Talente/Zauber/Tiere aus Farben|Tiere aus Farben]]"
-  - "[[Inhalt/Talente/Zauber/Verschwindibus|Verschwindibus]]"
-  - "[[Inhalt/Talente/Zauber/Veränderung aufheben|Veränderung aufheben]]"
-  - "[[Inhalt/Talente/Zauber/Weg des Dolches|Weg des Dolches]]"
-  - "[[Inhalt/Talente/Zauber/Weiches Erstarre!|Weiches Erstarre!]]"
-  - "[[Inhalt/Talente/Zauber/Weiches Erstarre! (Dämonisch)|Weiches Erstarre! (Dämonisch)]]"
-  - "[[Inhalt/Talente/Zauber/Wettermeisterschaft|Wettermeisterschaft]]"
-  - "[[Inhalt/Talente/Zauber/Windhose|Windhose]]"
-  - "[[Inhalt/Talente/Zauber/Windstille|Windstille]]"
-  - "[[Inhalt/Talente/Zauber/Wogensturmrune|Wogensturmrune]]"
-  - "[[Inhalt/Talente/Zauber/Zappenduster|Zappenduster]]"
-  - "[[Inhalt/Talente/Zauber/Zeichen des Stillstands|Zeichen des Stillstands]]"
+  - "[[Aeolitus Windgebraus]]"
+  - "[[Aerofugo Vakuum]]"
+  - "[[Aerogelo Atemqual]]"
+  - "[[Animatio stummer Diener]]"
+  - "[[Apport der Keule]]"
+  - "[[Apport der Kugel]]"
+  - "[[Apport der Schale]]"
+  - "[[Apport des Bannschwerts]]"
+  - "[[Apport des Dolches]]"
+  - "[[Apport des Iama]]"
+  - "[[Apport des Schuppenbeutels]]"
+  - "[[Apport des Stabs]]"
+  - "[[Arngrimms Höhle]]"
+  - "[[Aufgeblasen abgehoben]]"
+  - "[[Caldofrigo heiß und kalt]]"
+  - "[[Dunkelheit]]"
+  - "[[Eiswirbel]]"
+  - "[[Feuersturm]]"
+  - "[[Finsterrune]]"
+  - "[[Flammenschwert]]"
+  - "[[Flim Flam Funkel]]"
+  - "[[Foramen Foraminor]]"
+  - "[[Fortifex arkane Wand]]"
+  - "[[Gestalt aus Rauch]]"
+  - "[[Glacoflumen Fluss aus Eis]]"
+  - "[[Hagelschlag]]"
+  - "[[Hammer des Magus]]"
+  - "[[Hexenholz]]"
+  - "[[Holterdipolter]]"
+  - "[[Ignifugo Feuerbann]]"
+  - "[[Klickeradomms]]"
+  - "[[Kulminatio Kugelblitz]]"
+  - "[[Langer Arm]]"
+  - "[[Leuchtendes Zeichen]]"
+  - "[[Lied der Reinheit]]"
+  - "[[Lockruf und Feenfüße]]"
+  - "[[Macht über den Regen]]"
+  - "[[Magnetismus]]"
+  - "[[Mahlstrom]]"
+  - "[[Malmkreis]]"
+  - "[[Manus Miracula]]"
+  - "[[Motoricus Geisterhand]]"
+  - "[[Nackedei]]"
+  - "[[Nebelrune]]"
+  - "[[Nebelwand und Morgendunst]]"
+  - "[[Nihilogravo Schwerelos]]"
+  - "[[Radau]]"
+  - "[[Regentanz]]"
+  - "[[Reinigung]]"
+  - "[[Rikais Fluch]]"
+  - "[[Sapefacta Zauberschwamm]]"
+  - "[[Schelmenkleister]]"
+  - "[[Schutz des Dolches]]"
+  - "[[Seil des Adepten]]"
+  - "[[Siegel der Stille]]"
+  - "[[Siegel der ewigen Ruhe]]"
+  - "[[Sigille der Schatten]]"
+  - "[[Sigille des unsichtbaren Weges]]"
+  - "[[Silentium Schweigekreis]]"
+  - "[[Solidirid Weg aus Licht]]"
+  - "[[Spurlos Trittlos]]"
+  - "[[Stabbohrer]]"
+  - "[[Stabfixierung]]"
+  - "[[Stillstand]]"
+  - "[[Sturmlied]]"
+  - "[[Suchende Finger]]"
+  - "[[Sumpfstrudel]]"
+  - "[[Tauschrausch]]"
+  - "[[Telekineseschlag]]"
+  - "[[Tiere aus Farben]]"
+  - "[[Verschwindibus]]"
+  - "[[Veränderung aufheben]]"
+  - "[[Weg des Dolches]]"
+  - "[[Weiches Erstarre|Weiches Erstarre!]]"
+  - "[[Weiches Erstarre (Dämonisch)|Weiches Erstarre! (Dämonisch)]]"
+  - "[[Wettermeisterschaft]]"
+  - "[[Windhose]]"
+  - "[[Windstille]]"
+  - "[[Wogensturmrune]]"
+  - "[[Zappenduster]]"
+  - "[[Zeichen des Stillstands]]"
 Voraussetzungen: Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Shakagra I
 ---
 Mit Umweltzaubern kannst du deine direkte Umgebung - also Wetter, Helligkeit oder Schwerkraft - verändern oder mittels Telekinese Gegenstände bewegen.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/KK|KK]], [[Inhalt/Attribute/KL|KL]], [[Inhalt/Attribute/MU|MU]]
+- **Attribute:** [[Körperkraft|KK]], [[Klugheit|KL]], [[Mut|MU]]
 - **Steigerungsfaktor:** 3
-- **Talente:** [[Inhalt/Talente/Zauber/Aeolitus Windgebraus|Aeolitus Windgebraus]], [[Inhalt/Talente/Zauber/Aerofugo Vakuum|Aerofugo Vakuum]], [[Inhalt/Talente/Zauber/Aerogelo Atemqual|Aerogelo Atemqual]], [[Inhalt/Talente/Zauber/Animatio stummer Diener|Animatio stummer Diener]], [[Inhalt/Talente/Zauber/Apport der Keule|Apport der Keule]], [[Inhalt/Talente/Zauber/Apport der Kugel|Apport der Kugel]], [[Inhalt/Talente/Zauber/Apport der Schale|Apport der Schale]], [[Inhalt/Talente/Zauber/Apport des Bannschwerts|Apport des Bannschwerts]], [[Inhalt/Talente/Zauber/Apport des Dolches|Apport des Dolches]], [[Inhalt/Talente/Zauber/Apport des Iama|Apport des Iama]], [[Inhalt/Talente/Zauber/Apport des Schuppenbeutels|Apport des Schuppenbeutels]], [[Inhalt/Talente/Zauber/Apport des Stabs|Apport des Stabs]], [[Inhalt/Talente/Zauber/Arngrimms Höhle|Arngrimms Höhle]], [[Inhalt/Talente/Zauber/Aufgeblasen abgehoben|Aufgeblasen abgehoben]], [[Inhalt/Talente/Zauber/Caldofrigo heiß und kalt|Caldofrigo heiß und kalt]], [[Inhalt/Talente/Zauber/Dunkelheit|Dunkelheit]], [[Inhalt/Talente/Zauber/Eiswirbel|Eiswirbel]], [[Inhalt/Talente/Zauber/Feuersturm|Feuersturm]], [[Inhalt/Talente/Zauber/Finsterrune|Finsterrune]], [[Inhalt/Talente/Zauber/Flammenschwert|Flammenschwert]], [[Inhalt/Talente/Zauber/Flim Flam Funkel|Flim Flam Funkel]], [[Inhalt/Talente/Zauber/Foramen Foraminor|Foramen Foraminor]], [[Inhalt/Talente/Zauber/Fortifex arkane Wand|Fortifex arkane Wand]], [[Inhalt/Talente/Zauber/Gestalt aus Rauch|Gestalt aus Rauch]], [[Inhalt/Talente/Zauber/Glacoflumen Fluss aus Eis|Glacoflumen Fluss aus Eis]], [[Inhalt/Talente/Zauber/Hagelschlag|Hagelschlag]], [[Inhalt/Talente/Zauber/Hammer des Magus|Hammer des Magus]], [[Inhalt/Talente/Zauber/Hexenholz|Hexenholz]], [[Inhalt/Talente/Zauber/Holterdipolter|Holterdipolter]], [[Inhalt/Talente/Zauber/Ignifugo Feuerbann|Ignifugo Feuerbann]], [[Inhalt/Talente/Zauber/Klickeradomms|Klickeradomms]], [[Inhalt/Talente/Zauber/Kulminatio Kugelblitz|Kulminatio Kugelblitz]], [[Inhalt/Talente/Zauber/Langer Arm|Langer Arm]], [[Inhalt/Talente/Zauber/Leuchtendes Zeichen|Leuchtendes Zeichen]], [[Inhalt/Talente/Zauber/Lied der Reinheit|Lied der Reinheit]], [[Inhalt/Talente/Zauber/Lockruf und Feenfüße|Lockruf und Feenfüße]], [[Inhalt/Talente/Zauber/Macht über den Regen|Macht über den Regen]], [[Inhalt/Talente/Zauber/Magnetismus|Magnetismus]], [[Inhalt/Talente/Zauber/Mahlstrom|Mahlstrom]], [[Inhalt/Talente/Zauber/Malmkreis|Malmkreis]], [[Inhalt/Talente/Zauber/Manus Miracula|Manus Miracula]], [[Inhalt/Talente/Zauber/Motoricus Geisterhand|Motoricus Geisterhand]], [[Inhalt/Talente/Zauber/Nackedei|Nackedei]], [[Inhalt/Talente/Zauber/Nebelrune|Nebelrune]], [[Inhalt/Talente/Zauber/Nebelwand und Morgendunst|Nebelwand und Morgendunst]], [[Inhalt/Talente/Zauber/Nihilogravo Schwerelos|Nihilogravo Schwerelos]], [[Inhalt/Talente/Zauber/Radau|Radau]], [[Inhalt/Talente/Zauber/Regentanz|Regentanz]], [[Inhalt/Talente/Zauber/Reinigung|Reinigung]], [[Inhalt/Talente/Zauber/Rikais Fluch|Rikais Fluch]], [[Inhalt/Talente/Zauber/Sapefacta Zauberschwamm|Sapefacta Zauberschwamm]], [[Inhalt/Talente/Zauber/Schelmenkleister|Schelmenkleister]], [[Inhalt/Talente/Zauber/Schutz des Dolches|Schutz des Dolches]], [[Inhalt/Talente/Zauber/Seil des Adepten|Seil des Adepten]], [[Inhalt/Talente/Zauber/Siegel der Stille|Siegel der Stille]], [[Inhalt/Talente/Zauber/Siegel der ewigen Ruhe|Siegel der ewigen Ruhe]], [[Inhalt/Talente/Zauber/Sigille der Schatten|Sigille der Schatten]], [[Inhalt/Talente/Zauber/Sigille des unsichtbaren Weges|Sigille des unsichtbaren Weges]], [[Inhalt/Talente/Zauber/Silentium Schweigekreis|Silentium Schweigekreis]], [[Inhalt/Talente/Zauber/Solidirid Weg aus Licht|Solidirid Weg aus Licht]], [[Inhalt/Talente/Zauber/Spurlos Trittlos|Spurlos Trittlos]], [[Inhalt/Talente/Zauber/Stabbohrer|Stabbohrer]], [[Inhalt/Talente/Zauber/Stabfixierung|Stabfixierung]], [[Inhalt/Talente/Zauber/Stillstand|Stillstand]], [[Inhalt/Talente/Zauber/Sturmlied|Sturmlied]], [[Inhalt/Talente/Zauber/Suchende Finger|Suchende Finger]], [[Inhalt/Talente/Zauber/Sumpfstrudel|Sumpfstrudel]], [[Inhalt/Talente/Zauber/Tauschrausch|Tauschrausch]], [[Inhalt/Talente/Zauber/Telekineseschlag|Telekineseschlag]], [[Inhalt/Talente/Zauber/Tiere aus Farben|Tiere aus Farben]], [[Inhalt/Talente/Zauber/Verschwindibus|Verschwindibus]], [[Inhalt/Talente/Zauber/Veränderung aufheben|Veränderung aufheben]], [[Inhalt/Talente/Zauber/Weg des Dolches|Weg des Dolches]], [[Inhalt/Talente/Zauber/Weiches Erstarre!|Weiches Erstarre!]], [[Inhalt/Talente/Zauber/Weiches Erstarre! (Dämonisch)|Weiches Erstarre! (Dämonisch)]], [[Inhalt/Talente/Zauber/Wettermeisterschaft|Wettermeisterschaft]], [[Inhalt/Talente/Zauber/Windhose|Windhose]], [[Inhalt/Talente/Zauber/Windstille|Windstille]], [[Inhalt/Talente/Zauber/Wogensturmrune|Wogensturmrune]], [[Inhalt/Talente/Zauber/Zappenduster|Zappenduster]], [[Inhalt/Talente/Zauber/Zeichen des Stillstands|Zeichen des Stillstands]]
-- **Voraussetzungen:** Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Shakagra I
+- **Talente:**
+  - [[Aeolitus Windgebraus]]
+  - [[Aerofugo Vakuum]]
+  - [[Aerogelo Atemqual]]
+  - [[Animatio stummer Diener]]
+  - [[Apport der Keule]]
+  - [[Apport der Kugel]]
+  - [[Apport der Schale]]
+  - [[Apport des Bannschwerts]]
+  - [[Apport des Dolches]]
+  - [[Apport des Iama]]
+  - [[Apport des Schuppenbeutels]]
+  - [[Apport des Stabs]]
+  - [[Arngrimms Höhle]]
+  - [[Aufgeblasen abgehoben]]
+  - [[Caldofrigo heiß und kalt]]
+  - [[Dunkelheit]]
+  - [[Eiswirbel]]
+  - [[Feuersturm]]
+  - [[Finsterrune]]
+  - [[Flammenschwert]]
+  - [[Flim Flam Funkel]]
+  - [[Foramen Foraminor]]
+  - [[Fortifex arkane Wand]]
+  - [[Gestalt aus Rauch]]
+  - [[Glacoflumen Fluss aus Eis]]
+  - [[Hagelschlag]]
+  - [[Hammer des Magus]]
+  - [[Hexenholz]]
+  - [[Holterdipolter]]
+  - [[Ignifugo Feuerbann]]
+  - [[Klickeradomms]]
+  - [[Kulminatio Kugelblitz]]
+  - [[Langer Arm]]
+  - [[Leuchtendes Zeichen]]
+  - [[Lied der Reinheit]]
+  - [[Lockruf und Feenfüße]]
+  - [[Macht über den Regen]]
+  - [[Magnetismus]]
+  - [[Mahlstrom]]
+  - [[Malmkreis]]
+  - [[Manus Miracula]]
+  - [[Motoricus Geisterhand]]
+  - [[Nackedei]]
+  - [[Nebelrune]]
+  - [[Nebelwand und Morgendunst]]
+  - [[Nihilogravo Schwerelos]]
+  - [[Radau]]
+  - [[Regentanz]]
+  - [[Reinigung]]
+  - [[Rikais Fluch]]
+  - [[Sapefacta Zauberschwamm]]
+  - [[Schelmenkleister]]
+  - [[Schutz des Dolches]]
+  - [[Seil des Adepten]]
+  - [[Siegel der Stille]]
+  - [[Siegel der ewigen Ruhe]]
+  - [[Sigille der Schatten]]
+  - [[Sigille des unsichtbaren Weges]]
+  - [[Silentium Schweigekreis]]
+  - [[Solidirid Weg aus Licht]]
+  - [[Spurlos Trittlos]]
+  - [[Stabbohrer]]
+  - [[Stabfixierung]]
+  - [[Stillstand]]
+  - [[Sturmlied]]
+  - [[Suchende Finger]]
+  - [[Sumpfstrudel]]
+  - [[Tauschrausch]]
+  - [[Telekineseschlag]]
+  - [[Tiere aus Farben]]
+  - [[Verschwindibus]]
+  - [[Veränderung aufheben]]
+  - [[Weg des Dolches]]
+  - [[Weiches Erstarre|Weiches Erstarre!]]
+  - [[Weiches Erstarre (Dämonisch)|Weiches Erstarre! (Dämonisch)]]
+  - [[Wettermeisterschaft]]
+  - [[Windhose]]
+  - [[Windstille]]
+  - [[Wogensturmrune]]
+  - [[Zappenduster]]
+  - [[Zeichen des Stillstands]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Shakagra I]]

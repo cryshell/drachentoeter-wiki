@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: eff2058a-c5ce-4337-bd6e-39c280f076f0
+ID: 63acb886-c898-4a91-9f10-7c6caf40b3e9
 Name: Kraftvoller Kampf IV
 title: Kraftvoller Kampf IV
 Kategorie: Kampfstil
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut KK 10"
-  - "Vorteil Kraftvoller Kampf III"
+  - MeisterAttribut [[Körperkraft|KK]] 10
+  - Vorteil [[Kraftvoller Kampf III]]

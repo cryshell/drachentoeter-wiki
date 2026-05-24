@@ -1,40 +1,59 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: aff5962e-d879-40ab-b7f7-b0d5cdc20559
+ID: a9e310f4-2369-4d26-a286-2073509d1c13
 Name: Rausch
 title: Rausch
 Kategorie: Karmale Riten
 Attribute:
-  - "[[Inhalt/Attribute/CH|CH]]"
-  - "[[Inhalt/Attribute/GE|GE]]"
-  - "[[Inhalt/Attribute/IN|IN]]"
+  - "[[Charisma|CH]]"
+  - "[[Gewandheit|GE]]"
+  - "[[Intuition|IN]]"
 Steigerungsfaktor: 3
 Talente:
-  - "[[Inhalt/Talente/Liturgien/Ascandears Hingabe|Ascandears Hingabe]]"
-  - "[[Inhalt/Talente/Liturgien/Ein Bild für die Ewigkeit|Ein Bild für die Ewigkeit]]"
-  - "[[Inhalt/Talente/Liturgien/Entfesselnder Rausch|Entfesselnder Rausch]]"
-  - "[[Inhalt/Talente/Liturgien/Göttliche Freiheit|Göttliche Freiheit]]"
-  - "[[Inhalt/Talente/Liturgien/Harmonischer Rausch|Harmonischer Rausch]]"
-  - "[[Inhalt/Talente/Liturgien/Levthans Fesseln|Levthans Fesseln]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Darbietung|Mirakel: Darbietung]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: GE|Mirakel: GE]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: MU|Mirakel: MU]]"
-  - "[[Inhalt/Talente/Liturgien/Rahjalinas Kuss|Rahjalinas Kuss]]"
-  - "[[Inhalt/Talente/Liturgien/Rahjalinas Weinranke|Rahjalinas Weinranke]]"
-  - "[[Inhalt/Talente/Liturgien/Rahjas Begehren|Rahjas Begehren]]"
-  - "[[Inhalt/Talente/Liturgien/Rahjas Sinnlichkeit|Rahjas Sinnlichkeit]]"
-  - "[[Inhalt/Talente/Liturgien/Rahjas geheiligter Wein|Rahjas geheiligter Wein]]"
-  - "[[Inhalt/Talente/Liturgien/Rauschsegen|Rauschsegen]]"
-  - "[[Inhalt/Talente/Liturgien/Reichung des Amethyst|Reichung des Amethyst]]"
-  - "[[Inhalt/Talente/Liturgien/Segen der Heiligen Noiona|Segen der Heiligen Noiona]]"
-  - "[[Inhalt/Talente/Liturgien/Tanz der Schwerter|Tanz der Schwerter]]"
+  - "[[Ascandears Hingabe]]"
+  - "[[Ein Bild für die Ewigkeit]]"
+  - "[[Entfesselnder Rausch]]"
+  - "[[Göttliche Freiheit]]"
+  - "[[Harmonischer Rausch]]"
+  - "[[Levthans Fesseln]]"
+  - "[[Mirakel Darbietung|Mirakel: Darbietung]]"
+  - "[[Mirakel GE|Mirakel: GE]]"
+  - "[[Mirakel MU|Mirakel: MU]]"
+  - "[[Rahjalinas Kuss]]"
+  - "[[Rahjalinas Weinranke]]"
+  - "[[Rahjas Begehren]]"
+  - "[[Rahjas Sinnlichkeit]]"
+  - "[[Rahjas geheiligter Wein]]"
+  - "[[Rauschsegen]]"
+  - "[[Reichung des Amethyst]]"
+  - "[[Segen der Heiligen Noiona]]"
+  - "[[Tanz der Schwerter]]"
 Voraussetzungen: Vorteil Tradition der Rahjageweihten I
 ---
 Im tulamidisch geprägten Kult des Ostens suchen die Geweihten die göttliche Ekstase durch Leidenschaft, Drogen oder akrobatische Tänze - denn nur in der Ekstase wird die Seele frei von Hass, Neid und Angst.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/CH|CH]], [[Inhalt/Attribute/GE|GE]], [[Inhalt/Attribute/IN|IN]]
+- **Attribute:** [[Charisma|CH]], [[Gewandheit|GE]], [[Intuition|IN]]
 - **Steigerungsfaktor:** 3
-- **Talente:** [[Inhalt/Talente/Liturgien/Ascandears Hingabe|Ascandears Hingabe]], [[Inhalt/Talente/Liturgien/Ein Bild für die Ewigkeit|Ein Bild für die Ewigkeit]], [[Inhalt/Talente/Liturgien/Entfesselnder Rausch|Entfesselnder Rausch]], [[Inhalt/Talente/Liturgien/Göttliche Freiheit|Göttliche Freiheit]], [[Inhalt/Talente/Liturgien/Harmonischer Rausch|Harmonischer Rausch]], [[Inhalt/Talente/Liturgien/Levthans Fesseln|Levthans Fesseln]], [[Inhalt/Talente/Liturgien/Mirakel: Darbietung|Mirakel: Darbietung]], [[Inhalt/Talente/Liturgien/Mirakel: GE|Mirakel: GE]], [[Inhalt/Talente/Liturgien/Mirakel: MU|Mirakel: MU]], [[Inhalt/Talente/Liturgien/Rahjalinas Kuss|Rahjalinas Kuss]], [[Inhalt/Talente/Liturgien/Rahjalinas Weinranke|Rahjalinas Weinranke]], [[Inhalt/Talente/Liturgien/Rahjas Begehren|Rahjas Begehren]], [[Inhalt/Talente/Liturgien/Rahjas Sinnlichkeit|Rahjas Sinnlichkeit]], [[Inhalt/Talente/Liturgien/Rahjas geheiligter Wein|Rahjas geheiligter Wein]], [[Inhalt/Talente/Liturgien/Rauschsegen|Rauschsegen]], [[Inhalt/Talente/Liturgien/Reichung des Amethyst|Reichung des Amethyst]], [[Inhalt/Talente/Liturgien/Segen der Heiligen Noiona|Segen der Heiligen Noiona]], [[Inhalt/Talente/Liturgien/Tanz der Schwerter|Tanz der Schwerter]]
-- **Voraussetzungen:** Vorteil Tradition der Rahjageweihten I
+- **Talente:**
+  - [[Ascandears Hingabe]]
+  - [[Ein Bild für die Ewigkeit]]
+  - [[Entfesselnder Rausch]]
+  - [[Göttliche Freiheit]]
+  - [[Harmonischer Rausch]]
+  - [[Levthans Fesseln]]
+  - [[Mirakel Darbietung|Mirakel: Darbietung]]
+  - [[Mirakel GE|Mirakel: GE]]
+  - [[Mirakel MU|Mirakel: MU]]
+  - [[Rahjalinas Kuss]]
+  - [[Rahjalinas Weinranke]]
+  - [[Rahjas Begehren]]
+  - [[Rahjas Sinnlichkeit]]
+  - [[Rahjas geheiligter Wein]]
+  - [[Rauschsegen]]
+  - [[Reichung des Amethyst]]
+  - [[Segen der Heiligen Noiona]]
+  - [[Tanz der Schwerter]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rahjageweihten I]]

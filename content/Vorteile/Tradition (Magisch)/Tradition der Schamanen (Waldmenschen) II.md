@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b19884cb-a08a-462f-a14b-bc1d7efc20a3
+ID: bce04c2b-edb3-439f-8397-53245df62e25
 Name: Tradition der Schamanen (Waldmenschen) II
 title: Tradition der Schamanen (Waldmenschen) II
 Kategorie: Tradition (Magisch)
@@ -16,5 +16,5 @@ Schamanen binden oft einen beträchtlichen Teil ihrer Astralenergie in ihre Zaub
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut IN 6"
-  - "Vorteil Tradition der Schamanen (Waldmenschen) I"
+  - Attribut [[Intuition|IN]] 6
+  - Vorteil [[Tradition der Schamanen (Waldmenschen) I]]

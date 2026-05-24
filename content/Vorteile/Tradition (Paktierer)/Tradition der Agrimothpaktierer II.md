@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0f1d0456-7f2f-4d8f-967c-eacece84cae3
+ID: 43217b9c-865f-4729-86c4-86eafdb83f11
 Name: Tradition der Agrimothpaktierer II
 title: Tradition der Agrimothpaktierer II
 Kategorie: Tradition (Paktierer)
@@ -16,5 +16,5 @@ Paktierer werden durch erlittene Wunden eher noch gefährlicher. Der Wundabzug s
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut MU 6"
-  - "Vorteil Tradition der Agrimothpaktierer I"
+  - Attribut [[Mut|MU]] 6
+  - Vorteil [[Tradition der Agrimothpaktierer I]]

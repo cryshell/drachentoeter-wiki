@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 52b869e4-06f9-4c4c-9911-efdd6214aa7b
+ID: 4c58826c-5391-4193-9fb9-22eb50828854
 Name: Tradition der Scharlatane I
 title: Tradition der Scharlatane I
 Kategorie: Tradition (Magisch)
@@ -18,5 +18,5 @@ Zauber mit Basiskosten von 16 AsP oder mehr haben Nachteil.
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut CH 4"
-  - "Vorteil Zauberer I"
+  - Attribut [[Charisma|CH]] 4
+  - Vorteil [[Zauberer I]]

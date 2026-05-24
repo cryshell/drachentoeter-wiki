@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f1937ca8-d695-4ddb-b0a8-a552819c1b87
+ID: bd1ba934-3dc8-4afd-bd3e-23f849bc6cae
 Name: Fluch der Götter (Himmelswölfe)
 title: Fluch der Götter (Himmelswölfe)
 Kategorie: Nachteil
@@ -13,4 +13,5 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Himmelswölfe), Empfindlichkeit I
 ---
 
 - **Kosten:** -200 EP
-- **Voraussetzungen:** Vorteil Vampir I
+- **Voraussetzungen:**
+  - Vorteil [[Vampir I]]

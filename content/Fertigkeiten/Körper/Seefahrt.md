@@ -1,22 +1,24 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 85b8ff98-586d-42d4-a562-3eeb10817b0c
+ID: 124e7bde-ca68-4155-9595-8e55832784e3
 Name: Seefahrt
 title: Seefahrt
 Kategorie: Körper
 Attribute:
-  - "[[Inhalt/Attribute/FF|FF]]"
-  - "[[Inhalt/Attribute/GE|GE]]"
-  - "[[Inhalt/Attribute/KO|KO]]"
+  - "[[Fingerfertigkeit|FF]]"
+  - "[[Gewandheit|GE]]"
+  - "[[Konstitution|KO]]"
 Steigerungsfaktor: 2
 Talente:
-  - "[[Inhalt/Talente/Profan/Seefahrt/Rudern und Segeln|Rudern und Segeln]]"
-  - "[[Inhalt/Talente/Profan/Seefahrt/Steuern|Steuern]]"
+  - "[[Rudern und Segeln]]"
+  - "[[Steuern]]"
 ---
 Mit Seefahrt kannst du Boote und Schiffe bedienen und instand halten. Erfahrene Seefahrer nehmen als Steuermann und Navigator das Ruder in die Hand.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/FF|FF]], [[Inhalt/Attribute/GE|GE]], [[Inhalt/Attribute/KO|KO]]
+- **Attribute:** [[Fingerfertigkeit|FF]], [[Gewandheit|GE]], [[Konstitution|KO]]
 - **Steigerungsfaktor:** 2
-- **Talente:** [[Inhalt/Talente/Profan/Seefahrt/Rudern und Segeln|Rudern und Segeln]], [[Inhalt/Talente/Profan/Seefahrt/Steuern|Steuern]]
+- **Talente:**
+  - [[Rudern und Segeln]]
+  - [[Steuern]]

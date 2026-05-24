@@ -1,22 +1,33 @@
 ---
-Titel: Drachentöter Regelwerk
+title: Drachentöter Regelwerk
 ---
 
 # Drachentöter Regelwerk
 
-Hier ruht das vollständige Regelwerk des Drachentöter-Systems — gesammelt aus der datenbank.xml, gegliedert nach den Wegen der Macht, des Körpers und des Geistes.
+Willkommen in den Hallen des Drachentöter-Regelwerks — einem lebendigen Denkmal für jene, die das Schwarze Auge neu entfachen wollen. Aus dem Wunsch geboren, die schlanke Eleganz von Ilaris mit der unermesslichen Tiefe von DSA 4.1 zu vereinen, ruht hier ein System, in dem schnelle Kämpfe, offene Charakterentwicklung und kein vergessener Regelbereich unter einem Dach wohnen. Magie und Götterwirken, Dämonenpakte und Vampirismus, Handwerk und Wildnis — alles ist versammelt und verlinkt in einem durchwobenen Netz des Wissens, das mit jedem Klick neue Pfade eröffnet. Dies ist keine statische Schrift, sondern ein wachsender Grundstein für alle, die Aventurien bereisen.
 
-## Die Säulen des Regelwerks
+---
 
-- **[[Vorteil|Vorteile]]** — Allgemeine, kampfgeprägte, magische und karmale Gaben, Traditionen, Nachteile
-- **[[Attribut|Attribute]]** — Die sieben Grundwerte, die jeden Helden formen
-- **[[Fertigkeit|Fertigkeiten]]** — Kampf, Körper, Natur, Gesellschaft, Wissen, Handwerk, Krankenpflege
-- **[[Übernatürliche Fertigkeit|Übernatürliche Fertigkeiten]]** — Zauberfertigkeiten, Karmale Riten, Anrufungen
-- **[[Talent|Talente]]**
-  - **[[Talente/Profan|Profane Talente]]** — Erlernte Fähigkeiten, gegliedert nach ihrer Fertigkeit
-  - **[[Talente/Zauber|Zauber]]** — Die Sprüche der Magie
-  - **[[Talente/Liturgien|Liturgien]]** — Die Wunder der Götter
-  - **[[Talente/Anrufungen|Anrufungen]]** — Die Pakte mit den Mächten jenseits
+## Was ist Drachentöter?
+
+Drachentöter ist ein Pen-&-Paper-Rollenspielsystem, das in der Welt Aventurien spielt — dem Kontinent des Schwarzen Auges, den viele Spieler seit Jahrzehnten bereisen. Es ist aus dem Wunsch geboren, das Beste zweier Welten zu vereinen: die schlanke, elegante Regelstruktur von Ilaris und die unermessliche Vielfalt von DSA 4.1.
+
+Die Kämpfe sind schnell und tödlich, die Charakterentwicklung offen und tief, und kein Regelbereich wurde zurückgelassen — Magie, Götterwirken, Dämonenpakte, Vampirismus, Handwerk, Wildnisreisen, Massenkampf und Seekampf. Alles ist hier versammelt, unter einem Dach.
+
+## Was ist dieses Projekt?
+
+Dieses Wiki ist die digitale Schriftrolle des Regelwerks — eine lebendige Sammlung aller Entitäten, die aus der kanonischen **datenbank.xml** hervorgehen. Jeder Vorteil, jedes Talent, jede Fertigkeit und jedes Attribut ist hier aufgezeichnet, verlinkt und durchkreuzt. Es ist kein statisches Buch, sondern ein durchwobenes Netz des Wissens, das mit jedem Klick neue Pfade eröffnet.
+
+Die datenbank.xml ist Bestandteil der **Taverne** — eines Programms zur Charaktergenerierung für das Drachentöter-System, geschaffen von Gatsu. Sie ist aktuell die einzige maßgebliche Quelle für dieses Wiki.
+
+- **Taverne auf GitHub:** https://github.com/brzGatsu/Taverne
+
+## Wo findet man Kontakt?
+
+Die Gemeinschaft der Drachentöter versammelt sich auf dsaforum.de und auf dem Discord-Server. Wer Fragen trägt, Feedback gibt oder einfach mit Gleichgesinnten die Tiefen Aventuriens ergründen möchte, ist dort willkommen:
+
+- **Forum:** dsaforum.de
+- **Discord:** discord.gg/AF3WjqvMU9
 
 ---
 

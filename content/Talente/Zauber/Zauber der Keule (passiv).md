@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 55d032d6-3196-4da7-8e58-c8e13462f917
+ID: f054d76f-f0a6-405b-a5dd-28e25ceaed0f
 Name: Zauber der Keule (passiv)
 title: Zauber der Keule (passiv)
 Kategorie: Zauber

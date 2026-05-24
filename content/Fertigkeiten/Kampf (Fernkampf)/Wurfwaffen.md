@@ -1,23 +1,26 @@
 ---
 Entitätstyp: Fertigkeit
-ID: aeaee954-c9b5-4769-b463-0059f3a0d0fe
+ID: 79952127-a0ee-40ce-9314-d834589e51a2
 Name: Wurfwaffen
 title: Wurfwaffen
 Kategorie: Kampf (Fernkampf)
 Attribute:
-  - "[[Inhalt/Attribute/FF|FF]]"
-  - "[[Inhalt/Attribute/IN|IN]]"
-  - "[[Inhalt/Attribute/KK|KK]]"
+  - "[[Fingerfertigkeit|FF]]"
+  - "[[Intuition|IN]]"
+  - "[[Körperkraft|KK]]"
 Steigerungsfaktor: 3
 Talente:
-  - "[[Inhalt/Talente/Profan/Wurfwaffen/Kurze Wurfwaffen|Kurze Wurfwaffen]]"
-  - "[[Inhalt/Talente/Profan/Wurfwaffen/Schleudern|Schleudern]]"
-  - "[[Inhalt/Talente/Profan/Wurfwaffen/Wurfspeere|Wurfspeere]]"
+  - "[[Kurze Wurfwaffen]]"
+  - "[[Schleudern]]"
+  - "[[Wurfspeere]]"
 ---
 Als Wurfwaffen gelten sämtliche geworfenen Geschosse wie Wurfmesser, Diskusse oder Wurfspeere.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/FF|FF]], [[Inhalt/Attribute/IN|IN]], [[Inhalt/Attribute/KK|KK]]
+- **Attribute:** [[Fingerfertigkeit|FF]], [[Intuition|IN]], [[Körperkraft|KK]]
 - **Steigerungsfaktor:** 3
-- **Talente:** [[Inhalt/Talente/Profan/Wurfwaffen/Kurze Wurfwaffen|Kurze Wurfwaffen]], [[Inhalt/Talente/Profan/Wurfwaffen/Schleudern|Schleudern]], [[Inhalt/Talente/Profan/Wurfwaffen/Wurfspeere|Wurfspeere]]
+- **Talente:**
+  - [[Kurze Wurfwaffen]]
+  - [[Schleudern]]
+  - [[Wurfspeere]]

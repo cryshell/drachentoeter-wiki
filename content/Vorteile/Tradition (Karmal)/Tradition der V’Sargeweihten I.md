@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c4f1ff8a-9b6f-42e1-8d56-55a2dc8c7d11
+ID: 72368b04-cabb-47b1-ade4-c2504740c69f
 Name: Tradition der V’Sargeweihten I
 title: Tradition der V’Sargeweihten I
 Kategorie: Tradition (Karmal)
@@ -19,6 +19,6 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen V’Sars Gebote verstößt: Bes
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut KL 4"
-  - "Vorteil Geweiht I"
-  - "Kein Vorteil Tradition der *geweihten I"
+  - Attribut [[Klugheit|KL]] 4
+  - Vorteil [[Geweiht I]]
+  - Kein Vorteil Tradition der *geweihten I

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4df175d4-d0b9-48e7-a59e-50cbf01faced
+ID: 9a74f4e9-7a11-48d8-b261-866505aa2d0d
 Name: Fluch der Götter (Kor)
 title: Fluch der Götter (Kor)
 Kategorie: Nachteil
@@ -13,4 +13,5 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Kor), Empfindlichkeit I (Pflanzen
 ---
 
 - **Kosten:** -200 EP
-- **Voraussetzungen:** Vorteil Vampir I
+- **Voraussetzungen:**
+  - Vorteil [[Vampir I]]

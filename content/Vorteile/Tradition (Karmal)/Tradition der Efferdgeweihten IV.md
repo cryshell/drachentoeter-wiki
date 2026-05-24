@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 8273d849-2828-45b5-94c9-70cc773bb00f
+ID: 08f8ac03-bef3-463d-9034-21a81d5ce902
 Name: Tradition der Efferdgeweihten IV
 title: Tradition der Efferdgeweihten IV
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut IN 10"
-  - "Vorteil Tradition der Efferdgeweihten III"
+  - MeisterAttribut [[Intuition|IN]] 10
+  - Vorteil [[Tradition der Efferdgeweihten III]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 091065cd-e51d-40b3-b337-3bfc428d4b46
+ID: 70b04753-9bc7-447a-a7e4-03518fb268f9
 Name: Tiergeist (Rabe)
 title: Tiergeist (Rabe)
 Kategorie: Tiergeist
@@ -8,10 +8,10 @@ Voraussetzungen:
   - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
   - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
 Querverweise:
-  - "[[Inhalt/Talente/Zauber/Krähenruf|Krähenruf]]"
-  - "[[Inhalt/Talente/Zauber/Sensibar Empathicus|Sensibar Empathicus]]"
-  - "[[Inhalt/Talente/Zauber/Nekropathia Seelenreise|Nekropathia Seelenreise]]"
-  - "[[Inhalt/Talente/Zauber/Memorans Gedächtniskraft|Memorans Gedächtniskraft]]"
+  - "[[Krähenruf]]"
+  - "[[Sensibar Empathicus]]"
+  - "[[Nekropathia Seelenreise]]"
+  - "[[Memorans Gedächtniskraft]]"
 Nachkauf: häufig
 Kosten: 0
 ---
@@ -26,6 +26,6 @@ Kosten: 0
 
 - **Kosten:** 0 EP
 - **Voraussetzungen:**
-  - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
-  - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
-- **Siehe auch:** [[Inhalt/Talente/Zauber/Krähenruf|Krähenruf]], [[Inhalt/Talente/Zauber/Sensibar Empathicus|Sensibar Empathicus]], [[Inhalt/Talente/Zauber/Nekropathia Seelenreise|Nekropathia Seelenreise]], [[Inhalt/Talente/Zauber/Memorans Gedächtniskraft|Memorans Gedächtniskraft]]
+  - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
+  - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
+- **Siehe auch:** [[Krähenruf]], [[Sensibar Empathicus]], [[Nekropathia Seelenreise]], [[Memorans Gedächtniskraft]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: bdba9e5f-6811-4f05-bb15-832654fa14ac
+ID: 747a1817-e1e8-4143-9a62-d3ec4997ff9a
 Name: Tradition der Namenlosgeweihten II
 title: Tradition der Namenlosgeweihten II
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ Der Namenlose gilt als erklärter Gegner der Zwölfgötter. An den namenlosen Ta
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut MU 6"
-  - "Vorteil Tradition der Namenlosgeweihten I"
+  - Attribut [[Mut|MU]] 6
+  - Vorteil [[Tradition der Namenlosgeweihten I]]

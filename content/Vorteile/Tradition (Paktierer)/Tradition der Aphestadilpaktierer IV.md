@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: aa509780-2ace-45d3-9637-0a8d4fa17a69
+ID: d39d0739-5353-4b31-80ac-4a2ce8fba151
 Name: Tradition der Aphestadilpaktierer IV
 title: Tradition der Aphestadilpaktierer IV
 Kategorie: Tradition (Paktierer)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut MU 10"
-  - "Vorteil Tradition der Aphestadilpaktierer III"
+  - MeisterAttribut [[Mut|MU]] 10
+  - Vorteil [[Tradition der Aphestadilpaktierer III]]

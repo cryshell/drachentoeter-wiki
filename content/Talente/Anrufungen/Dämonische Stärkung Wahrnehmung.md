@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: eb485af1-a7c0-428d-91fb-561006a530be
+ID: 029bbda7-5e8e-45d1-9cf9-58929c05f40e
 Name: "Dämonische Stärkung: Wahrnehmung"
 title: "Dämonische Stärkung: Wahrnehmung"
 Kategorie: Anrufungen

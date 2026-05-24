@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 79fa5f60-74fd-41d6-b091-5cc7d0fbab5d
+ID: e359f88c-9e3c-495c-b8c2-27cec29cb86d
 Name: "Mirakel: Heilkunde"
 title: "Mirakel: Heilkunde"
 Kategorie: Liturgien

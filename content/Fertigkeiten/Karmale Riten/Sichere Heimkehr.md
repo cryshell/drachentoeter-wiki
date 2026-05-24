@@ -1,34 +1,47 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 0386a008-2956-447e-8995-9879d42c0039
+ID: 794389d5-9c24-4d1d-9a97-676cefb62998
 Name: Sichere Heimkehr
 title: Sichere Heimkehr
 Kategorie: Karmale Riten
 Attribute:
-  - "[[Inhalt/Attribute/CH|CH]]"
-  - "[[Inhalt/Attribute/KO|KO]]"
-  - "[[Inhalt/Attribute/MU|MU]]"
+  - "[[Charisma|CH]]"
+  - "[[Konstitution|KO]]"
+  - "[[Mut|MU]]"
 Steigerungsfaktor: 2
 Talente:
-  - "[[Inhalt/Talente/Liturgien/Freundliche Aufnahme|Freundliche Aufnahme]]"
-  - "[[Inhalt/Talente/Liturgien/Gebet der verborgenen Halle|Gebet der verborgenen Halle]]"
-  - "[[Inhalt/Talente/Liturgien/Gemeinschaft treuer Gefährten|Gemeinschaft treuer Gefährten]]"
-  - "[[Inhalt/Talente/Liturgien/Gespür des Heimsteins|Gespür des Heimsteins]]"
-  - "[[Inhalt/Talente/Liturgien/Gänsegeschnatter|Gänsegeschnatter]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Diplomatie|Mirakel: Diplomatie]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: IN|Mirakel: IN]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: MU|Mirakel: MU]]"
-  - "[[Inhalt/Talente/Liturgien/Reisesegen|Reisesegen]]"
-  - "[[Inhalt/Talente/Liturgien/Travinians Segen des Lagerfeuers|Travinians Segen des Lagerfeuers]]"
-  - "[[Inhalt/Talente/Liturgien/Wohlverdiente Rast|Wohlverdiente Rast]]"
-  - "[[Inhalt/Talente/Liturgien/Zuflucht finden|Zuflucht finden]]"
+  - "[[Freundliche Aufnahme]]"
+  - "[[Gebet der verborgenen Halle]]"
+  - "[[Gemeinschaft treuer Gefährten]]"
+  - "[[Gespür des Heimsteins]]"
+  - "[[Gänsegeschnatter]]"
+  - "[[Mirakel Diplomatie|Mirakel: Diplomatie]]"
+  - "[[Mirakel IN|Mirakel: IN]]"
+  - "[[Mirakel MU|Mirakel: MU]]"
+  - "[[Reisesegen]]"
+  - "[[Travinians Segen des Lagerfeuers]]"
+  - "[[Wohlverdiente Rast]]"
+  - "[[Zuflucht finden]]"
 Voraussetzungen: Vorteil Tradition der Traviageweihten I
 ---
 Manche Geweihte der Travia begeben sich als Wildgänse selbst auf Wanderschaft, um auch den Heimatlosen die Vorzüge eines geregelten Lebens nahe zu bringen. Auch thorwalsche Traviageweihte segnen Reisende auf der großen Fahrt, sodass sie wohlbehalten zurückkehren mögen.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/CH|CH]], [[Inhalt/Attribute/KO|KO]], [[Inhalt/Attribute/MU|MU]]
+- **Attribute:** [[Charisma|CH]], [[Konstitution|KO]], [[Mut|MU]]
 - **Steigerungsfaktor:** 2
-- **Talente:** [[Inhalt/Talente/Liturgien/Freundliche Aufnahme|Freundliche Aufnahme]], [[Inhalt/Talente/Liturgien/Gebet der verborgenen Halle|Gebet der verborgenen Halle]], [[Inhalt/Talente/Liturgien/Gemeinschaft treuer Gefährten|Gemeinschaft treuer Gefährten]], [[Inhalt/Talente/Liturgien/Gespür des Heimsteins|Gespür des Heimsteins]], [[Inhalt/Talente/Liturgien/Gänsegeschnatter|Gänsegeschnatter]], [[Inhalt/Talente/Liturgien/Mirakel: Diplomatie|Mirakel: Diplomatie]], [[Inhalt/Talente/Liturgien/Mirakel: IN|Mirakel: IN]], [[Inhalt/Talente/Liturgien/Mirakel: MU|Mirakel: MU]], [[Inhalt/Talente/Liturgien/Reisesegen|Reisesegen]], [[Inhalt/Talente/Liturgien/Travinians Segen des Lagerfeuers|Travinians Segen des Lagerfeuers]], [[Inhalt/Talente/Liturgien/Wohlverdiente Rast|Wohlverdiente Rast]], [[Inhalt/Talente/Liturgien/Zuflucht finden|Zuflucht finden]]
-- **Voraussetzungen:** Vorteil Tradition der Traviageweihten I
+- **Talente:**
+  - [[Freundliche Aufnahme]]
+  - [[Gebet der verborgenen Halle]]
+  - [[Gemeinschaft treuer Gefährten]]
+  - [[Gespür des Heimsteins]]
+  - [[Gänsegeschnatter]]
+  - [[Mirakel Diplomatie|Mirakel: Diplomatie]]
+  - [[Mirakel IN|Mirakel: IN]]
+  - [[Mirakel MU|Mirakel: MU]]
+  - [[Reisesegen]]
+  - [[Travinians Segen des Lagerfeuers]]
+  - [[Wohlverdiente Rast]]
+  - [[Zuflucht finden]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Traviageweihten I]]

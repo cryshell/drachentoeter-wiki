@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e31f21c4-6da6-400a-90c5-571668839d40
+ID: 370291cf-ef23-4752-b8bc-95e56320e8de
 Name: Stärke des Glaubens
 title: Stärke des Glaubens
 Kategorie: Karmal
@@ -16,5 +16,5 @@ Du erhältst die Eigenschaft Resistenz I (dämonisch).
 
 - **Kosten:** 60 EP
 - **Voraussetzungen:**
-  - "Attribut MU 8"
-  - "Vorteil Geweiht I"
+  - Attribut [[Mut|MU]] 8
+  - Vorteil [[Geweiht I]]

@@ -1,33 +1,45 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 45cfe568-dc9e-493d-80b1-af589459317a
+ID: cebf913d-c4df-44ec-b073-15d1429c9e74
 Name: Ordnung
 title: Ordnung
 Kategorie: Karmale Riten
 Attribute:
-  - "[[Inhalt/Attribute/CH|CH]]"
-  - "[[Inhalt/Attribute/IN|IN]]"
-  - "[[Inhalt/Attribute/KL|KL]]"
+  - "[[Charisma|CH]]"
+  - "[[Intuition|IN]]"
+  - "[[Klugheit|KL]]"
 Steigerungsfaktor: 2
 Talente:
-  - "[[Inhalt/Talente/Liturgien/Eidsegen|Eidsegen]]"
-  - "[[Inhalt/Talente/Liturgien/Großer Eidsegen|Großer Eidsegen]]"
-  - "[[Inhalt/Talente/Liturgien/Heiliger Befehl|Heiliger Befehl]]"
-  - "[[Inhalt/Talente/Liturgien/Innere Ruhe|Innere Ruhe]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Autorität|Mirakel: Autorität]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Diplomatie|Mirakel: Diplomatie]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Feingefühl|Mirakel: Feingefühl]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: IN|Mirakel: IN]]"
-  - "[[Inhalt/Talente/Liturgien/Praios‘ Mahnung|Praios‘ Mahnung]]"
-  - "[[Inhalt/Talente/Liturgien/Urischars ordnender Blick|Urischars ordnender Blick]]"
-  - "[[Inhalt/Talente/Liturgien/Wille zur Wahrheit|Wille zur Wahrheit]]"
+  - "[[Eidsegen]]"
+  - "[[Großer Eidsegen]]"
+  - "[[Heiliger Befehl]]"
+  - "[[Innere Ruhe]]"
+  - "[[Mirakel Autorität|Mirakel: Autorität]]"
+  - "[[Mirakel Diplomatie|Mirakel: Diplomatie]]"
+  - "[[Mirakel Feingefühl|Mirakel: Feingefühl]]"
+  - "[[Mirakel IN|Mirakel: IN]]"
+  - "[[Praios‘ Mahnung]]"
+  - "[[Urischars ordnender Blick]]"
+  - "[[Wille zur Wahrheit]]"
 Voraussetzungen: Vorteil Tradition der Praiosgeweihten I
 ---
 Die Praiospriester bewahren das Recht und die Gesetze, die göttergewollte Ordnung und die Wahrheit.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/CH|CH]], [[Inhalt/Attribute/IN|IN]], [[Inhalt/Attribute/KL|KL]]
+- **Attribute:** [[Charisma|CH]], [[Intuition|IN]], [[Klugheit|KL]]
 - **Steigerungsfaktor:** 2
-- **Talente:** [[Inhalt/Talente/Liturgien/Eidsegen|Eidsegen]], [[Inhalt/Talente/Liturgien/Großer Eidsegen|Großer Eidsegen]], [[Inhalt/Talente/Liturgien/Heiliger Befehl|Heiliger Befehl]], [[Inhalt/Talente/Liturgien/Innere Ruhe|Innere Ruhe]], [[Inhalt/Talente/Liturgien/Mirakel: Autorität|Mirakel: Autorität]], [[Inhalt/Talente/Liturgien/Mirakel: Diplomatie|Mirakel: Diplomatie]], [[Inhalt/Talente/Liturgien/Mirakel: Feingefühl|Mirakel: Feingefühl]], [[Inhalt/Talente/Liturgien/Mirakel: IN|Mirakel: IN]], [[Inhalt/Talente/Liturgien/Praios‘ Mahnung|Praios‘ Mahnung]], [[Inhalt/Talente/Liturgien/Urischars ordnender Blick|Urischars ordnender Blick]], [[Inhalt/Talente/Liturgien/Wille zur Wahrheit|Wille zur Wahrheit]]
-- **Voraussetzungen:** Vorteil Tradition der Praiosgeweihten I
+- **Talente:**
+  - [[Eidsegen]]
+  - [[Großer Eidsegen]]
+  - [[Heiliger Befehl]]
+  - [[Innere Ruhe]]
+  - [[Mirakel Autorität|Mirakel: Autorität]]
+  - [[Mirakel Diplomatie|Mirakel: Diplomatie]]
+  - [[Mirakel Feingefühl|Mirakel: Feingefühl]]
+  - [[Mirakel IN|Mirakel: IN]]
+  - [[Praios‘ Mahnung]]
+  - [[Urischars ordnender Blick]]
+  - [[Wille zur Wahrheit]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Praiosgeweihten I]]

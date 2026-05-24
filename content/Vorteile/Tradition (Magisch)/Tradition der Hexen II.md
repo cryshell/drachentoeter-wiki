@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b2e98a89-c186-4630-95ae-3931f4e5779a
+ID: bd591879-fe3d-425f-a1d3-a3dfed9581e0
 Name: Tradition der Hexen II
 title: Tradition der Hexen II
 Kategorie: Tradition (Magisch)
@@ -16,5 +16,5 @@ Für Hexen gehören Gefühle und Magie untrennbar zusammen. Zauber erhalten Vort
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut IN 6"
-  - "Vorteil Tradition der Hexen I"
+  - Attribut [[Intuition|IN]] 6
+  - Vorteil [[Tradition der Hexen I]]

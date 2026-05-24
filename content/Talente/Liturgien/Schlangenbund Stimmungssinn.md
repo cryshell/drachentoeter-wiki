@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e77685fa-defe-486b-ab94-da35ea789fb1
+ID: 45c6ed35-7a77-47c3-a846-b9f09da0d38a
 Name: "Schlangenbund: Stimmungssinn"
 title: "Schlangenbund: Stimmungssinn"
 Kategorie: Liturgien

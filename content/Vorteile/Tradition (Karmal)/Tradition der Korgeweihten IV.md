@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f615b1e7-c457-4165-8b1f-aaf5061af41d
+ID: 3bccb367-32c2-4aff-816d-72588dc7588c
 Name: Tradition der Korgeweihten IV
 title: Tradition der Korgeweihten IV
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut MU 10"
-  - "Vorteil Tradition der Korgeweihten III"
+  - MeisterAttribut [[Mut|MU]] 10
+  - Vorteil [[Tradition der Korgeweihten III]]

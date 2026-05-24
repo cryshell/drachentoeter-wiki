@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: bd0fcd98-58ef-44eb-9e28-9bb5924c83a0
+ID: 02f1c0a4-f183-483b-89f2-7d5a24c6258f
 Name: "Tradition der Schneider & Weber III"
 title: "Tradition der Schneider & Weber III"
 Kategorie: Tradition (Profan)
@@ -8,7 +8,7 @@ Voraussetzungen:
   - Attribut FF 8
   - "Vorteil Tradition der Schneider & Weber II"
 Querverweise:
-  - "[[Inhalt/Kapitel/Tarnen|Tarnen]]"
+  - "[[Tarnen]]"
 Nachkauf: häufig
 Kosten: 20
 ---
@@ -18,6 +18,6 @@ Du kannst Elfenbausch (Elfen), Spinnenseide (Südaventurien) und Brokat (Horasre
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut FF 8"
-  - "Vorteil Tradition der Schneider & Weber II"
-- **Siehe auch:** [[Inhalt/Kapitel/Tarnen|Tarnen]]
+  - Attribut [[Fingerfertigkeit|FF]] 8
+  - Vorteil [[Tradition der Schneider & Weber II]]
+- **Siehe auch:** [[Tarnen]]

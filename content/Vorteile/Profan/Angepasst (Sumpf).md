@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Vorteil
-ID: 9d2169eb-b4f3-4538-a30e-88a970013237
+ID: d6b52619-ef35-4e5f-866a-32f6b2a003a9
 Name: Angepasst (Sumpf)
 title: Angepasst (Sumpf)
 Kategorie: Profan
 Querverweise:
-  - "[[Inhalt/Kapitel/Bewegung|Bewegung]]"
+  - "[[Bewegung]]"
 Nachkauf: üblich
 Kosten: 40
 ---
@@ -14,4 +14,4 @@ Durch deine Spezies oder langjährige Erfahrung hast du dich an die Landschaften
 ---
 
 - **Kosten:** 40 EP
-- **Siehe auch:** [[Inhalt/Kapitel/Bewegung|Bewegung]]
+- **Siehe auch:** [[Bewegung]]

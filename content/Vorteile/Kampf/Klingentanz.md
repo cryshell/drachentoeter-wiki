@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Vorteil
-ID: 4499a41b-376b-45bd-a417-50f78272e85b
+ID: 48a3902f-7484-426d-bfc8-f34fe1bce658
 Name: Klingentanz
 title: Klingentanz
 Kategorie: Kampf
 Voraussetzungen: Attribut IN 10
 Querverweise:
-  - "[[Inhalt/Kapitel/Aktion Lösen|Aktion Lösen]]"
-  - "[[Inhalt/Kapitel/Bonusaktion|Bonusaktion]]"
+  - "[[Aktion Lösen]]"
+  - "[[Bonusaktion]]"
 Nachkauf: häufig
 Kosten: 80
 ---
@@ -18,5 +18,6 @@ Deine Initiative-Würfe haben Vorteil.
 ---
 
 - **Kosten:** 80 EP
-- **Voraussetzungen:** Attribut IN 10
-- **Siehe auch:** [[Inhalt/Kapitel/Aktion Lösen|Aktion Lösen]], [[Inhalt/Kapitel/Bonusaktion|Bonusaktion]]
+- **Voraussetzungen:**
+  - Attribut [[Intuition|IN]] 10
+- **Siehe auch:** [[Aktion Lösen]], [[Bonusaktion]]

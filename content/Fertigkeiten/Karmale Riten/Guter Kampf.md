@@ -1,35 +1,49 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 284e74ac-1931-43bf-9e7d-9da70df2a948
+ID: fcc47133-92d3-47c8-813f-2983519505a9
 Name: Guter Kampf
 title: Guter Kampf
 Kategorie: Karmale Riten
 Attribute:
-  - "[[Inhalt/Attribute/KK|KK]]"
-  - "[[Inhalt/Attribute/KO|KO]]"
-  - "[[Inhalt/Attribute/MU|MU]]"
+  - "[[Körperkraft|KK]]"
+  - "[[Konstitution|KO]]"
+  - "[[Mut|MU]]"
 Steigerungsfaktor: 3
 Talente:
-  - "[[Inhalt/Talente/Liturgien/Blut für Blut (passiv)|Blut für Blut (passiv)]]"
-  - "[[Inhalt/Talente/Liturgien/Blutiger Schnitter|Blutiger Schnitter]]"
-  - "[[Inhalt/Talente/Liturgien/Das schwarze Fell durch das rote Blut|Das schwarze Fell durch das rote Blut]]"
-  - "[[Inhalt/Talente/Liturgien/Immerwährender Kampf|Immerwährender Kampf]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Athletik|Mirakel: Athletik]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: GE|Mirakel: GE]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: KK|Mirakel: KK]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: KO|Mirakel: KO]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Nahkampf|Mirakel: Nahkampf]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Verteidigung|Mirakel: Verteidigung]]"
-  - "[[Inhalt/Talente/Liturgien/Märtyrersegen|Märtyrersegen]]"
-  - "[[Inhalt/Talente/Liturgien/Neun Streiche in einem|Neun Streiche in einem]]"
-  - "[[Inhalt/Talente/Liturgien/Waliburias Wehr|Waliburias Wehr]]"
+  - "[[Blut für Blut (passiv)]]"
+  - "[[Blutiger Schnitter]]"
+  - "[[Das schwarze Fell durch das rote Blut]]"
+  - "[[Immerwährender Kampf]]"
+  - "[[Mirakel Athletik|Mirakel: Athletik]]"
+  - "[[Mirakel GE|Mirakel: GE]]"
+  - "[[Mirakel KK|Mirakel: KK]]"
+  - "[[Mirakel KO|Mirakel: KO]]"
+  - "[[Mirakel Nahkampf|Mirakel: Nahkampf]]"
+  - "[[Mirakel Verteidigung|Mirakel: Verteidigung]]"
+  - "[[Märtyrersegen]]"
+  - "[[Neun Streiche in einem]]"
+  - "[[Waliburias Wehr]]"
 Voraussetzungen: Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I
 ---
 Die Mystiker der Korkirche suchen den Willen ihres Gottes im Kampf. Ihr Weg führt sie dorthin, wo die Schlacht am heftigsten tobt und wo sie ihr Blut für den Geifernden Schnitter vergießen.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/KK|KK]], [[Inhalt/Attribute/KO|KO]], [[Inhalt/Attribute/MU|MU]]
+- **Attribute:** [[Körperkraft|KK]], [[Konstitution|KO]], [[Mut|MU]]
 - **Steigerungsfaktor:** 3
-- **Talente:** [[Inhalt/Talente/Liturgien/Blut für Blut (passiv)|Blut für Blut (passiv)]], [[Inhalt/Talente/Liturgien/Blutiger Schnitter|Blutiger Schnitter]], [[Inhalt/Talente/Liturgien/Das schwarze Fell durch das rote Blut|Das schwarze Fell durch das rote Blut]], [[Inhalt/Talente/Liturgien/Immerwährender Kampf|Immerwährender Kampf]], [[Inhalt/Talente/Liturgien/Mirakel: Athletik|Mirakel: Athletik]], [[Inhalt/Talente/Liturgien/Mirakel: GE|Mirakel: GE]], [[Inhalt/Talente/Liturgien/Mirakel: KK|Mirakel: KK]], [[Inhalt/Talente/Liturgien/Mirakel: KO|Mirakel: KO]], [[Inhalt/Talente/Liturgien/Mirakel: Nahkampf|Mirakel: Nahkampf]], [[Inhalt/Talente/Liturgien/Mirakel: Verteidigung|Mirakel: Verteidigung]], [[Inhalt/Talente/Liturgien/Märtyrersegen|Märtyrersegen]], [[Inhalt/Talente/Liturgien/Neun Streiche in einem|Neun Streiche in einem]], [[Inhalt/Talente/Liturgien/Waliburias Wehr|Waliburias Wehr]]
-- **Voraussetzungen:** Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I
+- **Talente:**
+  - [[Blut für Blut (passiv)]]
+  - [[Blutiger Schnitter]]
+  - [[Das schwarze Fell durch das rote Blut]]
+  - [[Immerwährender Kampf]]
+  - [[Mirakel Athletik|Mirakel: Athletik]]
+  - [[Mirakel GE|Mirakel: GE]]
+  - [[Mirakel KK|Mirakel: KK]]
+  - [[Mirakel KO|Mirakel: KO]]
+  - [[Mirakel Nahkampf|Mirakel: Nahkampf]]
+  - [[Mirakel Verteidigung|Mirakel: Verteidigung]]
+  - [[Märtyrersegen]]
+  - [[Neun Streiche in einem]]
+  - [[Waliburias Wehr]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I]]

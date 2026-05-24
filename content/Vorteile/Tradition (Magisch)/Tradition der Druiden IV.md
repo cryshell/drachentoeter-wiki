@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d141621d-ab86-414f-bfd8-d6c62c56ae5b
+ID: 4526f765-8190-4524-b349-9627ee050d01
 Name: Tradition der Druiden IV
 title: Tradition der Druiden IV
 Kategorie: Tradition (Magisch)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut KL 10"
-  - "Vorteil Tradition der Druiden III"
+  - MeisterAttribut [[Klugheit|KL]] 10
+  - Vorteil [[Tradition der Druiden III]]

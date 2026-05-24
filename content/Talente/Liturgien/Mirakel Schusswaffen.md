@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 019d158f-08ab-4572-90eb-01c0e9b072b0
+ID: 66661343-0290-4f9d-b357-ce871856e3ea
 Name: "Mirakel: Schusswaffen"
 title: "Mirakel: Schusswaffen"
 Kategorie: Liturgien

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: 502d50b6-786e-4cb5-967a-c4986b65acdb
+ID: 37f86170-6102-477b-a1c9-70cf8671004b
 Name: Zerstörerisch
 title: Zerstörerisch
 Kategorie: Profan
 Voraussetzungen: Attribut KK 6
 Querverweise:
-  - "[[Inhalt/Kapitel/Hammerschlag|Hammerschlag]]"
+  - "[[Hammerschlag]]"
 Nachkauf: häufig
 Kosten: 40
 ---
@@ -16,5 +16,6 @@ Kosten: 40
 ---
 
 - **Kosten:** 40 EP
-- **Voraussetzungen:** Attribut KK 6
-- **Siehe auch:** [[Inhalt/Kapitel/Hammerschlag|Hammerschlag]]
+- **Voraussetzungen:**
+  - Attribut [[Körperkraft|KK]] 6
+- **Siehe auch:** [[Hammerschlag]]

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: f3f37be6-b85b-4b8d-b5c4-ab4f8299c18a
+ID: 97b8ccfb-7c11-4c0b-b059-bc5ee84f3c89
 Name: Kreis der Verdammnis VII
 title: Kreis der Verdammnis VII
 Kategorie: Kreis der Verdammnis
 Voraussetzungen: Vorteil Kreis der Verdammnis VI
 Querverweise:
-  - "[[Inhalt/Talente/Liturgien/Seelenprüfung|Seelenprüfung]]"
+  - "[[Seelenprüfung]]"
 Nachkauf: üblich
 Kosten: "-200"
 ---
@@ -21,5 +21,6 @@ Der Vorteil hat folgende Auswirkungen:
 ---
 
 - **Kosten:** -200 EP
-- **Voraussetzungen:** Vorteil Kreis der Verdammnis VI
-- **Siehe auch:** [[Inhalt/Talente/Liturgien/Seelenprüfung|Seelenprüfung]]
+- **Voraussetzungen:**
+  - Vorteil [[Kreis der Verdammnis VI]]
+- **Siehe auch:** [[Seelenprüfung]]

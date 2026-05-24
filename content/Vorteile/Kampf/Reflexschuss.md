@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: 3580db4e-726a-478b-ba54-2e09962aa10a
+ID: fa067c71-1fad-4d26-93e6-2671d2deeee7
 Name: Reflexschuss
 title: Reflexschuss
 Kategorie: Kampf
 Voraussetzungen: Attribut FF 6
 Querverweise:
-  - "[[Inhalt/Kapitel/Fernkampf|Fernkampf]]"
+  - "[[Fernkampf]]"
 Nachkauf: häufig
 Kosten: 40
 ---
@@ -18,5 +18,6 @@ Wenn du einen Fernkampftreffer mit Vorteil landest, kannst du einmal pro Zug ein
 ---
 
 - **Kosten:** 40 EP
-- **Voraussetzungen:** Attribut FF 6
-- **Siehe auch:** [[Inhalt/Kapitel/Fernkampf|Fernkampf]]
+- **Voraussetzungen:**
+  - Attribut [[Fingerfertigkeit|FF]] 6
+- **Siehe auch:** [[Fernkampf]]

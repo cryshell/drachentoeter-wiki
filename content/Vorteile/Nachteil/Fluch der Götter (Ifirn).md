@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 7dec0076-c69b-4133-b136-c3a6dfba2a18
+ID: 310ecb93-3633-4f9b-a3f2-3bbf5d99ba9f
 Name: Fluch der Götter (Ifirn)
 title: Fluch der Götter (Ifirn)
 Kategorie: Nachteil
@@ -13,4 +13,5 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Ifirn), Empfindlichkeit I (Pflanz
 ---
 
 - **Kosten:** -200 EP
-- **Voraussetzungen:** Vorteil Vampir I
+- **Voraussetzungen:**
+  - Vorteil [[Vampir I]]

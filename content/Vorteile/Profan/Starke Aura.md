@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b1168f5e-662b-4a5d-9425-c5e484103592
+ID: 3b8c8be7-403c-4e00-804e-03f972cb9ffc
 Name: Starke Aura
 title: Starke Aura
 Kategorie: Profan
@@ -14,4 +14,5 @@ Kosten: 80
 ---
 
 - **Kosten:** 80 EP
-- **Voraussetzungen:** Attribut CH 10
+- **Voraussetzungen:**
+  - Attribut [[Charisma|CH]] 10

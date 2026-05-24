@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d1101fb4-8b3c-4099-a174-fd4c32522b34
+ID: 2efa079f-c3cb-4086-a93c-75d1a928f85a
 Name: Wahre Namen Aphestadils IV
 title: Wahre Namen Aphestadils IV
 Kategorie: Wahre Namen
@@ -17,6 +17,6 @@ Kosten: 10
 
 - **Kosten:** 10 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
-  - "MeisterAttribut KL 10"
-  - "Vorteil Wahre Namen Aphestadils III"
+  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - MeisterAttribut [[Klugheit|KL]] 10
+  - Vorteil [[Wahre Namen Aphestadils III]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f66f3842-9544-44f2-a863-be2e9bde36fa
+ID: 4ac25ec1-453e-449f-a7d1-2a1d764d3f99
 Name: Tradition der Belshirashpaktierer II
 title: Tradition der Belshirashpaktierer II
 Kategorie: Tradition (Paktierer)
@@ -16,5 +16,5 @@ Paktierer werden durch erlittene Wunden eher noch gefährlicher. Der Wundabzug s
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut MU 6"
-  - "Vorteil Tradition der Belshirashpaktierer I"
+  - Attribut [[Mut|MU]] 6
+  - Vorteil [[Tradition der Belshirashpaktierer I]]

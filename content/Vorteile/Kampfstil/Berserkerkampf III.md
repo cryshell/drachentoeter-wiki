@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 57102256-0aa1-4988-8154-d3fdad0f91ad
+ID: 7f5cbea6-aae9-45fd-8dcb-d6e04a8cda45
 Name: Berserkerkampf III
 title: Berserkerkampf III
 Kategorie: Kampfstil
@@ -8,7 +8,7 @@ Voraussetzungen:
   - Vorteil Berserkerkampf II
   - Attribut MU 8
 Querverweise:
-  - "[[Inhalt/Kapitel/Reaktion|Reaktion]]"
+  - "[[Reaktion]]"
 Nachkauf: häufig
 Kosten: 60
 ---
@@ -18,6 +18,6 @@ Vergeltungsschlag: Du darfst, nachdem ein Gegner einen Nahkampftreffer bei dir g
 
 - **Kosten:** 60 EP
 - **Voraussetzungen:**
-  - "Vorteil Berserkerkampf II"
-  - "Attribut MU 8"
-- **Siehe auch:** [[Inhalt/Kapitel/Reaktion|Reaktion]]
+  - Vorteil [[Berserkerkampf II]]
+  - Attribut [[Mut|MU]] 8
+- **Siehe auch:** [[Reaktion]]

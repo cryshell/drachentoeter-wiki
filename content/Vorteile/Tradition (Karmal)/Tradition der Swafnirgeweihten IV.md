@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e1fd1408-1960-4a6a-b4ca-25066744ca4c
+ID: 2a430dae-6b4d-454c-adb6-ecfceefdb36e
 Name: Tradition der Swafnirgeweihten IV
 title: Tradition der Swafnirgeweihten IV
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut MU 10"
-  - "Vorteil Tradition der Swafnirgeweihten III"
+  - MeisterAttribut [[Mut|MU]] 10
+  - Vorteil [[Tradition der Swafnirgeweihten III]]

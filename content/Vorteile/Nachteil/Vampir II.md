@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: ae1d7181-54d6-4204-b3d1-b44030845e89
+ID: 75d9d9c5-a69d-423d-b975-65b9eb4d3257
 Name: Vampir II
 title: Vampir II
 Kategorie: Nachteil
 Voraussetzungen: Vorteil Vampir I
 Querverweise:
-  - "[[Inhalt/Kapitel/Sikaryandurst und -raub|Sikaryandurst und -raub]]"
+  - "[[Sikaryandurst und -raub]]"
 Nachkauf: selten
 Kosten: "-1200"
 ---
@@ -23,5 +23,6 @@ Du bist ein vollwertiger Vampir. Der Vorteil hat folgende Auswirkungen:
 ---
 
 - **Kosten:** -1200 EP
-- **Voraussetzungen:** Vorteil Vampir I
-- **Siehe auch:** [[Inhalt/Kapitel/Sikaryandurst und -raub|Sikaryandurst und -raub]]
+- **Voraussetzungen:**
+  - Vorteil [[Vampir I]]
+- **Siehe auch:** [[Sikaryandurst und -raub]]

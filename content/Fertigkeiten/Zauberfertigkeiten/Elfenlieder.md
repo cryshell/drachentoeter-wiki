@@ -1,39 +1,57 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 6782731d-1143-45ca-a813-97c83e47a4f9
+ID: f4afaf94-2858-4258-8051-60efd977b4fe
 Name: Elfenlieder
 title: Elfenlieder
 Kategorie: Zauberfertigkeiten
 Attribute:
-  - "[[Inhalt/Attribute/CH|CH]]"
-  - "[[Inhalt/Attribute/FF|FF]]"
-  - "[[Inhalt/Attribute/IN|IN]]"
+  - "[[Charisma|CH]]"
+  - "[[Fingerfertigkeit|FF]]"
+  - "[[Intuition|IN]]"
 Steigerungsfaktor: 2
 Talente:
-  - "[[Inhalt/Talente/Zauber/Apport des Iama|Apport des Iama]]"
-  - "[[Inhalt/Talente/Zauber/Bindung des Iama|Bindung des Iama]]"
-  - "[[Inhalt/Talente/Zauber/Erinnerungsmelodie|Erinnerungsmelodie]]"
-  - "[[Inhalt/Talente/Zauber/Friedenslied|Friedenslied]]"
-  - "[[Inhalt/Talente/Zauber/Kakophonie des Wahnsinns|Kakophonie des Wahnsinns]]"
-  - "[[Inhalt/Talente/Zauber/Lied der Lieder|Lied der Lieder]]"
-  - "[[Inhalt/Talente/Zauber/Lied der Reinheit|Lied der Reinheit]]"
-  - "[[Inhalt/Talente/Zauber/Lied des Schmerzes|Lied des Schmerzes]]"
-  - "[[Inhalt/Talente/Zauber/Lied des Trostes|Lied des Trostes]]"
-  - "[[Inhalt/Talente/Zauber/Melodie der Kunstfertigkeit|Melodie der Kunstfertigkeit]]"
-  - "[[Inhalt/Talente/Zauber/Melodie des Windes|Melodie des Windes]]"
-  - "[[Inhalt/Talente/Zauber/Schlachtlied|Schlachtlied]]"
-  - "[[Inhalt/Talente/Zauber/Sklavenlied|Sklavenlied]]"
-  - "[[Inhalt/Talente/Zauber/Sorgenlied|Sorgenlied]]"
-  - "[[Inhalt/Talente/Zauber/Sturmlied|Sturmlied]]"
-  - "[[Inhalt/Talente/Zauber/Verwandlung des Iama (passiv)|Verwandlung des Iama (passiv)]]"
-  - "[[Inhalt/Talente/Zauber/Zaubermelodie|Zaubermelodie]]"
+  - "[[Apport des Iama]]"
+  - "[[Bindung des Iama]]"
+  - "[[Erinnerungsmelodie]]"
+  - "[[Friedenslied]]"
+  - "[[Kakophonie des Wahnsinns]]"
+  - "[[Lied der Lieder]]"
+  - "[[Lied der Reinheit]]"
+  - "[[Lied des Schmerzes]]"
+  - "[[Lied des Trostes]]"
+  - "[[Melodie der Kunstfertigkeit]]"
+  - "[[Melodie des Windes]]"
+  - "[[Schlachtlied]]"
+  - "[[Sklavenlied]]"
+  - "[[Sorgenlied]]"
+  - "[[Sturmlied]]"
+  - "[[Verwandlung des Iama (passiv)]]"
+  - "[[Zaubermelodie]]"
 Voraussetzungen: Vorteil Tradition der Elfen I ODER Vorteil Tradition der Shakagra I
 ---
 Die auf einem Iama vorgetragenen Elfenlieder gehören zu den ältesten Spielarten der Zauberei, der du begegnen kannst. Da viele Lieder zweistimmig gesungen werden, steht die Fertigkeit nur Elfen und manchen Halbelfen zur Verfügung. Elfenlieder gelten als *Objektrituale*.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/CH|CH]], [[Inhalt/Attribute/FF|FF]], [[Inhalt/Attribute/IN|IN]]
+- **Attribute:** [[Charisma|CH]], [[Fingerfertigkeit|FF]], [[Intuition|IN]]
 - **Steigerungsfaktor:** 2
-- **Talente:** [[Inhalt/Talente/Zauber/Apport des Iama|Apport des Iama]], [[Inhalt/Talente/Zauber/Bindung des Iama|Bindung des Iama]], [[Inhalt/Talente/Zauber/Erinnerungsmelodie|Erinnerungsmelodie]], [[Inhalt/Talente/Zauber/Friedenslied|Friedenslied]], [[Inhalt/Talente/Zauber/Kakophonie des Wahnsinns|Kakophonie des Wahnsinns]], [[Inhalt/Talente/Zauber/Lied der Lieder|Lied der Lieder]], [[Inhalt/Talente/Zauber/Lied der Reinheit|Lied der Reinheit]], [[Inhalt/Talente/Zauber/Lied des Schmerzes|Lied des Schmerzes]], [[Inhalt/Talente/Zauber/Lied des Trostes|Lied des Trostes]], [[Inhalt/Talente/Zauber/Melodie der Kunstfertigkeit|Melodie der Kunstfertigkeit]], [[Inhalt/Talente/Zauber/Melodie des Windes|Melodie des Windes]], [[Inhalt/Talente/Zauber/Schlachtlied|Schlachtlied]], [[Inhalt/Talente/Zauber/Sklavenlied|Sklavenlied]], [[Inhalt/Talente/Zauber/Sorgenlied|Sorgenlied]], [[Inhalt/Talente/Zauber/Sturmlied|Sturmlied]], [[Inhalt/Talente/Zauber/Verwandlung des Iama (passiv)|Verwandlung des Iama (passiv)]], [[Inhalt/Talente/Zauber/Zaubermelodie|Zaubermelodie]]
-- **Voraussetzungen:** Vorteil Tradition der Elfen I ODER Vorteil Tradition der Shakagra I
+- **Talente:**
+  - [[Apport des Iama]]
+  - [[Bindung des Iama]]
+  - [[Erinnerungsmelodie]]
+  - [[Friedenslied]]
+  - [[Kakophonie des Wahnsinns]]
+  - [[Lied der Lieder]]
+  - [[Lied der Reinheit]]
+  - [[Lied des Schmerzes]]
+  - [[Lied des Trostes]]
+  - [[Melodie der Kunstfertigkeit]]
+  - [[Melodie des Windes]]
+  - [[Schlachtlied]]
+  - [[Sklavenlied]]
+  - [[Sorgenlied]]
+  - [[Sturmlied]]
+  - [[Verwandlung des Iama (passiv)]]
+  - [[Zaubermelodie]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Shakagra I]]

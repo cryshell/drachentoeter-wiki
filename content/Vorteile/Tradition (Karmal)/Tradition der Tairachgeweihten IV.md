@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4afd1ce0-329f-43e4-87e3-e852d5fae528
+ID: 51fd5089-d761-4c40-b54f-265fbaadb74d
 Name: Tradition der Tairachgeweihten IV
 title: Tradition der Tairachgeweihten IV
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut KL 10"
-  - "Vorteil Tradition der Tairachgeweihten III"
+  - MeisterAttribut [[Klugheit|KL]] 10
+  - Vorteil [[Tradition der Tairachgeweihten III]]

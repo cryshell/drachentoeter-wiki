@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 758bc615-fce0-4ead-890d-c42824aecbea
+ID: 5c5b37f3-5ed1-4102-9f46-3009338f1dc8
 Name: Tradition der Zsahhgeweihten II
 title: Tradition der Zsahhgeweihten II
 Kategorie: Tradition (Karmal)
@@ -8,7 +8,7 @@ Voraussetzungen:
   - Attribut IN 6
   - Vorteil Tradition der Zsahhgeweihten I
 Querverweise:
-  - "[[Inhalt/Kapitel/Mehrere Ziele (L)|Mehrere Ziele (L)]]"
+  - "[[Mehrere Ziele (L)]]"
 Nachkauf: häufig
 Kosten: 40
 ---
@@ -18,6 +18,6 @@ Zsahhgeweihte müssen sich oft um mehrere Personen gleichzeitig kümmern. Die Mo
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut IN 6"
-  - "Vorteil Tradition der Zsahhgeweihten I"
-- **Siehe auch:** [[Inhalt/Kapitel/Mehrere Ziele (L)|Mehrere Ziele (L)]]
+  - Attribut [[Intuition|IN]] 6
+  - Vorteil [[Tradition der Zsahhgeweihten I]]
+- **Siehe auch:** [[Mehrere Ziele (L)]]

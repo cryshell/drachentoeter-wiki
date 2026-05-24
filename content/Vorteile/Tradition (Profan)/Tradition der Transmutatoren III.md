@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 257e8aaf-2a43-437c-adf0-e4ce9fbb50fb
+ID: 00dc3b98-7195-4799-9066-987c4879b436
 Name: Tradition der Transmutatoren III
 title: Tradition der Transmutatoren III
 Kategorie: Tradition (Profan)
@@ -8,7 +8,7 @@ Voraussetzungen:
   - Attribut KL 8
   - Vorteil Tradition der Transmutatoren II
 Querverweise:
-  - "[[Inhalt/Kapitel/Verdünnen|Verdünnen]]"
+  - "[[Verdünnen]]"
 Nachkauf: häufig
 Kosten: 20
 ---
@@ -18,6 +18,6 @@ Du beherrschst Rezepte der Tradition der Transmutatoren bis zu einer Verbreitung
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut KL 8"
-  - "Vorteil Tradition der Transmutatoren II"
-- **Siehe auch:** [[Inhalt/Kapitel/Verdünnen|Verdünnen]]
+  - Attribut [[Klugheit|KL]] 8
+  - Vorteil [[Tradition der Transmutatoren II]]
+- **Siehe auch:** [[Verdünnen]]

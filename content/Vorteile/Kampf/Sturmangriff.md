@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Vorteil
-ID: cb227b6a-ae0f-43c3-b3e6-6f249f096b2c
+ID: 3d3d331d-a274-4fb2-88ce-b35fc374a672
 Name: Sturmangriff
 title: Sturmangriff
 Kategorie: Kampf
 Voraussetzungen: Attribut GE 6
 Querverweise:
-  - "[[Inhalt/Kapitel/Aktion Sprint|Aktion Sprint]]"
-  - "[[Inhalt/Abgeleiteter Wert/GS|GS]]"
+  - "[[Aktion Sprint]]"
+  - "[[GS]]"
 Nachkauf: häufig
 Kosten: 40
 ---
@@ -16,5 +16,6 @@ Wenn du die Aktion Sprint wählst, kannst du als Bonusaktion einen Nahkampfangri
 ---
 
 - **Kosten:** 40 EP
-- **Voraussetzungen:** Attribut GE 6
-- **Siehe auch:** [[Inhalt/Kapitel/Aktion Sprint|Aktion Sprint]], [[Inhalt/Abgeleiteter Wert/GS|GS]]
+- **Voraussetzungen:**
+  - Attribut [[Gewandheit|GE]] 6
+- **Siehe auch:** [[Aktion Sprint]], [[GS]]

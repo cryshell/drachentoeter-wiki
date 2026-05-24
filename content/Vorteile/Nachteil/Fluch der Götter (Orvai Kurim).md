@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d36f9381-acdc-459f-873d-48f5491a109c
+ID: eccc6c13-8d78-4bb5-b0d6-c9144c867e30
 Name: Fluch der Götter (Orvai Kurim)
 title: Fluch der Götter (Orvai Kurim)
 Kategorie: Nachteil
@@ -13,4 +13,5 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Orvai Kurim), Empfindlichkeit I (
 ---
 
 - **Kosten:** -200 EP
-- **Voraussetzungen:** Vorteil Vampir I
+- **Voraussetzungen:**
+  - Vorteil [[Vampir I]]

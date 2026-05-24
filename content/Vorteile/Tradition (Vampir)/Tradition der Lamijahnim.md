@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 797057d0-57a8-43c3-9b81-40a02581695d
+ID: 35559bbd-5455-431d-bfa1-51bb38ff7df7
 Name: Tradition der Lamijahnim
 title: Tradition der Lamijahnim
 Kategorie: Tradition (Vampir)
@@ -8,7 +8,7 @@ Voraussetzungen:
   - Attribut CH 4
   - Vorteil Vampir I
 Querverweise:
-  - "[[Inhalt/Kapitel/Verbotene Pforten|Verbotene Pforten]]"
+  - "[[Verbotene Pforten]]"
 Nachkauf: häufig
 Kosten: 20
 ---
@@ -20,6 +20,6 @@ Du bist von keinem Gott verflucht, aber in der Nähe von rahjagefälligen Gegens
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut CH 4"
-  - "Vorteil Vampir I"
-- **Siehe auch:** [[Inhalt/Kapitel/Verbotene Pforten|Verbotene Pforten]]
+  - Attribut [[Charisma|CH]] 4
+  - Vorteil [[Vampir I]]
+- **Siehe auch:** [[Verbotene Pforten]]

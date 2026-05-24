@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Vorteil
-ID: 65858802-d3c1-4f5d-afda-68a363966f37
+ID: 1ac35578-5389-4b47-bb30-e0b39b05cb4d
 Name: Unbeugsamkeit
 title: Unbeugsamkeit
 Kategorie: Profan
 Voraussetzungen: Attribut MU 10
 Querverweise:
-  - "[[Inhalt/Abgeleiteter Wert/MR|MR]]"
-  - "[[Inhalt/Kapitel/Bonusaktion|Bonusaktion]]"
+  - "[[MR]]"
+  - "[[Bonusaktion]]"
 Nachkauf: häufig
 Kosten: 80
 ---
@@ -18,5 +18,6 @@ Mit einer Bonusaktion und einer MU-Gegenprobe kannst du einen auf dir liegenden 
 ---
 
 - **Kosten:** 80 EP
-- **Voraussetzungen:** Attribut MU 10
-- **Siehe auch:** [[Inhalt/Abgeleiteter Wert/MR|MR]], [[Inhalt/Kapitel/Bonusaktion|Bonusaktion]]
+- **Voraussetzungen:**
+  - Attribut [[Mut|MU]] 10
+- **Siehe auch:** [[MR]], [[Bonusaktion]]

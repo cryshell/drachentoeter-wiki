@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 42d50b83-5086-427f-823a-44fe0f9ce530
+ID: 674e9e6e-c2f7-4b84-85cd-9b6d56e6900e
 Name: Tradition der Borbaradianer II
 title: Tradition der Borbaradianer II
 Kategorie: Tradition (Magisch)
@@ -16,5 +16,5 @@ Borbaradianische Zauber sind chaotisch und instabil. Die Chance auf einen Triump
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut MU 6"
-  - "Vorteil Tradition der Borbaradianer I"
+  - Attribut [[Mut|MU]] 6
+  - Vorteil [[Tradition der Borbaradianer I]]

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Vorteil
-ID: 6627cff5-7f21-467c-809d-d7c9a902d972
+ID: a5413a32-a293-4c2f-b082-716fa8ec675c
 Name: Angepasst (Dschungel)
 title: Angepasst (Dschungel)
 Kategorie: Profan
 Querverweise:
-  - "[[Inhalt/Kapitel/Bewegung|Bewegung]]"
+  - "[[Bewegung]]"
 Nachkauf: üblich
 Kosten: 40
 ---
@@ -14,4 +14,4 @@ Durch deine Spezies oder langjährige Erfahrung hast du dich an die Landschaften
 ---
 
 - **Kosten:** 40 EP
-- **Siehe auch:** [[Inhalt/Kapitel/Bewegung|Bewegung]]
+- **Siehe auch:** [[Bewegung]]

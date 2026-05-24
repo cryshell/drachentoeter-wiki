@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b2ab1c6d-f6e4-45d1-a7d2-00b46ca4c8e3
+ID: a1157a17-00d9-456d-a1ca-d8769cd6d53b
 Name: Fluch der Götter (Firun)
 title: Fluch der Götter (Firun)
 Kategorie: Nachteil
@@ -13,4 +13,5 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Firun), Empfindlichkeit I (Pflanz
 ---
 
 - **Kosten:** 200 EP
-- **Voraussetzungen:** Vorteil Vampir I
+- **Voraussetzungen:**
+  - Vorteil [[Vampir I]]

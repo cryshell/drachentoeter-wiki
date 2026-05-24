@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 7a62c786-d8eb-48a4-a139-f41091ca3b7e
+ID: 0d21f253-d7a0-4637-bca2-d320d4abbb74
 Name: "Dämonische Stärkung: Straßenkunde"
 title: "Dämonische Stärkung: Straßenkunde"
 Kategorie: Anrufungen

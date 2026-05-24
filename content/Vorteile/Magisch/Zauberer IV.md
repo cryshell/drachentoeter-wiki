@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: af8bad85-0b4d-4472-936f-495795a56fa9
+ID: 3dbe4e05-4ff8-4b65-9fbc-de959fc84ec5
 Name: Zauberer IV
 title: Zauberer IV
 Kategorie: Magisch
@@ -13,4 +13,5 @@ Du verfügst über 32 Astralpunkte und kannst magische Traditionen erlernen. Dei
 ---
 
 - **Kosten:** 40 EP
-- **Voraussetzungen:** Vorteil Zauberer III
+- **Voraussetzungen:**
+  - Vorteil [[Zauberer III]]

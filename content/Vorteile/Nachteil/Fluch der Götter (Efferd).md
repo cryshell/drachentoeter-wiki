@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a416557a-85bc-448d-a52b-59bd584d5344
+ID: 9fe2c573-fa66-4306-ba2f-f6d594af23f7
 Name: Fluch der Götter (Efferd)
 title: Fluch der Götter (Efferd)
 Kategorie: Nachteil
@@ -13,4 +13,5 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Efferd), Empfindlichkeit I (Pflan
 ---
 
 - **Kosten:** -200 EP
-- **Voraussetzungen:** Vorteil Vampir I
+- **Voraussetzungen:**
+  - Vorteil [[Vampir I]]

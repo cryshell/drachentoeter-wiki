@@ -1,22 +1,24 @@
 ---
 Entitätstyp: Fertigkeit
-ID: b3602e2b-2dd7-46c5-ad86-cd317b5ef2b4
+ID: 56ccf28a-840a-4787-8b58-c640046e1fc7
 Name: Mythenkunde
 title: Mythenkunde
 Kategorie: Wissen
 Attribute:
-  - "[[Inhalt/Attribute/CH|CH]]"
-  - "[[Inhalt/Attribute/KL|KL]]"
-  - "[[Inhalt/Attribute/KL|KL]]"
+  - "[[Charisma|CH]]"
+  - "[[Klugheit|KL]]"
+  - "[[Klugheit|KL]]"
 Steigerungsfaktor: 2
 Talente:
-  - "[[Inhalt/Talente/Profan/Mythenkunde/Geschichten und Legenden|Geschichten und Legenden]]"
-  - "[[Inhalt/Talente/Profan/Mythenkunde/Götter und Kulte|Götter und Kulte]]"
+  - "[[Geschichten und Legenden]]"
+  - "[[Götter und Kulte]]"
 ---
 Mythenkunde ist das Wissen über die Götter und ihre Diener, sowohl die eigene Religion als auch – weniger genau – fremde Religionen betreffend. Zusätzlich gehört dazu die Kenntnis der Geschichte sowie bekannter Sagen und Legenden, was meist schwer voneinander zu trennen ist. Die Fertigkeit profitiert von einer passenden Kulturkunde und/oder Tradition.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/CH|CH]], [[Inhalt/Attribute/KL|KL]], [[Inhalt/Attribute/KL|KL]]
+- **Attribute:** [[Charisma|CH]], [[Klugheit|KL]], [[Klugheit|KL]]
 - **Steigerungsfaktor:** 2
-- **Talente:** [[Inhalt/Talente/Profan/Mythenkunde/Geschichten und Legenden|Geschichten und Legenden]], [[Inhalt/Talente/Profan/Mythenkunde/Götter und Kulte|Götter und Kulte]]
+- **Talente:**
+  - [[Geschichten und Legenden]]
+  - [[Götter und Kulte]]

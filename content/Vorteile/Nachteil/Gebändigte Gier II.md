@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: 171977da-71a7-4c72-bf94-4db34e30f09b
+ID: d688ed84-a33d-4d91-82e5-d3340e138fe5
 Name: Gebändigte Gier II
 title: Gebändigte Gier II
 Kategorie: Nachteil
 Voraussetzungen: Vorteil Gebändigte Gier I
 Querverweise:
-  - "[[Inhalt/Kapitel/Sikaryandurst und -raub|Sikaryandurst und -raub]]"
+  - "[[Sikaryandurst und -raub]]"
 Nachkauf: häufig
 Kosten: 40
 ---
@@ -15,5 +15,6 @@ Die MU-Probe zum vorzeitigen Beenden des Sikaryanraubs ist um +4 erleichtert.
 ---
 
 - **Kosten:** 40 EP
-- **Voraussetzungen:** Vorteil Gebändigte Gier I
-- **Siehe auch:** [[Inhalt/Kapitel/Sikaryandurst und -raub|Sikaryandurst und -raub]]
+- **Voraussetzungen:**
+  - Vorteil [[Gebändigte Gier I]]
+- **Siehe auch:** [[Sikaryandurst und -raub]]

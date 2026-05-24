@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4b0d32f8-7538-4486-bdbe-61047b91b2a9
+ID: 3cd2ce8c-01f4-424f-91f9-495cca9e74b6
 Name: Tradition der Schamanen (Trollzacker) II
 title: Tradition der Schamanen (Trollzacker) II
 Kategorie: Tradition (Magisch)
@@ -16,5 +16,5 @@ Schamanen binden oft einen beträchtlichen Teil ihrer Astralenergie in ihre Zaub
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut IN 6"
-  - "Vorteil Tradition der Schamanen (Trollzacker) I"
+  - Attribut [[Intuition|IN]] 6
+  - Vorteil [[Tradition der Schamanen (Trollzacker) I]]

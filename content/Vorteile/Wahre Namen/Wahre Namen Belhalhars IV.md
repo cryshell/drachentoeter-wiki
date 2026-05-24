@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: ad92edcf-51b1-4c3b-a88c-047c49952a30
+ID: 03a0b3f0-8df7-4cf9-9d78-daf144a102d0
 Name: Wahre Namen Belhalhars IV
 title: Wahre Namen Belhalhars IV
 Kategorie: Wahre Namen
@@ -17,6 +17,6 @@ Kosten: 20
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
-  - "MeisterAttribut KL 10"
-  - "Vorteil Wahre Namen Belhalhars III"
+  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - MeisterAttribut [[Klugheit|KL]] 10
+  - Vorteil [[Wahre Namen Belhalhars III]]

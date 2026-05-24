@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: fa6e489a-3dab-4d16-bf66-8042c1d35504
+ID: 344cd6df-ec8a-408e-bf0e-5aab52a011ec
 Name: Tradition der Kristallomanten IV
 title: Tradition der Kristallomanten IV
 Kategorie: Tradition (Magisch)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut KL 10"
-  - "Vorteil Tradition der Kristallomanten III"
+  - MeisterAttribut [[Klugheit|KL]] 10
+  - Vorteil [[Tradition der Kristallomanten III]]

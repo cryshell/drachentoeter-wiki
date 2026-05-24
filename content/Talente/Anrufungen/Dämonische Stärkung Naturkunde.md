@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 276b8fc6-a54e-464c-842e-ebcc47db10a8
+ID: 5609ddb5-34a8-498c-bd06-3334cf9b5548
 Name: "Dämonische Stärkung: Naturkunde"
 title: "Dämonische Stärkung: Naturkunde"
 Kategorie: Anrufungen

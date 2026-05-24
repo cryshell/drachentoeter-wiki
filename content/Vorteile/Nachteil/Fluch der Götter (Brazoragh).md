@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 109f9c66-97b4-4c05-b15f-7f3b0562f31c
+ID: b24b5509-e5e5-405a-96bd-57dbcd43638a
 Name: Fluch der Götter (Brazoragh)
 title: Fluch der Götter (Brazoragh)
 Kategorie: Nachteil
@@ -13,4 +13,5 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Brazoragh), Empfindlichkeit I (Pf
 ---
 
 - **Kosten:** -200 EP
-- **Voraussetzungen:** Vorteil Vampir I
+- **Voraussetzungen:**
+  - Vorteil [[Vampir I]]

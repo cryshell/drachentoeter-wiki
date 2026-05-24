@@ -1,139 +1,257 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: dbf5a8fd-aa6b-4dc1-a9f6-9cc6feff12cd
+ID: d3fe6fd2-1c75-4499-8881-025b41e3ddeb
 Name: Einfluss
 title: Einfluss
 Kategorie: Zauberfertigkeiten
 Attribute:
-  - "[[Inhalt/Attribute/CH|CH]]"
-  - "[[Inhalt/Attribute/CH|CH]]"
-  - "[[Inhalt/Attribute/IN|IN]]"
+  - "[[Charisma|CH]]"
+  - "[[Charisma|CH]]"
+  - "[[Intuition|IN]]"
 Steigerungsfaktor: 3
 Talente:
-  - "[[Inhalt/Talente/Zauber/Alfenbannrune|Alfenbannrune]]"
-  - "[[Inhalt/Talente/Zauber/Alpgestalt|Alpgestalt]]"
-  - "[[Inhalt/Talente/Zauber/Aufwecken|Aufwecken]]"
-  - "[[Inhalt/Talente/Zauber/Band und Fessel|Band und Fessel]]"
-  - "[[Inhalt/Talente/Zauber/Bannbaladin|Bannbaladin]]"
-  - "[[Inhalt/Talente/Zauber/Barbar des Anführers|Barbar des Anführers]]"
-  - "[[Inhalt/Talente/Zauber/Beruhigung der Tiergeister|Beruhigung der Tiergeister]]"
-  - "[[Inhalt/Talente/Zauber/Besessenheit herbeirufen|Besessenheit herbeirufen]]"
-  - "[[Inhalt/Talente/Zauber/Bienenkönigin|Bienenkönigin]]"
-  - "[[Inhalt/Talente/Zauber/Bienenschwarm|Bienenschwarm]]"
-  - "[[Inhalt/Talente/Zauber/Bindungspartner finden|Bindungspartner finden]]"
-  - "[[Inhalt/Talente/Zauber/Blitz dich find|Blitz dich find]]"
-  - "[[Inhalt/Talente/Zauber/Böser Blick|Böser Blick]]"
-  - "[[Inhalt/Talente/Zauber/Dichter und Denker|Dichter und Denker]]"
-  - "[[Inhalt/Talente/Zauber/Disharmonischer Klang|Disharmonischer Klang]]"
-  - "[[Inhalt/Talente/Zauber/Drachenrune|Drachenrune]]"
-  - "[[Inhalt/Talente/Zauber/Eigene Ängste quälen dich!|Eigene Ängste quälen dich!]]"
-  - "[[Inhalt/Talente/Zauber/Einfluss bannen|Einfluss bannen]]"
-  - "[[Inhalt/Talente/Zauber/Erinnerung verlasse dich!|Erinnerung verlasse dich!]]"
-  - "[[Inhalt/Talente/Zauber/Erster unter gleichen|Erster unter gleichen]]"
-  - "[[Inhalt/Talente/Zauber/Fanal der Herrschaft|Fanal der Herrschaft]]"
-  - "[[Inhalt/Talente/Zauber/Fluch der Verwirrung|Fluch der Verwirrung]]"
-  - "[[Inhalt/Talente/Zauber/Fluch des (Tieres)|Fluch des (Tieres)]]"
-  - "[[Inhalt/Talente/Zauber/Friedenslied|Friedenslied]]"
-  - "[[Inhalt/Talente/Zauber/Friedensrune|Friedensrune]]"
-  - "[[Inhalt/Talente/Zauber/Furchtrune|Furchtrune]]"
-  - "[[Inhalt/Talente/Zauber/Geister der Täuschung|Geister der Täuschung]]"
-  - "[[Inhalt/Talente/Zauber/Geistesmanipulation|Geistesmanipulation]]"
-  - "[[Inhalt/Talente/Zauber/Gezücht des Meisters|Gezücht des Meisters]]"
-  - "[[Inhalt/Talente/Zauber/Große Gier|Große Gier]]"
-  - "[[Inhalt/Talente/Zauber/Halluzination|Halluzination]]"
-  - "[[Inhalt/Talente/Zauber/Harmlose Gestalt|Harmlose Gestalt]]"
-  - "[[Inhalt/Talente/Zauber/Herr der Tiergeister|Herr der Tiergeister]]"
-  - "[[Inhalt/Talente/Zauber/Herr über das Tierreich|Herr über das Tierreich]]"
-  - "[[Inhalt/Talente/Zauber/Herzschlag ruhe!|Herzschlag ruhe!]]"
-  - "[[Inhalt/Talente/Zauber/Hexenknoten|Hexenknoten]]"
-  - "[[Inhalt/Talente/Zauber/Hilfreiche Tatze, rettende Schwinge|Hilfreiche Tatze, rettende Schwinge]]"
-  - "[[Inhalt/Talente/Zauber/Horriphobus Schreckgestalt|Horriphobus Schreckgestalt]]"
-  - "[[Inhalt/Talente/Zauber/Hypnose|Hypnose]]"
-  - "[[Inhalt/Talente/Zauber/Hypnotisches Zeichen|Hypnotisches Zeichen]]"
-  - "[[Inhalt/Talente/Zauber/Höllenpein zerreiße dich!|Höllenpein zerreiße dich!]]"
-  - "[[Inhalt/Talente/Zauber/Ignorantia Ungesehen|Ignorantia Ungesehen]]"
-  - "[[Inhalt/Talente/Zauber/Imperavi Handlungszwang|Imperavi Handlungszwang]]"
-  - "[[Inhalt/Talente/Zauber/Iribaars Hand|Iribaars Hand]]"
-  - "[[Inhalt/Talente/Zauber/Juckreiz, dämlicher!|Juckreiz, dämlicher!]]"
-  - "[[Inhalt/Talente/Zauber/Karnifilo Raserei|Karnifilo Raserei]]"
-  - "[[Inhalt/Talente/Zauber/Koboldgeschenk|Koboldgeschenk]]"
-  - "[[Inhalt/Talente/Zauber/Kontrolle der Miniatur|Kontrolle der Miniatur]]"
-  - "[[Inhalt/Talente/Zauber/Krähenruf|Krähenruf]]"
-  - "[[Inhalt/Talente/Zauber/Krötenkuss|Krötenkuss]]"
-  - "[[Inhalt/Talente/Zauber/Kusch!|Kusch!]]"
-  - "[[Inhalt/Talente/Zauber/Lach dich gesund|Lach dich gesund]]"
-  - "[[Inhalt/Talente/Zauber/Lachkrampf|Lachkrampf]]"
-  - "[[Inhalt/Talente/Zauber/Levthans Feuer|Levthans Feuer]]"
-  - "[[Inhalt/Talente/Zauber/Lied der Freundschaft|Lied der Freundschaft]]"
-  - "[[Inhalt/Talente/Zauber/Lied der Lieder|Lied der Lieder]]"
-  - "[[Inhalt/Talente/Zauber/Lied des Handels|Lied des Handels]]"
-  - "[[Inhalt/Talente/Zauber/Lied des Schmerzes|Lied des Schmerzes]]"
-  - "[[Inhalt/Talente/Zauber/Lied des Trostes|Lied des Trostes]]"
-  - "[[Inhalt/Talente/Zauber/Lied des Zögerns|Lied des Zögerns]]"
-  - "[[Inhalt/Talente/Zauber/Lockruf (Wesen)|Lockruf (Wesen)]]"
-  - "[[Inhalt/Talente/Zauber/Macht des Blutes|Macht des Blutes]]"
-  - "[[Inhalt/Talente/Zauber/Mailam Rekdais Segen|Mailam Rekdais Segen]]"
-  - "[[Inhalt/Talente/Zauber/Melodie der Angriffslust|Melodie der Angriffslust]]"
-  - "[[Inhalt/Talente/Zauber/Melodie der Beruhigung|Melodie der Beruhigung]]"
-  - "[[Inhalt/Talente/Zauber/Melodie der Besänftigung|Melodie der Besänftigung]]"
-  - "[[Inhalt/Talente/Zauber/Melodie der Ermutigung|Melodie der Ermutigung]]"
-  - "[[Inhalt/Talente/Zauber/Melodie der Versöhnung|Melodie der Versöhnung]]"
-  - "[[Inhalt/Talente/Zauber/Melodie des Einlullens|Melodie des Einlullens]]"
-  - "[[Inhalt/Talente/Zauber/Memorabia Falsifir|Memorabia Falsifir]]"
-  - "[[Inhalt/Talente/Zauber/Miniatur der Herrschaft|Miniatur der Herrschaft]]"
-  - "[[Inhalt/Talente/Zauber/Murks und Patz|Murks und Patz]]"
-  - "[[Inhalt/Talente/Zauber/Panik überkomme euch!|Panik überkomme euch!]]"
-  - "[[Inhalt/Talente/Zauber/Papperlapapp|Papperlapapp]]"
-  - "[[Inhalt/Talente/Zauber/Reitender Geist|Reitender Geist]]"
-  - "[[Inhalt/Talente/Zauber/Respondami Wahrheitszwang|Respondami Wahrheitszwang]]"
-  - "[[Inhalt/Talente/Zauber/Rhythmen der Ermutigung|Rhythmen der Ermutigung]]"
-  - "[[Inhalt/Talente/Zauber/Rhythmen des Handels|Rhythmen des Handels]]"
-  - "[[Inhalt/Talente/Zauber/Rhythmen des Zögerns|Rhythmen des Zögerns]]"
-  - "[[Inhalt/Talente/Zauber/Ruf des (Tieres)|Ruf des (Tieres)]]"
-  - "[[Inhalt/Talente/Zauber/Ruf des Vampirs|Ruf des Vampirs]]"
-  - "[[Inhalt/Talente/Zauber/Sanftmut|Sanftmut]]"
-  - "[[Inhalt/Talente/Zauber/Schabernack|Schabernack]]"
-  - "[[Inhalt/Talente/Zauber/Schelmenlaune|Schelmenlaune]]"
-  - "[[Inhalt/Talente/Zauber/Schelmenrausch|Schelmenrausch]]"
-  - "[[Inhalt/Talente/Zauber/Schlaf rauben|Schlaf rauben]]"
-  - "[[Inhalt/Talente/Zauber/Schlaffluch|Schlaffluch]]"
-  - "[[Inhalt/Talente/Zauber/Schmerzen der Miniatur|Schmerzen der Miniatur]]"
-  - "[[Inhalt/Talente/Zauber/Schmerzen lindern|Schmerzen lindern]]"
-  - "[[Inhalt/Talente/Zauber/Schutzkreis gegen Reptilien|Schutzkreis gegen Reptilien]]"
-  - "[[Inhalt/Talente/Zauber/Schutzkreis gegen Ungeziefer|Schutzkreis gegen Ungeziefer]]"
-  - "[[Inhalt/Talente/Zauber/Schwarzer Schrecken|Schwarzer Schrecken]]"
-  - "[[Inhalt/Talente/Zauber/Seidenzunge Elfenwort|Seidenzunge Elfenwort]]"
-  - "[[Inhalt/Talente/Zauber/Siegel der Seelenruhe|Siegel der Seelenruhe]]"
-  - "[[Inhalt/Talente/Zauber/Sklavenlied|Sklavenlied]]"
-  - "[[Inhalt/Talente/Zauber/Somnigravis|Somnigravis]]"
-  - "[[Inhalt/Talente/Zauber/Tabuzone|Tabuzone]]"
-  - "[[Inhalt/Talente/Zauber/Tanz der Angriffslust|Tanz der Angriffslust]]"
-  - "[[Inhalt/Talente/Zauber/Tanz der Betörung|Tanz der Betörung]]"
-  - "[[Inhalt/Talente/Zauber/Tanz der Ermutigung|Tanz der Ermutigung]]"
-  - "[[Inhalt/Talente/Zauber/Tanz der Wacht|Tanz der Wacht]]"
-  - "[[Inhalt/Talente/Zauber/Tanz des Blutrausches|Tanz des Blutrausches]]"
-  - "[[Inhalt/Talente/Zauber/Tanz des Handels|Tanz des Handels]]"
-  - "[[Inhalt/Talente/Zauber/Tanz ohne Ende|Tanz ohne Ende]]"
-  - "[[Inhalt/Talente/Zauber/Tauschplatz|Tauschplatz]]"
-  - "[[Inhalt/Talente/Zauber/Ungesehenes Zeichen|Ungesehenes Zeichen]]"
-  - "[[Inhalt/Talente/Zauber/Verborgen vor Blicken|Verborgen vor Blicken]]"
-  - "[[Inhalt/Talente/Zauber/Vipernblick|Vipernblick]]"
-  - "[[Inhalt/Talente/Zauber/Weckruf|Weckruf]]"
-  - "[[Inhalt/Talente/Zauber/Widerwille Ungemach|Widerwille Ungemach]]"
-  - "[[Inhalt/Talente/Zauber/Wunschglyphe|Wunschglyphe]]"
-  - "[[Inhalt/Talente/Zauber/Zaubernahrung Hungerbann|Zaubernahrung Hungerbann]]"
-  - "[[Inhalt/Talente/Zauber/Zauberzwang|Zauberzwang]]"
-  - "[[Inhalt/Talente/Zauber/Zorn des Berglöwen|Zorn des Berglöwen]]"
-  - "[[Inhalt/Talente/Zauber/Zwingtanz|Zwingtanz]]"
-  - "[[Inhalt/Talente/Zauber/Ängste lindern|Ängste lindern]]"
-  - "[[Inhalt/Talente/Zauber/Ängste mehren|Ängste mehren]]"
+  - "[[Alfenbannrune]]"
+  - "[[Alpgestalt]]"
+  - "[[Aufwecken]]"
+  - "[[Band und Fessel]]"
+  - "[[Bannbaladin]]"
+  - "[[Barbar des Anführers]]"
+  - "[[Beruhigung der Tiergeister]]"
+  - "[[Besessenheit herbeirufen]]"
+  - "[[Bienenkönigin]]"
+  - "[[Bienenschwarm]]"
+  - "[[Bindungspartner finden]]"
+  - "[[Blitz dich find]]"
+  - "[[Böser Blick]]"
+  - "[[Dichter und Denker]]"
+  - "[[Disharmonischer Klang]]"
+  - "[[Drachenrune]]"
+  - "[[Eigene Ängste quälen dich|Eigene Ängste quälen dich!]]"
+  - "[[Einfluss bannen]]"
+  - "[[Erinnerung verlasse dich|Erinnerung verlasse dich!]]"
+  - "[[Erster unter gleichen]]"
+  - "[[Fanal der Herrschaft]]"
+  - "[[Fluch der Verwirrung]]"
+  - "[[Fluch des (Tieres)]]"
+  - "[[Friedenslied]]"
+  - "[[Friedensrune]]"
+  - "[[Furchtrune]]"
+  - "[[Geister der Täuschung]]"
+  - "[[Geistesmanipulation]]"
+  - "[[Gezücht des Meisters]]"
+  - "[[Große Gier]]"
+  - "[[Halluzination]]"
+  - "[[Harmlose Gestalt]]"
+  - "[[Herr der Tiergeister]]"
+  - "[[Herr über das Tierreich]]"
+  - "[[Herzschlag ruhe|Herzschlag ruhe!]]"
+  - "[[Hexenknoten]]"
+  - "[[Hilfreiche Tatze, rettende Schwinge]]"
+  - "[[Horriphobus Schreckgestalt]]"
+  - "[[Hypnose]]"
+  - "[[Hypnotisches Zeichen]]"
+  - "[[Höllenpein zerreiße dich|Höllenpein zerreiße dich!]]"
+  - "[[Ignorantia Ungesehen]]"
+  - "[[Imperavi Handlungszwang]]"
+  - "[[Iribaars Hand]]"
+  - "[[Juckreiz, dämlicher|Juckreiz, dämlicher!]]"
+  - "[[Karnifilo Raserei]]"
+  - "[[Koboldgeschenk]]"
+  - "[[Kontrolle der Miniatur]]"
+  - "[[Krähenruf]]"
+  - "[[Krötenkuss]]"
+  - "[[Kusch|Kusch!]]"
+  - "[[Lach dich gesund]]"
+  - "[[Lachkrampf]]"
+  - "[[Levthans Feuer]]"
+  - "[[Lied der Freundschaft]]"
+  - "[[Lied der Lieder]]"
+  - "[[Lied des Handels]]"
+  - "[[Lied des Schmerzes]]"
+  - "[[Lied des Trostes]]"
+  - "[[Lied des Zögerns]]"
+  - "[[Lockruf (Wesen)]]"
+  - "[[Macht des Blutes]]"
+  - "[[Mailam Rekdais Segen]]"
+  - "[[Melodie der Angriffslust]]"
+  - "[[Melodie der Beruhigung]]"
+  - "[[Melodie der Besänftigung]]"
+  - "[[Melodie der Ermutigung]]"
+  - "[[Melodie der Versöhnung]]"
+  - "[[Melodie des Einlullens]]"
+  - "[[Memorabia Falsifir]]"
+  - "[[Miniatur der Herrschaft]]"
+  - "[[Murks und Patz]]"
+  - "[[Panik überkomme euch|Panik überkomme euch!]]"
+  - "[[Papperlapapp]]"
+  - "[[Reitender Geist]]"
+  - "[[Respondami Wahrheitszwang]]"
+  - "[[Rhythmen der Ermutigung]]"
+  - "[[Rhythmen des Handels]]"
+  - "[[Rhythmen des Zögerns]]"
+  - "[[Ruf des (Tieres)]]"
+  - "[[Ruf des Vampirs]]"
+  - "[[Sanftmut]]"
+  - "[[Schabernack]]"
+  - "[[Schelmenlaune]]"
+  - "[[Schelmenrausch]]"
+  - "[[Schlaf rauben]]"
+  - "[[Schlaffluch]]"
+  - "[[Schmerzen der Miniatur]]"
+  - "[[Schmerzen lindern]]"
+  - "[[Schutzkreis gegen Reptilien]]"
+  - "[[Schutzkreis gegen Ungeziefer]]"
+  - "[[Schwarzer Schrecken]]"
+  - "[[Seidenzunge Elfenwort]]"
+  - "[[Siegel der Seelenruhe]]"
+  - "[[Sklavenlied]]"
+  - "[[Somnigravis]]"
+  - "[[Tabuzone]]"
+  - "[[Tanz der Angriffslust]]"
+  - "[[Tanz der Betörung]]"
+  - "[[Tanz der Ermutigung]]"
+  - "[[Tanz der Wacht]]"
+  - "[[Tanz des Blutrausches]]"
+  - "[[Tanz des Handels]]"
+  - "[[Tanz ohne Ende]]"
+  - "[[Tauschplatz]]"
+  - "[[Ungesehenes Zeichen]]"
+  - "[[Verborgen vor Blicken]]"
+  - "[[Vipernblick]]"
+  - "[[Weckruf]]"
+  - "[[Widerwille Ungemach]]"
+  - "[[Wunschglyphe]]"
+  - "[[Zaubernahrung Hungerbann]]"
+  - "[[Zauberzwang]]"
+  - "[[Zorn des Berglöwen]]"
+  - "[[Zwingtanz]]"
+  - "[[Ängste lindern]]"
+  - "[[Ängste mehren]]"
 Voraussetzungen: Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Shakagra I
 ---
 Als Einflusszauberer kannst du die Gedanken, Sinne und Gefühle deiner Mitmenschen manipulieren. Manche Einflusszauber (z.B. Bannbaladin) wirken äußerst subtil und sind während der Wirkung nicht zu bemerken. Im Zweifelsfall kann das Ziel nach dem Ende der Wirkung eine KL-Gegenprobe ablegen, um sich die Verzauberung bewusst zu machen.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/CH|CH]], [[Inhalt/Attribute/CH|CH]], [[Inhalt/Attribute/IN|IN]]
+- **Attribute:** [[Charisma|CH]], [[Charisma|CH]], [[Intuition|IN]]
 - **Steigerungsfaktor:** 3
-- **Talente:** [[Inhalt/Talente/Zauber/Alfenbannrune|Alfenbannrune]], [[Inhalt/Talente/Zauber/Alpgestalt|Alpgestalt]], [[Inhalt/Talente/Zauber/Aufwecken|Aufwecken]], [[Inhalt/Talente/Zauber/Band und Fessel|Band und Fessel]], [[Inhalt/Talente/Zauber/Bannbaladin|Bannbaladin]], [[Inhalt/Talente/Zauber/Barbar des Anführers|Barbar des Anführers]], [[Inhalt/Talente/Zauber/Beruhigung der Tiergeister|Beruhigung der Tiergeister]], [[Inhalt/Talente/Zauber/Besessenheit herbeirufen|Besessenheit herbeirufen]], [[Inhalt/Talente/Zauber/Bienenkönigin|Bienenkönigin]], [[Inhalt/Talente/Zauber/Bienenschwarm|Bienenschwarm]], [[Inhalt/Talente/Zauber/Bindungspartner finden|Bindungspartner finden]], [[Inhalt/Talente/Zauber/Blitz dich find|Blitz dich find]], [[Inhalt/Talente/Zauber/Böser Blick|Böser Blick]], [[Inhalt/Talente/Zauber/Dichter und Denker|Dichter und Denker]], [[Inhalt/Talente/Zauber/Disharmonischer Klang|Disharmonischer Klang]], [[Inhalt/Talente/Zauber/Drachenrune|Drachenrune]], [[Inhalt/Talente/Zauber/Eigene Ängste quälen dich!|Eigene Ängste quälen dich!]], [[Inhalt/Talente/Zauber/Einfluss bannen|Einfluss bannen]], [[Inhalt/Talente/Zauber/Erinnerung verlasse dich!|Erinnerung verlasse dich!]], [[Inhalt/Talente/Zauber/Erster unter gleichen|Erster unter gleichen]], [[Inhalt/Talente/Zauber/Fanal der Herrschaft|Fanal der Herrschaft]], [[Inhalt/Talente/Zauber/Fluch der Verwirrung|Fluch der Verwirrung]], [[Inhalt/Talente/Zauber/Fluch des (Tieres)|Fluch des (Tieres)]], [[Inhalt/Talente/Zauber/Friedenslied|Friedenslied]], [[Inhalt/Talente/Zauber/Friedensrune|Friedensrune]], [[Inhalt/Talente/Zauber/Furchtrune|Furchtrune]], [[Inhalt/Talente/Zauber/Geister der Täuschung|Geister der Täuschung]], [[Inhalt/Talente/Zauber/Geistesmanipulation|Geistesmanipulation]], [[Inhalt/Talente/Zauber/Gezücht des Meisters|Gezücht des Meisters]], [[Inhalt/Talente/Zauber/Große Gier|Große Gier]], [[Inhalt/Talente/Zauber/Halluzination|Halluzination]], [[Inhalt/Talente/Zauber/Harmlose Gestalt|Harmlose Gestalt]], [[Inhalt/Talente/Zauber/Herr der Tiergeister|Herr der Tiergeister]], [[Inhalt/Talente/Zauber/Herr über das Tierreich|Herr über das Tierreich]], [[Inhalt/Talente/Zauber/Herzschlag ruhe!|Herzschlag ruhe!]], [[Inhalt/Talente/Zauber/Hexenknoten|Hexenknoten]], [[Inhalt/Talente/Zauber/Hilfreiche Tatze, rettende Schwinge|Hilfreiche Tatze, rettende Schwinge]], [[Inhalt/Talente/Zauber/Horriphobus Schreckgestalt|Horriphobus Schreckgestalt]], [[Inhalt/Talente/Zauber/Hypnose|Hypnose]], [[Inhalt/Talente/Zauber/Hypnotisches Zeichen|Hypnotisches Zeichen]], [[Inhalt/Talente/Zauber/Höllenpein zerreiße dich!|Höllenpein zerreiße dich!]], [[Inhalt/Talente/Zauber/Ignorantia Ungesehen|Ignorantia Ungesehen]], [[Inhalt/Talente/Zauber/Imperavi Handlungszwang|Imperavi Handlungszwang]], [[Inhalt/Talente/Zauber/Iribaars Hand|Iribaars Hand]], [[Inhalt/Talente/Zauber/Juckreiz, dämlicher!|Juckreiz, dämlicher!]], [[Inhalt/Talente/Zauber/Karnifilo Raserei|Karnifilo Raserei]], [[Inhalt/Talente/Zauber/Koboldgeschenk|Koboldgeschenk]], [[Inhalt/Talente/Zauber/Kontrolle der Miniatur|Kontrolle der Miniatur]], [[Inhalt/Talente/Zauber/Krähenruf|Krähenruf]], [[Inhalt/Talente/Zauber/Krötenkuss|Krötenkuss]], [[Inhalt/Talente/Zauber/Kusch!|Kusch!]], [[Inhalt/Talente/Zauber/Lach dich gesund|Lach dich gesund]], [[Inhalt/Talente/Zauber/Lachkrampf|Lachkrampf]], [[Inhalt/Talente/Zauber/Levthans Feuer|Levthans Feuer]], [[Inhalt/Talente/Zauber/Lied der Freundschaft|Lied der Freundschaft]], [[Inhalt/Talente/Zauber/Lied der Lieder|Lied der Lieder]], [[Inhalt/Talente/Zauber/Lied des Handels|Lied des Handels]], [[Inhalt/Talente/Zauber/Lied des Schmerzes|Lied des Schmerzes]], [[Inhalt/Talente/Zauber/Lied des Trostes|Lied des Trostes]], [[Inhalt/Talente/Zauber/Lied des Zögerns|Lied des Zögerns]], [[Inhalt/Talente/Zauber/Lockruf (Wesen)|Lockruf (Wesen)]], [[Inhalt/Talente/Zauber/Macht des Blutes|Macht des Blutes]], [[Inhalt/Talente/Zauber/Mailam Rekdais Segen|Mailam Rekdais Segen]], [[Inhalt/Talente/Zauber/Melodie der Angriffslust|Melodie der Angriffslust]], [[Inhalt/Talente/Zauber/Melodie der Beruhigung|Melodie der Beruhigung]], [[Inhalt/Talente/Zauber/Melodie der Besänftigung|Melodie der Besänftigung]], [[Inhalt/Talente/Zauber/Melodie der Ermutigung|Melodie der Ermutigung]], [[Inhalt/Talente/Zauber/Melodie der Versöhnung|Melodie der Versöhnung]], [[Inhalt/Talente/Zauber/Melodie des Einlullens|Melodie des Einlullens]], [[Inhalt/Talente/Zauber/Memorabia Falsifir|Memorabia Falsifir]], [[Inhalt/Talente/Zauber/Miniatur der Herrschaft|Miniatur der Herrschaft]], [[Inhalt/Talente/Zauber/Murks und Patz|Murks und Patz]], [[Inhalt/Talente/Zauber/Panik überkomme euch!|Panik überkomme euch!]], [[Inhalt/Talente/Zauber/Papperlapapp|Papperlapapp]], [[Inhalt/Talente/Zauber/Reitender Geist|Reitender Geist]], [[Inhalt/Talente/Zauber/Respondami Wahrheitszwang|Respondami Wahrheitszwang]], [[Inhalt/Talente/Zauber/Rhythmen der Ermutigung|Rhythmen der Ermutigung]], [[Inhalt/Talente/Zauber/Rhythmen des Handels|Rhythmen des Handels]], [[Inhalt/Talente/Zauber/Rhythmen des Zögerns|Rhythmen des Zögerns]], [[Inhalt/Talente/Zauber/Ruf des (Tieres)|Ruf des (Tieres)]], [[Inhalt/Talente/Zauber/Ruf des Vampirs|Ruf des Vampirs]], [[Inhalt/Talente/Zauber/Sanftmut|Sanftmut]], [[Inhalt/Talente/Zauber/Schabernack|Schabernack]], [[Inhalt/Talente/Zauber/Schelmenlaune|Schelmenlaune]], [[Inhalt/Talente/Zauber/Schelmenrausch|Schelmenrausch]], [[Inhalt/Talente/Zauber/Schlaf rauben|Schlaf rauben]], [[Inhalt/Talente/Zauber/Schlaffluch|Schlaffluch]], [[Inhalt/Talente/Zauber/Schmerzen der Miniatur|Schmerzen der Miniatur]], [[Inhalt/Talente/Zauber/Schmerzen lindern|Schmerzen lindern]], [[Inhalt/Talente/Zauber/Schutzkreis gegen Reptilien|Schutzkreis gegen Reptilien]], [[Inhalt/Talente/Zauber/Schutzkreis gegen Ungeziefer|Schutzkreis gegen Ungeziefer]], [[Inhalt/Talente/Zauber/Schwarzer Schrecken|Schwarzer Schrecken]], [[Inhalt/Talente/Zauber/Seidenzunge Elfenwort|Seidenzunge Elfenwort]], [[Inhalt/Talente/Zauber/Siegel der Seelenruhe|Siegel der Seelenruhe]], [[Inhalt/Talente/Zauber/Sklavenlied|Sklavenlied]], [[Inhalt/Talente/Zauber/Somnigravis|Somnigravis]], [[Inhalt/Talente/Zauber/Tabuzone|Tabuzone]], [[Inhalt/Talente/Zauber/Tanz der Angriffslust|Tanz der Angriffslust]], [[Inhalt/Talente/Zauber/Tanz der Betörung|Tanz der Betörung]], [[Inhalt/Talente/Zauber/Tanz der Ermutigung|Tanz der Ermutigung]], [[Inhalt/Talente/Zauber/Tanz der Wacht|Tanz der Wacht]], [[Inhalt/Talente/Zauber/Tanz des Blutrausches|Tanz des Blutrausches]], [[Inhalt/Talente/Zauber/Tanz des Handels|Tanz des Handels]], [[Inhalt/Talente/Zauber/Tanz ohne Ende|Tanz ohne Ende]], [[Inhalt/Talente/Zauber/Tauschplatz|Tauschplatz]], [[Inhalt/Talente/Zauber/Ungesehenes Zeichen|Ungesehenes Zeichen]], [[Inhalt/Talente/Zauber/Verborgen vor Blicken|Verborgen vor Blicken]], [[Inhalt/Talente/Zauber/Vipernblick|Vipernblick]], [[Inhalt/Talente/Zauber/Weckruf|Weckruf]], [[Inhalt/Talente/Zauber/Widerwille Ungemach|Widerwille Ungemach]], [[Inhalt/Talente/Zauber/Wunschglyphe|Wunschglyphe]], [[Inhalt/Talente/Zauber/Zaubernahrung Hungerbann|Zaubernahrung Hungerbann]], [[Inhalt/Talente/Zauber/Zauberzwang|Zauberzwang]], [[Inhalt/Talente/Zauber/Zorn des Berglöwen|Zorn des Berglöwen]], [[Inhalt/Talente/Zauber/Zwingtanz|Zwingtanz]], [[Inhalt/Talente/Zauber/Ängste lindern|Ängste lindern]], [[Inhalt/Talente/Zauber/Ängste mehren|Ängste mehren]]
-- **Voraussetzungen:** Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Shakagra I
+- **Talente:**
+  - [[Alfenbannrune]]
+  - [[Alpgestalt]]
+  - [[Aufwecken]]
+  - [[Band und Fessel]]
+  - [[Bannbaladin]]
+  - [[Barbar des Anführers]]
+  - [[Beruhigung der Tiergeister]]
+  - [[Besessenheit herbeirufen]]
+  - [[Bienenkönigin]]
+  - [[Bienenschwarm]]
+  - [[Bindungspartner finden]]
+  - [[Blitz dich find]]
+  - [[Böser Blick]]
+  - [[Dichter und Denker]]
+  - [[Disharmonischer Klang]]
+  - [[Drachenrune]]
+  - [[Eigene Ängste quälen dich|Eigene Ängste quälen dich!]]
+  - [[Einfluss bannen]]
+  - [[Erinnerung verlasse dich|Erinnerung verlasse dich!]]
+  - [[Erster unter gleichen]]
+  - [[Fanal der Herrschaft]]
+  - [[Fluch der Verwirrung]]
+  - [[Fluch des (Tieres)]]
+  - [[Friedenslied]]
+  - [[Friedensrune]]
+  - [[Furchtrune]]
+  - [[Geister der Täuschung]]
+  - [[Geistesmanipulation]]
+  - [[Gezücht des Meisters]]
+  - [[Große Gier]]
+  - [[Halluzination]]
+  - [[Harmlose Gestalt]]
+  - [[Herr der Tiergeister]]
+  - [[Herr über das Tierreich]]
+  - [[Herzschlag ruhe|Herzschlag ruhe!]]
+  - [[Hexenknoten]]
+  - [[Hilfreiche Tatze, rettende Schwinge]]
+  - [[Horriphobus Schreckgestalt]]
+  - [[Hypnose]]
+  - [[Hypnotisches Zeichen]]
+  - [[Höllenpein zerreiße dich|Höllenpein zerreiße dich!]]
+  - [[Ignorantia Ungesehen]]
+  - [[Imperavi Handlungszwang]]
+  - [[Iribaars Hand]]
+  - [[Juckreiz, dämlicher|Juckreiz, dämlicher!]]
+  - [[Karnifilo Raserei]]
+  - [[Koboldgeschenk]]
+  - [[Kontrolle der Miniatur]]
+  - [[Krähenruf]]
+  - [[Krötenkuss]]
+  - [[Kusch|Kusch!]]
+  - [[Lach dich gesund]]
+  - [[Lachkrampf]]
+  - [[Levthans Feuer]]
+  - [[Lied der Freundschaft]]
+  - [[Lied der Lieder]]
+  - [[Lied des Handels]]
+  - [[Lied des Schmerzes]]
+  - [[Lied des Trostes]]
+  - [[Lied des Zögerns]]
+  - [[Lockruf (Wesen)]]
+  - [[Macht des Blutes]]
+  - [[Mailam Rekdais Segen]]
+  - [[Melodie der Angriffslust]]
+  - [[Melodie der Beruhigung]]
+  - [[Melodie der Besänftigung]]
+  - [[Melodie der Ermutigung]]
+  - [[Melodie der Versöhnung]]
+  - [[Melodie des Einlullens]]
+  - [[Memorabia Falsifir]]
+  - [[Miniatur der Herrschaft]]
+  - [[Murks und Patz]]
+  - [[Panik überkomme euch|Panik überkomme euch!]]
+  - [[Papperlapapp]]
+  - [[Reitender Geist]]
+  - [[Respondami Wahrheitszwang]]
+  - [[Rhythmen der Ermutigung]]
+  - [[Rhythmen des Handels]]
+  - [[Rhythmen des Zögerns]]
+  - [[Ruf des (Tieres)]]
+  - [[Ruf des Vampirs]]
+  - [[Sanftmut]]
+  - [[Schabernack]]
+  - [[Schelmenlaune]]
+  - [[Schelmenrausch]]
+  - [[Schlaf rauben]]
+  - [[Schlaffluch]]
+  - [[Schmerzen der Miniatur]]
+  - [[Schmerzen lindern]]
+  - [[Schutzkreis gegen Reptilien]]
+  - [[Schutzkreis gegen Ungeziefer]]
+  - [[Schwarzer Schrecken]]
+  - [[Seidenzunge Elfenwort]]
+  - [[Siegel der Seelenruhe]]
+  - [[Sklavenlied]]
+  - [[Somnigravis]]
+  - [[Tabuzone]]
+  - [[Tanz der Angriffslust]]
+  - [[Tanz der Betörung]]
+  - [[Tanz der Ermutigung]]
+  - [[Tanz der Wacht]]
+  - [[Tanz des Blutrausches]]
+  - [[Tanz des Handels]]
+  - [[Tanz ohne Ende]]
+  - [[Tauschplatz]]
+  - [[Ungesehenes Zeichen]]
+  - [[Verborgen vor Blicken]]
+  - [[Vipernblick]]
+  - [[Weckruf]]
+  - [[Widerwille Ungemach]]
+  - [[Wunschglyphe]]
+  - [[Zaubernahrung Hungerbann]]
+  - [[Zauberzwang]]
+  - [[Zorn des Berglöwen]]
+  - [[Zwingtanz]]
+  - [[Ängste lindern]]
+  - [[Ängste mehren]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Shakagra I]]

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: ef278040-c06f-40b6-9576-46c3536efcf3
+ID: 85570424-1ba4-40d2-917e-0296b0c1e5bf
 Name: Gladiatorenstil
 title: Gladiatorenstil
 Kategorie: Kampf
 Voraussetzungen: Attribut GE 6
 Querverweise:
-  - "[[Inhalt/Kapitel/Umreißen|Umreißen]]"
+  - "[[Umreißen]]"
 Nachkauf: häufig
 Kosten: 40
 ---
@@ -15,5 +15,6 @@ Deine unbewaffneten Umreißen-Manöver sind spektakulär. Wenn die Gegenprobe de
 ---
 
 - **Kosten:** 40 EP
-- **Voraussetzungen:** Attribut GE 6
-- **Siehe auch:** [[Inhalt/Kapitel/Umreißen|Umreißen]]
+- **Voraussetzungen:**
+  - Attribut [[Gewandheit|GE]] 6
+- **Siehe auch:** [[Umreißen]]

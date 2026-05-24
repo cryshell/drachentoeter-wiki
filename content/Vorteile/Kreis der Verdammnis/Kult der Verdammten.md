@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 47884737-af1f-45fc-8d7c-2e6b7c7deb5d
+ID: 91e171f1-5fa4-4145-9643-d851ad9919e3
 Name: Kult der Verdammten
 title: Kult der Verdammten
 Kategorie: Kreis der Verdammnis
@@ -16,5 +16,5 @@ Für mindestens 2/4/8/16 Mitbetende ist die Anrufungsprobe um +1/2/3/4 erleichte
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut CH 6"
-  - "Vorteil Paktierer I"
+  - Attribut [[Charisma|CH]] 6
+  - Vorteil [[Paktierer I]]

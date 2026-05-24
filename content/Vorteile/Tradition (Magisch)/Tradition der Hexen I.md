@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b9256d24-285f-4795-bfee-b9f128a842c7
+ID: 7be9cdee-33bb-4fef-a546-6fa548d10929
 Name: Tradition der Hexen I
 title: Tradition der Hexen I
 Kategorie: Tradition (Magisch)
@@ -18,5 +18,5 @@ Die Bedingung Bodenkontakt kann nur ignoriert werden, wenn du zumindest über in
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut IN 4"
-  - "Vorteil Zauberer I"
+  - Attribut [[Intuition|IN]] 4
+  - Vorteil [[Zauberer I]]

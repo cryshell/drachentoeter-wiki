@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 6563dafa-2288-4434-9a39-bfa0fff307b4
+ID: fd5dc956-7d0e-4314-a664-e29c5a5bf276
 Name: Hilferuf
 title: Hilferuf
 Kategorie: Zauber

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Vorteil
-ID: cc3002b4-20bc-4318-b970-1741abcc9947
+ID: 8c0466bf-5ba1-49f1-95df-fc2e5070f023
 Name: Magiegespür
 title: Magiegespür
 Kategorie: Allgemein
 Querverweise:
-  - "[[Inhalt/Talente/Profan/Wahrnehmung/Sinnenschärfe|Sinnenschärfe]]"
+  - "[[Sinnenschärfe]]"
 Nachkauf: extrem selten
 Kosten: 60
 ---
@@ -14,4 +14,4 @@ In der Nähe astraler Kräfte überfällt dich ein Frösteln, du hörst sphäris
 ---
 
 - **Kosten:** 60 EP
-- **Siehe auch:** [[Inhalt/Talente/Profan/Wahrnehmung/Sinnenschärfe|Sinnenschärfe]]
+- **Siehe auch:** [[Sinnenschärfe]]

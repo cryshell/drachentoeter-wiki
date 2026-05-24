@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Vorteil
-ID: 59d35acc-39e3-404e-9b0c-e6b1786710af
+ID: 0dbb31ed-7a8e-41fc-b01b-b4f0e908a014
 Name: Berittener Schütze
 title: Berittener Schütze
 Kategorie: Kampf
 Voraussetzungen: Attribut IN 4
 Querverweise:
-  - "[[Inhalt/Kapitel/Fernkampf|Fernkampf]]"
-  - "[[Inhalt/Vorteile/Reflexschuss|Reflexschuss]]"
+  - "[[Fernkampf]]"
+  - "[[Reflexschuss]]"
 Nachkauf: häufig
 Kosten: 20
 ---
@@ -17,5 +17,6 @@ Kosten: 20
 ---
 
 - **Kosten:** 20 EP
-- **Voraussetzungen:** Attribut IN 4
-- **Siehe auch:** [[Inhalt/Kapitel/Fernkampf|Fernkampf]], [[Inhalt/Vorteile/Reflexschuss|Reflexschuss]]
+- **Voraussetzungen:**
+  - Attribut [[Intuition|IN]] 4
+- **Siehe auch:** [[Fernkampf]], [[Reflexschuss]]

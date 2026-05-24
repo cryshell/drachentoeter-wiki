@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f8d005f9-4c13-47c6-ba8d-8d829601ea43
+ID: 8d0cdb50-1ed9-41d2-9308-a3eaee42a168
 Name: Wahre Namen Lolgramoths I
 title: Wahre Namen Lolgramoths I
 Kategorie: Wahre Namen
@@ -16,5 +16,5 @@ Du kannst alle Dämonen Lolgramoths bis zu einer Beschwörungsschwierigkeit von 
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
-  - "Attribut KL 4"
+  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Attribut [[Klugheit|KL]] 4

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f95ed781-3676-4da6-995e-52eaead6a97c
+ID: 33e953a2-662f-4ec1-a6a6-741d635661ff
 Name: Fluch der Götter (Kamaluq)
 title: Fluch der Götter (Kamaluq)
 Kategorie: Nachteil
@@ -13,4 +13,5 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Kamaluq), Empfindlichkeit I (Pfla
 ---
 
 - **Kosten:** -200 EP
-- **Voraussetzungen:** Vorteil Vampir I
+- **Voraussetzungen:**
+  - Vorteil [[Vampir I]]

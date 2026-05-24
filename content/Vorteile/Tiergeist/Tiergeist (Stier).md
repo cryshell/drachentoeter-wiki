@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c983ec32-c88f-42c8-829f-ea21baf17964
+ID: d897b8b2-a67c-4b24-81a9-4b8eff88be0d
 Name: Tiergeist (Stier)
 title: Tiergeist (Stier)
 Kategorie: Tiergeist
@@ -8,10 +8,10 @@ Voraussetzungen:
   - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
   - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
 Querverweise:
-  - "[[Inhalt/Talente/Zauber/Attributo|Attributo]]"
-  - "[[Inhalt/Talente/Zauber/Horriphobus Schreckgestalt|Horriphobus Schreckgestalt]]"
-  - "[[Inhalt/Talente/Zauber/Sensattaco Meisterstreich|Sensattaco Meisterstreich]]"
-  - "[[Inhalt/Talente/Zauber/Standfest Katzengleich|Standfest Katzengleich]]"
+  - "[[Attributo]]"
+  - "[[Horriphobus Schreckgestalt]]"
+  - "[[Sensattaco Meisterstreich]]"
+  - "[[Standfest Katzengleich]]"
 Nachkauf: häufig
 Kosten: 0
 ---
@@ -26,6 +26,6 @@ Kosten: 0
 
 - **Kosten:** 0 EP
 - **Voraussetzungen:**
-  - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
-  - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
-- **Siehe auch:** [[Inhalt/Talente/Zauber/Attributo|Attributo]], [[Inhalt/Talente/Zauber/Horriphobus Schreckgestalt|Horriphobus Schreckgestalt]], [[Inhalt/Talente/Zauber/Sensattaco Meisterstreich|Sensattaco Meisterstreich]], [[Inhalt/Talente/Zauber/Standfest Katzengleich|Standfest Katzengleich]]
+  - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
+  - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
+- **Siehe auch:** [[Attributo]], [[Horriphobus Schreckgestalt]], [[Sensattaco Meisterstreich]], [[Standfest Katzengleich]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a3a5cbcb-20c3-44f1-9571-113f5eeab1d3
+ID: 59ad5a10-c039-4891-9f78-84820ed3a677
 Name: Tradition der Praiosgeweihten IV
 title: Tradition der Praiosgeweihten IV
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut CH 10"
-  - "Vorteil Tradition der Praiosgeweihten III"
+  - MeisterAttribut [[Charisma|CH]] 10
+  - Vorteil [[Tradition der Praiosgeweihten III]]

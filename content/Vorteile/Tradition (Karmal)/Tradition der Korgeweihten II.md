@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 1f6cb5c9-2d83-4582-af69-cb8be64454d4
+ID: 6ae9015b-f384-4e41-82e0-0a4477b81d97
 Name: Tradition der Korgeweihten II
 title: Tradition der Korgeweihten II
 Kategorie: Tradition (Karmal)
@@ -8,7 +8,7 @@ Voraussetzungen:
   - Attribut MU 6
   - Vorteil Tradition der Korgeweihten I
 Querverweise:
-  - "[[Inhalt/Vorteile/Kalte Wut|Kalte Wut]]"
+  - "[[Kalte Wut]]"
 Nachkauf: häufig
 Kosten: 40
 ---
@@ -18,6 +18,6 @@ Korgeweihte werden durch erlittene Wunden eher noch gefährlicher. Der Wundmalus
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut MU 6"
-  - "Vorteil Tradition der Korgeweihten I"
-- **Siehe auch:** [[Inhalt/Vorteile/Kalte Wut|Kalte Wut]]
+  - Attribut [[Mut|MU]] 6
+  - Vorteil [[Tradition der Korgeweihten I]]
+- **Siehe auch:** [[Kalte Wut]]

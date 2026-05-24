@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: ebe08b83-fe13-420d-b950-03b0fcb88aba
+ID: 2879367c-fc20-4cc2-8d59-bf68171ea2a5
 Name: Tradition der Rondrageweihten I
 title: Tradition der Rondrageweihten I
 Kategorie: Tradition (Karmal)
@@ -19,6 +19,6 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen Rondras Gebote verstößt: Vert
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut MU 4"
-  - "Vorteil Geweiht I"
-  - "Kein Vorteil Tradition der *geweihten I"
+  - Attribut [[Mut|MU]] 4
+  - Vorteil [[Geweiht I]]
+  - Kein Vorteil Tradition der *geweihten I

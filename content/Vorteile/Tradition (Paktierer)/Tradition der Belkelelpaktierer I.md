@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 35140821-f658-4cef-bfc2-dc4fbdcb656a
+ID: 63284fbf-71c4-4950-a2ea-e09f1fa453f7
 Name: Tradition der Belkelelpaktierer I
 title: Tradition der Belkelelpaktierer I
 Kategorie: Tradition (Paktierer)
@@ -19,6 +19,6 @@ Dämonische Kräfte sind chaotisch, Anrufungsproben werden mit 1W20 gewürfelt.
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut MU 4"
-  - "Vorteil Paktierer I"
-  - "Kein Vorteil Tradition der *paktierer I"
+  - Attribut [[Mut|MU]] 4
+  - Vorteil [[Paktierer I]]
+  - Kein Vorteil Tradition der *paktierer I

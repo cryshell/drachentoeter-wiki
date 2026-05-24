@@ -1,30 +1,30 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 34688ff0-f8cf-4d7b-a1cf-79393a0b64c7
+ID: 75d7c04b-7c26-45e2-89b0-7e4b1fa13e4b
 Name: Anrufung Amazeroths
 title: Anrufung Amazeroths
 Kategorie: Anrufungen
 Attribute:
-  - "[[Inhalt/Attribute/KL|KL]]"
-  - "[[Inhalt/Attribute/KL|KL]]"
-  - "[[Inhalt/Attribute/IN|IN]]"
+  - "[[Klugheit|KL]]"
+  - "[[Klugheit|KL]]"
+  - "[[Intuition|IN]]"
 Steigerungsfaktor: 3
 Talente:
-  - "[[Inhalt/Talente/Anrufungen/Blick des Blenders|Blick des Blenders]]"
-  - "[[Inhalt/Talente/Anrufungen/Dämonische Stärkung: Alchemie|Dämonische Stärkung: Alchemie]]"
-  - "[[Inhalt/Talente/Anrufungen/Dämonische Stärkung: Bildung|Dämonische Stärkung: Bildung]]"
-  - "[[Inhalt/Talente/Anrufungen/Dämonische Stärkung: FF|Dämonische Stärkung: FF]]"
-  - "[[Inhalt/Talente/Anrufungen/Dämonische Stärkung: IN|Dämonische Stärkung: IN]]"
-  - "[[Inhalt/Talente/Anrufungen/Dämonische Stärkung: KL|Dämonische Stärkung: KL]]"
-  - "[[Inhalt/Talente/Anrufungen/Dämonische Stärkung: MR|Dämonische Stärkung: MR]]"
-  - "[[Inhalt/Talente/Anrufungen/Dämonische Stärkung: Magiekunde|Dämonische Stärkung: Magiekunde]]"
-  - "[[Inhalt/Talente/Anrufungen/Dämonische Stärkung: Mythenkunde|Dämonische Stärkung: Mythenkunde]]"
-  - "[[Inhalt/Talente/Anrufungen/Dämonische Stärkung: Naturkunde|Dämonische Stärkung: Naturkunde]]"
-  - "[[Inhalt/Talente/Anrufungen/Macht des Wahnsinns|Macht des Wahnsinns]]"
-  - "[[Inhalt/Talente/Anrufungen/Trugwelten erschaffen|Trugwelten erschaffen]]"
-  - "[[Inhalt/Talente/Anrufungen/Verborgenes Wissen erspüren|Verborgenes Wissen erspüren]]"
-  - "[[Inhalt/Talente/Anrufungen/Verbotenes Schrifttum|Verbotenes Schrifttum]]"
-  - "[[Inhalt/Talente/Anrufungen/Zaubervariabilität (passiv)|Zaubervariabilität (passiv)]]"
+  - "[[Blick des Blenders]]"
+  - "[[Dämonische Stärkung Alchemie|Dämonische Stärkung: Alchemie]]"
+  - "[[Dämonische Stärkung Bildung|Dämonische Stärkung: Bildung]]"
+  - "[[Dämonische Stärkung FF|Dämonische Stärkung: FF]]"
+  - "[[Dämonische Stärkung IN|Dämonische Stärkung: IN]]"
+  - "[[Dämonische Stärkung KL|Dämonische Stärkung: KL]]"
+  - "[[Dämonische Stärkung MR|Dämonische Stärkung: MR]]"
+  - "[[Dämonische Stärkung Magiekunde|Dämonische Stärkung: Magiekunde]]"
+  - "[[Dämonische Stärkung Mythenkunde|Dämonische Stärkung: Mythenkunde]]"
+  - "[[Dämonische Stärkung Naturkunde|Dämonische Stärkung: Naturkunde]]"
+  - "[[Macht des Wahnsinns]]"
+  - "[[Trugwelten erschaffen]]"
+  - "[[Verborgenes Wissen erspüren]]"
+  - "[[Verbotenes Schrifttum]]"
+  - "[[Zaubervariabilität (passiv)]]"
 Voraussetzungen: Vorteil Tradition der Amazerothpaktierer I
 ---
 Amazeroth, Widersacher von Hesinde und vielgestaltiger Blender, teilt mit seinen Paktierern verschollenes oder verbotenes Wissen.
@@ -32,7 +32,23 @@ Es ist üblich, dass Amazeroth-Paktierer die Vorteile Zauberer I und Tradition d
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/KL|KL]], [[Inhalt/Attribute/KL|KL]], [[Inhalt/Attribute/IN|IN]]
+- **Attribute:** [[Klugheit|KL]], [[Klugheit|KL]], [[Intuition|IN]]
 - **Steigerungsfaktor:** 3
-- **Talente:** [[Inhalt/Talente/Anrufungen/Blick des Blenders|Blick des Blenders]], [[Inhalt/Talente/Anrufungen/Dämonische Stärkung: Alchemie|Dämonische Stärkung: Alchemie]], [[Inhalt/Talente/Anrufungen/Dämonische Stärkung: Bildung|Dämonische Stärkung: Bildung]], [[Inhalt/Talente/Anrufungen/Dämonische Stärkung: FF|Dämonische Stärkung: FF]], [[Inhalt/Talente/Anrufungen/Dämonische Stärkung: IN|Dämonische Stärkung: IN]], [[Inhalt/Talente/Anrufungen/Dämonische Stärkung: KL|Dämonische Stärkung: KL]], [[Inhalt/Talente/Anrufungen/Dämonische Stärkung: MR|Dämonische Stärkung: MR]], [[Inhalt/Talente/Anrufungen/Dämonische Stärkung: Magiekunde|Dämonische Stärkung: Magiekunde]], [[Inhalt/Talente/Anrufungen/Dämonische Stärkung: Mythenkunde|Dämonische Stärkung: Mythenkunde]], [[Inhalt/Talente/Anrufungen/Dämonische Stärkung: Naturkunde|Dämonische Stärkung: Naturkunde]], [[Inhalt/Talente/Anrufungen/Macht des Wahnsinns|Macht des Wahnsinns]], [[Inhalt/Talente/Anrufungen/Trugwelten erschaffen|Trugwelten erschaffen]], [[Inhalt/Talente/Anrufungen/Verborgenes Wissen erspüren|Verborgenes Wissen erspüren]], [[Inhalt/Talente/Anrufungen/Verbotenes Schrifttum|Verbotenes Schrifttum]], [[Inhalt/Talente/Anrufungen/Zaubervariabilität (passiv)|Zaubervariabilität (passiv)]]
-- **Voraussetzungen:** Vorteil Tradition der Amazerothpaktierer I
+- **Talente:**
+  - [[Blick des Blenders]]
+  - [[Dämonische Stärkung Alchemie|Dämonische Stärkung: Alchemie]]
+  - [[Dämonische Stärkung Bildung|Dämonische Stärkung: Bildung]]
+  - [[Dämonische Stärkung FF|Dämonische Stärkung: FF]]
+  - [[Dämonische Stärkung IN|Dämonische Stärkung: IN]]
+  - [[Dämonische Stärkung KL|Dämonische Stärkung: KL]]
+  - [[Dämonische Stärkung MR|Dämonische Stärkung: MR]]
+  - [[Dämonische Stärkung Magiekunde|Dämonische Stärkung: Magiekunde]]
+  - [[Dämonische Stärkung Mythenkunde|Dämonische Stärkung: Mythenkunde]]
+  - [[Dämonische Stärkung Naturkunde|Dämonische Stärkung: Naturkunde]]
+  - [[Macht des Wahnsinns]]
+  - [[Trugwelten erschaffen]]
+  - [[Verborgenes Wissen erspüren]]
+  - [[Verbotenes Schrifttum]]
+  - [[Zaubervariabilität (passiv)]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Amazerothpaktierer I]]

@@ -1,23 +1,26 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 534d343b-240c-498d-930a-e8e4bdd922fa
+ID: 5f64f874-abc2-4032-870e-b2f85abba242
 Name: Alchemie
 title: Alchemie
 Kategorie: Handwerk
 Attribute:
-  - "[[Inhalt/Attribute/FF|FF]]"
-  - "[[Inhalt/Attribute/KL|KL]]"
-  - "[[Inhalt/Attribute/MU|MU]]"
+  - "[[Fingerfertigkeit|FF]]"
+  - "[[Klugheit|KL]]"
+  - "[[Mut|MU]]"
 Steigerungsfaktor: 3
 Talente:
-  - "[[Inhalt/Talente/Profan/Alchemie/Analyse|Analyse]]"
-  - "[[Inhalt/Talente/Profan/Alchemie/Magische Elixiere|Magische Elixiere]]"
-  - "[[Inhalt/Talente/Profan/Alchemie/Profane Alchemika|Profane Alchemika]]"
+  - "[[Analyse]]"
+  - "[[Magische Elixiere]]"
+  - "[[Profane Alchemika]]"
 ---
 Alchemie ist die Wissenschaft von der Umwandlung der Stoffe. Mit ihr kannst du nützliche Tränke herstellen oder unbekannte Gebräue analysieren; für beides ist aber zumindest ein einfacher Analysekoffer notwendig.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/FF|FF]], [[Inhalt/Attribute/KL|KL]], [[Inhalt/Attribute/MU|MU]]
+- **Attribute:** [[Fingerfertigkeit|FF]], [[Klugheit|KL]], [[Mut|MU]]
 - **Steigerungsfaktor:** 3
-- **Talente:** [[Inhalt/Talente/Profan/Alchemie/Analyse|Analyse]], [[Inhalt/Talente/Profan/Alchemie/Magische Elixiere|Magische Elixiere]], [[Inhalt/Talente/Profan/Alchemie/Profane Alchemika|Profane Alchemika]]
+- **Talente:**
+  - [[Analyse]]
+  - [[Magische Elixiere]]
+  - [[Profane Alchemika]]

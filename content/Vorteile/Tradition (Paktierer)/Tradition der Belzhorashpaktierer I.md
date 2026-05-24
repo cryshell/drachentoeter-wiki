@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d49fa784-7ab5-438b-b3ee-dfc614cf655d
+ID: 733a791f-beb4-43c5-9a09-c604f93b7418
 Name: Tradition der Belzhorashpaktierer I
 title: Tradition der Belzhorashpaktierer I
 Kategorie: Tradition (Paktierer)
@@ -19,6 +19,6 @@ Dämonische Kräfte sind chaotisch, Anrufungsproben werden mit 1W20 gewürfelt.
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut MU 4"
-  - "Vorteil Paktierer I"
-  - "Kein Vorteil Tradition der *paktierer I"
+  - Attribut [[Mut|MU]] 4
+  - Vorteil [[Paktierer I]]
+  - Kein Vorteil Tradition der *paktierer I

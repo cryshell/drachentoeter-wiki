@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c32d46f4-af77-4144-a700-f1456d3d09c9
+ID: c7bbc351-20e3-469e-907c-681957a49f3a
 Name: Tradition der Amazerothpaktierer I
 title: Tradition der Amazerothpaktierer I
 Kategorie: Tradition (Paktierer)
@@ -19,6 +19,6 @@ Dämonische Kräfte sind chaotisch, Anrufungsproben werden mit 1W20 gewürfelt.
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut MU 4"
-  - "Vorteil Paktierer I"
-  - "Kein Vorteil Tradition der *paktierer I"
+  - Attribut [[Mut|MU]] 4
+  - Vorteil [[Paktierer I]]
+  - Kein Vorteil Tradition der *paktierer I

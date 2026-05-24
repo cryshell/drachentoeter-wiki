@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 817fb150-3df3-4532-8e70-7246a393aeaf
+ID: ca39f0d1-8738-4d13-b1f5-a7c139e539b7
 Name: Tradition der Schamanen (Ferkina) I
 title: Tradition der Schamanen (Ferkina) I
 Kategorie: Tradition (Magisch)
@@ -18,5 +18,5 @@ Bei Elementarzaubern kannst du nur Eis, Erz und Luft verwenden. Verärgert der N
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut IN 4"
-  - "Vorteil Zauberer I"
+  - Attribut [[Intuition|IN]] 4
+  - Vorteil [[Zauberer I]]

@@ -1,39 +1,57 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 9f177b65-d919-4083-937d-295f1c48c9fc
+ID: 72e6b07c-e292-4d08-aa36-d2f745069499
 Name: Jagd
 title: Jagd
 Kategorie: Karmale Riten
 Attribute:
-  - "[[Inhalt/Attribute/IN|IN]]"
-  - "[[Inhalt/Attribute/GE|GE]]"
-  - "[[Inhalt/Attribute/MU|MU]]"
+  - "[[Intuition|IN]]"
+  - "[[Gewandheit|GE]]"
+  - "[[Mut|MU]]"
 Steigerungsfaktor: 2
 Talente:
-  - "[[Inhalt/Talente/Liturgien/Auge des Jägers|Auge des Jägers]]"
-  - "[[Inhalt/Talente/Liturgien/Firuns Fluch|Firuns Fluch]]"
-  - "[[Inhalt/Talente/Liturgien/Gemeinschaft treuer Gefährten|Gemeinschaft treuer Gefährten]]"
-  - "[[Inhalt/Talente/Liturgien/Jagdglück|Jagdglück]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: GE|Mirakel: GE]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: IN|Mirakel: IN]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Jagd|Mirakel: Jagd]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Schusswaffen|Mirakel: Schusswaffen]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Wahrnehmung|Mirakel: Wahrnehmung]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Wurfwaffen|Mirakel: Wurfwaffen]]"
-  - "[[Inhalt/Talente/Liturgien/Seelengefährte|Seelengefährte]]"
-  - "[[Inhalt/Talente/Liturgien/Segnung des Heiligen Mikail|Segnung des Heiligen Mikail]]"
-  - "[[Inhalt/Talente/Liturgien/Tiergestalt (Land)|Tiergestalt (Land)]]"
-  - "[[Inhalt/Talente/Liturgien/Tiergestalt (Luft)|Tiergestalt (Luft)]]"
-  - "[[Inhalt/Talente/Liturgien/Tiergestalt (Wasser)|Tiergestalt (Wasser)]]"
-  - "[[Inhalt/Talente/Liturgien/Tiersprache|Tiersprache]]"
-  - "[[Inhalt/Talente/Liturgien/Trophäe erhalten|Trophäe erhalten]]"
+  - "[[Auge des Jägers]]"
+  - "[[Firuns Fluch]]"
+  - "[[Gemeinschaft treuer Gefährten]]"
+  - "[[Jagdglück]]"
+  - "[[Mirakel GE|Mirakel: GE]]"
+  - "[[Mirakel IN|Mirakel: IN]]"
+  - "[[Mirakel Jagd|Mirakel: Jagd]]"
+  - "[[Mirakel Schusswaffen|Mirakel: Schusswaffen]]"
+  - "[[Mirakel Wahrnehmung|Mirakel: Wahrnehmung]]"
+  - "[[Mirakel Wurfwaffen|Mirakel: Wurfwaffen]]"
+  - "[[Seelengefährte]]"
+  - "[[Segnung des Heiligen Mikail]]"
+  - "[[Tiergestalt (Land)]]"
+  - "[[Tiergestalt (Luft)]]"
+  - "[[Tiergestalt (Wasser)]]"
+  - "[[Tiersprache]]"
+  - "[[Trophäe erhalten]]"
 Voraussetzungen: Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Firungeweihten I
 ---
 Die Hüter der Jagd begleiten Jagdgesellschaften und achten über die Einhaltung der waidmännischen Regeln.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/IN|IN]], [[Inhalt/Attribute/GE|GE]], [[Inhalt/Attribute/MU|MU]]
+- **Attribute:** [[Intuition|IN]], [[Gewandheit|GE]], [[Mut|MU]]
 - **Steigerungsfaktor:** 2
-- **Talente:** [[Inhalt/Talente/Liturgien/Auge des Jägers|Auge des Jägers]], [[Inhalt/Talente/Liturgien/Firuns Fluch|Firuns Fluch]], [[Inhalt/Talente/Liturgien/Gemeinschaft treuer Gefährten|Gemeinschaft treuer Gefährten]], [[Inhalt/Talente/Liturgien/Jagdglück|Jagdglück]], [[Inhalt/Talente/Liturgien/Mirakel: GE|Mirakel: GE]], [[Inhalt/Talente/Liturgien/Mirakel: IN|Mirakel: IN]], [[Inhalt/Talente/Liturgien/Mirakel: Jagd|Mirakel: Jagd]], [[Inhalt/Talente/Liturgien/Mirakel: Schusswaffen|Mirakel: Schusswaffen]], [[Inhalt/Talente/Liturgien/Mirakel: Wahrnehmung|Mirakel: Wahrnehmung]], [[Inhalt/Talente/Liturgien/Mirakel: Wurfwaffen|Mirakel: Wurfwaffen]], [[Inhalt/Talente/Liturgien/Seelengefährte|Seelengefährte]], [[Inhalt/Talente/Liturgien/Segnung des Heiligen Mikail|Segnung des Heiligen Mikail]], [[Inhalt/Talente/Liturgien/Tiergestalt (Land)|Tiergestalt (Land)]], [[Inhalt/Talente/Liturgien/Tiergestalt (Luft)|Tiergestalt (Luft)]], [[Inhalt/Talente/Liturgien/Tiergestalt (Wasser)|Tiergestalt (Wasser)]], [[Inhalt/Talente/Liturgien/Tiersprache|Tiersprache]], [[Inhalt/Talente/Liturgien/Trophäe erhalten|Trophäe erhalten]]
-- **Voraussetzungen:** Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Firungeweihten I
+- **Talente:**
+  - [[Auge des Jägers]]
+  - [[Firuns Fluch]]
+  - [[Gemeinschaft treuer Gefährten]]
+  - [[Jagdglück]]
+  - [[Mirakel GE|Mirakel: GE]]
+  - [[Mirakel IN|Mirakel: IN]]
+  - [[Mirakel Jagd|Mirakel: Jagd]]
+  - [[Mirakel Schusswaffen|Mirakel: Schusswaffen]]
+  - [[Mirakel Wahrnehmung|Mirakel: Wahrnehmung]]
+  - [[Mirakel Wurfwaffen|Mirakel: Wurfwaffen]]
+  - [[Seelengefährte]]
+  - [[Segnung des Heiligen Mikail]]
+  - [[Tiergestalt (Land)]]
+  - [[Tiergestalt (Luft)]]
+  - [[Tiergestalt (Wasser)]]
+  - [[Tiersprache]]
+  - [[Trophäe erhalten]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Ifirngeweihten I ODER Vorteil Tradition der Firungeweihten I]]

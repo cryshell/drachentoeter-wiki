@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2d290ccc-f3be-4837-855f-67914ad76085
+ID: 3e24bbc0-80e2-45ee-8c2e-8dac5596e9d9
 Name: Tradition der Aphestadilpaktierer II
 title: Tradition der Aphestadilpaktierer II
 Kategorie: Tradition (Paktierer)
@@ -16,5 +16,5 @@ Paktierer werden durch erlittene Wunden eher noch gefährlicher. Der Wundabzug s
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut MU 6"
-  - "Vorteil Tradition der Aphestadilpaktierer I"
+  - Attribut [[Mut|MU]] 6
+  - Vorteil [[Tradition der Aphestadilpaktierer I]]

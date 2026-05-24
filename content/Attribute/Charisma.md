@@ -1,8 +1,9 @@
 ---
 Entitätstyp: Attribut
-ID: 486f156f-cff8-4969-bdf3-4302344e5e1e
+ID: 2d822091-816a-4252-b700-9fa4dc2b6dab
 Name: Charisma
 title: Charisma
+aliases: "[CH]"
 Abkürzung: CH
 Steigerungsfaktor: 16
 ---

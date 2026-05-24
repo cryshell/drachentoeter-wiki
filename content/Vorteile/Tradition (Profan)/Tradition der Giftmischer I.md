@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f3b444b6-3e3f-4aac-8025-5c42069f5736
+ID: f2e4b32b-4c4c-4205-9c55-b043d66b6205
 Name: Tradition der Giftmischer I
 title: Tradition der Giftmischer I
 Kategorie: Tradition (Profan)
@@ -13,4 +13,5 @@ Du beherrschst Rezepte der Tradition der Giftmischer (Gift) bis zu einer Verbrei
 ---
 
 - **Kosten:** 20 EP
-- **Voraussetzungen:** Attribut FF 4
+- **Voraussetzungen:**
+  - Attribut [[Fingerfertigkeit|FF]] 4

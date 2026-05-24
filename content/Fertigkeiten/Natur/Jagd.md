@@ -1,24 +1,28 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 0ca321ee-ade4-4f3f-9989-231dfdc3a939
+ID: 736c6f00-e2db-4600-a225-05bb32f852af
 Name: Jagd
 title: Jagd
 Kategorie: Natur
 Attribute:
-  - "[[Inhalt/Attribute/GE|GE]]"
-  - "[[Inhalt/Attribute/IN|IN]]"
-  - "[[Inhalt/Attribute/MU|MU]]"
+  - "[[Gewandheit|GE]]"
+  - "[[Intuition|IN]]"
+  - "[[Mut|MU]]"
 Steigerungsfaktor: 3
 Talente:
-  - "[[Inhalt/Talente/Profan/Jagd/Fallenstellen|Fallenstellen]]"
-  - "[[Inhalt/Talente/Profan/Jagd/Fischen|Fischen]]"
-  - "[[Inhalt/Talente/Profan/Jagd/Fährtensuchen|Fährtensuchen]]"
-  - "[[Inhalt/Talente/Profan/Jagd/Pirschen|Pirschen]]"
+  - "[[Fallenstellen]]"
+  - "[[Fischen]]"
+  - "[[Fährtensuchen]]"
+  - "[[Pirschen]]"
 ---
 Mit Jagd kannst du dich in der Wildnis auf die Lauer legen, Fährten suchen und Tiere jagen.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/GE|GE]], [[Inhalt/Attribute/IN|IN]], [[Inhalt/Attribute/MU|MU]]
+- **Attribute:** [[Gewandheit|GE]], [[Intuition|IN]], [[Mut|MU]]
 - **Steigerungsfaktor:** 3
-- **Talente:** [[Inhalt/Talente/Profan/Jagd/Fallenstellen|Fallenstellen]], [[Inhalt/Talente/Profan/Jagd/Fischen|Fischen]], [[Inhalt/Talente/Profan/Jagd/Fährtensuchen|Fährtensuchen]], [[Inhalt/Talente/Profan/Jagd/Pirschen|Pirschen]]
+- **Talente:**
+  - [[Fallenstellen]]
+  - [[Fischen]]
+  - [[Fährtensuchen]]
+  - [[Pirschen]]

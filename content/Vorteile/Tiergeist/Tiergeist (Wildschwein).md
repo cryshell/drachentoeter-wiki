@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 567eb12a-959d-43f7-8a67-c5169f90e1a9
+ID: 910b37ab-3009-4c71-bf09-807aa17ac5f2
 Name: Tiergeist (Wildschwein)
 title: Tiergeist (Wildschwein)
 Kategorie: Tiergeist
@@ -8,11 +8,11 @@ Voraussetzungen:
   - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
   - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
 Querverweise:
-  - "[[Inhalt/Talente/Zauber/Abvenenum reine Speise|Abvenenum reine Speise]]"
-  - "[[Inhalt/Talente/Zauber/Eins mit der Natur|Eins mit der Natur]]"
-  - "[[Inhalt/Talente/Zauber/Kusch!|Kusch!]]"
-  - "[[Inhalt/Talente/Zauber/Standfest Katzengleich|Standfest Katzengleich]]"
-  - "[[Inhalt/Talente/Zauber/Zaubernahrung Hungerbann|Zaubernahrung Hungerbann]]"
+  - "[[Abvenenum reine Speise]]"
+  - "[[Eins mit der Natur]]"
+  - "[[Kusch|Kusch!]]"
+  - "[[Standfest Katzengleich]]"
+  - "[[Zaubernahrung Hungerbann]]"
 Nachkauf: häufig
 Kosten: 0
 ---
@@ -27,6 +27,6 @@ Kosten: 0
 
 - **Kosten:** 0 EP
 - **Voraussetzungen:**
-  - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
-  - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
-- **Siehe auch:** [[Inhalt/Talente/Zauber/Abvenenum reine Speise|Abvenenum reine Speise]], [[Inhalt/Talente/Zauber/Eins mit der Natur|Eins mit der Natur]], [[Inhalt/Talente/Zauber/Kusch!|Kusch!]], [[Inhalt/Talente/Zauber/Standfest Katzengleich|Standfest Katzengleich]], [[Inhalt/Talente/Zauber/Zaubernahrung Hungerbann|Zaubernahrung Hungerbann]]
+  - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
+  - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
+- **Siehe auch:** [[Abvenenum reine Speise]], [[Eins mit der Natur]], [[Kusch|Kusch!]], [[Standfest Katzengleich]], [[Zaubernahrung Hungerbann]]

@@ -1,36 +1,51 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 57ded13f-cc77-45f6-b602-c669e6034b87
+ID: 1cb492ac-977c-41c1-9677-d97f3d2ab710
 Name: Tod
 title: Tod
 Kategorie: Karmale Riten
 Attribute:
-  - "[[Inhalt/Attribute/KL|KL]]"
-  - "[[Inhalt/Attribute/MU|MU]]"
-  - "[[Inhalt/Attribute/MU|MU]]"
+  - "[[Klugheit|KL]]"
+  - "[[Mut|MU]]"
+  - "[[Mut|MU]]"
 Steigerungsfaktor: 2
 Talente:
-  - "[[Inhalt/Talente/Liturgien/Bannfluch des Heiligen Khalid|Bannfluch des Heiligen Khalid]]"
-  - "[[Inhalt/Talente/Liturgien/Endgültiger Tod|Endgültiger Tod]]"
-  - "[[Inhalt/Talente/Liturgien/Etilias Gnade|Etilias Gnade]]"
-  - "[[Inhalt/Talente/Liturgien/Exorzismus|Exorzismus]]"
-  - "[[Inhalt/Talente/Liturgien/Grabsegen|Grabsegen]]"
-  - "[[Inhalt/Talente/Liturgien/Marbos Geleit|Marbos Geleit]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Diplomatie|Mirakel: Diplomatie]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Feingefühl|Mirakel: Feingefühl]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Heilkunde|Mirakel: Heilkunde]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: KL|Mirakel: KL]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: MU|Mirakel: MU]]"
-  - "[[Inhalt/Talente/Liturgien/Nemekaths Geisterblick|Nemekaths Geisterblick]]"
-  - "[[Inhalt/Talente/Liturgien/Prüfung vergangener Leben|Prüfung vergangener Leben]]"
-  - "[[Inhalt/Talente/Liturgien/Weihe der letzten Ruhestatt|Weihe der letzten Ruhestatt]]"
+  - "[[Bannfluch des Heiligen Khalid]]"
+  - "[[Endgültiger Tod]]"
+  - "[[Etilias Gnade]]"
+  - "[[Exorzismus]]"
+  - "[[Grabsegen]]"
+  - "[[Marbos Geleit]]"
+  - "[[Mirakel Diplomatie|Mirakel: Diplomatie]]"
+  - "[[Mirakel Feingefühl|Mirakel: Feingefühl]]"
+  - "[[Mirakel Heilkunde|Mirakel: Heilkunde]]"
+  - "[[Mirakel KL|Mirakel: KL]]"
+  - "[[Mirakel MU|Mirakel: MU]]"
+  - "[[Nemekaths Geisterblick]]"
+  - "[[Prüfung vergangener Leben]]"
+  - "[[Weihe der letzten Ruhestatt]]"
 Voraussetzungen: Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der V’Sargeweihten I
 ---
 Der Alltag vieler Borongeweihter besteht aus der Sterbebegleitung und der Pflege der Boronsanger. Doch in diesen düsteren Zeiten tauchen auch Untote immer häufiger auf, die von Borongeweihten und den Golgariten entschlossen bekämpft werden.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/KL|KL]], [[Inhalt/Attribute/MU|MU]], [[Inhalt/Attribute/MU|MU]]
+- **Attribute:** [[Klugheit|KL]], [[Mut|MU]], [[Mut|MU]]
 - **Steigerungsfaktor:** 2
-- **Talente:** [[Inhalt/Talente/Liturgien/Bannfluch des Heiligen Khalid|Bannfluch des Heiligen Khalid]], [[Inhalt/Talente/Liturgien/Endgültiger Tod|Endgültiger Tod]], [[Inhalt/Talente/Liturgien/Etilias Gnade|Etilias Gnade]], [[Inhalt/Talente/Liturgien/Exorzismus|Exorzismus]], [[Inhalt/Talente/Liturgien/Grabsegen|Grabsegen]], [[Inhalt/Talente/Liturgien/Marbos Geleit|Marbos Geleit]], [[Inhalt/Talente/Liturgien/Mirakel: Diplomatie|Mirakel: Diplomatie]], [[Inhalt/Talente/Liturgien/Mirakel: Feingefühl|Mirakel: Feingefühl]], [[Inhalt/Talente/Liturgien/Mirakel: Heilkunde|Mirakel: Heilkunde]], [[Inhalt/Talente/Liturgien/Mirakel: KL|Mirakel: KL]], [[Inhalt/Talente/Liturgien/Mirakel: MU|Mirakel: MU]], [[Inhalt/Talente/Liturgien/Nemekaths Geisterblick|Nemekaths Geisterblick]], [[Inhalt/Talente/Liturgien/Prüfung vergangener Leben|Prüfung vergangener Leben]], [[Inhalt/Talente/Liturgien/Weihe der letzten Ruhestatt|Weihe der letzten Ruhestatt]]
-- **Voraussetzungen:** Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der V’Sargeweihten I
+- **Talente:**
+  - [[Bannfluch des Heiligen Khalid]]
+  - [[Endgültiger Tod]]
+  - [[Etilias Gnade]]
+  - [[Exorzismus]]
+  - [[Grabsegen]]
+  - [[Marbos Geleit]]
+  - [[Mirakel Diplomatie|Mirakel: Diplomatie]]
+  - [[Mirakel Feingefühl|Mirakel: Feingefühl]]
+  - [[Mirakel Heilkunde|Mirakel: Heilkunde]]
+  - [[Mirakel KL|Mirakel: KL]]
+  - [[Mirakel MU|Mirakel: MU]]
+  - [[Nemekaths Geisterblick]]
+  - [[Prüfung vergangener Leben]]
+  - [[Weihe der letzten Ruhestatt]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borongeweihten I ODER Vorteil Tradition der V’Sargeweihten I]]

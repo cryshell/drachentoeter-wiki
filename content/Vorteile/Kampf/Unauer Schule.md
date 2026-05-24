@@ -1,14 +1,14 @@
 ---
 Entitätstyp: Vorteil
-ID: 33ab4c3d-506a-4740-b7e5-1af0f6d3a20c
+ID: 0825cdfa-078d-4a0b-8360-547fe9deddb9
 Name: Unauer Schule
 title: Unauer Schule
 Kategorie: Kampf
 Voraussetzungen: Attribut GE 8
 Querverweise:
-  - "[[Inhalt/Waffeneigenschaft/Nebenhand|Nebenhand]]"
-  - "[[Inhalt/Kapitel/Bonusaktion|Bonusaktion]]"
-  - "[[Inhalt/Kapitel/Halten|Halten]]"
+  - "[[Nebenhand]]"
+  - "[[Bonusaktion]]"
+  - "[[Halten]]"
 Nachkauf: häufig
 Kosten: 60
 ---
@@ -17,5 +17,6 @@ Du darfst mit Nebenhandangriffen auch Halten-Manöver nutzen. Wenn du Halten geg
 ---
 
 - **Kosten:** 60 EP
-- **Voraussetzungen:** Attribut GE 8
-- **Siehe auch:** [[Inhalt/Waffeneigenschaft/Nebenhand|Nebenhand]], [[Inhalt/Kapitel/Bonusaktion|Bonusaktion]], [[Inhalt/Kapitel/Halten|Halten]]
+- **Voraussetzungen:**
+  - Attribut [[Gewandheit|GE]] 8
+- **Siehe auch:** [[Nebenhand]], [[Bonusaktion]], [[Halten]]

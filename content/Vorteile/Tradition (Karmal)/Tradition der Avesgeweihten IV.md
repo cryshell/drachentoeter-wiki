@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6b96aa96-8663-4c80-9935-fed0ca58efa3
+ID: 04c1af50-3206-48f6-b1a0-5938082b8501
 Name: Tradition der Avesgeweihten IV
 title: Tradition der Avesgeweihten IV
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut MU 10"
-  - "Vorteil Tradition der Avesgeweihten III"
+  - MeisterAttribut [[Mut|MU]] 10
+  - Vorteil [[Tradition der Avesgeweihten III]]

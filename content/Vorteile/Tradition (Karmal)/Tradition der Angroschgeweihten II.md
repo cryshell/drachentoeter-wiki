@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 9014bacf-1635-4dd8-9d6a-2838005f91bb
+ID: f443de66-276a-430b-aeaf-db7cb7dc9d0d
 Name: Tradition der Angroschgeweihten II
 title: Tradition der Angroschgeweihten II
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ Angroschgeweihte dienen dem Herrn des Feuers und des Erzes. Unterirdisch haben L
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut FF 6"
-  - "Vorteil Tradition der Angroschgeweihten I"
+  - Attribut [[Fingerfertigkeit|FF]] 6
+  - Vorteil [[Tradition der Angroschgeweihten I]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 7afee405-aec7-4129-b38a-a2c3d4eab895
+ID: bbfb9e36-ff07-4ef5-82e2-e2ccc08cc8c4
 Name: Tradition der Chr’Ssir’Ssrgeweihten I
 title: Tradition der Chr’Ssir’Ssrgeweihten I
 Kategorie: Tradition (Karmal)
@@ -19,6 +19,6 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen Chr’Ssir’Ssrs Gebote verst�
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut MU 4"
-  - "Vorteil Geweiht I"
-  - "Kein Vorteil Tradition der *geweihten I"
+  - Attribut [[Mut|MU]] 4
+  - Vorteil [[Geweiht I]]
+  - Kein Vorteil Tradition der *geweihten I

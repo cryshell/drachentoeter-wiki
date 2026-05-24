@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 134697a8-d0b9-45cd-bd85-a610ab2d6a96
+ID: 0294e62e-fae6-4153-b2e3-b570fee155e1
 Name: Tradition der Alchemisten IV
 title: Tradition der Alchemisten IV
 Kategorie: Tradition (Magisch)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut FF 10"
-  - "Vorteil Tradition der Alchemisten III"
+  - MeisterAttribut [[Fingerfertigkeit|FF]] 10
+  - Vorteil [[Tradition der Alchemisten III]]

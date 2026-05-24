@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f1be7345-9c0e-4511-b5df-785da44ba4c2
+ID: 11bcc318-ae4a-4278-b99a-d99ec64efb54
 Name: Tradition der Zsahhgeweihten I
 title: Tradition der Zsahhgeweihten I
 Kategorie: Tradition (Karmal)
@@ -19,6 +19,6 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen Zsahhs Gebote verstößt: Suche
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut IN 4"
-  - "Vorteil Geweiht I"
-  - "Kein Vorteil Tradition der *geweihten I"
+  - Attribut [[Intuition|IN]] 4
+  - Vorteil [[Geweiht I]]
+  - Kein Vorteil Tradition der *geweihten I

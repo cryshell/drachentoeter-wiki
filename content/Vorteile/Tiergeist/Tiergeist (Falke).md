@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 20f28769-aa89-4454-b09d-3c3a6c6e16dc
+ID: 2c6f1214-a79d-44e8-ac66-41fa9736bcfb
 Name: Tiergeist (Falke)
 title: Tiergeist (Falke)
 Kategorie: Tiergeist
@@ -8,11 +8,11 @@ Voraussetzungen:
   - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
   - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
 Querverweise:
-  - "[[Inhalt/Talente/Zauber/Adlerauge Luchsenohr|Adlerauge Luchsenohr]]"
-  - "[[Inhalt/Talente/Zauber/Axxeleratus Blitzgeschwind|Axxeleratus Blitzgeschwind]]"
-  - "[[Inhalt/Talente/Zauber/Falkenauge Meisterschuss|Falkenauge Meisterschuss]]"
-  - "[[Inhalt/Talente/Zauber/Pfeil der Luft|Pfeil der Luft]]"
-  - "[[Inhalt/Talente/Zauber/Aeropulvis sanfter Fall|Aeropulvis sanfter Fall]]"
+  - "[[Adlerauge Luchsenohr]]"
+  - "[[Axxeleratus Blitzgeschwind]]"
+  - "[[Falkenauge Meisterschuss]]"
+  - "[[Pfeil der Luft]]"
+  - "[[Aeropulvis sanfter Fall]]"
 Nachkauf: häufig
 Kosten: 0
 ---
@@ -27,6 +27,6 @@ Kosten: 0
 
 - **Kosten:** 0 EP
 - **Voraussetzungen:**
-  - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
-  - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
-- **Siehe auch:** [[Inhalt/Talente/Zauber/Adlerauge Luchsenohr|Adlerauge Luchsenohr]], [[Inhalt/Talente/Zauber/Axxeleratus Blitzgeschwind|Axxeleratus Blitzgeschwind]], [[Inhalt/Talente/Zauber/Falkenauge Meisterschuss|Falkenauge Meisterschuss]], [[Inhalt/Talente/Zauber/Pfeil der Luft|Pfeil der Luft]], [[Inhalt/Talente/Zauber/Aeropulvis sanfter Fall|Aeropulvis sanfter Fall]]
+  - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
+  - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
+- **Siehe auch:** [[Adlerauge Luchsenohr]], [[Axxeleratus Blitzgeschwind]], [[Falkenauge Meisterschuss]], [[Pfeil der Luft]], [[Aeropulvis sanfter Fall]]

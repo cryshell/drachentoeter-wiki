@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f08906f5-de20-4b0b-a43e-6315decfc252
+ID: 85ccb13d-1539-480c-a8ab-c51903d572f2
 Name: Simulacrum I
 title: Simulacrum I
 Kategorie: Kreis der Verdammnis
@@ -17,5 +17,5 @@ Kosten: 40
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut MU 6"
-  - "Vorteil Paktierer I"
+  - Attribut [[Mut|MU]] 6
+  - Vorteil [[Paktierer I]]

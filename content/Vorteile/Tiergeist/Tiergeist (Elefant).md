@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 7b286b8f-baaf-44d0-802a-a787ded8c37b
+ID: 9f00b326-89ee-4801-906c-480f9614cfab
 Name: Tiergeist (Elefant)
 title: Tiergeist (Elefant)
 Kategorie: Tiergeist
@@ -8,10 +8,10 @@ Voraussetzungen:
   - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
   - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
 Querverweise:
-  - "[[Inhalt/Talente/Zauber/Memorans Gedächtniskraft|Memorans Gedächtniskraft]]"
-  - "[[Inhalt/Talente/Zauber/Psychostabilis|Psychostabilis]]"
-  - "[[Inhalt/Talente/Zauber/Seelentier erkennen|Seelentier erkennen]]"
-  - "[[Inhalt/Talente/Zauber/Xenographus Schriftenkunde|Xenographus Schriftenkunde]]"
+  - "[[Memorans Gedächtniskraft]]"
+  - "[[Psychostabilis]]"
+  - "[[Seelentier erkennen]]"
+  - "[[Xenographus Schriftenkunde]]"
 Nachkauf: häufig
 Kosten: 0
 ---
@@ -26,6 +26,6 @@ Kosten: 0
 
 - **Kosten:** 0 EP
 - **Voraussetzungen:**
-  - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
-  - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
-- **Siehe auch:** [[Inhalt/Talente/Zauber/Memorans Gedächtniskraft|Memorans Gedächtniskraft]], [[Inhalt/Talente/Zauber/Psychostabilis|Psychostabilis]], [[Inhalt/Talente/Zauber/Seelentier erkennen|Seelentier erkennen]], [[Inhalt/Talente/Zauber/Xenographus Schriftenkunde|Xenographus Schriftenkunde]]
+  - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
+  - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
+- **Siehe auch:** [[Memorans Gedächtniskraft]], [[Psychostabilis]], [[Seelentier erkennen]], [[Xenographus Schriftenkunde]]

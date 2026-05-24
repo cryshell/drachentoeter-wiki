@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 7c6bcc9a-8f96-44f8-8b45-871113fbacb4
+ID: bc2575bb-6457-45e0-8d6c-2e05ac28ece2
 Name: Wahre Namen Belhalhars II
 title: Wahre Namen Belhalhars II
 Kategorie: Wahre Namen
@@ -17,6 +17,6 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
-  - "Attribut KL 6"
-  - "Vorteil Wahre Namen Belhalhars I"
+  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Attribut [[Klugheit|KL]] 6
+  - Vorteil [[Wahre Namen Belhalhars I]]

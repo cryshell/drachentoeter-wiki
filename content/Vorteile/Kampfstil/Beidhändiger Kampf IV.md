@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: ebe48700-23da-434d-9e8f-2ff17145bb8f
+ID: 32c71aa5-75ae-4e6f-8c82-5660cc822d7d
 Name: Beidhändiger Kampf IV
 title: Beidhändiger Kampf IV
 Kategorie: Kampfstil
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut GE 10"
-  - "Vorteil Beidhändiger Kampf III"
+  - MeisterAttribut [[Gewandheit|GE]] 10
+  - Vorteil [[Beidhändiger Kampf III]]

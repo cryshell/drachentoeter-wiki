@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 50a1889d-4cf6-4e15-a2ac-12cc177bc196
+ID: e7cb631d-ce97-4997-9f16-f4a512ea6949
 Name: Halbschwertkampf I
 title: Halbschwertkampf I
 Kategorie: Kampfstil
@@ -13,4 +13,5 @@ Kosten: 20
 ---
 
 - **Kosten:** 20 EP
-- **Voraussetzungen:** Attribut GE 4 ODER Attribut KK 4 ODER Attribut MU 4
+- **Voraussetzungen:**
+  - Attribut GE 4 ODER Attribut KK 4 ODER Attribut MU 4

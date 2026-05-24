@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Vorteil
-ID: dc0864c0-1ba4-412c-8dae-2960ec05feea
+ID: 75c8ae0a-4f46-47f4-898a-d8f71718406b
 Name: "Kommando: Keine Gefangenen!"
 title: "Kommando: Keine Gefangenen!"
 Kategorie: Kampf
 Voraussetzungen: Attribut CH 8
 Querverweise:
-  - "[[Inhalt/Kapitel/Reaktion|Reaktion]]"
-  - "[[Inhalt/Kapitel/Aktion Angriff|Aktion Angriff]]"
+  - "[[Reaktion]]"
+  - "[[Aktion Angriff]]"
 Nachkauf: häufig
 Kosten: 60
 ---
@@ -16,5 +16,6 @@ Du kannst als Bonusaktion einem Mitstreiter in Hörweite ermöglichen, als Reakt
 ---
 
 - **Kosten:** 60 EP
-- **Voraussetzungen:** Attribut CH 8
-- **Siehe auch:** [[Inhalt/Kapitel/Reaktion|Reaktion]], [[Inhalt/Kapitel/Aktion Angriff|Aktion Angriff]]
+- **Voraussetzungen:**
+  - Attribut [[Charisma|CH]] 8
+- **Siehe auch:** [[Reaktion]], [[Aktion Angriff]]

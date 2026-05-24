@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 1808a3b4-6e0e-4c4c-a802-ebd73b07a54c
+ID: cc34a785-f299-4e90-a222-f154eb4aed32
 Name: Tradition der Ingerimmgeweihten I
 title: Tradition der Ingerimmgeweihten I
 Kategorie: Tradition (Karmal)
@@ -19,6 +19,6 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen Ingerimms Gebote verstößt: Wa
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut FF 4"
-  - "Vorteil Geweiht I"
-  - "Kein Vorteil Tradition der *geweihten I"
+  - Attribut [[Fingerfertigkeit|FF]] 4
+  - Vorteil [[Geweiht I]]
+  - Kein Vorteil Tradition der *geweihten I

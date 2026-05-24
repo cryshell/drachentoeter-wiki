@@ -1,8 +1,9 @@
 ---
 Entitätstyp: Attribut
-ID: 80212ed8-ddc3-4433-bc8e-1f3570e3df9e
+ID: 78e7a5c5-28b7-4913-966a-dd0b23a8b5ba
 Name: Körperkraft
 title: Körperkraft
+aliases: "[KK]"
 Abkürzung: KK
 Steigerungsfaktor: 16
 ---

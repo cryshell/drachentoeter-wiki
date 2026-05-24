@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: dc864fc9-6605-4604-9ef5-aa319ad68695
+ID: 7919055b-594e-4159-b683-f95360c863cc
 Name: Tradition der Gildenmagier IV
 title: Tradition der Gildenmagier IV
 Kategorie: Tradition (Magisch)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut KL 10"
-  - "Vorteil Tradition der Gildenmagier III"
+  - MeisterAttribut [[Klugheit|KL]] 10
+  - Vorteil [[Tradition der Gildenmagier III]]

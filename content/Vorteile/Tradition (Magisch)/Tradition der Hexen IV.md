@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d740baa9-0883-489a-88a4-6328a0d4ec1c
+ID: 8e1c3f19-383e-4165-996d-1cefefb5b555
 Name: Tradition der Hexen IV
 title: Tradition der Hexen IV
 Kategorie: Tradition (Magisch)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut IN 10"
-  - "Vorteil Tradition der Hexen III"
+  - MeisterAttribut [[Intuition|IN]] 10
+  - Vorteil [[Tradition der Hexen III]]

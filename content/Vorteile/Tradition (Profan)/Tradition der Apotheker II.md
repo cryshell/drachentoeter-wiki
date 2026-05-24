@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 64f6026e-274f-4b67-a412-3c462e92baa9
+ID: aa5ec35e-4d4e-4038-9415-35d724f39e1a
 Name: Tradition der Apotheker II
 title: Tradition der Apotheker II
 Kategorie: Tradition (Profan)
@@ -16,5 +16,5 @@ Du beherrschst Rezepte der Tradition der Apotheker bis zu einer Verbreitung von 
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut KL 6"
-  - "Vorteil Tradition der Apotheker I"
+  - Attribut [[Klugheit|KL]] 6
+  - Vorteil [[Tradition der Apotheker I]]

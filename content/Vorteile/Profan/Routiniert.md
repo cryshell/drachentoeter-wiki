@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: ed8c78eb-a5ba-4ffb-b310-06f93361692c
+ID: 84b850f3-4a04-4c52-a31a-4215bd427876
 Name: Routiniert
 title: Routiniert
 Kategorie: Profan
 Voraussetzungen: Attribut FF 6
 Querverweise:
-  - "[[Inhalt/Kapitel/Schnelle Fertigung|Schnelle Fertigung]]"
+  - "[[Schnelle Fertigung]]"
 Nachkauf: häufig
 Kosten: 40
 ---
@@ -15,5 +15,6 @@ Du kannst die Modifikation Schnelle Fertigung ohne Erschwernis einsetzen und auc
 ---
 
 - **Kosten:** 40 EP
-- **Voraussetzungen:** Attribut FF 6
-- **Siehe auch:** [[Inhalt/Kapitel/Schnelle Fertigung|Schnelle Fertigung]]
+- **Voraussetzungen:**
+  - Attribut [[Fingerfertigkeit|FF]] 6
+- **Siehe auch:** [[Schnelle Fertigung]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e1b65837-a81c-4421-976e-e70fe00c1969
+ID: 4dad3ab7-8efc-4568-a5db-aa4615142b9a
 Name: Tiergeist (Eule)
 title: Tiergeist (Eule)
 Kategorie: Tiergeist
@@ -8,11 +8,11 @@ Voraussetzungen:
   - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
   - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
 Querverweise:
-  - "[[Inhalt/Talente/Zauber/Blick aufs Wesen|Blick aufs Wesen]]"
-  - "[[Inhalt/Talente/Zauber/Exposami Lebenskraft|Exposami Lebenskraft]]"
-  - "[[Inhalt/Talente/Zauber/Hexenkrallen|Hexenkrallen]]"
-  - "[[Inhalt/Talente/Zauber/Sensibar Empathicus|Sensibar Empathicus]]"
-  - "[[Inhalt/Talente/Zauber/Silentium Schweigekreis|Silentium Schweigekreis]]"
+  - "[[Blick aufs Wesen]]"
+  - "[[Exposami Lebenskraft]]"
+  - "[[Hexenkrallen]]"
+  - "[[Sensibar Empathicus]]"
+  - "[[Silentium Schweigekreis]]"
 Nachkauf: häufig
 Kosten: 0
 ---
@@ -27,6 +27,6 @@ Kosten: 0
 
 - **Kosten:** 0 EP
 - **Voraussetzungen:**
-  - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
-  - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
-- **Siehe auch:** [[Inhalt/Talente/Zauber/Blick aufs Wesen|Blick aufs Wesen]], [[Inhalt/Talente/Zauber/Exposami Lebenskraft|Exposami Lebenskraft]], [[Inhalt/Talente/Zauber/Hexenkrallen|Hexenkrallen]], [[Inhalt/Talente/Zauber/Sensibar Empathicus|Sensibar Empathicus]], [[Inhalt/Talente/Zauber/Silentium Schweigekreis|Silentium Schweigekreis]]
+  - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
+  - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
+- **Siehe auch:** [[Blick aufs Wesen]], [[Exposami Lebenskraft]], [[Hexenkrallen]], [[Sensibar Empathicus]], [[Silentium Schweigekreis]]

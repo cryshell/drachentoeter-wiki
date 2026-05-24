@@ -1,23 +1,26 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 69b24715-88c9-4c39-a15a-72295c0647c0
+ID: 1bc5fbdc-c997-4b3e-9310-4f0dd506cd5a
 Name: Diplomatie
 title: Diplomatie
 Kategorie: Interaktion
 Attribute:
-  - "[[Inhalt/Attribute/CH|CH]]"
-  - "[[Inhalt/Attribute/IN|IN]]"
-  - "[[Inhalt/Attribute/KL|KL]]"
+  - "[[Charisma|CH]]"
+  - "[[Intuition|IN]]"
+  - "[[Klugheit|KL]]"
 Steigerungsfaktor: 3
 Talente:
-  - "[[Inhalt/Talente/Profan/Diplomatie/Etikette|Etikette]]"
-  - "[[Inhalt/Talente/Profan/Diplomatie/Rhetorik|Rhetorik]]"
-  - "[[Inhalt/Talente/Profan/Diplomatie/Staatskunde|Staatskunde]]"
+  - "[[Etikette]]"
+  - "[[Rhetorik]]"
+  - "[[Staatskunde]]"
 ---
 Diplomatie ist gefragt, wann immer du dich in gehobener Gesellschaft bewegst, diplomatisch verhandeln, oder anderen deine Überzeugungen näherbringen möchtest. Die Fertigkeit profitiert von einer passenden Kulturkunde.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/CH|CH]], [[Inhalt/Attribute/IN|IN]], [[Inhalt/Attribute/KL|KL]]
+- **Attribute:** [[Charisma|CH]], [[Intuition|IN]], [[Klugheit|KL]]
 - **Steigerungsfaktor:** 3
-- **Talente:** [[Inhalt/Talente/Profan/Diplomatie/Etikette|Etikette]], [[Inhalt/Talente/Profan/Diplomatie/Rhetorik|Rhetorik]], [[Inhalt/Talente/Profan/Diplomatie/Staatskunde|Staatskunde]]
+- **Talente:**
+  - [[Etikette]]
+  - [[Rhetorik]]
+  - [[Staatskunde]]

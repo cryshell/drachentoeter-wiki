@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 45e7a929-edac-48f7-b93c-9ce129c2705a
+ID: efad4d9d-7677-41b5-88a0-4315d1aadfaf
 Name: "Tradition der Sattler & Kürschner IV"
 title: "Tradition der Sattler & Kürschner IV"
 Kategorie: Tradition (Profan)
@@ -16,5 +16,5 @@ Kosten: 20
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut FF 10"
-  - "Vorteil Tradition der Sattler & Kürschner III"
+  - MeisterAttribut [[Fingerfertigkeit|FF]] 10
+  - Vorteil [[Tradition der Sattler & Kürschner III]]

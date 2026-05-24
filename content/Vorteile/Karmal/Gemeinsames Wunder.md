@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: adf2d531-6a9f-4999-ba81-126eca5bc965
+ID: bf9eeada-1e28-4b6c-8fb3-1c2bd5db28df
 Name: Gemeinsames Wunder
 title: Gemeinsames Wunder
 Kategorie: Karmal
@@ -8,7 +8,7 @@ Voraussetzungen:
   - Attribut IN 4
   - Vorteil Geweiht I
 Querverweise:
-  - "[[Inhalt/Kapitel/Zusammenarbeit|Zusammenarbeit]]"
+  - "[[Zusammenarbeit]]"
 Nachkauf: häufig
 Kosten: 20
 ---
@@ -21,6 +21,6 @@ Du kannst mit anderen Geweihten einen Zirkel bilden. Alle Teilnehmer müssen sic
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut IN 4"
-  - "Vorteil Geweiht I"
-- **Siehe auch:** [[Inhalt/Kapitel/Zusammenarbeit|Zusammenarbeit]]
+  - Attribut [[Intuition|IN]] 4
+  - Vorteil [[Geweiht I]]
+- **Siehe auch:** [[Zusammenarbeit]]

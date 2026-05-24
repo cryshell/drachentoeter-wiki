@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e58e3980-79d4-4d75-aa73-0ad8ae1b7f2b
+ID: fbe1bfae-8ef7-4d98-b042-18a8798590a4
 Name: Beidhändiger Kampf III
 title: Beidhändiger Kampf III
 Kategorie: Kampfstil
@@ -8,7 +8,7 @@ Voraussetzungen:
   - Attribut GE 8
   - Vorteil Beidhändiger Kampf II
 Querverweise:
-  - "[[Inhalt/Kapitel/Aktion Angriff|Aktion Angriff]]"
+  - "[[Aktion Angriff]]"
 Nachkauf: häufig
 Kosten: 60
 ---
@@ -18,6 +18,6 @@ Doppelangriff: Du darfst in einer Aktion Angriff gleichzeitig zwei Nahkampfangri
 
 - **Kosten:** 60 EP
 - **Voraussetzungen:**
-  - "Attribut GE 8"
-  - "Vorteil Beidhändiger Kampf II"
-- **Siehe auch:** [[Inhalt/Kapitel/Aktion Angriff|Aktion Angriff]]
+  - Attribut [[Gewandheit|GE]] 8
+  - Vorteil [[Beidhändiger Kampf II]]
+- **Siehe auch:** [[Aktion Angriff]]

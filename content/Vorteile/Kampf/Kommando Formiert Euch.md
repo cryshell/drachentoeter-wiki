@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Vorteil
-ID: a78dd134-32dd-430c-8dd7-5f8416e1d342
+ID: 5ad9937a-3a45-4791-9a6d-e27be6d9f561
 Name: "Kommando: Formiert Euch!"
 title: "Kommando: Formiert Euch!"
 Kategorie: Kampf
 Voraussetzungen: Attribut CH 6
 Querverweise:
-  - "[[Inhalt/Kapitel/Reaktion|Reaktion]]"
-  - "[[Inhalt/Kapitel/Bewegung|Bewegung]]"
+  - "[[Reaktion]]"
+  - "[[Bewegung]]"
 Nachkauf: häufig
 Kosten: 40
 ---
@@ -16,5 +16,6 @@ Du kannst als Bonusaktion einem Mitstreiter in Hörweite ermöglichen, sich als 
 ---
 
 - **Kosten:** 40 EP
-- **Voraussetzungen:** Attribut CH 6
-- **Siehe auch:** [[Inhalt/Kapitel/Reaktion|Reaktion]], [[Inhalt/Kapitel/Bewegung|Bewegung]]
+- **Voraussetzungen:**
+  - Attribut [[Charisma|CH]] 6
+- **Siehe auch:** [[Reaktion]], [[Bewegung]]

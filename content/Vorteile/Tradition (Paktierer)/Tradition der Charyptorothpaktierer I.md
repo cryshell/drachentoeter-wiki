@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: bade3a07-a2d4-4861-aff6-53568b452e2c
+ID: 5f3680de-ff10-45d1-bf84-f40494195934
 Name: Tradition der Charyptorothpaktierer I
 title: Tradition der Charyptorothpaktierer I
 Kategorie: Tradition (Paktierer)
@@ -19,6 +19,6 @@ Dämonische Kräfte sind chaotisch, Anrufungsproben werden mit 1W20 gewürfelt.
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut MU 4"
-  - "Vorteil Paktierer I"
-  - "Kein Vorteil Tradition der *paktierer I"
+  - Attribut [[Mut|MU]] 4
+  - Vorteil [[Paktierer I]]
+  - Kein Vorteil Tradition der *paktierer I

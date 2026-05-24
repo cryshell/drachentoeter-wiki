@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Vorteil
-ID: 8034a74d-01f0-4779-a667-3b5e91951c53
+ID: 79ceaca4-84ef-4881-a472-defeb1573735
 Name: Angepasst (Gewässer)
 title: Angepasst (Gewässer)
 Kategorie: Profan
 Querverweise:
-  - "[[Inhalt/Kapitel/Bewegung|Bewegung]]"
+  - "[[Bewegung]]"
 Nachkauf: üblich
 Kosten: 20
 ---
@@ -14,4 +14,4 @@ Durch deine Spezies oder langjährige Erfahrung hast du dich an die Landschaft G
 ---
 
 - **Kosten:** 20 EP
-- **Siehe auch:** [[Inhalt/Kapitel/Bewegung|Bewegung]]
+- **Siehe auch:** [[Bewegung]]

@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Vorteil
-ID: 06a83e29-ccf6-46b2-8b93-a2db602d021b
+ID: 58baafb7-4f0a-4dae-a31b-f27e6896eb42
 Name: Angepasst (Steppe)
 title: Angepasst (Steppe)
 Kategorie: Profan
 Querverweise:
-  - "[[Inhalt/Kapitel/Bewegung|Bewegung]]"
+  - "[[Bewegung]]"
 Nachkauf: üblich
 Kosten: 20
 ---
@@ -14,4 +14,4 @@ Durch deine Spezies oder langjährige Erfahrung hast du dich an die Landschaften
 ---
 
 - **Kosten:** 20 EP
-- **Siehe auch:** [[Inhalt/Kapitel/Bewegung|Bewegung]]
+- **Siehe auch:** [[Bewegung]]

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: d9c9e4ba-d0e3-48d7-acc4-9959693dc5cc
+ID: 6647829f-659e-486f-b93d-c054f1b9da95
 Name: Astrale Meditation
 title: Astrale Meditation
 Kategorie: Magisch
 Voraussetzungen: Vorteil Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I
 Querverweise:
-  - "[[Inhalt/Kapitel/Regeneration|Regeneration]]"
+  - "[[Regeneration]]"
 Nachkauf: üblich
 Kosten: 40
 ---
@@ -15,5 +15,6 @@ Du kannst durch eine halbstündige Meditation deine Lebenskraft in Astralenergie
 ---
 
 - **Kosten:** 40 EP
-- **Voraussetzungen:** Vorteil Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I
-- **Siehe auch:** [[Inhalt/Kapitel/Regeneration|Regeneration]]
+- **Voraussetzungen:**
+  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
+- **Siehe auch:** [[Regeneration]]

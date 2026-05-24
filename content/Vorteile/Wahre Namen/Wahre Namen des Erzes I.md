@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 5470783c-4332-4b7d-9501-ce1ad531e077
+ID: 084225b4-725e-4628-be0c-eaa2aaa95fe1
 Name: Wahre Namen des Erzes I
 title: Wahre Namen des Erzes I
 Kategorie: Wahre Namen
@@ -16,5 +16,5 @@ Du kannst alle Elementare des Erzes bis zu einer Beschwörungsschwierigkeit von 
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
-  - "Attribut KL 4"
+  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Attribut [[Klugheit|KL]] 4

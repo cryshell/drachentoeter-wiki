@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 9f0a886d-9ec4-4c54-9b37-9c1565c29a85
+ID: c323708d-61a8-43c4-b85a-ddde98d66da6
 Name: Geweiht II
 title: Geweiht II
 Kategorie: Karmal
@@ -16,4 +16,5 @@ Kosten: 40
 ---
 
 - **Kosten:** 40 EP
-- **Voraussetzungen:** Vorteil Geweiht I
+- **Voraussetzungen:**
+  - Vorteil [[Geweiht I]]

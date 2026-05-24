@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 89eb9ac9-0218-4311-9fdf-bd83e74cf1e8
+ID: 42db54da-b208-49e8-b159-77b0519a8247
 Name: "Dämonische Stärkung: Darbietung"
 title: "Dämonische Stärkung: Darbietung"
 Kategorie: Anrufungen

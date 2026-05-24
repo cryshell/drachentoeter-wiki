@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 57f4478f-3aa0-4aab-86aa-196782cfd8c1
+ID: 57bca85d-a340-40d9-837c-55efb573949f
 Name: Tradition der Belkelelpaktierer III
 title: Tradition der Belkelelpaktierer III
 Kategorie: Tradition (Paktierer)
@@ -8,7 +8,7 @@ Voraussetzungen:
   - Attribut MU 8
   - Vorteil Tradition der Belkelelpaktierer II
 Querverweise:
-  - "[[Inhalt/Kapitel/Opferung (Belkelel)|Opferung (Belkelel)]]"
+  - "[[Opferung (Belkelel)]]"
 Nachkauf: häufig
 Kosten: 60
 ---
@@ -18,6 +18,6 @@ Erlaubt die spontane Modifikation Opferung.
 
 - **Kosten:** 60 EP
 - **Voraussetzungen:**
-  - "Attribut MU 8"
-  - "Vorteil Tradition der Belkelelpaktierer II"
-- **Siehe auch:** [[Inhalt/Kapitel/Opferung (Belkelel)|Opferung (Belkelel)]]
+  - Attribut [[Mut|MU]] 8
+  - Vorteil [[Tradition der Belkelelpaktierer II]]
+- **Siehe auch:** [[Opferung (Belkelel)]]

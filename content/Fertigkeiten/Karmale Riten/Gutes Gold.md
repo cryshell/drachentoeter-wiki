@@ -1,30 +1,39 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: f3369e82-71f9-46c8-9f58-74aa01cd5ea2
+ID: 801600d1-d802-494f-a1ef-c3f865854635
 Name: Gutes Gold
 title: Gutes Gold
 Kategorie: Karmale Riten
 Attribute:
-  - "[[Inhalt/Attribute/CH|CH]]"
-  - "[[Inhalt/Attribute/IN|IN]]"
-  - "[[Inhalt/Attribute/MU|MU]]"
+  - "[[Charisma|CH]]"
+  - "[[Intuition|IN]]"
+  - "[[Mut|MU]]"
 Steigerungsfaktor: 2
 Talente:
-  - "[[Inhalt/Talente/Liturgien/Fluch des Verräters|Fluch des Verräters]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Autorität|Mirakel: Autorität]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Diplomatie|Mirakel: Diplomatie]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: MU|Mirakel: MU]]"
-  - "[[Inhalt/Talente/Liturgien/Mondsilberzunge|Mondsilberzunge]]"
-  - "[[Inhalt/Talente/Liturgien/Orakel des Mantikors|Orakel des Mantikors]]"
-  - "[[Inhalt/Talente/Liturgien/Segen des Heiligen Hlûthar|Segen des Heiligen Hlûthar]]"
-  - "[[Inhalt/Talente/Liturgien/Weihesegen der Waffe|Weihesegen der Waffe]]"
+  - "[[Fluch des Verräters]]"
+  - "[[Mirakel Autorität|Mirakel: Autorität]]"
+  - "[[Mirakel Diplomatie|Mirakel: Diplomatie]]"
+  - "[[Mirakel MU|Mirakel: MU]]"
+  - "[[Mondsilberzunge]]"
+  - "[[Orakel des Mantikors]]"
+  - "[[Segen des Heiligen Hlûthar]]"
+  - "[[Weihesegen der Waffe]]"
 Voraussetzungen: Vorteil Tradition der Korgeweihten I
 ---
 Die Pragmatiker unter den Korgeweihten stehen Gladiatoren zur Seite oder führen Söldnerbanner an. Sie sorgen für vertragsgetreue Bezahlung und die Einhaltung der Söldnerehre.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/CH|CH]], [[Inhalt/Attribute/IN|IN]], [[Inhalt/Attribute/MU|MU]]
+- **Attribute:** [[Charisma|CH]], [[Intuition|IN]], [[Mut|MU]]
 - **Steigerungsfaktor:** 2
-- **Talente:** [[Inhalt/Talente/Liturgien/Fluch des Verräters|Fluch des Verräters]], [[Inhalt/Talente/Liturgien/Mirakel: Autorität|Mirakel: Autorität]], [[Inhalt/Talente/Liturgien/Mirakel: Diplomatie|Mirakel: Diplomatie]], [[Inhalt/Talente/Liturgien/Mirakel: MU|Mirakel: MU]], [[Inhalt/Talente/Liturgien/Mondsilberzunge|Mondsilberzunge]], [[Inhalt/Talente/Liturgien/Orakel des Mantikors|Orakel des Mantikors]], [[Inhalt/Talente/Liturgien/Segen des Heiligen Hlûthar|Segen des Heiligen Hlûthar]], [[Inhalt/Talente/Liturgien/Weihesegen der Waffe|Weihesegen der Waffe]]
-- **Voraussetzungen:** Vorteil Tradition der Korgeweihten I
+- **Talente:**
+  - [[Fluch des Verräters]]
+  - [[Mirakel Autorität|Mirakel: Autorität]]
+  - [[Mirakel Diplomatie|Mirakel: Diplomatie]]
+  - [[Mirakel MU|Mirakel: MU]]
+  - [[Mondsilberzunge]]
+  - [[Orakel des Mantikors]]
+  - [[Segen des Heiligen Hlûthar]]
+  - [[Weihesegen der Waffe]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Korgeweihten I]]

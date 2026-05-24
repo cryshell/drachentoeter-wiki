@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0b26a143-6fb9-46ef-977f-ddc952a5d0e2
+ID: 13110498-6fb1-4980-bc52-9f5b24fa1deb
 Name: Tradition der H’Szintgeweihten IV
 title: Tradition der H’Szintgeweihten IV
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut KL 10"
-  - "Vorteil Tradition der H’Szintgeweihten III"
+  - MeisterAttribut [[Klugheit|KL]] 10
+  - Vorteil [[Tradition der H’Szintgeweihten III]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: a7e15860-09d6-4b93-9fac-39d234ddd610
+ID: 75c2ec00-c16d-4953-a492-aca03b08248e
 Name: "Entzug von Nandus' Gaben"
 title: "Entzug von Nandus' Gaben"
 Kategorie: Liturgien

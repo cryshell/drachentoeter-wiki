@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 41f35746-c9a8-4dd7-ba1f-c6cb1d2ec367
+ID: 020274fb-9e81-4086-a6a0-3ad8b3201d2d
 Name: Tradition der Kristallomanten II
 title: Tradition der Kristallomanten II
 Kategorie: Tradition (Magisch)
@@ -16,5 +16,5 @@ Durch das Studium der Edelsteine gelten Kristallomanten als herausragende Artefa
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut KL 6"
-  - "Vorteil Tradition der Kristallomanten I"
+  - Attribut [[Klugheit|KL]] 6
+  - Vorteil [[Tradition der Kristallomanten I]]

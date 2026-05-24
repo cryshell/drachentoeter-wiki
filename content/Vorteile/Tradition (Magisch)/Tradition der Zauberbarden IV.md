@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: cef948bc-dba0-4af5-8925-ab4ddca45177
+ID: b45ed163-2dd6-4bb4-b6bb-7aafa85e4931
 Name: Tradition der Zauberbarden IV
 title: Tradition der Zauberbarden IV
 Kategorie: Tradition (Magisch)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut CH 10"
-  - "Vorteil Tradition der Zauberbarden III"
+  - MeisterAttribut [[Charisma|CH]] 10
+  - Vorteil [[Tradition der Zauberbarden III]]

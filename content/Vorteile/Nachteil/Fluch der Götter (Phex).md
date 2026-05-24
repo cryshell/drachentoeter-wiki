@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a4064a30-4922-4912-ac08-b88d4070eb54
+ID: 71fdda81-8bc5-4816-9c8c-71146aefe72b
 Name: Fluch der Götter (Phex)
 title: Fluch der Götter (Phex)
 Kategorie: Nachteil
@@ -13,4 +13,5 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Phex), Empfindlichkeit I (Pflanze
 ---
 
 - **Kosten:** -200 EP
-- **Voraussetzungen:** Vorteil Vampir I
+- **Voraussetzungen:**
+  - Vorteil [[Vampir I]]

@@ -1,23 +1,26 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 0ed3f90d-b7e4-44ac-81da-6dec40360ee0
+ID: 21770c9d-1f37-4e04-8cbf-a4b63d101f42
 Name: Naturkunde
 title: Naturkunde
 Kategorie: Wissen
 Attribute:
-  - "[[Inhalt/Attribute/KL|KL]]"
-  - "[[Inhalt/Attribute/IN|IN]]"
-  - "[[Inhalt/Attribute/FF|FF]]"
+  - "[[Klugheit|KL]]"
+  - "[[Intuition|IN]]"
+  - "[[Fingerfertigkeit|FF]]"
 Steigerungsfaktor: 2
 Talente:
-  - "[[Inhalt/Talente/Profan/Naturkunde/Derekunde|Derekunde]]"
-  - "[[Inhalt/Talente/Profan/Naturkunde/Pflanzenkunde|Pflanzenkunde]]"
-  - "[[Inhalt/Talente/Profan/Naturkunde/Tierkunde|Tierkunde]]"
+  - "[[Derekunde]]"
+  - "[[Pflanzenkunde]]"
+  - "[[Tierkunde]]"
 ---
 Darunter fällt das theoretische Wissen über Natur, Tiere und Pflanzen sowie die Geologie und Geographie Deres.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/KL|KL]], [[Inhalt/Attribute/IN|IN]], [[Inhalt/Attribute/FF|FF]]
+- **Attribute:** [[Klugheit|KL]], [[Intuition|IN]], [[Fingerfertigkeit|FF]]
 - **Steigerungsfaktor:** 2
-- **Talente:** [[Inhalt/Talente/Profan/Naturkunde/Derekunde|Derekunde]], [[Inhalt/Talente/Profan/Naturkunde/Pflanzenkunde|Pflanzenkunde]], [[Inhalt/Talente/Profan/Naturkunde/Tierkunde|Tierkunde]]
+- **Talente:**
+  - [[Derekunde]]
+  - [[Pflanzenkunde]]
+  - [[Tierkunde]]

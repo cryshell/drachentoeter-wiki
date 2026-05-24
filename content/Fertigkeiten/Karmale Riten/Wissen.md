@@ -1,44 +1,67 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 97f9bd77-2e4b-4120-875b-5a14055a2a0a
+ID: 8e1ea502-5c59-4ec2-bfc3-b6974f21434b
 Name: Wissen
 title: Wissen
 Kategorie: Karmale Riten
 Attribute:
-  - "[[Inhalt/Attribute/IN|IN]]"
-  - "[[Inhalt/Attribute/KL|KL]]"
-  - "[[Inhalt/Attribute/KL|KL]]"
+  - "[[Intuition|IN]]"
+  - "[[Klugheit|KL]]"
+  - "[[Klugheit|KL]]"
 Steigerungsfaktor: 3
 Talente:
-  - "[[Inhalt/Talente/Liturgien/Auge Xeledons, Xeledons helles Licht|Auge Xeledons, Xeledons helles Licht]]"
-  - "[[Inhalt/Talente/Liturgien/Aura der Form|Aura der Form]]"
-  - "[[Inhalt/Talente/Liturgien/Buchprüfung|Buchprüfung]]"
-  - "[[Inhalt/Talente/Liturgien/Canyzeths Weisheit|Canyzeths Weisheit]]"
-  - "[[Inhalt/Talente/Liturgien/Ein Bild für die Ewigkeit|Ein Bild für die Ewigkeit]]"
-  - "[[Inhalt/Talente/Liturgien/Entzug von Nandus' Gaben|Entzug von Nandus' Gaben]]"
-  - "[[Inhalt/Talente/Liturgien/Gift der Erkenntnis|Gift der Erkenntnis]]"
-  - "[[Inhalt/Talente/Liturgien/Graues Siegel|Graues Siegel]]"
-  - "[[Inhalt/Talente/Liturgien/Handwerkssegen|Handwerkssegen]]"
-  - "[[Inhalt/Talente/Liturgien/Meisterstück|Meisterstück]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Bildung|Mirakel: Bildung]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: CH|Mirakel: CH]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Diplomatie|Mirakel: Diplomatie]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: KL|Mirakel: KL]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Mythenkunde|Mirakel: Mythenkunde]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Naturkunde|Mirakel: Naturkunde]]"
-  - "[[Inhalt/Talente/Liturgien/Schlangenstab|Schlangenstab]]"
-  - "[[Inhalt/Talente/Liturgien/Schrifttum ferner Lande|Schrifttum ferner Lande]]"
-  - "[[Inhalt/Talente/Liturgien/Sprechende Symbole|Sprechende Symbole]]"
-  - "[[Inhalt/Talente/Liturgien/Sterne funkeln immerfort|Sterne funkeln immerfort]]"
-  - "[[Inhalt/Talente/Liturgien/Weisheitssegen|Weisheitssegen]]"
-  - "[[Inhalt/Talente/Liturgien/Wundersame Verständigung|Wundersame Verständigung]]"
+  - "[[Auge Xeledons, Xeledons helles Licht]]"
+  - "[[Aura der Form]]"
+  - "[[Buchprüfung]]"
+  - "[[Canyzeths Weisheit]]"
+  - "[[Ein Bild für die Ewigkeit]]"
+  - "[[Entzug von Nandus' Gaben]]"
+  - "[[Gift der Erkenntnis]]"
+  - "[[Graues Siegel]]"
+  - "[[Handwerkssegen]]"
+  - "[[Meisterstück]]"
+  - "[[Mirakel Bildung|Mirakel: Bildung]]"
+  - "[[Mirakel CH|Mirakel: CH]]"
+  - "[[Mirakel Diplomatie|Mirakel: Diplomatie]]"
+  - "[[Mirakel KL|Mirakel: KL]]"
+  - "[[Mirakel Mythenkunde|Mirakel: Mythenkunde]]"
+  - "[[Mirakel Naturkunde|Mirakel: Naturkunde]]"
+  - "[[Schlangenstab]]"
+  - "[[Schrifttum ferner Lande]]"
+  - "[[Sprechende Symbole]]"
+  - "[[Sterne funkeln immerfort]]"
+  - "[[Weisheitssegen]]"
+  - "[[Wundersame Verständigung]]"
 Voraussetzungen: Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Nandusgeweihten I
 ---
 Hesinde ist die Quelle des Wissens, das von den Geweihten gesammelt und je nach Strömung freimütig geteilt oder eifersüchtig gehütet wird.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/IN|IN]], [[Inhalt/Attribute/KL|KL]], [[Inhalt/Attribute/KL|KL]]
+- **Attribute:** [[Intuition|IN]], [[Klugheit|KL]], [[Klugheit|KL]]
 - **Steigerungsfaktor:** 3
-- **Talente:** [[Inhalt/Talente/Liturgien/Auge Xeledons, Xeledons helles Licht|Auge Xeledons, Xeledons helles Licht]], [[Inhalt/Talente/Liturgien/Aura der Form|Aura der Form]], [[Inhalt/Talente/Liturgien/Buchprüfung|Buchprüfung]], [[Inhalt/Talente/Liturgien/Canyzeths Weisheit|Canyzeths Weisheit]], [[Inhalt/Talente/Liturgien/Ein Bild für die Ewigkeit|Ein Bild für die Ewigkeit]], [[Inhalt/Talente/Liturgien/Entzug von Nandus' Gaben|Entzug von Nandus' Gaben]], [[Inhalt/Talente/Liturgien/Gift der Erkenntnis|Gift der Erkenntnis]], [[Inhalt/Talente/Liturgien/Graues Siegel|Graues Siegel]], [[Inhalt/Talente/Liturgien/Handwerkssegen|Handwerkssegen]], [[Inhalt/Talente/Liturgien/Meisterstück|Meisterstück]], [[Inhalt/Talente/Liturgien/Mirakel: Bildung|Mirakel: Bildung]], [[Inhalt/Talente/Liturgien/Mirakel: CH|Mirakel: CH]], [[Inhalt/Talente/Liturgien/Mirakel: Diplomatie|Mirakel: Diplomatie]], [[Inhalt/Talente/Liturgien/Mirakel: KL|Mirakel: KL]], [[Inhalt/Talente/Liturgien/Mirakel: Mythenkunde|Mirakel: Mythenkunde]], [[Inhalt/Talente/Liturgien/Mirakel: Naturkunde|Mirakel: Naturkunde]], [[Inhalt/Talente/Liturgien/Schlangenstab|Schlangenstab]], [[Inhalt/Talente/Liturgien/Schrifttum ferner Lande|Schrifttum ferner Lande]], [[Inhalt/Talente/Liturgien/Sprechende Symbole|Sprechende Symbole]], [[Inhalt/Talente/Liturgien/Sterne funkeln immerfort|Sterne funkeln immerfort]], [[Inhalt/Talente/Liturgien/Weisheitssegen|Weisheitssegen]], [[Inhalt/Talente/Liturgien/Wundersame Verständigung|Wundersame Verständigung]]
-- **Voraussetzungen:** Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Nandusgeweihten I
+- **Talente:**
+  - [[Auge Xeledons, Xeledons helles Licht]]
+  - [[Aura der Form]]
+  - [[Buchprüfung]]
+  - [[Canyzeths Weisheit]]
+  - [[Ein Bild für die Ewigkeit]]
+  - [[Entzug von Nandus' Gaben]]
+  - [[Gift der Erkenntnis]]
+  - [[Graues Siegel]]
+  - [[Handwerkssegen]]
+  - [[Meisterstück]]
+  - [[Mirakel Bildung|Mirakel: Bildung]]
+  - [[Mirakel CH|Mirakel: CH]]
+  - [[Mirakel Diplomatie|Mirakel: Diplomatie]]
+  - [[Mirakel KL|Mirakel: KL]]
+  - [[Mirakel Mythenkunde|Mirakel: Mythenkunde]]
+  - [[Mirakel Naturkunde|Mirakel: Naturkunde]]
+  - [[Schlangenstab]]
+  - [[Schrifttum ferner Lande]]
+  - [[Sprechende Symbole]]
+  - [[Sterne funkeln immerfort]]
+  - [[Weisheitssegen]]
+  - [[Wundersame Verständigung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der Nandusgeweihten I]]

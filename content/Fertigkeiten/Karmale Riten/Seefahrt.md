@@ -1,38 +1,55 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 191f9f79-1309-4293-a5df-bd11b53c2066
+ID: a6942ac8-2f88-4d7a-96b4-3d1da2823b84
 Name: Seefahrt
 title: Seefahrt
 Kategorie: Karmale Riten
 Attribute:
-  - "[[Inhalt/Attribute/IN|IN]]"
-  - "[[Inhalt/Attribute/KK|KK]]"
-  - "[[Inhalt/Attribute/MU|MU]]"
+  - "[[Intuition|IN]]"
+  - "[[Körperkraft|KK]]"
+  - "[[Mut|MU]]"
 Steigerungsfaktor: 2
 Talente:
-  - "[[Inhalt/Talente/Liturgien/Aitheokles‘ Klageruf|Aitheokles‘ Klageruf]]"
-  - "[[Inhalt/Talente/Liturgien/Anrufung der Winde|Anrufung der Winde]]"
-  - "[[Inhalt/Talente/Liturgien/Bootssegen|Bootssegen]]"
-  - "[[Inhalt/Talente/Liturgien/Conagas Ruf|Conagas Ruf]]"
-  - "[[Inhalt/Talente/Liturgien/Gebet des kristallklaren Blicks|Gebet des kristallklaren Blicks]]"
-  - "[[Inhalt/Talente/Liturgien/Gesegneter Fang|Gesegneter Fang]]"
-  - "[[Inhalt/Talente/Liturgien/Liaiellas Orakel|Liaiellas Orakel]]"
-  - "[[Inhalt/Talente/Liturgien/Mannschaftssegen|Mannschaftssegen]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Athletik|Mirakel: Athletik]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: GE|Mirakel: GE]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: KK|Mirakel: KK]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Nahkampf|Mirakel: Nahkampf]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Seefahrt|Mirakel: Seefahrt]]"
-  - "[[Inhalt/Talente/Liturgien/Segen des Plättlings|Segen des Plättlings]]"
-  - "[[Inhalt/Talente/Liturgien/Sterne funkeln immerfort|Sterne funkeln immerfort]]"
-  - "[[Inhalt/Talente/Liturgien/Tranksegen|Tranksegen]]"
+  - "[[Aitheokles‘ Klageruf]]"
+  - "[[Anrufung der Winde]]"
+  - "[[Bootssegen]]"
+  - "[[Conagas Ruf]]"
+  - "[[Gebet des kristallklaren Blicks]]"
+  - "[[Gesegneter Fang]]"
+  - "[[Liaiellas Orakel]]"
+  - "[[Mannschaftssegen]]"
+  - "[[Mirakel Athletik|Mirakel: Athletik]]"
+  - "[[Mirakel GE|Mirakel: GE]]"
+  - "[[Mirakel KK|Mirakel: KK]]"
+  - "[[Mirakel Nahkampf|Mirakel: Nahkampf]]"
+  - "[[Mirakel Seefahrt|Mirakel: Seefahrt]]"
+  - "[[Segen des Plättlings]]"
+  - "[[Sterne funkeln immerfort]]"
+  - "[[Tranksegen]]"
 Voraussetzungen: Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I
 ---
 Pragmatische Efferdgeweihte sind aus der aventurischen Seefahrt nicht wegzudenken. Sie dienen als Bordgeweihte und schützen Schiffe vor den Gefahren der blutigen See.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/IN|IN]], [[Inhalt/Attribute/KK|KK]], [[Inhalt/Attribute/MU|MU]]
+- **Attribute:** [[Intuition|IN]], [[Körperkraft|KK]], [[Mut|MU]]
 - **Steigerungsfaktor:** 2
-- **Talente:** [[Inhalt/Talente/Liturgien/Aitheokles‘ Klageruf|Aitheokles‘ Klageruf]], [[Inhalt/Talente/Liturgien/Anrufung der Winde|Anrufung der Winde]], [[Inhalt/Talente/Liturgien/Bootssegen|Bootssegen]], [[Inhalt/Talente/Liturgien/Conagas Ruf|Conagas Ruf]], [[Inhalt/Talente/Liturgien/Gebet des kristallklaren Blicks|Gebet des kristallklaren Blicks]], [[Inhalt/Talente/Liturgien/Gesegneter Fang|Gesegneter Fang]], [[Inhalt/Talente/Liturgien/Liaiellas Orakel|Liaiellas Orakel]], [[Inhalt/Talente/Liturgien/Mannschaftssegen|Mannschaftssegen]], [[Inhalt/Talente/Liturgien/Mirakel: Athletik|Mirakel: Athletik]], [[Inhalt/Talente/Liturgien/Mirakel: GE|Mirakel: GE]], [[Inhalt/Talente/Liturgien/Mirakel: KK|Mirakel: KK]], [[Inhalt/Talente/Liturgien/Mirakel: Nahkampf|Mirakel: Nahkampf]], [[Inhalt/Talente/Liturgien/Mirakel: Seefahrt|Mirakel: Seefahrt]], [[Inhalt/Talente/Liturgien/Segen des Plättlings|Segen des Plättlings]], [[Inhalt/Talente/Liturgien/Sterne funkeln immerfort|Sterne funkeln immerfort]], [[Inhalt/Talente/Liturgien/Tranksegen|Tranksegen]]
-- **Voraussetzungen:** Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I
+- **Talente:**
+  - [[Aitheokles‘ Klageruf]]
+  - [[Anrufung der Winde]]
+  - [[Bootssegen]]
+  - [[Conagas Ruf]]
+  - [[Gebet des kristallklaren Blicks]]
+  - [[Gesegneter Fang]]
+  - [[Liaiellas Orakel]]
+  - [[Mannschaftssegen]]
+  - [[Mirakel Athletik|Mirakel: Athletik]]
+  - [[Mirakel GE|Mirakel: GE]]
+  - [[Mirakel KK|Mirakel: KK]]
+  - [[Mirakel Nahkampf|Mirakel: Nahkampf]]
+  - [[Mirakel Seefahrt|Mirakel: Seefahrt]]
+  - [[Segen des Plättlings]]
+  - [[Sterne funkeln immerfort]]
+  - [[Tranksegen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I]]

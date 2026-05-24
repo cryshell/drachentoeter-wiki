@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 90abadb6-97d5-4140-b60b-27fd0d627000
+ID: 27f2a02e-ab81-4edc-b8f6-3023b4fae6e0
 Name: Tradition der Avesgeweihten II
 title: Tradition der Avesgeweihten II
 Kategorie: Tradition (Karmal)
@@ -8,8 +8,8 @@ Voraussetzungen:
   - Attribut MU 6
   - Vorteil Tradition der Avesgeweihten I
 Querverweise:
-  - "[[Inhalt/Kapitel/Aktion Konzentration|Aktion Konzentration]]"
-  - "[[Inhalt/Kapitel/Bewegung|Bewegung]]"
+  - "[[Aktion Konzentration]]"
+  - "[[Bewegung]]"
 Nachkauf: häufig
 Kosten: 40
 ---
@@ -19,6 +19,6 @@ Avesgeweihte sind ständig in Bewegung. Wenn du eine Liturgie vorbereitest, darf
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut MU 6"
-  - "Vorteil Tradition der Avesgeweihten I"
-- **Siehe auch:** [[Inhalt/Kapitel/Aktion Konzentration|Aktion Konzentration]], [[Inhalt/Kapitel/Bewegung|Bewegung]]
+  - Attribut [[Mut|MU]] 6
+  - Vorteil [[Tradition der Avesgeweihten I]]
+- **Siehe auch:** [[Aktion Konzentration]], [[Bewegung]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 05ead7d3-68ff-463f-bc73-d4db80f377f8
+ID: d3e1205c-72c0-4c8a-b2c1-ecc5bb85b0c4
 Name: Geweiht IV
 title: Geweiht IV
 Kategorie: Karmal
@@ -16,4 +16,5 @@ Kosten: 40
 ---
 
 - **Kosten:** 40 EP
-- **Voraussetzungen:** Vorteil Geweiht III
+- **Voraussetzungen:**
+  - Vorteil [[Geweiht III]]

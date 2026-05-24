@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 82535f0f-5262-4d52-b7c9-d3dcb9ad7422
+ID: 72768789-a913-403f-833a-b52586fa944d
 Name: Tiergeist (Bär)
 title: Tiergeist (Bär)
 Kategorie: Tiergeist
@@ -8,12 +8,12 @@ Voraussetzungen:
   - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
   - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
 Querverweise:
-  - "[[Inhalt/Talente/Zauber/Bärenruhe Winterschlaf|Bärenruhe Winterschlaf]]"
-  - "[[Inhalt/Talente/Zauber/Eiseskälte Kämpferherz|Eiseskälte Kämpferherz]]"
-  - "[[Inhalt/Talente/Zauber/Ruhe Körper, Ruhe Geist|Ruhe Körper, Ruhe Geist]]"
-  - "[[Inhalt/Talente/Zauber/Sanftmut|Sanftmut]]"
-  - "[[Inhalt/Talente/Zauber/Standfest Katzengleich|Standfest Katzengleich]]"
-  - "[[Inhalt/Talente/Zauber/Zaubernahrung Hungerbann|Zaubernahrung Hungerbann]]"
+  - "[[Bärenruhe Winterschlaf]]"
+  - "[[Eiseskälte Kämpferherz]]"
+  - "[[Ruhe Körper, Ruhe Geist]]"
+  - "[[Sanftmut]]"
+  - "[[Standfest Katzengleich]]"
+  - "[[Zaubernahrung Hungerbann]]"
 Nachkauf: häufig
 Kosten: 0
 ---
@@ -28,6 +28,6 @@ Kosten: 0
 
 - **Kosten:** 0 EP
 - **Voraussetzungen:**
-  - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
-  - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
-- **Siehe auch:** [[Inhalt/Talente/Zauber/Bärenruhe Winterschlaf|Bärenruhe Winterschlaf]], [[Inhalt/Talente/Zauber/Eiseskälte Kämpferherz|Eiseskälte Kämpferherz]], [[Inhalt/Talente/Zauber/Ruhe Körper, Ruhe Geist|Ruhe Körper, Ruhe Geist]], [[Inhalt/Talente/Zauber/Sanftmut|Sanftmut]], [[Inhalt/Talente/Zauber/Standfest Katzengleich|Standfest Katzengleich]], [[Inhalt/Talente/Zauber/Zaubernahrung Hungerbann|Zaubernahrung Hungerbann]]
+  - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
+  - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
+- **Siehe auch:** [[Bärenruhe Winterschlaf]], [[Eiseskälte Kämpferherz]], [[Ruhe Körper, Ruhe Geist]], [[Sanftmut]], [[Standfest Katzengleich]], [[Zaubernahrung Hungerbann]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 4a634150-e548-457f-b8f1-250923e17b66
+ID: 9f4a62db-cf60-4459-8271-6ccea27ba194
 Name: "Hartes schmelze!"
 title: "Hartes schmelze!"
 Kategorie: Zauber

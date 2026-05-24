@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: df32b5ae-c1ea-4bc4-8aa0-64c44d52a159
+ID: e114f67e-de61-49ee-abb3-d9854945f6bd
 Name: "Mirakel: Autorität"
 title: "Mirakel: Autorität"
 Kategorie: Liturgien

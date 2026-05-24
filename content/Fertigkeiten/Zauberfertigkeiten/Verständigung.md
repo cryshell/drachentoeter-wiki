@@ -1,109 +1,197 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: afa8e2cc-e033-4aa1-a946-a9331bab92de
+ID: 257c68d4-db60-4e0b-985f-488c830d33e0
 Name: Verständigung
 title: Verständigung
 Kategorie: Zauberfertigkeiten
 Attribute:
-  - "[[Inhalt/Attribute/CH|CH]]"
-  - "[[Inhalt/Attribute/IN|IN]]"
-  - "[[Inhalt/Attribute/MU|MU]]"
+  - "[[Charisma|CH]]"
+  - "[[Intuition|IN]]"
+  - "[[Mut|MU]]"
 Steigerungsfaktor: 3
 Talente:
-  - "[[Inhalt/Talente/Zauber/Arachnea Krabbeltier|Arachnea Krabbeltier]]"
-  - "[[Inhalt/Talente/Zauber/Arachnea Krabbeltier (Dämonisch)|Arachnea Krabbeltier (Dämonisch)]]"
-  - "[[Inhalt/Talente/Zauber/Astralentzug|Astralentzug]]"
-  - "[[Inhalt/Talente/Zauber/Bienenfleiß|Bienenfleiß]]"
-  - "[[Inhalt/Talente/Zauber/Bienenkönigin|Bienenkönigin]]"
-  - "[[Inhalt/Talente/Zauber/Bienentanz|Bienentanz]]"
-  - "[[Inhalt/Talente/Zauber/Bindung des Vertrauten|Bindung des Vertrauten]]"
-  - "[[Inhalt/Talente/Zauber/Blick des Nachtmahrs|Blick des Nachtmahrs]]"
-  - "[[Inhalt/Talente/Zauber/Blick durch fremde Augen|Blick durch fremde Augen]]"
-  - "[[Inhalt/Talente/Zauber/Blutdurst der Fledermaus|Blutdurst der Fledermaus]]"
-  - "[[Inhalt/Talente/Zauber/Blutsbund|Blutsbund]]"
-  - "[[Inhalt/Talente/Zauber/Cryptographo Zauberschrift|Cryptographo Zauberschrift]]"
-  - "[[Inhalt/Talente/Zauber/Elfenstimme Flötenton|Elfenstimme Flötenton]]"
-  - "[[Inhalt/Talente/Zauber/Feuermähne Flammenhuf|Feuermähne Flammenhuf]]"
-  - "[[Inhalt/Talente/Zauber/Finsterrune|Finsterrune]]"
-  - "[[Inhalt/Talente/Zauber/Fluch des Gewürms|Fluch des Gewürms]]"
-  - "[[Inhalt/Talente/Zauber/Gedankenbilder Elfenruf|Gedankenbilder Elfenruf]]"
-  - "[[Inhalt/Talente/Zauber/Geister austreiben|Geister austreiben]]"
-  - "[[Inhalt/Talente/Zauber/Geisterbann des Dolches|Geisterbann des Dolches]]"
-  - "[[Inhalt/Talente/Zauber/Geisterbannrune|Geisterbannrune]]"
-  - "[[Inhalt/Talente/Zauber/Geisterbote|Geisterbote]]"
-  - "[[Inhalt/Talente/Zauber/Geisterruf|Geisterruf]]"
-  - "[[Inhalt/Talente/Zauber/Geistertausch|Geistertausch]]"
-  - "[[Inhalt/Talente/Zauber/Gesang der Wölfe|Gesang der Wölfe]]"
-  - "[[Inhalt/Talente/Zauber/Heimführung der Herde|Heimführung der Herde]]"
-  - "[[Inhalt/Talente/Zauber/Hexenblick|Hexenblick]]"
-  - "[[Inhalt/Talente/Zauber/Hexenblick (Dämonisch)|Hexenblick (Dämonisch)]]"
-  - "[[Inhalt/Talente/Zauber/Hilferuf|Hilferuf]]"
-  - "[[Inhalt/Talente/Zauber/Hilfreiche Tatze, rettende Schwinge|Hilfreiche Tatze, rettende Schwinge]]"
-  - "[[Inhalt/Talente/Zauber/Komm Kobold komm|Komm Kobold komm]]"
-  - "[[Inhalt/Talente/Zauber/Kontrolle der Miniatur|Kontrolle der Miniatur]]"
-  - "[[Inhalt/Talente/Zauber/Krabbelnder Schrecken|Krabbelnder Schrecken]]"
-  - "[[Inhalt/Talente/Zauber/Kraft der Tayas|Kraft der Tayas]]"
-  - "[[Inhalt/Talente/Zauber/Krähenruf|Krähenruf]]"
-  - "[[Inhalt/Talente/Zauber/Kuss der Todesfee|Kuss der Todesfee]]"
-  - "[[Inhalt/Talente/Zauber/Leidensbote|Leidensbote]]"
-  - "[[Inhalt/Talente/Zauber/Leidensbund|Leidensbund]]"
-  - "[[Inhalt/Talente/Zauber/Leidensbund (Dämonisch)|Leidensbund (Dämonisch)]]"
-  - "[[Inhalt/Talente/Zauber/Levthans Feuer|Levthans Feuer]]"
-  - "[[Inhalt/Talente/Zauber/Lied der Feen|Lied der Feen]]"
-  - "[[Inhalt/Talente/Zauber/Lockruf (Wesen)|Lockruf (Wesen)]]"
-  - "[[Inhalt/Talente/Zauber/Macht des Sukkubus|Macht des Sukkubus]]"
-  - "[[Inhalt/Talente/Zauber/Mackestopp|Mackestopp]]"
-  - "[[Inhalt/Talente/Zauber/Madas Spiegel|Madas Spiegel]]"
-  - "[[Inhalt/Talente/Zauber/Magischer Raub|Magischer Raub]]"
-  - "[[Inhalt/Talente/Zauber/Meister minderer Geister|Meister minderer Geister]]"
-  - "[[Inhalt/Talente/Zauber/Miniatur der Herrschaft|Miniatur der Herrschaft]]"
-  - "[[Inhalt/Talente/Zauber/Nekropathia Seelenreise|Nekropathia Seelenreise]]"
-  - "[[Inhalt/Talente/Zauber/Objectovoco|Objectovoco]]"
-  - "[[Inhalt/Talente/Zauber/Ottarune|Ottarune]]"
-  - "[[Inhalt/Talente/Zauber/Projektimago Ebenbild|Projektimago Ebenbild]]"
-  - "[[Inhalt/Talente/Zauber/Rat der Ahnen|Rat der Ahnen]]"
-  - "[[Inhalt/Talente/Zauber/Raub der Geisterkraft|Raub der Geisterkraft]]"
-  - "[[Inhalt/Talente/Zauber/Reptilea Natternnest|Reptilea Natternnest]]"
-  - "[[Inhalt/Talente/Zauber/Ruf des (Tieres)|Ruf des (Tieres)]]"
-  - "[[Inhalt/Talente/Zauber/Ruf des Schamanen|Ruf des Schamanen]]"
-  - "[[Inhalt/Talente/Zauber/Ruf des Vampirs|Ruf des Vampirs]]"
-  - "[[Inhalt/Talente/Zauber/Schlangengeist|Schlangengeist]]"
-  - "[[Inhalt/Talente/Zauber/Schmerzen der Miniatur|Schmerzen der Miniatur]]"
-  - "[[Inhalt/Talente/Zauber/Schuppenhaut|Schuppenhaut]]"
-  - "[[Inhalt/Talente/Zauber/Schutzkreis gegen Traumgänger|Schutzkreis gegen Traumgänger]]"
-  - "[[Inhalt/Talente/Zauber/Schwarmseele|Schwarmseele]]"
-  - "[[Inhalt/Talente/Zauber/Seelenwanderung|Seelenwanderung]]"
-  - "[[Inhalt/Talente/Zauber/Sorgenlied|Sorgenlied]]"
-  - "[[Inhalt/Talente/Zauber/Stimme des Nipakau|Stimme des Nipakau]]"
-  - "[[Inhalt/Talente/Zauber/Tairachs Sklaven|Tairachs Sklaven]]"
-  - "[[Inhalt/Talente/Zauber/Tanz der Betörung|Tanz der Betörung]]"
-  - "[[Inhalt/Talente/Zauber/Tanz des Mondes|Tanz des Mondes]]"
-  - "[[Inhalt/Talente/Zauber/Tiergedanken|Tiergedanken]]"
-  - "[[Inhalt/Talente/Zauber/Tierischer Helfer|Tierischer Helfer]]"
-  - "[[Inhalt/Talente/Zauber/Tiersinne|Tiersinne]]"
-  - "[[Inhalt/Talente/Zauber/Traumgestalt|Traumgestalt]]"
-  - "[[Inhalt/Talente/Zauber/Traumseherin|Traumseherin]]"
-  - "[[Inhalt/Talente/Zauber/Ungesehener Beobachter|Ungesehener Beobachter]]"
-  - "[[Inhalt/Talente/Zauber/Verderben des Magiers|Verderben des Magiers]]"
-  - "[[Inhalt/Talente/Zauber/Verletzung der Miniatur|Verletzung der Miniatur]]"
-  - "[[Inhalt/Talente/Zauber/Verständigung stören|Verständigung stören]]"
-  - "[[Inhalt/Talente/Zauber/Verständigungszeichen|Verständigungszeichen]]"
-  - "[[Inhalt/Talente/Zauber/Wachsame Augen|Wachsame Augen]]"
-  - "[[Inhalt/Talente/Zauber/Wegzeichen|Wegzeichen]]"
-  - "[[Inhalt/Talente/Zauber/Weisheit der Schrift|Weisheit der Schrift]]"
-  - "[[Inhalt/Talente/Zauber/Weiße Mähn‘ und Gold‘ner Huf|Weiße Mähn‘ und Gold‘ner Huf]]"
-  - "[[Inhalt/Talente/Zauber/Wesen des (Tieres)|Wesen des (Tieres)]]"
-  - "[[Inhalt/Talente/Zauber/Wimmelndes Zeichen|Wimmelndes Zeichen]]"
-  - "[[Inhalt/Talente/Zauber/Windgeflüster|Windgeflüster]]"
-  - "[[Inhalt/Talente/Zauber/Winterlager|Winterlager]]"
-  - "[[Inhalt/Talente/Zauber/Zauberwesen der Natur|Zauberwesen der Natur]]"
+  - "[[Arachnea Krabbeltier]]"
+  - "[[Arachnea Krabbeltier (Dämonisch)]]"
+  - "[[Astralentzug]]"
+  - "[[Bienenfleiß]]"
+  - "[[Bienenkönigin]]"
+  - "[[Bienentanz]]"
+  - "[[Bindung des Vertrauten]]"
+  - "[[Blick des Nachtmahrs]]"
+  - "[[Blick durch fremde Augen]]"
+  - "[[Blutdurst der Fledermaus]]"
+  - "[[Blutsbund]]"
+  - "[[Cryptographo Zauberschrift]]"
+  - "[[Elfenstimme Flötenton]]"
+  - "[[Feuermähne Flammenhuf]]"
+  - "[[Finsterrune]]"
+  - "[[Fluch des Gewürms]]"
+  - "[[Gedankenbilder Elfenruf]]"
+  - "[[Geister austreiben]]"
+  - "[[Geisterbann des Dolches]]"
+  - "[[Geisterbannrune]]"
+  - "[[Geisterbote]]"
+  - "[[Geisterruf]]"
+  - "[[Geistertausch]]"
+  - "[[Gesang der Wölfe]]"
+  - "[[Heimführung der Herde]]"
+  - "[[Hexenblick]]"
+  - "[[Hexenblick (Dämonisch)]]"
+  - "[[Hilferuf]]"
+  - "[[Hilfreiche Tatze, rettende Schwinge]]"
+  - "[[Komm Kobold komm]]"
+  - "[[Kontrolle der Miniatur]]"
+  - "[[Krabbelnder Schrecken]]"
+  - "[[Kraft der Tayas]]"
+  - "[[Krähenruf]]"
+  - "[[Kuss der Todesfee]]"
+  - "[[Leidensbote]]"
+  - "[[Leidensbund]]"
+  - "[[Leidensbund (Dämonisch)]]"
+  - "[[Levthans Feuer]]"
+  - "[[Lied der Feen]]"
+  - "[[Lockruf (Wesen)]]"
+  - "[[Macht des Sukkubus]]"
+  - "[[Mackestopp]]"
+  - "[[Madas Spiegel]]"
+  - "[[Magischer Raub]]"
+  - "[[Meister minderer Geister]]"
+  - "[[Miniatur der Herrschaft]]"
+  - "[[Nekropathia Seelenreise]]"
+  - "[[Objectovoco]]"
+  - "[[Ottarune]]"
+  - "[[Projektimago Ebenbild]]"
+  - "[[Rat der Ahnen]]"
+  - "[[Raub der Geisterkraft]]"
+  - "[[Reptilea Natternnest]]"
+  - "[[Ruf des (Tieres)]]"
+  - "[[Ruf des Schamanen]]"
+  - "[[Ruf des Vampirs]]"
+  - "[[Schlangengeist]]"
+  - "[[Schmerzen der Miniatur]]"
+  - "[[Schuppenhaut]]"
+  - "[[Schutzkreis gegen Traumgänger]]"
+  - "[[Schwarmseele]]"
+  - "[[Seelenwanderung]]"
+  - "[[Sorgenlied]]"
+  - "[[Stimme des Nipakau]]"
+  - "[[Tairachs Sklaven]]"
+  - "[[Tanz der Betörung]]"
+  - "[[Tanz des Mondes]]"
+  - "[[Tiergedanken]]"
+  - "[[Tierischer Helfer]]"
+  - "[[Tiersinne]]"
+  - "[[Traumgestalt]]"
+  - "[[Traumseherin]]"
+  - "[[Ungesehener Beobachter]]"
+  - "[[Verderben des Magiers]]"
+  - "[[Verletzung der Miniatur]]"
+  - "[[Verständigung stören]]"
+  - "[[Verständigungszeichen]]"
+  - "[[Wachsame Augen]]"
+  - "[[Wegzeichen]]"
+  - "[[Weisheit der Schrift]]"
+  - "[[Weiße Mähn‘ und Gold‘ner Huf]]"
+  - "[[Wesen des (Tieres)]]"
+  - "[[Wimmelndes Zeichen]]"
+  - "[[Windgeflüster]]"
+  - "[[Winterlager]]"
+  - "[[Zauberwesen der Natur]]"
 Voraussetzungen: Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Shakagra I
 ---
 Mit Verständigung kannst du Gefühle und Gedanken übertragen oder Tiere, Geister oder magische Wesen zur Hilfe rufen.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/CH|CH]], [[Inhalt/Attribute/IN|IN]], [[Inhalt/Attribute/MU|MU]]
+- **Attribute:** [[Charisma|CH]], [[Intuition|IN]], [[Mut|MU]]
 - **Steigerungsfaktor:** 3
-- **Talente:** [[Inhalt/Talente/Zauber/Arachnea Krabbeltier|Arachnea Krabbeltier]], [[Inhalt/Talente/Zauber/Arachnea Krabbeltier (Dämonisch)|Arachnea Krabbeltier (Dämonisch)]], [[Inhalt/Talente/Zauber/Astralentzug|Astralentzug]], [[Inhalt/Talente/Zauber/Bienenfleiß|Bienenfleiß]], [[Inhalt/Talente/Zauber/Bienenkönigin|Bienenkönigin]], [[Inhalt/Talente/Zauber/Bienentanz|Bienentanz]], [[Inhalt/Talente/Zauber/Bindung des Vertrauten|Bindung des Vertrauten]], [[Inhalt/Talente/Zauber/Blick des Nachtmahrs|Blick des Nachtmahrs]], [[Inhalt/Talente/Zauber/Blick durch fremde Augen|Blick durch fremde Augen]], [[Inhalt/Talente/Zauber/Blutdurst der Fledermaus|Blutdurst der Fledermaus]], [[Inhalt/Talente/Zauber/Blutsbund|Blutsbund]], [[Inhalt/Talente/Zauber/Cryptographo Zauberschrift|Cryptographo Zauberschrift]], [[Inhalt/Talente/Zauber/Elfenstimme Flötenton|Elfenstimme Flötenton]], [[Inhalt/Talente/Zauber/Feuermähne Flammenhuf|Feuermähne Flammenhuf]], [[Inhalt/Talente/Zauber/Finsterrune|Finsterrune]], [[Inhalt/Talente/Zauber/Fluch des Gewürms|Fluch des Gewürms]], [[Inhalt/Talente/Zauber/Gedankenbilder Elfenruf|Gedankenbilder Elfenruf]], [[Inhalt/Talente/Zauber/Geister austreiben|Geister austreiben]], [[Inhalt/Talente/Zauber/Geisterbann des Dolches|Geisterbann des Dolches]], [[Inhalt/Talente/Zauber/Geisterbannrune|Geisterbannrune]], [[Inhalt/Talente/Zauber/Geisterbote|Geisterbote]], [[Inhalt/Talente/Zauber/Geisterruf|Geisterruf]], [[Inhalt/Talente/Zauber/Geistertausch|Geistertausch]], [[Inhalt/Talente/Zauber/Gesang der Wölfe|Gesang der Wölfe]], [[Inhalt/Talente/Zauber/Heimführung der Herde|Heimführung der Herde]], [[Inhalt/Talente/Zauber/Hexenblick|Hexenblick]], [[Inhalt/Talente/Zauber/Hexenblick (Dämonisch)|Hexenblick (Dämonisch)]], [[Inhalt/Talente/Zauber/Hilferuf|Hilferuf]], [[Inhalt/Talente/Zauber/Hilfreiche Tatze, rettende Schwinge|Hilfreiche Tatze, rettende Schwinge]], [[Inhalt/Talente/Zauber/Komm Kobold komm|Komm Kobold komm]], [[Inhalt/Talente/Zauber/Kontrolle der Miniatur|Kontrolle der Miniatur]], [[Inhalt/Talente/Zauber/Krabbelnder Schrecken|Krabbelnder Schrecken]], [[Inhalt/Talente/Zauber/Kraft der Tayas|Kraft der Tayas]], [[Inhalt/Talente/Zauber/Krähenruf|Krähenruf]], [[Inhalt/Talente/Zauber/Kuss der Todesfee|Kuss der Todesfee]], [[Inhalt/Talente/Zauber/Leidensbote|Leidensbote]], [[Inhalt/Talente/Zauber/Leidensbund|Leidensbund]], [[Inhalt/Talente/Zauber/Leidensbund (Dämonisch)|Leidensbund (Dämonisch)]], [[Inhalt/Talente/Zauber/Levthans Feuer|Levthans Feuer]], [[Inhalt/Talente/Zauber/Lied der Feen|Lied der Feen]], [[Inhalt/Talente/Zauber/Lockruf (Wesen)|Lockruf (Wesen)]], [[Inhalt/Talente/Zauber/Macht des Sukkubus|Macht des Sukkubus]], [[Inhalt/Talente/Zauber/Mackestopp|Mackestopp]], [[Inhalt/Talente/Zauber/Madas Spiegel|Madas Spiegel]], [[Inhalt/Talente/Zauber/Magischer Raub|Magischer Raub]], [[Inhalt/Talente/Zauber/Meister minderer Geister|Meister minderer Geister]], [[Inhalt/Talente/Zauber/Miniatur der Herrschaft|Miniatur der Herrschaft]], [[Inhalt/Talente/Zauber/Nekropathia Seelenreise|Nekropathia Seelenreise]], [[Inhalt/Talente/Zauber/Objectovoco|Objectovoco]], [[Inhalt/Talente/Zauber/Ottarune|Ottarune]], [[Inhalt/Talente/Zauber/Projektimago Ebenbild|Projektimago Ebenbild]], [[Inhalt/Talente/Zauber/Rat der Ahnen|Rat der Ahnen]], [[Inhalt/Talente/Zauber/Raub der Geisterkraft|Raub der Geisterkraft]], [[Inhalt/Talente/Zauber/Reptilea Natternnest|Reptilea Natternnest]], [[Inhalt/Talente/Zauber/Ruf des (Tieres)|Ruf des (Tieres)]], [[Inhalt/Talente/Zauber/Ruf des Schamanen|Ruf des Schamanen]], [[Inhalt/Talente/Zauber/Ruf des Vampirs|Ruf des Vampirs]], [[Inhalt/Talente/Zauber/Schlangengeist|Schlangengeist]], [[Inhalt/Talente/Zauber/Schmerzen der Miniatur|Schmerzen der Miniatur]], [[Inhalt/Talente/Zauber/Schuppenhaut|Schuppenhaut]], [[Inhalt/Talente/Zauber/Schutzkreis gegen Traumgänger|Schutzkreis gegen Traumgänger]], [[Inhalt/Talente/Zauber/Schwarmseele|Schwarmseele]], [[Inhalt/Talente/Zauber/Seelenwanderung|Seelenwanderung]], [[Inhalt/Talente/Zauber/Sorgenlied|Sorgenlied]], [[Inhalt/Talente/Zauber/Stimme des Nipakau|Stimme des Nipakau]], [[Inhalt/Talente/Zauber/Tairachs Sklaven|Tairachs Sklaven]], [[Inhalt/Talente/Zauber/Tanz der Betörung|Tanz der Betörung]], [[Inhalt/Talente/Zauber/Tanz des Mondes|Tanz des Mondes]], [[Inhalt/Talente/Zauber/Tiergedanken|Tiergedanken]], [[Inhalt/Talente/Zauber/Tierischer Helfer|Tierischer Helfer]], [[Inhalt/Talente/Zauber/Tiersinne|Tiersinne]], [[Inhalt/Talente/Zauber/Traumgestalt|Traumgestalt]], [[Inhalt/Talente/Zauber/Traumseherin|Traumseherin]], [[Inhalt/Talente/Zauber/Ungesehener Beobachter|Ungesehener Beobachter]], [[Inhalt/Talente/Zauber/Verderben des Magiers|Verderben des Magiers]], [[Inhalt/Talente/Zauber/Verletzung der Miniatur|Verletzung der Miniatur]], [[Inhalt/Talente/Zauber/Verständigung stören|Verständigung stören]], [[Inhalt/Talente/Zauber/Verständigungszeichen|Verständigungszeichen]], [[Inhalt/Talente/Zauber/Wachsame Augen|Wachsame Augen]], [[Inhalt/Talente/Zauber/Wegzeichen|Wegzeichen]], [[Inhalt/Talente/Zauber/Weisheit der Schrift|Weisheit der Schrift]], [[Inhalt/Talente/Zauber/Weiße Mähn‘ und Gold‘ner Huf|Weiße Mähn‘ und Gold‘ner Huf]], [[Inhalt/Talente/Zauber/Wesen des (Tieres)|Wesen des (Tieres)]], [[Inhalt/Talente/Zauber/Wimmelndes Zeichen|Wimmelndes Zeichen]], [[Inhalt/Talente/Zauber/Windgeflüster|Windgeflüster]], [[Inhalt/Talente/Zauber/Winterlager|Winterlager]], [[Inhalt/Talente/Zauber/Zauberwesen der Natur|Zauberwesen der Natur]]
-- **Voraussetzungen:** Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Shakagra I
+- **Talente:**
+  - [[Arachnea Krabbeltier]]
+  - [[Arachnea Krabbeltier (Dämonisch)]]
+  - [[Astralentzug]]
+  - [[Bienenfleiß]]
+  - [[Bienenkönigin]]
+  - [[Bienentanz]]
+  - [[Bindung des Vertrauten]]
+  - [[Blick des Nachtmahrs]]
+  - [[Blick durch fremde Augen]]
+  - [[Blutdurst der Fledermaus]]
+  - [[Blutsbund]]
+  - [[Cryptographo Zauberschrift]]
+  - [[Elfenstimme Flötenton]]
+  - [[Feuermähne Flammenhuf]]
+  - [[Finsterrune]]
+  - [[Fluch des Gewürms]]
+  - [[Gedankenbilder Elfenruf]]
+  - [[Geister austreiben]]
+  - [[Geisterbann des Dolches]]
+  - [[Geisterbannrune]]
+  - [[Geisterbote]]
+  - [[Geisterruf]]
+  - [[Geistertausch]]
+  - [[Gesang der Wölfe]]
+  - [[Heimführung der Herde]]
+  - [[Hexenblick]]
+  - [[Hexenblick (Dämonisch)]]
+  - [[Hilferuf]]
+  - [[Hilfreiche Tatze, rettende Schwinge]]
+  - [[Komm Kobold komm]]
+  - [[Kontrolle der Miniatur]]
+  - [[Krabbelnder Schrecken]]
+  - [[Kraft der Tayas]]
+  - [[Krähenruf]]
+  - [[Kuss der Todesfee]]
+  - [[Leidensbote]]
+  - [[Leidensbund]]
+  - [[Leidensbund (Dämonisch)]]
+  - [[Levthans Feuer]]
+  - [[Lied der Feen]]
+  - [[Lockruf (Wesen)]]
+  - [[Macht des Sukkubus]]
+  - [[Mackestopp]]
+  - [[Madas Spiegel]]
+  - [[Magischer Raub]]
+  - [[Meister minderer Geister]]
+  - [[Miniatur der Herrschaft]]
+  - [[Nekropathia Seelenreise]]
+  - [[Objectovoco]]
+  - [[Ottarune]]
+  - [[Projektimago Ebenbild]]
+  - [[Rat der Ahnen]]
+  - [[Raub der Geisterkraft]]
+  - [[Reptilea Natternnest]]
+  - [[Ruf des (Tieres)]]
+  - [[Ruf des Schamanen]]
+  - [[Ruf des Vampirs]]
+  - [[Schlangengeist]]
+  - [[Schmerzen der Miniatur]]
+  - [[Schuppenhaut]]
+  - [[Schutzkreis gegen Traumgänger]]
+  - [[Schwarmseele]]
+  - [[Seelenwanderung]]
+  - [[Sorgenlied]]
+  - [[Stimme des Nipakau]]
+  - [[Tairachs Sklaven]]
+  - [[Tanz der Betörung]]
+  - [[Tanz des Mondes]]
+  - [[Tiergedanken]]
+  - [[Tierischer Helfer]]
+  - [[Tiersinne]]
+  - [[Traumgestalt]]
+  - [[Traumseherin]]
+  - [[Ungesehener Beobachter]]
+  - [[Verderben des Magiers]]
+  - [[Verletzung der Miniatur]]
+  - [[Verständigung stören]]
+  - [[Verständigungszeichen]]
+  - [[Wachsame Augen]]
+  - [[Wegzeichen]]
+  - [[Weisheit der Schrift]]
+  - [[Weiße Mähn‘ und Gold‘ner Huf]]
+  - [[Wesen des (Tieres)]]
+  - [[Wimmelndes Zeichen]]
+  - [[Windgeflüster]]
+  - [[Winterlager]]
+  - [[Zauberwesen der Natur]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Shakagra I]]

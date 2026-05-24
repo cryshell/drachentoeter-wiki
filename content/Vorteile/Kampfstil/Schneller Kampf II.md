@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 65d3be58-d725-4253-ab68-571a7dd282fd
+ID: 045fd726-b530-455b-9392-dd4ba0627e2a
 Name: Schneller Kampf II
 title: Schneller Kampf II
 Kategorie: Kampfstil
@@ -8,8 +8,8 @@ Voraussetzungen:
   - Attribut GE 6
   - Vorteil Schneller Kampf I
 Querverweise:
-  - "[[Inhalt/Kapitel/Aktion Angriff|Aktion Angriff]]"
-  - "[[Inhalt/Kapitel/Bonusaktion|Bonusaktion]]"
+  - "[[Aktion Angriff]]"
+  - "[[Bonusaktion]]"
 Nachkauf: häufig
 Kosten: 40
 ---
@@ -19,6 +19,6 @@ Finte: Du kannst als Bonusaktion Vorteil auf den nächsten Angriff in deinem Zug
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut GE 6"
-  - "Vorteil Schneller Kampf I"
-- **Siehe auch:** [[Inhalt/Kapitel/Aktion Angriff|Aktion Angriff]], [[Inhalt/Kapitel/Bonusaktion|Bonusaktion]]
+  - Attribut [[Gewandheit|GE]] 6
+  - Vorteil [[Schneller Kampf I]]
+- **Siehe auch:** [[Aktion Angriff]], [[Bonusaktion]]

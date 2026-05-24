@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c42b043e-6085-4d4b-bffa-eb5ac5213b3b
+ID: bd392218-3579-4543-929c-a42d39c0da66
 Name: Tradition der Belkelelpaktierer II
 title: Tradition der Belkelelpaktierer II
 Kategorie: Tradition (Paktierer)
@@ -16,5 +16,5 @@ Paktierer werden durch erlittene Wunden eher noch gefährlicher. Der Wundabzug s
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut MU 6"
-  - "Vorteil Tradition der Belkelelpaktierer I"
+  - Attribut [[Mut|MU]] 6
+  - Vorteil [[Tradition der Belkelelpaktierer I]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 1d302d63-8979-4b51-a337-cdef64f26622
+ID: c5f8a865-9f1c-4a04-bc52-0b3558963b93
 Name: Blutmagie
 title: Blutmagie
 Kategorie: Magisch
@@ -8,8 +8,8 @@ Voraussetzungen:
   - Vorteil Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I
   - Attribut MU 8
 Querverweise:
-  - "[[Inhalt/Abgeleiteter Wert/WS|WS]]"
-  - "[[Inhalt/Kapitel/Beschwörungen|Beschwörungen]]"
+  - "[[WS]]"
+  - "[[Beschwörungen]]"
 Nachkauf: häufig
 Kosten: 60
 ---
@@ -19,6 +19,6 @@ Du nutzt fremde Lebenskraft für deine Zauber. Das Opfer wird dabei völlig ausg
 
 - **Kosten:** 60 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I"
-  - "Attribut MU 8"
-- **Siehe auch:** [[Inhalt/Abgeleiteter Wert/WS|WS]], [[Inhalt/Kapitel/Beschwörungen|Beschwörungen]]
+  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
+  - Attribut [[Mut|MU]] 8
+- **Siehe auch:** [[WS]], [[Beschwörungen]]

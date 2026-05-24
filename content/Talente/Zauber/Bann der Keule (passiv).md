@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 557151de-c213-4a3a-ad64-18c412f85e18
+ID: 618cf26a-33d6-417b-9c60-572ff8c3cc1b
 Name: Bann der Keule (passiv)
 title: Bann der Keule (passiv)
 Kategorie: Zauber

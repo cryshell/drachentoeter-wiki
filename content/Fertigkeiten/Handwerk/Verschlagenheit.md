@@ -1,23 +1,26 @@
 ---
 Entitätstyp: Fertigkeit
-ID: d1398dbb-e353-4826-9507-14affd437ee1
+ID: 02f37d7a-25ca-408f-a953-2da461577db4
 Name: Verschlagenheit
 title: Verschlagenheit
 Kategorie: Handwerk
 Attribute:
-  - "[[Inhalt/Attribute/FF|FF]]"
-  - "[[Inhalt/Attribute/IN|IN]]"
-  - "[[Inhalt/Attribute/MU|MU]]"
+  - "[[Fingerfertigkeit|FF]]"
+  - "[[Intuition|IN]]"
+  - "[[Mut|MU]]"
 Steigerungsfaktor: 3
 Talente:
-  - "[[Inhalt/Talente/Profan/Verschlagenheit/Schlösser knacken|Schlösser knacken]]"
-  - "[[Inhalt/Talente/Profan/Verschlagenheit/Stehlen|Stehlen]]"
-  - "[[Inhalt/Talente/Profan/Verschlagenheit/Taschenspielerei|Taschenspielerei]]"
+  - "[[Schlösser knacken]]"
+  - "[[Stehlen]]"
+  - "[[Taschenspielerei]]"
 ---
 Verschlagenheit ist das Handwerk der zwielichtigen Gestalten, die Diebstahl, Falschsspiel und Einbruch nicht scheuen.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/FF|FF]], [[Inhalt/Attribute/IN|IN]], [[Inhalt/Attribute/MU|MU]]
+- **Attribute:** [[Fingerfertigkeit|FF]], [[Intuition|IN]], [[Mut|MU]]
 - **Steigerungsfaktor:** 3
-- **Talente:** [[Inhalt/Talente/Profan/Verschlagenheit/Schlösser knacken|Schlösser knacken]], [[Inhalt/Talente/Profan/Verschlagenheit/Stehlen|Stehlen]], [[Inhalt/Talente/Profan/Verschlagenheit/Taschenspielerei|Taschenspielerei]]
+- **Talente:**
+  - [[Schlösser knacken]]
+  - [[Stehlen]]
+  - [[Taschenspielerei]]

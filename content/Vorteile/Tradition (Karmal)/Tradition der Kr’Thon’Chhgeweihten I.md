@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 5b046238-7004-48cf-b86e-5817b1e6182e
+ID: 4c949389-04bf-461d-ad3a-84b2ff8d8d64
 Name: Tradition der Kr’Thon’Chhgeweihten I
 title: Tradition der Kr’Thon’Chhgeweihten I
 Kategorie: Tradition (Karmal)
@@ -19,6 +19,6 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen Kr’Thon’Chhs Gebote verstö
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut MU 4"
-  - "Vorteil Geweiht I"
-  - "Kein Vorteil Tradition der *geweihten I"
+  - Attribut [[Mut|MU]] 4
+  - Vorteil [[Geweiht I]]
+  - Kein Vorteil Tradition der *geweihten I

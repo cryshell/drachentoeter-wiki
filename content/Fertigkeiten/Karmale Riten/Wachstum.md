@@ -1,37 +1,53 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: d8212c3e-7cae-46a5-865c-e9138a16fe13
+ID: e7e268e8-2f33-4535-8406-b0c74563523b
 Name: Wachstum
 title: Wachstum
 Kategorie: Karmale Riten
 Attribute:
-  - "[[Inhalt/Attribute/CH|CH]]"
-  - "[[Inhalt/Attribute/FF|FF]]"
-  - "[[Inhalt/Attribute/KL|KL]]"
+  - "[[Charisma|CH]]"
+  - "[[Fingerfertigkeit|FF]]"
+  - "[[Klugheit|KL]]"
 Steigerungsfaktor: 2
 Talente:
-  - "[[Inhalt/Talente/Liturgien/Dreifacher Saatsegen|Dreifacher Saatsegen]]"
-  - "[[Inhalt/Talente/Liturgien/Erneuerung des Landes|Erneuerung des Landes]]"
-  - "[[Inhalt/Talente/Liturgien/Kraft des Lebens|Kraft des Lebens]]"
-  - "[[Inhalt/Talente/Liturgien/Kälbchensegen|Kälbchensegen]]"
-  - "[[Inhalt/Talente/Liturgien/Leben und Vergänglichkeit|Leben und Vergänglichkeit]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: CH|Mirakel: CH]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Diplomatie|Mirakel: Diplomatie]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: KL|Mirakel: KL]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Mythenkunde|Mirakel: Mythenkunde]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Naturkunde|Mirakel: Naturkunde]]"
-  - "[[Inhalt/Talente/Liturgien/Parinors Vermächtnis|Parinors Vermächtnis]]"
-  - "[[Inhalt/Talente/Liturgien/Pflanzengespür|Pflanzengespür]]"
-  - "[[Inhalt/Talente/Liturgien/Reiches Land|Reiches Land]]"
-  - "[[Inhalt/Talente/Liturgien/Segensreiches Wasser|Segensreiches Wasser]]"
-  - "[[Inhalt/Talente/Liturgien/Wohlverdiente Rast|Wohlverdiente Rast]]"
+  - "[[Dreifacher Saatsegen]]"
+  - "[[Erneuerung des Landes]]"
+  - "[[Kraft des Lebens]]"
+  - "[[Kälbchensegen]]"
+  - "[[Leben und Vergänglichkeit]]"
+  - "[[Mirakel CH|Mirakel: CH]]"
+  - "[[Mirakel Diplomatie|Mirakel: Diplomatie]]"
+  - "[[Mirakel KL|Mirakel: KL]]"
+  - "[[Mirakel Mythenkunde|Mirakel: Mythenkunde]]"
+  - "[[Mirakel Naturkunde|Mirakel: Naturkunde]]"
+  - "[[Parinors Vermächtnis]]"
+  - "[[Pflanzengespür]]"
+  - "[[Reiches Land]]"
+  - "[[Segensreiches Wasser]]"
+  - "[[Wohlverdiente Rast]]"
 Voraussetzungen: Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I
 ---
 Viele ländliche Perainegeweihte beteiligen sich an der bäuerlichen Arbeit und segnen Felder und Jungtiere.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/CH|CH]], [[Inhalt/Attribute/FF|FF]], [[Inhalt/Attribute/KL|KL]]
+- **Attribute:** [[Charisma|CH]], [[Fingerfertigkeit|FF]], [[Klugheit|KL]]
 - **Steigerungsfaktor:** 2
-- **Talente:** [[Inhalt/Talente/Liturgien/Dreifacher Saatsegen|Dreifacher Saatsegen]], [[Inhalt/Talente/Liturgien/Erneuerung des Landes|Erneuerung des Landes]], [[Inhalt/Talente/Liturgien/Kraft des Lebens|Kraft des Lebens]], [[Inhalt/Talente/Liturgien/Kälbchensegen|Kälbchensegen]], [[Inhalt/Talente/Liturgien/Leben und Vergänglichkeit|Leben und Vergänglichkeit]], [[Inhalt/Talente/Liturgien/Mirakel: CH|Mirakel: CH]], [[Inhalt/Talente/Liturgien/Mirakel: Diplomatie|Mirakel: Diplomatie]], [[Inhalt/Talente/Liturgien/Mirakel: KL|Mirakel: KL]], [[Inhalt/Talente/Liturgien/Mirakel: Mythenkunde|Mirakel: Mythenkunde]], [[Inhalt/Talente/Liturgien/Mirakel: Naturkunde|Mirakel: Naturkunde]], [[Inhalt/Talente/Liturgien/Parinors Vermächtnis|Parinors Vermächtnis]], [[Inhalt/Talente/Liturgien/Pflanzengespür|Pflanzengespür]], [[Inhalt/Talente/Liturgien/Reiches Land|Reiches Land]], [[Inhalt/Talente/Liturgien/Segensreiches Wasser|Segensreiches Wasser]], [[Inhalt/Talente/Liturgien/Wohlverdiente Rast|Wohlverdiente Rast]]
-- **Voraussetzungen:** Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I
+- **Talente:**
+  - [[Dreifacher Saatsegen]]
+  - [[Erneuerung des Landes]]
+  - [[Kraft des Lebens]]
+  - [[Kälbchensegen]]
+  - [[Leben und Vergänglichkeit]]
+  - [[Mirakel CH|Mirakel: CH]]
+  - [[Mirakel Diplomatie|Mirakel: Diplomatie]]
+  - [[Mirakel KL|Mirakel: KL]]
+  - [[Mirakel Mythenkunde|Mirakel: Mythenkunde]]
+  - [[Mirakel Naturkunde|Mirakel: Naturkunde]]
+  - [[Parinors Vermächtnis]]
+  - [[Pflanzengespür]]
+  - [[Reiches Land]]
+  - [[Segensreiches Wasser]]
+  - [[Wohlverdiente Rast]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Perainegeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I]]

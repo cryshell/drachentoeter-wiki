@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 973f4f03-1cb6-411e-8db3-5f11a3f16905
+ID: ab5d4cb5-00bc-4591-9011-88ed43d32cdb
 Name: Alterslosigkeit
 title: Alterslosigkeit
 Kategorie: Kreis der Verdammnis
@@ -16,5 +16,5 @@ Du alterst nicht mehr und alle natürlichen Auswirkungen der Alterung werden auf
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut CH 4"
-  - "Vorteil Paktierer I"
+  - Attribut [[Charisma|CH]] 4
+  - Vorteil [[Paktierer I]]

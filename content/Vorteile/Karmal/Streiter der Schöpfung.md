@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 3e170d2d-2d3c-4cb3-bc15-ecee4342e074
+ID: 16ef7de7-d72b-44d3-8240-a9d5317125fe
 Name: Streiter der Schöpfung
 title: Streiter der Schöpfung
 Kategorie: Karmal
@@ -16,5 +16,5 @@ Alle Proben im Kampf gegen unheilige Wesen sind um +2 erleichtert, Liturgien sog
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "Attribut MU 10"
-  - "Vorteil Geweiht I"
+  - Attribut [[Mut|MU]] 10
+  - Vorteil [[Geweiht I]]

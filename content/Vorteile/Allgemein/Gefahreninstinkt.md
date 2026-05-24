@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Vorteil
-ID: 063ea538-05a2-42fb-be7d-60a726fc5230
+ID: b4d0b44c-146b-401f-b9c6-dce01ae4abcf
 Name: Gefahreninstinkt
 title: Gefahreninstinkt
 Kategorie: Allgemein
 Querverweise:
-  - "[[Inhalt/Talente/Profan/Wahrnehmung/Wachsamkeit|Wachsamkeit]]"
+  - "[[Wachsamkeit]]"
 Nachkauf: extrem selten
 Kosten: 100
 ---
@@ -14,4 +14,4 @@ Mit der Gabe Gefahreninstinkt kannst du mit dem Talent Wachsamkeit auch Gefahren
 ---
 
 - **Kosten:** 100 EP
-- **Siehe auch:** [[Inhalt/Talente/Profan/Wahrnehmung/Wachsamkeit|Wachsamkeit]]
+- **Siehe auch:** [[Wachsamkeit]]

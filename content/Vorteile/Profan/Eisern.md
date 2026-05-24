@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Vorteil
-ID: 41ee3dec-f1e5-4871-a591-cfc89d29fceb
+ID: 52b9f52f-bf46-4dee-9b8b-d65abd39ee85
 Name: Eisern
 title: Eisern
 Kategorie: Profan
 Voraussetzungen: Attribut KO 10
 Querverweise:
-  - "[[Inhalt/Abgeleiteter Wert/WS|WS]]"
-  - "[[Inhalt/Kapitel/Bewusstlosigkeit|Bewusstlosigkeit]]"
+  - "[[WS]]"
+  - "[[Bewusstlosigkeit]]"
 Nachkauf: häufig
 Kosten: 80
 ---
@@ -18,5 +18,6 @@ Wenn KO-Proben zum Ignorieren von Bewusstlosigkeit misslingen, erleidest du kein
 ---
 
 - **Kosten:** 80 EP
-- **Voraussetzungen:** Attribut KO 10
-- **Siehe auch:** [[Inhalt/Abgeleiteter Wert/WS|WS]], [[Inhalt/Kapitel/Bewusstlosigkeit|Bewusstlosigkeit]]
+- **Voraussetzungen:**
+  - Attribut [[Konstitution|KO]] 10
+- **Siehe auch:** [[WS]], [[Bewusstlosigkeit]]

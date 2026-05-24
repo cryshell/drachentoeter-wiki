@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4e206359-19f4-4f2b-8056-185b556c076a
+ID: 5d823943-97f3-429f-b739-0da72bad6ed7
 Name: Tradition der Phexgeweihten IV
 title: Tradition der Phexgeweihten IV
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut IN 10"
-  - "Vorteil Tradition der Phexgeweihten III"
+  - MeisterAttribut [[Intuition|IN]] 10
+  - Vorteil [[Tradition der Phexgeweihten III]]

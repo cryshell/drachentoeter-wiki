@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 01e9e665-0b40-49cb-a88f-74ebe8903de3
+ID: fdd1a07d-ff12-4d7e-a90e-c0feefabc690
 Name: Tradition der Derwische II
 title: Tradition der Derwische II
 Kategorie: Tradition (Magisch)
@@ -16,5 +16,5 @@ Deine Rhythmen sind auf größere Entfernung hörbar. Alle deine Zauber mit dem 
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut FF 6"
-  - "Vorteil Tradition der Derwische I"
+  - Attribut [[Fingerfertigkeit|FF]] 6
+  - Vorteil [[Tradition der Derwische I]]

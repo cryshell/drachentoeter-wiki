@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: ab46d7a7-a0cc-4247-bb07-df65dd9221dc
+ID: c554ed29-8204-49e4-80e3-429515aeb6c1
 Name: Parierwaffenkampf III
 title: Parierwaffenkampf III
 Kategorie: Kampfstil
@@ -8,7 +8,7 @@ Voraussetzungen:
   - Attribut GE 8 ODER Attribut IN 8
   - Vorteil Parierwaffenkampf II
 Querverweise:
-  - "[[Inhalt/Kapitel/Reaktion|Reaktion]]"
+  - "[[Reaktion]]"
 Nachkauf: häufig
 Kosten: 60
 ---
@@ -18,6 +18,6 @@ Kreuzblock: Wenn du einen Nahkampftreffer erleidest, kannst du als Reaktion die 
 
 - **Kosten:** 60 EP
 - **Voraussetzungen:**
-  - "Attribut GE 8 ODER Attribut IN 8"
-  - "Vorteil Parierwaffenkampf II"
-- **Siehe auch:** [[Inhalt/Kapitel/Reaktion|Reaktion]]
+  - Attribut GE 8 ODER Attribut IN 8
+  - Vorteil [[Parierwaffenkampf II]]
+- **Siehe auch:** [[Reaktion]]

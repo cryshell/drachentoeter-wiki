@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: d2515e0c-0465-496c-9e2f-f101e6529fe1
+ID: 1b71ceef-4149-452a-a583-cb530781661a
 Name: "Brenne toter Stoff! (Dämonisch)"
 title: "Brenne toter Stoff! (Dämonisch)"
 Kategorie: Zauber

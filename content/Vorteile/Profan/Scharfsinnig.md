@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: ebe1020e-0c3e-48e1-a975-745143017cd4
+ID: c45c6341-94cb-4ab2-b569-2f61f2f66def
 Name: Scharfsinnig
 title: Scharfsinnig
 Kategorie: Profan
 Voraussetzungen: Attribut KL 6
 Querverweise:
-  - "[[Inhalt/Kapitel/Willenskraftpunkte|Willenskraftpunkte]]"
+  - "[[Willenskraftpunkte]]"
 Nachkauf: häufig
 Kosten: 40
 ---
@@ -15,5 +15,6 @@ Du darfst fehlgeschlagene Proben auf Natur- und Wissensfertigkeiten für 1 WiP w
 ---
 
 - **Kosten:** 40 EP
-- **Voraussetzungen:** Attribut KL 6
-- **Siehe auch:** [[Inhalt/Kapitel/Willenskraftpunkte|Willenskraftpunkte]]
+- **Voraussetzungen:**
+  - Attribut [[Klugheit|KL]] 6
+- **Siehe auch:** [[Willenskraftpunkte]]

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: 0de9ce12-ef05-43ee-bf52-1ba7aebea5e2
+ID: 5f7a663d-71f3-4e6f-a219-b64e8cbd8ac4
 Name: Kreis der Verdammnis V
 title: Kreis der Verdammnis V
 Kategorie: Kreis der Verdammnis
 Voraussetzungen: Vorteil Kreis der Verdammnis IV
 Querverweise:
-  - "[[Inhalt/Talente/Liturgien/Seelenprüfung|Seelenprüfung]]"
+  - "[[Seelenprüfung]]"
 Nachkauf: üblich
 Kosten: "-200"
 ---
@@ -21,5 +21,6 @@ Der Vorteil hat folgende Auswirkungen:
 ---
 
 - **Kosten:** -200 EP
-- **Voraussetzungen:** Vorteil Kreis der Verdammnis IV
-- **Siehe auch:** [[Inhalt/Talente/Liturgien/Seelenprüfung|Seelenprüfung]]
+- **Voraussetzungen:**
+  - Vorteil [[Kreis der Verdammnis IV]]
+- **Siehe auch:** [[Seelenprüfung]]

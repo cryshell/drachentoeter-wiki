@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b46f69b4-f74a-4e2d-a300-7fbb9197febc
+ID: 73895da0-9b31-40e7-bdec-8d73633128e5
 Name: Tradition der V’Sargeweihten II
 title: Tradition der V’Sargeweihten II
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ V’Sargeweihte würdigen die Ruhe und das Schweigen. In der Stille haben Liturg
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut KL 6"
-  - "Vorteil Tradition der V’Sargeweihten I"
+  - Attribut [[Klugheit|KL]] 6
+  - Vorteil [[Tradition der V’Sargeweihten I]]

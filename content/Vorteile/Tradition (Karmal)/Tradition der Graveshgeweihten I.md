@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 51aef2d2-e706-4c6e-a86b-b61d6ff9fdb5
+ID: 6ee0717d-6e29-4fe1-a5b5-3d68cfecc3c7
 Name: Tradition der Graveshgeweihten I
 title: Tradition der Graveshgeweihten I
 Kategorie: Tradition (Karmal)
@@ -19,6 +19,6 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen Graveshs Gebote verstößt: Unt
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut FF 4"
-  - "Vorteil Geweiht I"
-  - "Kein Vorteil Tradition der *geweihten I"
+  - Attribut [[Fingerfertigkeit|FF]] 4
+  - Vorteil [[Geweiht I]]
+  - Kein Vorteil Tradition der *geweihten I

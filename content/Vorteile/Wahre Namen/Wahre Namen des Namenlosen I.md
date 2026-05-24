@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6b26c7e3-548f-4aeb-939d-ff232ec2adfb
+ID: 79e8df4a-961c-4754-84ed-4074095e247f
 Name: Wahre Namen des Namenlosen I
 title: Wahre Namen des Namenlosen I
 Kategorie: Wahre Namen
@@ -16,5 +16,5 @@ Du kannst alle Dämonen des Namenlosen bis zu einer Beschwörungsschwierigkeit v
 
 - **Kosten:** 10 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
-  - "Attribut KL 4"
+  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Attribut [[Klugheit|KL]] 4

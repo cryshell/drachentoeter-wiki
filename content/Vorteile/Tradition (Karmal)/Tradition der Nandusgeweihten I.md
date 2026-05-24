@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: afe00406-7000-4d60-b604-d371972d8510
+ID: accd762d-d1cf-4306-9e2e-c8752e61fe73
 Name: Tradition der Nandusgeweihten I
 title: Tradition der Nandusgeweihten I
 Kategorie: Tradition (Karmal)
@@ -19,6 +19,6 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen Nandus‘ Gebote verstößt: St
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut KL 4"
-  - "Vorteil Geweiht I"
-  - "Kein Vorteil Tradition der *geweihten I"
+  - Attribut [[Klugheit|KL]] 4
+  - Vorteil [[Geweiht I]]
+  - Kein Vorteil Tradition der *geweihten I

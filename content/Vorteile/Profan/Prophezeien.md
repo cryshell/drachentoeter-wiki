@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Vorteil
-ID: 2b47d335-8c7c-4fec-a078-85d50005d5b5
+ID: de4c97ee-624e-4651-a0a3-ad533095d6d9
 Name: Prophezeien
 title: Prophezeien
 Kategorie: Profan
 Querverweise:
-  - "[[Inhalt/Talente/Profan/Bildung/Sternkunde|Sternkunde]]"
+  - "[[Sternkunde]]"
 Nachkauf: selten
 Kosten: 40
 ---
@@ -14,4 +14,4 @@ Du kannst mit Spielkarten, Würfeln, Astrologie, Drogen oder prophetischen Träu
 ---
 
 - **Kosten:** 40 EP
-- **Siehe auch:** [[Inhalt/Talente/Profan/Bildung/Sternkunde|Sternkunde]]
+- **Siehe auch:** [[Sternkunde]]

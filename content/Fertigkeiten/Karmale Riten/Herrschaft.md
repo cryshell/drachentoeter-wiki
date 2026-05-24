@@ -1,35 +1,49 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 0f236b72-c605-4ccb-811e-824a5e93cefc
+ID: fb4f4c99-8326-401a-b103-db15b52b36f4
 Name: Herrschaft
 title: Herrschaft
 Kategorie: Karmale Riten
 Attribute:
-  - "[[Inhalt/Attribute/MU|MU]]"
-  - "[[Inhalt/Attribute/KL|KL]]"
-  - "[[Inhalt/Attribute/CH|CH]]"
+  - "[[Mut|MU]]"
+  - "[[Klugheit|KL]]"
+  - "[[Charisma|CH]]"
 Steigerungsfaktor: 3
 Talente:
-  - "[[Inhalt/Talente/Liturgien/Des Einen bezaubernder Sphärenklang|Des Einen bezaubernder Sphärenklang]]"
-  - "[[Inhalt/Talente/Liturgien/Eidsegen|Eidsegen]]"
-  - "[[Inhalt/Talente/Liturgien/Gott der Götter|Gott der Götter]]"
-  - "[[Inhalt/Talente/Liturgien/Großer Eidsegen|Großer Eidsegen]]"
-  - "[[Inhalt/Talente/Liturgien/Herbeirufung der Diener des Herrn|Herbeirufung der Diener des Herrn]]"
-  - "[[Inhalt/Talente/Liturgien/Herbeirufung der Heerscharen des Rattenkindes|Herbeirufung der Heerscharen des Rattenkindes]]"
-  - "[[Inhalt/Talente/Liturgien/Magiespiegel|Magiespiegel]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Autorität|Mirakel: Autorität]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: KL|Mirakel: KL]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Mythenkunde|Mirakel: Mythenkunde]]"
-  - "[[Inhalt/Talente/Liturgien/Schwindende Zauberkraft|Schwindende Zauberkraft]]"
-  - "[[Inhalt/Talente/Liturgien/Seelenbannung|Seelenbannung]]"
-  - "[[Inhalt/Talente/Liturgien/Seelenschatten|Seelenschatten]]"
+  - "[[Des Einen bezaubernder Sphärenklang]]"
+  - "[[Eidsegen]]"
+  - "[[Gott der Götter]]"
+  - "[[Großer Eidsegen]]"
+  - "[[Herbeirufung der Diener des Herrn]]"
+  - "[[Herbeirufung der Heerscharen des Rattenkindes]]"
+  - "[[Magiespiegel]]"
+  - "[[Mirakel Autorität|Mirakel: Autorität]]"
+  - "[[Mirakel KL|Mirakel: KL]]"
+  - "[[Mirakel Mythenkunde|Mirakel: Mythenkunde]]"
+  - "[[Schwindende Zauberkraft]]"
+  - "[[Seelenbannung]]"
+  - "[[Seelenschatten]]"
 Voraussetzungen: Vorteil Tradition der Namenlosgeweihten I
 ---
 Viele Liturgien des Gottes ohne Namen dienen dazu, andere zu unterwerfen oder zu knechten.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/MU|MU]], [[Inhalt/Attribute/KL|KL]], [[Inhalt/Attribute/CH|CH]]
+- **Attribute:** [[Mut|MU]], [[Klugheit|KL]], [[Charisma|CH]]
 - **Steigerungsfaktor:** 3
-- **Talente:** [[Inhalt/Talente/Liturgien/Des Einen bezaubernder Sphärenklang|Des Einen bezaubernder Sphärenklang]], [[Inhalt/Talente/Liturgien/Eidsegen|Eidsegen]], [[Inhalt/Talente/Liturgien/Gott der Götter|Gott der Götter]], [[Inhalt/Talente/Liturgien/Großer Eidsegen|Großer Eidsegen]], [[Inhalt/Talente/Liturgien/Herbeirufung der Diener des Herrn|Herbeirufung der Diener des Herrn]], [[Inhalt/Talente/Liturgien/Herbeirufung der Heerscharen des Rattenkindes|Herbeirufung der Heerscharen des Rattenkindes]], [[Inhalt/Talente/Liturgien/Magiespiegel|Magiespiegel]], [[Inhalt/Talente/Liturgien/Mirakel: Autorität|Mirakel: Autorität]], [[Inhalt/Talente/Liturgien/Mirakel: KL|Mirakel: KL]], [[Inhalt/Talente/Liturgien/Mirakel: Mythenkunde|Mirakel: Mythenkunde]], [[Inhalt/Talente/Liturgien/Schwindende Zauberkraft|Schwindende Zauberkraft]], [[Inhalt/Talente/Liturgien/Seelenbannung|Seelenbannung]], [[Inhalt/Talente/Liturgien/Seelenschatten|Seelenschatten]]
-- **Voraussetzungen:** Vorteil Tradition der Namenlosgeweihten I
+- **Talente:**
+  - [[Des Einen bezaubernder Sphärenklang]]
+  - [[Eidsegen]]
+  - [[Gott der Götter]]
+  - [[Großer Eidsegen]]
+  - [[Herbeirufung der Diener des Herrn]]
+  - [[Herbeirufung der Heerscharen des Rattenkindes]]
+  - [[Magiespiegel]]
+  - [[Mirakel Autorität|Mirakel: Autorität]]
+  - [[Mirakel KL|Mirakel: KL]]
+  - [[Mirakel Mythenkunde|Mirakel: Mythenkunde]]
+  - [[Schwindende Zauberkraft]]
+  - [[Seelenbannung]]
+  - [[Seelenschatten]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Namenlosgeweihten I]]

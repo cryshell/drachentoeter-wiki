@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 0d0be664-9f16-4627-866f-32ed42e04d13
+ID: fb730a13-eb89-45cb-8777-eb658890f4aa
 Name: Kraft des (Tieres)
 title: Kraft des (Tieres)
 Kategorie: Zauber

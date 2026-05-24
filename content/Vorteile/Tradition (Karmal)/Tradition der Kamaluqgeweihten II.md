@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 3a04a460-0fce-412d-b841-bc97078f6e08
+ID: 5fed18f8-0c6b-4c22-9533-b63b8c1ac516
 Name: Tradition der Kamaluqgeweihten II
 title: Tradition der Kamaluqgeweihten II
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ Die Tradition der Kamaluqgeweihten ist sehr stark schamanisch geprägt. Durch di
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut MU 6"
-  - "Vorteil Tradition der Kamaluqgeweihten I"
+  - Attribut [[Mut|MU]] 6
+  - Vorteil [[Tradition der Kamaluqgeweihten I]]

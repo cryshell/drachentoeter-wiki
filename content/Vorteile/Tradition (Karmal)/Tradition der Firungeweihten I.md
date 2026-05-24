@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: dd0de2ec-98a5-490f-97d7-c650db5b7ab4
+ID: 688ea1ad-ee34-4d84-8c60-97fa3cb1ae1d
 Name: Tradition der Firungeweihten I
 title: Tradition der Firungeweihten I
 Kategorie: Tradition (Karmal)
@@ -19,6 +19,6 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen Firuns Gebote verstößt: Ernst
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut MU 4"
-  - "Vorteil Geweiht I"
-  - "Kein Vorteil Tradition der *geweihten I"
+  - Attribut [[Mut|MU]] 4
+  - Vorteil [[Geweiht I]]
+  - Kein Vorteil Tradition der *geweihten I

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 5bf0f497-c0cf-4060-a900-7e246b5e363a
+ID: cdc410db-92c7-4bd5-844c-54f0b447b3f7
 Name: Tradition der Namenlosgeweihten IV
 title: Tradition der Namenlosgeweihten IV
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut MU 10"
-  - "Vorteil Tradition der Namenlosgeweihten III"
+  - MeisterAttribut [[Mut|MU]] 10
+  - Vorteil [[Tradition der Namenlosgeweihten III]]

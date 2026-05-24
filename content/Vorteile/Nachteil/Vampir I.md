@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Vorteil
-ID: 93eea265-bca5-42c6-9f9e-258f1f209a26
+ID: 5f1c737e-341e-4e2c-b66b-6ffc1cd721ab
 Name: Vampir I
 title: Vampir I
 Kategorie: Nachteil
 Querverweise:
-  - "[[Inhalt/Kapitel/Sikaryandurst und -raub|Sikaryandurst und -raub]]"
+  - "[[Sikaryandurst und -raub]]"
 Nachkauf: selten
 Kosten: "-1200"
 ---
@@ -21,4 +21,4 @@ Du bist ein minderer Vampir. Der Vorteil hat folgende Auswirkungen:
 ---
 
 - **Kosten:** -1200 EP
-- **Siehe auch:** [[Inhalt/Kapitel/Sikaryandurst und -raub|Sikaryandurst und -raub]]
+- **Siehe auch:** [[Sikaryandurst und -raub]]

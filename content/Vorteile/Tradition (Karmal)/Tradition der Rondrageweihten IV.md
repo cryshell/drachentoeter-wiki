@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 652e2837-3828-49a6-92a7-beea2076725a
+ID: efbfc9d3-386c-46c0-bbde-288db62d1be6
 Name: Tradition der Rondrageweihten IV
 title: Tradition der Rondrageweihten IV
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut MU 10"
-  - "Vorteil Tradition der Rondrageweihten III"
+  - MeisterAttribut [[Mut|MU]] 10
+  - Vorteil [[Tradition der Rondrageweihten III]]

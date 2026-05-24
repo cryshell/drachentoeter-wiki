@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: cb3064e7-808b-46bc-8866-5a84e6052da0
+ID: 41097b78-2de2-477f-af7d-c348cd66a361
 Name: Halbschwertkampf IV
 title: Halbschwertkampf IV
 Kategorie: Kampfstil
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "Vorteil Halbschwertkampf III"
-  - "MeisterAttribut GE 10 ODER MeisterAttribut KK 10 ODER MeisterAttribut MU 10"
+  - Vorteil [[Halbschwertkampf III]]
+  - MeisterAttribut GE 10 ODER MeisterAttribut KK 10 ODER MeisterAttribut MU 10

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a13e6134-f02e-4eb6-898b-539a4ff33c1b
+ID: 54b449c0-5724-477e-80ef-c78952a885c4
 Name: Tradition der Charyptorothpaktierer IV
 title: Tradition der Charyptorothpaktierer IV
 Kategorie: Tradition (Paktierer)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut MU 10"
-  - "Vorteil Tradition der Charyptorothpaktierer III"
+  - MeisterAttribut [[Mut|MU]] 10
+  - Vorteil [[Tradition der Charyptorothpaktierer III]]

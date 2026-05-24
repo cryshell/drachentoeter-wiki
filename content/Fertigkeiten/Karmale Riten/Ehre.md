@@ -1,31 +1,41 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 669dae3f-0628-4a4e-ac55-8d74f8ee03ee
+ID: be7e145d-a335-47d8-a674-9449d1635a4f
 Name: Ehre
 title: Ehre
 Kategorie: Karmale Riten
 Attribute:
-  - "[[Inhalt/Attribute/KL|KL]]"
-  - "[[Inhalt/Attribute/KK|KK]]"
-  - "[[Inhalt/Attribute/MU|MU]]"
+  - "[[Klugheit|KL]]"
+  - "[[Körperkraft|KK]]"
+  - "[[Mut|MU]]"
 Steigerungsfaktor: 2
 Talente:
-  - "[[Inhalt/Talente/Liturgien/Ehrenhafter Zweikampf|Ehrenhafter Zweikampf]]"
-  - "[[Inhalt/Talente/Liturgien/Für die Göttin, für Rondra! (passiv)|Für die Göttin, für Rondra! (passiv)]]"
-  - "[[Inhalt/Talente/Liturgien/Großer Eidsegen|Großer Eidsegen]]"
-  - "[[Inhalt/Talente/Liturgien/Heiliger Befehl|Heiliger Befehl]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Athletik|Mirakel: Athletik]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Diplomatie|Mirakel: Diplomatie]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: MU|Mirakel: MU]]"
-  - "[[Inhalt/Talente/Liturgien/Schild der Ehre|Schild der Ehre]]"
-  - "[[Inhalt/Talente/Liturgien/Segen der Heiligen Ardare|Segen der Heiligen Ardare]]"
+  - "[[Ehrenhafter Zweikampf]]"
+  - "[[Für die Göttin, für Rondra (passiv)|Für die Göttin, für Rondra! (passiv)]]"
+  - "[[Großer Eidsegen]]"
+  - "[[Heiliger Befehl]]"
+  - "[[Mirakel Athletik|Mirakel: Athletik]]"
+  - "[[Mirakel Diplomatie|Mirakel: Diplomatie]]"
+  - "[[Mirakel MU|Mirakel: MU]]"
+  - "[[Schild der Ehre]]"
+  - "[[Segen der Heiligen Ardare]]"
 Voraussetzungen: Vorteil Tradition der Rondrageweihten I
 ---
 Ehre ist der traditionellste und bekannteste Aspekt der Rondra. Neben den Geboten der Ritterlichkeit umfasst sie auch sehr spezielle Regeln, wann und wie gekämpft werden darf.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/KL|KL]], [[Inhalt/Attribute/KK|KK]], [[Inhalt/Attribute/MU|MU]]
+- **Attribute:** [[Klugheit|KL]], [[Körperkraft|KK]], [[Mut|MU]]
 - **Steigerungsfaktor:** 2
-- **Talente:** [[Inhalt/Talente/Liturgien/Ehrenhafter Zweikampf|Ehrenhafter Zweikampf]], [[Inhalt/Talente/Liturgien/Für die Göttin, für Rondra! (passiv)|Für die Göttin, für Rondra! (passiv)]], [[Inhalt/Talente/Liturgien/Großer Eidsegen|Großer Eidsegen]], [[Inhalt/Talente/Liturgien/Heiliger Befehl|Heiliger Befehl]], [[Inhalt/Talente/Liturgien/Mirakel: Athletik|Mirakel: Athletik]], [[Inhalt/Talente/Liturgien/Mirakel: Diplomatie|Mirakel: Diplomatie]], [[Inhalt/Talente/Liturgien/Mirakel: MU|Mirakel: MU]], [[Inhalt/Talente/Liturgien/Schild der Ehre|Schild der Ehre]], [[Inhalt/Talente/Liturgien/Segen der Heiligen Ardare|Segen der Heiligen Ardare]]
-- **Voraussetzungen:** Vorteil Tradition der Rondrageweihten I
+- **Talente:**
+  - [[Ehrenhafter Zweikampf]]
+  - [[Für die Göttin, für Rondra (passiv)|Für die Göttin, für Rondra! (passiv)]]
+  - [[Großer Eidsegen]]
+  - [[Heiliger Befehl]]
+  - [[Mirakel Athletik|Mirakel: Athletik]]
+  - [[Mirakel Diplomatie|Mirakel: Diplomatie]]
+  - [[Mirakel MU|Mirakel: MU]]
+  - [[Schild der Ehre]]
+  - [[Segen der Heiligen Ardare]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Rondrageweihten I]]

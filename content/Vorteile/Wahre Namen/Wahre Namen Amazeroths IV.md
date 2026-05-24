@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: edef65b3-ac33-464d-b20b-743424cad768
+ID: cbe7aa7d-8039-457c-8a4a-a5b0fef5c1cc
 Name: Wahre Namen Amazeroths IV
 title: Wahre Namen Amazeroths IV
 Kategorie: Wahre Namen
@@ -17,6 +17,6 @@ Kosten: 20
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
-  - "MeisterAttribut KL 10"
-  - "Vorteil Wahre Namen Amazeroths III"
+  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - MeisterAttribut [[Klugheit|KL]] 10
+  - Vorteil [[Wahre Namen Amazeroths III]]

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: 0d700929-5d0b-474c-b96d-94557ec347df
+ID: 67ea7389-d6d5-4fd7-a3f2-a97057da1548
 Name: Parierwaffenkampf I
 title: Parierwaffenkampf I
 Kategorie: Kampfstil
 Voraussetzungen: Attribut GE 4 ODER Attribut IN 4
 Querverweise:
-  - "[[Inhalt/Kapitel/Reaktion|Reaktion]]"
+  - "[[Reaktion]]"
 Nachkauf: häufig
 Kosten: 20
 ---
@@ -15,5 +15,6 @@ Binden: Wenn du einen Nahkampfangriff abwehrst, kannst du als Reaktion dem näch
 ---
 
 - **Kosten:** 20 EP
-- **Voraussetzungen:** Attribut GE 4 ODER Attribut IN 4
-- **Siehe auch:** [[Inhalt/Kapitel/Reaktion|Reaktion]]
+- **Voraussetzungen:**
+  - Attribut GE 4 ODER Attribut IN 4
+- **Siehe auch:** [[Reaktion]]

@@ -1,24 +1,28 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 7d81a1fb-a9c6-4d6b-9204-0fe26ab52da3
+ID: 7d68ac37-7574-4c8f-b42a-417763f4d6d9
 Name: Athletik
 title: Athletik
 Kategorie: Körper
 Attribute:
-  - "[[Inhalt/Attribute/GE|GE]]"
-  - "[[Inhalt/Attribute/KK|KK]]"
-  - "[[Inhalt/Attribute/KO|KO]]"
+  - "[[Gewandheit|GE]]"
+  - "[[Körperkraft|KK]]"
+  - "[[Konstitution|KO]]"
 Steigerungsfaktor: 4
 Talente:
-  - "[[Inhalt/Talente/Profan/Athletik/Klettern|Klettern]]"
-  - "[[Inhalt/Talente/Profan/Athletik/Körperbeherrschung|Körperbeherrschung]]"
-  - "[[Inhalt/Talente/Profan/Athletik/Laufen|Laufen]]"
-  - "[[Inhalt/Talente/Profan/Athletik/Schwimmen|Schwimmen]]"
+  - "[[Klettern]]"
+  - "[[Körperbeherrschung]]"
+  - "[[Laufen]]"
+  - "[[Schwimmen]]"
 ---
 Athletik umfasst alle Aktivitäten, bei denen der Charakter seinen gesamten Körper kurz- oder längerfristig koordiniert einsetzen muss.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/GE|GE]], [[Inhalt/Attribute/KK|KK]], [[Inhalt/Attribute/KO|KO]]
+- **Attribute:** [[Gewandheit|GE]], [[Körperkraft|KK]], [[Konstitution|KO]]
 - **Steigerungsfaktor:** 4
-- **Talente:** [[Inhalt/Talente/Profan/Athletik/Klettern|Klettern]], [[Inhalt/Talente/Profan/Athletik/Körperbeherrschung|Körperbeherrschung]], [[Inhalt/Talente/Profan/Athletik/Laufen|Laufen]], [[Inhalt/Talente/Profan/Athletik/Schwimmen|Schwimmen]]
+- **Talente:**
+  - [[Klettern]]
+  - [[Körperbeherrschung]]
+  - [[Laufen]]
+  - [[Schwimmen]]

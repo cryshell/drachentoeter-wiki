@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: 9bb24a0a-5abc-4e04-933b-a1632d4fdfc7
+ID: b919764a-c061-4f28-8bf4-e4a03855374f
 Name: Kontorsionist
 title: Kontorsionist
 Kategorie: Profan
 Querverweise:
-  - "[[Inhalt/Kapitel/Halten|Halten]]"
-  - "[[Inhalt/Talente/Profan/Verschlagenheit/Taschenspielerei|Taschenspielerei]]"
+  - "[[Halten]]"
+  - "[[Taschenspielerei]]"
 Nachkauf: selten
 Kosten: 40
 ---
@@ -17,4 +17,4 @@ Du kannst dich in fast unmöglichem Maße verdrehen und biegen.
 ---
 
 - **Kosten:** 40 EP
-- **Siehe auch:** [[Inhalt/Kapitel/Halten|Halten]], [[Inhalt/Talente/Profan/Verschlagenheit/Taschenspielerei|Taschenspielerei]]
+- **Siehe auch:** [[Halten]], [[Taschenspielerei]]

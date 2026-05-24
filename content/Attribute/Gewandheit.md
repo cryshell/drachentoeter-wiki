@@ -1,8 +1,9 @@
 ---
 Entitätstyp: Attribut
-ID: 6ed42336-7cf4-4e35-b02a-cedb97975169
+ID: 86be50f3-8821-4416-bd5e-e4405c916c4c
 Name: Gewandheit
 title: Gewandheit
+aliases: "[GE]"
 Abkürzung: GE
 Steigerungsfaktor: 16
 ---

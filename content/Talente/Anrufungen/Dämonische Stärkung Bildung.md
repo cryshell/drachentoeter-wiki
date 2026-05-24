@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 99899be7-e3ee-4d04-a719-ffbce1415c7c
+ID: b7b833e8-fd9d-4654-aa39-214c1c5c132a
 Name: "Dämonische Stärkung: Bildung"
 title: "Dämonische Stärkung: Bildung"
 Kategorie: Anrufungen

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 5b568f84-1c98-47f9-82eb-42e20a0dfaca
+ID: 2f81d948-0e70-422c-b125-3262273792ff
 Name: Simulacrum II
 title: Simulacrum II
 Kategorie: Kreis der Verdammnis
@@ -16,5 +16,5 @@ Der Vorteil Regeneration steigt um 1 Stufe.
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut MU 8"
-  - "Vorteil Simulacrum I"
+  - Attribut [[Mut|MU]] 8
+  - Vorteil [[Simulacrum I]]

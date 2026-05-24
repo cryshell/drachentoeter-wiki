@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6bd00195-cb4c-42c0-877d-aeebdf09491f
+ID: 0a97c2ce-1221-4593-a0da-671e9d330f3f
 Name: Wahre Namen Belzorashs IV
 title: Wahre Namen Belzorashs IV
 Kategorie: Wahre Namen
@@ -17,6 +17,6 @@ Kosten: 20
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
-  - "MeisterAttribut KL 10"
-  - "Vorteil Wahre Namen Belzorashs III"
+  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - MeisterAttribut [[Klugheit|KL]] 10
+  - Vorteil [[Wahre Namen Belzorashs III]]

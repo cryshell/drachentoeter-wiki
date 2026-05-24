@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: dcee7eb7-4232-410c-b857-7778aacd297e
+ID: 8c302011-5bd2-4bb0-8d89-5dd76b72949e
 Name: Soziale Anpassungsfähigkeit
 title: Soziale Anpassungsfähigkeit
 Kategorie: Profan
 Voraussetzungen: Attribut CH 8
 Querverweise:
-  - "[[Inhalt/Kapitel/Rededuell|Rededuell]]"
+  - "[[Rededuell]]"
 Nachkauf: häufig
 Kosten: 60
 ---
@@ -15,5 +15,6 @@ In einer sozialen Interaktion zählen Standesunterschiede und eine fehlende Kult
 ---
 
 - **Kosten:** 60 EP
-- **Voraussetzungen:** Attribut CH 8
-- **Siehe auch:** [[Inhalt/Kapitel/Rededuell|Rededuell]]
+- **Voraussetzungen:**
+  - Attribut [[Charisma|CH]] 8
+- **Siehe auch:** [[Rededuell]]

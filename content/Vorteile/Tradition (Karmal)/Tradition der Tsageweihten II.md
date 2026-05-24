@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: ca9d552c-06ec-4029-83ca-214c16ed81ea
+ID: 2e0f28c4-b534-4525-83aa-3d01806f1968
 Name: Tradition der Tsageweihten II
 title: Tradition der Tsageweihten II
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ Tsageweihte können auch mit mehrfach veränderten Liturgien gut umgehen. Wenn d
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut IN 6"
-  - "Vorteil Tradition der Tsageweihten I"
+  - Attribut [[Intuition|IN]] 6
+  - Vorteil [[Tradition der Tsageweihten I]]

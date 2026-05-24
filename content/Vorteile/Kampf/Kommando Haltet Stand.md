@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: a62b2447-cec8-46e5-b888-3364affd789c
+ID: d85ffe1e-5fe5-44af-86da-3005cd475db0
 Name: "Kommando: Haltet Stand!"
 title: "Kommando: Haltet Stand!"
 Kategorie: Kampf
 Voraussetzungen: Attribut CH 4
 Querverweise:
-  - "[[Inhalt/Kapitel/Aktion Einschüchtern|Aktion Einschüchtern]]"
+  - "[[Aktion Einschüchtern]]"
 Nachkauf: häufig
 Kosten: 20
 ---
@@ -15,5 +15,6 @@ Du kannst als Bonusaktion allen *verängstigten* oder *panischen* Mitstreitern i
 ---
 
 - **Kosten:** 20 EP
-- **Voraussetzungen:** Attribut CH 4
-- **Siehe auch:** [[Inhalt/Kapitel/Aktion Einschüchtern|Aktion Einschüchtern]]
+- **Voraussetzungen:**
+  - Attribut [[Charisma|CH]] 4
+- **Siehe auch:** [[Aktion Einschüchtern]]

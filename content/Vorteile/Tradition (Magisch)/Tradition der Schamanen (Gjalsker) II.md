@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2389f453-3eea-43c7-8808-0c6fcb548ea4
+ID: 96542d2b-ec44-411b-8c8c-b8c293fc7393
 Name: Tradition der Schamanen (Gjalsker) II
 title: Tradition der Schamanen (Gjalsker) II
 Kategorie: Tradition (Magisch)
@@ -16,5 +16,5 @@ Schamanen binden oft einen beträchtlichen Teil ihrer Astralenergie in ihre Zaub
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut IN 6"
-  - "Vorteil Tradition der Schamanen (Gjalsker) I"
+  - Attribut [[Intuition|IN]] 6
+  - Vorteil [[Tradition der Schamanen (Gjalsker) I]]

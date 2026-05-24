@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 9d8e271f-3d12-4703-bef4-4c6eca4caf2c
+ID: 0e3964e9-147a-4f3a-9378-5992eefb4b50
 Name: Tradition der Graveshgeweihten IV
 title: Tradition der Graveshgeweihten IV
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut FF 10"
-  - "Vorteil Tradition der Graveshgeweihten III"
+  - MeisterAttribut [[Fingerfertigkeit|FF]] 10
+  - Vorteil [[Tradition der Graveshgeweihten III]]

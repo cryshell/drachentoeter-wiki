@@ -1,14 +1,14 @@
 ---
 Entitätstyp: Vorteil
-ID: cc4491f5-5a7b-451d-bb1c-ddb94acf8492
+ID: 2d536d2d-6f54-445e-8a84-81e0ae3b0791
 Name: Diplomat
 title: Diplomat
 Kategorie: Profan
 Voraussetzungen: Attribut CH 4
 Querverweise:
-  - "[[Inhalt/Kapitel/Rededuell|Rededuell]]"
-  - "[[Inhalt/Kapitel/Soziale Interaktion|Soziale Interaktion]]"
-  - "[[Inhalt/Kapitel/Zusammenarbeit|Zusammenarbeit]]"
+  - "[[Rededuell]]"
+  - "[[Soziale Interaktion]]"
+  - "[[Zusammenarbeit]]"
 Nachkauf: häufig
 Kosten: 20
 ---
@@ -17,5 +17,6 @@ Wenn dein Gegenüber in einem Rededuell nicht mehr gesprächsbereit ist, darfst 
 ---
 
 - **Kosten:** 20 EP
-- **Voraussetzungen:** Attribut CH 4
-- **Siehe auch:** [[Inhalt/Kapitel/Rededuell|Rededuell]], [[Inhalt/Kapitel/Soziale Interaktion|Soziale Interaktion]], [[Inhalt/Kapitel/Zusammenarbeit|Zusammenarbeit]]
+- **Voraussetzungen:**
+  - Attribut [[Charisma|CH]] 4
+- **Siehe auch:** [[Rededuell]], [[Soziale Interaktion]], [[Zusammenarbeit]]

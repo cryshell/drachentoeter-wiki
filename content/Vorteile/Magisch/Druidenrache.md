@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6586b5db-c35f-458b-93bb-c89fcd77c88d
+ID: f330d090-745c-4d59-9b32-97ee2219cc61
 Name: Druidenrache
 title: Druidenrache
 Kategorie: Magisch
@@ -13,4 +13,5 @@ Setzt du diesen Vorteil ein, erhältst du augenblicklich (8xKO + 2xCH + 2xMU) As
 ---
 
 - **Kosten:** 40 EP
-- **Voraussetzungen:** Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I]]

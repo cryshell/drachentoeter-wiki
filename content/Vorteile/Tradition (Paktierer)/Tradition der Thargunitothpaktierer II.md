@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0438bcef-ca22-4a6c-8fb0-ea928ce938a4
+ID: e429ce43-9594-48a0-ad15-0772c2155406
 Name: Tradition der Thargunitothpaktierer II
 title: Tradition der Thargunitothpaktierer II
 Kategorie: Tradition (Paktierer)
@@ -16,5 +16,5 @@ Paktierer werden durch erlittene Wunden eher noch gefährlicher. Der Wundabzug s
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut MU 6"
-  - "Vorteil Tradition der Thargunitothpaktierer I"
+  - Attribut [[Mut|MU]] 6
+  - Vorteil [[Tradition der Thargunitothpaktierer I]]

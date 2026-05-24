@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 11397026-0a56-4eec-a5b8-535336132538
+ID: 53f57072-4aa3-4efa-814a-560d71144012
 Name: Tradition der Asfalothpaktierer II
 title: Tradition der Asfalothpaktierer II
 Kategorie: Tradition (Paktierer)
@@ -16,5 +16,5 @@ Paktierer werden durch erlittene Wunden eher noch gefährlicher. Der Wundabzug s
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut MU 6"
-  - "Vorteil Tradition der Asfalothpaktierer I"
+  - Attribut [[Mut|MU]] 6
+  - Vorteil [[Tradition der Asfalothpaktierer I]]

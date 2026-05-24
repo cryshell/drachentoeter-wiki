@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c151b924-4821-489c-9bee-ef4590dcb7a7
+ID: 398c0c28-2c15-4909-8637-c179cc8b4e73
 Name: Halbschwertkampf III
 title: Halbschwertkampf III
 Kategorie: Kampfstil
@@ -8,9 +8,9 @@ Voraussetzungen:
   - Vorteil Halbschwertkampf II
   - Attribut GE 8 ODER Attribut KK 8 ODER Attribut MU 8
 Querverweise:
-  - "[[Inhalt/Kapitel/Aktion Angriff|Aktion Angriff]]"
-  - "[[Inhalt/Kapitel/Niederwerfen|Niederwerfen]]"
-  - "[[Inhalt/Kapitel/Umreißen|Umreißen]]"
+  - "[[Aktion Angriff]]"
+  - "[[Niederwerfen]]"
+  - "[[Umreißen]]"
 Nachkauf: häufig
 Kosten: 60
 ---
@@ -20,6 +20,6 @@ Niederringen: Wenn du in einer Aktion Angriff ein Niederwerfen- oder Umreißen-M
 
 - **Kosten:** 60 EP
 - **Voraussetzungen:**
-  - "Vorteil Halbschwertkampf II"
-  - "Attribut GE 8 ODER Attribut KK 8 ODER Attribut MU 8"
-- **Siehe auch:** [[Inhalt/Kapitel/Aktion Angriff|Aktion Angriff]], [[Inhalt/Kapitel/Niederwerfen|Niederwerfen]], [[Inhalt/Kapitel/Umreißen|Umreißen]]
+  - Vorteil [[Halbschwertkampf II]]
+  - Attribut GE 8 ODER Attribut KK 8 ODER Attribut MU 8
+- **Siehe auch:** [[Aktion Angriff]], [[Niederwerfen]], [[Umreißen]]

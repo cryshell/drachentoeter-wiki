@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 75bee59a-67bd-45d8-894d-5715164fd4c6
+ID: 6fbd4325-1b0e-4a16-8198-f8a25541a0e8
 Name: Aura der Heiligkeit
 title: Aura der Heiligkeit
 Kategorie: Karmal
@@ -16,5 +16,5 @@ Wenn gläubige Mitstreiter in einem Radius von 16 Schritt Proben auf Attribute o
 
 - **Kosten:** 60 EP
 - **Voraussetzungen:**
-  - "Attribut CH 8"
-  - "Vorteil Geweiht I"
+  - Attribut [[Charisma|CH]] 8
+  - Vorteil [[Geweiht I]]

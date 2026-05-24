@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 5cf3fd3d-0af9-48ab-a0e4-f7a24b8a9d14
+ID: e670c318-7f67-4213-a277-72d4ed8b7bbc
 Name: "Dämonische Stärkung: Jagd"
 title: "Dämonische Stärkung: Jagd"
 Kategorie: Anrufungen

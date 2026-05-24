@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2f30af62-b007-4349-b474-42e4094485f6
+ID: ea941693-0639-48ed-8f2f-41c31073eeff
 Name: Schmerzimmun
 title: Schmerzimmun
 Kategorie: Nachteil
@@ -13,4 +13,5 @@ Du bist immun gegen die Zustände *Blutend* und *Bewusstlos*.
 ---
 
 - **Kosten:** 0 EP
-- **Voraussetzungen:** Vorteil Vampir I
+- **Voraussetzungen:**
+  - Vorteil [[Vampir I]]

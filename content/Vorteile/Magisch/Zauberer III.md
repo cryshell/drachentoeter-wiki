@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 966467fe-b731-4b35-bcc8-014809a419f2
+ID: 63d556c0-2da4-4f4f-8598-87ab76637c6c
 Name: Zauberer III
 title: Zauberer III
 Kategorie: Magisch
@@ -13,4 +13,5 @@ Du verfügst über 24 Astralpunkte und kannst magische Traditionen erlernen. Dei
 ---
 
 - **Kosten:** 40 EP
-- **Voraussetzungen:** Vorteil Zauberer II
+- **Voraussetzungen:**
+  - Vorteil [[Zauberer II]]

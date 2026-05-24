@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e14d8da7-4f4a-4336-8948-e403a2094dd7
+ID: 2725ca55-2ea4-4a07-96c2-a0c578ab13ac
 Name: Tradition der Belkelelpaktierer IV
 title: Tradition der Belkelelpaktierer IV
 Kategorie: Tradition (Paktierer)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut MU 10"
-  - "Vorteil Tradition der Belkelelpaktierer III"
+  - MeisterAttribut [[Mut|MU]] 10
+  - Vorteil [[Tradition der Belkelelpaktierer III]]

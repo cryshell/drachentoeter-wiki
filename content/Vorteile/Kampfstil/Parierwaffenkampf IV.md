@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 3694d9a5-2bef-4ccc-89ff-cefbb7c0533a
+ID: 568654f5-e432-478d-8f77-9be07cd00e27
 Name: Parierwaffenkampf IV
 title: Parierwaffenkampf IV
 Kategorie: Kampfstil
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut GE 10 ODER MeisterAttribut IN 10"
-  - "Vorteil Parierwaffenkampf III"
+  - MeisterAttribut GE 10 ODER MeisterAttribut IN 10
+  - Vorteil [[Parierwaffenkampf III]]

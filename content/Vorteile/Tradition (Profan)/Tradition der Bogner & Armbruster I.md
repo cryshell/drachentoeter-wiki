@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 3c4b9a1d-cddb-463d-891d-3c602158afb2
+ID: 2f134833-b969-49ad-a154-4b0957733dfe
 Name: "Tradition der Bogner & Armbruster I"
 title: "Tradition der Bogner & Armbruster I"
 Kategorie: Tradition (Profan)
@@ -13,4 +13,5 @@ Du beherrschst Rezepte der Tradition der Bogner und Armbruster (Bog).
 ---
 
 - **Kosten:** 20 EP
-- **Voraussetzungen:** Attribut FF 4
+- **Voraussetzungen:**
+  - Attribut [[Fingerfertigkeit|FF]] 4

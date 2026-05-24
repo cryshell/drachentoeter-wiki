@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: f4a74423-381c-45cb-9588-5f4b4d185313
+ID: 9d835f4a-5106-4f53-841b-6f8dda3ff1ac
 Name: Kreis der Verdammnis IV
 title: Kreis der Verdammnis IV
 Kategorie: Kreis der Verdammnis
 Voraussetzungen: Vorteil Kreis der Verdammnis III
 Querverweise:
-  - "[[Inhalt/Talente/Liturgien/Seelenprüfung|Seelenprüfung]]"
+  - "[[Seelenprüfung]]"
 Nachkauf: üblich
 Kosten: "-200"
 ---
@@ -21,5 +21,6 @@ Der Vorteil hat folgende Auswirkungen:
 ---
 
 - **Kosten:** -200 EP
-- **Voraussetzungen:** Vorteil Kreis der Verdammnis III
-- **Siehe auch:** [[Inhalt/Talente/Liturgien/Seelenprüfung|Seelenprüfung]]
+- **Voraussetzungen:**
+  - Vorteil [[Kreis der Verdammnis III]]
+- **Siehe auch:** [[Seelenprüfung]]

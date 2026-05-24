@@ -1,31 +1,41 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: ccb4739d-2ef3-4489-b35b-9d0ef22a72f1
+ID: 1db0b507-c86f-41a0-a450-dc1bfb30b726
 Name: Flüsse und Quellen
 title: Flüsse und Quellen
 Kategorie: Karmale Riten
 Attribute:
-  - "[[Inhalt/Attribute/IN|IN]]"
-  - "[[Inhalt/Attribute/KL|KL]]"
-  - "[[Inhalt/Attribute/KO|KO]]"
+  - "[[Intuition|IN]]"
+  - "[[Klugheit|KL]]"
+  - "[[Konstitution|KO]]"
 Steigerungsfaktor: 2
 Talente:
-  - "[[Inhalt/Talente/Liturgien/Erwachen des Stromes|Erwachen des Stromes]]"
-  - "[[Inhalt/Talente/Liturgien/Flüstern der Fluten|Flüstern der Fluten]]"
-  - "[[Inhalt/Talente/Liturgien/Gebet des kristallklaren Blicks|Gebet des kristallklaren Blicks]]"
-  - "[[Inhalt/Talente/Liturgien/Gesegneter Fang|Gesegneter Fang]]"
-  - "[[Inhalt/Talente/Liturgien/Hashnabiths Flehen|Hashnabiths Flehen]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: IN|Mirakel: IN]]"
-  - "[[Inhalt/Talente/Liturgien/Segen des Flussvaters|Segen des Flussvaters]]"
-  - "[[Inhalt/Talente/Liturgien/Segensreiches Wasser|Segensreiches Wasser]]"
-  - "[[Inhalt/Talente/Liturgien/Tränen des Milden|Tränen des Milden]]"
+  - "[[Erwachen des Stromes]]"
+  - "[[Flüstern der Fluten]]"
+  - "[[Gebet des kristallklaren Blicks]]"
+  - "[[Gesegneter Fang]]"
+  - "[[Hashnabiths Flehen]]"
+  - "[[Mirakel IN|Mirakel: IN]]"
+  - "[[Segen des Flussvaters]]"
+  - "[[Segensreiches Wasser]]"
+  - "[[Tränen des Milden]]"
 Voraussetzungen: Vorteil Tradition der Efferdgeweihten I
 ---
 Der Legende nach sind die Flüsse die süßen Tränen Efferds, dementsprechend sind auch viele Geweihte des Efferd im Binnenland tätig.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/IN|IN]], [[Inhalt/Attribute/KL|KL]], [[Inhalt/Attribute/KO|KO]]
+- **Attribute:** [[Intuition|IN]], [[Klugheit|KL]], [[Konstitution|KO]]
 - **Steigerungsfaktor:** 2
-- **Talente:** [[Inhalt/Talente/Liturgien/Erwachen des Stromes|Erwachen des Stromes]], [[Inhalt/Talente/Liturgien/Flüstern der Fluten|Flüstern der Fluten]], [[Inhalt/Talente/Liturgien/Gebet des kristallklaren Blicks|Gebet des kristallklaren Blicks]], [[Inhalt/Talente/Liturgien/Gesegneter Fang|Gesegneter Fang]], [[Inhalt/Talente/Liturgien/Hashnabiths Flehen|Hashnabiths Flehen]], [[Inhalt/Talente/Liturgien/Mirakel: IN|Mirakel: IN]], [[Inhalt/Talente/Liturgien/Segen des Flussvaters|Segen des Flussvaters]], [[Inhalt/Talente/Liturgien/Segensreiches Wasser|Segensreiches Wasser]], [[Inhalt/Talente/Liturgien/Tränen des Milden|Tränen des Milden]]
-- **Voraussetzungen:** Vorteil Tradition der Efferdgeweihten I
+- **Talente:**
+  - [[Erwachen des Stromes]]
+  - [[Flüstern der Fluten]]
+  - [[Gebet des kristallklaren Blicks]]
+  - [[Gesegneter Fang]]
+  - [[Hashnabiths Flehen]]
+  - [[Mirakel IN|Mirakel: IN]]
+  - [[Segen des Flussvaters]]
+  - [[Segensreiches Wasser]]
+  - [[Tränen des Milden]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Efferdgeweihten I]]

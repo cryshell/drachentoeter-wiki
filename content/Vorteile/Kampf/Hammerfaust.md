@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: 686f03af-99ea-4783-ad38-5fa597feae48
+ID: dfef7f1a-d602-4197-8f65-cff17319ae01
 Name: Hammerfaust
 title: Hammerfaust
 Kategorie: Kampf
 Voraussetzungen: Attribut KK 4
 Querverweise:
-  - "[[Inhalt/Waffeneigenschaft/Kopflastig|Kopflastig]]"
+  - "[[Kopflastig]]"
 Nachkauf: häufig
 Kosten: 20
 ---
@@ -15,5 +15,6 @@ Waffen des Talents Unbewaffnet erhalten die Waffeneigenschaft Kopflastig.
 ---
 
 - **Kosten:** 20 EP
-- **Voraussetzungen:** Attribut KK 4
-- **Siehe auch:** [[Inhalt/Waffeneigenschaft/Kopflastig|Kopflastig]]
+- **Voraussetzungen:**
+  - Attribut [[Körperkraft|KK]] 4
+- **Siehe auch:** [[Kopflastig]]

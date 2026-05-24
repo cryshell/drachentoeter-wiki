@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: ba39234b-e56e-4499-a8bf-816d688eed6b
+ID: d7c47198-cc18-4ba5-b14b-b6a340720bc4
 Name: Geisterpanzer
 title: Geisterpanzer
 Kategorie: Kampf
 Voraussetzungen: Attribut MU 8
 Querverweise:
-  - "[[Inhalt/Abgeleiteter Wert/WS|WS]]"
+  - "[[WS]]"
 Nachkauf: häufig
 Kosten: 60
 ---
@@ -15,5 +15,6 @@ Gegen direkten (Erschöpfungs-)Schaden aus Zaubern wie Fulminictus, Ignisphaero 
 ---
 
 - **Kosten:** 60 EP
-- **Voraussetzungen:** Attribut MU 8
-- **Siehe auch:** [[Inhalt/Abgeleiteter Wert/WS|WS]]
+- **Voraussetzungen:**
+  - Attribut [[Mut|MU]] 8
+- **Siehe auch:** [[WS]]

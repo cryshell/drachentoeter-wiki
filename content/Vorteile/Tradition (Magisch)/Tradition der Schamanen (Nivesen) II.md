@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 738c5de4-e0da-40d4-882c-1b8ae7960579
+ID: 97d5d282-9c77-4898-9eaf-985716a5bba2
 Name: Tradition der Schamanen (Nivesen) II
 title: Tradition der Schamanen (Nivesen) II
 Kategorie: Tradition (Magisch)
@@ -16,5 +16,5 @@ Schamanen binden oft einen beträchtlichen Teil ihrer Astralenergie in ihre Zaub
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut IN 6"
-  - "Vorteil Tradition der Schamanen (Nivesen) I"
+  - Attribut [[Intuition|IN]] 6
+  - Vorteil [[Tradition der Schamanen (Nivesen) I]]

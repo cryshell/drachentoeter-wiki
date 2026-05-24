@@ -1,13 +1,13 @@
 ---
 Entitätstyp: Vorteil
-ID: f13c996d-e000-4c7c-9170-490abc0e323a
+ID: 46187e34-8306-4284-bf99-82f4cfae3dbf
 Name: Defensiver Kampfstil
 title: Defensiver Kampfstil
 Kategorie: Kampf
 Voraussetzungen: Attribut IN 6
 Querverweise:
-  - "[[Inhalt/Kapitel/Aktion Volle Defensive|Aktion Volle Defensive]]"
-  - "[[Inhalt/Kapitel/Bonusaktion|Bonusaktion]]"
+  - "[[Aktion Volle Defensive]]"
+  - "[[Bonusaktion]]"
 Nachkauf: häufig
 Kosten: 40
 ---
@@ -16,5 +16,6 @@ Wenn du die Aktion Volle Defensive wählst, kannst du als Bonusaktion einen Nahk
 ---
 
 - **Kosten:** 40 EP
-- **Voraussetzungen:** Attribut IN 6
-- **Siehe auch:** [[Inhalt/Kapitel/Aktion Volle Defensive|Aktion Volle Defensive]], [[Inhalt/Kapitel/Bonusaktion|Bonusaktion]]
+- **Voraussetzungen:**
+  - Attribut [[Intuition|IN]] 6
+- **Siehe auch:** [[Aktion Volle Defensive]], [[Bonusaktion]]

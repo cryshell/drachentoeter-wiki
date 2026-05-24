@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4fdaf0a4-3ecf-45a3-a3fd-17f29a567e6e
+ID: 1ef4ea8c-30d7-4362-9c40-bb53a146d1c3
 Name: Wahre Namen des Feuers I
 title: Wahre Namen des Feuers I
 Kategorie: Wahre Namen
@@ -16,5 +16,5 @@ Du kannst alle Elementare des Feuers bis zu einer Beschwörungsschwierigkeit von
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
-  - "Attribut KL 4"
+  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Attribut [[Klugheit|KL]] 4

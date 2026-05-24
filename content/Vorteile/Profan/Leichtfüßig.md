@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: fda33978-afd9-4143-8064-3cca50fdde4e
+ID: 30af1e99-148a-479b-b126-749148154d9b
 Name: Leichtfüßig
 title: Leichtfüßig
 Kategorie: Profan
 Voraussetzungen: Attribut GE 6
 Querverweise:
-  - "[[Inhalt/Kapitel/Willenskraftpunkte|Willenskraftpunkte]]"
+  - "[[Willenskraftpunkte]]"
 Nachkauf: häufig
 Kosten: 40
 ---
@@ -15,5 +15,6 @@ Du darfst fehlgeschlagene Proben auf Körperfertigkeiten (außer Wahrnehmung) f�
 ---
 
 - **Kosten:** 40 EP
-- **Voraussetzungen:** Attribut GE 6
-- **Siehe auch:** [[Inhalt/Kapitel/Willenskraftpunkte|Willenskraftpunkte]]
+- **Voraussetzungen:**
+  - Attribut [[Gewandheit|GE]] 6
+- **Siehe auch:** [[Willenskraftpunkte]]

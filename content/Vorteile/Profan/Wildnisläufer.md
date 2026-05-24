@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: ae7dece2-f79f-4992-a59c-c6856d2f9777
+ID: af93aeef-3857-47d1-8ca8-e82dffd89033
 Name: Wildnisläufer
 title: Wildnisläufer
 Kategorie: Profan
@@ -14,4 +14,5 @@ Kosten: 20
 ---
 
 - **Kosten:** 20 EP
-- **Voraussetzungen:** Attribut IN 4
+- **Voraussetzungen:**
+  - Attribut [[Intuition|IN]] 4

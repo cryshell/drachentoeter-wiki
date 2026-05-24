@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0e36fe21-ea1d-47cc-b506-ae3b31257f69
+ID: 9668b346-f161-4be7-a3ea-340fb45390a9
 Name: Tierbändiger
 title: Tierbändiger
 Kategorie: Profan
@@ -13,4 +13,5 @@ Proben zum Abrichten deiner Tierbegleiter haben Vorteil.
 ---
 
 - **Kosten:** 20 EP
-- **Voraussetzungen:** Attribut CH 4
+- **Voraussetzungen:**
+  - Attribut [[Charisma|CH]] 4

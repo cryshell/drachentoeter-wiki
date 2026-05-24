@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: f4d5659b-8b6e-4d9b-9321-dcc6b66eba12
+ID: 204dc8b3-cf60-4991-91bf-360af80d4615
 Name: "Beute!"
 title: "Beute!"
 Kategorie: Zauber

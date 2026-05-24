@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 5bf1ebf2-f721-4f20-b353-e725680d2c2e
+ID: 21cec1c0-5c14-45be-9c2c-0c3c694cff72
 Name: Tradition der Shakagra II
 title: Tradition der Shakagra II
 Kategorie: Tradition (Magisch)
@@ -16,5 +16,5 @@ Shakagra haben ihren Ursprung als Daimonide. Proben auf die Fertigkeit Dämonisc
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut MU 6"
-  - "Vorteil Tradition der Shakagra I"
+  - Attribut [[Mut|MU]] 6
+  - Vorteil [[Tradition der Shakagra I]]

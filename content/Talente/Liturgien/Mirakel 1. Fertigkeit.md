@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: fabffa38-7e1c-4a38-ac59-c7d84c94a60a
+ID: 0c10c33a-fef5-409b-8a0c-def2d64c732c
 Name: "Mirakel: 1. Fertigkeit"
 title: "Mirakel: 1. Fertigkeit"
 Kategorie: Liturgien

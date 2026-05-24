@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 090930f2-ec05-4bf8-8953-7ba669ddb1a1
+ID: 5880c7a7-807e-4993-ada9-4aa16991139e
 Name: "Mirakel: Bildung"
 title: "Mirakel: Bildung"
 Kategorie: Liturgien

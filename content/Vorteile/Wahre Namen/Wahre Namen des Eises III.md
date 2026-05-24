@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 762c6788-6790-4291-a06f-fdf78874a250
+ID: 513a40c5-d33d-41a8-9a04-feb6c64fbee1
 Name: Wahre Namen des Eises III
 title: Wahre Namen des Eises III
 Kategorie: Wahre Namen
@@ -17,6 +17,6 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
-  - "Attribut KL 8"
-  - "Vorteil Wahre Namen des Eises II"
+  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Attribut [[Klugheit|KL]] 8
+  - Vorteil [[Wahre Namen des Eises II]]

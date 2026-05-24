@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 3480034b-c6bf-4526-a112-5e0ab068ed7c
+ID: 6def3dbf-45fd-45a9-845e-178570a1678e
 Name: Wahre Namen Thargunitoths I
 title: Wahre Namen Thargunitoths I
 Kategorie: Wahre Namen
@@ -16,5 +16,5 @@ Du kannst alle Dämonen Thargunitoths bis zu einer Beschwörungsschwierigkeit vo
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
-  - "Attribut KL 4"
+  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Attribut [[Klugheit|KL]] 4

@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: ee8520ba-1b28-4014-a657-cd5af2e4e899
+ID: eb688fbd-2470-42d7-81f5-8df24c78f591
 Name: Kalte Wut
 title: Kalte Wut
 Kategorie: Kampf
 Voraussetzungen: Attribut MU 10
 Querverweise:
-  - "[[Inhalt/Kapitel/Bonusaktion|Bonusaktion]]"
+  - "[[Bonusaktion]]"
 Nachkauf: häufig
 Kosten: 80
 ---
@@ -15,5 +15,6 @@ Du kannst dich mit einer Bonusaktion in kalte Wut versetzen und für den laufend
 ---
 
 - **Kosten:** 80 EP
-- **Voraussetzungen:** Attribut MU 10
-- **Siehe auch:** [[Inhalt/Kapitel/Bonusaktion|Bonusaktion]]
+- **Voraussetzungen:**
+  - Attribut [[Mut|MU]] 10
+- **Siehe auch:** [[Bonusaktion]]

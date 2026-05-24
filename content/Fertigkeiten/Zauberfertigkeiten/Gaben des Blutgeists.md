@@ -1,73 +1,125 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: d0ed3e87-6715-438b-b07f-882fdd53ffea
+ID: 944655dd-2aa5-4168-8d7b-466ea845f1f0
 Name: Gaben des Blutgeists
 title: Gaben des Blutgeists
 Kategorie: Zauberfertigkeiten
 Attribute:
-  - "[[Inhalt/Attribute/KO|KO]]"
-  - "[[Inhalt/Attribute/MU|MU]]"
-  - "[[Inhalt/Attribute/MU|MU]]"
+  - "[[Konstitution|KO]]"
+  - "[[Mut|MU]]"
+  - "[[Mut|MU]]"
 Steigerungsfaktor: 2
 Talente:
-  - "[[Inhalt/Talente/Zauber/Abvenenum reine Speise (Tiergeist)|Abvenenum reine Speise (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Adlerauge Luchsenohr (Tiergeist)|Adlerauge Luchsenohr (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Aeropulvis sanfter Fall (Tiergeist)|Aeropulvis sanfter Fall (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Armatrutz (Tiergeist)|Armatrutz (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Atemnot (Tiergeist)|Atemnot (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Attributo (Tiergeist)|Attributo (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Axxeleratus Blitzgeschwind (Tiergeist)|Axxeleratus Blitzgeschwind (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Blick aufs Wesen (Tiergeist)|Blick aufs Wesen (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Blutgeist aufnehmen|Blutgeist aufnehmen]]"
-  - "[[Inhalt/Talente/Zauber/Bärenruhe Winterschlaf (Tiergeist)|Bärenruhe Winterschlaf (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Eins mit der Natur (Tiergeist)|Eins mit der Natur (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Eiseskälte Kämpferherz (Tiergeist)|Eiseskälte Kämpferherz (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Exposami Lebenskraft (Tiergeist)|Exposami Lebenskraft (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Falkenauge Meisterschuss (Tiergeist)|Falkenauge Meisterschuss (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Firnlauf (Tiergeist)|Firnlauf (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Foramen Foraminor (Tiergeist)|Foramen Foraminor (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Harmlose Gestalt (Tiergeist)|Harmlose Gestalt (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Hexenkrallen (Tiergeist)|Hexenkrallen (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Hilfreiche Tatze, rettende Schwinge (Tiergeist)|Hilfreiche Tatze, rettende Schwinge (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Horriphobus Schreckgestalt (Tiergeist)|Horriphobus Schreckgestalt (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Katzenaugen (Tiergeist)|Katzenaugen (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Krähenruf (Tiergeist)|Krähenruf (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Krötensprung (Tiergeist)|Krötensprung (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Kusch! (Tiergeist)|Kusch! (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Körper des Blutgeists|Körper des Blutgeists]]"
-  - "[[Inhalt/Talente/Zauber/Memorans Gedächtniskraft (Tiergeist)|Memorans Gedächtniskraft (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Motoricus Geisterhand (Tiergeist)|Motoricus Geisterhand (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Movimento Dauerlauf (Tiergeist)|Movimento Dauerlauf (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Nekropathia Seelenreise (Tiergeist)|Nekropathia Seelenreise (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Pfeil der Luft (Tiergeist)|Pfeil der Luft (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Psychostabilis (Tiergeist)|Psychostabilis (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Ruhe Körper, Ruhe Geist (Tiergeist)|Ruhe Körper, Ruhe Geist (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Sanftmut (Tiergeist)|Sanftmut (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Seelentier erkennen (Tiergeist)|Seelentier erkennen (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Seidenzunge Elfenwort (Tiergeist)|Seidenzunge Elfenwort (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Sensattaco Meisterstreich (Tiergeist)|Sensattaco Meisterstreich (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Sensibar Empathicus (Tiergeist)|Sensibar Empathicus (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Serpentialis Schlangenleib (Tiergeist)|Serpentialis Schlangenleib (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Silentium Schweigekreis (Tiergeist)|Silentium Schweigekreis (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Spinnenlauf (Tiergeist)|Spinnenlauf (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Spurlos Trittlos (Tiergeist)|Spurlos Trittlos (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Standfest Katzengleich (Tiergeist)|Standfest Katzengleich (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Stärke des Blutgeists|Stärke des Blutgeists]]"
-  - "[[Inhalt/Talente/Zauber/Vipernblick (Tiergeist)|Vipernblick (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Warmes Blut (Tiergeist)|Warmes Blut (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Wasseratem (Tiergeist)|Wasseratem (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Wellenlauf (Tiergeist)|Wellenlauf (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Wipfellauf (Tiergeist)|Wipfellauf (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Xenographus Schriftenkunde (Tiergeist)|Xenographus Schriftenkunde (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Zaubernahrung Hungerbann (Tiergeist)|Zaubernahrung Hungerbann (Tiergeist)]]"
-  - "[[Inhalt/Talente/Zauber/Ängste lindern (Tiergeist)|Ängste lindern (Tiergeist)]]"
+  - "[[Abvenenum reine Speise (Tiergeist)]]"
+  - "[[Adlerauge Luchsenohr (Tiergeist)]]"
+  - "[[Aeropulvis sanfter Fall (Tiergeist)]]"
+  - "[[Armatrutz (Tiergeist)]]"
+  - "[[Atemnot (Tiergeist)]]"
+  - "[[Attributo (Tiergeist)]]"
+  - "[[Axxeleratus Blitzgeschwind (Tiergeist)]]"
+  - "[[Blick aufs Wesen (Tiergeist)]]"
+  - "[[Blutgeist aufnehmen]]"
+  - "[[Bärenruhe Winterschlaf (Tiergeist)]]"
+  - "[[Eins mit der Natur (Tiergeist)]]"
+  - "[[Eiseskälte Kämpferherz (Tiergeist)]]"
+  - "[[Exposami Lebenskraft (Tiergeist)]]"
+  - "[[Falkenauge Meisterschuss (Tiergeist)]]"
+  - "[[Firnlauf (Tiergeist)]]"
+  - "[[Foramen Foraminor (Tiergeist)]]"
+  - "[[Harmlose Gestalt (Tiergeist)]]"
+  - "[[Hexenkrallen (Tiergeist)]]"
+  - "[[Hilfreiche Tatze, rettende Schwinge (Tiergeist)]]"
+  - "[[Horriphobus Schreckgestalt (Tiergeist)]]"
+  - "[[Katzenaugen (Tiergeist)]]"
+  - "[[Krähenruf (Tiergeist)]]"
+  - "[[Krötensprung (Tiergeist)]]"
+  - "[[Kusch (Tiergeist)|Kusch! (Tiergeist)]]"
+  - "[[Körper des Blutgeists]]"
+  - "[[Memorans Gedächtniskraft (Tiergeist)]]"
+  - "[[Motoricus Geisterhand (Tiergeist)]]"
+  - "[[Movimento Dauerlauf (Tiergeist)]]"
+  - "[[Nekropathia Seelenreise (Tiergeist)]]"
+  - "[[Pfeil der Luft (Tiergeist)]]"
+  - "[[Psychostabilis (Tiergeist)]]"
+  - "[[Ruhe Körper, Ruhe Geist (Tiergeist)]]"
+  - "[[Sanftmut (Tiergeist)]]"
+  - "[[Seelentier erkennen (Tiergeist)]]"
+  - "[[Seidenzunge Elfenwort (Tiergeist)]]"
+  - "[[Sensattaco Meisterstreich (Tiergeist)]]"
+  - "[[Sensibar Empathicus (Tiergeist)]]"
+  - "[[Serpentialis Schlangenleib (Tiergeist)]]"
+  - "[[Silentium Schweigekreis (Tiergeist)]]"
+  - "[[Spinnenlauf (Tiergeist)]]"
+  - "[[Spurlos Trittlos (Tiergeist)]]"
+  - "[[Standfest Katzengleich (Tiergeist)]]"
+  - "[[Stärke des Blutgeists]]"
+  - "[[Vipernblick (Tiergeist)]]"
+  - "[[Warmes Blut (Tiergeist)]]"
+  - "[[Wasseratem (Tiergeist)]]"
+  - "[[Wellenlauf (Tiergeist)]]"
+  - "[[Wipfellauf (Tiergeist)]]"
+  - "[[Xenographus Schriftenkunde (Tiergeist)]]"
+  - "[[Zaubernahrung Hungerbann (Tiergeist)]]"
+  - "[[Ängste lindern (Tiergeist)]]"
 Voraussetzungen: Vorteil Tradition der Anach-Nûrim I
 ---
 Ein Anach-Nûr isst das Herz eines frisch erlegten Tieres, um dessen Blutgeist in sich aufzunehmen und sich durch dessen Kräfte zur stärken oder sogar zu verwandeln. Doch ein unaufmerksamer Moment und der Blutgeist gewinnt die Oberhand. Dann wird der Anach-Nûr zu einer rasenden Bestie...
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/KO|KO]], [[Inhalt/Attribute/MU|MU]], [[Inhalt/Attribute/MU|MU]]
+- **Attribute:** [[Konstitution|KO]], [[Mut|MU]], [[Mut|MU]]
 - **Steigerungsfaktor:** 2
-- **Talente:** [[Inhalt/Talente/Zauber/Abvenenum reine Speise (Tiergeist)|Abvenenum reine Speise (Tiergeist)]], [[Inhalt/Talente/Zauber/Adlerauge Luchsenohr (Tiergeist)|Adlerauge Luchsenohr (Tiergeist)]], [[Inhalt/Talente/Zauber/Aeropulvis sanfter Fall (Tiergeist)|Aeropulvis sanfter Fall (Tiergeist)]], [[Inhalt/Talente/Zauber/Armatrutz (Tiergeist)|Armatrutz (Tiergeist)]], [[Inhalt/Talente/Zauber/Atemnot (Tiergeist)|Atemnot (Tiergeist)]], [[Inhalt/Talente/Zauber/Attributo (Tiergeist)|Attributo (Tiergeist)]], [[Inhalt/Talente/Zauber/Axxeleratus Blitzgeschwind (Tiergeist)|Axxeleratus Blitzgeschwind (Tiergeist)]], [[Inhalt/Talente/Zauber/Blick aufs Wesen (Tiergeist)|Blick aufs Wesen (Tiergeist)]], [[Inhalt/Talente/Zauber/Blutgeist aufnehmen|Blutgeist aufnehmen]], [[Inhalt/Talente/Zauber/Bärenruhe Winterschlaf (Tiergeist)|Bärenruhe Winterschlaf (Tiergeist)]], [[Inhalt/Talente/Zauber/Eins mit der Natur (Tiergeist)|Eins mit der Natur (Tiergeist)]], [[Inhalt/Talente/Zauber/Eiseskälte Kämpferherz (Tiergeist)|Eiseskälte Kämpferherz (Tiergeist)]], [[Inhalt/Talente/Zauber/Exposami Lebenskraft (Tiergeist)|Exposami Lebenskraft (Tiergeist)]], [[Inhalt/Talente/Zauber/Falkenauge Meisterschuss (Tiergeist)|Falkenauge Meisterschuss (Tiergeist)]], [[Inhalt/Talente/Zauber/Firnlauf (Tiergeist)|Firnlauf (Tiergeist)]], [[Inhalt/Talente/Zauber/Foramen Foraminor (Tiergeist)|Foramen Foraminor (Tiergeist)]], [[Inhalt/Talente/Zauber/Harmlose Gestalt (Tiergeist)|Harmlose Gestalt (Tiergeist)]], [[Inhalt/Talente/Zauber/Hexenkrallen (Tiergeist)|Hexenkrallen (Tiergeist)]], [[Inhalt/Talente/Zauber/Hilfreiche Tatze, rettende Schwinge (Tiergeist)|Hilfreiche Tatze, rettende Schwinge (Tiergeist)]], [[Inhalt/Talente/Zauber/Horriphobus Schreckgestalt (Tiergeist)|Horriphobus Schreckgestalt (Tiergeist)]], [[Inhalt/Talente/Zauber/Katzenaugen (Tiergeist)|Katzenaugen (Tiergeist)]], [[Inhalt/Talente/Zauber/Krähenruf (Tiergeist)|Krähenruf (Tiergeist)]], [[Inhalt/Talente/Zauber/Krötensprung (Tiergeist)|Krötensprung (Tiergeist)]], [[Inhalt/Talente/Zauber/Kusch! (Tiergeist)|Kusch! (Tiergeist)]], [[Inhalt/Talente/Zauber/Körper des Blutgeists|Körper des Blutgeists]], [[Inhalt/Talente/Zauber/Memorans Gedächtniskraft (Tiergeist)|Memorans Gedächtniskraft (Tiergeist)]], [[Inhalt/Talente/Zauber/Motoricus Geisterhand (Tiergeist)|Motoricus Geisterhand (Tiergeist)]], [[Inhalt/Talente/Zauber/Movimento Dauerlauf (Tiergeist)|Movimento Dauerlauf (Tiergeist)]], [[Inhalt/Talente/Zauber/Nekropathia Seelenreise (Tiergeist)|Nekropathia Seelenreise (Tiergeist)]], [[Inhalt/Talente/Zauber/Pfeil der Luft (Tiergeist)|Pfeil der Luft (Tiergeist)]], [[Inhalt/Talente/Zauber/Psychostabilis (Tiergeist)|Psychostabilis (Tiergeist)]], [[Inhalt/Talente/Zauber/Ruhe Körper, Ruhe Geist (Tiergeist)|Ruhe Körper, Ruhe Geist (Tiergeist)]], [[Inhalt/Talente/Zauber/Sanftmut (Tiergeist)|Sanftmut (Tiergeist)]], [[Inhalt/Talente/Zauber/Seelentier erkennen (Tiergeist)|Seelentier erkennen (Tiergeist)]], [[Inhalt/Talente/Zauber/Seidenzunge Elfenwort (Tiergeist)|Seidenzunge Elfenwort (Tiergeist)]], [[Inhalt/Talente/Zauber/Sensattaco Meisterstreich (Tiergeist)|Sensattaco Meisterstreich (Tiergeist)]], [[Inhalt/Talente/Zauber/Sensibar Empathicus (Tiergeist)|Sensibar Empathicus (Tiergeist)]], [[Inhalt/Talente/Zauber/Serpentialis Schlangenleib (Tiergeist)|Serpentialis Schlangenleib (Tiergeist)]], [[Inhalt/Talente/Zauber/Silentium Schweigekreis (Tiergeist)|Silentium Schweigekreis (Tiergeist)]], [[Inhalt/Talente/Zauber/Spinnenlauf (Tiergeist)|Spinnenlauf (Tiergeist)]], [[Inhalt/Talente/Zauber/Spurlos Trittlos (Tiergeist)|Spurlos Trittlos (Tiergeist)]], [[Inhalt/Talente/Zauber/Standfest Katzengleich (Tiergeist)|Standfest Katzengleich (Tiergeist)]], [[Inhalt/Talente/Zauber/Stärke des Blutgeists|Stärke des Blutgeists]], [[Inhalt/Talente/Zauber/Vipernblick (Tiergeist)|Vipernblick (Tiergeist)]], [[Inhalt/Talente/Zauber/Warmes Blut (Tiergeist)|Warmes Blut (Tiergeist)]], [[Inhalt/Talente/Zauber/Wasseratem (Tiergeist)|Wasseratem (Tiergeist)]], [[Inhalt/Talente/Zauber/Wellenlauf (Tiergeist)|Wellenlauf (Tiergeist)]], [[Inhalt/Talente/Zauber/Wipfellauf (Tiergeist)|Wipfellauf (Tiergeist)]], [[Inhalt/Talente/Zauber/Xenographus Schriftenkunde (Tiergeist)|Xenographus Schriftenkunde (Tiergeist)]], [[Inhalt/Talente/Zauber/Zaubernahrung Hungerbann (Tiergeist)|Zaubernahrung Hungerbann (Tiergeist)]], [[Inhalt/Talente/Zauber/Ängste lindern (Tiergeist)|Ängste lindern (Tiergeist)]]
-- **Voraussetzungen:** Vorteil Tradition der Anach-Nûrim I
+- **Talente:**
+  - [[Abvenenum reine Speise (Tiergeist)]]
+  - [[Adlerauge Luchsenohr (Tiergeist)]]
+  - [[Aeropulvis sanfter Fall (Tiergeist)]]
+  - [[Armatrutz (Tiergeist)]]
+  - [[Atemnot (Tiergeist)]]
+  - [[Attributo (Tiergeist)]]
+  - [[Axxeleratus Blitzgeschwind (Tiergeist)]]
+  - [[Blick aufs Wesen (Tiergeist)]]
+  - [[Blutgeist aufnehmen]]
+  - [[Bärenruhe Winterschlaf (Tiergeist)]]
+  - [[Eins mit der Natur (Tiergeist)]]
+  - [[Eiseskälte Kämpferherz (Tiergeist)]]
+  - [[Exposami Lebenskraft (Tiergeist)]]
+  - [[Falkenauge Meisterschuss (Tiergeist)]]
+  - [[Firnlauf (Tiergeist)]]
+  - [[Foramen Foraminor (Tiergeist)]]
+  - [[Harmlose Gestalt (Tiergeist)]]
+  - [[Hexenkrallen (Tiergeist)]]
+  - [[Hilfreiche Tatze, rettende Schwinge (Tiergeist)]]
+  - [[Horriphobus Schreckgestalt (Tiergeist)]]
+  - [[Katzenaugen (Tiergeist)]]
+  - [[Krähenruf (Tiergeist)]]
+  - [[Krötensprung (Tiergeist)]]
+  - [[Kusch (Tiergeist)|Kusch! (Tiergeist)]]
+  - [[Körper des Blutgeists]]
+  - [[Memorans Gedächtniskraft (Tiergeist)]]
+  - [[Motoricus Geisterhand (Tiergeist)]]
+  - [[Movimento Dauerlauf (Tiergeist)]]
+  - [[Nekropathia Seelenreise (Tiergeist)]]
+  - [[Pfeil der Luft (Tiergeist)]]
+  - [[Psychostabilis (Tiergeist)]]
+  - [[Ruhe Körper, Ruhe Geist (Tiergeist)]]
+  - [[Sanftmut (Tiergeist)]]
+  - [[Seelentier erkennen (Tiergeist)]]
+  - [[Seidenzunge Elfenwort (Tiergeist)]]
+  - [[Sensattaco Meisterstreich (Tiergeist)]]
+  - [[Sensibar Empathicus (Tiergeist)]]
+  - [[Serpentialis Schlangenleib (Tiergeist)]]
+  - [[Silentium Schweigekreis (Tiergeist)]]
+  - [[Spinnenlauf (Tiergeist)]]
+  - [[Spurlos Trittlos (Tiergeist)]]
+  - [[Standfest Katzengleich (Tiergeist)]]
+  - [[Stärke des Blutgeists]]
+  - [[Vipernblick (Tiergeist)]]
+  - [[Warmes Blut (Tiergeist)]]
+  - [[Wasseratem (Tiergeist)]]
+  - [[Wellenlauf (Tiergeist)]]
+  - [[Wipfellauf (Tiergeist)]]
+  - [[Xenographus Schriftenkunde (Tiergeist)]]
+  - [[Zaubernahrung Hungerbann (Tiergeist)]]
+  - [[Ängste lindern (Tiergeist)]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Anach-Nûrim I]]

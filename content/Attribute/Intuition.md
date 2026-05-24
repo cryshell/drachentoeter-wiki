@@ -1,8 +1,9 @@
 ---
 Entitätstyp: Attribut
-ID: 6fc6c89c-3f06-4941-a20b-5ccc9eec7242
+ID: 62ff4082-9b8f-47a3-9885-1aa3e3f5d19d
 Name: Intuition
 title: Intuition
+aliases: "[IN]"
 Abkürzung: IN
 Steigerungsfaktor: 16
 ---

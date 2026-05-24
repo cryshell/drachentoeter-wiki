@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 29c0ec67-64e9-4f68-9a8f-da367396911c
+ID: 079f694f-3bc2-440b-b493-b7bfb06d0612
 Name: Fluch der Götter (Marbo)
 title: Fluch der Götter (Marbo)
 Kategorie: Nachteil
@@ -13,4 +13,5 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Marbo), Empfindlichkeit I (Pflanz
 ---
 
 - **Kosten:** -200 EP
-- **Voraussetzungen:** Vorteil Vampir I
+- **Voraussetzungen:**
+  - Vorteil [[Vampir I]]

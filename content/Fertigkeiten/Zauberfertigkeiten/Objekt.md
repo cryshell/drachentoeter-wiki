@@ -1,107 +1,193 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 6b580353-444e-4680-8d73-c426d9fc5f0b
+ID: 7629d954-a240-499f-8100-10931a0c2830
 Name: Objekt
 title: Objekt
 Kategorie: Zauberfertigkeiten
 Attribute:
-  - "[[Inhalt/Attribute/FF|FF]]"
-  - "[[Inhalt/Attribute/KL|KL]]"
-  - "[[Inhalt/Attribute/KL|KL]]"
+  - "[[Fingerfertigkeit|FF]]"
+  - "[[Klugheit|KL]]"
+  - "[[Klugheit|KL]]"
 Steigerungsfaktor: 3
 Talente:
-  - "[[Inhalt/Talente/Zauber/Abvenenum reine Speise|Abvenenum reine Speise]]"
-  - "[[Inhalt/Talente/Zauber/Accuratum Zaubernadel|Accuratum Zaubernadel]]"
-  - "[[Inhalt/Talente/Zauber/Adamantium Erzstruktur|Adamantium Erzstruktur]]"
-  - "[[Inhalt/Talente/Zauber/Aeromorpho Wirbelform|Aeromorpho Wirbelform]]"
-  - "[[Inhalt/Talente/Zauber/Applicatus Zauberspeicher|Applicatus Zauberspeicher]]"
-  - "[[Inhalt/Talente/Zauber/Aquamorpho Wasserform|Aquamorpho Wasserform]]"
-  - "[[Inhalt/Talente/Zauber/Arcanovi Artefakt|Arcanovi Artefakt]]"
-  - "[[Inhalt/Talente/Zauber/Bannschwert|Bannschwert]]"
-  - "[[Inhalt/Talente/Zauber/Beiß auf Granit!|Beiß auf Granit!]]"
-  - "[[Inhalt/Talente/Zauber/Bindung der Kugel|Bindung der Kugel]]"
-  - "[[Inhalt/Talente/Zauber/Bindung der Schale|Bindung der Schale]]"
-  - "[[Inhalt/Talente/Zauber/Bindung des Dolches|Bindung des Dolches]]"
-  - "[[Inhalt/Talente/Zauber/Bindung des Ringes|Bindung des Ringes]]"
-  - "[[Inhalt/Talente/Zauber/Bindung des Schuppenbeutels|Bindung des Schuppenbeutels]]"
-  - "[[Inhalt/Talente/Zauber/Bindung des Stabs|Bindung des Stabs]]"
-  - "[[Inhalt/Talente/Zauber/Brenne toter Stoff!|Brenne toter Stoff!]]"
-  - "[[Inhalt/Talente/Zauber/Brenne toter Stoff! (Dämonisch)|Brenne toter Stoff! (Dämonisch)]]"
-  - "[[Inhalt/Talente/Zauber/Brennglas und Prisma|Brennglas und Prisma]]"
-  - "[[Inhalt/Talente/Zauber/Bärenrune|Bärenrune]]"
-  - "[[Inhalt/Talente/Zauber/Caldofrigo heiß und kalt|Caldofrigo heiß und kalt]]"
-  - "[[Inhalt/Talente/Zauber/Claudibus Clavistibor|Claudibus Clavistibor]]"
-  - "[[Inhalt/Talente/Zauber/Cryptographo Zauberschrift|Cryptographo Zauberschrift]]"
-  - "[[Inhalt/Talente/Zauber/Custodosigil Diebesbann|Custodosigil Diebesbann]]"
-  - "[[Inhalt/Talente/Zauber/Desintegratus Pulverstaub|Desintegratus Pulverstaub]]"
-  - "[[Inhalt/Talente/Zauber/Eisenrost und Patina|Eisenrost und Patina]]"
-  - "[[Inhalt/Talente/Zauber/Entgifterrune|Entgifterrune]]"
-  - "[[Inhalt/Talente/Zauber/Ernte des Dolches|Ernte des Dolches]]"
-  - "[[Inhalt/Talente/Zauber/Essenzkonzentration|Essenzkonzentration]]"
-  - "[[Inhalt/Talente/Zauber/Ewige Flamme|Ewige Flamme]]"
-  - "[[Inhalt/Talente/Zauber/Felsenrune|Felsenrune]]"
-  - "[[Inhalt/Talente/Zauber/Fixierungszeichen|Fixierungszeichen]]"
-  - "[[Inhalt/Talente/Zauber/Flammenschwert|Flammenschwert]]"
-  - "[[Inhalt/Talente/Zauber/Foramen Foraminor|Foramen Foraminor]]"
-  - "[[Inhalt/Talente/Zauber/Geisterklinge|Geisterklinge]]"
-  - "[[Inhalt/Talente/Zauber/Gespür der Keule|Gespür der Keule]]"
-  - "[[Inhalt/Talente/Zauber/Glyphe des verfluchten Goldes|Glyphe des verfluchten Goldes]]"
-  - "[[Inhalt/Talente/Zauber/Hartes schmelze!|Hartes schmelze!]]"
-  - "[[Inhalt/Talente/Zauber/Hartes schmelze! (Dämonisch)|Hartes schmelze! (Dämonisch)]]"
-  - "[[Inhalt/Talente/Zauber/Hauch des Elements|Hauch des Elements]]"
-  - "[[Inhalt/Talente/Zauber/Hermetisches Siegel|Hermetisches Siegel]]"
-  - "[[Inhalt/Talente/Zauber/Ignimorpho Feuerform|Ignimorpho Feuerform]]"
-  - "[[Inhalt/Talente/Zauber/Kraft der Keule|Kraft der Keule]]"
-  - "[[Inhalt/Talente/Zauber/Kraft des Erzes|Kraft des Erzes]]"
-  - "[[Inhalt/Talente/Zauber/Kristallbindung|Kristallbindung]]"
-  - "[[Inhalt/Talente/Zauber/Lebensrune|Lebensrune]]"
-  - "[[Inhalt/Talente/Zauber/Markierung des Todes|Markierung des Todes]]"
-  - "[[Inhalt/Talente/Zauber/Metamorpho Felsenform|Metamorpho Felsenform]]"
-  - "[[Inhalt/Talente/Zauber/Metamorpho Gletscherform|Metamorpho Gletscherform]]"
-  - "[[Inhalt/Talente/Zauber/Nackedei|Nackedei]]"
-  - "[[Inhalt/Talente/Zauber/Objecto Obscuro|Objecto Obscuro]]"
-  - "[[Inhalt/Talente/Zauber/Objectofixo|Objectofixo]]"
-  - "[[Inhalt/Talente/Zauber/Objekt entzaubern|Objekt entzaubern]]"
-  - "[[Inhalt/Talente/Zauber/Optikstein|Optikstein]]"
-  - "[[Inhalt/Talente/Zauber/Orkanstimmenrune|Orkanstimmenrune]]"
-  - "[[Inhalt/Talente/Zauber/Pfeil der Luft|Pfeil der Luft]]"
-  - "[[Inhalt/Talente/Zauber/Pfeil des Eises|Pfeil des Eises]]"
-  - "[[Inhalt/Talente/Zauber/Pfeil des Erzes|Pfeil des Erzes]]"
-  - "[[Inhalt/Talente/Zauber/Pfeil des Feuers|Pfeil des Feuers]]"
-  - "[[Inhalt/Talente/Zauber/Pfeil des Humus|Pfeil des Humus]]"
-  - "[[Inhalt/Talente/Zauber/Pfeil des Wassers|Pfeil des Wassers]]"
-  - "[[Inhalt/Talente/Zauber/Rauschrune|Rauschrune]]"
-  - "[[Inhalt/Talente/Zauber/Reines Wasser|Reines Wasser]]"
-  - "[[Inhalt/Talente/Zauber/Salzwasserrune|Salzwasserrune]]"
-  - "[[Inhalt/Talente/Zauber/Schicksalsrune|Schicksalsrune]]"
-  - "[[Inhalt/Talente/Zauber/Schneide des Dolches|Schneide des Dolches]]"
-  - "[[Inhalt/Talente/Zauber/Seil des Adepten|Seil des Adepten]]"
-  - "[[Inhalt/Talente/Zauber/Siegel der ewigen Ruhe|Siegel der ewigen Ruhe]]"
-  - "[[Inhalt/Talente/Zauber/Siegel der zweiten Haut|Siegel der zweiten Haut]]"
-  - "[[Inhalt/Talente/Zauber/Stimme des Nipakau|Stimme des Nipakau]]"
-  - "[[Inhalt/Talente/Zauber/Thesiskristall|Thesiskristall]]"
-  - "[[Inhalt/Talente/Zauber/Transformatio Formgestalt|Transformatio Formgestalt]]"
-  - "[[Inhalt/Talente/Zauber/Unberührt von Satinav|Unberührt von Satinav]]"
-  - "[[Inhalt/Talente/Zauber/Vertreibung böser Nahrungsgeister|Vertreibung böser Nahrungsgeister]]"
-  - "[[Inhalt/Talente/Zauber/Waberlohenrune|Waberlohenrune]]"
-  - "[[Inhalt/Talente/Zauber/Wachshaut|Wachshaut]]"
-  - "[[Inhalt/Talente/Zauber/Waffenrune|Waffenrune]]"
-  - "[[Inhalt/Talente/Zauber/Wandlung des Stabs|Wandlung des Stabs]]"
-  - "[[Inhalt/Talente/Zauber/Warmes gefriere!|Warmes gefriere!]]"
-  - "[[Inhalt/Talente/Zauber/Weihe der Keule|Weihe der Keule]]"
-  - "[[Inhalt/Talente/Zauber/Zagibu Ubigaz|Zagibu Ubigaz]]"
-  - "[[Inhalt/Talente/Zauber/Zauberklinge Geisterspeer|Zauberklinge Geisterspeer]]"
-  - "[[Inhalt/Talente/Zauber/Zeichen der Zauberschmiede|Zeichen der Zauberschmiede]]"
-  - "[[Inhalt/Talente/Zauber/Zeichen des Handwerks|Zeichen des Handwerks]]"
-  - "[[Inhalt/Talente/Zauber/Zeichen gegen Magie|Zeichen gegen Magie]]"
-  - "[[Inhalt/Talente/Zauber/Zähne des Feuers|Zähne des Feuers]]"
+  - "[[Abvenenum reine Speise]]"
+  - "[[Accuratum Zaubernadel]]"
+  - "[[Adamantium Erzstruktur]]"
+  - "[[Aeromorpho Wirbelform]]"
+  - "[[Applicatus Zauberspeicher]]"
+  - "[[Aquamorpho Wasserform]]"
+  - "[[Arcanovi Artefakt]]"
+  - "[[Bannschwert]]"
+  - "[[Beiß auf Granit|Beiß auf Granit!]]"
+  - "[[Bindung der Kugel]]"
+  - "[[Bindung der Schale]]"
+  - "[[Bindung des Dolches]]"
+  - "[[Bindung des Ringes]]"
+  - "[[Bindung des Schuppenbeutels]]"
+  - "[[Bindung des Stabs]]"
+  - "[[Brenne toter Stoff|Brenne toter Stoff!]]"
+  - "[[Brenne toter Stoff (Dämonisch)|Brenne toter Stoff! (Dämonisch)]]"
+  - "[[Brennglas und Prisma]]"
+  - "[[Bärenrune]]"
+  - "[[Caldofrigo heiß und kalt]]"
+  - "[[Claudibus Clavistibor]]"
+  - "[[Cryptographo Zauberschrift]]"
+  - "[[Custodosigil Diebesbann]]"
+  - "[[Desintegratus Pulverstaub]]"
+  - "[[Eisenrost und Patina]]"
+  - "[[Entgifterrune]]"
+  - "[[Ernte des Dolches]]"
+  - "[[Essenzkonzentration]]"
+  - "[[Ewige Flamme]]"
+  - "[[Felsenrune]]"
+  - "[[Fixierungszeichen]]"
+  - "[[Flammenschwert]]"
+  - "[[Foramen Foraminor]]"
+  - "[[Geisterklinge]]"
+  - "[[Gespür der Keule]]"
+  - "[[Glyphe des verfluchten Goldes]]"
+  - "[[Hartes schmelze|Hartes schmelze!]]"
+  - "[[Hartes schmelze (Dämonisch)|Hartes schmelze! (Dämonisch)]]"
+  - "[[Hauch des Elements]]"
+  - "[[Hermetisches Siegel]]"
+  - "[[Ignimorpho Feuerform]]"
+  - "[[Kraft der Keule]]"
+  - "[[Kraft des Erzes]]"
+  - "[[Kristallbindung]]"
+  - "[[Lebensrune]]"
+  - "[[Markierung des Todes]]"
+  - "[[Metamorpho Felsenform]]"
+  - "[[Metamorpho Gletscherform]]"
+  - "[[Nackedei]]"
+  - "[[Objecto Obscuro]]"
+  - "[[Objectofixo]]"
+  - "[[Objekt entzaubern]]"
+  - "[[Optikstein]]"
+  - "[[Orkanstimmenrune]]"
+  - "[[Pfeil der Luft]]"
+  - "[[Pfeil des Eises]]"
+  - "[[Pfeil des Erzes]]"
+  - "[[Pfeil des Feuers]]"
+  - "[[Pfeil des Humus]]"
+  - "[[Pfeil des Wassers]]"
+  - "[[Rauschrune]]"
+  - "[[Reines Wasser]]"
+  - "[[Salzwasserrune]]"
+  - "[[Schicksalsrune]]"
+  - "[[Schneide des Dolches]]"
+  - "[[Seil des Adepten]]"
+  - "[[Siegel der ewigen Ruhe]]"
+  - "[[Siegel der zweiten Haut]]"
+  - "[[Stimme des Nipakau]]"
+  - "[[Thesiskristall]]"
+  - "[[Transformatio Formgestalt]]"
+  - "[[Unberührt von Satinav]]"
+  - "[[Vertreibung böser Nahrungsgeister]]"
+  - "[[Waberlohenrune]]"
+  - "[[Wachshaut]]"
+  - "[[Waffenrune]]"
+  - "[[Wandlung des Stabs]]"
+  - "[[Warmes gefriere|Warmes gefriere!]]"
+  - "[[Weihe der Keule]]"
+  - "[[Zagibu Ubigaz]]"
+  - "[[Zauberklinge Geisterspeer]]"
+  - "[[Zeichen der Zauberschmiede]]"
+  - "[[Zeichen des Handwerks]]"
+  - "[[Zeichen gegen Magie]]"
+  - "[[Zähne des Feuers]]"
 Voraussetzungen: Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Shakagra I
 ---
 Mittels Objektmagie kannst du unbelebte Objekte verformen und verzaubern.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/FF|FF]], [[Inhalt/Attribute/KL|KL]], [[Inhalt/Attribute/KL|KL]]
+- **Attribute:** [[Fingerfertigkeit|FF]], [[Klugheit|KL]], [[Klugheit|KL]]
 - **Steigerungsfaktor:** 3
-- **Talente:** [[Inhalt/Talente/Zauber/Abvenenum reine Speise|Abvenenum reine Speise]], [[Inhalt/Talente/Zauber/Accuratum Zaubernadel|Accuratum Zaubernadel]], [[Inhalt/Talente/Zauber/Adamantium Erzstruktur|Adamantium Erzstruktur]], [[Inhalt/Talente/Zauber/Aeromorpho Wirbelform|Aeromorpho Wirbelform]], [[Inhalt/Talente/Zauber/Applicatus Zauberspeicher|Applicatus Zauberspeicher]], [[Inhalt/Talente/Zauber/Aquamorpho Wasserform|Aquamorpho Wasserform]], [[Inhalt/Talente/Zauber/Arcanovi Artefakt|Arcanovi Artefakt]], [[Inhalt/Talente/Zauber/Bannschwert|Bannschwert]], [[Inhalt/Talente/Zauber/Beiß auf Granit!|Beiß auf Granit!]], [[Inhalt/Talente/Zauber/Bindung der Kugel|Bindung der Kugel]], [[Inhalt/Talente/Zauber/Bindung der Schale|Bindung der Schale]], [[Inhalt/Talente/Zauber/Bindung des Dolches|Bindung des Dolches]], [[Inhalt/Talente/Zauber/Bindung des Ringes|Bindung des Ringes]], [[Inhalt/Talente/Zauber/Bindung des Schuppenbeutels|Bindung des Schuppenbeutels]], [[Inhalt/Talente/Zauber/Bindung des Stabs|Bindung des Stabs]], [[Inhalt/Talente/Zauber/Brenne toter Stoff!|Brenne toter Stoff!]], [[Inhalt/Talente/Zauber/Brenne toter Stoff! (Dämonisch)|Brenne toter Stoff! (Dämonisch)]], [[Inhalt/Talente/Zauber/Brennglas und Prisma|Brennglas und Prisma]], [[Inhalt/Talente/Zauber/Bärenrune|Bärenrune]], [[Inhalt/Talente/Zauber/Caldofrigo heiß und kalt|Caldofrigo heiß und kalt]], [[Inhalt/Talente/Zauber/Claudibus Clavistibor|Claudibus Clavistibor]], [[Inhalt/Talente/Zauber/Cryptographo Zauberschrift|Cryptographo Zauberschrift]], [[Inhalt/Talente/Zauber/Custodosigil Diebesbann|Custodosigil Diebesbann]], [[Inhalt/Talente/Zauber/Desintegratus Pulverstaub|Desintegratus Pulverstaub]], [[Inhalt/Talente/Zauber/Eisenrost und Patina|Eisenrost und Patina]], [[Inhalt/Talente/Zauber/Entgifterrune|Entgifterrune]], [[Inhalt/Talente/Zauber/Ernte des Dolches|Ernte des Dolches]], [[Inhalt/Talente/Zauber/Essenzkonzentration|Essenzkonzentration]], [[Inhalt/Talente/Zauber/Ewige Flamme|Ewige Flamme]], [[Inhalt/Talente/Zauber/Felsenrune|Felsenrune]], [[Inhalt/Talente/Zauber/Fixierungszeichen|Fixierungszeichen]], [[Inhalt/Talente/Zauber/Flammenschwert|Flammenschwert]], [[Inhalt/Talente/Zauber/Foramen Foraminor|Foramen Foraminor]], [[Inhalt/Talente/Zauber/Geisterklinge|Geisterklinge]], [[Inhalt/Talente/Zauber/Gespür der Keule|Gespür der Keule]], [[Inhalt/Talente/Zauber/Glyphe des verfluchten Goldes|Glyphe des verfluchten Goldes]], [[Inhalt/Talente/Zauber/Hartes schmelze!|Hartes schmelze!]], [[Inhalt/Talente/Zauber/Hartes schmelze! (Dämonisch)|Hartes schmelze! (Dämonisch)]], [[Inhalt/Talente/Zauber/Hauch des Elements|Hauch des Elements]], [[Inhalt/Talente/Zauber/Hermetisches Siegel|Hermetisches Siegel]], [[Inhalt/Talente/Zauber/Ignimorpho Feuerform|Ignimorpho Feuerform]], [[Inhalt/Talente/Zauber/Kraft der Keule|Kraft der Keule]], [[Inhalt/Talente/Zauber/Kraft des Erzes|Kraft des Erzes]], [[Inhalt/Talente/Zauber/Kristallbindung|Kristallbindung]], [[Inhalt/Talente/Zauber/Lebensrune|Lebensrune]], [[Inhalt/Talente/Zauber/Markierung des Todes|Markierung des Todes]], [[Inhalt/Talente/Zauber/Metamorpho Felsenform|Metamorpho Felsenform]], [[Inhalt/Talente/Zauber/Metamorpho Gletscherform|Metamorpho Gletscherform]], [[Inhalt/Talente/Zauber/Nackedei|Nackedei]], [[Inhalt/Talente/Zauber/Objecto Obscuro|Objecto Obscuro]], [[Inhalt/Talente/Zauber/Objectofixo|Objectofixo]], [[Inhalt/Talente/Zauber/Objekt entzaubern|Objekt entzaubern]], [[Inhalt/Talente/Zauber/Optikstein|Optikstein]], [[Inhalt/Talente/Zauber/Orkanstimmenrune|Orkanstimmenrune]], [[Inhalt/Talente/Zauber/Pfeil der Luft|Pfeil der Luft]], [[Inhalt/Talente/Zauber/Pfeil des Eises|Pfeil des Eises]], [[Inhalt/Talente/Zauber/Pfeil des Erzes|Pfeil des Erzes]], [[Inhalt/Talente/Zauber/Pfeil des Feuers|Pfeil des Feuers]], [[Inhalt/Talente/Zauber/Pfeil des Humus|Pfeil des Humus]], [[Inhalt/Talente/Zauber/Pfeil des Wassers|Pfeil des Wassers]], [[Inhalt/Talente/Zauber/Rauschrune|Rauschrune]], [[Inhalt/Talente/Zauber/Reines Wasser|Reines Wasser]], [[Inhalt/Talente/Zauber/Salzwasserrune|Salzwasserrune]], [[Inhalt/Talente/Zauber/Schicksalsrune|Schicksalsrune]], [[Inhalt/Talente/Zauber/Schneide des Dolches|Schneide des Dolches]], [[Inhalt/Talente/Zauber/Seil des Adepten|Seil des Adepten]], [[Inhalt/Talente/Zauber/Siegel der ewigen Ruhe|Siegel der ewigen Ruhe]], [[Inhalt/Talente/Zauber/Siegel der zweiten Haut|Siegel der zweiten Haut]], [[Inhalt/Talente/Zauber/Stimme des Nipakau|Stimme des Nipakau]], [[Inhalt/Talente/Zauber/Thesiskristall|Thesiskristall]], [[Inhalt/Talente/Zauber/Transformatio Formgestalt|Transformatio Formgestalt]], [[Inhalt/Talente/Zauber/Unberührt von Satinav|Unberührt von Satinav]], [[Inhalt/Talente/Zauber/Vertreibung böser Nahrungsgeister|Vertreibung böser Nahrungsgeister]], [[Inhalt/Talente/Zauber/Waberlohenrune|Waberlohenrune]], [[Inhalt/Talente/Zauber/Wachshaut|Wachshaut]], [[Inhalt/Talente/Zauber/Waffenrune|Waffenrune]], [[Inhalt/Talente/Zauber/Wandlung des Stabs|Wandlung des Stabs]], [[Inhalt/Talente/Zauber/Warmes gefriere!|Warmes gefriere!]], [[Inhalt/Talente/Zauber/Weihe der Keule|Weihe der Keule]], [[Inhalt/Talente/Zauber/Zagibu Ubigaz|Zagibu Ubigaz]], [[Inhalt/Talente/Zauber/Zauberklinge Geisterspeer|Zauberklinge Geisterspeer]], [[Inhalt/Talente/Zauber/Zeichen der Zauberschmiede|Zeichen der Zauberschmiede]], [[Inhalt/Talente/Zauber/Zeichen des Handwerks|Zeichen des Handwerks]], [[Inhalt/Talente/Zauber/Zeichen gegen Magie|Zeichen gegen Magie]], [[Inhalt/Talente/Zauber/Zähne des Feuers|Zähne des Feuers]]
-- **Voraussetzungen:** Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Shakagra I
+- **Talente:**
+  - [[Abvenenum reine Speise]]
+  - [[Accuratum Zaubernadel]]
+  - [[Adamantium Erzstruktur]]
+  - [[Aeromorpho Wirbelform]]
+  - [[Applicatus Zauberspeicher]]
+  - [[Aquamorpho Wasserform]]
+  - [[Arcanovi Artefakt]]
+  - [[Bannschwert]]
+  - [[Beiß auf Granit|Beiß auf Granit!]]
+  - [[Bindung der Kugel]]
+  - [[Bindung der Schale]]
+  - [[Bindung des Dolches]]
+  - [[Bindung des Ringes]]
+  - [[Bindung des Schuppenbeutels]]
+  - [[Bindung des Stabs]]
+  - [[Brenne toter Stoff|Brenne toter Stoff!]]
+  - [[Brenne toter Stoff (Dämonisch)|Brenne toter Stoff! (Dämonisch)]]
+  - [[Brennglas und Prisma]]
+  - [[Bärenrune]]
+  - [[Caldofrigo heiß und kalt]]
+  - [[Claudibus Clavistibor]]
+  - [[Cryptographo Zauberschrift]]
+  - [[Custodosigil Diebesbann]]
+  - [[Desintegratus Pulverstaub]]
+  - [[Eisenrost und Patina]]
+  - [[Entgifterrune]]
+  - [[Ernte des Dolches]]
+  - [[Essenzkonzentration]]
+  - [[Ewige Flamme]]
+  - [[Felsenrune]]
+  - [[Fixierungszeichen]]
+  - [[Flammenschwert]]
+  - [[Foramen Foraminor]]
+  - [[Geisterklinge]]
+  - [[Gespür der Keule]]
+  - [[Glyphe des verfluchten Goldes]]
+  - [[Hartes schmelze|Hartes schmelze!]]
+  - [[Hartes schmelze (Dämonisch)|Hartes schmelze! (Dämonisch)]]
+  - [[Hauch des Elements]]
+  - [[Hermetisches Siegel]]
+  - [[Ignimorpho Feuerform]]
+  - [[Kraft der Keule]]
+  - [[Kraft des Erzes]]
+  - [[Kristallbindung]]
+  - [[Lebensrune]]
+  - [[Markierung des Todes]]
+  - [[Metamorpho Felsenform]]
+  - [[Metamorpho Gletscherform]]
+  - [[Nackedei]]
+  - [[Objecto Obscuro]]
+  - [[Objectofixo]]
+  - [[Objekt entzaubern]]
+  - [[Optikstein]]
+  - [[Orkanstimmenrune]]
+  - [[Pfeil der Luft]]
+  - [[Pfeil des Eises]]
+  - [[Pfeil des Erzes]]
+  - [[Pfeil des Feuers]]
+  - [[Pfeil des Humus]]
+  - [[Pfeil des Wassers]]
+  - [[Rauschrune]]
+  - [[Reines Wasser]]
+  - [[Salzwasserrune]]
+  - [[Schicksalsrune]]
+  - [[Schneide des Dolches]]
+  - [[Seil des Adepten]]
+  - [[Siegel der ewigen Ruhe]]
+  - [[Siegel der zweiten Haut]]
+  - [[Stimme des Nipakau]]
+  - [[Thesiskristall]]
+  - [[Transformatio Formgestalt]]
+  - [[Unberührt von Satinav]]
+  - [[Vertreibung böser Nahrungsgeister]]
+  - [[Waberlohenrune]]
+  - [[Wachshaut]]
+  - [[Waffenrune]]
+  - [[Wandlung des Stabs]]
+  - [[Warmes gefriere|Warmes gefriere!]]
+  - [[Weihe der Keule]]
+  - [[Zagibu Ubigaz]]
+  - [[Zauberklinge Geisterspeer]]
+  - [[Zeichen der Zauberschmiede]]
+  - [[Zeichen des Handwerks]]
+  - [[Zeichen gegen Magie]]
+  - [[Zähne des Feuers]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Shakagra I]]

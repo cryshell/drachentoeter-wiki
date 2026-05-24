@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 1d9db4d9-ffc5-49b8-8124-20681e5c8efe
+ID: 3f19e917-65fd-46e0-94d7-f3638d2e33b3
 Name: Tradition der Schiffsbauer
 title: Tradition der Schiffsbauer
 Kategorie: Tradition (Profan)
@@ -13,4 +13,5 @@ Du beherrschst Rezepte der Tradition der Schiffsbauer (Sfb).
 ---
 
 - **Kosten:** 20 EP
-- **Voraussetzungen:** Attribut KO 4 ODER Attribut KK 4
+- **Voraussetzungen:**
+  - Attribut KO 4 ODER Attribut KK 4

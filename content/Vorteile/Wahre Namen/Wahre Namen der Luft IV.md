@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 671d668b-4032-4752-848e-662b3d174976
+ID: 4f4f7660-f192-49b6-96fe-c55c5d9b549e
 Name: Wahre Namen der Luft IV
 title: Wahre Namen der Luft IV
 Kategorie: Wahre Namen
@@ -17,6 +17,6 @@ Kosten: 20
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
-  - "MeisterAttribut KL 10"
-  - "Vorteil Wahre Namen der Luft III"
+  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - MeisterAttribut [[Klugheit|KL]] 10
+  - Vorteil [[Wahre Namen der Luft III]]

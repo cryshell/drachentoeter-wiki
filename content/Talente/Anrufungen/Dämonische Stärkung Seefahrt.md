@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 87e07a47-a021-4172-a13d-bca66f3be3ca
+ID: b1b4036b-508c-46d0-8a64-29e552ced214
 Name: "Dämonische Stärkung: Seefahrt"
 title: "Dämonische Stärkung: Seefahrt"
 Kategorie: Anrufungen

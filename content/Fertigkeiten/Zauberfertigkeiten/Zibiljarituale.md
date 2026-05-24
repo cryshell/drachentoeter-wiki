@@ -1,36 +1,51 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 2aff3785-0bab-4a9f-a500-071f08d69dcd
+ID: dd3f5741-c1b9-4e64-91a1-24f104972a1a
 Name: Zibiljarituale
 title: Zibiljarituale
 Kategorie: Zauberfertigkeiten
 Attribute:
-  - "[[Inhalt/Attribute/IN|IN]]"
-  - "[[Inhalt/Attribute/CH|CH]]"
-  - "[[Inhalt/Attribute/KO|KO]]"
+  - "[[Intuition|IN]]"
+  - "[[Charisma|CH]]"
+  - "[[Konstitution|KO]]"
 Steigerungsfaktor: 3
 Talente:
-  - "[[Inhalt/Talente/Zauber/Bienenfleiß|Bienenfleiß]]"
-  - "[[Inhalt/Talente/Zauber/Bienenkönigin|Bienenkönigin]]"
-  - "[[Inhalt/Talente/Zauber/Bienenschwarm|Bienenschwarm]]"
-  - "[[Inhalt/Talente/Zauber/Bienentanz|Bienentanz]]"
-  - "[[Inhalt/Talente/Zauber/Mackestopp|Mackestopp]]"
-  - "[[Inhalt/Talente/Zauber/Ruf des Bienenstocks|Ruf des Bienenstocks]]"
-  - "[[Inhalt/Talente/Zauber/Schwarmseele|Schwarmseele]]"
-  - "[[Inhalt/Talente/Zauber/Siegel der ewigen Ruhe|Siegel der ewigen Ruhe]]"
-  - "[[Inhalt/Talente/Zauber/Traumseherin|Traumseherin]]"
-  - "[[Inhalt/Talente/Zauber/Traumwissen|Traumwissen]]"
-  - "[[Inhalt/Talente/Zauber/Unsichtbare Chronik|Unsichtbare Chronik]]"
-  - "[[Inhalt/Talente/Zauber/Wachshaut|Wachshaut]]"
-  - "[[Inhalt/Talente/Zauber/Weisheit der Schrift|Weisheit der Schrift]]"
-  - "[[Inhalt/Talente/Zauber/Winterlager|Winterlager]]"
+  - "[[Bienenfleiß]]"
+  - "[[Bienenkönigin]]"
+  - "[[Bienenschwarm]]"
+  - "[[Bienentanz]]"
+  - "[[Mackestopp]]"
+  - "[[Ruf des Bienenstocks]]"
+  - "[[Schwarmseele]]"
+  - "[[Siegel der ewigen Ruhe]]"
+  - "[[Traumseherin]]"
+  - "[[Traumwissen]]"
+  - "[[Unsichtbare Chronik]]"
+  - "[[Wachshaut]]"
+  - "[[Weisheit der Schrift]]"
+  - "[[Winterlager]]"
 Voraussetzungen: Vorteil Tradition der Zibilja I
 ---
 Die stets weiblichen Zibiljas, Wahrsagerinnen und Traumdeuterinnen der Norbarden, kennen eine Vielzahl von Ritualen, mit denen sie ihrer Sippe helfen. Als Teil ihrer Sippe gilt jeder, auf den das Ritual Schwarmseele gesprochen wurde sowie die Zibilja selbst.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/IN|IN]], [[Inhalt/Attribute/CH|CH]], [[Inhalt/Attribute/KO|KO]]
+- **Attribute:** [[Intuition|IN]], [[Charisma|CH]], [[Konstitution|KO]]
 - **Steigerungsfaktor:** 3
-- **Talente:** [[Inhalt/Talente/Zauber/Bienenfleiß|Bienenfleiß]], [[Inhalt/Talente/Zauber/Bienenkönigin|Bienenkönigin]], [[Inhalt/Talente/Zauber/Bienenschwarm|Bienenschwarm]], [[Inhalt/Talente/Zauber/Bienentanz|Bienentanz]], [[Inhalt/Talente/Zauber/Mackestopp|Mackestopp]], [[Inhalt/Talente/Zauber/Ruf des Bienenstocks|Ruf des Bienenstocks]], [[Inhalt/Talente/Zauber/Schwarmseele|Schwarmseele]], [[Inhalt/Talente/Zauber/Siegel der ewigen Ruhe|Siegel der ewigen Ruhe]], [[Inhalt/Talente/Zauber/Traumseherin|Traumseherin]], [[Inhalt/Talente/Zauber/Traumwissen|Traumwissen]], [[Inhalt/Talente/Zauber/Unsichtbare Chronik|Unsichtbare Chronik]], [[Inhalt/Talente/Zauber/Wachshaut|Wachshaut]], [[Inhalt/Talente/Zauber/Weisheit der Schrift|Weisheit der Schrift]], [[Inhalt/Talente/Zauber/Winterlager|Winterlager]]
-- **Voraussetzungen:** Vorteil Tradition der Zibilja I
+- **Talente:**
+  - [[Bienenfleiß]]
+  - [[Bienenkönigin]]
+  - [[Bienenschwarm]]
+  - [[Bienentanz]]
+  - [[Mackestopp]]
+  - [[Ruf des Bienenstocks]]
+  - [[Schwarmseele]]
+  - [[Siegel der ewigen Ruhe]]
+  - [[Traumseherin]]
+  - [[Traumwissen]]
+  - [[Unsichtbare Chronik]]
+  - [[Wachshaut]]
+  - [[Weisheit der Schrift]]
+  - [[Winterlager]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Zibilja I]]

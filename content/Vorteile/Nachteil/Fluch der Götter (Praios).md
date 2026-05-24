@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 808cc353-6c92-4f6c-b2d9-8c0e5c8b752c
+ID: e96b10c0-03c4-4d0f-9f1c-8c626c54e089
 Name: Fluch der Götter (Praios)
 title: Fluch der Götter (Praios)
 Kategorie: Nachteil
@@ -13,4 +13,5 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Praios), Empfindlichkeit I (Pflan
 ---
 
 - **Kosten:** -200 EP
-- **Voraussetzungen:** Vorteil Vampir I
+- **Voraussetzungen:**
+  - Vorteil [[Vampir I]]

@@ -1,132 +1,243 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 83d5cff8-4fcf-4a1a-afbc-9cd2d090fb90
+ID: eb94b29b-5361-44fb-af68-9d20548bc18b
 Name: Eigenschaften
 title: Eigenschaften
 Kategorie: Zauberfertigkeiten
 Attribute:
-  - "[[Inhalt/Attribute/GE|GE]]"
-  - "[[Inhalt/Attribute/IN|IN]]"
-  - "[[Inhalt/Attribute/KO|KO]]"
+  - "[[Gewandheit|GE]]"
+  - "[[Intuition|IN]]"
+  - "[[Konstitution|KO]]"
 Steigerungsfaktor: 3
 Talente:
-  - "[[Inhalt/Talente/Zauber/Adlerauge Luchsenohr|Adlerauge Luchsenohr]]"
-  - "[[Inhalt/Talente/Zauber/Altisonus|Altisonus]]"
-  - "[[Inhalt/Talente/Zauber/Armatrutz|Armatrutz]]"
-  - "[[Inhalt/Talente/Zauber/Atemnot|Atemnot]]"
-  - "[[Inhalt/Talente/Zauber/Attributo|Attributo]]"
-  - "[[Inhalt/Talente/Zauber/Aufpeitschender Klang|Aufpeitschender Klang]]"
-  - "[[Inhalt/Talente/Zauber/Axxeleratus Blitzgeschwind|Axxeleratus Blitzgeschwind]]"
-  - "[[Inhalt/Talente/Zauber/Beute!|Beute!]]"
-  - "[[Inhalt/Talente/Zauber/Bienenfleiß|Bienenfleiß]]"
-  - "[[Inhalt/Talente/Zauber/Blutsbund|Blutsbund]]"
-  - "[[Inhalt/Talente/Zauber/Brazoraghs Hieb|Brazoraghs Hieb]]"
-  - "[[Inhalt/Talente/Zauber/Bärenrune|Bärenrune]]"
-  - "[[Inhalt/Talente/Zauber/Corpofesso Gliederschmerz|Corpofesso Gliederschmerz]]"
-  - "[[Inhalt/Talente/Zauber/Corpofrigo Kälteschock|Corpofrigo Kälteschock]]"
-  - "[[Inhalt/Talente/Zauber/Eigene Ängste quälen dich!|Eigene Ängste quälen dich!]]"
-  - "[[Inhalt/Talente/Zauber/Eigenschaft wiederherstellen|Eigenschaft wiederherstellen]]"
-  - "[[Inhalt/Talente/Zauber/Eins mit der Natur|Eins mit der Natur]]"
-  - "[[Inhalt/Talente/Zauber/Eiseskälte Kämpferherz|Eiseskälte Kämpferherz]]"
-  - "[[Inhalt/Talente/Zauber/Entgifterrune|Entgifterrune]]"
-  - "[[Inhalt/Talente/Zauber/Erinnerungsmelodie|Erinnerungsmelodie]]"
-  - "[[Inhalt/Talente/Zauber/Falkenauge Meisterschuss|Falkenauge Meisterschuss]]"
-  - "[[Inhalt/Talente/Zauber/Fanal der Herrschaft|Fanal der Herrschaft]]"
-  - "[[Inhalt/Talente/Zauber/Felsenrune|Felsenrune]]"
-  - "[[Inhalt/Talente/Zauber/Firnlauf|Firnlauf]]"
-  - "[[Inhalt/Talente/Zauber/Fluch des Unglücks|Fluch des Unglücks]]"
-  - "[[Inhalt/Talente/Zauber/Geistertausch|Geistertausch]]"
-  - "[[Inhalt/Talente/Zauber/Glyphe des verfluchten Goldes|Glyphe des verfluchten Goldes]]"
-  - "[[Inhalt/Talente/Zauber/Griff des Pirschers|Griff des Pirschers]]"
-  - "[[Inhalt/Talente/Zauber/Große Verwirrung|Große Verwirrung]]"
-  - "[[Inhalt/Talente/Zauber/Hauch des (Tieres)|Hauch des (Tieres)]]"
-  - "[[Inhalt/Talente/Zauber/Herzschlag ruhe!|Herzschlag ruhe!]]"
-  - "[[Inhalt/Talente/Zauber/Hexengalle|Hexengalle]]"
-  - "[[Inhalt/Talente/Zauber/Hexenkrallen|Hexenkrallen]]"
-  - "[[Inhalt/Talente/Zauber/Hexenschuss|Hexenschuss]]"
-  - "[[Inhalt/Talente/Zauber/Kakophonie des Wahnsinns|Kakophonie des Wahnsinns]]"
-  - "[[Inhalt/Talente/Zauber/Karnifilo Raserei|Karnifilo Raserei]]"
-  - "[[Inhalt/Talente/Zauber/Katzenaugen|Katzenaugen]]"
-  - "[[Inhalt/Talente/Zauber/Kleine Geisterstärkung|Kleine Geisterstärkung]]"
-  - "[[Inhalt/Talente/Zauber/Kraft der Tayas|Kraft der Tayas]]"
-  - "[[Inhalt/Talente/Zauber/Kraft des (Tieres)|Kraft des (Tieres)]]"
-  - "[[Inhalt/Talente/Zauber/Krötensprung|Krötensprung]]"
-  - "[[Inhalt/Talente/Zauber/Launen des Windes|Launen des Windes]]"
-  - "[[Inhalt/Talente/Zauber/Lebensrune|Lebensrune]]"
-  - "[[Inhalt/Talente/Zauber/Licht des Dolches|Licht des Dolches]]"
-  - "[[Inhalt/Talente/Zauber/Lied der Weisheit|Lied der Weisheit]]"
-  - "[[Inhalt/Talente/Zauber/Lied des Meeres|Lied des Meeres]]"
-  - "[[Inhalt/Talente/Zauber/Lied des Trostes|Lied des Trostes]]"
-  - "[[Inhalt/Talente/Zauber/Lied des Wanderers|Lied des Wanderers]]"
-  - "[[Inhalt/Talente/Zauber/Mackestopp|Mackestopp]]"
-  - "[[Inhalt/Talente/Zauber/Mailam Rekdais Segen|Mailam Rekdais Segen]]"
-  - "[[Inhalt/Talente/Zauber/Melodie der Ermutigung|Melodie der Ermutigung]]"
-  - "[[Inhalt/Talente/Zauber/Melodie der Kunstfertigkeit|Melodie der Kunstfertigkeit]]"
-  - "[[Inhalt/Talente/Zauber/Melodie der Verwirrung|Melodie der Verwirrung]]"
-  - "[[Inhalt/Talente/Zauber/Melodie des Zauberschutzes|Melodie des Zauberschutzes]]"
-  - "[[Inhalt/Talente/Zauber/Memorans Gedächtniskraft|Memorans Gedächtniskraft]]"
-  - "[[Inhalt/Talente/Zauber/Movimento Dauerlauf|Movimento Dauerlauf]]"
-  - "[[Inhalt/Talente/Zauber/Mut der Ahnen|Mut der Ahnen]]"
-  - "[[Inhalt/Talente/Zauber/Natûru-Gons Hieb|Natûru-Gons Hieb]]"
-  - "[[Inhalt/Talente/Zauber/Orkanstimmenrune|Orkanstimmenrune]]"
-  - "[[Inhalt/Talente/Zauber/Ottarune|Ottarune]]"
-  - "[[Inhalt/Talente/Zauber/Pech an den Hals wünschen|Pech an den Hals wünschen]]"
-  - "[[Inhalt/Talente/Zauber/Pfad der Blutrache|Pfad der Blutrache]]"
-  - "[[Inhalt/Talente/Zauber/Plumbumbarum schwerer Arm|Plumbumbarum schwerer Arm]]"
-  - "[[Inhalt/Talente/Zauber/Psychostabilis|Psychostabilis]]"
-  - "[[Inhalt/Talente/Zauber/Rauschrune|Rauschrune]]"
-  - "[[Inhalt/Talente/Zauber/Rhythmen der Ermutigung|Rhythmen der Ermutigung]]"
-  - "[[Inhalt/Talente/Zauber/Rhythmen der Geschwindigkeit|Rhythmen der Geschwindigkeit]]"
-  - "[[Inhalt/Talente/Zauber/Rhythmen der Jagd|Rhythmen der Jagd]]"
-  - "[[Inhalt/Talente/Zauber/Rhythmen des Krieges|Rhythmen des Krieges]]"
-  - "[[Inhalt/Talente/Zauber/Rhythmen des Rausches|Rhythmen des Rausches]]"
-  - "[[Inhalt/Talente/Zauber/Rhythmen des Schutzes|Rhythmen des Schutzes]]"
-  - "[[Inhalt/Talente/Zauber/Rhythmen des Sturmes|Rhythmen des Sturmes]]"
-  - "[[Inhalt/Talente/Zauber/Satuarias Herrlichkeit|Satuarias Herrlichkeit]]"
-  - "[[Inhalt/Talente/Zauber/Schicksalsrune|Schicksalsrune]]"
-  - "[[Inhalt/Talente/Zauber/Schlachtlied|Schlachtlied]]"
-  - "[[Inhalt/Talente/Zauber/Schomas Kraft|Schomas Kraft]]"
-  - "[[Inhalt/Talente/Zauber/Schriller Klang|Schriller Klang]]"
-  - "[[Inhalt/Talente/Zauber/Schwarz und Rot|Schwarz und Rot]]"
-  - "[[Inhalt/Talente/Zauber/Seelenwanderung|Seelenwanderung]]"
-  - "[[Inhalt/Talente/Zauber/Sensattaco Meisterstreich|Sensattaco Meisterstreich]]"
-  - "[[Inhalt/Talente/Zauber/Sinn trüben|Sinn trüben]]"
-  - "[[Inhalt/Talente/Zauber/Spinnenlauf|Spinnenlauf]]"
-  - "[[Inhalt/Talente/Zauber/Standfest Katzengleich|Standfest Katzengleich]]"
-  - "[[Inhalt/Talente/Zauber/Stärke des Blutgeists|Stärke des Blutgeists]]"
-  - "[[Inhalt/Talente/Zauber/Stärke des untoten Leibs|Stärke des untoten Leibs]]"
-  - "[[Inhalt/Talente/Zauber/Tanz der Beweglichkeit|Tanz der Beweglichkeit]]"
-  - "[[Inhalt/Talente/Zauber/Tanz der Ermutigung|Tanz der Ermutigung]]"
-  - "[[Inhalt/Talente/Zauber/Tanz der Jagd|Tanz der Jagd]]"
-  - "[[Inhalt/Talente/Zauber/Tanz der Unantastbarkeit|Tanz der Unantastbarkeit]]"
-  - "[[Inhalt/Talente/Zauber/Tanz der Verwirrung|Tanz der Verwirrung]]"
-  - "[[Inhalt/Talente/Zauber/Tanz der Weisheit|Tanz der Weisheit]]"
-  - "[[Inhalt/Talente/Zauber/Tanz des Ungehorsams|Tanz des Ungehorsams]]"
-  - "[[Inhalt/Talente/Zauber/Tiersinne|Tiersinne]]"
-  - "[[Inhalt/Talente/Zauber/Waberlohenrune|Waberlohenrune]]"
-  - "[[Inhalt/Talente/Zauber/Waffenrune|Waffenrune]]"
-  - "[[Inhalt/Talente/Zauber/Warmes Blut|Warmes Blut]]"
-  - "[[Inhalt/Talente/Zauber/Warnender Klang|Warnender Klang]]"
-  - "[[Inhalt/Talente/Zauber/Weckruf|Weckruf]]"
-  - "[[Inhalt/Talente/Zauber/Weg des Windes|Weg des Windes]]"
-  - "[[Inhalt/Talente/Zauber/Weidegründe finden|Weidegründe finden]]"
-  - "[[Inhalt/Talente/Zauber/Weisheit der Schrift|Weisheit der Schrift]]"
-  - "[[Inhalt/Talente/Zauber/Wellenlauf|Wellenlauf]]"
-  - "[[Inhalt/Talente/Zauber/Wild finden|Wild finden]]"
-  - "[[Inhalt/Talente/Zauber/Winterlager|Winterlager]]"
-  - "[[Inhalt/Talente/Zauber/Wipfellauf|Wipfellauf]]"
-  - "[[Inhalt/Talente/Zauber/Zaubermelodie|Zaubermelodie]]"
-  - "[[Inhalt/Talente/Zauber/Zaubernahrung Hungerbann|Zaubernahrung Hungerbann]]"
-  - "[[Inhalt/Talente/Zauber/Zorn des Berglöwen|Zorn des Berglöwen]]"
-  - "[[Inhalt/Talente/Zauber/Zunge lähmen|Zunge lähmen]]"
-  - "[[Inhalt/Talente/Zauber/Zungenschwellung|Zungenschwellung]]"
+  - "[[Adlerauge Luchsenohr]]"
+  - "[[Altisonus]]"
+  - "[[Armatrutz]]"
+  - "[[Atemnot]]"
+  - "[[Attributo]]"
+  - "[[Aufpeitschender Klang]]"
+  - "[[Axxeleratus Blitzgeschwind]]"
+  - "[[Beute|Beute!]]"
+  - "[[Bienenfleiß]]"
+  - "[[Blutsbund]]"
+  - "[[Brazoraghs Hieb]]"
+  - "[[Bärenrune]]"
+  - "[[Corpofesso Gliederschmerz]]"
+  - "[[Corpofrigo Kälteschock]]"
+  - "[[Eigene Ängste quälen dich|Eigene Ängste quälen dich!]]"
+  - "[[Eigenschaft wiederherstellen]]"
+  - "[[Eins mit der Natur]]"
+  - "[[Eiseskälte Kämpferherz]]"
+  - "[[Entgifterrune]]"
+  - "[[Erinnerungsmelodie]]"
+  - "[[Falkenauge Meisterschuss]]"
+  - "[[Fanal der Herrschaft]]"
+  - "[[Felsenrune]]"
+  - "[[Firnlauf]]"
+  - "[[Fluch des Unglücks]]"
+  - "[[Geistertausch]]"
+  - "[[Glyphe des verfluchten Goldes]]"
+  - "[[Griff des Pirschers]]"
+  - "[[Große Verwirrung]]"
+  - "[[Hauch des (Tieres)]]"
+  - "[[Herzschlag ruhe|Herzschlag ruhe!]]"
+  - "[[Hexengalle]]"
+  - "[[Hexenkrallen]]"
+  - "[[Hexenschuss]]"
+  - "[[Kakophonie des Wahnsinns]]"
+  - "[[Karnifilo Raserei]]"
+  - "[[Katzenaugen]]"
+  - "[[Kleine Geisterstärkung]]"
+  - "[[Kraft der Tayas]]"
+  - "[[Kraft des (Tieres)]]"
+  - "[[Krötensprung]]"
+  - "[[Launen des Windes]]"
+  - "[[Lebensrune]]"
+  - "[[Licht des Dolches]]"
+  - "[[Lied der Weisheit]]"
+  - "[[Lied des Meeres]]"
+  - "[[Lied des Trostes]]"
+  - "[[Lied des Wanderers]]"
+  - "[[Mackestopp]]"
+  - "[[Mailam Rekdais Segen]]"
+  - "[[Melodie der Ermutigung]]"
+  - "[[Melodie der Kunstfertigkeit]]"
+  - "[[Melodie der Verwirrung]]"
+  - "[[Melodie des Zauberschutzes]]"
+  - "[[Memorans Gedächtniskraft]]"
+  - "[[Movimento Dauerlauf]]"
+  - "[[Mut der Ahnen]]"
+  - "[[Natûru-Gons Hieb]]"
+  - "[[Orkanstimmenrune]]"
+  - "[[Ottarune]]"
+  - "[[Pech an den Hals wünschen]]"
+  - "[[Pfad der Blutrache]]"
+  - "[[Plumbumbarum schwerer Arm]]"
+  - "[[Psychostabilis]]"
+  - "[[Rauschrune]]"
+  - "[[Rhythmen der Ermutigung]]"
+  - "[[Rhythmen der Geschwindigkeit]]"
+  - "[[Rhythmen der Jagd]]"
+  - "[[Rhythmen des Krieges]]"
+  - "[[Rhythmen des Rausches]]"
+  - "[[Rhythmen des Schutzes]]"
+  - "[[Rhythmen des Sturmes]]"
+  - "[[Satuarias Herrlichkeit]]"
+  - "[[Schicksalsrune]]"
+  - "[[Schlachtlied]]"
+  - "[[Schomas Kraft]]"
+  - "[[Schriller Klang]]"
+  - "[[Schwarz und Rot]]"
+  - "[[Seelenwanderung]]"
+  - "[[Sensattaco Meisterstreich]]"
+  - "[[Sinn trüben]]"
+  - "[[Spinnenlauf]]"
+  - "[[Standfest Katzengleich]]"
+  - "[[Stärke des Blutgeists]]"
+  - "[[Stärke des untoten Leibs]]"
+  - "[[Tanz der Beweglichkeit]]"
+  - "[[Tanz der Ermutigung]]"
+  - "[[Tanz der Jagd]]"
+  - "[[Tanz der Unantastbarkeit]]"
+  - "[[Tanz der Verwirrung]]"
+  - "[[Tanz der Weisheit]]"
+  - "[[Tanz des Ungehorsams]]"
+  - "[[Tiersinne]]"
+  - "[[Waberlohenrune]]"
+  - "[[Waffenrune]]"
+  - "[[Warmes Blut]]"
+  - "[[Warnender Klang]]"
+  - "[[Weckruf]]"
+  - "[[Weg des Windes]]"
+  - "[[Weidegründe finden]]"
+  - "[[Weisheit der Schrift]]"
+  - "[[Wellenlauf]]"
+  - "[[Wild finden]]"
+  - "[[Winterlager]]"
+  - "[[Wipfellauf]]"
+  - "[[Zaubermelodie]]"
+  - "[[Zaubernahrung Hungerbann]]"
+  - "[[Zorn des Berglöwen]]"
+  - "[[Zunge lähmen]]"
+  - "[[Zungenschwellung]]"
 Voraussetzungen: Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Shakagra I
 ---
 Mit Eigenschaftsmagie kannst du deine Fähigkeiten und die deiner Gefährten verbessern oder Feinde behindern.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/GE|GE]], [[Inhalt/Attribute/IN|IN]], [[Inhalt/Attribute/KO|KO]]
+- **Attribute:** [[Gewandheit|GE]], [[Intuition|IN]], [[Konstitution|KO]]
 - **Steigerungsfaktor:** 3
-- **Talente:** [[Inhalt/Talente/Zauber/Adlerauge Luchsenohr|Adlerauge Luchsenohr]], [[Inhalt/Talente/Zauber/Altisonus|Altisonus]], [[Inhalt/Talente/Zauber/Armatrutz|Armatrutz]], [[Inhalt/Talente/Zauber/Atemnot|Atemnot]], [[Inhalt/Talente/Zauber/Attributo|Attributo]], [[Inhalt/Talente/Zauber/Aufpeitschender Klang|Aufpeitschender Klang]], [[Inhalt/Talente/Zauber/Axxeleratus Blitzgeschwind|Axxeleratus Blitzgeschwind]], [[Inhalt/Talente/Zauber/Beute!|Beute!]], [[Inhalt/Talente/Zauber/Bienenfleiß|Bienenfleiß]], [[Inhalt/Talente/Zauber/Blutsbund|Blutsbund]], [[Inhalt/Talente/Zauber/Brazoraghs Hieb|Brazoraghs Hieb]], [[Inhalt/Talente/Zauber/Bärenrune|Bärenrune]], [[Inhalt/Talente/Zauber/Corpofesso Gliederschmerz|Corpofesso Gliederschmerz]], [[Inhalt/Talente/Zauber/Corpofrigo Kälteschock|Corpofrigo Kälteschock]], [[Inhalt/Talente/Zauber/Eigene Ängste quälen dich!|Eigene Ängste quälen dich!]], [[Inhalt/Talente/Zauber/Eigenschaft wiederherstellen|Eigenschaft wiederherstellen]], [[Inhalt/Talente/Zauber/Eins mit der Natur|Eins mit der Natur]], [[Inhalt/Talente/Zauber/Eiseskälte Kämpferherz|Eiseskälte Kämpferherz]], [[Inhalt/Talente/Zauber/Entgifterrune|Entgifterrune]], [[Inhalt/Talente/Zauber/Erinnerungsmelodie|Erinnerungsmelodie]], [[Inhalt/Talente/Zauber/Falkenauge Meisterschuss|Falkenauge Meisterschuss]], [[Inhalt/Talente/Zauber/Fanal der Herrschaft|Fanal der Herrschaft]], [[Inhalt/Talente/Zauber/Felsenrune|Felsenrune]], [[Inhalt/Talente/Zauber/Firnlauf|Firnlauf]], [[Inhalt/Talente/Zauber/Fluch des Unglücks|Fluch des Unglücks]], [[Inhalt/Talente/Zauber/Geistertausch|Geistertausch]], [[Inhalt/Talente/Zauber/Glyphe des verfluchten Goldes|Glyphe des verfluchten Goldes]], [[Inhalt/Talente/Zauber/Griff des Pirschers|Griff des Pirschers]], [[Inhalt/Talente/Zauber/Große Verwirrung|Große Verwirrung]], [[Inhalt/Talente/Zauber/Hauch des (Tieres)|Hauch des (Tieres)]], [[Inhalt/Talente/Zauber/Herzschlag ruhe!|Herzschlag ruhe!]], [[Inhalt/Talente/Zauber/Hexengalle|Hexengalle]], [[Inhalt/Talente/Zauber/Hexenkrallen|Hexenkrallen]], [[Inhalt/Talente/Zauber/Hexenschuss|Hexenschuss]], [[Inhalt/Talente/Zauber/Kakophonie des Wahnsinns|Kakophonie des Wahnsinns]], [[Inhalt/Talente/Zauber/Karnifilo Raserei|Karnifilo Raserei]], [[Inhalt/Talente/Zauber/Katzenaugen|Katzenaugen]], [[Inhalt/Talente/Zauber/Kleine Geisterstärkung|Kleine Geisterstärkung]], [[Inhalt/Talente/Zauber/Kraft der Tayas|Kraft der Tayas]], [[Inhalt/Talente/Zauber/Kraft des (Tieres)|Kraft des (Tieres)]], [[Inhalt/Talente/Zauber/Krötensprung|Krötensprung]], [[Inhalt/Talente/Zauber/Launen des Windes|Launen des Windes]], [[Inhalt/Talente/Zauber/Lebensrune|Lebensrune]], [[Inhalt/Talente/Zauber/Licht des Dolches|Licht des Dolches]], [[Inhalt/Talente/Zauber/Lied der Weisheit|Lied der Weisheit]], [[Inhalt/Talente/Zauber/Lied des Meeres|Lied des Meeres]], [[Inhalt/Talente/Zauber/Lied des Trostes|Lied des Trostes]], [[Inhalt/Talente/Zauber/Lied des Wanderers|Lied des Wanderers]], [[Inhalt/Talente/Zauber/Mackestopp|Mackestopp]], [[Inhalt/Talente/Zauber/Mailam Rekdais Segen|Mailam Rekdais Segen]], [[Inhalt/Talente/Zauber/Melodie der Ermutigung|Melodie der Ermutigung]], [[Inhalt/Talente/Zauber/Melodie der Kunstfertigkeit|Melodie der Kunstfertigkeit]], [[Inhalt/Talente/Zauber/Melodie der Verwirrung|Melodie der Verwirrung]], [[Inhalt/Talente/Zauber/Melodie des Zauberschutzes|Melodie des Zauberschutzes]], [[Inhalt/Talente/Zauber/Memorans Gedächtniskraft|Memorans Gedächtniskraft]], [[Inhalt/Talente/Zauber/Movimento Dauerlauf|Movimento Dauerlauf]], [[Inhalt/Talente/Zauber/Mut der Ahnen|Mut der Ahnen]], [[Inhalt/Talente/Zauber/Natûru-Gons Hieb|Natûru-Gons Hieb]], [[Inhalt/Talente/Zauber/Orkanstimmenrune|Orkanstimmenrune]], [[Inhalt/Talente/Zauber/Ottarune|Ottarune]], [[Inhalt/Talente/Zauber/Pech an den Hals wünschen|Pech an den Hals wünschen]], [[Inhalt/Talente/Zauber/Pfad der Blutrache|Pfad der Blutrache]], [[Inhalt/Talente/Zauber/Plumbumbarum schwerer Arm|Plumbumbarum schwerer Arm]], [[Inhalt/Talente/Zauber/Psychostabilis|Psychostabilis]], [[Inhalt/Talente/Zauber/Rauschrune|Rauschrune]], [[Inhalt/Talente/Zauber/Rhythmen der Ermutigung|Rhythmen der Ermutigung]], [[Inhalt/Talente/Zauber/Rhythmen der Geschwindigkeit|Rhythmen der Geschwindigkeit]], [[Inhalt/Talente/Zauber/Rhythmen der Jagd|Rhythmen der Jagd]], [[Inhalt/Talente/Zauber/Rhythmen des Krieges|Rhythmen des Krieges]], [[Inhalt/Talente/Zauber/Rhythmen des Rausches|Rhythmen des Rausches]], [[Inhalt/Talente/Zauber/Rhythmen des Schutzes|Rhythmen des Schutzes]], [[Inhalt/Talente/Zauber/Rhythmen des Sturmes|Rhythmen des Sturmes]], [[Inhalt/Talente/Zauber/Satuarias Herrlichkeit|Satuarias Herrlichkeit]], [[Inhalt/Talente/Zauber/Schicksalsrune|Schicksalsrune]], [[Inhalt/Talente/Zauber/Schlachtlied|Schlachtlied]], [[Inhalt/Talente/Zauber/Schomas Kraft|Schomas Kraft]], [[Inhalt/Talente/Zauber/Schriller Klang|Schriller Klang]], [[Inhalt/Talente/Zauber/Schwarz und Rot|Schwarz und Rot]], [[Inhalt/Talente/Zauber/Seelenwanderung|Seelenwanderung]], [[Inhalt/Talente/Zauber/Sensattaco Meisterstreich|Sensattaco Meisterstreich]], [[Inhalt/Talente/Zauber/Sinn trüben|Sinn trüben]], [[Inhalt/Talente/Zauber/Spinnenlauf|Spinnenlauf]], [[Inhalt/Talente/Zauber/Standfest Katzengleich|Standfest Katzengleich]], [[Inhalt/Talente/Zauber/Stärke des Blutgeists|Stärke des Blutgeists]], [[Inhalt/Talente/Zauber/Stärke des untoten Leibs|Stärke des untoten Leibs]], [[Inhalt/Talente/Zauber/Tanz der Beweglichkeit|Tanz der Beweglichkeit]], [[Inhalt/Talente/Zauber/Tanz der Ermutigung|Tanz der Ermutigung]], [[Inhalt/Talente/Zauber/Tanz der Jagd|Tanz der Jagd]], [[Inhalt/Talente/Zauber/Tanz der Unantastbarkeit|Tanz der Unantastbarkeit]], [[Inhalt/Talente/Zauber/Tanz der Verwirrung|Tanz der Verwirrung]], [[Inhalt/Talente/Zauber/Tanz der Weisheit|Tanz der Weisheit]], [[Inhalt/Talente/Zauber/Tanz des Ungehorsams|Tanz des Ungehorsams]], [[Inhalt/Talente/Zauber/Tiersinne|Tiersinne]], [[Inhalt/Talente/Zauber/Waberlohenrune|Waberlohenrune]], [[Inhalt/Talente/Zauber/Waffenrune|Waffenrune]], [[Inhalt/Talente/Zauber/Warmes Blut|Warmes Blut]], [[Inhalt/Talente/Zauber/Warnender Klang|Warnender Klang]], [[Inhalt/Talente/Zauber/Weckruf|Weckruf]], [[Inhalt/Talente/Zauber/Weg des Windes|Weg des Windes]], [[Inhalt/Talente/Zauber/Weidegründe finden|Weidegründe finden]], [[Inhalt/Talente/Zauber/Weisheit der Schrift|Weisheit der Schrift]], [[Inhalt/Talente/Zauber/Wellenlauf|Wellenlauf]], [[Inhalt/Talente/Zauber/Wild finden|Wild finden]], [[Inhalt/Talente/Zauber/Winterlager|Winterlager]], [[Inhalt/Talente/Zauber/Wipfellauf|Wipfellauf]], [[Inhalt/Talente/Zauber/Zaubermelodie|Zaubermelodie]], [[Inhalt/Talente/Zauber/Zaubernahrung Hungerbann|Zaubernahrung Hungerbann]], [[Inhalt/Talente/Zauber/Zorn des Berglöwen|Zorn des Berglöwen]], [[Inhalt/Talente/Zauber/Zunge lähmen|Zunge lähmen]], [[Inhalt/Talente/Zauber/Zungenschwellung|Zungenschwellung]]
-- **Voraussetzungen:** Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Shakagra I
+- **Talente:**
+  - [[Adlerauge Luchsenohr]]
+  - [[Altisonus]]
+  - [[Armatrutz]]
+  - [[Atemnot]]
+  - [[Attributo]]
+  - [[Aufpeitschender Klang]]
+  - [[Axxeleratus Blitzgeschwind]]
+  - [[Beute|Beute!]]
+  - [[Bienenfleiß]]
+  - [[Blutsbund]]
+  - [[Brazoraghs Hieb]]
+  - [[Bärenrune]]
+  - [[Corpofesso Gliederschmerz]]
+  - [[Corpofrigo Kälteschock]]
+  - [[Eigene Ängste quälen dich|Eigene Ängste quälen dich!]]
+  - [[Eigenschaft wiederherstellen]]
+  - [[Eins mit der Natur]]
+  - [[Eiseskälte Kämpferherz]]
+  - [[Entgifterrune]]
+  - [[Erinnerungsmelodie]]
+  - [[Falkenauge Meisterschuss]]
+  - [[Fanal der Herrschaft]]
+  - [[Felsenrune]]
+  - [[Firnlauf]]
+  - [[Fluch des Unglücks]]
+  - [[Geistertausch]]
+  - [[Glyphe des verfluchten Goldes]]
+  - [[Griff des Pirschers]]
+  - [[Große Verwirrung]]
+  - [[Hauch des (Tieres)]]
+  - [[Herzschlag ruhe|Herzschlag ruhe!]]
+  - [[Hexengalle]]
+  - [[Hexenkrallen]]
+  - [[Hexenschuss]]
+  - [[Kakophonie des Wahnsinns]]
+  - [[Karnifilo Raserei]]
+  - [[Katzenaugen]]
+  - [[Kleine Geisterstärkung]]
+  - [[Kraft der Tayas]]
+  - [[Kraft des (Tieres)]]
+  - [[Krötensprung]]
+  - [[Launen des Windes]]
+  - [[Lebensrune]]
+  - [[Licht des Dolches]]
+  - [[Lied der Weisheit]]
+  - [[Lied des Meeres]]
+  - [[Lied des Trostes]]
+  - [[Lied des Wanderers]]
+  - [[Mackestopp]]
+  - [[Mailam Rekdais Segen]]
+  - [[Melodie der Ermutigung]]
+  - [[Melodie der Kunstfertigkeit]]
+  - [[Melodie der Verwirrung]]
+  - [[Melodie des Zauberschutzes]]
+  - [[Memorans Gedächtniskraft]]
+  - [[Movimento Dauerlauf]]
+  - [[Mut der Ahnen]]
+  - [[Natûru-Gons Hieb]]
+  - [[Orkanstimmenrune]]
+  - [[Ottarune]]
+  - [[Pech an den Hals wünschen]]
+  - [[Pfad der Blutrache]]
+  - [[Plumbumbarum schwerer Arm]]
+  - [[Psychostabilis]]
+  - [[Rauschrune]]
+  - [[Rhythmen der Ermutigung]]
+  - [[Rhythmen der Geschwindigkeit]]
+  - [[Rhythmen der Jagd]]
+  - [[Rhythmen des Krieges]]
+  - [[Rhythmen des Rausches]]
+  - [[Rhythmen des Schutzes]]
+  - [[Rhythmen des Sturmes]]
+  - [[Satuarias Herrlichkeit]]
+  - [[Schicksalsrune]]
+  - [[Schlachtlied]]
+  - [[Schomas Kraft]]
+  - [[Schriller Klang]]
+  - [[Schwarz und Rot]]
+  - [[Seelenwanderung]]
+  - [[Sensattaco Meisterstreich]]
+  - [[Sinn trüben]]
+  - [[Spinnenlauf]]
+  - [[Standfest Katzengleich]]
+  - [[Stärke des Blutgeists]]
+  - [[Stärke des untoten Leibs]]
+  - [[Tanz der Beweglichkeit]]
+  - [[Tanz der Ermutigung]]
+  - [[Tanz der Jagd]]
+  - [[Tanz der Unantastbarkeit]]
+  - [[Tanz der Verwirrung]]
+  - [[Tanz der Weisheit]]
+  - [[Tanz des Ungehorsams]]
+  - [[Tiersinne]]
+  - [[Waberlohenrune]]
+  - [[Waffenrune]]
+  - [[Warmes Blut]]
+  - [[Warnender Klang]]
+  - [[Weckruf]]
+  - [[Weg des Windes]]
+  - [[Weidegründe finden]]
+  - [[Weisheit der Schrift]]
+  - [[Wellenlauf]]
+  - [[Wild finden]]
+  - [[Winterlager]]
+  - [[Wipfellauf]]
+  - [[Zaubermelodie]]
+  - [[Zaubernahrung Hungerbann]]
+  - [[Zorn des Berglöwen]]
+  - [[Zunge lähmen]]
+  - [[Zungenschwellung]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Shakagra I]]

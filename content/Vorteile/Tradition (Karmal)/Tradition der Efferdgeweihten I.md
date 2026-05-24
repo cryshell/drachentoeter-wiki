@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 78241f44-d3e7-48d4-93e8-732cdfc120f3
+ID: 8eafd61c-f60f-4781-bd53-432fa548f148
 Name: Tradition der Efferdgeweihten I
 title: Tradition der Efferdgeweihten I
 Kategorie: Tradition (Karmal)
@@ -19,6 +19,6 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen Efferds Gebote verstößt: Feue
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut IN 4"
-  - "Vorteil Geweiht I"
-  - "Kein Vorteil Tradition der *geweihten I"
+  - Attribut [[Intuition|IN]] 4
+  - Vorteil [[Geweiht I]]
+  - Kein Vorteil Tradition der *geweihten I

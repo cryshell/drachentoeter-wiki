@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 469f83a3-863f-4a37-904e-a4e8a76496d3
+ID: 70e93ca2-ec94-4b17-83e0-6f71b7861d5c
 Name: Tradition der Zaubertänzer IV
 title: Tradition der Zaubertänzer IV
 Kategorie: Tradition (Magisch)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut GE 10"
-  - "Vorteil Tradition der Zaubertänzer III"
+  - MeisterAttribut [[Gewandheit|GE]] 10
+  - Vorteil [[Tradition der Zaubertänzer III]]

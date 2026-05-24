@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2cd0efd2-caae-487e-b562-828e7e55c89a
+ID: 8b8b7c99-9868-447d-9f3c-e753bf0a04f7
 Name: Wahre Namen Charyptoroths I
 title: Wahre Namen Charyptoroths I
 Kategorie: Wahre Namen
@@ -16,5 +16,5 @@ Du kannst alle Dämonen Charyptoroths bis zu einer Beschwörungsschwierigkeit vo
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
-  - "Attribut KL 4"
+  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Attribut [[Klugheit|KL]] 4

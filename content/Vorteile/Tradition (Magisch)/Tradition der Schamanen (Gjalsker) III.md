@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: bd6c88f0-bb81-46d7-855f-8544bfda0bf8
+ID: 9e533518-843a-4998-881c-9a762c4f06ec
 Name: Tradition der Schamanen (Gjalsker) III
 title: Tradition der Schamanen (Gjalsker) III
 Kategorie: Tradition (Magisch)
@@ -8,7 +8,7 @@ Voraussetzungen:
   - Attribut IN 8
   - Vorteil Tradition der Schamanen (Gjalsker) II
 Querverweise:
-  - "[[Inhalt/Kapitel/Zeremonie (M)|Zeremonie (M)]]"
+  - "[[Zeremonie (M)]]"
 Nachkauf: häufig
 Kosten: 60
 ---
@@ -18,6 +18,6 @@ Erlaubt die spontane Modifikation Zeremonie.
 
 - **Kosten:** 60 EP
 - **Voraussetzungen:**
-  - "Attribut IN 8"
-  - "Vorteil Tradition der Schamanen (Gjalsker) II"
-- **Siehe auch:** [[Inhalt/Kapitel/Zeremonie (M)|Zeremonie (M)]]
+  - Attribut [[Intuition|IN]] 8
+  - Vorteil [[Tradition der Schamanen (Gjalsker) II]]
+- **Siehe auch:** [[Zeremonie (M)]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a8ae9e18-f070-4a94-b482-65a108ba7192
+ID: 983bc6c9-3e69-4879-b4c1-ec5e715d2f9a
 Name: Fluch der Götter (Satuaria)
 title: Fluch der Götter (Satuaria)
 Kategorie: Nachteil
@@ -13,4 +13,5 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Satuaria), Empfindlichkeit I (Pfl
 ---
 
 - **Kosten:** -200 EP
-- **Voraussetzungen:** Vorteil Vampir I
+- **Voraussetzungen:**
+  - Vorteil [[Vampir I]]

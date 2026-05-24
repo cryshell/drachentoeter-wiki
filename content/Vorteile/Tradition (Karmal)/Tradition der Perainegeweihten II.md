@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 07133b15-3209-4de5-8190-73af6b1daf37
+ID: 049b22a1-36c4-457d-afcc-ebcdfb6e3f96
 Name: Tradition der Perainegeweihten II
 title: Tradition der Perainegeweihten II
 Kategorie: Tradition (Karmal)
@@ -8,7 +8,7 @@ Voraussetzungen:
   - Attribut CH 6
   - Vorteil Tradition der Perainegeweihten I
 Querverweise:
-  - "[[Inhalt/Kapitel/Liturgische Technik ignorieren|Liturgische Technik ignorieren]]"
+  - "[[Liturgische Technik ignorieren]]"
 Nachkauf: häufig
 Kosten: 40
 ---
@@ -18,6 +18,6 @@ Perainegeweihte nutzen ihre Kräfte pragmatisch. Du kannst bei Liturgien die Mod
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut CH 6"
-  - "Vorteil Tradition der Perainegeweihten I"
-- **Siehe auch:** [[Inhalt/Kapitel/Liturgische Technik ignorieren|Liturgische Technik ignorieren]]
+  - Attribut [[Charisma|CH]] 6
+  - Vorteil [[Tradition der Perainegeweihten I]]
+- **Siehe auch:** [[Liturgische Technik ignorieren]]

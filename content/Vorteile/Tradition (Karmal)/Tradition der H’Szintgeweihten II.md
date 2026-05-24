@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 34e91bdd-cd55-4415-b38a-bdd5855e7bc0
+ID: 82ad78ff-4420-4b2e-ae09-671b9468e84d
 Name: Tradition der H’Szintgeweihten II
 title: Tradition der H’Szintgeweihten II
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ H’Szintgeweihte können auch mit mehrfach veränderten Liturgien gut umgehen. 
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut KL 6"
-  - "Vorteil Tradition der H’Szintgeweihten I"
+  - Attribut [[Klugheit|KL]] 6
+  - Vorteil [[Tradition der H’Szintgeweihten I]]

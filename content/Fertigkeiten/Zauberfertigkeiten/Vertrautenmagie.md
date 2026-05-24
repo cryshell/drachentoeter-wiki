@@ -1,26 +1,26 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 044b61f9-d104-4461-9c45-c109d24680d8
+ID: 3dfc09e7-033a-460a-9118-bceb85b439d4
 Name: Vertrautenmagie
 title: Vertrautenmagie
 Kategorie: Zauberfertigkeiten
 Attribute:
-  - "[[Inhalt/Attribute/CH|CH]]"
-  - "[[Inhalt/Attribute/IN|IN]]"
-  - "[[Inhalt/Attribute/IN|IN]]"
+  - "[[Charisma|CH]]"
+  - "[[Intuition|IN]]"
+  - "[[Intuition|IN]]"
 Steigerungsfaktor: 2
 Talente:
-  - "[[Inhalt/Talente/Zauber/Bindung des Vertrauten|Bindung des Vertrauten]]"
-  - "[[Inhalt/Talente/Zauber/Bindungspartner finden|Bindungspartner finden]]"
-  - "[[Inhalt/Talente/Zauber/Dinge aufspüren|Dinge aufspüren]]"
-  - "[[Inhalt/Talente/Zauber/Erster unter gleichen|Erster unter gleichen]]"
-  - "[[Inhalt/Talente/Zauber/Letzter Ausweg|Letzter Ausweg]]"
-  - "[[Inhalt/Talente/Zauber/Schlaf rauben|Schlaf rauben]]"
-  - "[[Inhalt/Talente/Zauber/Stimmungssinn|Stimmungssinn]]"
-  - "[[Inhalt/Talente/Zauber/Tarnung|Tarnung]]"
-  - "[[Inhalt/Talente/Zauber/Tiersinne|Tiersinne]]"
-  - "[[Inhalt/Talente/Zauber/Ungesehener Beobachter|Ungesehener Beobachter]]"
-  - "[[Inhalt/Talente/Zauber/Wachsame Augen|Wachsame Augen]]"
+  - "[[Bindung des Vertrauten]]"
+  - "[[Bindungspartner finden]]"
+  - "[[Dinge aufspüren]]"
+  - "[[Erster unter gleichen]]"
+  - "[[Letzter Ausweg]]"
+  - "[[Schlaf rauben]]"
+  - "[[Stimmungssinn]]"
+  - "[[Tarnung]]"
+  - "[[Tiersinne]]"
+  - "[[Ungesehener Beobachter]]"
+  - "[[Wachsame Augen]]"
 Voraussetzungen: Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Zibilja I
 ---
 Hexen und Geoden (wir nennen sie der Einfachheit halber Bindungspartner) schaffen mit der Bindung des Vertrauten ein magisches Band zwischen sich und dem Vertrautentier. Dabei erlangt das Vertrautentier magische Fähigkeiten, die es fortan einsetzen kann.
@@ -29,7 +29,19 @@ Hexen und Geoden (wir nennen sie der Einfachheit halber Bindungspartner) schaffe
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/CH|CH]], [[Inhalt/Attribute/IN|IN]], [[Inhalt/Attribute/IN|IN]]
+- **Attribute:** [[Charisma|CH]], [[Intuition|IN]], [[Intuition|IN]]
 - **Steigerungsfaktor:** 2
-- **Talente:** [[Inhalt/Talente/Zauber/Bindung des Vertrauten|Bindung des Vertrauten]], [[Inhalt/Talente/Zauber/Bindungspartner finden|Bindungspartner finden]], [[Inhalt/Talente/Zauber/Dinge aufspüren|Dinge aufspüren]], [[Inhalt/Talente/Zauber/Erster unter gleichen|Erster unter gleichen]], [[Inhalt/Talente/Zauber/Letzter Ausweg|Letzter Ausweg]], [[Inhalt/Talente/Zauber/Schlaf rauben|Schlaf rauben]], [[Inhalt/Talente/Zauber/Stimmungssinn|Stimmungssinn]], [[Inhalt/Talente/Zauber/Tarnung|Tarnung]], [[Inhalt/Talente/Zauber/Tiersinne|Tiersinne]], [[Inhalt/Talente/Zauber/Ungesehener Beobachter|Ungesehener Beobachter]], [[Inhalt/Talente/Zauber/Wachsame Augen|Wachsame Augen]]
-- **Voraussetzungen:** Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Zibilja I
+- **Talente:**
+  - [[Bindung des Vertrauten]]
+  - [[Bindungspartner finden]]
+  - [[Dinge aufspüren]]
+  - [[Erster unter gleichen]]
+  - [[Letzter Ausweg]]
+  - [[Schlaf rauben]]
+  - [[Stimmungssinn]]
+  - [[Tarnung]]
+  - [[Tiersinne]]
+  - [[Ungesehener Beobachter]]
+  - [[Wachsame Augen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Zibilja I]]

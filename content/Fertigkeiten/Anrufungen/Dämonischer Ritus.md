@@ -1,30 +1,39 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: ab5d2f9d-7beb-4f09-825e-9178382742ae
+ID: a909c49a-3d2b-4a40-af68-1946aa61530e
 Name: Dämonischer Ritus
 title: Dämonischer Ritus
 Kategorie: Anrufungen
 Attribute:
-  - "[[Inhalt/Attribute/CH|CH]]"
-  - "[[Inhalt/Attribute/IN|IN]]"
-  - "[[Inhalt/Attribute/MU|MU]]"
+  - "[[Charisma|CH]]"
+  - "[[Intuition|IN]]"
+  - "[[Mut|MU]]"
 Steigerungsfaktor: 3
 Talente:
-  - "[[Inhalt/Talente/Anrufungen/Dämonische Bindung|Dämonische Bindung]]"
-  - "[[Inhalt/Talente/Anrufungen/Dämonische Waffe|Dämonische Waffe]]"
-  - "[[Inhalt/Talente/Anrufungen/Dämonischer Panzer|Dämonischer Panzer]]"
-  - "[[Inhalt/Talente/Anrufungen/Errichten eines Unheiligtums|Errichten eines Unheiligtums]]"
-  - "[[Inhalt/Talente/Anrufungen/Herrschaft über Dämonen|Herrschaft über Dämonen]]"
-  - "[[Inhalt/Talente/Anrufungen/Herrschaft über Ungeheuer|Herrschaft über Ungeheuer]]"
-  - "[[Inhalt/Talente/Anrufungen/Magnum Opus|Magnum Opus]]"
-  - "[[Inhalt/Talente/Anrufungen/Seelenopfer|Seelenopfer]]"
+  - "[[Dämonische Bindung]]"
+  - "[[Dämonische Waffe]]"
+  - "[[Dämonischer Panzer]]"
+  - "[[Errichten eines Unheiligtums]]"
+  - "[[Herrschaft über Dämonen]]"
+  - "[[Herrschaft über Ungeheuer]]"
+  - "[[Magnum Opus]]"
+  - "[[Seelenopfer]]"
 Voraussetzungen: "Vorteil Tradition der *paktierer I"
 ---
 Die Herrscher der siebten Sphäre haben einen gemeinsamen Grundstock an Anrufungen.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/CH|CH]], [[Inhalt/Attribute/IN|IN]], [[Inhalt/Attribute/MU|MU]]
+- **Attribute:** [[Charisma|CH]], [[Intuition|IN]], [[Mut|MU]]
 - **Steigerungsfaktor:** 3
-- **Talente:** [[Inhalt/Talente/Anrufungen/Dämonische Bindung|Dämonische Bindung]], [[Inhalt/Talente/Anrufungen/Dämonische Waffe|Dämonische Waffe]], [[Inhalt/Talente/Anrufungen/Dämonischer Panzer|Dämonischer Panzer]], [[Inhalt/Talente/Anrufungen/Errichten eines Unheiligtums|Errichten eines Unheiligtums]], [[Inhalt/Talente/Anrufungen/Herrschaft über Dämonen|Herrschaft über Dämonen]], [[Inhalt/Talente/Anrufungen/Herrschaft über Ungeheuer|Herrschaft über Ungeheuer]], [[Inhalt/Talente/Anrufungen/Magnum Opus|Magnum Opus]], [[Inhalt/Talente/Anrufungen/Seelenopfer|Seelenopfer]]
-- **Voraussetzungen:** Vorteil Tradition der *paktierer I
+- **Talente:**
+  - [[Dämonische Bindung]]
+  - [[Dämonische Waffe]]
+  - [[Dämonischer Panzer]]
+  - [[Errichten eines Unheiligtums]]
+  - [[Herrschaft über Dämonen]]
+  - [[Herrschaft über Ungeheuer]]
+  - [[Magnum Opus]]
+  - [[Seelenopfer]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der paktierer I|Tradition der *paktierer I]]

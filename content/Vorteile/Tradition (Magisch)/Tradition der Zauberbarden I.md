@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: cf370c48-78f9-40da-9b63-0aaa366e5d64
+ID: bdadaec6-4f2d-49c4-9952-3a08f5565ba8
 Name: Tradition der Zauberbarden I
 title: Tradition der Zauberbarden I
 Kategorie: Tradition (Magisch)
@@ -18,5 +18,5 @@ Die Bedingung Instrumentenspiel kann nicht ignoriert werden.
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut CH 4"
-  - "Vorteil Zauberer I"
+  - Attribut [[Charisma|CH]] 4
+  - Vorteil [[Zauberer I]]

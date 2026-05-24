@@ -1,23 +1,26 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 68428033-82c4-4fbe-9d36-a3252f603dcf
+ID: 7954d6ae-8683-47ff-8fe4-f96cec7d6ddb
 Name: Schusswaffen
 title: Schusswaffen
 Kategorie: Kampf (Fernkampf)
 Attribute:
-  - "[[Inhalt/Attribute/FF|FF]]"
-  - "[[Inhalt/Attribute/IN|IN]]"
-  - "[[Inhalt/Attribute/KK|KK]]"
+  - "[[Fingerfertigkeit|FF]]"
+  - "[[Intuition|IN]]"
+  - "[[Körperkraft|KK]]"
 Steigerungsfaktor: 3
 Talente:
-  - "[[Inhalt/Talente/Profan/Schusswaffen/Armbrüste|Armbrüste]]"
-  - "[[Inhalt/Talente/Profan/Schusswaffen/Belagerungswaffen|Belagerungswaffen]]"
-  - "[[Inhalt/Talente/Profan/Schusswaffen/Bögen|Bögen]]"
+  - "[[Armbrüste]]"
+  - "[[Belagerungswaffen]]"
+  - "[[Bögen]]"
 ---
 Mit der Fertigkeit Schusswaffen bedienst du alle Waffen, mit denen Geschosse auf den Gegner abgefeuert werden. Dazu gehören so verbreitete Schusswaffen wie der Bogen oder die Armbrust, aber auch Geschütze.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/FF|FF]], [[Inhalt/Attribute/IN|IN]], [[Inhalt/Attribute/KK|KK]]
+- **Attribute:** [[Fingerfertigkeit|FF]], [[Intuition|IN]], [[Körperkraft|KK]]
 - **Steigerungsfaktor:** 3
-- **Talente:** [[Inhalt/Talente/Profan/Schusswaffen/Armbrüste|Armbrüste]], [[Inhalt/Talente/Profan/Schusswaffen/Belagerungswaffen|Belagerungswaffen]], [[Inhalt/Talente/Profan/Schusswaffen/Bögen|Bögen]]
+- **Talente:**
+  - [[Armbrüste]]
+  - [[Belagerungswaffen]]
+  - [[Bögen]]

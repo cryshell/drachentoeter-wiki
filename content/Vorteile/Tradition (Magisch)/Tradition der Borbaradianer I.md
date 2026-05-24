@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 9d827c5f-023e-4dec-9c01-0aa02ee6afda
+ID: 1e8ee495-7067-4a18-a4fe-d6fd03ca57f5
 Name: Tradition der Borbaradianer I
 title: Tradition der Borbaradianer I
 Kategorie: Tradition (Magisch)
@@ -8,9 +8,9 @@ Voraussetzungen:
   - Attribut MU 4
   - Vorteil Zauberer I
 Querverweise:
-  - "[[Inhalt/Kapitel/Verbotene Pforten|Verbotene Pforten]]"
-  - "[[Inhalt/Kapitel/Reichweite erhöhen (M)|Reichweite erhöhen (M)]]"
-  - "[[Inhalt/Vorteile/Minderpakt|Minderpakt]]"
+  - "[[Verbotene Pforten]]"
+  - "[[Reichweite erhöhen (M)]]"
+  - "[[Minderpakt]]"
 Nachkauf: häufig
 Kosten: 20
 ---
@@ -24,6 +24,6 @@ Die Erschwernis für die Modifikation Reichweite erhöhen wird verdoppelt.
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut MU 4"
-  - "Vorteil Zauberer I"
-- **Siehe auch:** [[Inhalt/Kapitel/Verbotene Pforten|Verbotene Pforten]], [[Inhalt/Kapitel/Reichweite erhöhen (M)|Reichweite erhöhen (M)]], [[Inhalt/Vorteile/Minderpakt|Minderpakt]]
+  - Attribut [[Mut|MU]] 4
+  - Vorteil [[Zauberer I]]
+- **Siehe auch:** [[Verbotene Pforten]], [[Reichweite erhöhen (M)]], [[Minderpakt]]

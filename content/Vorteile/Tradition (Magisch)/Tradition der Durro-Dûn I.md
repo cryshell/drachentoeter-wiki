@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 32bc881b-7828-4bda-8188-0800216b377d
+ID: 6a446ba7-4d55-4b6c-a169-276aa463506f
 Name: Tradition der Durro-Dûn I
 title: Tradition der Durro-Dûn I
 Kategorie: Tradition (Magisch)
@@ -18,5 +18,5 @@ Du musst dich beim Erlernen für ein Tier entscheiden. Alle deine Zauber beziehe
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut MU 4"
-  - "Vorteil Zauberer I"
+  - Attribut [[Mut|MU]] 4
+  - Vorteil [[Zauberer I]]

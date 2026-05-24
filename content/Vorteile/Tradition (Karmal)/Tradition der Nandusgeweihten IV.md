@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6fb7bfdd-2f48-4878-bf77-4da96d7df82e
+ID: b9047895-abcd-4c57-bc3a-741ba47e8783
 Name: Tradition der Nandusgeweihten IV
 title: Tradition der Nandusgeweihten IV
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut KL 10"
-  - "Vorteil Tradition der Nandusgeweihten III"
+  - MeisterAttribut [[Klugheit|KL]] 10
+  - Vorteil [[Tradition der Nandusgeweihten III]]

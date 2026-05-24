@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: bdef3455-beda-494c-8a0a-957325b30a27
+ID: e49a5b55-a2d2-4a6d-9e9c-e46cf948dd5c
 Name: Adrenalinschub
 title: Adrenalinschub
 Kategorie: Profan
@@ -13,4 +13,5 @@ Du kannst einer Probe bei einer körperlichen Tätigkeit (z.B. Schmieden, Laufen
 ---
 
 - **Kosten:** 80 EP
-- **Voraussetzungen:** Attribut KK 10
+- **Voraussetzungen:**
+  - Attribut [[Körperkraft|KK]] 10

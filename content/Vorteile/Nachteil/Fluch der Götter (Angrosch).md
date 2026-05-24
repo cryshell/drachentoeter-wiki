@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: affe3ed2-55a2-44b5-8f5b-f3d43deaef29
+ID: 9867cc6f-a3db-4f5b-b05f-7ef84cbdb174
 Name: Fluch der Götter (Angrosch)
 title: Fluch der Götter (Angrosch)
 Kategorie: Nachteil
@@ -13,4 +13,5 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Angrosch), Empfindlichkeit I (Pfl
 ---
 
 - **Kosten:** -200 EP
-- **Voraussetzungen:** Vorteil Vampir I
+- **Voraussetzungen:**
+  - Vorteil [[Vampir I]]

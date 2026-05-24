@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d48945e5-fc56-40c5-ad4b-8026607480ca
+ID: b99efa4f-0b22-4827-8a8d-67df150b5612
 Name: Tradition der Agrimothpaktierer I
 title: Tradition der Agrimothpaktierer I
 Kategorie: Tradition (Paktierer)
@@ -19,6 +19,6 @@ Dämonische Kräfte sind chaotisch, Anrufungsproben werden mit 1W20 gewürfelt.
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut MU 4"
-  - "Vorteil Paktierer I"
-  - "Kein Vorteil Tradition der *paktierer I"
+  - Attribut [[Mut|MU]] 4
+  - Vorteil [[Paktierer I]]
+  - Kein Vorteil Tradition der *paktierer I

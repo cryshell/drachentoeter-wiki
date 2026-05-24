@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c909b41d-cb73-42b6-b3a0-8017ca204da0
+ID: 11244ac0-0477-46a2-9dc0-664a5428967b
 Name: Ruhige Hand
 title: Ruhige Hand
 Kategorie: Kampf
@@ -13,4 +13,5 @@ Du kannst Vorteil auf den nächsten Fernkampfangriff erhalten, wenn du die Ladez
 ---
 
 - **Kosten:** 20 EP
-- **Voraussetzungen:** Attribut FF 4
+- **Voraussetzungen:**
+  - Attribut [[Fingerfertigkeit|FF]] 4

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 9807d5ce-e807-4589-ba05-c28d448d19be
+ID: e94e244c-bd89-4e81-a319-8afc96fcdfb5
 Name: Tradition der Firungeweihten IV
 title: Tradition der Firungeweihten IV
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut MU 10"
-  - "Vorteil Tradition der Firungeweihten III"
+  - MeisterAttribut [[Mut|MU]] 10
+  - Vorteil [[Tradition der Firungeweihten III]]

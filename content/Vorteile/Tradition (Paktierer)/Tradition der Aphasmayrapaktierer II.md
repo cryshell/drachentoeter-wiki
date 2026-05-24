@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 046c0cb8-81ae-46b5-99f8-cb915f3406a9
+ID: 263d569f-7148-4e18-ac56-c015b0a4c93d
 Name: Tradition der Aphasmayrapaktierer II
 title: Tradition der Aphasmayrapaktierer II
 Kategorie: Tradition (Paktierer)
@@ -16,5 +16,5 @@ Paktierer werden durch erlittene Wunden eher noch gefährlicher. Der Wundabzug s
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut MU 6"
-  - "Vorteil Tradition der Aphasmayrapaktierer I"
+  - Attribut [[Mut|MU]] 6
+  - Vorteil [[Tradition der Aphasmayrapaktierer I]]

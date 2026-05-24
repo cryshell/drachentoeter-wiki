@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6df50c63-9dec-41d0-b206-b88a546f5409
+ID: a32c2d47-8823-4b3e-8a3b-1aab08fde1c4
 Name: Tradition der Kinder der Nacht
 title: Tradition der Kinder der Nacht
 Kategorie: Tradition (Vampir)
@@ -8,8 +8,8 @@ Voraussetzungen:
   - Attribut CH 4
   - Vorteil Vampir I
 Querverweise:
-  - "[[Inhalt/Kapitel/Verbotene Pforten|Verbotene Pforten]]"
-  - "[[Inhalt/Vorteile/Fluch der Götter (Praios)|Fluch der Götter (Praios)]]"
+  - "[[Verbotene Pforten]]"
+  - "[[Fluch der Götter (Praios)]]"
 Nachkauf: häufig
 Kosten: 20
 ---
@@ -21,6 +21,6 @@ Du bist von Praios verflucht und kannst Vampire nur durch einflößen deines Blu
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut CH 4"
-  - "Vorteil Vampir I"
-- **Siehe auch:** [[Inhalt/Kapitel/Verbotene Pforten|Verbotene Pforten]], [[Inhalt/Vorteile/Fluch der Götter (Praios)|Fluch der Götter (Praios)]]
+  - Attribut [[Charisma|CH]] 4
+  - Vorteil [[Vampir I]]
+- **Siehe auch:** [[Verbotene Pforten]], [[Fluch der Götter (Praios)]]

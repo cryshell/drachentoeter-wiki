@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 864a94ca-7f0f-4dfb-b052-efd6c828d3dc
+ID: a459edad-282d-4370-87ea-f941ffaf6bb8
 Name: Empathie
 title: Empathie
 Kategorie: Profan
@@ -13,4 +13,5 @@ Du kannst in einer Aktion aus bis zu 8 Schritt Entfernung eine vergleichende IN-
 ---
 
 - **Kosten:** 80 EP
-- **Voraussetzungen:** Attribut IN 10
+- **Voraussetzungen:**
+  - Attribut [[Intuition|IN]] 10

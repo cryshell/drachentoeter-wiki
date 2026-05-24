@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: cfd00b10-d617-4ef1-8f88-5de2abceec54
+ID: 225a9944-fa97-4358-b82d-55cb4af15d1e
 Name: Tiergeist (Affe)
 title: Tiergeist (Affe)
 Kategorie: Tiergeist
@@ -8,10 +8,10 @@ Voraussetzungen:
   - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
   - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
 Querverweise:
-  - "[[Inhalt/Talente/Zauber/Attributo|Attributo]]"
-  - "[[Inhalt/Talente/Zauber/Axxeleratus Blitzgeschwind|Axxeleratus Blitzgeschwind]]"
-  - "[[Inhalt/Talente/Zauber/Motoricus Geisterhand|Motoricus Geisterhand]]"
-  - "[[Inhalt/Talente/Zauber/Wipfellauf|Wipfellauf]]"
+  - "[[Attributo]]"
+  - "[[Axxeleratus Blitzgeschwind]]"
+  - "[[Motoricus Geisterhand]]"
+  - "[[Wipfellauf]]"
 Nachkauf: häufig
 Kosten: 0
 ---
@@ -26,6 +26,6 @@ Kosten: 0
 
 - **Kosten:** 0 EP
 - **Voraussetzungen:**
-  - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
-  - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
-- **Siehe auch:** [[Inhalt/Talente/Zauber/Attributo|Attributo]], [[Inhalt/Talente/Zauber/Axxeleratus Blitzgeschwind|Axxeleratus Blitzgeschwind]], [[Inhalt/Talente/Zauber/Motoricus Geisterhand|Motoricus Geisterhand]], [[Inhalt/Talente/Zauber/Wipfellauf|Wipfellauf]]
+  - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
+  - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
+- **Siehe auch:** [[Attributo]], [[Axxeleratus Blitzgeschwind]], [[Motoricus Geisterhand]], [[Wipfellauf]]

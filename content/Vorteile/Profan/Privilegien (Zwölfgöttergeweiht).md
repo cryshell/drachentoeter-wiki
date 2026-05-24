@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f731b2fd-b2c5-482c-b1ea-32445da7d9ad
+ID: 40d6588b-2b72-4271-b273-78924cb03426
 Name: Privilegien (Zwölfgöttergeweiht)
 title: Privilegien (Zwölfgöttergeweiht)
 Kategorie: Profan
@@ -13,4 +13,5 @@ Dein Ansehen steigt um +1. Du hast erleichterten Zugang zu Bibliotheken und Lehr
 ---
 
 - **Kosten:** 20 EP
-- **Voraussetzungen:** Vorteil Tradition der *geweihten I ODER Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Firungeweihten I ODER Vorteil Tradition der Graveshgeweihten I ODER Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Rondrageweihten I ODER Vorteil Tradition der Traviageweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Avesgeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der geweihten I ODER Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Firungeweihten I ODER Vorteil Tradition der Graveshgeweihten I ODER Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Rondrageweihten I ODER Vorteil Tradition der Traviageweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Avesgeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I|Tradition der *geweihten I ODER Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Firungeweihten I ODER Vorteil Tradition der Graveshgeweihten I ODER Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Rondrageweihten I ODER Vorteil Tradition der Traviageweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Avesgeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: aa66676a-4586-4d23-8a94-c07df694ccc3
+ID: c4eb1d58-b192-4fbf-883c-d1a0de9d22ac
 Name: Fluch der Götter (Boron)
 title: Fluch der Götter (Boron)
 Kategorie: Nachteil
@@ -13,4 +13,5 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Boron), Empfindlichkeit I (Pflanz
 ---
 
 - **Kosten:** -200 EP
-- **Voraussetzungen:** Vorteil Vampir I
+- **Voraussetzungen:**
+  - Vorteil [[Vampir I]]

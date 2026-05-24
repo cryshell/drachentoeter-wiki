@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 15d51492-369b-4237-8555-ba178383922f
+ID: 71b01fd3-e9bc-4899-abbc-1ec22a5a91e1
 Name: Geist des Adlers
 title: Geist des Adlers
 Kategorie: Zauber

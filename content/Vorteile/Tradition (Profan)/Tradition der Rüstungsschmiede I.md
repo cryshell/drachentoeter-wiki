@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: dc48dbbd-e03d-4ec4-9175-25b4a1834844
+ID: 952341d1-cb6f-4557-8a6e-6c3668f28410
 Name: Tradition der Rüstungsschmiede I
 title: Tradition der Rüstungsschmiede I
 Kategorie: Tradition (Profan)
@@ -13,4 +13,5 @@ Du beherrschst Rezepte der Tradition der Rüstungsschmiede (Rüs).
 ---
 
 - **Kosten:** 20 EP
-- **Voraussetzungen:** Attribut KO 4 ODER Attribut KK 4
+- **Voraussetzungen:**
+  - Attribut KO 4 ODER Attribut KK 4

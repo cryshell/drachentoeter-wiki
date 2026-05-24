@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 07ff736f-1153-4ef1-9984-f5b3ac187ec4
+ID: f08fb70b-1fa3-4c16-9632-b64fdded609a
 Name: Tiergeist (Löwe)
 title: Tiergeist (Löwe)
 Kategorie: Tiergeist
@@ -8,11 +8,11 @@ Voraussetzungen:
   - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
   - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
 Querverweise:
-  - "[[Inhalt/Talente/Zauber/Ängste lindern|Ängste lindern]]"
-  - "[[Inhalt/Talente/Zauber/Armatrutz|Armatrutz]]"
-  - "[[Inhalt/Talente/Zauber/Katzenaugen|Katzenaugen]]"
-  - "[[Inhalt/Talente/Zauber/Kusch!|Kusch!]]"
-  - "[[Inhalt/Talente/Zauber/Standfest Katzengleich|Standfest Katzengleich]]"
+  - "[[Ängste lindern]]"
+  - "[[Armatrutz]]"
+  - "[[Katzenaugen]]"
+  - "[[Kusch|Kusch!]]"
+  - "[[Standfest Katzengleich]]"
 Nachkauf: häufig
 Kosten: 0
 ---
@@ -27,6 +27,6 @@ Kosten: 0
 
 - **Kosten:** 0 EP
 - **Voraussetzungen:**
-  - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
-  - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
-- **Siehe auch:** [[Inhalt/Talente/Zauber/Ängste lindern|Ängste lindern]], [[Inhalt/Talente/Zauber/Armatrutz|Armatrutz]], [[Inhalt/Talente/Zauber/Katzenaugen|Katzenaugen]], [[Inhalt/Talente/Zauber/Kusch!|Kusch!]], [[Inhalt/Talente/Zauber/Standfest Katzengleich|Standfest Katzengleich]]
+  - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
+  - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
+- **Siehe auch:** [[Ängste lindern]], [[Armatrutz]], [[Katzenaugen]], [[Kusch|Kusch!]], [[Standfest Katzengleich]]

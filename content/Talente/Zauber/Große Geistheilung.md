@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: a8112b09-f8ed-4ff5-9ad5-56651dd2b7f8
+ID: 41482c97-b200-4c65-b31e-667292c66b53
 Name: Große Geistheilung
 title: Große Geistheilung
 Kategorie: Zauber

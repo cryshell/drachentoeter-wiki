@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 7e6b6b11-b7ce-4f73-a825-717e1b37ddf1
+ID: ec0dd3a3-9c3b-43fa-92e3-32b584eeea8d
 Name: Tiergeist (Wolf)
 title: Tiergeist (Wolf)
 Kategorie: Tiergeist
@@ -8,12 +8,12 @@ Voraussetzungen:
   - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
   - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
 Querverweise:
-  - "[[Inhalt/Talente/Zauber/Adlerauge Luchsenohr|Adlerauge Luchsenohr]]"
-  - "[[Inhalt/Talente/Zauber/Axxeleratus Blitzgeschwind|Axxeleratus Blitzgeschwind]]"
-  - "[[Inhalt/Talente/Zauber/Eins mit der Natur|Eins mit der Natur]]"
-  - "[[Inhalt/Talente/Zauber/Kusch!|Kusch!]]"
-  - "[[Inhalt/Talente/Zauber/Movimento Dauerlauf|Movimento Dauerlauf]]"
-  - "[[Inhalt/Talente/Zauber/Spurlos Trittlos|Spurlos Trittlos]]"
+  - "[[Adlerauge Luchsenohr]]"
+  - "[[Axxeleratus Blitzgeschwind]]"
+  - "[[Eins mit der Natur]]"
+  - "[[Kusch|Kusch!]]"
+  - "[[Movimento Dauerlauf]]"
+  - "[[Spurlos Trittlos]]"
 Nachkauf: häufig
 Kosten: 0
 ---
@@ -28,6 +28,6 @@ Kosten: 0
 
 - **Kosten:** 0 EP
 - **Voraussetzungen:**
-  - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
-  - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
-- **Siehe auch:** [[Inhalt/Talente/Zauber/Adlerauge Luchsenohr|Adlerauge Luchsenohr]], [[Inhalt/Talente/Zauber/Axxeleratus Blitzgeschwind|Axxeleratus Blitzgeschwind]], [[Inhalt/Talente/Zauber/Eins mit der Natur|Eins mit der Natur]], [[Inhalt/Talente/Zauber/Kusch!|Kusch!]], [[Inhalt/Talente/Zauber/Movimento Dauerlauf|Movimento Dauerlauf]], [[Inhalt/Talente/Zauber/Spurlos Trittlos|Spurlos Trittlos]]
+  - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
+  - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
+- **Siehe auch:** [[Adlerauge Luchsenohr]], [[Axxeleratus Blitzgeschwind]], [[Eins mit der Natur]], [[Kusch|Kusch!]], [[Movimento Dauerlauf]], [[Spurlos Trittlos]]

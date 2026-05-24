@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 8c008bd5-501d-48f2-bdde-e333ec9a7897
+ID: 08641ae8-40c1-406a-a5f8-7aeb331f5aa6
 Name: Tiergeist (Mungo)
 title: Tiergeist (Mungo)
 Kategorie: Tiergeist
@@ -8,10 +8,10 @@ Voraussetzungen:
   - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
   - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
 Querverweise:
-  - "[[Inhalt/Talente/Zauber/Attributo|Attributo]]"
-  - "[[Inhalt/Talente/Zauber/Harmlose Gestalt|Harmlose Gestalt]]"
-  - "[[Inhalt/Talente/Zauber/Sensibar Empathicus|Sensibar Empathicus]]"
-  - "[[Inhalt/Talente/Zauber/Seidenzunge Elfenwort|Seidenzunge Elfenwort]]"
+  - "[[Attributo]]"
+  - "[[Harmlose Gestalt]]"
+  - "[[Sensibar Empathicus]]"
+  - "[[Seidenzunge Elfenwort]]"
 Nachkauf: häufig
 Kosten: 0
 ---
@@ -26,6 +26,6 @@ Kosten: 0
 
 - **Kosten:** 0 EP
 - **Voraussetzungen:**
-  - "Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I"
-  - "Vorteil Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)"
-- **Siehe auch:** [[Inhalt/Talente/Zauber/Attributo|Attributo]], [[Inhalt/Talente/Zauber/Harmlose Gestalt|Harmlose Gestalt]], [[Inhalt/Talente/Zauber/Sensibar Empathicus|Sensibar Empathicus]], [[Inhalt/Talente/Zauber/Seidenzunge Elfenwort|Seidenzunge Elfenwort]]
+  - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
+  - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
+- **Siehe auch:** [[Attributo]], [[Harmlose Gestalt]], [[Sensibar Empathicus]], [[Seidenzunge Elfenwort]]

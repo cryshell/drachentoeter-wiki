@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 77ddf8fb-22b0-42e4-9a7b-507f6960bb5c
+ID: 0fcd9795-9982-48d2-94ea-ea569592bc3f
 Name: Wahre Namen Charyptoroths III
 title: Wahre Namen Charyptoroths III
 Kategorie: Wahre Namen
@@ -17,6 +17,6 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
-  - "Attribut KL 8"
-  - "Vorteil Wahre Namen Charyptoroths II"
+  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Attribut [[Klugheit|KL]] 8
+  - Vorteil [[Wahre Namen Charyptoroths II]]

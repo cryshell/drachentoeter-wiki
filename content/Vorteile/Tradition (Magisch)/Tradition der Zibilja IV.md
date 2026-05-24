@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b868f752-0b89-40c4-ba60-5c84ca504a0d
+ID: 88205e6a-87ee-4e88-b9f6-bbe35241ebe5
 Name: Tradition der Zibilja IV
 title: Tradition der Zibilja IV
 Kategorie: Tradition (Magisch)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut CH 10"
-  - "Vorteil Tradition der Zibilja III"
+  - MeisterAttribut [[Charisma|CH]] 10
+  - Vorteil [[Tradition der Zibilja III]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a7da7ab8-eb27-46ba-9db6-e5122b14af69
+ID: 82dfc306-bb44-4ff8-8aa0-278f31872b6e
 Name: Vorbereitendes Zaubern
 title: Vorbereitendes Zaubern
 Kategorie: Magisch
@@ -8,8 +8,8 @@ Voraussetzungen:
   - Vorteil Zauberer I ODER Vorteil Tradition der Borbaradianer I
   - Attribut KL 10
 Querverweise:
-  - "[[Inhalt/Kapitel/Aktion Konzentration|Aktion Konzentration]]"
-  - "[[Inhalt/Kapitel/Aktion Übernatürliches wirken|Aktion Übernatürliches wirken]]"
+  - "[[Aktion Konzentration]]"
+  - "[[Aktion Übernatürliches wirken]]"
 Nachkauf: häufig
 Kosten: 80
 ---
@@ -19,6 +19,6 @@ Zwischen dem Vorbereiten des Zaubers und der Aktion Übernatürliches wirken dü
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Tradition der Borbaradianer I"
-  - "Attribut KL 10"
-- **Siehe auch:** [[Inhalt/Kapitel/Aktion Konzentration|Aktion Konzentration]], [[Inhalt/Kapitel/Aktion Übernatürliches wirken|Aktion Übernatürliches wirken]]
+  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I]]
+  - Attribut [[Klugheit|KL]] 10
+- **Siehe auch:** [[Aktion Konzentration]], [[Aktion Übernatürliches wirken]]

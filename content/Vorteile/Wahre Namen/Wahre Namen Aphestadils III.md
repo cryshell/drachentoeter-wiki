@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: cf341a79-e455-4fc7-824b-6a21e8af166e
+ID: 2aadd401-7caf-4270-a458-69e0cc491702
 Name: Wahre Namen Aphestadils III
 title: Wahre Namen Aphestadils III
 Kategorie: Wahre Namen
@@ -17,6 +17,6 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 - **Kosten:** 10 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
-  - "Attribut KL 8"
-  - "Vorteil Wahre Namen Aphestadils II"
+  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Attribut [[Klugheit|KL]] 8
+  - Vorteil [[Wahre Namen Aphestadils II]]

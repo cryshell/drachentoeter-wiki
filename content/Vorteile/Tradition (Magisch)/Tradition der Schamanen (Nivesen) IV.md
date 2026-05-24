@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c98ee178-4e76-4c38-a1a4-8d3a9d397997
+ID: acbff013-0049-4b54-baff-026ba8f873c0
 Name: Tradition der Schamanen (Nivesen) IV
 title: Tradition der Schamanen (Nivesen) IV
 Kategorie: Tradition (Magisch)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut IN 10"
-  - "Vorteil Tradition der Schamanen (Nivesen) III"
+  - MeisterAttribut [[Intuition|IN]] 10
+  - Vorteil [[Tradition der Schamanen (Nivesen) III]]

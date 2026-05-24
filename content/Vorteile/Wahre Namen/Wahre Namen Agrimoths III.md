@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c8b1e9dd-4e5c-49f3-bc63-67ec08460b48
+ID: ef61b478-5efe-42c4-abcb-9a4d23626d51
 Name: Wahre Namen Agrimoths III
 title: Wahre Namen Agrimoths III
 Kategorie: Wahre Namen
@@ -17,6 +17,6 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
-  - "Attribut KL 8"
-  - "Vorteil Wahre Namen Agrimoths II"
+  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Attribut [[Klugheit|KL]] 8
+  - Vorteil [[Wahre Namen Agrimoths II]]

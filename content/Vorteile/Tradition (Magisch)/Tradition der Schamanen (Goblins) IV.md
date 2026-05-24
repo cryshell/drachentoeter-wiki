@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f5d616a1-f129-4150-830d-70870eca1444
+ID: 8f3ff74f-29e8-4652-8d01-d873ed9aec97
 Name: Tradition der Schamanen (Goblins) IV
 title: Tradition der Schamanen (Goblins) IV
 Kategorie: Tradition (Magisch)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut IN 10"
-  - "Vorteil Tradition der Schamanen (Goblins) III"
+  - MeisterAttribut [[Intuition|IN]] 10
+  - Vorteil [[Tradition der Schamanen (Goblins) III]]

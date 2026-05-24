@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 99b0a879-7101-4b94-955d-d34a96fe0a4e
+ID: 11b6f7a3-f8fc-4b79-bb48-67f11529ba45
 Name: Elementaraffinität (Luft)
 title: Elementaraffinität (Luft)
 Kategorie: Magisch
@@ -16,5 +16,5 @@ Der Basiswert der Fertigkeit Luft ist um zwei Punkte erhöht, der von Erz um vie
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I"
-  - "Kein Vorteil Kreis der Verdammnis I"
+  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
+  - Kein Vorteil Kreis der Verdammnis I

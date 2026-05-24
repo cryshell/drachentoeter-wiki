@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d36049ba-ee93-49e4-8957-82ef7600d11c
+ID: c038dfdd-38d6-4d24-a0db-a1398fd90b81
 Name: Tradition der Phexgeweihten I
 title: Tradition der Phexgeweihten I
 Kategorie: Tradition (Karmal)
@@ -19,6 +19,6 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen Phex' Gebote verstößt: Gegenl
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut IN 4"
-  - "Vorteil Geweiht I"
-  - "Kein Vorteil Tradition der *geweihten I"
+  - Attribut [[Intuition|IN]] 4
+  - Vorteil [[Geweiht I]]
+  - Kein Vorteil Tradition der *geweihten I

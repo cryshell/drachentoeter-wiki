@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 688d1eda-039e-4597-8166-228cbdbe0ae7
+ID: 23394f72-2e3d-4462-a005-365705a061bd
 Name: Tradition der Durro-Dûn IV
 title: Tradition der Durro-Dûn IV
 Kategorie: Tradition (Magisch)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut MU 10"
-  - "Vorteil Tradition der Durro-Dûn III"
+  - MeisterAttribut [[Mut|MU]] 10
+  - Vorteil [[Tradition der Durro-Dûn III]]

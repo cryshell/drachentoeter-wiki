@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 269964be-341d-4ed2-93b0-074c4f537bcc
+ID: 4b8157a4-305d-41af-9f3a-01e932fdc0df
 Name: Fluch der Götter (Hesinde)
 title: Fluch der Götter (Hesinde)
 Kategorie: Nachteil
@@ -13,4 +13,5 @@ Du erhältst die "Vorteile" Verwundbarkeit II (Hesinde), Empfindlichkeit I (Pfla
 ---
 
 - **Kosten:** -200 EP
-- **Voraussetzungen:** Vorteil Vampir I
+- **Voraussetzungen:**
+  - Vorteil [[Vampir I]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 3526f5e6-2297-4220-bc60-b99a1cebf0b3
+ID: bd5a3ae0-1734-4feb-a633-305dd9431223
 Name: Tradition der Schamanen (Waldmenschen) I
 title: Tradition der Schamanen (Waldmenschen) I
 Kategorie: Tradition (Magisch)
@@ -18,5 +18,5 @@ Bei Elementarzaubern kannst du nur Humus, Luft und Wasser verwenden. Verärgert 
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut IN 4"
-  - "Vorteil Zauberer I"
+  - Attribut [[Intuition|IN]] 4
+  - Vorteil [[Zauberer I]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 497096d8-accb-48db-be43-e1fbe8486823
+ID: b21b49f0-fee9-418c-a895-d4775bd928f0
 Name: Elementaraffinität (Wasser)
 title: Elementaraffinität (Wasser)
 Kategorie: Magisch
@@ -16,5 +16,5 @@ Der Basiswert der Fertigkeit Wasser ist um zwei Punkte erhöht, der von Feuer um
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I"
-  - "Kein Vorteil Kreis der Verdammnis I"
+  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
+  - Kein Vorteil Kreis der Verdammnis I

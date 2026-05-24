@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c273356a-2673-4932-9f73-b6535fa7b7c1
+ID: f7023527-de2e-47ba-b1ef-d957b09196d7
 Name: Tradition der Schamanen (Nivesen) I
 title: Tradition der Schamanen (Nivesen) I
 Kategorie: Tradition (Magisch)
@@ -18,5 +18,5 @@ Bei Elementarzaubern kannst du nur Eis, Feuer und Luft verwenden. Verärgert der
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut IN 4"
-  - "Vorteil Zauberer I"
+  - Attribut [[Intuition|IN]] 4
+  - Vorteil [[Zauberer I]]

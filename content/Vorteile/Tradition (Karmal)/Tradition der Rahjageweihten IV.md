@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0ca866e7-534e-4c46-8d70-3dea5505e179
+ID: 7d5c8623-3ef5-482d-8d85-cdf863e1d9a0
 Name: Tradition der Rahjageweihten IV
 title: Tradition der Rahjageweihten IV
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut CH 10"
-  - "Vorteil Tradition der Rahjageweihten III"
+  - MeisterAttribut [[Charisma|CH]] 10
+  - Vorteil [[Tradition der Rahjageweihten III]]

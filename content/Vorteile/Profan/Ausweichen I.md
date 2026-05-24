@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a20052e5-b545-4cf9-bf35-5c85e07d3fac
+ID: 0bd151fe-8587-45ed-bbe5-8fc44ab848c2
 Name: Ausweichen I
 title: Ausweichen I
 Kategorie: Profan
@@ -13,4 +13,5 @@ Deine Ausweichen-VT steigt um +1 Punkt.
 ---
 
 - **Kosten:** 20 EP
-- **Voraussetzungen:** Attribut GE 4
+- **Voraussetzungen:**
+  - Attribut [[Gewandheit|GE]] 4

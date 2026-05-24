@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a0441aa7-c344-4c73-9f16-e5fb9fb87158
+ID: 8fbf4144-7c94-4c2d-9f78-f68dea663ef9
 Name: Tradition der Rüstungsschmiede IV
 title: Tradition der Rüstungsschmiede IV
 Kategorie: Tradition (Profan)
@@ -16,5 +16,5 @@ Kosten: 20
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut KO 10 ODER MeisterAttribut KK 10"
-  - "Vorteil Tradition der Rüstungsschmiede III"
+  - MeisterAttribut KO 10 ODER MeisterAttribut KK 10
+  - Vorteil [[Tradition der Rüstungsschmiede III]]

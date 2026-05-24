@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 1fea9574-d08c-446d-8f45-52fa22019cef
+ID: fdfbd91f-a102-4824-857e-ff3b8143e09e
 Name: Blick ins Geisterreich
 title: Blick ins Geisterreich
 Kategorie: Zauber

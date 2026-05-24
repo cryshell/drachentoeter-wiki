@@ -1,34 +1,47 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 7c767197-cd11-4f52-b078-9cdd62a4a0e1
+ID: 4f6fbdc5-e5c3-49a9-9f34-ae675861a60d
 Name: Heiliges Erz
 title: Heiliges Erz
 Kategorie: Karmale Riten
 Attribute:
-  - "[[Inhalt/Attribute/FF|FF]]"
-  - "[[Inhalt/Attribute/KL|KL]]"
-  - "[[Inhalt/Attribute/KO|KO]]"
+  - "[[Fingerfertigkeit|FF]]"
+  - "[[Klugheit|KL]]"
+  - "[[Konstitution|KO]]"
 Steigerungsfaktor: 2
 Talente:
-  - "[[Inhalt/Talente/Liturgien/Angroschs Opfergabe|Angroschs Opfergabe]]"
-  - "[[Inhalt/Talente/Liturgien/Eherne Kraft|Eherne Kraft]]"
-  - "[[Inhalt/Talente/Liturgien/Geläutert sei Erz und Goldgestein|Geläutert sei Erz und Goldgestein]]"
-  - "[[Inhalt/Talente/Liturgien/Goldener Blick|Goldener Blick]]"
-  - "[[Inhalt/Talente/Liturgien/Ingerimms Zorn verschone uns|Ingerimms Zorn verschone uns]]"
-  - "[[Inhalt/Talente/Liturgien/Largorax‘ Hammer|Largorax‘ Hammer]]"
-  - "[[Inhalt/Talente/Liturgien/Licht des verborgenen Pfades|Licht des verborgenen Pfades]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Autorität|Mirakel: Autorität]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: KO|Mirakel: KO]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Nahkampf|Mirakel: Nahkampf]]"
-  - "[[Inhalt/Talente/Liturgien/Sicherer Weg durch den Fels|Sicherer Weg durch den Fels]]"
-  - "[[Inhalt/Talente/Liturgien/Vertrauter des Felsens|Vertrauter des Felsens]]"
+  - "[[Angroschs Opfergabe]]"
+  - "[[Eherne Kraft]]"
+  - "[[Geläutert sei Erz und Goldgestein]]"
+  - "[[Goldener Blick]]"
+  - "[[Ingerimms Zorn verschone uns]]"
+  - "[[Largorax‘ Hammer]]"
+  - "[[Licht des verborgenen Pfades]]"
+  - "[[Mirakel Autorität|Mirakel: Autorität]]"
+  - "[[Mirakel KO|Mirakel: KO]]"
+  - "[[Mirakel Nahkampf|Mirakel: Nahkampf]]"
+  - "[[Sicherer Weg durch den Fels]]"
+  - "[[Vertrauter des Felsens]]"
 Voraussetzungen: Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Graveshgeweihten I
 ---
 Ingerimm ist der Herr des Erzes und der unterirdischen Schätze. Er bewahrt die Gläubigen unter der Erde, während Frevler seinen alles erschütternden Zorn spüren.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/FF|FF]], [[Inhalt/Attribute/KL|KL]], [[Inhalt/Attribute/KO|KO]]
+- **Attribute:** [[Fingerfertigkeit|FF]], [[Klugheit|KL]], [[Konstitution|KO]]
 - **Steigerungsfaktor:** 2
-- **Talente:** [[Inhalt/Talente/Liturgien/Angroschs Opfergabe|Angroschs Opfergabe]], [[Inhalt/Talente/Liturgien/Eherne Kraft|Eherne Kraft]], [[Inhalt/Talente/Liturgien/Geläutert sei Erz und Goldgestein|Geläutert sei Erz und Goldgestein]], [[Inhalt/Talente/Liturgien/Goldener Blick|Goldener Blick]], [[Inhalt/Talente/Liturgien/Ingerimms Zorn verschone uns|Ingerimms Zorn verschone uns]], [[Inhalt/Talente/Liturgien/Largorax‘ Hammer|Largorax‘ Hammer]], [[Inhalt/Talente/Liturgien/Licht des verborgenen Pfades|Licht des verborgenen Pfades]], [[Inhalt/Talente/Liturgien/Mirakel: Autorität|Mirakel: Autorität]], [[Inhalt/Talente/Liturgien/Mirakel: KO|Mirakel: KO]], [[Inhalt/Talente/Liturgien/Mirakel: Nahkampf|Mirakel: Nahkampf]], [[Inhalt/Talente/Liturgien/Sicherer Weg durch den Fels|Sicherer Weg durch den Fels]], [[Inhalt/Talente/Liturgien/Vertrauter des Felsens|Vertrauter des Felsens]]
-- **Voraussetzungen:** Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Graveshgeweihten I
+- **Talente:**
+  - [[Angroschs Opfergabe]]
+  - [[Eherne Kraft]]
+  - [[Geläutert sei Erz und Goldgestein]]
+  - [[Goldener Blick]]
+  - [[Ingerimms Zorn verschone uns]]
+  - [[Largorax‘ Hammer]]
+  - [[Licht des verborgenen Pfades]]
+  - [[Mirakel Autorität|Mirakel: Autorität]]
+  - [[Mirakel KO|Mirakel: KO]]
+  - [[Mirakel Nahkampf|Mirakel: Nahkampf]]
+  - [[Sicherer Weg durch den Fels]]
+  - [[Vertrauter des Felsens]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Angroschgeweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Graveshgeweihten I]]

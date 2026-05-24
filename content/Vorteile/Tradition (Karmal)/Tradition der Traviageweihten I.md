@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 1a7a0964-e6a2-43b7-b4eb-99834cd84d3a
+ID: 950f9faa-cb16-4071-8974-86e66603a2fe
 Name: Tradition der Traviageweihten I
 title: Tradition der Traviageweihten I
 Kategorie: Tradition (Karmal)
@@ -19,6 +19,6 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen Travias Gebote verstößt: Gast
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut CH 4"
-  - "Vorteil Geweiht I"
-  - "Kein Vorteil Tradition der *geweihten I"
+  - Attribut [[Charisma|CH]] 4
+  - Vorteil [[Geweiht I]]
+  - Kein Vorteil Tradition der *geweihten I

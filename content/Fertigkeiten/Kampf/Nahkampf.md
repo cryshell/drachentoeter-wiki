@@ -1,26 +1,32 @@
 ---
 Entitätstyp: Fertigkeit
-ID: f2bb7dc4-6907-4c74-9855-c4cfa3462a6e
+ID: 0c42660b-b0bf-4b00-a97e-a9b71c3fcc51
 Name: Nahkampf
 title: Nahkampf
 Kategorie: Kampf
 Attribute:
-  - "[[Inhalt/Attribute/GE|GE]]"
-  - "[[Inhalt/Attribute/KK|KK]]"
-  - "[[Inhalt/Attribute/MU|MU]]"
+  - "[[Gewandheit|GE]]"
+  - "[[Körperkraft|KK]]"
+  - "[[Mut|MU]]"
 Steigerungsfaktor: 3
 Talente:
-  - "[[Inhalt/Talente/Profan/Nahkampf/Handgemenge|Handgemenge]]"
-  - "[[Inhalt/Talente/Profan/Nahkampf/Hiebwaffen|Hiebwaffen]]"
-  - "[[Inhalt/Talente/Profan/Nahkampf/Klingenwaffen|Klingenwaffen]]"
-  - "[[Inhalt/Talente/Profan/Nahkampf/Lanzenreiten|Lanzenreiten]]"
-  - "[[Inhalt/Talente/Profan/Nahkampf/Stangenwaffen|Stangenwaffen]]"
-  - "[[Inhalt/Talente/Profan/Nahkampf/Unbewaffnet|Unbewaffnet]]"
+  - "[[Handgemenge]]"
+  - "[[Hiebwaffen]]"
+  - "[[Klingenwaffen]]"
+  - "[[Lanzenreiten]]"
+  - "[[Stangenwaffen]]"
+  - "[[Unbewaffnet]]"
 ---
 Die Fertigkeit Nahkampf umfasst Angriffstechniken mit Nahkampfwaffen – sei es mit Schwertern, Äxten, Speeren oder waffenlosen Techniken.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/GE|GE]], [[Inhalt/Attribute/KK|KK]], [[Inhalt/Attribute/MU|MU]]
+- **Attribute:** [[Gewandheit|GE]], [[Körperkraft|KK]], [[Mut|MU]]
 - **Steigerungsfaktor:** 3
-- **Talente:** [[Inhalt/Talente/Profan/Nahkampf/Handgemenge|Handgemenge]], [[Inhalt/Talente/Profan/Nahkampf/Hiebwaffen|Hiebwaffen]], [[Inhalt/Talente/Profan/Nahkampf/Klingenwaffen|Klingenwaffen]], [[Inhalt/Talente/Profan/Nahkampf/Lanzenreiten|Lanzenreiten]], [[Inhalt/Talente/Profan/Nahkampf/Stangenwaffen|Stangenwaffen]], [[Inhalt/Talente/Profan/Nahkampf/Unbewaffnet|Unbewaffnet]]
+- **Talente:**
+  - [[Handgemenge]]
+  - [[Hiebwaffen]]
+  - [[Klingenwaffen]]
+  - [[Lanzenreiten]]
+  - [[Stangenwaffen]]
+  - [[Unbewaffnet]]

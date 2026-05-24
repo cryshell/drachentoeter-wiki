@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: 24100f59-0a45-4302-99c4-ce3c19ceed58
+ID: b233172e-0c7e-40e2-a196-df93665fdb99
 Name: Zyklopäisches Ringen
 title: Zyklopäisches Ringen
 Kategorie: Kampf
 Voraussetzungen: Attribut KK 6
 Querverweise:
-  - "[[Inhalt/Kapitel/Halten|Halten]]"
+  - "[[Halten]]"
 Nachkauf: häufig
 Kosten: 40
 ---
@@ -15,5 +15,6 @@ Deine unbewaffneten Angriffe gegen von dir mit Halten *fixierte* Gegner haben Vo
 ---
 
 - **Kosten:** 40 EP
-- **Voraussetzungen:** Attribut KK 6
-- **Siehe auch:** [[Inhalt/Kapitel/Halten|Halten]]
+- **Voraussetzungen:**
+  - Attribut [[Körperkraft|KK]] 6
+- **Siehe auch:** [[Halten]]

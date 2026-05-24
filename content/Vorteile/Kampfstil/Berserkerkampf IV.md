@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 9b5b0e39-e3df-487d-b98e-0b8e4230096c
+ID: 6a2c6d7b-118d-4eb3-96ef-f8bc23d73995
 Name: Berserkerkampf IV
 title: Berserkerkampf IV
 Kategorie: Kampfstil
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "Vorteil Berserkerkampf III"
-  - "MeisterAttribut MU 10"
+  - Vorteil [[Berserkerkampf III]]
+  - MeisterAttribut [[Mut|MU]] 10

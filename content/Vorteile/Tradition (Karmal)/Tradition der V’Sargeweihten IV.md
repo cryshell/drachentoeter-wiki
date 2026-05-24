@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 27c056a3-aa73-429a-a182-be32f5a8125a
+ID: 83ac949b-cd7b-44df-b6a0-067bad407633
 Name: Tradition der V’Sargeweihten IV
 title: Tradition der V’Sargeweihten IV
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ Kosten: 80
 
 - **Kosten:** 80 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut KL 10"
-  - "Vorteil Tradition der V’Sargeweihten III"
+  - MeisterAttribut [[Klugheit|KL]] 10
+  - Vorteil [[Tradition der V’Sargeweihten III]]

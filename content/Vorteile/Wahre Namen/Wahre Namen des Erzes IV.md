@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2641d41f-1f3d-451b-864e-5dce5b6e3776
+ID: f82e466b-484f-4a51-a3cd-78db1441bc1c
 Name: Wahre Namen des Erzes IV
 title: Wahre Namen des Erzes IV
 Kategorie: Wahre Namen
@@ -17,6 +17,6 @@ Kosten: 20
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
-  - "MeisterAttribut KL 10"
-  - "Vorteil Wahre Namen des Erzes III"
+  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - MeisterAttribut [[Klugheit|KL]] 10
+  - Vorteil [[Wahre Namen des Erzes III]]

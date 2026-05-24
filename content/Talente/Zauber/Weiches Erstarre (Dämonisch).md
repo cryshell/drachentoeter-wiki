@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 7133377a-9aa1-4655-9c0b-cd24d089dc5c
+ID: 7b316042-0114-4b4b-afbf-e127295586fc
 Name: "Weiches Erstarre! (Dämonisch)"
 title: "Weiches Erstarre! (Dämonisch)"
 Kategorie: Zauber

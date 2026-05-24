@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f2428c71-b482-4c5b-bcea-3677109e14df
+ID: ababb895-f6bd-4a26-b34d-6a0a4a39dbf2
 Name: Reiterkampf III
 title: Reiterkampf III
 Kategorie: Kampfstil
@@ -8,7 +8,7 @@ Voraussetzungen:
   - Attribut GE 8 ODER Attribut KK 8
   - Vorteil Reiterkampf II
 Querverweise:
-  - "[[Inhalt/Waffeneigenschaft/Reittier|Reittier]]"
+  - "[[Reittier]]"
 Nachkauf: häufig
 Kosten: 60
 ---
@@ -20,6 +20,6 @@ Kriegsreiter: Du kannst mit dem Reittier als Waffe aufbauende Begleitervorteile 
 
 - **Kosten:** 60 EP
 - **Voraussetzungen:**
-  - "Attribut GE 8 ODER Attribut KK 8"
-  - "Vorteil Reiterkampf II"
-- **Siehe auch:** [[Inhalt/Waffeneigenschaft/Reittier|Reittier]]
+  - Attribut GE 8 ODER Attribut KK 8
+  - Vorteil [[Reiterkampf II]]
+- **Siehe auch:** [[Reittier]]

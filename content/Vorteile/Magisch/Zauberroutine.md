@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 91d9f03f-17e2-40a2-b9fa-9b1d22dcbe72
+ID: a3aeaf32-6400-440e-9814-6dc6b0943a7d
 Name: Zauberroutine
 title: Zauberroutine
 Kategorie: Magisch
@@ -8,8 +8,8 @@ Voraussetzungen:
   - Vorteil Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I
   - Attribut KL 4
 Querverweise:
-  - "[[Inhalt/Kapitel/Reaktion|Reaktion]]"
-  - "[[Inhalt/Kapitel/Aktion Übernatürliches wirken|Aktion Übernatürliches wirken]]"
+  - "[[Reaktion]]"
+  - "[[Aktion Übernatürliches wirken]]"
 Nachkauf: häufig
 Kosten: 20
 ---
@@ -19,6 +19,6 @@ Wenn du einen Passierschlag gegen einen Gegner ausführen darfst, kannst du stat
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I"
-  - "Attribut KL 4"
-- **Siehe auch:** [[Inhalt/Kapitel/Reaktion|Reaktion]], [[Inhalt/Kapitel/Aktion Übernatürliches wirken|Aktion Übernatürliches wirken]]
+  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
+  - Attribut [[Klugheit|KL]] 4
+- **Siehe auch:** [[Reaktion]], [[Aktion Übernatürliches wirken]]

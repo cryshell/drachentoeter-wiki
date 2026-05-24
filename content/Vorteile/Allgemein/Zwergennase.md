@@ -1,11 +1,11 @@
 ---
 Entitätstyp: Vorteil
-ID: d769f813-ce9f-4a27-8a72-4fdfa80aac6b
+ID: 84f071aa-ad1e-4b77-889d-f03c9cb2f866
 Name: Zwergennase
 title: Zwergennase
 Kategorie: Allgemein
 Querverweise:
-  - "[[Inhalt/Talente/Profan/Wahrnehmung/Wachsamkeit|Wachsamkeit]]"
+  - "[[Wachsamkeit]]"
 Nachkauf: extrem selten
 Kosten: 60
 ---
@@ -14,4 +14,4 @@ Mit der Gabe der Zwergennase besitzt du einen übernatürlichen Riecher für Ver
 ---
 
 - **Kosten:** 60 EP
-- **Siehe auch:** [[Inhalt/Talente/Profan/Wahrnehmung/Wachsamkeit|Wachsamkeit]]
+- **Siehe auch:** [[Wachsamkeit]]

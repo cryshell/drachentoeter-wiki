@@ -1,23 +1,26 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 0a5d39db-2a44-4203-82dd-82f598144c4c
+ID: 995f0def-077c-4744-b2ff-0eb0f1b6b7b6
 Name: Straßenkunde
 title: Straßenkunde
 Kategorie: Interaktion
 Attribute:
-  - "[[Inhalt/Attribute/CH|CH]]"
-  - "[[Inhalt/Attribute/IN|IN]]"
-  - "[[Inhalt/Attribute/MU|MU]]"
+  - "[[Charisma|CH]]"
+  - "[[Intuition|IN]]"
+  - "[[Mut|MU]]"
 Steigerungsfaktor: 3
 Talente:
-  - "[[Inhalt/Talente/Profan/Straßenkunde/Gerüchte|Gerüchte]]"
-  - "[[Inhalt/Talente/Profan/Straßenkunde/Untertauchen|Untertauchen]]"
-  - "[[Inhalt/Talente/Profan/Straßenkunde/Zurechtfinden|Zurechtfinden]]"
+  - "[[Gerüchte]]"
+  - "[[Untertauchen]]"
+  - "[[Zurechtfinden]]"
 ---
 Mit Straßenkunde kannst du in einer Stadt den Weg zur Taverne finden und dich dort über die Gerüchte zum gestrigen Mord umhören oder einen Hehler fragen, ob die Goldkette des Opfers verhökert wurde.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/CH|CH]], [[Inhalt/Attribute/IN|IN]], [[Inhalt/Attribute/MU|MU]]
+- **Attribute:** [[Charisma|CH]], [[Intuition|IN]], [[Mut|MU]]
 - **Steigerungsfaktor:** 3
-- **Talente:** [[Inhalt/Talente/Profan/Straßenkunde/Gerüchte|Gerüchte]], [[Inhalt/Talente/Profan/Straßenkunde/Untertauchen|Untertauchen]], [[Inhalt/Talente/Profan/Straßenkunde/Zurechtfinden|Zurechtfinden]]
+- **Talente:**
+  - [[Gerüchte]]
+  - [[Untertauchen]]
+  - [[Zurechtfinden]]

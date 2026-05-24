@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 3e1c3b9a-32da-44ed-91ee-050e3304dd4f
+ID: cf682529-970d-41df-ae6e-c87106eb6a3c
 Name: "Kommando: Deckung geben!"
 title: "Kommando: Deckung geben!"
 Kategorie: Kampf
@@ -13,4 +13,5 @@ Du kannst als Bonusaktion zwei Mitstreitern in Hörweite (dich eingeschlossen) e
 ---
 
 - **Kosten:** 20 EP
-- **Voraussetzungen:** Attribut KL 4
+- **Voraussetzungen:**
+  - Attribut [[Klugheit|KL]] 4

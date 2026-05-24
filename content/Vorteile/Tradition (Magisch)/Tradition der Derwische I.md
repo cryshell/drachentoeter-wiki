@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 20007e52-0acb-4667-8d6e-1a941c74991a
+ID: 3b725381-caed-42bf-a608-652e728334ee
 Name: Tradition der Derwische I
 title: Tradition der Derwische I
 Kategorie: Tradition (Magisch)
@@ -18,5 +18,5 @@ Die Bedingung Trommelspiel kann nicht ignoriert werden.
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut FF 4"
-  - "Vorteil Zauberer I"
+  - Attribut [[Fingerfertigkeit|FF]] 4
+  - Vorteil [[Zauberer I]]

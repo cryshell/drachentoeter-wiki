@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 1089983d-6dfc-49bc-a8af-7f4240865bec
+ID: 8a4ee27e-4ffd-4e93-a215-eafad03f2906
 Name: Resistenz I
 title: Resistenz I
 Kategorie: Nachteil
@@ -13,4 +13,5 @@ Wann immer du durch die im Kommentarfeld angegebene Schadensquelle Einschränkun
 ---
 
 - **Kosten:** 0 EP
-- **Voraussetzungen:** Vorteil Vampir II
+- **Voraussetzungen:**
+  - Vorteil [[Vampir II]]

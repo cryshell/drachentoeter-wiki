@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a45d6b47-404a-4642-ac86-0aa37285924c
+ID: cdd77e53-80cd-4e13-8118-2598595a476f
 Name: Tradition der Tairachgeweihten II
 title: Tradition der Tairachgeweihten II
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ Tairachgeweihte erkennen im Blutmond ihren Gott. Im Mondlicht haben Liturgien Vo
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut KL 6"
-  - "Vorteil Tradition der Tairachgeweihten I"
+  - Attribut [[Klugheit|KL]] 6
+  - Vorteil [[Tradition der Tairachgeweihten I]]

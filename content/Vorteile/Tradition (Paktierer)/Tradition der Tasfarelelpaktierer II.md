@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: cf614547-4bc7-4b57-bcd3-488e3092084a
+ID: 89444cfb-3508-43e9-9548-caffa7128fd0
 Name: Tradition der Tasfarelelpaktierer II
 title: Tradition der Tasfarelelpaktierer II
 Kategorie: Tradition (Paktierer)
@@ -16,5 +16,5 @@ Paktierer werden durch erlittene Wunden eher noch gefährlicher. Der Wundabzug s
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut MU 6"
-  - "Vorteil Tradition der Tasfarelelpaktierer I"
+  - Attribut [[Mut|MU]] 6
+  - Vorteil [[Tradition der Tasfarelelpaktierer I]]

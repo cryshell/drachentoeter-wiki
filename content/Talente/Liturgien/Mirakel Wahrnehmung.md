@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: bf90617a-4df0-49b0-8f39-db771e741a26
+ID: 21067098-8b00-4f98-bb36-a4bbb92f3513
 Name: "Mirakel: Wahrnehmung"
 title: "Mirakel: Wahrnehmung"
 Kategorie: Liturgien

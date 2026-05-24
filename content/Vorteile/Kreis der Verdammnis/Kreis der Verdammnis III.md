@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: 31c6d1ee-56d6-4e8d-af87-21234daf5147
+ID: 907fe886-967f-4cc4-8203-d2d7dcba8333
 Name: Kreis der Verdammnis III
 title: Kreis der Verdammnis III
 Kategorie: Kreis der Verdammnis
 Voraussetzungen: Vorteil Kreis der Verdammnis II
 Querverweise:
-  - "[[Inhalt/Talente/Liturgien/Seelenprüfung|Seelenprüfung]]"
+  - "[[Seelenprüfung]]"
 Nachkauf: üblich
 Kosten: "-200"
 ---
@@ -21,5 +21,6 @@ Der Vorteil hat folgende Auswirkungen:
 ---
 
 - **Kosten:** -200 EP
-- **Voraussetzungen:** Vorteil Kreis der Verdammnis II
-- **Siehe auch:** [[Inhalt/Talente/Liturgien/Seelenprüfung|Seelenprüfung]]
+- **Voraussetzungen:**
+  - Vorteil [[Kreis der Verdammnis II]]
+- **Siehe auch:** [[Seelenprüfung]]

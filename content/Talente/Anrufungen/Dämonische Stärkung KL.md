@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 0c05f69d-9fb8-424a-9f02-095f10d6a5ef
+ID: 401f170c-5b13-422e-a00c-896df90c3044
 Name: "Dämonische Stärkung: KL"
 title: "Dämonische Stärkung: KL"
 Kategorie: Anrufungen

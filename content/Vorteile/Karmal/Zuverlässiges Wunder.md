@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: dd282a8a-b92b-48de-ba71-b049050f8fd0
+ID: 1460c223-2e15-4d29-a75a-1f591efb96a6
 Name: Zuverlässiges Wunder
 title: Zuverlässiges Wunder
 Kategorie: Karmal
@@ -8,7 +8,7 @@ Voraussetzungen:
   - Attribut IN 6
   - Vorteil Geweiht I
 Querverweise:
-  - "[[Inhalt/Kapitel/Mirakel|Mirakel]]"
+  - "[[Mirakel]]"
 Nachkauf: häufig
 Kosten: 40
 ---
@@ -18,6 +18,6 @@ Schlägt eine durch ein Mirakel unterstützte Probe fehl, bleibt die Wirkung des
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut IN 6"
-  - "Vorteil Geweiht I"
-- **Siehe auch:** [[Inhalt/Kapitel/Mirakel|Mirakel]]
+  - Attribut [[Intuition|IN]] 6
+  - Vorteil [[Geweiht I]]
+- **Siehe auch:** [[Mirakel]]

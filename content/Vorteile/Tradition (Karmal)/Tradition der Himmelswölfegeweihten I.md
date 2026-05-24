@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: ab44730d-f591-4c5c-8934-f2ede40bbbc9
+ID: be9a2cfb-1f48-4f03-88b2-c07124e85019
 Name: Tradition der Himmelswölfegeweihten I
 title: Tradition der Himmelswölfegeweihten I
 Kategorie: Tradition (Karmal)
@@ -20,7 +20,7 @@ Liturgien haben Nachteil, wenn ihr Einsatz gegen die Gebote der Himmelswölfe ve
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut CH 4"
-  - "Vorteil Geweiht I"
-  - "Kein Vorteil Tradition der *geweihten I"
-  - "Vorteil Tradition der Schamanen (Nivesen) III"
+  - Attribut [[Charisma|CH]] 4
+  - Vorteil [[Geweiht I]]
+  - Kein Vorteil Tradition der *geweihten I
+  - Vorteil [[Tradition der Schamanen (Nivesen) III]]

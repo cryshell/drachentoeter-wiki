@@ -1,12 +1,12 @@
 ---
 Entitätstyp: Vorteil
-ID: 83e65460-3435-448b-bea6-d5d5e38b7022
+ID: 2198a218-2faa-4c3c-bc4d-0e369667c9b5
 Name: Gegneranalyse
 title: Gegneranalyse
 Kategorie: Kampf
 Voraussetzungen: Attribut KL 10
 Querverweise:
-  - "[[Inhalt/Kapitel/Triumph und Patzer|Triumph und Patzer]]"
+  - "[[Triumph und Patzer]]"
 Nachkauf: häufig
 Kosten: 80
 ---
@@ -16,5 +16,6 @@ Kosten: 80
 ---
 
 - **Kosten:** 80 EP
-- **Voraussetzungen:** Attribut KL 10
-- **Siehe auch:** [[Inhalt/Kapitel/Triumph und Patzer|Triumph und Patzer]]
+- **Voraussetzungen:**
+  - Attribut [[Klugheit|KL]] 10
+- **Siehe auch:** [[Triumph und Patzer]]

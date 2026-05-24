@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: c211d598-87ca-4db0-98cc-5282ae525e58
+ID: 72dee26d-3737-45c4-b34d-d63be532df07
 Name: Tradition der Giftmischer IV
 title: Tradition der Giftmischer IV
 Kategorie: Tradition (Profan)
@@ -16,5 +16,5 @@ Kosten: 20
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "MeisterAttribut FF 10"
-  - "Vorteil Tradition der Giftmischer III"
+  - MeisterAttribut [[Fingerfertigkeit|FF]] 10
+  - Vorteil [[Tradition der Giftmischer III]]

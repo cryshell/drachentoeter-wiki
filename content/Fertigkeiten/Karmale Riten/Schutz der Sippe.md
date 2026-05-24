@@ -1,32 +1,43 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 8dc23d16-ce26-4a15-a8b4-2c219ccdcc52
+ID: 3e223673-b71b-4d75-99aa-490107e2ea2a
 Name: Schutz der Sippe
 title: Schutz der Sippe
 Kategorie: Karmale Riten
 Attribute:
-  - "[[Inhalt/Attribute/KO|KO]]"
-  - "[[Inhalt/Attribute/KL|KL]]"
-  - "[[Inhalt/Attribute/MU|MU]]"
+  - "[[Konstitution|KO]]"
+  - "[[Klugheit|KL]]"
+  - "[[Mut|MU]]"
 Steigerungsfaktor: 2
 Talente:
-  - "[[Inhalt/Talente/Liturgien/Gorfangs Fluch|Gorfangs Fluch]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: KK|Mirakel: KK]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: MU|Mirakel: MU]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Wahrnehmung|Mirakel: Wahrnehmung]]"
-  - "[[Inhalt/Talente/Liturgien/Mirakel: Überleben|Mirakel: Überleben]]"
-  - "[[Inhalt/Talente/Liturgien/Schutzsegen|Schutzsegen]]"
-  - "[[Inhalt/Talente/Liturgien/Sichere Wanderung im Schnee|Sichere Wanderung im Schnee]]"
-  - "[[Inhalt/Talente/Liturgien/Vaês Tränen|Vaês Tränen]]"
-  - "[[Inhalt/Talente/Liturgien/Winterschlaf|Winterschlaf]]"
-  - "[[Inhalt/Talente/Liturgien/Zuflucht finden|Zuflucht finden]]"
+  - "[[Gorfangs Fluch]]"
+  - "[[Mirakel KK|Mirakel: KK]]"
+  - "[[Mirakel MU|Mirakel: MU]]"
+  - "[[Mirakel Wahrnehmung|Mirakel: Wahrnehmung]]"
+  - "[[Mirakel Überleben|Mirakel: Überleben]]"
+  - "[[Schutzsegen]]"
+  - "[[Sichere Wanderung im Schnee]]"
+  - "[[Vaês Tränen]]"
+  - "[[Winterschlaf]]"
+  - "[[Zuflucht finden]]"
 Voraussetzungen: Vorteil Tradition der Himmelswölfegeweihten I
 ---
 Himmelswölfegeweihte können ihre Sippe vor Gefahren schützen und Unheil von ihr abwenden.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/KO|KO]], [[Inhalt/Attribute/KL|KL]], [[Inhalt/Attribute/MU|MU]]
+- **Attribute:** [[Konstitution|KO]], [[Klugheit|KL]], [[Mut|MU]]
 - **Steigerungsfaktor:** 2
-- **Talente:** [[Inhalt/Talente/Liturgien/Gorfangs Fluch|Gorfangs Fluch]], [[Inhalt/Talente/Liturgien/Mirakel: KK|Mirakel: KK]], [[Inhalt/Talente/Liturgien/Mirakel: MU|Mirakel: MU]], [[Inhalt/Talente/Liturgien/Mirakel: Wahrnehmung|Mirakel: Wahrnehmung]], [[Inhalt/Talente/Liturgien/Mirakel: Überleben|Mirakel: Überleben]], [[Inhalt/Talente/Liturgien/Schutzsegen|Schutzsegen]], [[Inhalt/Talente/Liturgien/Sichere Wanderung im Schnee|Sichere Wanderung im Schnee]], [[Inhalt/Talente/Liturgien/Vaês Tränen|Vaês Tränen]], [[Inhalt/Talente/Liturgien/Winterschlaf|Winterschlaf]], [[Inhalt/Talente/Liturgien/Zuflucht finden|Zuflucht finden]]
-- **Voraussetzungen:** Vorteil Tradition der Himmelswölfegeweihten I
+- **Talente:**
+  - [[Gorfangs Fluch]]
+  - [[Mirakel KK|Mirakel: KK]]
+  - [[Mirakel MU|Mirakel: MU]]
+  - [[Mirakel Wahrnehmung|Mirakel: Wahrnehmung]]
+  - [[Mirakel Überleben|Mirakel: Überleben]]
+  - [[Schutzsegen]]
+  - [[Sichere Wanderung im Schnee]]
+  - [[Vaês Tränen]]
+  - [[Winterschlaf]]
+  - [[Zuflucht finden]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Himmelswölfegeweihten I]]

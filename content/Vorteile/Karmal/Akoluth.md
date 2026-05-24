@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4d38eae3-7333-4c0a-a2ba-5b8beb975c91
+ID: d9af1fe4-09ca-482e-b8c9-ceee38526347
 Name: Akoluth
 title: Akoluth
 Kategorie: Karmal
@@ -15,4 +15,5 @@ Dieser Vorteil ist der erste Schritt zur Spätweihe.
 ---
 
 - **Kosten:** 20 EP
-- **Voraussetzungen:** Kein Vorteil Geweiht I
+- **Voraussetzungen:**
+  - Kein Vorteil Geweiht I

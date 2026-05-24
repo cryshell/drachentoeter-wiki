@@ -1,73 +1,125 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 2c4d6ec1-2516-441f-8a08-57fd9c79fc1f
+ID: f48873f1-51f2-4ebd-a9a6-c6895a2a263e
 Name: Dämonisch
 title: Dämonisch
 Kategorie: Zauberfertigkeiten
 Attribute:
-  - "[[Inhalt/Attribute/CH|CH]]"
-  - "[[Inhalt/Attribute/MU|MU]]"
-  - "[[Inhalt/Attribute/MU|MU]]"
+  - "[[Charisma|CH]]"
+  - "[[Mut|MU]]"
+  - "[[Mut|MU]]"
 Steigerungsfaktor: 3
 Talente:
-  - "[[Inhalt/Talente/Zauber/Arachnea Krabbeltier (Dämonisch)|Arachnea Krabbeltier (Dämonisch)]]"
-  - "[[Inhalt/Talente/Zauber/Auge der ewigen Wacht|Auge der ewigen Wacht]]"
-  - "[[Inhalt/Talente/Zauber/Bannschwert|Bannschwert]]"
-  - "[[Inhalt/Talente/Zauber/Brenne toter Stoff! (Dämonisch)|Brenne toter Stoff! (Dämonisch)]]"
-  - "[[Inhalt/Talente/Zauber/Chimaeroform Hybridgestalt|Chimaeroform Hybridgestalt]]"
-  - "[[Inhalt/Talente/Zauber/Dämonenbann|Dämonenbann]]"
-  - "[[Inhalt/Talente/Zauber/Ecliptifactus Schattenkraft|Ecliptifactus Schattenkraft]]"
-  - "[[Inhalt/Talente/Zauber/Eigene Ängste quälen dich!|Eigene Ängste quälen dich!]]"
-  - "[[Inhalt/Talente/Zauber/Erinnerung verlasse dich!|Erinnerung verlasse dich!]]"
-  - "[[Inhalt/Talente/Zauber/Fluch der Pestilenz|Fluch der Pestilenz]]"
-  - "[[Inhalt/Talente/Zauber/Fluch der Verwirrung|Fluch der Verwirrung]]"
-  - "[[Inhalt/Talente/Zauber/Fluch des Gewürms|Fluch des Gewürms]]"
-  - "[[Inhalt/Talente/Zauber/Fluch des Siechtums|Fluch des Siechtums]]"
-  - "[[Inhalt/Talente/Zauber/Geleit des Nipakau|Geleit des Nipakau]]"
-  - "[[Inhalt/Talente/Zauber/Granit und Marmor|Granit und Marmor]]"
-  - "[[Inhalt/Talente/Zauber/Hartes schmelze! (Dämonisch)|Hartes schmelze! (Dämonisch)]]"
-  - "[[Inhalt/Talente/Zauber/Herzschlag ruhe!|Herzschlag ruhe!]]"
-  - "[[Inhalt/Talente/Zauber/Hexenblick (Dämonisch)|Hexenblick (Dämonisch)]]"
-  - "[[Inhalt/Talente/Zauber/Höllenpein zerreiße dich!|Höllenpein zerreiße dich!]]"
-  - "[[Inhalt/Talente/Zauber/Invocatio|Invocatio]]"
-  - "[[Inhalt/Talente/Zauber/Invocatio Minima|Invocatio Minima]]"
-  - "[[Inhalt/Talente/Zauber/Iribaars Hand|Iribaars Hand]]"
-  - "[[Inhalt/Talente/Zauber/Karnifilo Raserei|Karnifilo Raserei]]"
-  - "[[Inhalt/Talente/Zauber/Kornfäule|Kornfäule]]"
-  - "[[Inhalt/Talente/Zauber/Krabbelnder Schrecken|Krabbelnder Schrecken]]"
-  - "[[Inhalt/Talente/Zauber/Last des Alters (Dämonisch)|Last des Alters (Dämonisch)]]"
-  - "[[Inhalt/Talente/Zauber/Leidensbote|Leidensbote]]"
-  - "[[Inhalt/Talente/Zauber/Leidensbund (Dämonisch)|Leidensbund (Dämonisch)]]"
-  - "[[Inhalt/Talente/Zauber/Macht der Ungeformten|Macht der Ungeformten]]"
-  - "[[Inhalt/Talente/Zauber/Niederhöllen Eisgestalt|Niederhöllen Eisgestalt]]"
-  - "[[Inhalt/Talente/Zauber/Nuntiovolo Botenvogel|Nuntiovolo Botenvogel]]"
-  - "[[Inhalt/Talente/Zauber/Pandaemonium|Pandaemonium]]"
-  - "[[Inhalt/Talente/Zauber/Panik überkomme euch!|Panik überkomme euch!]]"
-  - "[[Inhalt/Talente/Zauber/Pestilenz|Pestilenz]]"
-  - "[[Inhalt/Talente/Zauber/Reptilea Natternnest|Reptilea Natternnest]]"
-  - "[[Inhalt/Talente/Zauber/Rikais Fluch|Rikais Fluch]]"
-  - "[[Inhalt/Talente/Zauber/Schutzkreis gegen Daimonide|Schutzkreis gegen Daimonide]]"
-  - "[[Inhalt/Talente/Zauber/Schutzkreis gegen Dämonen|Schutzkreis gegen Dämonen]]"
-  - "[[Inhalt/Talente/Zauber/Schutzkreis gegen Untote|Schutzkreis gegen Untote]]"
-  - "[[Inhalt/Talente/Zauber/Schwarz und Rot|Schwarz und Rot]]"
-  - "[[Inhalt/Talente/Zauber/Seelenfeuer Lichterloh|Seelenfeuer Lichterloh]]"
-  - "[[Inhalt/Talente/Zauber/Skelettarius Totenherr|Skelettarius Totenherr]]"
-  - "[[Inhalt/Talente/Zauber/Stein wandle!|Stein wandle!]]"
-  - "[[Inhalt/Talente/Zauber/Tairachs Krieger|Tairachs Krieger]]"
-  - "[[Inhalt/Talente/Zauber/Tlalucs Odem Pestgestank|Tlalucs Odem Pestgestank]]"
-  - "[[Inhalt/Talente/Zauber/Totes handle!|Totes handle!]]"
-  - "[[Inhalt/Talente/Zauber/Umbraporta Schattentür|Umbraporta Schattentür]]"
-  - "[[Inhalt/Talente/Zauber/Unfruchtbarkeit|Unfruchtbarkeit]]"
-  - "[[Inhalt/Talente/Zauber/Viehverstümmelung|Viehverstümmelung]]"
-  - "[[Inhalt/Talente/Zauber/Weiches Erstarre! (Dämonisch)|Weiches Erstarre! (Dämonisch)]]"
-  - "[[Inhalt/Talente/Zauber/Wimmelndes Zeichen|Wimmelndes Zeichen]]"
+  - "[[Arachnea Krabbeltier (Dämonisch)]]"
+  - "[[Auge der ewigen Wacht]]"
+  - "[[Bannschwert]]"
+  - "[[Brenne toter Stoff (Dämonisch)|Brenne toter Stoff! (Dämonisch)]]"
+  - "[[Chimaeroform Hybridgestalt]]"
+  - "[[Dämonenbann]]"
+  - "[[Ecliptifactus Schattenkraft]]"
+  - "[[Eigene Ängste quälen dich|Eigene Ängste quälen dich!]]"
+  - "[[Erinnerung verlasse dich|Erinnerung verlasse dich!]]"
+  - "[[Fluch der Pestilenz]]"
+  - "[[Fluch der Verwirrung]]"
+  - "[[Fluch des Gewürms]]"
+  - "[[Fluch des Siechtums]]"
+  - "[[Geleit des Nipakau]]"
+  - "[[Granit und Marmor]]"
+  - "[[Hartes schmelze (Dämonisch)|Hartes schmelze! (Dämonisch)]]"
+  - "[[Herzschlag ruhe|Herzschlag ruhe!]]"
+  - "[[Hexenblick (Dämonisch)]]"
+  - "[[Höllenpein zerreiße dich|Höllenpein zerreiße dich!]]"
+  - "[[Invocatio]]"
+  - "[[Invocatio Minima]]"
+  - "[[Iribaars Hand]]"
+  - "[[Karnifilo Raserei]]"
+  - "[[Kornfäule]]"
+  - "[[Krabbelnder Schrecken]]"
+  - "[[Last des Alters (Dämonisch)]]"
+  - "[[Leidensbote]]"
+  - "[[Leidensbund (Dämonisch)]]"
+  - "[[Macht der Ungeformten]]"
+  - "[[Niederhöllen Eisgestalt]]"
+  - "[[Nuntiovolo Botenvogel]]"
+  - "[[Pandaemonium]]"
+  - "[[Panik überkomme euch|Panik überkomme euch!]]"
+  - "[[Pestilenz]]"
+  - "[[Reptilea Natternnest]]"
+  - "[[Rikais Fluch]]"
+  - "[[Schutzkreis gegen Daimonide]]"
+  - "[[Schutzkreis gegen Dämonen]]"
+  - "[[Schutzkreis gegen Untote]]"
+  - "[[Schwarz und Rot]]"
+  - "[[Seelenfeuer Lichterloh]]"
+  - "[[Skelettarius Totenherr]]"
+  - "[[Stein wandle|Stein wandle!]]"
+  - "[[Tairachs Krieger]]"
+  - "[[Tlalucs Odem Pestgestank]]"
+  - "[[Totes handle|Totes handle!]]"
+  - "[[Umbraporta Schattentür]]"
+  - "[[Unfruchtbarkeit]]"
+  - "[[Viehverstümmelung]]"
+  - "[[Weiches Erstarre (Dämonisch)|Weiches Erstarre! (Dämonisch)]]"
+  - "[[Wimmelndes Zeichen]]"
 Voraussetzungen: Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Shakagra I
 ---
 Diese finstere Zauberei ruft Dämonen in die dritte Sphäre, erhebt Untote, erschafft Chimären und Golems oder nutzt die Macht der Niederhöllen für andere zerstörerische Effekte.
 
 ---
 
-- **Attribute:** [[Inhalt/Attribute/CH|CH]], [[Inhalt/Attribute/MU|MU]], [[Inhalt/Attribute/MU|MU]]
+- **Attribute:** [[Charisma|CH]], [[Mut|MU]], [[Mut|MU]]
 - **Steigerungsfaktor:** 3
-- **Talente:** [[Inhalt/Talente/Zauber/Arachnea Krabbeltier (Dämonisch)|Arachnea Krabbeltier (Dämonisch)]], [[Inhalt/Talente/Zauber/Auge der ewigen Wacht|Auge der ewigen Wacht]], [[Inhalt/Talente/Zauber/Bannschwert|Bannschwert]], [[Inhalt/Talente/Zauber/Brenne toter Stoff! (Dämonisch)|Brenne toter Stoff! (Dämonisch)]], [[Inhalt/Talente/Zauber/Chimaeroform Hybridgestalt|Chimaeroform Hybridgestalt]], [[Inhalt/Talente/Zauber/Dämonenbann|Dämonenbann]], [[Inhalt/Talente/Zauber/Ecliptifactus Schattenkraft|Ecliptifactus Schattenkraft]], [[Inhalt/Talente/Zauber/Eigene Ängste quälen dich!|Eigene Ängste quälen dich!]], [[Inhalt/Talente/Zauber/Erinnerung verlasse dich!|Erinnerung verlasse dich!]], [[Inhalt/Talente/Zauber/Fluch der Pestilenz|Fluch der Pestilenz]], [[Inhalt/Talente/Zauber/Fluch der Verwirrung|Fluch der Verwirrung]], [[Inhalt/Talente/Zauber/Fluch des Gewürms|Fluch des Gewürms]], [[Inhalt/Talente/Zauber/Fluch des Siechtums|Fluch des Siechtums]], [[Inhalt/Talente/Zauber/Geleit des Nipakau|Geleit des Nipakau]], [[Inhalt/Talente/Zauber/Granit und Marmor|Granit und Marmor]], [[Inhalt/Talente/Zauber/Hartes schmelze! (Dämonisch)|Hartes schmelze! (Dämonisch)]], [[Inhalt/Talente/Zauber/Herzschlag ruhe!|Herzschlag ruhe!]], [[Inhalt/Talente/Zauber/Hexenblick (Dämonisch)|Hexenblick (Dämonisch)]], [[Inhalt/Talente/Zauber/Höllenpein zerreiße dich!|Höllenpein zerreiße dich!]], [[Inhalt/Talente/Zauber/Invocatio|Invocatio]], [[Inhalt/Talente/Zauber/Invocatio Minima|Invocatio Minima]], [[Inhalt/Talente/Zauber/Iribaars Hand|Iribaars Hand]], [[Inhalt/Talente/Zauber/Karnifilo Raserei|Karnifilo Raserei]], [[Inhalt/Talente/Zauber/Kornfäule|Kornfäule]], [[Inhalt/Talente/Zauber/Krabbelnder Schrecken|Krabbelnder Schrecken]], [[Inhalt/Talente/Zauber/Last des Alters (Dämonisch)|Last des Alters (Dämonisch)]], [[Inhalt/Talente/Zauber/Leidensbote|Leidensbote]], [[Inhalt/Talente/Zauber/Leidensbund (Dämonisch)|Leidensbund (Dämonisch)]], [[Inhalt/Talente/Zauber/Macht der Ungeformten|Macht der Ungeformten]], [[Inhalt/Talente/Zauber/Niederhöllen Eisgestalt|Niederhöllen Eisgestalt]], [[Inhalt/Talente/Zauber/Nuntiovolo Botenvogel|Nuntiovolo Botenvogel]], [[Inhalt/Talente/Zauber/Pandaemonium|Pandaemonium]], [[Inhalt/Talente/Zauber/Panik überkomme euch!|Panik überkomme euch!]], [[Inhalt/Talente/Zauber/Pestilenz|Pestilenz]], [[Inhalt/Talente/Zauber/Reptilea Natternnest|Reptilea Natternnest]], [[Inhalt/Talente/Zauber/Rikais Fluch|Rikais Fluch]], [[Inhalt/Talente/Zauber/Schutzkreis gegen Daimonide|Schutzkreis gegen Daimonide]], [[Inhalt/Talente/Zauber/Schutzkreis gegen Dämonen|Schutzkreis gegen Dämonen]], [[Inhalt/Talente/Zauber/Schutzkreis gegen Untote|Schutzkreis gegen Untote]], [[Inhalt/Talente/Zauber/Schwarz und Rot|Schwarz und Rot]], [[Inhalt/Talente/Zauber/Seelenfeuer Lichterloh|Seelenfeuer Lichterloh]], [[Inhalt/Talente/Zauber/Skelettarius Totenherr|Skelettarius Totenherr]], [[Inhalt/Talente/Zauber/Stein wandle!|Stein wandle!]], [[Inhalt/Talente/Zauber/Tairachs Krieger|Tairachs Krieger]], [[Inhalt/Talente/Zauber/Tlalucs Odem Pestgestank|Tlalucs Odem Pestgestank]], [[Inhalt/Talente/Zauber/Totes handle!|Totes handle!]], [[Inhalt/Talente/Zauber/Umbraporta Schattentür|Umbraporta Schattentür]], [[Inhalt/Talente/Zauber/Unfruchtbarkeit|Unfruchtbarkeit]], [[Inhalt/Talente/Zauber/Viehverstümmelung|Viehverstümmelung]], [[Inhalt/Talente/Zauber/Weiches Erstarre! (Dämonisch)|Weiches Erstarre! (Dämonisch)]], [[Inhalt/Talente/Zauber/Wimmelndes Zeichen|Wimmelndes Zeichen]]
-- **Voraussetzungen:** Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Shakagra I
+- **Talente:**
+  - [[Arachnea Krabbeltier (Dämonisch)]]
+  - [[Auge der ewigen Wacht]]
+  - [[Bannschwert]]
+  - [[Brenne toter Stoff (Dämonisch)|Brenne toter Stoff! (Dämonisch)]]
+  - [[Chimaeroform Hybridgestalt]]
+  - [[Dämonenbann]]
+  - [[Ecliptifactus Schattenkraft]]
+  - [[Eigene Ängste quälen dich|Eigene Ängste quälen dich!]]
+  - [[Erinnerung verlasse dich|Erinnerung verlasse dich!]]
+  - [[Fluch der Pestilenz]]
+  - [[Fluch der Verwirrung]]
+  - [[Fluch des Gewürms]]
+  - [[Fluch des Siechtums]]
+  - [[Geleit des Nipakau]]
+  - [[Granit und Marmor]]
+  - [[Hartes schmelze (Dämonisch)|Hartes schmelze! (Dämonisch)]]
+  - [[Herzschlag ruhe|Herzschlag ruhe!]]
+  - [[Hexenblick (Dämonisch)]]
+  - [[Höllenpein zerreiße dich|Höllenpein zerreiße dich!]]
+  - [[Invocatio]]
+  - [[Invocatio Minima]]
+  - [[Iribaars Hand]]
+  - [[Karnifilo Raserei]]
+  - [[Kornfäule]]
+  - [[Krabbelnder Schrecken]]
+  - [[Last des Alters (Dämonisch)]]
+  - [[Leidensbote]]
+  - [[Leidensbund (Dämonisch)]]
+  - [[Macht der Ungeformten]]
+  - [[Niederhöllen Eisgestalt]]
+  - [[Nuntiovolo Botenvogel]]
+  - [[Pandaemonium]]
+  - [[Panik überkomme euch|Panik überkomme euch!]]
+  - [[Pestilenz]]
+  - [[Reptilea Natternnest]]
+  - [[Rikais Fluch]]
+  - [[Schutzkreis gegen Daimonide]]
+  - [[Schutzkreis gegen Dämonen]]
+  - [[Schutzkreis gegen Untote]]
+  - [[Schwarz und Rot]]
+  - [[Seelenfeuer Lichterloh]]
+  - [[Skelettarius Totenherr]]
+  - [[Stein wandle|Stein wandle!]]
+  - [[Tairachs Krieger]]
+  - [[Tlalucs Odem Pestgestank]]
+  - [[Totes handle|Totes handle!]]
+  - [[Umbraporta Schattentür]]
+  - [[Unfruchtbarkeit]]
+  - [[Viehverstümmelung]]
+  - [[Weiches Erstarre (Dämonisch)|Weiches Erstarre! (Dämonisch)]]
+  - [[Wimmelndes Zeichen]]
+- **Voraussetzungen:**
+  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Shakagra I]]

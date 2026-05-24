@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c0fc70bb-302f-4408-bcf4-f4909a6ba623
+ID: 6560f866-df80-48c3-bf59-17cf6225723e
 Name: "Dämonische Stärkung: Verteidigung"
 title: "Dämonische Stärkung: Verteidigung"
 Kategorie: Anrufungen

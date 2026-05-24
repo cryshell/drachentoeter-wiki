@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 7d9db298-404a-4d16-8ddf-c23fcf95337b
+ID: 39c0405f-ba66-48a1-9a9e-2cb21d0cb64d
 Name: Vorbereitung
 title: Vorbereitung
 Kategorie: Profan
@@ -13,4 +13,5 @@ In Rücksprache mit der Spielleitung kannst du für 1 WiP in einer Rückblende e
 ---
 
 - **Kosten:** 60 EP
-- **Voraussetzungen:** Attribut KL 8
+- **Voraussetzungen:**
+  - Attribut [[Klugheit|KL]] 8

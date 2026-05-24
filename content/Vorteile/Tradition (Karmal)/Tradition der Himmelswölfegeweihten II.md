@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 876ab459-7498-46ee-adbc-d6988681fa24
+ID: 2cd452ab-4e0d-4c82-8953-1bd4f29ba85a
 Name: Tradition der Himmelswölfegeweihten II
 title: Tradition der Himmelswölfegeweihten II
 Kategorie: Tradition (Karmal)
@@ -16,5 +16,5 @@ Himmelswölfegeweihte ziehen die Kraft aus ihrer Gemeinschaft. Zauber, die der U
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut CH 6"
-  - "Vorteil Tradition der Himmelswölfegeweihten I"
+  - Attribut [[Charisma|CH]] 6
+  - Vorteil [[Tradition der Himmelswölfegeweihten I]]

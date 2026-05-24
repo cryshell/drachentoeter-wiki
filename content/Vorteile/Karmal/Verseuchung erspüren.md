@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d7b17b03-d102-47ff-83a1-88952e7ec518
+ID: 4cfc25d4-5afe-4dd2-afb4-8c6a08d33746
 Name: Verseuchung erspüren
 title: Verseuchung erspüren
 Kategorie: Karmal
@@ -16,5 +16,5 @@ Du die Anwesenheit und die grobe Stärke - nicht aber den genauen Ort - von däm
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut MU 4"
-  - "Vorteil Geweiht I"
+  - Attribut [[Mut|MU]] 4
+  - Vorteil [[Geweiht I]]

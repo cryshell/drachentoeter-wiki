@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a0551831-399b-4320-9180-c97a84364b82
+ID: bd3b4a0b-92ba-44ba-97fb-b48300a175c2
 Name: Tradition der Hexen III
 title: Tradition der Hexen III
 Kategorie: Tradition (Magisch)
@@ -8,7 +8,7 @@ Voraussetzungen:
   - Attribut IN 8
   - Vorteil Tradition der Hexen II
 Querverweise:
-  - "[[Inhalt/Kapitel/Erzwingen|Erzwingen]]"
+  - "[[Erzwingen]]"
 Nachkauf: häufig
 Kosten: 60
 ---
@@ -18,6 +18,6 @@ Erlaubt die spontane Modifikation Erzwingen.
 
 - **Kosten:** 60 EP
 - **Voraussetzungen:**
-  - "Attribut IN 8"
-  - "Vorteil Tradition der Hexen II"
-- **Siehe auch:** [[Inhalt/Kapitel/Erzwingen|Erzwingen]]
+  - Attribut [[Intuition|IN]] 8
+  - Vorteil [[Tradition der Hexen II]]
+- **Siehe auch:** [[Erzwingen]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 827cf8a9-9bbf-464b-9710-1e49f29694c8
+ID: 2ad085e4-bbd1-4dac-8368-630461996012
 Name: Wahre Namen Belkelels III
 title: Wahre Namen Belkelels III
 Kategorie: Wahre Namen
@@ -17,6 +17,6 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
-  - "Attribut KL 8"
-  - "Vorteil Wahre Namen Belkelels II"
+  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Attribut [[Klugheit|KL]] 8
+  - Vorteil [[Wahre Namen Belkelels II]]

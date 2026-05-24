@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 604e5cc4-8b2f-4eb0-aa29-89c4449e8fbf
+ID: 82dd142f-02f3-4e30-859a-cbe91652ce0b
 Name: "Mirakel: Verteidigung"
 title: "Mirakel: Verteidigung"
 Kategorie: Liturgien

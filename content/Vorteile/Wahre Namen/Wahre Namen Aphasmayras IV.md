@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 3fb9f1e6-f644-4b37-a1cb-111ca033c702
+ID: 8574ceb4-a95c-48a9-bc9e-5e04ccf4138a
 Name: Wahre Namen Aphasmayras IV
 title: Wahre Namen Aphasmayras IV
 Kategorie: Wahre Namen
@@ -17,6 +17,6 @@ Kosten: 10
 
 - **Kosten:** 10 EP
 - **Voraussetzungen:**
-  - "Vorteil Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I"
-  - "MeisterAttribut KL 10"
-  - "Vorteil Wahre Namen Aphasmayras III"
+  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - MeisterAttribut [[Klugheit|KL]] 10
+  - Vorteil [[Wahre Namen Aphasmayras III]]

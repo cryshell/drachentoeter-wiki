@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b5140b20-77d1-46b5-b245-351e3c3f20f8
+ID: 1421275d-2f8c-4e5e-a132-9a1cdbd0eb60
 Name: Tradition der Runenmagier
 title: Tradition der Runenmagier
 Kategorie: Tradition (Magisch)
@@ -8,7 +8,7 @@ Voraussetzungen:
   - Attribut FF 4
   - Vorteil Zauberer I
 Querverweise:
-  - "[[Inhalt/Kapitel/Zauberrunen|Zauberrunen]]"
+  - "[[Zauberrunen]]"
 Nachkauf: häufig
 Kosten: 20
 ---
@@ -20,6 +20,6 @@ Die Bedingung passende Rune kann nicht ignoriert werden.
 
 - **Kosten:** 20 EP
 - **Voraussetzungen:**
-  - "Attribut FF 4"
-  - "Vorteil Zauberer I"
-- **Siehe auch:** [[Inhalt/Kapitel/Zauberrunen|Zauberrunen]]
+  - Attribut [[Fingerfertigkeit|FF]] 4
+  - Vorteil [[Zauberer I]]
+- **Siehe auch:** [[Zauberrunen]]

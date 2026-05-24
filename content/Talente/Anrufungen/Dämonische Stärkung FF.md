@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 0bd51d79-7704-49f2-9acc-a94dc11f334a
+ID: 5aafdd3e-a733-4c3a-8a1d-632481656ac4
 Name: "Dämonische Stärkung: FF"
 title: "Dämonische Stärkung: FF"
 Kategorie: Anrufungen

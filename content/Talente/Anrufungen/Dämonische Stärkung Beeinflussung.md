@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 013ab33a-8cfd-4bca-a96c-3f2c77cb65d7
+ID: dd7c9b42-7209-46dd-a32b-175aa5250469
 Name: "Dämonische Stärkung: Beeinflussung"
 title: "Dämonische Stärkung: Beeinflussung"
 Kategorie: Anrufungen

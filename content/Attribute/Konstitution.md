@@ -1,8 +1,9 @@
 ---
 Entitätstyp: Attribut
-ID: 22e0a122-bb27-496d-941a-6ed19bf9128a
+ID: 3cc4346b-d158-4cb1-a1b0-c93499282447
 Name: Konstitution
 title: Konstitution
+aliases: "[KO]"
 Abkürzung: KO
 Steigerungsfaktor: 16
 ---

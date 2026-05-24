@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 3bb1c46d-1ccd-4ae8-8f32-d71a563efccd
+ID: 2eb62b94-5f11-4a44-bf12-dc95e1ed072b
 Name: Tradition der Rondrageweihten II
 title: Tradition der Rondrageweihten II
 Kategorie: Tradition (Karmal)
@@ -8,7 +8,7 @@ Voraussetzungen:
   - Attribut MU 6
   - Vorteil Tradition der Rondrageweihten I
 Querverweise:
-  - "[[Inhalt/Vorteile/Kalte Wut|Kalte Wut]]"
+  - "[[Kalte Wut]]"
 Nachkauf: häufig
 Kosten: 40
 ---
@@ -18,6 +18,6 @@ Rondrageweihte geben auch in der düstersten Stunde nicht auf. Der Wundmalus sch
 
 - **Kosten:** 40 EP
 - **Voraussetzungen:**
-  - "Attribut MU 6"
-  - "Vorteil Tradition der Rondrageweihten I"
-- **Siehe auch:** [[Inhalt/Vorteile/Kalte Wut|Kalte Wut]]
+  - Attribut [[Mut|MU]] 6
+  - Vorteil [[Tradition der Rondrageweihten I]]
+- **Siehe auch:** [[Kalte Wut]]
