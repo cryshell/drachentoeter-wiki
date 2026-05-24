@@ -1,33 +1,33 @@
 ---
 Entitätstyp: Waffe
-ID: 4872b699-60bc-46bf-942f-6464f657729b
-Name: Brabakbengel
-title: Brabakbengel
-Trefferpunkte: 2W6+2
-Härte: 8
-Reichweite: 1
+ID: 7a0f2594-066d-457b-863b-f9fa6330dc27
+Name: Peitsche
+title: Peitsche
+Trefferpunkte: 1W6+0
+Härte: 6
+Reichweite: 2
 Waffenmodifikator: "-1"
 Fertigkeit: Nahkampf
 Talent: "[[Hiebwaffen]]"
-Preis: 100
+Preis: 25
 ---
-- **Trefferpunkte:** 2W6+2
-- **Härte:** 8
-- **Reichweite:** 1
+- **Trefferpunkte:** 1W6+0
+- **Härte:** 6
+- **Reichweite:** 2
 - **Waffenmodifikator:** -1
 - **Fertigkeit:** [[Nahkampf]]
 - **Talent:** [[Hiebwaffen]]
-- **Preis:** 100 ST
+- **Preis:** 25 ST
 - **Kampfstile:**
   - [[Beidhändiger Kampf]]
   - [[Berserkerkampf]]
+  - [[Halbschwertkampf]]
   - [[Kraftvoller Kampf]]
   - [[Parierwaffenkampf]]
   - [[Reiterkampf]]
   - [[Schildkampf]]
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
-  - Stich
-  - Wucht
-  - [[Kopflastig|Kopflastig]]
-  - [[Rüstungsbrechend|Rüstungsbrechend]]
+  - Hieb
+  - [[Unberechenbar|Unberechenbar]]
+  - [[Haken|Haken]]

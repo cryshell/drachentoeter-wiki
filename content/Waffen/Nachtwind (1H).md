@@ -1,23 +1,23 @@
 ---
 Entitätstyp: Waffe
-ID: 4872b699-60bc-46bf-942f-6464f657729b
-Name: Brabakbengel
-title: Brabakbengel
+ID: a5db90cf-6c02-4a41-bd66-a00f80fcfa52
+Name: Nachtwind (1H)
+title: Nachtwind (1H)
 Trefferpunkte: 2W6+2
-Härte: 8
+Härte: 10
 Reichweite: 1
-Waffenmodifikator: "-1"
+Waffenmodifikator: 0
 Fertigkeit: Nahkampf
-Talent: "[[Hiebwaffen]]"
-Preis: 100
+Talent: "[[Klingenwaffen]]"
+Preis: 500
 ---
 - **Trefferpunkte:** 2W6+2
-- **Härte:** 8
+- **Härte:** 10
 - **Reichweite:** 1
-- **Waffenmodifikator:** -1
+- **Waffenmodifikator:** 0
 - **Fertigkeit:** [[Nahkampf]]
-- **Talent:** [[Hiebwaffen]]
-- **Preis:** 100 ST
+- **Talent:** [[Klingenwaffen]]
+- **Preis:** 500 ST
 - **Kampfstile:**
   - [[Beidhändiger Kampf]]
   - [[Berserkerkampf]]
@@ -27,7 +27,7 @@ Preis: 100
   - [[Schildkampf]]
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
+  - Hieb
   - Stich
-  - Wucht
-  - [[Kopflastig|Kopflastig]]
-  - [[Rüstungsbrechend|Rüstungsbrechend]]
+  - [[Wendig|Wendig]]
+  - [[Vielseitig|Vielseitig (TP +2)]]

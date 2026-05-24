@@ -1,23 +1,23 @@
 ---
 Entitätstyp: Waffe
-ID: 4872b699-60bc-46bf-942f-6464f657729b
-Name: Brabakbengel
-title: Brabakbengel
+ID: 98bd43dc-a731-4aac-855b-3efe7d69d3c8
+Name: Schwert
+title: Schwert
 Trefferpunkte: 2W6+2
-Härte: 8
+Härte: 10
 Reichweite: 1
-Waffenmodifikator: "-1"
+Waffenmodifikator: 0
 Fertigkeit: Nahkampf
-Talent: "[[Hiebwaffen]]"
-Preis: 100
+Talent: "[[Klingenwaffen]]"
+Preis: 180
 ---
 - **Trefferpunkte:** 2W6+2
-- **Härte:** 8
+- **Härte:** 10
 - **Reichweite:** 1
-- **Waffenmodifikator:** -1
+- **Waffenmodifikator:** 0
 - **Fertigkeit:** [[Nahkampf]]
-- **Talent:** [[Hiebwaffen]]
-- **Preis:** 100 ST
+- **Talent:** [[Klingenwaffen]]
+- **Preis:** 180 ST
 - **Kampfstile:**
   - [[Beidhändiger Kampf]]
   - [[Berserkerkampf]]
@@ -28,6 +28,5 @@ Preis: 100
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
   - Stich
-  - Wucht
-  - [[Kopflastig|Kopflastig]]
-  - [[Rüstungsbrechend|Rüstungsbrechend]]
+  - Hieb
+  - [[Mordhau|Mordhau]]

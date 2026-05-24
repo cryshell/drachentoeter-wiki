@@ -1,22 +1,22 @@
 ---
 Entitätstyp: Waffe
-ID: 4872b699-60bc-46bf-942f-6464f657729b
-Name: Brabakbengel
-title: Brabakbengel
+ID: 0dac842d-f5d6-4558-8226-bba6a167950d
+Name: Säbel
+title: Säbel
 Trefferpunkte: 2W6+2
-Härte: 8
+Härte: 10
 Reichweite: 1
-Waffenmodifikator: "-1"
+Waffenmodifikator: 0
 Fertigkeit: Nahkampf
-Talent: "[[Hiebwaffen]]"
+Talent: "[[Klingenwaffen]]"
 Preis: 100
 ---
 - **Trefferpunkte:** 2W6+2
-- **Härte:** 8
+- **Härte:** 10
 - **Reichweite:** 1
-- **Waffenmodifikator:** -1
+- **Waffenmodifikator:** 0
 - **Fertigkeit:** [[Nahkampf]]
-- **Talent:** [[Hiebwaffen]]
+- **Talent:** [[Klingenwaffen]]
 - **Preis:** 100 ST
 - **Kampfstile:**
   - [[Beidhändiger Kampf]]
@@ -27,7 +27,4 @@ Preis: 100
   - [[Schildkampf]]
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
-  - Stich
-  - Wucht
-  - [[Kopflastig|Kopflastig]]
-  - [[Rüstungsbrechend|Rüstungsbrechend]]
+  - Hieb

@@ -1,23 +1,23 @@
 ---
 Entitätstyp: Waffe
-ID: 4872b699-60bc-46bf-942f-6464f657729b
-Name: Brabakbengel
-title: Brabakbengel
-Trefferpunkte: 2W6+2
+ID: 891e0f92-b01e-49fc-9fae-b66fd9e48b16
+Name: Arbach
+title: Arbach
+Trefferpunkte: 2W6+3
 Härte: 8
 Reichweite: 1
 Waffenmodifikator: "-1"
 Fertigkeit: Nahkampf
-Talent: "[[Hiebwaffen]]"
-Preis: 100
+Talent: "[[Klingenwaffen]]"
+Preis: 120
 ---
-- **Trefferpunkte:** 2W6+2
+- **Trefferpunkte:** 2W6+3
 - **Härte:** 8
 - **Reichweite:** 1
 - **Waffenmodifikator:** -1
 - **Fertigkeit:** [[Nahkampf]]
-- **Talent:** [[Hiebwaffen]]
-- **Preis:** 100 ST
+- **Talent:** [[Klingenwaffen]]
+- **Preis:** 120 ST
 - **Kampfstile:**
   - [[Beidhändiger Kampf]]
   - [[Berserkerkampf]]
@@ -27,7 +27,5 @@ Preis: 100
   - [[Schildkampf]]
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
-  - Stich
-  - Wucht
+  - Hieb
   - [[Kopflastig|Kopflastig]]
-  - [[Rüstungsbrechend|Rüstungsbrechend]]

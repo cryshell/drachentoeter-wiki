@@ -1,23 +1,23 @@
 ---
 Entitätstyp: Waffe
-ID: 4872b699-60bc-46bf-942f-6464f657729b
-Name: Brabakbengel
-title: Brabakbengel
+ID: f7e5d859-2c05-4ad9-8a53-b5bc8c33db41
+Name: Lindwurmschläger
+title: Lindwurmschläger
 Trefferpunkte: 2W6+2
-Härte: 8
+Härte: 10
 Reichweite: 1
-Waffenmodifikator: "-1"
+Waffenmodifikator: 0
 Fertigkeit: Nahkampf
 Talent: "[[Hiebwaffen]]"
-Preis: 100
+Preis: 120
 ---
 - **Trefferpunkte:** 2W6+2
-- **Härte:** 8
+- **Härte:** 10
 - **Reichweite:** 1
-- **Waffenmodifikator:** -1
+- **Waffenmodifikator:** 0
 - **Fertigkeit:** [[Nahkampf]]
 - **Talent:** [[Hiebwaffen]]
-- **Preis:** 100 ST
+- **Preis:** 120 ST
 - **Kampfstile:**
   - [[Beidhändiger Kampf]]
   - [[Berserkerkampf]]
@@ -27,7 +27,5 @@ Preis: 100
   - [[Schildkampf]]
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
-  - Stich
-  - Wucht
+  - Hieb
   - [[Kopflastig|Kopflastig]]
-  - [[Rüstungsbrechend|Rüstungsbrechend]]

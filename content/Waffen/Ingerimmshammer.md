@@ -1,33 +1,30 @@
 ---
 Entitätstyp: Waffe
-ID: 4872b699-60bc-46bf-942f-6464f657729b
-Name: Brabakbengel
-title: Brabakbengel
+ID: 37acaf81-1295-4bd7-8c98-28e55f912b70
+Name: Ingerimmshammer
+title: Ingerimmshammer
 Trefferpunkte: 2W6+2
-Härte: 8
+Härte: 10
 Reichweite: 1
-Waffenmodifikator: "-1"
+Waffenmodifikator: 0
 Fertigkeit: Nahkampf
 Talent: "[[Hiebwaffen]]"
-Preis: 100
+Preis: 0
 ---
 - **Trefferpunkte:** 2W6+2
-- **Härte:** 8
+- **Härte:** 10
 - **Reichweite:** 1
-- **Waffenmodifikator:** -1
+- **Waffenmodifikator:** 0
 - **Fertigkeit:** [[Nahkampf]]
 - **Talent:** [[Hiebwaffen]]
-- **Preis:** 100 ST
+- **Preis:** 0 ST
 - **Kampfstile:**
   - [[Beidhändiger Kampf]]
   - [[Berserkerkampf]]
   - [[Kraftvoller Kampf]]
-  - [[Parierwaffenkampf]]
   - [[Reiterkampf]]
   - [[Schildkampf]]
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
-  - Stich
   - Wucht
   - [[Kopflastig|Kopflastig]]
-  - [[Rüstungsbrechend|Rüstungsbrechend]]

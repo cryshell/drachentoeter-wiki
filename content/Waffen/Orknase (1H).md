@@ -1,23 +1,23 @@
 ---
 Entitätstyp: Waffe
-ID: 4872b699-60bc-46bf-942f-6464f657729b
-Name: Brabakbengel
-title: Brabakbengel
-Trefferpunkte: 2W6+2
+ID: 764ec64b-c6a4-479c-93ae-18293bd7ac54
+Name: Orknase (1H)
+title: Orknase (1H)
+Trefferpunkte: 2W6+3
 Härte: 8
 Reichweite: 1
 Waffenmodifikator: "-1"
 Fertigkeit: Nahkampf
 Talent: "[[Hiebwaffen]]"
-Preis: 100
+Preis: 75
 ---
-- **Trefferpunkte:** 2W6+2
+- **Trefferpunkte:** 2W6+3
 - **Härte:** 8
 - **Reichweite:** 1
 - **Waffenmodifikator:** -1
 - **Fertigkeit:** [[Nahkampf]]
 - **Talent:** [[Hiebwaffen]]
-- **Preis:** 100 ST
+- **Preis:** 75 ST
 - **Kampfstile:**
   - [[Beidhändiger Kampf]]
   - [[Berserkerkampf]]
@@ -27,7 +27,6 @@ Preis: 100
   - [[Schildkampf]]
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
-  - Stich
-  - Wucht
+  - Hieb
   - [[Kopflastig|Kopflastig]]
-  - [[Rüstungsbrechend|Rüstungsbrechend]]
+  - [[Vielseitig|Vielseitig (TP +1; WM +1)]]

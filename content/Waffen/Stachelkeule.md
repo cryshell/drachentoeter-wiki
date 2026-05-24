@@ -1,23 +1,23 @@
 ---
 Entitätstyp: Waffe
-ID: 4872b699-60bc-46bf-942f-6464f657729b
-Name: Brabakbengel
-title: Brabakbengel
-Trefferpunkte: 2W6+2
-Härte: 8
+ID: abe170c6-9b77-49bb-b228-e7a1483639db
+Name: Stachelkeule
+title: Stachelkeule
+Trefferpunkte: 2W6+1
+Härte: 7
 Reichweite: 1
 Waffenmodifikator: "-1"
 Fertigkeit: Nahkampf
 Talent: "[[Hiebwaffen]]"
-Preis: 100
+Preis: 15
 ---
-- **Trefferpunkte:** 2W6+2
-- **Härte:** 8
+- **Trefferpunkte:** 2W6+1
+- **Härte:** 7
 - **Reichweite:** 1
 - **Waffenmodifikator:** -1
 - **Fertigkeit:** [[Nahkampf]]
 - **Talent:** [[Hiebwaffen]]
-- **Preis:** 100 ST
+- **Preis:** 15 ST
 - **Kampfstile:**
   - [[Beidhändiger Kampf]]
   - [[Berserkerkampf]]
@@ -27,7 +27,5 @@ Preis: 100
   - [[Schildkampf]]
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
-  - Stich
-  - Wucht
+  - Hieb
   - [[Kopflastig|Kopflastig]]
-  - [[Rüstungsbrechend|Rüstungsbrechend]]

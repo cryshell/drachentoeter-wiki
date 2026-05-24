@@ -1,33 +1,33 @@
 ---
 Entitätstyp: Waffe
-ID: 4872b699-60bc-46bf-942f-6464f657729b
-Name: Brabakbengel
-title: Brabakbengel
-Trefferpunkte: 2W6+2
-Härte: 8
+ID: 3beef288-ecd3-459c-8ce4-1f7d51e40885
+Name: Waqqif
+title: Waqqif
+Trefferpunkte: 1W6+2
+Härte: 10
 Reichweite: 1
 Waffenmodifikator: "-1"
 Fertigkeit: Nahkampf
-Talent: "[[Hiebwaffen]]"
-Preis: 100
+Talent: "[[Handgemenge]]"
+Preis: 60
 ---
-- **Trefferpunkte:** 2W6+2
-- **Härte:** 8
+- **Trefferpunkte:** 1W6+2
+- **Härte:** 10
 - **Reichweite:** 1
 - **Waffenmodifikator:** -1
 - **Fertigkeit:** [[Nahkampf]]
-- **Talent:** [[Hiebwaffen]]
-- **Preis:** 100 ST
+- **Talent:** [[Handgemenge]]
+- **Preis:** 60 ST
 - **Kampfstile:**
   - [[Beidhändiger Kampf]]
   - [[Berserkerkampf]]
   - [[Kraftvoller Kampf]]
+  - [[Nebenhandangriff]]
   - [[Parierwaffenkampf]]
   - [[Reiterkampf]]
   - [[Schildkampf]]
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
   - Stich
-  - Wucht
-  - [[Kopflastig|Kopflastig]]
-  - [[Rüstungsbrechend|Rüstungsbrechend]]
+  - Hieb
+  - [[Nebenhand|Nebenhand]]

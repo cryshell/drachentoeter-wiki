@@ -1,33 +1,33 @@
 ---
 Entitätstyp: Waffe
-ID: 4872b699-60bc-46bf-942f-6464f657729b
-Name: Brabakbengel
-title: Brabakbengel
-Trefferpunkte: 2W6+2
-Härte: 8
-Reichweite: 1
-Waffenmodifikator: "-1"
+ID: edef9ac6-eccd-4437-bb5f-ca6c0233cc6c
+Name: Reißer
+title: Reißer
+Trefferpunkte: 3W6+0
+Härte: 6
+Reichweite: 2
+Waffenmodifikator: "-2"
 Fertigkeit: Nahkampf
 Talent: "[[Hiebwaffen]]"
-Preis: 100
+Preis: 0
 ---
-- **Trefferpunkte:** 2W6+2
-- **Härte:** 8
-- **Reichweite:** 1
-- **Waffenmodifikator:** -1
+- **Trefferpunkte:** 3W6+0
+- **Härte:** 6
+- **Reichweite:** 2
+- **Waffenmodifikator:** -2
 - **Fertigkeit:** [[Nahkampf]]
 - **Talent:** [[Hiebwaffen]]
-- **Preis:** 100 ST
+- **Preis:** 0 ST
 - **Kampfstile:**
-  - [[Beidhändiger Kampf]]
   - [[Berserkerkampf]]
+  - [[Halbschwertkampf]]
   - [[Kraftvoller Kampf]]
-  - [[Parierwaffenkampf]]
   - [[Reiterkampf]]
-  - [[Schildkampf]]
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
+  - Hieb
   - Stich
-  - Wucht
   - [[Kopflastig|Kopflastig]]
   - [[Rüstungsbrechend|Rüstungsbrechend]]
+  - [[Zweihändig|Zweihändig]]
+  - [[Knebel|Knebel]]

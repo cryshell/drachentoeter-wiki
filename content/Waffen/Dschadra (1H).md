@@ -1,23 +1,23 @@
 ---
 Entitätstyp: Waffe
-ID: 4872b699-60bc-46bf-942f-6464f657729b
-Name: Brabakbengel
-title: Brabakbengel
+ID: 196e7cd5-88d7-48df-a9a7-6af39f8d0f65
+Name: Dschadra (1H)
+title: Dschadra (1H)
 Trefferpunkte: 2W6+2
-Härte: 8
-Reichweite: 1
+Härte: 6
+Reichweite: 2
 Waffenmodifikator: "-1"
 Fertigkeit: Nahkampf
-Talent: "[[Hiebwaffen]]"
-Preis: 100
+Talent: "[[Stangenwaffen]]"
+Preis: 120
 ---
 - **Trefferpunkte:** 2W6+2
-- **Härte:** 8
-- **Reichweite:** 1
+- **Härte:** 6
+- **Reichweite:** 2
 - **Waffenmodifikator:** -1
 - **Fertigkeit:** [[Nahkampf]]
-- **Talent:** [[Hiebwaffen]]
-- **Preis:** 100 ST
+- **Talent:** [[Stangenwaffen]]
+- **Preis:** 120 ST
 - **Kampfstile:**
   - [[Beidhändiger Kampf]]
   - [[Berserkerkampf]]
@@ -28,6 +28,6 @@ Preis: 100
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
   - Stich
-  - Wucht
-  - [[Kopflastig|Kopflastig]]
-  - [[Rüstungsbrechend|Rüstungsbrechend]]
+  - [[Vielseitig|Vielseitig (TP +1; WM +1)]]
+  - [[Wendig|Wendig]]
+  - [[Wurffähig|Wurffähig (8)]]

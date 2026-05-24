@@ -1,33 +1,30 @@
 ---
 Entitätstyp: Waffe
-ID: 4872b699-60bc-46bf-942f-6464f657729b
-Name: Brabakbengel
-title: Brabakbengel
+ID: ba72ed8d-bfaa-4870-8977-7ce9b5079048
+Name: Knochenkeule, groß
+title: Knochenkeule, groß
 Trefferpunkte: 2W6+2
-Härte: 8
+Härte: 9
 Reichweite: 1
-Waffenmodifikator: "-1"
+Waffenmodifikator: "-3"
 Fertigkeit: Nahkampf
 Talent: "[[Hiebwaffen]]"
-Preis: 100
+Preis: 0
 ---
 - **Trefferpunkte:** 2W6+2
-- **Härte:** 8
+- **Härte:** 9
 - **Reichweite:** 1
-- **Waffenmodifikator:** -1
+- **Waffenmodifikator:** -3
 - **Fertigkeit:** [[Nahkampf]]
 - **Talent:** [[Hiebwaffen]]
-- **Preis:** 100 ST
+- **Preis:** 0 ST
 - **Kampfstile:**
-  - [[Beidhändiger Kampf]]
   - [[Berserkerkampf]]
   - [[Kraftvoller Kampf]]
-  - [[Parierwaffenkampf]]
   - [[Reiterkampf]]
-  - [[Schildkampf]]
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
-  - Stich
   - Wucht
   - [[Kopflastig|Kopflastig]]
-  - [[Rüstungsbrechend|Rüstungsbrechend]]
+  - [[Schwer|Schwer (4)]]
+  - [[Zweihändig|Zweihändig]]

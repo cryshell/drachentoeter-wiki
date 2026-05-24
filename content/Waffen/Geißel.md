@@ -1,23 +1,23 @@
 ---
 Entitätstyp: Waffe
-ID: 4872b699-60bc-46bf-942f-6464f657729b
-Name: Brabakbengel
-title: Brabakbengel
-Trefferpunkte: 2W6+2
-Härte: 8
+ID: 09f5dfe1-e2c0-4ac1-b12d-7eff65f4d14a
+Name: Geißel
+title: Geißel
+Trefferpunkte: 1W6+0
+Härte: 6
 Reichweite: 1
 Waffenmodifikator: "-1"
 Fertigkeit: Nahkampf
 Talent: "[[Hiebwaffen]]"
-Preis: 100
+Preis: 15
 ---
-- **Trefferpunkte:** 2W6+2
-- **Härte:** 8
+- **Trefferpunkte:** 1W6+0
+- **Härte:** 6
 - **Reichweite:** 1
 - **Waffenmodifikator:** -1
 - **Fertigkeit:** [[Nahkampf]]
 - **Talent:** [[Hiebwaffen]]
-- **Preis:** 100 ST
+- **Preis:** 15 ST
 - **Kampfstile:**
   - [[Beidhändiger Kampf]]
   - [[Berserkerkampf]]
@@ -27,7 +27,5 @@ Preis: 100
   - [[Schildkampf]]
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
-  - Stich
-  - Wucht
-  - [[Kopflastig|Kopflastig]]
-  - [[Rüstungsbrechend|Rüstungsbrechend]]
+  - Hieb
+  - [[Unberechenbar|Unberechenbar]]

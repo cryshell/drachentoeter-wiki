@@ -1,33 +1,32 @@
 ---
 Entitätstyp: Waffe
-ID: 4872b699-60bc-46bf-942f-6464f657729b
-Name: Brabakbengel
-title: Brabakbengel
-Trefferpunkte: 2W6+2
-Härte: 8
+ID: 059c0738-d9ce-49c7-987d-1ddd5b711fc9
+Name: Kettenstab (2H)
+title: Kettenstab (2H)
+Trefferpunkte: 2W6+1
+Härte: 6
 Reichweite: 1
 Waffenmodifikator: "-1"
 Fertigkeit: Nahkampf
 Talent: "[[Hiebwaffen]]"
-Preis: 100
+Preis: 120
 ---
-- **Trefferpunkte:** 2W6+2
-- **Härte:** 8
+- **Trefferpunkte:** 2W6+1
+- **Härte:** 6
 - **Reichweite:** 1
 - **Waffenmodifikator:** -1
 - **Fertigkeit:** [[Nahkampf]]
 - **Talent:** [[Hiebwaffen]]
-- **Preis:** 100 ST
+- **Preis:** 120 ST
 - **Kampfstile:**
-  - [[Beidhändiger Kampf]]
   - [[Berserkerkampf]]
   - [[Kraftvoller Kampf]]
-  - [[Parierwaffenkampf]]
   - [[Reiterkampf]]
-  - [[Schildkampf]]
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
-  - Stich
   - Wucht
-  - [[Kopflastig|Kopflastig]]
-  - [[Rüstungsbrechend|Rüstungsbrechend]]
+  - [[Unberechenbar|Unberechenbar]]
+  - [[Klingenfänger|Klingenfänger]]
+  - [[Versteckt|Versteckt]]
+  - [[Zweihändig|Zweihändig]]
+  - [[Defensiv|Defensiv(1)]]

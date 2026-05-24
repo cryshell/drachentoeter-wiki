@@ -1,23 +1,23 @@
 ---
 Entitätstyp: Waffe
-ID: 4872b699-60bc-46bf-942f-6464f657729b
-Name: Brabakbengel
-title: Brabakbengel
-Trefferpunkte: 2W6+2
-Härte: 8
+ID: 6764543e-ba44-40d8-a1d9-dec16702549f
+Name: Panzerstecher
+title: Panzerstecher
+Trefferpunkte: 2W6+1
+Härte: 11
 Reichweite: 1
-Waffenmodifikator: "-1"
+Waffenmodifikator: 0
 Fertigkeit: Nahkampf
-Talent: "[[Hiebwaffen]]"
-Preis: 100
+Talent: "[[Klingenwaffen]]"
+Preis: 120
 ---
-- **Trefferpunkte:** 2W6+2
-- **Härte:** 8
+- **Trefferpunkte:** 2W6+1
+- **Härte:** 11
 - **Reichweite:** 1
-- **Waffenmodifikator:** -1
+- **Waffenmodifikator:** 0
 - **Fertigkeit:** [[Nahkampf]]
-- **Talent:** [[Hiebwaffen]]
-- **Preis:** 100 ST
+- **Talent:** [[Klingenwaffen]]
+- **Preis:** 120 ST
 - **Kampfstile:**
   - [[Beidhändiger Kampf]]
   - [[Berserkerkampf]]
@@ -28,6 +28,4 @@ Preis: 100
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
   - Stich
-  - Wucht
-  - [[Kopflastig|Kopflastig]]
   - [[Rüstungsbrechend|Rüstungsbrechend]]

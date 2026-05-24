@@ -1,20 +1,20 @@
 ---
 Entitätstyp: Waffe
-ID: 4872b699-60bc-46bf-942f-6464f657729b
-Name: Brabakbengel
-title: Brabakbengel
-Trefferpunkte: 2W6+2
+ID: 3b96c815-4cb0-47e3-822b-b264dc398455
+Name: Zwergenskraja
+title: Zwergenskraja
+Trefferpunkte: 1W6+2
 Härte: 8
 Reichweite: 1
-Waffenmodifikator: "-1"
+Waffenmodifikator: 0
 Fertigkeit: Nahkampf
 Talent: "[[Hiebwaffen]]"
 Preis: 100
 ---
-- **Trefferpunkte:** 2W6+2
+- **Trefferpunkte:** 1W6+2
 - **Härte:** 8
 - **Reichweite:** 1
-- **Waffenmodifikator:** -1
+- **Waffenmodifikator:** 0
 - **Fertigkeit:** [[Nahkampf]]
 - **Talent:** [[Hiebwaffen]]
 - **Preis:** 100 ST
@@ -22,12 +22,13 @@ Preis: 100
   - [[Beidhändiger Kampf]]
   - [[Berserkerkampf]]
   - [[Kraftvoller Kampf]]
+  - [[Nebenhandangriff]]
   - [[Parierwaffenkampf]]
   - [[Reiterkampf]]
   - [[Schildkampf]]
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
+  - Hieb
   - Stich
-  - Wucht
-  - [[Kopflastig|Kopflastig]]
   - [[Rüstungsbrechend|Rüstungsbrechend]]
+  - [[Nebenhand|Nebenhand]]

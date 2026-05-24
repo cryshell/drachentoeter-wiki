@@ -1,33 +1,31 @@
 ---
 Entitätstyp: Waffe
-ID: 4872b699-60bc-46bf-942f-6464f657729b
-Name: Brabakbengel
-title: Brabakbengel
-Trefferpunkte: 2W6+2
+ID: b9527bd7-bda0-44e0-9bec-700c33ef8c6b
+Name: Ochsenherde
+title: Ochsenherde
+Trefferpunkte: 4W6+0
 Härte: 8
 Reichweite: 1
-Waffenmodifikator: "-1"
+Waffenmodifikator: "-2"
 Fertigkeit: Nahkampf
 Talent: "[[Hiebwaffen]]"
-Preis: 100
+Preis: 250
 ---
-- **Trefferpunkte:** 2W6+2
+- **Trefferpunkte:** 4W6+0
 - **Härte:** 8
 - **Reichweite:** 1
-- **Waffenmodifikator:** -1
+- **Waffenmodifikator:** -2
 - **Fertigkeit:** [[Nahkampf]]
 - **Talent:** [[Hiebwaffen]]
-- **Preis:** 100 ST
+- **Preis:** 250 ST
 - **Kampfstile:**
-  - [[Beidhändiger Kampf]]
   - [[Berserkerkampf]]
   - [[Kraftvoller Kampf]]
-  - [[Parierwaffenkampf]]
   - [[Reiterkampf]]
   - [[Schildkampf]]
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
-  - Stich
   - Wucht
-  - [[Kopflastig|Kopflastig]]
-  - [[Rüstungsbrechend|Rüstungsbrechend]]
+  - [[Einschüchternd|Einschüchternd]]
+  - [[Schwer|Schwer (8)]]
+  - [[Unberechenbar|Unberechenbar]]

@@ -1,27 +1,27 @@
 ---
 Entitätstyp: Waffe
-ID: 4872b699-60bc-46bf-942f-6464f657729b
-Name: Brabakbengel
-title: Brabakbengel
-Trefferpunkte: 2W6+2
-Härte: 8
+ID: 8edfb010-baa4-40fa-afec-507282bdda62
+Name: Bock
+title: Bock
+Trefferpunkte: 1W6+2
+Härte: 11
 Reichweite: 1
 Waffenmodifikator: "-1"
 Fertigkeit: Nahkampf
-Talent: "[[Hiebwaffen]]"
-Preis: 100
+Talent: "[[Handgemenge]]"
+Preis: 80
 ---
-- **Trefferpunkte:** 2W6+2
-- **Härte:** 8
+- **Trefferpunkte:** 1W6+2
+- **Härte:** 11
 - **Reichweite:** 1
 - **Waffenmodifikator:** -1
 - **Fertigkeit:** [[Nahkampf]]
-- **Talent:** [[Hiebwaffen]]
-- **Preis:** 100 ST
+- **Talent:** [[Handgemenge]]
+- **Preis:** 80 ST
 - **Kampfstile:**
-  - [[Beidhändiger Kampf]]
   - [[Berserkerkampf]]
   - [[Kraftvoller Kampf]]
+  - [[Nebenhandangriff]]
   - [[Parierwaffenkampf]]
   - [[Reiterkampf]]
   - [[Schildkampf]]
@@ -29,5 +29,7 @@ Preis: 100
 - **Waffeneigenschaften:**
   - Stich
   - Wucht
-  - [[Kopflastig|Kopflastig]]
-  - [[Rüstungsbrechend|Rüstungsbrechend]]
+  - [[Schild|Schild]]
+  - [[Klingenfänger|Klingenfänger]]
+  - [[Nebenhand|Nebenhand]]
+  - [[Parierwaffe|Parierwaffe]]

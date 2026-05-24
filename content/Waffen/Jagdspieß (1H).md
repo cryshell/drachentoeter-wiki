@@ -1,23 +1,23 @@
 ---
 Entitätstyp: Waffe
-ID: 4872b699-60bc-46bf-942f-6464f657729b
-Name: Brabakbengel
-title: Brabakbengel
+ID: ec8817c8-9656-4247-af85-2a3410720f09
+Name: Jagdspieß (1H)
+title: Jagdspieß (1H)
 Trefferpunkte: 2W6+2
-Härte: 8
-Reichweite: 1
+Härte: 7
+Reichweite: 2
 Waffenmodifikator: "-1"
 Fertigkeit: Nahkampf
-Talent: "[[Hiebwaffen]]"
-Preis: 100
+Talent: "[[Stangenwaffen]]"
+Preis: 80
 ---
 - **Trefferpunkte:** 2W6+2
-- **Härte:** 8
-- **Reichweite:** 1
+- **Härte:** 7
+- **Reichweite:** 2
 - **Waffenmodifikator:** -1
 - **Fertigkeit:** [[Nahkampf]]
-- **Talent:** [[Hiebwaffen]]
-- **Preis:** 100 ST
+- **Talent:** [[Stangenwaffen]]
+- **Preis:** 80 ST
 - **Kampfstile:**
   - [[Beidhändiger Kampf]]
   - [[Berserkerkampf]]
@@ -28,6 +28,7 @@ Preis: 100
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
   - Stich
-  - Wucht
-  - [[Kopflastig|Kopflastig]]
-  - [[Rüstungsbrechend|Rüstungsbrechend]]
+  - [[Wendig|Wendig]]
+  - [[Knebel|Knebel]]
+  - [[Vielseitig|Vielseitig (TP +1; WM +1)]]
+  - [[Wurffähig|Wurffähig (8)]]

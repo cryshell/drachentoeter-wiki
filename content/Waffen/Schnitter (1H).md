@@ -1,23 +1,23 @@
 ---
 Entitätstyp: Waffe
-ID: 4872b699-60bc-46bf-942f-6464f657729b
-Name: Brabakbengel
-title: Brabakbengel
+ID: c5305435-92e3-4b9e-8af1-dd51ba7e7610
+Name: Schnitter (1H)
+title: Schnitter (1H)
 Trefferpunkte: 2W6+2
 Härte: 8
-Reichweite: 1
+Reichweite: 2
 Waffenmodifikator: "-1"
 Fertigkeit: Nahkampf
-Talent: "[[Hiebwaffen]]"
-Preis: 100
+Talent: "[[Stangenwaffen]]"
+Preis: 120
 ---
 - **Trefferpunkte:** 2W6+2
 - **Härte:** 8
-- **Reichweite:** 1
+- **Reichweite:** 2
 - **Waffenmodifikator:** -1
 - **Fertigkeit:** [[Nahkampf]]
-- **Talent:** [[Hiebwaffen]]
-- **Preis:** 100 ST
+- **Talent:** [[Stangenwaffen]]
+- **Preis:** 120 ST
 - **Kampfstile:**
   - [[Beidhändiger Kampf]]
   - [[Berserkerkampf]]
@@ -28,6 +28,6 @@ Preis: 100
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
   - Stich
-  - Wucht
-  - [[Kopflastig|Kopflastig]]
-  - [[Rüstungsbrechend|Rüstungsbrechend]]
+  - Hieb
+  - [[Vielseitig|Vielseitig (WM +1)]]
+  - [[Wendig|Wendig]]

@@ -1,33 +1,34 @@
 ---
 Entitätstyp: Waffe
-ID: 4872b699-60bc-46bf-942f-6464f657729b
-Name: Brabakbengel
-title: Brabakbengel
+ID: 52a8f054-a848-490e-8ea2-4011f7e88199
+Name: Hellebarde
+title: Hellebarde
 Trefferpunkte: 2W6+2
-Härte: 8
-Reichweite: 1
+Härte: 7
+Reichweite: 2
 Waffenmodifikator: "-1"
 Fertigkeit: Nahkampf
-Talent: "[[Hiebwaffen]]"
-Preis: 100
+Talent: "[[Stangenwaffen]]"
+Preis: 75
 ---
 - **Trefferpunkte:** 2W6+2
-- **Härte:** 8
-- **Reichweite:** 1
+- **Härte:** 7
+- **Reichweite:** 2
 - **Waffenmodifikator:** -1
 - **Fertigkeit:** [[Nahkampf]]
-- **Talent:** [[Hiebwaffen]]
-- **Preis:** 100 ST
+- **Talent:** [[Stangenwaffen]]
+- **Preis:** 75 ST
 - **Kampfstile:**
-  - [[Beidhändiger Kampf]]
   - [[Berserkerkampf]]
+  - [[Halbschwertkampf]]
   - [[Kraftvoller Kampf]]
-  - [[Parierwaffenkampf]]
   - [[Reiterkampf]]
-  - [[Schildkampf]]
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
   - Stich
-  - Wucht
+  - Hieb
   - [[Kopflastig|Kopflastig]]
   - [[Rüstungsbrechend|Rüstungsbrechend]]
+  - [[Schwer|Schwer (4)]]
+  - [[Zweihändig|Zweihändig]]
+  - [[Haken|Haken]]

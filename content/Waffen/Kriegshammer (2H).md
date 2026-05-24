@@ -1,33 +1,31 @@
 ---
 Entitätstyp: Waffe
-ID: 4872b699-60bc-46bf-942f-6464f657729b
-Name: Brabakbengel
-title: Brabakbengel
-Trefferpunkte: 2W6+2
-Härte: 8
+ID: dda7cb10-cd0c-48b8-a406-93bef5a43513
+Name: Kriegshammer (2H)
+title: Kriegshammer (2H)
+Trefferpunkte: 3W6+2
+Härte: 9
 Reichweite: 1
-Waffenmodifikator: "-1"
+Waffenmodifikator: "-2"
 Fertigkeit: Nahkampf
 Talent: "[[Hiebwaffen]]"
-Preis: 100
+Preis: 120
 ---
-- **Trefferpunkte:** 2W6+2
-- **Härte:** 8
+- **Trefferpunkte:** 3W6+2
+- **Härte:** 9
 - **Reichweite:** 1
-- **Waffenmodifikator:** -1
+- **Waffenmodifikator:** -2
 - **Fertigkeit:** [[Nahkampf]]
 - **Talent:** [[Hiebwaffen]]
-- **Preis:** 100 ST
+- **Preis:** 120 ST
 - **Kampfstile:**
-  - [[Beidhändiger Kampf]]
   - [[Berserkerkampf]]
   - [[Kraftvoller Kampf]]
-  - [[Parierwaffenkampf]]
   - [[Reiterkampf]]
-  - [[Schildkampf]]
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
-  - Stich
   - Wucht
   - [[Kopflastig|Kopflastig]]
+  - [[Schwer|Schwer (4)]]
   - [[Rüstungsbrechend|Rüstungsbrechend]]
+  - [[Zweihändig|Zweihändig]]

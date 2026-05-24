@@ -1,33 +1,33 @@
 ---
 Entitätstyp: Waffe
-ID: 4872b699-60bc-46bf-942f-6464f657729b
-Name: Brabakbengel
-title: Brabakbengel
-Trefferpunkte: 2W6+2
+ID: e3b76f0c-e2d8-4bc7-a08d-61886c3fcc6b
+Name: Echsische Axt
+title: Echsische Axt
+Trefferpunkte: 2W6+3
 Härte: 8
-Reichweite: 1
+Reichweite: 2
 Waffenmodifikator: "-1"
 Fertigkeit: Nahkampf
 Talent: "[[Hiebwaffen]]"
-Preis: 100
+Preis: 0
 ---
-- **Trefferpunkte:** 2W6+2
+- **Trefferpunkte:** 2W6+3
 - **Härte:** 8
-- **Reichweite:** 1
+- **Reichweite:** 2
 - **Waffenmodifikator:** -1
 - **Fertigkeit:** [[Nahkampf]]
 - **Talent:** [[Hiebwaffen]]
-- **Preis:** 100 ST
+- **Preis:** 0 ST
 - **Kampfstile:**
-  - [[Beidhändiger Kampf]]
   - [[Berserkerkampf]]
+  - [[Halbschwertkampf]]
   - [[Kraftvoller Kampf]]
-  - [[Parierwaffenkampf]]
   - [[Reiterkampf]]
-  - [[Schildkampf]]
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
+  - Hieb
   - Stich
-  - Wucht
-  - [[Kopflastig|Kopflastig]]
   - [[Rüstungsbrechend|Rüstungsbrechend]]
+  - [[Wendig|Wendig]]
+  - [[Zweihändig|Zweihändig]]
+  - [[Knebel|Knebel]]

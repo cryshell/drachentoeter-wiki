@@ -1,33 +1,35 @@
 ---
 Entitätstyp: Waffe
-ID: 4872b699-60bc-46bf-942f-6464f657729b
-Name: Brabakbengel
-title: Brabakbengel
+ID: 707c46d6-6009-49ff-8d9d-1d4b2f027f5f
+Name: Warunker Hammer
+title: Warunker Hammer
 Trefferpunkte: 2W6+2
 Härte: 8
-Reichweite: 1
+Reichweite: 2
 Waffenmodifikator: "-1"
 Fertigkeit: Nahkampf
-Talent: "[[Hiebwaffen]]"
-Preis: 100
+Talent: "[[Stangenwaffen]]"
+Preis: 150
 ---
 - **Trefferpunkte:** 2W6+2
 - **Härte:** 8
-- **Reichweite:** 1
+- **Reichweite:** 2
 - **Waffenmodifikator:** -1
 - **Fertigkeit:** [[Nahkampf]]
-- **Talent:** [[Hiebwaffen]]
-- **Preis:** 100 ST
+- **Talent:** [[Stangenwaffen]]
+- **Preis:** 150 ST
 - **Kampfstile:**
-  - [[Beidhändiger Kampf]]
   - [[Berserkerkampf]]
+  - [[Halbschwertkampf]]
   - [[Kraftvoller Kampf]]
-  - [[Parierwaffenkampf]]
   - [[Reiterkampf]]
-  - [[Schildkampf]]
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
   - Stich
+  - Hieb
   - Wucht
   - [[Kopflastig|Kopflastig]]
   - [[Rüstungsbrechend|Rüstungsbrechend]]
+  - [[Zweihändig|Zweihändig]]
+  - [[Knebel|Knebel]]
+  - [[Schwer|Schwer (4)]]
