@@ -31,3 +31,9 @@ Die Gemeinschaft der Drachentöter versammelt sich auf dsaforum.de und auf dem D
 ---
 
 *Gesammelt aus der Quelle, gegliedert nach dem Willen der Schöpfer, veröffentlicht für alle Drachentöter.*
+
+---
+
+<small>Hinweis: Dies ist ein privates Fan-Projekt zu „Das Schwarze Auge“®. Alle Rechte an der Spielwelt und dem Markenzeichen liegen bei Ulisses Spiele. Diese Seite steht in keinerlei offizieller Verbindung zum Verlag. Bei Fragen oder Anliegen: dread@cryshell.net.</small>
+
+<small>Datenschutz: Diese Website wird als statische Seite über GitHub Pages bereitgestellt. Es werden keine Cookies gesetzt, keine personenbezogenen Daten erfasst und keine Tracking- oder Analyse-Tools eingesetzt. GitHub verarbeitet als Hoster technische Verbindungsdaten (z. B. IP-Adresse und Zeitstempel) — darauf haben wir keinen Einfluss. Weitere Informationen: https://docs.github.com/de/site-policy/privacy-policies/github-privacy-statement.</small>
