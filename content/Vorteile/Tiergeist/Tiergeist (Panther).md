@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b6de46bb-e76c-442c-8fed-9c5e7b4c2ae0
+ID: da81b2f1-3386-43bb-b22b-8fa728f0f8e0
 Name: Tiergeist (Panther)
 title: Tiergeist (Panther)
 Kategorie: Tiergeist

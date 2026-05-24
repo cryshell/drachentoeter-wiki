@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 8cdc4a0b-393a-4c66-b638-b608971828d2
+ID: 5d5cee20-3ff3-40e2-9253-198e9960a84c
 Name: "Dämonische Stärkung: KO"
 title: "Dämonische Stärkung: KO"
 Kategorie: Anrufungen

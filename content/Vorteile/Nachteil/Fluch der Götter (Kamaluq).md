@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 69a93d24-3f7f-4442-94ae-7d19d643657c
+ID: 09517935-c4b5-4a6c-93e6-0eefa1243c1c
 Name: Fluch der Götter (Kamaluq)
 title: Fluch der Götter (Kamaluq)
 Kategorie: Nachteil

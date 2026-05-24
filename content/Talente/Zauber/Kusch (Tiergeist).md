@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: bdc659d0-6abb-4bfa-ba2a-e27a709d297a
+ID: eeea9171-2085-4370-a4d0-4cbc57707bb2
 Name: "Kusch! (Tiergeist)"
 title: "Kusch! (Tiergeist)"
 Kategorie: Zauber

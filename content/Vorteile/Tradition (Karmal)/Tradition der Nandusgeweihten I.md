@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 5089ffbd-769d-41e0-a8e6-6e5312a17766
+ID: c640bd59-9c8f-40b6-8116-71e05bdcd92d
 Name: Tradition der Nandusgeweihten I
 title: Tradition der Nandusgeweihten I
 Kategorie: Tradition (Karmal)

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 4cbe4c53-90af-4d11-97f9-2afa36cd6c48
+ID: 4a127eee-635b-40e8-b823-69666b9248e3
 Name: "Gefunden!"
 title: "Gefunden!"
 Kategorie: Zauber

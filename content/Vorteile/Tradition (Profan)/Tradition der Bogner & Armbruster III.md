@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 78912c2b-622e-4f9d-9445-24c301ecd2a5
+ID: 2bec462a-7e76-4560-9eae-3edac9ebda05
 Name: "Tradition der Bogner & Armbruster III"
 title: "Tradition der Bogner & Armbruster III"
 Kategorie: Tradition (Profan)

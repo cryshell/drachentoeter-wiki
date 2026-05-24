@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 5735476a-4774-4de0-9e6e-b889f5d9e208
+ID: 0f186449-d0b2-4f78-8cb7-0cc8ade4f9df
 Name: Tradition der Avesgeweihten I
 title: Tradition der Avesgeweihten I
 Kategorie: Tradition (Karmal)

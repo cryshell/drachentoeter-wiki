@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d4955864-78cd-4418-bea5-d36799d40dfb
+ID: f3441b4e-0478-4ecf-ae46-e5bbc96a5ac2
 Name: Kreis der Verdammnis I
 title: Kreis der Verdammnis I
 Kategorie: Kreis der Verdammnis

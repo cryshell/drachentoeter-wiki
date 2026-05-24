@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: adf7f752-fbc0-4711-ad12-f37efe3057c5
+ID: 1a84a305-5a49-43b7-b626-82a1cca8d982
 Name: Fluch der Götter (Raschtul)
 title: Fluch der Götter (Raschtul)
 Kategorie: Nachteil

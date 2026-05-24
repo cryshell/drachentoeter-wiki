@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b012ffe5-0b81-4ced-9857-c042bebb6397
+ID: 06c046c6-da57-40c1-a826-30156c21c0f2
 Name: Vampir I
 title: Vampir I
 Kategorie: Nachteil

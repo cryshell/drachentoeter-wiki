@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0075934d-b6ba-4293-834f-912a7d24d8e9
+ID: b4343201-bb5f-4162-bab0-e723cee45ad9
 Name: Tradition der Tsageweihten I
 title: Tradition der Tsageweihten I
 Kategorie: Tradition (Karmal)

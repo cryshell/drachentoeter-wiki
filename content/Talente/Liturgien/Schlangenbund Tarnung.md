@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 75dae0b3-64f6-4129-9a1e-6cb70895fb5f
+ID: b4a6add8-8316-43b5-a1ec-d6ea1c96f96d
 Name: "Schlangenbund: Tarnung"
 title: "Schlangenbund: Tarnung"
 Kategorie: Liturgien

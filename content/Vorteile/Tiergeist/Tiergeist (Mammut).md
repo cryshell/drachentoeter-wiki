@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 9a41f8b1-fe9b-423a-bc7b-d90474e15a93
+ID: 6955cff8-7829-4d84-a5bd-9f56aded93e7
 Name: Tiergeist (Mammut)
 title: Tiergeist (Mammut)
 Kategorie: Tiergeist

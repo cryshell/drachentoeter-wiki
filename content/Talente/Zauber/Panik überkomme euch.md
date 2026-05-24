@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 2fe81d50-53c3-43ba-bdf6-1f859104bf37
+ID: 468e46ef-8a76-4b43-85ac-388d223893b1
 Name: "Panik überkomme euch!"
 title: "Panik überkomme euch!"
 Kategorie: Zauber

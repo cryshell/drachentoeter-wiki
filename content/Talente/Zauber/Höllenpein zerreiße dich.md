@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 7fe471d4-be2f-4b39-85ad-9d52fb248ddb
+ID: 18896682-4cfa-4ba2-8746-c81b5038d0a4
 Name: "Höllenpein zerreiße dich!"
 title: "Höllenpein zerreiße dich!"
 Kategorie: Zauber

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: a6dc98e0-4781-46ba-bcfa-0975e405273f
+ID: bb8a17bb-393c-40b9-8692-25b737f226a1
 Name: Kraft der Keule
 title: Kraft der Keule
 Kategorie: Zauber

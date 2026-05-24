@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 3f0dd69b-1b03-480c-8568-aa8a777080d1
+ID: fde0e6cc-17a0-4e7d-b908-777a87618dd3
 Name: "Tradition der Schneider & Weber III"
 title: "Tradition der Schneider & Weber III"
 Kategorie: Tradition (Profan)

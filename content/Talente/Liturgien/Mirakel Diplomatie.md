@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 03545375-6ca6-4dfe-885a-cbe95b3162a3
+ID: 17515024-ed8e-43a7-aa16-6daf16898180
 Name: "Mirakel: Diplomatie"
 title: "Mirakel: Diplomatie"
 Kategorie: Liturgien

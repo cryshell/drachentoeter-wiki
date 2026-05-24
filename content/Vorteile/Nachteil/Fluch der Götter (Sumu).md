@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 9800a231-3b85-48df-8432-e40238450bd8
+ID: aa1cecd1-4c15-4335-a218-ef2df2d995f8
 Name: Fluch der Götter (Sumu)
 title: Fluch der Götter (Sumu)
 Kategorie: Nachteil

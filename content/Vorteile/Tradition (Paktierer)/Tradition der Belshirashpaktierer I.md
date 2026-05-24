@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 28d504a0-11b7-4ff5-ab40-ebe5b6eb39d6
+ID: 6981549e-66bc-4672-8089-b34c5a29815c
 Name: Tradition der Belshirashpaktierer I
 title: Tradition der Belshirashpaktierer I
 Kategorie: Tradition (Paktierer)

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: cde2380d-0945-4050-818c-427e01343aed
+ID: 3c69f3e2-0ef1-4c93-8e13-0b119528df87
 Name: Tiergeist (Mungo)
 title: Tiergeist (Mungo)
 Kategorie: Tiergeist

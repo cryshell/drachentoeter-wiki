@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: ffc7d58b-b832-4646-9e5d-901a1f52040a
+ID: 17c1a978-f9bd-4878-9d41-3e1839084a5e
 Name: Tradition der Aphasmayrapaktierer I
 title: Tradition der Aphasmayrapaktierer I
 Kategorie: Tradition (Paktierer)

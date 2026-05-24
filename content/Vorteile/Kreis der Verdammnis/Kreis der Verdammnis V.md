@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 3011f185-a7d7-4f97-a6e6-889564b9e4ca
+ID: 2c7810a2-4883-434f-ad54-589f1d0541f0
 Name: Kreis der Verdammnis V
 title: Kreis der Verdammnis V
 Kategorie: Kreis der Verdammnis

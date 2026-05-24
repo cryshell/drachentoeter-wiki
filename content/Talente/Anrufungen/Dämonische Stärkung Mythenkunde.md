@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: ee03a29e-c7fa-4c8c-9014-a84ef977c2f5
+ID: 2b517943-0d06-4dd4-9d93-7d35addea150
 Name: "Dämonische Stärkung: Mythenkunde"
 title: "Dämonische Stärkung: Mythenkunde"
 Kategorie: Anrufungen

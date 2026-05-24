@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: a1d28eae-283c-4c40-b344-bd36442ccc15
+ID: 1cc033b1-eee3-4052-bb59-defb47e544e0
 Name: Geist des Wolfs
 title: Geist des Wolfs
 Kategorie: Zauber

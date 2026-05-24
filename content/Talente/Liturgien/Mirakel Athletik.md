@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 492dfdb1-a3ec-4a3c-a0b8-b3b8dfe6c073
+ID: 5141914f-8b21-42d7-a7b8-c558eb353914
 Name: "Mirakel: Athletik"
 title: "Mirakel: Athletik"
 Kategorie: Liturgien

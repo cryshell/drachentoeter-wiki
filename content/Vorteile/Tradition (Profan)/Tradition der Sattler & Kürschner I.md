@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 4a944745-fea2-49cb-b0d9-6cc57ed706af
+ID: 19316284-23db-4655-9d23-d622c7b76b7f
 Name: "Tradition der Sattler & Kürschner I"
 title: "Tradition der Sattler & Kürschner I"
 Kategorie: Tradition (Profan)

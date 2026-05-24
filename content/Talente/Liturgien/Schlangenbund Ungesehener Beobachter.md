@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b73e9373-5f51-4ca5-b43b-ccb27ee0fe88
+ID: ae871e0a-46fe-4e14-a608-1a7ab6e10527
 Name: "Schlangenbund: Ungesehener Beobachter"
 title: "Schlangenbund: Ungesehener Beobachter"
 Kategorie: Liturgien

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 65bbb481-1aa0-4a91-9c74-3c07e27594fa
+ID: fb5baa28-fb52-4018-87bb-9618c1c7d424
 Name: Tradition der Praiosgeweihten I
 title: Tradition der Praiosgeweihten I
 Kategorie: Tradition (Karmal)

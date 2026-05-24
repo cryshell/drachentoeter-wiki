@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 0b4c3635-449a-442f-84d1-4ac39a3c7dfb
+ID: ece4329e-0ddc-4ace-a811-f82bfa49e116
 Name: "Eigene Ängste quälen dich!"
 title: "Eigene Ängste quälen dich!"
 Kategorie: Zauber

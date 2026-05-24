@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c0af2c7b-7256-41f3-9f0a-eeb640ec4d1c
+ID: 68ec12a9-7ec4-4e7d-9a6a-3b62cea73434
 Name: Macht des Elements
 title: Macht des Elements
 Kategorie: Zauber

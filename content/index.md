@@ -1,9 +1,6 @@
 ---
 title: Drachentöter Regelwerk
 ---
-
-# Drachentöter Regelwerk
-
 Willkommen in den Hallen des Drachentöter-Regelwerks — einem lebendigen Denkmal für jene, die das Schwarze Auge neu entfachen wollen. Aus dem Wunsch geboren, die schlanke Eleganz von Ilaris mit der unermesslichen Tiefe von DSA 4.1 zu vereinen, ruht hier ein System, in dem schnelle Kämpfe, offene Charakterentwicklung und kein vergessener Regelbereich unter einem Dach wohnen. Magie und Götterwirken, Dämonenpakte und Vampirismus, Handwerk und Wildnis — alles ist versammelt und verlinkt in einem durchwobenen Netz des Wissens, das mit jedem Klick neue Pfade eröffnet. Dies ist keine statische Schrift, sondern ein wachsender Grundstein für alle, die Aventurien bereisen.
 
 ---

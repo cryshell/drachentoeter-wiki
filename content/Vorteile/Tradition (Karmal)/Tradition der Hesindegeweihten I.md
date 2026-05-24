@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 9f3c114c-9283-4f0f-a3d5-7558ceb65e91
+ID: af231a78-3a14-4729-832b-eb5bd29c5ce3
 Name: Tradition der Hesindegeweihten I
 title: Tradition der Hesindegeweihten I
 Kategorie: Tradition (Karmal)

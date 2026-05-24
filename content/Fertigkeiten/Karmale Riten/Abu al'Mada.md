@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: ffc5a8d6-05f5-4b03-b8eb-17efd603fe5a
+ID: e3410512-9c0f-4914-960f-3a1384af5c11
 Name: "Abu al'Mada"
 title: "Abu al'Mada"
 Kategorie: Karmale Riten

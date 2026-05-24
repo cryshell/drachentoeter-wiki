@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Attribut
-ID: eb515b0f-0622-4a28-834d-90af9bfa4cab
+ID: d5c99cea-71aa-48a9-871d-003271c1704d
 Name: Mut
 title: Mut
 aliases: "[MU]"

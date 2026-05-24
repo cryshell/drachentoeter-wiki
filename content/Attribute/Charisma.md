@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Attribut
-ID: 16b5acc5-92fd-428d-b464-1aed9655a714
+ID: b012e305-ba32-4034-9bc4-02e3135a9e14
 Name: Charisma
 title: Charisma
 aliases: "[CH]"

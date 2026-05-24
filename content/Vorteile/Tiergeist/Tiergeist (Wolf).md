@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 896219b7-73b4-4d0e-8a4e-9e1602dbae66
+ID: 5f9de415-7db3-4184-b464-94bb486eae84
 Name: Tiergeist (Wolf)
 title: Tiergeist (Wolf)
 Kategorie: Tiergeist

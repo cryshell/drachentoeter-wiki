@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 9b1b43a8-56f1-40f1-9f26-9cec172088cf
+ID: 2245d976-10dc-4615-9488-044d8bfd5d6d
 Name: Tradition der Swafnirgeweihten I
 title: Tradition der Swafnirgeweihten I
 Kategorie: Tradition (Karmal)

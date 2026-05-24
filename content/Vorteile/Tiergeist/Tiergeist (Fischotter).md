@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: fa55b0fe-84b1-4f42-8374-bd75dea3663c
+ID: 72866a2f-23dd-4a36-b9b4-0960feb56d37
 Name: Tiergeist (Fischotter)
 title: Tiergeist (Fischotter)
 Kategorie: Tiergeist

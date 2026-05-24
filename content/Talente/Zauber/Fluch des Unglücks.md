@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 0ec7d60f-fc72-4668-8f28-55c76d84de69
+ID: cf13ab88-e98e-4b1a-a05a-d25e5c5ef30d
 Name: Fluch des Unglücks
 title: Fluch des Unglücks
 Kategorie: Zauber

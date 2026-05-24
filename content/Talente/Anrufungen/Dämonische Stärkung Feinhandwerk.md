@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: bb90bada-45f1-4f01-9e2c-6a243054e902
+ID: 32721662-ff22-470e-9303-61b462fb6962
 Name: "Dämonische Stärkung: Feinhandwerk"
 title: "Dämonische Stärkung: Feinhandwerk"
 Kategorie: Anrufungen

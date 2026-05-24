@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 2f97c333-b332-42c4-91fd-93689fff92e0
+ID: 11cd0523-5e84-48a1-b469-d2b046b8382d
 Name: Tradition der Firungeweihten I
 title: Tradition der Firungeweihten I
 Kategorie: Tradition (Karmal)

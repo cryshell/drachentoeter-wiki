@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e48120e5-8e11-4b31-899d-9b5324b345ca
+ID: b6955102-9df4-45fe-8084-a63105f390a5
 Name: Geisterklinge
 title: Geisterklinge
 Kategorie: Zauber

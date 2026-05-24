@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 30a9058a-d146-4bb8-92ea-8168577dee19
+ID: 47357d87-ccbb-471f-b7a2-95a6bc9504b2
 Name: Tradition der Agrimothpaktierer I
 title: Tradition der Agrimothpaktierer I
 Kategorie: Tradition (Paktierer)

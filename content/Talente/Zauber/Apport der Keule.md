@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: f683d3dd-8034-4980-a92b-1afc30992355
+ID: 67b776f3-f8bb-459a-af1d-03d5957799a6
 Name: Apport der Keule
 title: Apport der Keule
 Kategorie: Zauber

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: acf70bd1-ed5d-4f66-8344-56c502c98f0b
+ID: 71b9d5e6-1fcb-48d9-b6a7-e56f0bc02fad
 Name: Privilegien (Zwölfgöttergeweiht)
 title: Privilegien (Zwölfgöttergeweiht)
 Kategorie: Profan

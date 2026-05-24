@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 87e0c08d-7302-4c74-b21f-108b0e82d308
+ID: 40e62ca6-5924-4411-ad71-16fa0b8d1655
 Name: Tiergeist (Bär)
 title: Tiergeist (Bär)
 Kategorie: Tiergeist

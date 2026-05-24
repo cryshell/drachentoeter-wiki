@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 8a18d0d8-0a3d-4ff2-9380-d10255cd2a98
+ID: dda0d149-f07f-4c5f-897b-cd1188c66290
 Name: "Erinnerung verlasse dich!"
 title: "Erinnerung verlasse dich!"
 Kategorie: Zauber

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: f51106c3-ff0e-4b7f-a9df-e0202a1edaa1
+ID: ab8ea6a1-f68a-46b9-b469-3ed38e89cbc4
 Name: "Herzschlag ruhe!"
 title: "Herzschlag ruhe!"
 Kategorie: Zauber

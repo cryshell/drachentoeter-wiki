@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: d59ea98b-04ef-4ead-94ba-9458b5f93dac
+ID: b0c626f7-8188-40b1-95c7-ec0fde651223
 Name: "Weiches Erstarre!"
 title: "Weiches Erstarre!"
 Kategorie: Zauber

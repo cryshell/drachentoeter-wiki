@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 08a596f4-19bd-47ba-9ed4-90de3a379c16
+ID: 4b0ae9c7-6a77-4e2e-99c1-a6cd3104f502
 Name: Tradition der Namenlosgeweihten I
 title: Tradition der Namenlosgeweihten I
 Kategorie: Tradition (Karmal)

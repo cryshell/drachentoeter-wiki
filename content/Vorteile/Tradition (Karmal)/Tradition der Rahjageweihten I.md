@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: daf8ac90-5612-49f1-9689-fb0cf0de7ebf
+ID: 1475684c-b6f3-445b-85e1-fc8eee5440d5
 Name: Tradition der Rahjageweihten I
 title: Tradition der Rahjageweihten I
 Kategorie: Tradition (Karmal)
