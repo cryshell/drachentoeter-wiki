@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 6ea87ab7-9f54-40ac-8436-875929adf465
+ID: c2074f23-c70b-4b76-90f1-d13575074dea
 Quelle: datenbank.xml
 Name: Weihe der Keule
 title: Weihe der Keule

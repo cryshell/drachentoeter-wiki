@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 1ab6855c-e016-49bf-8f48-3e52e061ce54
+ID: be7e1f2a-3cdb-4414-9c39-e1902cca3773
 Quelle: datenbank.xml
 Name: Atemnot
 title: Atemnot
@@ -28,5 +28,5 @@ Du entziehst dem Opfer einen Teil seiner Kraft, es erleidet 2W6 SP(E). Du erhäl
 - **Fertigkeiten:**
   - [[Eigenschaften]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

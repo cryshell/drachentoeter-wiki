@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 94dad83b-834e-4c98-85f0-e2fb795aa5f9
+ID: 57c8d4a0-b79c-41fe-8aa0-d57cfd3bc712
 Quelle: datenbank.xml
 Name: Verderben des Magiers
 title: Verderben des Magiers
@@ -32,5 +32,5 @@ Das Zeichen wird in einem Durchmesser von 16 Fingern auf einer beliebigen Fläch
   - [[Verständigung]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Zibilja I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Zibilja I]]
 - **Erlernen:** 20 EP

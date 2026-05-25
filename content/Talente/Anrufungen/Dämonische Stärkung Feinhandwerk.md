@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 6d384f13-5a6d-4900-98cd-54c2c87096b8
+ID: 6688a1ac-1b3b-4e9d-b41f-61b8462fe1e1
 Quelle: datenbank.xml
 Name: "Dämonische Stärkung: Feinhandwerk"
 title: "Dämonische Stärkung: Feinhandwerk"

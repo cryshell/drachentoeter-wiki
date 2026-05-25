@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 5c462aa7-e328-4f54-ac4d-fffd27566dc1
+ID: 428a160f-d240-4422-aec5-b57b83c82b36
 Quelle: datenbank.xml
 Name: Wipfellauf (Tiergeist)
 title: Wipfellauf (Tiergeist)
@@ -20,5 +20,5 @@ $talent:Wipfellauf$
   - [[Gaben des Odun]]
   - [[Gaben des Blutgeists]]
 - **Voraussetzungen:**
-  - Vorteil [[Tiergeist (Affe) ODER Vorteil Tiergeist (Wildkatze) ODER Vorteil Tiergeist (Panther)]]
+  - Vorteil [[Tiergeist (Affe)]] ODER Vorteil [[Tiergeist (Wildkatze)]] ODER Vorteil [[Tiergeist (Panther)]]
 - **Erlernen:** 20 EP

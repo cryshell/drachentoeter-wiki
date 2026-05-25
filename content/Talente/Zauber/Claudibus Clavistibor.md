@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 18e37294-23dd-4089-8272-28145b52d72e
+ID: c732cbc5-fd46-4103-bae5-0d20b2a15a67
 Quelle: datenbank.xml
 Name: Claudibus Clavistibor
 title: Claudibus Clavistibor
@@ -32,5 +32,5 @@ Du verriegelst und stärkst ein Objekt mit Schließmechanismus, beispielsweise e
 - **Fertigkeiten:**
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 10 EP

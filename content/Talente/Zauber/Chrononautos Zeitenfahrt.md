@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c6ceabf0-d06a-4966-9971-74f4ef0a8cf2
+ID: 53a8bc79-f2f2-467d-bda6-bd68f6844b57
 Quelle: datenbank.xml
 Name: Chrononautos Zeitenfahrt
 title: Chrononautos Zeitenfahrt
@@ -30,5 +30,5 @@ Du erschaffst ein Tor durch die Zeiten. Wer es durchschreitet, gelangt ohne Klei
 - **Fertigkeiten:**
   - [[Temporal]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 40 EP

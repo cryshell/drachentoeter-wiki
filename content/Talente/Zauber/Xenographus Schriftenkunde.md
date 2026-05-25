@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b3a4cbf3-8bcd-4b56-8020-a154cf89fffa
+ID: f9690bb8-5cb4-41c9-b947-a7500d865059
 Quelle: datenbank.xml
 Name: Xenographus Schriftenkunde
 title: Xenographus Schriftenkunde
@@ -28,5 +28,5 @@ Du kannst den Sinn eines geschriebenen Satzes verstehen, auch wenn du Schrift un
 - **Fertigkeiten:**
   - [[Hellsicht]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

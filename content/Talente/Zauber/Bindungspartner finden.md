@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: a89b6cad-154e-4910-9ecf-ec3d90806d6a
+ID: 420325e8-e8ad-4e4e-a691-cbd5512af8c5
 Quelle: datenbank.xml
 Name: Bindungspartner finden
 title: Bindungspartner finden
@@ -29,5 +29,5 @@ Das Vertrautentier erspürt deinen ungefähren Aufenthaltsort. Der Zauber ignori
   - [[Einfluss]]
   - [[Vertrautenmagie]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Zibilja I]]
+  - Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Schamanen (Goblins) I]] ODER Vorteil [[Tradition der Zibilja I]]
 - **Erlernen:** 10 EP

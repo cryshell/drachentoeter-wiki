@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 6e9b1812-0919-4813-91a3-20c5683b70c4
+ID: febceea6-1766-49ee-8beb-bf270facf3fe
 Quelle: datenbank.xml
 Name: Eiseskälte Kämpferherz
 title: Eiseskälte Kämpferherz
@@ -31,5 +31,5 @@ Das Ziel empfindet keinerlei Schmerzen mehr und erleidet keine Wundabzüge. Kann
 - **Fertigkeiten:**
   - [[Eigenschaften]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

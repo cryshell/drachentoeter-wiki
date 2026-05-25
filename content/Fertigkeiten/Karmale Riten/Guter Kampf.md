@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 6ad7558d-8e37-4dbc-9e52-4b0838ecd258
+ID: 3ccd4917-4512-4225-ad93-08d99a230a7e
 Quelle: datenbank.xml
 Name: Guter Kampf
 title: Guter Kampf
@@ -47,4 +47,4 @@ Die Mystiker der Korkirche suchen den Willen ihres Gottes im Kampf. Ihr Weg füh
   - [[Neun Streiche in einem]]
   - [[Waliburias Wehr]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I]]
+  - Vorteil [[Tradition der Korgeweihten I]] ODER Vorteil [[Tradition der Kr’Thon’Chhgeweihten I]]

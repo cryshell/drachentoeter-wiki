@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 0607c136-8e2f-4cec-803c-7efe0e75f931
+ID: e2ba0e99-dcad-4be1-bb46-bce60b6b9482
 Quelle: datenbank.xml
 Name: Apport des Bannschwerts
 title: Apport des Bannschwerts
@@ -29,5 +29,5 @@ Das Bannschwert kehrt fliegend mit einer Geschwindigkeit von 10 Meilen pro Stund
   - [[Antimagie]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 10 EP

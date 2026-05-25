@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 37ba45ce-9299-4589-b49a-37eb91b7e229
+ID: 529a0cb7-272a-41fc-b5cd-9bc67cec4594
 Quelle: datenbank.xml
 Name: Schneide des Dolches
 title: Schneide des Dolches
@@ -33,5 +33,5 @@ Du kannst mit dem Dolch natürliches Gestein schneiden wie Wachs.
   - [[Feuer]]
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]]
 - **Erlernen:** 10 EP

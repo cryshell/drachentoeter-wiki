@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 7ab517ba-d5e9-4665-823d-6d05e076432c
+ID: 7c26fcf0-17f0-44ac-9095-1e4290363ff1
 Quelle: datenbank.xml
 Name: Blick aufs Wesen
 title: Blick aufs Wesen
@@ -29,5 +29,5 @@ Der Zauber offenbart dir die Fertigkeiten deines Ziels. Du erhältst einen grobe
 - **Fertigkeiten:**
   - [[Hellsicht]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

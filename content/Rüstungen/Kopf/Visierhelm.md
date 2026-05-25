@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 99b8449a-a304-4726-b866-ea27da461592
+ID: 4e443399-059c-44b4-98c6-0618e0a3ca7f
 Quelle: datenbank.xml
 Name: Visierhelm
 title: Visierhelm

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: f730bc36-4c82-4321-8563-78a337c8beeb
+ID: f6eeb82e-0006-4c36-830d-571f843899b1
 Quelle: datenbank.xml
 Name: Knüppel
 title: Knüppel

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: ca6bb56e-4a68-4963-838a-5b553837004e
+ID: b2d711d5-e48c-40e1-b87c-5e6475ec39fc
 Quelle: datenbank.xml
 Name: Seidenzunge Elfenwort
 title: Seidenzunge Elfenwort
@@ -28,5 +28,5 @@ Das Ziel denkt nicht zu genau über deine Worte nach und findet dich überzeugen
 - **Fertigkeiten:**
   - [[Einfluss]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 20 EP

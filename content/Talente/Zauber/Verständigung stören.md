@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 4e65bede-4a08-48ec-be92-10a435d6dfe1
+ID: 51db7af0-5b5b-4dd2-bc15-bffd427c50dc
 Quelle: datenbank.xml
 Name: Verständigung stören
 title: Verständigung stören
@@ -32,5 +32,5 @@ Magie unterdrücken (Probenschwierigkeit 12, 16 Aktionen, Zone, Wirkungsdauer 1 
   - [[Antimagie]]
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 10 EP

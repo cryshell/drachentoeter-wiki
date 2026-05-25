@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c6b38e1d-de4b-40fa-894b-6de925e51be5
+ID: dd44bb36-0aec-4e22-b044-48603bc0f729
 Quelle: datenbank.xml
 Name: Koboldovision
 title: Koboldovision
@@ -29,5 +29,5 @@ Du bist in der Lage, während der Wirkungsdauer in die Feenwelt zu blicken, sofe
   - [[Hellsicht]]
   - [[Kraft]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schelme I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 812ec28b-ffcb-466a-9bd5-3ffe9d08b5c5
+ID: f6275e3d-07b7-42fa-a674-e3a53efda274
 Quelle: datenbank.xml
 Name: Tiergeist (Löwe)
 title: Tiergeist (Löwe)

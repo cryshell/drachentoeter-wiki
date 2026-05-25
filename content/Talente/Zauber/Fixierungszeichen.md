@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 67024de4-ebaf-4c05-9e3a-fb5e065a29d8
+ID: 1030f8be-9cba-45c4-b887-f147c7e73ac5
 Quelle: datenbank.xml
 Name: Fixierungszeichen
 title: Fixierungszeichen
@@ -30,5 +30,5 @@ Das Zeichen wird in einem Durchmesser von 8 Fingern auf einem maximal schrankgro
   - [[Objekt]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Zibilja I]]
+  - Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]] ODER Vorteil [[Tradition der Zibilja I]]
 - **Erlernen:** 20 EP

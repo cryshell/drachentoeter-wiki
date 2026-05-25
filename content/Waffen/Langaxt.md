@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 0ed8a209-d662-44cf-afd8-491418878519
+ID: ababea98-9fa4-4fd0-bba2-4bd8f50c0a43
 Quelle: datenbank.xml
 Name: Langaxt
 title: Langaxt

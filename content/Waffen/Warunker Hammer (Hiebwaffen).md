@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 8f8b8f7e-c524-47bf-a9d4-10eb1eb34bd9
+ID: 7c740d57-2a27-4a95-8463-c56db6195a51
 Quelle: datenbank.xml
 Name: Warunker Hammer (Hiebwaffen)
 title: Warunker Hammer (Hiebwaffen)

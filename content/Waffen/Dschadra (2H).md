@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 8c2740d0-b278-4dcb-a2f4-3c2ba16b5c82
+ID: b9c86e65-f2b9-425d-8a31-8d3c5d26d5ad
 Quelle: datenbank.xml
 Name: Dschadra (2H)
 title: Dschadra (2H)

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: d24a6c57-784a-493b-a5da-77ea52e1971d
+ID: d03476c0-75c1-4db9-b922-14af2552f62c
 Quelle: datenbank.xml
 Name: Blut für Blut (passiv)
 title: Blut für Blut (passiv)
@@ -20,5 +20,5 @@ Wenn du einen Nahkampftreffer erleidest, kannst du für 2 KaP deine Waffe karmal
 - **Fertigkeiten:**
   - [[Guter Kampf]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I]]
+  - Vorteil [[Tradition der Korgeweihten I]] ODER Vorteil [[Tradition der Kr’Thon’Chhgeweihten I]]
 - **Erlernen:** 40 EP

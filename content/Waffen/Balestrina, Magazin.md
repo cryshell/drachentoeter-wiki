@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 31f9ef6e-d002-452b-8ad9-db9b7be5d6e8
+ID: 2af108a7-9ae8-40f5-9878-62b7a8d36ae7
 Quelle: datenbank.xml
 Name: Balestrina, Magazin
 title: Balestrina, Magazin

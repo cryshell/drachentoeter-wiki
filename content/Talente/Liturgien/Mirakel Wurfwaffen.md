@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b6b04080-bd11-4af8-8d9d-27f29d58e4cd
+ID: ae8612ab-7120-4d6c-9f69-7332dc4a28e8
 Quelle: datenbank.xml
 Name: "Mirakel: Wurfwaffen"
 title: "Mirakel: Wurfwaffen"

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: edf51d33-d48d-43eb-88af-dd43af070846
+ID: e6a3ad63-f855-44bd-a245-be304451f894
 Quelle: datenbank.xml
 Name: Kraft des (Tieres)
 title: Kraft des (Tieres)

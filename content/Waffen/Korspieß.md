@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: b75a43a6-bd94-4428-a095-277cac7eb65f
+ID: 62ff7d5d-b6b6-4916-8387-68a955c1d35d
 Quelle: datenbank.xml
 Name: Korspieß
 title: Korspieß

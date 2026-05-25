@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: ec3782d9-5195-451a-8cfa-6dd82c5ee644
+ID: 2fb19298-b271-426c-b395-997892243892
 Quelle: datenbank.xml
 Name: Wolfstatze
 title: Wolfstatze
@@ -31,5 +31,5 @@ Du verwandelst dich in ein an Land lebendes Tier deiner Wahl. Du behältst deine
 - **Fertigkeiten:**
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 40 EP

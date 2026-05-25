@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 891988ee-8713-417f-a4c9-bfa0f284b86c
+ID: fb76f7a8-2a38-4333-90c4-475591a222f1
 Quelle: datenbank.xml
 Name: Brabaker Ringmantel
 title: Brabaker Ringmantel

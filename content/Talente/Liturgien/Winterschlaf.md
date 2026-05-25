@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 3f809e28-1843-4fab-8321-5858928ce1e7
+ID: 13fc3e4d-9557-4429-966a-d20e19ce6707
 Quelle: datenbank.xml
 Name: Winterschlaf
 title: Winterschlaf
@@ -31,5 +31,5 @@ Das gesegnete Ziel fällt in einen tiefen Winterschlaf, in dem es weder Nahrung 
   - [[Wildnis]]
   - [[Winter]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Firungeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Himmelswölfegeweihten I]]
+  - Vorteil [[Tradition der Firungeweihten I]] ODER Vorteil [[Tradition der Ifirngeweihten I]] ODER Vorteil [[Tradition der Himmelswölfegeweihten I]]
 - **Erlernen:** 10 EP

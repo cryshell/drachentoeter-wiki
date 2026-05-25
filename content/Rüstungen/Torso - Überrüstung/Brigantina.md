@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: fe05f8f3-c529-4b79-970d-92e8e8fc0cbc
+ID: a8526c93-37bc-4b9f-96f0-befacf041170
 Quelle: datenbank.xml
 Name: Brigantina
 title: Brigantina

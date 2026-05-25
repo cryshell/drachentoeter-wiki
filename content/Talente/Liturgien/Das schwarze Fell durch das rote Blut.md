@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 7454220e-6010-44fd-8cf3-a52b6f0b4ecf
+ID: 11e013e1-e909-4abd-8e63-a6c035c59870
 Quelle: datenbank.xml
 Name: Das schwarze Fell durch das rote Blut
 title: Das schwarze Fell durch das rote Blut
@@ -28,5 +28,5 @@ Dein vergossenes Blut legt sich wie eine schützende Haut um deinen Körper. Dei
 - **Fertigkeiten:**
   - [[Guter Kampf]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I]]
+  - Vorteil [[Tradition der Korgeweihten I]] ODER Vorteil [[Tradition der Kr’Thon’Chhgeweihten I]]
 - **Erlernen:** 20 EP

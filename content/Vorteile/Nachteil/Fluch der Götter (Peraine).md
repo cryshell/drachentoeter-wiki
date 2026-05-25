@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: eb7e6bbc-29c6-4056-82c5-9e618e89c8be
+ID: d12919f5-0715-4ca7-861b-e3384f8b22c7
 Quelle: datenbank.xml
 Name: Fluch der Götter (Peraine)
 title: Fluch der Götter (Peraine)

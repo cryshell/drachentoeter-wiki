@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 0953ac54-18a7-4d06-8bc1-365b9fbb6d9f
+ID: abe5a490-e4d6-4db8-8be0-6314a4b1e083
 Quelle: datenbank.xml
 Name: Anaurak
 title: Anaurak

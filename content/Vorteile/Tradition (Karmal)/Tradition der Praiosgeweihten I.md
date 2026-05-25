@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 9ffca7cf-88c7-4a2a-bfc8-b03bd9623549
+ID: 76d487ce-d8a0-4681-9956-88002da2080f
 Quelle: datenbank.xml
 Name: Tradition der Praiosgeweihten I
 title: Tradition der Praiosgeweihten I

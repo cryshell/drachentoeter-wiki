@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 3d9e303c-50b6-4622-9521-8d86de16cd20
+ID: bcc5bd30-7dac-434a-b24a-f3c8af21b701
 Quelle: datenbank.xml
 Name: Linkhand
 title: Linkhand

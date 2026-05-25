@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 61709ca7-032a-46a4-a24c-1ce2efcb64ee
+ID: 0cf80271-bd57-475f-b298-3d83c127be4e
 Quelle: datenbank.xml
 Name: Vocolimbo hohler Klang
 title: Vocolimbo hohler Klang
@@ -31,5 +31,5 @@ Von einem Ort deiner Wahl aus erklingt eine *Illusion* (Gehör) als hohle Stimme
 - **Fertigkeiten:**
   - [[Illusion]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 10 EP

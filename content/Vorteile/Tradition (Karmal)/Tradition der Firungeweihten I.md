@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 69876172-3a61-46da-ba9b-15b4fb3c4ebe
+ID: d567399b-2ae1-4d09-89aa-595375825f7a
 Quelle: datenbank.xml
 Name: Tradition der Firungeweihten I
 title: Tradition der Firungeweihten I

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c8db0d9b-37bf-48c3-aad4-308ce4d8d6cf
+ID: 228afff4-24ff-406e-b781-6ecd3665487b
 Quelle: datenbank.xml
 Name: Kulminatio Kugelblitz
 title: Kulminatio Kugelblitz
@@ -32,5 +32,5 @@ Du schießt einen erratischen Kugelblitz auf dein Ziel. Der Kugelblitz nähert s
 - **Fertigkeiten:**
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

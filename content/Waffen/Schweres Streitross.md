@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 535a65c2-7690-4cac-a810-c1a93177d89c
+ID: d6472f56-a627-452e-a777-894507bf6177
 Quelle: datenbank.xml
 Name: Schweres Streitross
 title: Schweres Streitross

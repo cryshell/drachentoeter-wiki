@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: e9b7ca28-b831-4b4f-bf70-bb93bcad3810
+ID: dcfc4b4e-d7b7-4a4b-834d-c8dd374630e1
 Quelle: datenbank.xml
 Name: Kettenmantel
 title: Kettenmantel

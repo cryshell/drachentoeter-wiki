@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 7cd9244c-f34d-4d4e-bb59-f66283b24ed8
+ID: dde916b0-6a0f-4700-b0f5-2e1ec64269ea
 Quelle: datenbank.xml
 Name: Lederbeinschienen
 title: Lederbeinschienen

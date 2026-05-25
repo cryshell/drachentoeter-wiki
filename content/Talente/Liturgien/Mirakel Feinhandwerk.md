@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 47e3f7a3-7462-4d22-a067-8c1e6c9acf78
+ID: 53ac884d-1268-42c5-8a4d-72b9d5e5f7b9
 Quelle: datenbank.xml
 Name: "Mirakel: Feinhandwerk"
 title: "Mirakel: Feinhandwerk"

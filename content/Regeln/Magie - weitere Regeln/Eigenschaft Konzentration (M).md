@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: 89ec13b0-f7aa-40c9-b3bf-d14211764573
+ID: 63b589e4-6ea6-475f-a416-128475b04509
 Quelle: datenbank.xml
 Name: Eigenschaft Konzentration (M)
 title: Eigenschaft Konzentration (M)
@@ -12,4 +12,4 @@ Der Zauber fordert deine volle Aufmerksamkeit. Du musst während der gesamten Wi
 ---
 
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Tradition der Borbaradianer I]]

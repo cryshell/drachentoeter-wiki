@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: cd8b6f60-d2d3-4f97-a006-f992de3b069a
+ID: b56409c9-ca58-4b11-a78d-652af3e3fdfc
 Quelle: datenbank.xml
 Name: Granit und Marmor
 title: Granit und Marmor
@@ -34,5 +34,5 @@ Dein Opfer versteinert kontinuierlich, bis es nach einer Stunde zu einer Statue 
   - [[Erz]]
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

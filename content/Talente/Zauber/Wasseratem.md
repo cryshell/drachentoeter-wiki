@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 7e5a6485-3b2f-4806-a814-194ba4f9491b
+ID: 97da89d2-775e-47e7-9840-326176602862
 Quelle: datenbank.xml
 Name: Wasseratem
 title: Wasseratem
@@ -29,5 +29,5 @@ Das Ziel kann unter Wasser atmen, jedoch nicht mehr an Land. Erlaubt *Aufrechter
 - **Fertigkeiten:**
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 48157376-c3a4-4f63-9ff7-d072ab85a0c8
+ID: 5cf8090d-469c-46ba-8fd3-3c9028c55c7e
 Quelle: datenbank.xml
 Name: "Dämonische Stärkung: Naturkunde"
 title: "Dämonische Stärkung: Naturkunde"

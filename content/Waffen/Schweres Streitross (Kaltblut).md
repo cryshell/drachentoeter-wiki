@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 1bea532b-917f-44f9-8ae7-aeb9e3e677a0
+ID: b2200e3b-ab34-47fd-8a43-efb74bf98893
 Quelle: datenbank.xml
 Name: Schweres Streitross (Kaltblut)
 title: Schweres Streitross (Kaltblut)

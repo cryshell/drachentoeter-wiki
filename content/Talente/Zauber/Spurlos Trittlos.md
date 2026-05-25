@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: dc9d74a3-4c6a-47ca-9889-73eee7bacc60
+ID: 9f444b40-cfdb-4fc6-84e2-927a73ffb8f1
 Quelle: datenbank.xml
 Name: Spurlos Trittlos
 title: Spurlos Trittlos
@@ -31,5 +31,5 @@ Du tarnst deine Fährte mit Magie. Alle Proben zur Verfolgung deiner Fährte hab
 - **Fertigkeiten:**
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 10 EP

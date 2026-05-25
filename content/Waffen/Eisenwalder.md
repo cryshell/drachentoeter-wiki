@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 716d5d54-87f0-4f64-b6d9-f2cbad6b5972
+ID: 2d917ddc-8c80-4173-bdc1-1ff37fc3cf7d
 Quelle: datenbank.xml
 Name: Eisenwalder
 title: Eisenwalder

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 8d44d439-66da-4c61-8c97-1b6fb22b4082
+ID: 4e68c284-17ae-4969-8b71-3ea90b9e9d62
 Quelle: datenbank.xml
 Name: Kriegsflegel
 title: Kriegsflegel

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: d1af2b78-9db4-4d9c-b8d5-21547dc6bb26
+ID: f2f59b0c-b687-4824-a569-cc4249c29546
 Quelle: datenbank.xml
 Name: Erster unter gleichen
 title: Erster unter gleichen
@@ -31,5 +31,5 @@ Dein Vertrautentier schüchtert ein anderes Tier aus seiner Gattung bis zur Grö
   - [[Einfluss]]
   - [[Vertrautenmagie]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Zibilja I]]
+  - Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Schamanen (Goblins) I]] ODER Vorteil [[Tradition der Zibilja I]]
 - **Erlernen:** 10 EP

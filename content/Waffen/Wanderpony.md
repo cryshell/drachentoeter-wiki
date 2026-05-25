@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 4f654128-e215-419f-aa0a-ff2a29b01e86
+ID: 42945954-19fa-44a1-be8e-88f8dac666ef
 Quelle: datenbank.xml
 Name: Wanderpony
 title: Wanderpony

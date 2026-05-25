@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 043dba4d-90fe-44a5-88c3-67a3d8ef8c08
+ID: 6ae412d8-d4b7-4794-bb0e-cf0d7bfb438e
 Quelle: datenbank.xml
 Name: Windenarmbrust
 title: Windenarmbrust

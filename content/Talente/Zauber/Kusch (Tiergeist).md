@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: eaed112f-b98e-47c0-a077-e66d2e0d0e47
+ID: b1dde81e-ecbf-4980-9fb5-2b15feb477d9
 Quelle: datenbank.xml
 Name: "Kusch! (Tiergeist)"
 title: "Kusch! (Tiergeist)"
@@ -20,5 +20,5 @@ $talent:Kusch!$
   - [[Gaben des Odun]]
   - [[Gaben des Blutgeists]]
 - **Voraussetzungen:**
-  - Vorteil [[Tiergeist (Löwe) ODER Vorteil Tiergeist (Mammut) ODER Vorteil Tiergeist (Wildschwein) ODER Vorteil Tiergeist (Wolf) ODER Vorteil Tiergeist (Khoramsbestie)]]
+  - Vorteil [[Tiergeist (Löwe)]] ODER Vorteil [[Tiergeist (Mammut)]] ODER Vorteil [[Tiergeist (Wildschwein)]] ODER Vorteil [[Tiergeist (Wolf)]] ODER Vorteil [[Tiergeist (Khoramsbestie)]]
 - **Erlernen:** 10 EP

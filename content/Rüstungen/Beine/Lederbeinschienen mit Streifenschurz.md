@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 39c961af-8284-4e87-bf6a-32cd3c2f25e4
+ID: 14918bcb-6701-4e07-beec-8f0ff69cf4d8
 Quelle: datenbank.xml
 Name: Lederbeinschienen mit Streifenschurz
 title: Lederbeinschienen mit Streifenschurz

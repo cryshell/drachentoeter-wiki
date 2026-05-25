@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 3b03cbe6-8c02-4a0f-b3ea-4200f9c3d91b
+ID: 19e23a35-9b74-4e5f-bc9b-dd9daa5bad9e
 Quelle: datenbank.xml
 Name: Fluch der Götter (Orvai Kurim)
 title: Fluch der Götter (Orvai Kurim)

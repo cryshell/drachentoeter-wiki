@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 1d987295-61b7-49d1-b5ee-af505433ade2
+ID: c6a97ec3-3b8f-435e-8ae4-cd82a556b135
 Quelle: datenbank.xml
 Name: Infinitum
 title: Infinitum
@@ -31,5 +31,5 @@ Voraussetzungen: Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition 
   - [[Kraft]]
   - [[Temporal]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 60 EP

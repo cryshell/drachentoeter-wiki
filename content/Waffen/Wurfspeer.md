@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 6844ec4f-45f0-4f00-b7a3-0194804eda6a
+ID: 44be7474-2a54-4774-8513-23219b326d3a
 Quelle: datenbank.xml
 Name: Wurfspeer
 title: Wurfspeer

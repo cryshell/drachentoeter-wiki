@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: ba7ede96-d28c-4c85-a124-e9a29ff42e50
+ID: 5725ff86-3545-440d-80e3-07f294269bcf
 Quelle: datenbank.xml
 Name: "Schlangenbund: Stimmungssinn"
 title: "Schlangenbund: Stimmungssinn"

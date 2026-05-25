@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 346a8323-8876-483b-ba92-f57ebece2a18
+ID: 0133233c-2401-41a1-abfb-a978234d57ca
 Quelle: datenbank.xml
 Name: Panzerbeine
 title: Panzerbeine

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: d21297a3-6056-4cd9-994b-fab44571d9ba
+ID: 295487ed-e45c-402c-8d6e-b7cc39582fac
 Quelle: datenbank.xml
 Name: Leuchtendes Zeichen
 title: Leuchtendes Zeichen
@@ -31,5 +31,5 @@ Das Zeichen wird in einem Durchmesser von 8 Fingern auf einer beliebigen Fläche
   - [[Umwelt]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Zibilja I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]] ODER Vorteil [[Tradition der Zibilja I]]
 - **Erlernen:** 10 EP

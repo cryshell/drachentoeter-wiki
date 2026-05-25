@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 4581d490-ad7b-42be-b04b-bc3b0f3be5f9
+ID: d704fa3f-fa43-47a2-8355-07ccc5da651a
 Quelle: datenbank.xml
 Name: Seelenwanderung
 title: Seelenwanderung
@@ -33,5 +33,5 @@ Wenn du ein Körperteil deines Opfers besitzt (z. B. Haare oder Blut), kannst du
   - [[Eigenschaften]]
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 40 EP

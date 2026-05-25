@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: b5cbb6b5-3ce5-48eb-be83-1628e51ea71d
+ID: eb7fead5-e2c8-46cd-b94a-974d67a0f5cc
 Quelle: datenbank.xml
 Name: Kurzes Kettenhemd
 title: Kurzes Kettenhemd

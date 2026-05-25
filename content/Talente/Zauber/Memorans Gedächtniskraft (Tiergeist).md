@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b0c1e294-76d0-4ffc-b0e9-97b99bf70ef0
+ID: d8ccc0f2-04d6-4804-b8f0-3c0928fe9612
 Quelle: datenbank.xml
 Name: Memorans Gedächtniskraft (Tiergeist)
 title: Memorans Gedächtniskraft (Tiergeist)
@@ -20,5 +20,5 @@ $talent:Memorans Gedächtniskraft$
   - [[Gaben des Odun]]
   - [[Gaben des Blutgeists]]
 - **Voraussetzungen:**
-  - Vorteil [[Tiergeist (Elefant) ODER Vorteil Tiergeist (Rabe)]]
+  - Vorteil [[Tiergeist (Elefant)]] ODER Vorteil [[Tiergeist (Rabe)]]
 - **Erlernen:** 20 EP

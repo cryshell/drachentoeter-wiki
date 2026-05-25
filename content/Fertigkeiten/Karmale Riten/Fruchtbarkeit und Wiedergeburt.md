@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: f3a6bcfb-ef18-4b58-a224-f47139f97038
+ID: c3eb7267-c9c1-4cf1-a5e6-fc9ccdab695a
 Quelle: datenbank.xml
 Name: Fruchtbarkeit und Wiedergeburt
 title: Fruchtbarkeit und Wiedergeburt
@@ -49,4 +49,4 @@ Die H’Ranga Zsahh und Ssad’Huar stehen für Fruchtbarkeit und Wiedergeburt, 
   - [[Zsahhs Lebensschutz]]
   - [[Zsahhs wunderbare Erneuerung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der Zsahhgeweihten I]]
+  - Vorteil [[Tradition der Ssad’Huargeweihten I]] ODER Vorteil [[Tradition der Zsahhgeweihten I]]

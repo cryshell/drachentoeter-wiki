@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 5fe87a76-d03d-467c-9989-e3672a00468a
+ID: db059f61-3046-4e89-a976-5099e519bc76
 Quelle: datenbank.xml
 Name: Frigisphaero
 title: Frigisphaero
@@ -30,5 +30,5 @@ Ein Eisball fügt in einem Radius von 3 Schritt 4W6 TP zu und verursacht *Erfrie
 - **Fertigkeiten:**
   - [[Eis]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Geoden I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Shakagra I]] ODER Vorteil [[Tradition der Geoden I]]
 - **Erlernen:** 20 EP

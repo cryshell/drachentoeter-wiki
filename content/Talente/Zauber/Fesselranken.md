@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c0b10ff9-55f4-442d-bbe3-c8761a8e85fa
+ID: 8f4599b9-82c8-43ca-9e3d-73975c788ea7
 Quelle: datenbank.xml
 Name: Fesselranken
 title: Fesselranken
@@ -30,5 +30,5 @@ Aus dem Boden unter deinem Opfer wachsen Ranken hervor. Es ist *fixiert*. Es kan
 - **Fertigkeiten:**
   - [[Humus]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Elfen I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Elfen I]]
 - **Erlernen:** 10 EP

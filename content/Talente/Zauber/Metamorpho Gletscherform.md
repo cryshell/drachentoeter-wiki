@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: fbd68948-19db-490c-8c93-c2af8ade8472
+ID: d342f23d-78d7-439d-9cbb-21c19248dd34
 Quelle: datenbank.xml
 Name: Metamorpho Gletscherform
 title: Metamorpho Gletscherform
@@ -37,5 +37,5 @@ Du formst Eis mit bloßen Händen in die wundersamsten Formen. Die Probenschwier
   - [[Eis]]
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

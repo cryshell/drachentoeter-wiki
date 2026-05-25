@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 90079a3c-856c-400c-ba32-bccdfe394aea
+ID: d495b5ba-331a-4ec8-9f7c-100687d613b4
 Quelle: datenbank.xml
 Name: Vampir II
 title: Vampir II

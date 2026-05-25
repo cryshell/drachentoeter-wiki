@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 771db6c1-24f1-44fc-9109-d874a16f5fe4
+ID: 65d3eb14-7d98-486a-a244-fe2c37e65ef4
 Quelle: datenbank.xml
 Name: Analys Arcanstruktur
 title: Analys Arcanstruktur
@@ -30,5 +30,5 @@ Du analysierst die magische Struktur eines arkanen Artefakts oder eines magische
   - [[Hellsicht]]
   - [[Kraft]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

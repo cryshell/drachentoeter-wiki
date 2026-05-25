@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: b8439f2f-324d-41ca-b022-620e9b4d92e1
+ID: bd6c2d28-ac4a-495a-b6c7-318737f5da81
 Quelle: datenbank.xml
 Name: Schaller
 title: Schaller

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: d85ea50b-1a9a-4de0-90b7-f4da9f34a1f8
+ID: 3cb41ed6-0ceb-431e-9b35-f25ae41b38ae
 Quelle: datenbank.xml
 Name: Heilige Schmiedeglut
 title: Heilige Schmiedeglut
@@ -29,5 +29,5 @@ Ein Feuer wird so heiß, dass es zum Schmieden genutzt werden kann (Temperaturst
 - **Fertigkeiten:**
   - [[Heiliges Feuer]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+  - Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Angroschgeweihten I]] ODER Vorteil [[Tradition der Graveshgeweihten I]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 42eb83b3-5322-47c4-8aa0-9c8d75437e58
+ID: c24c0328-6b49-4376-9c03-ae6e9e41f490
 Quelle: datenbank.xml
 Name: Brustschalen
 title: Brustschalen

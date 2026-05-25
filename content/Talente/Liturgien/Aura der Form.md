@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 35dfe64b-d233-453a-b6d1-5f5bcb5cd289
+ID: d05b922f-3c11-4645-907e-e2eb85333aa6
 Quelle: datenbank.xml
 Name: Aura der Form
 title: Aura der Form
@@ -30,5 +30,5 @@ Du erhältst einen groben Eindruck in die Vorgeschichte eines Gegenstandes.
   - [[List]]
   - [[Wissen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Nandusgeweihten I]]
+  - Vorteil [[Tradition der Hesindegeweihten I]] ODER Vorteil [[Tradition der Phexgeweihten I]] ODER Vorteil [[Tradition der Nandusgeweihten I]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 570eca5f-6ec9-4060-9b77-53017ff5adc3
+ID: 46285196-5681-4d9f-8038-5c35c13faffe
 Quelle: datenbank.xml
 Name: Krabbelnder Schrecken
 title: Krabbelnder Schrecken
@@ -30,5 +30,5 @@ Dein Opfer wird von einer Myriade Insekten und Kleintieren bedeckt. Misslingt ei
   - [[Dämonisch]]
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I]]
+  - Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]]
 - **Erlernen:** 20 EP

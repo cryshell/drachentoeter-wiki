@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: fb814df4-f42b-4ed9-baa4-fe3c79ae5614
+ID: 0cd76051-79e7-471b-9ebf-f07e4c033d75
 Quelle: datenbank.xml
 Name: Zaubernahrung Hungerbann
 title: Zaubernahrung Hungerbann
@@ -32,5 +32,5 @@ Für einen Tag spürst du keinerlei Hunger und die Kraft des Zaubers ernährt di
   - [[Eigenschaften]]
   - [[Einfluss]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 10 EP

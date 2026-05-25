@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: a6e48a84-159e-47e7-a065-9fac96c92c46
+ID: 20426d4c-25f9-47a1-8759-9ba6c1d7fbdf
 Quelle: datenbank.xml
 Name: Begehen der heiligen Wasser
 title: Begehen der heiligen Wasser
@@ -27,5 +27,5 @@ Du kannst auf der Wasseroberfläche gehen, als würdest du von einer Welle getra
 - **Fertigkeiten:**
   - [[Wind und Wogen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I]]
+  - Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Chr’Ssir’Ssrgeweihten I]]
 - **Erlernen:** 10 EP

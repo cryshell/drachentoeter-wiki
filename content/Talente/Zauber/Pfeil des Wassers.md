@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 2a2db115-7d88-4c13-a1af-976d675f5b79
+ID: dcdc1325-6dbc-4136-8337-7629514d61ad
 Quelle: datenbank.xml
 Name: Pfeil des Wassers
 title: Pfeil des Wassers
@@ -32,5 +32,5 @@ Du verzauberst einen Pfeil (oder Bolzen oder Wurfwaffe), sodass er im Flug die M
   - [[Objekt]]
   - [[Wasser]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Elfen I]]
+  - Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Elfen I]]
 - **Erlernen:** 10 EP

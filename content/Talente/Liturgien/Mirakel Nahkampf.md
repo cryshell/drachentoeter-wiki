@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b317a420-5b7b-44cb-aeea-6b8df8a1e50c
+ID: afa6203d-047b-433e-b14e-9d3538dc661e
 Quelle: datenbank.xml
 Name: "Mirakel: Nahkampf"
 title: "Mirakel: Nahkampf"

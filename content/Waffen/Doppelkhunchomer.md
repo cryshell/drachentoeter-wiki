@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: feb21079-2110-47ba-9ebe-e5382b9871f1
+ID: 558a0138-acdc-4c72-b2ad-6533cd2b09c2
 Quelle: datenbank.xml
 Name: Doppelkhunchomer
 title: Doppelkhunchomer

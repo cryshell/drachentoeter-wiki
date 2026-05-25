@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: fac8bb95-2f3e-451a-9b51-e6a644254dfa
+ID: 1546e762-b3f5-4984-b1c1-e5e68c701dd8
 Quelle: datenbank.xml
 Name: Ringelpanzer
 title: Ringelpanzer

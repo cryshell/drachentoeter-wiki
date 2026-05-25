@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: a45f302f-e538-4a3b-b463-cdc967ad540e
+ID: 74cbd06a-057f-4b6c-a301-823369396520
 Quelle: datenbank.xml
 Name: Magischer Raub
 title: Magischer Raub
@@ -29,5 +29,5 @@ Du kannst bei deinem nächsten Zauber teilweise oder ganz auf die AsP des Ziels 
   - [[Kraft]]
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

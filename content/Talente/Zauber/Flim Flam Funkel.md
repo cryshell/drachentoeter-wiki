@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 8127835f-471d-466d-a994-64df36c51ece
+ID: bd1d5496-8931-4b86-98e6-39b1928fcccc
 Quelle: datenbank.xml
 Name: Flim Flam Funkel
 title: Flim Flam Funkel
@@ -34,5 +34,5 @@ Eine bläuliche Lichtkugel erscheint und erzeugt in einem Radius von 4 Schritt e
 - **Fertigkeiten:**
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 10 EP

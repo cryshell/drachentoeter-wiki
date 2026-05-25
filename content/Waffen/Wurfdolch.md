@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 216a8f19-9716-44bc-8322-ab8c8cd37be6
+ID: 40df86b6-f5a7-4a79-95ac-fcc0669034d3
 Quelle: datenbank.xml
 Name: Wurfdolch
 title: Wurfdolch

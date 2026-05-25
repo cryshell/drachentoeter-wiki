@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 8306a07c-3a25-4ee8-bc69-4697c4488b88
+ID: a161a698-0184-48a2-91a0-2ce2434336ba
 Quelle: datenbank.xml
 Name: Dreizack
 title: Dreizack

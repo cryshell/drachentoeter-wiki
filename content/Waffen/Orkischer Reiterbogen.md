@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 8789dc4c-a0d1-49a7-8cdf-a19e29f4bbf9
+ID: 28ebcdfb-9d71-408e-9777-a7aa392af7fc
 Quelle: datenbank.xml
 Name: Orkischer Reiterbogen
 title: Orkischer Reiterbogen

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 20faee3a-a82d-4357-9d7c-d675de92ac94
+ID: 3e05323c-2f9d-4339-828e-fa5d4e4d1e96
 Quelle: datenbank.xml
 Name: Tradition der Rondrageweihten I
 title: Tradition der Rondrageweihten I

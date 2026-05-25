@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 672f36ce-9a38-4b58-8216-27950e77d1e9
+ID: 03a31b6d-2ff1-4e7f-8731-8c823f61ebb9
 Quelle: datenbank.xml
 Name: "Mirakel: Feingefühl"
 title: "Mirakel: Feingefühl"

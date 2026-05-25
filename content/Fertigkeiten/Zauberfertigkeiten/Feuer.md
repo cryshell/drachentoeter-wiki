@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 384267f7-0092-4531-bdd6-d19bf0a2de71
+ID: b19b54c1-cfac-4d48-893d-7dab5b73375c
 Quelle: datenbank.xml
 Name: Feuer
 title: Feuer
@@ -97,4 +97,4 @@ Mit Feuerzauberei kannst du Gegenstände erwärmen oder verbrennen und die loder
   - [[Zorn der Elemente]]
   - [[Zähne des Feuers]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Shakagra I]]

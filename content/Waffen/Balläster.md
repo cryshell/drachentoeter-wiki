@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 98331714-555d-4c1f-b6d1-570ba33dd6d3
+ID: f29fff02-0749-4ed6-90ce-f0c8cfff1439
 Quelle: datenbank.xml
 Name: Balläster
 title: Balläster

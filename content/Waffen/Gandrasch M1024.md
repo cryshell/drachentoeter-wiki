@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: d0b07a22-ee04-494e-8711-5ae6f00e65ae
+ID: 2dc8cfc0-35d5-44cc-a54c-9ead746f0ee6
 Quelle: datenbank.xml
 Name: Gandrasch M1024
 title: Gandrasch M1024

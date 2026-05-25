@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: 0ab02597-b4bf-4839-aeb1-ad183e91a5ba
+ID: 42f6cb6f-092e-43b4-814d-17d426e90aba
 Quelle: datenbank.xml
 Name: Mirakel
 title: Mirakel

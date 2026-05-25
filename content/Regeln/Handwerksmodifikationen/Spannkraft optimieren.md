@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: 08b0e9fc-8881-4f06-b583-323438015c10
+ID: 92a8b0ac-333a-48af-8c29-239bd2790738
 Quelle: datenbank.xml
 Name: Spannkraft optimieren
 title: Spannkraft optimieren

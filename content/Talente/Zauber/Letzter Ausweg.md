@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c7a9e9d6-e4fe-4568-a0dc-c1ec23c5824a
+ID: 130bb344-f704-4913-a405-72b87559a57c
 Quelle: datenbank.xml
 Name: Letzter Ausweg
 title: Letzter Ausweg
@@ -30,5 +30,5 @@ Dein Vertrautentier mobilisiert alle Kräfte, um dich oder sich zu retten. Alle 
   - [[Kraft]]
   - [[Vertrautenmagie]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Zibilja I]]
+  - Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Schamanen (Goblins) I]] ODER Vorteil [[Tradition der Zibilja I]]
 - **Erlernen:** 20 EP

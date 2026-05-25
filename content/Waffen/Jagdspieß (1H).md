@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: dbf7de18-64ba-45c4-be2c-30890535566c
+ID: ba0e8074-2e33-4262-8cc7-f3c7fd4ff179
 Quelle: datenbank.xml
 Name: Jagdspieß (1H)
 title: Jagdspieß (1H)

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 7767391a-ae03-4680-9844-30adeb3e98b6
+ID: 6e7d4513-ab81-4d13-902b-de73d931514a
 Quelle: datenbank.xml
 Name: Argelions Mantel
 title: Argelions Mantel
@@ -30,5 +30,5 @@ Du ignorierst bei allen auf dich gewirkten, schädlichen Zaubern zwei Stufen Hoh
   - [[Abu al'Mada]]
   - [[Magie]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der H’Szintgeweihten I]]
+  - Vorteil [[Tradition der Hesindegeweihten I]] ODER Vorteil [[Tradition der Phexgeweihten I]] ODER Vorteil [[Tradition der H’Szintgeweihten I]]
 - **Erlernen:** 20 EP

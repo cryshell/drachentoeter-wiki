@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 82b5bc44-207e-471b-9454-d85acda2180b
+ID: 88faba3c-f036-4893-940d-0f5e1ad03377
 Quelle: datenbank.xml
 Name: Tuzakmesser
 title: Tuzakmesser

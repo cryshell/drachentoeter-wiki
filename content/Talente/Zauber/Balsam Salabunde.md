@@ -1,6 +1,6 @@
 ---
 Entit√§tstyp: Talent
-ID: 36206137-81f3-406d-9ca4-ce94e71347cc
+ID: 1c3d663b-7060-4ed8-84b2-814b414194de
 Quelle: datenbank.xml
 Name: Balsam Salabunde
 title: Balsam Salabunde
@@ -35,5 +35,5 @@ Sofortige Regeneration (-16, Vorbereitungszeit 4 Aktionen, 32 AsP; das Ziel erh√
   - [[Humus]]
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Hexen I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Shakagra I]] ODER Vorteil [[Tradition der Hexen I]]
 - **Erlernen:** 40 EP

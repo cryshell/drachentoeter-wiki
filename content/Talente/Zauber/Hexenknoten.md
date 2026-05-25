@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 3c9073dd-e243-49fa-b28c-c2ad9d0fc2ff
+ID: 104d4349-62d6-4c89-8984-a2fc28bf1b47
 Quelle: datenbank.xml
 Name: Hexenknoten
 title: Hexenknoten
@@ -30,5 +30,5 @@ Du erschaffst eine bis zu 4 Schritt lange, furchteinflößende Barriere, deren g
   - [[Einfluss]]
   - [[Illusion]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 20 EP

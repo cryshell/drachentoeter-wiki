@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 381c6806-f4c5-446d-9cd1-c10967ce0070
+ID: 238267a3-add6-439b-bed3-7f5b6007cd39
 Quelle: datenbank.xml
 Name: Leidensbund
 title: Leidensbund
@@ -35,5 +35,5 @@ Giftbund (Probenschwierigkeit Giftstufe; du übernimmst das Gift von deinem Ziel
   - [[Humus]]
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

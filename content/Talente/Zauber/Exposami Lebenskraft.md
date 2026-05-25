@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: a8fba1c2-d878-4e1a-881f-0cb22c2a9d9c
+ID: ea397e03-467e-4d4e-9e23-9a47bfa87c98
 Quelle: datenbank.xml
 Name: Exposami Lebenskraft
 title: Exposami Lebenskraft
@@ -30,5 +30,5 @@ Das Ziel nimmt Lebewesen als grün leuchtende Flecken wahr. Der Zauber kann alle
 - **Fertigkeiten:**
   - [[Hellsicht]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 10 EP

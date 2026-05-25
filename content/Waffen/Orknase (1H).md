@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: fe4949a4-1c3d-4dab-9a08-46571c64d14f
+ID: bb5d9b49-0bf7-4e29-be7e-eeb2eb50f672
 Quelle: datenbank.xml
 Name: Orknase (1H)
 title: Orknase (1H)

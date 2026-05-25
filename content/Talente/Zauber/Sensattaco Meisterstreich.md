@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 150b1b1a-fcda-42ae-bbbd-31a3a2f41789
+ID: bd4d936d-6972-49b6-a3ef-be8d17055cd1
 Quelle: datenbank.xml
 Name: Sensattaco Meisterstreich
 title: Sensattaco Meisterstreich
@@ -29,5 +29,5 @@ Dein Ziel erkennt intuitiv die Lücken in der Verteidigung seiner Gegner. Seine 
   - [[Eigenschaften]]
   - [[Hellsicht]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 81729f74-cc7a-4dde-a8ac-780079173b8c
+ID: bdfb1368-f6ae-4c0a-9699-30a65f20cba4
 Quelle: datenbank.xml
 Name: Initiation
 title: Initiation
@@ -28,5 +28,5 @@ Du nimmst das Ziel in deine religiöse Gemeinschaft auf. Weltlich gilt es ab die
 - **Fertigkeiten:**
   - [[Göttlicher Ritus]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Angroschgeweihten I ODER Vorteil Tradition der Avesgeweihten I ODER Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I ODER Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Firungeweihten I ODER Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der H’Szintgeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Rondrageweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der Swafnirgeweihten I ODER Vorteil Tradition der Traviageweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der V’Sargeweihten I ODER Vorteil Tradition der Zsahhgeweihten I]]
+  - Vorteil [[Tradition der Angroschgeweihten I]] ODER Vorteil [[Tradition der Avesgeweihten I]] ODER Vorteil [[Tradition der Borongeweihten I]] ODER Vorteil [[Tradition der Chr’Ssir’Ssrgeweihten I]] ODER Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Firungeweihten I]] ODER Vorteil [[Tradition der Hesindegeweihten I]] ODER Vorteil [[Tradition der H’Szintgeweihten I]] ODER Vorteil [[Tradition der Ifirngeweihten I]] ODER Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Korgeweihten I]] ODER Vorteil [[Tradition der Kr’Thon’Chhgeweihten I]] ODER Vorteil [[Tradition der Nandusgeweihten I]] ODER Vorteil [[Tradition der Perainegeweihten I]] ODER Vorteil [[Tradition der Phexgeweihten I]] ODER Vorteil [[Tradition der Praiosgeweihten I]] ODER Vorteil [[Tradition der Rahjageweihten I]] ODER Vorteil [[Tradition der Rondrageweihten I]] ODER Vorteil [[Tradition der Ssad’Huargeweihten I]] ODER Vorteil [[Tradition der Swafnirgeweihten I]] ODER Vorteil [[Tradition der Traviageweihten I]] ODER Vorteil [[Tradition der Tsageweihten I]] ODER Vorteil [[Tradition der V’Sargeweihten I]] ODER Vorteil [[Tradition der Zsahhgeweihten I]]
 - **Erlernen:** 0 EP

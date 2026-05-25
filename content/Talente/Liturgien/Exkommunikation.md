@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 1c768724-05ec-49d7-b803-8ee8f9605fc8
+ID: 742f1d6c-b50b-43b2-a316-041983054b52
 Quelle: datenbank.xml
 Name: Exkommunikation
 title: Exkommunikation
@@ -30,5 +30,5 @@ Das Ziel erhält die Eigenheit „Frevler“, die es nur durch Buße wieder losw
 - **Fertigkeiten:**
   - [[Göttlicher Ritus]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Angroschgeweihten I ODER Vorteil Tradition der Avesgeweihten I ODER Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I ODER Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Firungeweihten I ODER Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der H’Szintgeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Rondrageweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der Swafnirgeweihten I ODER Vorteil Tradition der Traviageweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der V’Sargeweihten I ODER Vorteil Tradition der Zsahhgeweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+  - Vorteil [[Tradition der Angroschgeweihten I]] ODER Vorteil [[Tradition der Avesgeweihten I]] ODER Vorteil [[Tradition der Borongeweihten I]] ODER Vorteil [[Tradition der Chr’Ssir’Ssrgeweihten I]] ODER Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Firungeweihten I]] ODER Vorteil [[Tradition der Hesindegeweihten I]] ODER Vorteil [[Tradition der H’Szintgeweihten I]] ODER Vorteil [[Tradition der Ifirngeweihten I]] ODER Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Korgeweihten I]] ODER Vorteil [[Tradition der Kr’Thon’Chhgeweihten I]] ODER Vorteil [[Tradition der Nandusgeweihten I]] ODER Vorteil [[Tradition der Perainegeweihten I]] ODER Vorteil [[Tradition der Phexgeweihten I]] ODER Vorteil [[Tradition der Praiosgeweihten I]] ODER Vorteil [[Tradition der Rahjageweihten I]] ODER Vorteil [[Tradition der Rondrageweihten I]] ODER Vorteil [[Tradition der Ssad’Huargeweihten I]] ODER Vorteil [[Tradition der Swafnirgeweihten I]] ODER Vorteil [[Tradition der Traviageweihten I]] ODER Vorteil [[Tradition der Tsageweihten I]] ODER Vorteil [[Tradition der V’Sargeweihten I]] ODER Vorteil [[Tradition der Zsahhgeweihten I]] ODER Vorteil [[Tradition der Graveshgeweihten I]]
 - **Erlernen:** 20 EP

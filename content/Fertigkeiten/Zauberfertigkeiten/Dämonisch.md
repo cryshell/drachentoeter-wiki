@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: a86262e6-1a7a-4f1b-b308-95f99e23cdbe
+ID: 90d7cb91-908a-4190-b9f8-2b7c0eca9319
 Quelle: datenbank.xml
 Name: Dämonisch
 title: Dämonisch
@@ -123,4 +123,4 @@ Diese finstere Zauberei ruft Dämonen in die dritte Sphäre, erhebt Untote, ersc
   - [[Weiches Erstarre (Dämonisch)|Weiches Erstarre! (Dämonisch)]]
   - [[Wimmelndes Zeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Shakagra I]]

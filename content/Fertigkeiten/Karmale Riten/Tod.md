@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: e251e18f-cadf-4310-aff4-80997359535e
+ID: 0aec536a-7f0b-4a41-a921-f7c56e7864c1
 Quelle: datenbank.xml
 Name: Tod
 title: Tod
@@ -49,4 +49,4 @@ Der Alltag vieler Borongeweihter besteht aus der Sterbebegleitung und der Pflege
   - [[Prüfung vergangener Leben]]
   - [[Weihe der letzten Ruhestatt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borongeweihten I ODER Vorteil Tradition der V’Sargeweihten I]]
+  - Vorteil [[Tradition der Borongeweihten I]] ODER Vorteil [[Tradition der V’Sargeweihten I]]

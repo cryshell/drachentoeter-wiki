@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 4fa92f52-0d55-4761-8e30-c4a36306b0a3
+ID: 64883ad8-71a1-4ae3-a8b3-ed6c67a0f52b
 Quelle: datenbank.xml
 Name: Wissen
 title: Wissen
@@ -65,4 +65,4 @@ Hesinde ist die Quelle des Wissens, das von den Geweihten gesammelt und je nach 
   - [[Weisheitssegen]]
   - [[Wundersame Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der Nandusgeweihten I]]
+  - Vorteil [[Tradition der Hesindegeweihten I]] ODER Vorteil [[Tradition der Nandusgeweihten I]]

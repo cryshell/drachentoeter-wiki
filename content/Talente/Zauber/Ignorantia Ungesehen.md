@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 0f95feb5-75b5-4a6f-9c66-bfddbc6380cc
+ID: b0ba7d96-9ce0-421a-b25f-f02ad1b14e95
 Quelle: datenbank.xml
 Name: Ignorantia Ungesehen
 title: Ignorantia Ungesehen
@@ -29,5 +29,5 @@ Zufällige Beobachter bemerken dich nicht und Umstehende verlieren das Interesse
   - [[Einfluss]]
   - [[Illusion]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 20 EP

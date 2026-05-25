@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: 72b3ca59-6715-43e3-98cb-9b9ac2a9e63e
+ID: 41dc2d5d-2805-4132-a1f7-6101f60a95ae
 Quelle: datenbank.xml
 Name: Eigenschaft Illusion (Sinn)
 title: Eigenschaft Illusion (Sinn)

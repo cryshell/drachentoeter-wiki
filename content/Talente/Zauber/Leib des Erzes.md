@@ -1,6 +1,6 @@
 ---
 Entit√§tstyp: Talent
-ID: cdbec263-2abc-4851-9d5d-ff9f0816de91
+ID: 2c8dfab2-7efb-449a-b5cd-b3320708d58a
 Quelle: datenbank.xml
 Name: Leib des Erzes
 title: Leib des Erzes
@@ -33,5 +33,5 @@ Du harmonierst mit dem Element Erz. Du bist immun gegen Erzschaden. Die Immunit√
   - [[Erz]]
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 20 EP

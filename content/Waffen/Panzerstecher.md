@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 77e46ff0-514b-4d4b-acbd-8b3cf98af878
+ID: 579e6540-ad8f-4463-adc3-b7a3d6cb88d3
 Quelle: datenbank.xml
 Name: Panzerstecher
 title: Panzerstecher

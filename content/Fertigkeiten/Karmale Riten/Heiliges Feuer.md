@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: d819aed8-9045-4e3f-bb37-26ee49363726
+ID: 1b94a63e-7011-46f9-8697-a6d887950b9a
 Quelle: datenbank.xml
 Name: Heiliges Feuer
 title: Heiliges Feuer
@@ -41,4 +41,4 @@ Nordaventurische Feueranbeter und zwergische Hüter der Wacht nutzen die lebenss
   - [[Vertrauter der Flamme]]
   - [[Waliburias Wehr]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Angroschgeweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+  - Vorteil [[Tradition der Angroschgeweihten I]] ODER Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Graveshgeweihten I]]

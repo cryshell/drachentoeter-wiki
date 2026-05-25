@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 4ae699a5-92f3-4a97-8c22-09ecb0b72b7c
+ID: 1ec493d4-899c-4abe-b98e-d04d3e6abff5
 Quelle: datenbank.xml
 Name: Ängste lindern
 title: Ängste lindern
@@ -29,5 +29,5 @@ Voraussetzungen: Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition d
 - **Fertigkeiten:**
   - [[Einfluss]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]]
 - **Erlernen:** 20 EP

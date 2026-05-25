@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b4c695cf-8fc2-4dbc-9c09-49414b52e73d
+ID: 96cb231b-43df-4f2b-9d43-bacacde8cb7e
 Quelle: datenbank.xml
 Name: Paralysis starr wie Stein
 title: Paralysis starr wie Stein
@@ -29,5 +29,5 @@ Dein Ziel erstarrt zu einer unzerstörbaren Statue, der auch Gifte oder Krankhei
   - [[Erz]]
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 40 EP

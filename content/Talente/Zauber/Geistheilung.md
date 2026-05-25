@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 482b429a-906a-43c0-84bc-ffbdf4d01e65
+ID: 247dc4ec-889f-4b10-8c85-316600d7c4d9
 Quelle: datenbank.xml
 Name: Geistheilung
 title: Geistheilung

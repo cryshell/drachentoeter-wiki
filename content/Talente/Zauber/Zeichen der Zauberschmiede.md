@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 9605c6c0-6dce-4193-a4ec-d09cca73ec47
+ID: b6d2fab9-871a-4fa5-b968-ed7152c8ee17
 Quelle: datenbank.xml
 Name: Zeichen der Zauberschmiede
 title: Zeichen der Zauberschmiede
@@ -34,5 +34,5 @@ Das Zeichen wird in einem Durchmesser von 8 Fingern auf einer Waffe angebracht. 
   - [[Objekt]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Zibilja I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]] ODER Vorteil [[Tradition der Zibilja I]]
 - **Erlernen:** 20 EP

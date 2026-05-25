@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: 80e94100-94cb-4a75-aad6-c6fa215af762
+ID: 4ddefedc-0c51-4a12-9227-9cf939cc8988
 Quelle: datenbank.xml
 Name: Eigenschaft Ballistisch
 title: Eigenschaft Ballistisch

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: bcc398b7-6059-4dad-8d6a-77eeac8e8f3d
+ID: 8d7bbe85-d8fd-425c-96ad-530b07b009f3
 Quelle: datenbank.xml
 Name: Custodosigil Diebesbann
 title: Custodosigil Diebesbann
@@ -34,5 +34,5 @@ Du sicherst ein Gefäß bis zur Größe einer Truhe mit einem magischen Siegel. 
   - [[Feuer]]
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 10 EP

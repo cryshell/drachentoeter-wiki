@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 674fce8f-381f-4c3a-8202-32bb04053d96
+ID: fca8a64d-07d4-4c8c-b019-274aaf50eea6
 Quelle: datenbank.xml
 Name: Siegel der Stille
 title: Siegel der Stille
@@ -31,5 +31,5 @@ Das Zeichen in einem Durchmesser von 16 Fingern wird auf einer beliebigen Fläch
   - [[Umwelt]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Zibilja I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Zibilja I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

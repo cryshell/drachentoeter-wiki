@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: cc36f92f-5948-4b68-a6c3-0b5612b8b212
+ID: fca4f075-a020-49c3-ba08-fdc5383975e9
 Quelle: datenbank.xml
 Name: Corpofesso Gliederschmerz
 title: Corpofesso Gliederschmerz
@@ -27,5 +27,5 @@ Dein Ziel erleidet eine plötzliche Muskelschwäche und ist *geschwächt*. Wenn 
 - **Fertigkeiten:**
   - [[Eigenschaften]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

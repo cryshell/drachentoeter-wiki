@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 86a489b9-8670-4876-86ff-36202069fb0d
+ID: bcded854-131e-4919-97f3-1e511eee8541
 Quelle: datenbank.xml
 Name: Bannschwert
 title: Bannschwert
@@ -34,5 +34,5 @@ Du legst bannende Zauber auf eine Handgemenge- oder Klingenwaffe mit Reichweite 
   - [[Dämonisch]]
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

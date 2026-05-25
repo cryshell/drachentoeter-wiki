@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 25a20c49-36dd-47d4-aa09-04dba5e97971
+ID: 1b1e5c81-d9c5-44f6-8e48-a96044e1f2a5
 Quelle: datenbank.xml
 Name: Invocatio
 title: Invocatio
@@ -28,5 +28,5 @@ Ruft einen Dämon herbei, der in deiner unmittelbaren Nähe erscheint. Schwierig
 - **Fertigkeiten:**
   - [[Dämonisch]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 40 EP

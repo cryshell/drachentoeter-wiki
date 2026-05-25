@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c595d4dc-25ed-4243-9117-82c7989fb341
+ID: 06d8e905-83b4-4296-ac36-b9a5c555385b
 Quelle: datenbank.xml
 Name: Cryptographo Zauberschrift
 title: Cryptographo Zauberschrift
@@ -32,5 +32,5 @@ Eine Nachricht, die auf das verzauberte Pergament geschriebenen wird, wird autom
   - [[Objekt]]
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 10 EP

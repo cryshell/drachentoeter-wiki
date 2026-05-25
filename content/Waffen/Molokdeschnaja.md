@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 1d00e103-9a66-4438-a5dd-8e12be66c7ca
+ID: d7932984-26c9-4758-9934-f78c81343734
 Quelle: datenbank.xml
 Name: Molokdeschnaja
 title: Molokdeschnaja

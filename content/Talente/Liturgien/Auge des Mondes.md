@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 83b06b32-bb44-4724-a8f2-f36cd4d0c408
+ID: 698efd19-5e5a-47fd-80c2-e666083241e0
 Quelle: datenbank.xml
 Name: Auge des Mondes
 title: Auge des Mondes
@@ -32,5 +32,5 @@ Die Helligkeit steigt für das Ziel um 1 Stufe, selbst bei absoluter Dunkelheit.
   - [[Schlaf]]
   - [[Nacht]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borongeweihten I ODER Vorteil Tradition der Phexgeweihten I]]
+  - Vorteil [[Tradition der Borongeweihten I]] ODER Vorteil [[Tradition der Phexgeweihten I]]
 - **Erlernen:** 20 EP

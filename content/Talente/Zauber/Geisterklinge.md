@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 3ba94075-256e-4b71-ae88-47e7fa47caab
+ID: 30233ed7-eb0e-4cbd-a2e5-ccf8e1083562
 Quelle: datenbank.xml
 Name: Geisterklinge
 title: Geisterklinge

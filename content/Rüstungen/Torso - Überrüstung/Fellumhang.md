@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 5420c108-963c-4fb9-b987-66c5b2b308b0
+ID: 1da5a1ef-28b8-43f1-98dd-f6220b05aa05
 Quelle: datenbank.xml
 Name: Fellumhang
 title: Fellumhang

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 6bb0a6d9-4a43-4acf-984f-3d3ffde6acf3
+ID: efbc3d44-ecdb-48a2-8260-d24245e94fba
 Quelle: datenbank.xml
 Name: Gleichklang des Geistes
 title: Gleichklang des Geistes
@@ -33,5 +33,5 @@ Du erhältst einen Einblick in die Gefühle deines Gegenübers. Erlaubt *Aufrech
   - [[Heilung]]
   - [[Wind und Wogen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Swafnirgeweihten I ODER Vorteil Tradition der Tsageweihten I]]
+  - Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Perainegeweihten I]] ODER Vorteil [[Tradition der Rahjageweihten I]] ODER Vorteil [[Tradition der Swafnirgeweihten I]] ODER Vorteil [[Tradition der Tsageweihten I]]
 - **Erlernen:** 10 EP

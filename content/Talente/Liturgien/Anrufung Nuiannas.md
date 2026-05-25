@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: ae4bc7e0-0aab-49e3-93e7-7755b981914d
+ID: 7a11c9c8-cd50-46c3-83a8-58acf4c21e04
 Quelle: datenbank.xml
 Name: Anrufung Nuiannas
 title: Anrufung Nuiannas
@@ -30,5 +30,5 @@ In einem Radius von 128 Schritt entsteht eine dichte Nebelfront, die für eine *
 - **Fertigkeiten:**
   - [[Wind und Wogen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I]]
+  - Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Swafnirgeweihten I]] ODER Vorteil [[Tradition der Chr’Ssir’Ssrgeweihten I]]
 - **Erlernen:** 20 EP

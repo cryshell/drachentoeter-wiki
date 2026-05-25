@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: 40f71bc0-b003-428f-a985-a6767e3d4e40
+ID: 9468cf04-bd9a-4015-ad32-85d77da4b49c
 Quelle: datenbank.xml
 Name: Erzwingen
 title: Erzwingen
@@ -16,4 +16,4 @@ Die Kosten des Zaubers steigen um die Hälfte der Basiskosten, dafür ist der Za
 
 - **Probe:** Zauber +4
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borbaradianer III ODER Vorteil Tradition der Druiden III ODER Vorteil Tradition der Hexen III ODER Vorteil Tradition der Schelme III ODER Vorteil Tradition der Anach-Nûrim III ODER Vorteil Tradition der Shakagra III]]
+  - Vorteil [[Tradition der Borbaradianer III]] ODER Vorteil [[Tradition der Druiden III]] ODER Vorteil [[Tradition der Hexen III]] ODER Vorteil [[Tradition der Schelme III]] ODER Vorteil [[Tradition der Anach-Nûrim III]] ODER Vorteil [[Tradition der Shakagra III]]

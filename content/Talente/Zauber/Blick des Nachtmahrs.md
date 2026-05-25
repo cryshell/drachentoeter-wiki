@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 1d4977d8-e8df-45a7-98d7-5b549b482613
+ID: 0d04abeb-e499-4c8e-9e63-d7a5dbb3aac9
 Quelle: datenbank.xml
 Name: Blick des Nachtmahrs
 title: Blick des Nachtmahrs
@@ -30,5 +30,5 @@ Du raubst deinem Opfer durch deinen bloßen Blick die Lebensessenz. Pro 4 Züge 
   - [[Vampirische Kräfte]]
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kinder der Finsternis ODER Vorteil Tradition der Kinder der Nacht ODER Vorteil Tradition der Feylamia ODER Vorteil Tradition der Lamijahnim]]
+  - Vorteil [[Tradition der Kinder der Finsternis]] ODER Vorteil [[Tradition der Kinder der Nacht]] ODER Vorteil [[Tradition der Feylamia]] ODER Vorteil [[Tradition der Lamijahnim]]
 - **Erlernen:** 40 EP

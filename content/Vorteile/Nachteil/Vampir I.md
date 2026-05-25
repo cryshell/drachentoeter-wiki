@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e9e98f55-572c-474e-b358-6bcad1d403e0
+ID: 228e1857-f1ba-4235-af02-54569bd17880
 Quelle: datenbank.xml
 Name: Vampir I
 title: Vampir I

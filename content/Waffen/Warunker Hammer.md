@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 1f22495a-8d07-4f72-a6b8-4abf781d7536
+ID: 2874a8cb-8bcb-4727-8a28-a963080d58b6
 Quelle: datenbank.xml
 Name: Warunker Hammer
 title: Warunker Hammer

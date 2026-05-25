@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 26077af2-24a1-4cac-bbef-93fb06ddea3f
+ID: 1c6044ae-14e8-4654-b242-5c3f39e193ec
 Quelle: datenbank.xml
 Name: Holzschild
 title: Holzschild

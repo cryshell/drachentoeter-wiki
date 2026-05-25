@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 367d2bcd-cc32-4a90-aa07-c8ba048c5768
+ID: e0fe8e1e-c915-458f-8460-dc5113cbbcf0
 Quelle: datenbank.xml
 Name: Tradition der H’Szintgeweihten I
 title: Tradition der H’Szintgeweihten I

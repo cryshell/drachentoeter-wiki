@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e4ca6b34-6a9e-4356-a9f3-c254b569ef78
+ID: 3203e834-8f0e-4e43-9215-c9304cd7d2fe
 Quelle: datenbank.xml
 Name: Skelettarius Totenherr
 title: Skelettarius Totenherr
@@ -28,5 +28,5 @@ Du erhebst eine Leiche als Untoten, der in 2 Zügen einsatzfähig ist. Schwierig
 - **Fertigkeiten:**
   - [[Dämonisch]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

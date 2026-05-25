@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: d9e2c3b8-934f-4f62-849d-002e14ecbc49
+ID: e96751e9-34de-4f19-89b5-e29a4692e814
 Quelle: datenbank.xml
 Name: Fluch des Verräters
 title: Fluch des Verräters
@@ -31,5 +31,5 @@ Du rufst Kors Strafe auf einen reuelosen Sünder oder Deserteur herab. Er ist in
   - [[Eroberung]]
   - [[Gutes Gold]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I]]
+  - Vorteil [[Tradition der Korgeweihten I]] ODER Vorteil [[Tradition der Kr’Thon’Chhgeweihten I]]
 - **Erlernen:** 10 EP

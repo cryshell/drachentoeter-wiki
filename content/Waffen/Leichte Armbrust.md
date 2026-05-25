@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: aa9410cc-9311-4654-96c0-7100c08af53e
+ID: 0bebe5e2-a568-4a72-bafc-a1c96d2c508e
 Quelle: datenbank.xml
 Name: Leichte Armbrust
 title: Leichte Armbrust

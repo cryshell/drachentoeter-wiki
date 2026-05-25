@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 0ff14cec-2d8c-48e0-aae0-fd17e9a4ec67
+ID: e4009c38-4077-4c3e-ac20-82449eacec2a
 Quelle: datenbank.xml
 Name: Bannbaladin
 title: Bannbaladin
@@ -30,5 +30,5 @@ Verbessert das Verhältnis zum Ziel um eine Stufe auf der Skala feindlich/ablehn
 - **Fertigkeiten:**
   - [[Einfluss]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

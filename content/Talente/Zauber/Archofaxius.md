@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 9a568fb9-fd07-44ff-9827-c9514d21d835
+ID: 7942709b-67b8-46bf-85ec-b1135505ce52
 Quelle: datenbank.xml
 Name: Archofaxius
 title: Archofaxius
@@ -31,5 +31,5 @@ Ein Strahl aus elementarem Erz fügt dem Ziel 2W6 TP zu und verursacht *Niedersc
 - **Fertigkeiten:**
   - [[Erz]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

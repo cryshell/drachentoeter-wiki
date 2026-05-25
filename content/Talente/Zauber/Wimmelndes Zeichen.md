@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b9dc1da1-7af7-45d2-ac17-4cdf34afefbc
+ID: a39cae10-6d12-4751-9957-572b4caebb0c
 Quelle: datenbank.xml
 Name: Wimmelndes Zeichen
 title: Wimmelndes Zeichen
@@ -35,5 +35,5 @@ Das Zeichen wird in einem Durchmesser von 32 Fingern auf einer beliebigen Fläch
   - [[Verständigung]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Zibilja I]]
+  - Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]] ODER Vorteil [[Tradition der Zibilja I]]
 - **Erlernen:** 20 EP

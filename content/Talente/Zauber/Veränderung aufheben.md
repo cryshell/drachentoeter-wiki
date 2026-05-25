@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 84220847-42eb-492b-9811-74f6f5c9152a
+ID: a59f7f27-e10f-4c13-8ed7-b61b623b9a58
 Quelle: datenbank.xml
 Name: Veränderung aufheben
 title: Veränderung aufheben
@@ -32,5 +32,5 @@ Magie unterdrücken (Probenschwierigkeit 12, 16 Aktionen, Zone, Wirkungsdauer 1 
   - [[Antimagie]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 10 EP

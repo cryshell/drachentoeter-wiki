@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: ebda44ad-c73e-40d2-89cc-07b40a4635f4
+ID: fb72614f-1ea2-4d53-9210-a617792c26aa
 Quelle: datenbank.xml
 Name: Geistertausch
 title: Geistertausch
@@ -26,5 +26,5 @@ $talent:Seelenwanderung$
   - [[Geister rufen]]
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Achaz) I ODER Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+  - Vorteil [[Tradition der Schamanen (Achaz) I]] ODER Vorteil [[Tradition der Schamanen (Ferkina) I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]]
 - **Erlernen:** 40 EP

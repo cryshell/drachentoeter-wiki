@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 84e3f640-b3bf-41bc-be6a-d0e632ea19e4
+ID: a227795c-f463-49f4-9dbf-1e88254a37ec
 Quelle: datenbank.xml
 Name: "Dämonische Stärkung: Autorität"
 title: "Dämonische Stärkung: Autorität"

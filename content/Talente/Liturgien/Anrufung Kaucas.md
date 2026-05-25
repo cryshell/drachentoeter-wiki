@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b4d10693-118e-40e4-a1d1-2dfee007d2be
+ID: 1b02940b-e4cf-49c5-888d-c10452c8993d
 Quelle: datenbank.xml
 Name: Anrufung Kaucas
 title: Anrufung Kaucas
@@ -29,5 +29,5 @@ Tosende Winde umgeben dich und wehren Fernkampfangriffe bis zur Größe eines Wu
 - **Fertigkeiten:**
   - [[Wind und Wogen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I]]
+  - Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Swafnirgeweihten I]] ODER Vorteil [[Tradition der Chr’Ssir’Ssrgeweihten I]]
 - **Erlernen:** 20 EP

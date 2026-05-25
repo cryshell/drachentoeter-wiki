@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 81e9ca01-bd12-48e9-b4ab-94d666307a77
+ID: 34760880-ce0f-4d23-b9e9-c6aea5852389
 Quelle: datenbank.xml
 Name: Schützende Rotte
 title: Schützende Rotte
@@ -34,5 +34,5 @@ Du bemalst einen Schild mit Tieren. Die VT zur Abwehr von *ballistischen* Zauber
   - [[Geister vertreiben]]
   - [[Kraft]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Achaz) I ODER Vorteil Tradition der Schamanen (Nivesen) I ODER Vorteil Tradition der Schamanen (Orks) I]]
+  - Vorteil [[Tradition der Schamanen (Goblins) I]] ODER Vorteil [[Tradition der Schamanen (Achaz) I]] ODER Vorteil [[Tradition der Schamanen (Nivesen) I]] ODER Vorteil [[Tradition der Schamanen (Orks) I]]
 - **Erlernen:** 10 EP

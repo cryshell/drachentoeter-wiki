@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: beb441af-0aca-49f8-988e-c4b0ce135b90
+ID: 0bafa5c6-f86d-4fb0-a6ac-94b824f7058f
 Quelle: datenbank.xml
 Name: Schwarz und Rot
 title: Schwarz und Rot
@@ -30,5 +30,5 @@ In der Herzgegend deines Opfers entsteht ein schmerzhaftes rotes Mal, das sich l
   - [[Dämonisch]]
   - [[Eigenschaften]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 93bc571f-c01b-469c-9f76-805dd0c1b6d3
+ID: 4df56968-35e6-4ac5-a663-82c754c74d38
 Quelle: datenbank.xml
 Name: Aufwecken
 title: Aufwecken
@@ -27,5 +27,5 @@ Das Ziel ist sofort wach, kampfbereit und nicht überrascht. Die Position änder
 - **Fertigkeiten:**
   - [[Einfluss]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 10 EP

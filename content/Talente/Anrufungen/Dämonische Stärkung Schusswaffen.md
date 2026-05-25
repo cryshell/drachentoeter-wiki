@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 28a9a0ed-bd64-4b55-b8db-43176a1d22f1
+ID: e61f06ee-7a3f-419e-82c1-32fb22ec45d4
 Quelle: datenbank.xml
 Name: "Dämonische Stärkung: Schusswaffen"
 title: "Dämonische Stärkung: Schusswaffen"

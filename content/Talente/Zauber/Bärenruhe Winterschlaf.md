@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 32b336c8-4aee-4029-9ae4-2ed5dd0a8f07
+ID: 5178befa-227a-475c-8619-c0d3c17a2c15
 Quelle: datenbank.xml
 Name: Bärenruhe Winterschlaf
 title: Bärenruhe Winterschlaf
@@ -29,5 +29,5 @@ Du versetzt dein Ziel in einen tiefen Winterschlaf. Während des Schlafes benöt
 - **Fertigkeiten:**
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 10 EP

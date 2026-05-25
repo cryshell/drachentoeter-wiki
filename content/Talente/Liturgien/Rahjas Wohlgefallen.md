@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 8a447cdd-cf12-4a6b-b061-4fb0ac9c2209
+ID: 47c77f74-fb35-4241-a0c9-cf1c4d47b9e6
 Quelle: datenbank.xml
 Name: Rahjas Wohlgefallen
 title: Rahjas Wohlgefallen
@@ -30,5 +30,5 @@ Du rufst die Gunst der Göttin auf dich herab. Menschenkenntnis- und Betören-Pr
   - [[Fröhlicher Wanderer]]
   - [[Harmonie]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Rahjageweihten I]]
+  - Vorteil [[Tradition der Avesgeweihten I]] ODER Vorteil [[Tradition der Rahjageweihten I]]
 - **Erlernen:** 20 EP

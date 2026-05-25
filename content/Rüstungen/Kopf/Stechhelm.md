@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 3b14e00c-2e14-4df2-ac89-0b5de759d8b9
+ID: 9b367f23-6fb9-4516-bd2f-12999b707ee3
 Quelle: datenbank.xml
 Name: Stechhelm
 title: Stechhelm

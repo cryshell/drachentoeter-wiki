@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 9845e2ab-9720-4005-ba3b-abfcc9aa7cdd
+ID: 909a36ea-e905-4c50-ba35-d68b07d6c6ca
 Quelle: datenbank.xml
 Name: Memorans Gedächtniskraft
 title: Memorans Gedächtniskraft
@@ -32,5 +32,5 @@ Drachengedächtnis (-8, Wirkungsdauer 16 Züge; alles, was du während der Wirku
   - [[Eigenschaften]]
   - [[Hellsicht]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

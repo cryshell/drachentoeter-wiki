@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 4daaf899-b021-4f08-8234-908c187631f3
+ID: 26bd1558-3685-485e-a746-f613c5a4ffd2
 Quelle: datenbank.xml
 Name: Unbewaffnet
 title: Unbewaffnet

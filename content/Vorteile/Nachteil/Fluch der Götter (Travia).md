@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 969b30af-9012-463c-844a-4a3f4591d23e
+ID: 89af41a1-0d67-42ed-8b71-2735ec2523b5
 Quelle: datenbank.xml
 Name: Fluch der Götter (Travia)
 title: Fluch der Götter (Travia)

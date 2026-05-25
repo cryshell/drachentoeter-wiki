@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 1414795b-d520-43bb-8707-946595294b0f
+ID: 5c1d1234-92b6-4d55-9c90-732d930384fe
 Quelle: datenbank.xml
 Name: "Dämonische Stärkung: Athletik"
 title: "Dämonische Stärkung: Athletik"

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 528fe726-93cc-46b5-a9df-0d6bafabbfd7
+ID: d3aea7a5-1e09-43c8-be40-4fe444329313
 Quelle: datenbank.xml
 Name: Zauber der Keule (passiv)
 title: Zauber der Keule (passiv)

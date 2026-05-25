@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: e4b61819-ef3f-4467-85bf-78426f417909
+ID: bc91ecd1-84f3-4491-a774-f259cbafe834
 Quelle: datenbank.xml
 Name: Kurzschwert
 title: Kurzschwert

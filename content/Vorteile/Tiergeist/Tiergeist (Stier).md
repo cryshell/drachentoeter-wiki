@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6b8cb027-6bff-4f06-9979-3b7b32449ca7
+ID: bec9d39a-333a-42cf-98bb-cf1bd02d8e4d
 Quelle: datenbank.xml
 Name: Tiergeist (Stier)
 title: Tiergeist (Stier)

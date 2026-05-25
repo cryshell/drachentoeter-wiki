@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 70b1d109-fc43-4554-b8c4-8575c408ba97
+ID: d349da0d-3a60-4f7b-91c5-d074faf16fc7
 Quelle: datenbank.xml
 Name: Seidenzunge Elfenwort (Tiergeist)
 title: Seidenzunge Elfenwort (Tiergeist)
@@ -20,5 +20,5 @@ $talent:Seidenzunge Elfenwort$
   - [[Gaben des Odun]]
   - [[Gaben des Blutgeists]]
 - **Voraussetzungen:**
-  - Vorteil [[Tiergeist (Fuchs) ODER Vorteil Tiergeist (Mungo)]]
+  - Vorteil [[Tiergeist (Fuchs)]] ODER Vorteil [[Tiergeist (Mungo)]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: b5202ebd-1f88-4700-af90-0658c9d9cb54
+ID: bb52dde3-a922-48c5-be01-c557981564a9
 Quelle: datenbank.xml
 Name: Bakka
 title: Bakka

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: bf1a9970-1c71-4b50-a21e-61082b479af9
+ID: 3b0124ac-38c2-4571-b844-9faaec3878dc
 Quelle: datenbank.xml
 Name: Fluch der Götter (Praios)
 title: Fluch der Götter (Praios)

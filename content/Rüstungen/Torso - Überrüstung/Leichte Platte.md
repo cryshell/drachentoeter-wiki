@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 24d58d85-3466-4e39-b3a6-5a93e8fa4304
+ID: e526672c-a096-4027-87a2-46d66e10e77e
 Quelle: datenbank.xml
 Name: Leichte Platte
 title: Leichte Platte

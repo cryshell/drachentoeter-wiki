@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 99128060-b699-487e-b67a-2ffc05b2aea3
+ID: 9c9b7b6f-7de3-477a-96a0-e89db0b619fe
 Quelle: datenbank.xml
 Name: Mahlstrom
 title: Mahlstrom
@@ -31,5 +31,5 @@ Du erzeugst einen Strudel im Wasser mit einem Radius von 32 Schritt. Jedes Wesen
   - [[Umwelt]]
   - [[Wasser]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

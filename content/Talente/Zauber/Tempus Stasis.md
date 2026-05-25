@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: d4fac0c7-3d80-48cf-b4df-700109b54bcd
+ID: a42fb940-7b3b-4b2c-a8b1-8bac1277fbf7
 Quelle: datenbank.xml
 Name: Tempus Stasis
 title: Tempus Stasis
@@ -28,5 +28,5 @@ Du hältst in einem Radius von 8 Schritt die Zeit an – für alles außer dich.
 - **Fertigkeiten:**
   - [[Temporal]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 40 EP

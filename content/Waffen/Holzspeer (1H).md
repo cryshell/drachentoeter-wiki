@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: c354f72e-2392-4fab-ae8d-e15249f50def
+ID: b7f4179c-080d-4864-be20-c1738acc5a70
 Quelle: datenbank.xml
 Name: Holzspeer (1H)
 title: Holzspeer (1H)

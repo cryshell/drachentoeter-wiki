@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 4a81ecbf-92ca-4997-a754-2d1059b80ae5
+ID: 591c6962-5a02-433c-9cb3-01579265a08c
 Quelle: datenbank.xml
 Name: Kompositbogen
 title: Kompositbogen

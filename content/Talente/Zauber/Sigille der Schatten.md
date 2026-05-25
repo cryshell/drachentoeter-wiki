@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: dfe6d5c3-3387-49a7-a1ed-aba29a722769
+ID: 7aabee0e-7deb-4f84-9043-2882bba6ffc1
 Quelle: datenbank.xml
 Name: Sigille der Schatten
 title: Sigille der Schatten
@@ -31,5 +31,5 @@ Das Zeichen wird in einem Durchmesser von 32 Fingern auf einer beliebigen Fläch
   - [[Umwelt]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+  - Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]]
 - **Erlernen:** 10 EP

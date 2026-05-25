@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 833e39b6-afbe-4287-9ef3-c02b573d1a10
+ID: 23a2ffa8-7005-4d57-ba69-6072c842271e
 Quelle: datenbank.xml
 Name: Kusliker Säbel
 title: Kusliker Säbel

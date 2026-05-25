@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 98bd055b-2c99-47ae-8949-f1774d69c5ca
+ID: 3c6c9441-245a-4010-a898-20ecd909bc79
 Quelle: datenbank.xml
 Name: Zerschmetternder Bannstrahl
 title: Zerschmetternder Bannstrahl
@@ -32,5 +32,5 @@ Ein gleißender Bannstrahl fährt aus dem Himmel herab. Das Ziel erleidet 8W6 SP
   - [[Magiebann]]
   - [[Nipakau]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Praiosgeweihten I ODER Vorteil Tradition der Kamaluqgeweihten I]]
+  - Vorteil [[Tradition der Praiosgeweihten I]] ODER Vorteil [[Tradition der Kamaluqgeweihten I]]
 - **Erlernen:** 40 EP

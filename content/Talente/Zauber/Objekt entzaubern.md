@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 97892179-adaf-41af-a632-5aa0c99ecc2c
+ID: 58d7aef3-4e40-4e25-8668-46c6ec9d46b2
 Quelle: datenbank.xml
 Name: Objekt entzaubern
 title: Objekt entzaubern
@@ -32,5 +32,5 @@ Magie unterdrücken (Probenschwierigkeit 12, 16 Aktionen, Zone, Wirkungsdauer 1 
   - [[Antimagie]]
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 10 EP

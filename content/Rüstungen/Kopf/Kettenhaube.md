@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 004ab7fa-4c95-4bbd-9bfa-264eaa896311
+ID: a16efa8c-66cf-4290-a470-368e1061542f
 Quelle: datenbank.xml
 Name: Kettenhaube
 title: Kettenhaube

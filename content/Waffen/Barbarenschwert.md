@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 813a952d-b48e-43b1-98af-9ad15ead5c37
+ID: 6c57cfe2-30d3-4875-8097-626a27d12d93
 Quelle: datenbank.xml
 Name: Barbarenschwert
 title: Barbarenschwert

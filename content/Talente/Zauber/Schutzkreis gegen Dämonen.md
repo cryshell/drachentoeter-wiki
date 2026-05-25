@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 9b01522a-5327-44e4-a811-a1fcc2fabf2c
+ID: 772388db-302d-4411-8039-c9675e504564
 Quelle: datenbank.xml
 Name: Schutzkreis gegen Dämonen
 title: Schutzkreis gegen Dämonen
@@ -33,5 +33,5 @@ Das Zeichen wird an einer beliebigen Fläche angebracht. Du ziehst einen Kreis v
   - [[Dämonisch]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Zibilja I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]] ODER Vorteil [[Tradition der Zibilja I]]
 - **Erlernen:** 20 EP

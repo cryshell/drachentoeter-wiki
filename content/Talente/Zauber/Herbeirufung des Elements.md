@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 66af765f-3162-4c7f-9b86-945ea8a2964f
+ID: 938b3b88-141d-462f-9e24-5dcf9fd94734
 Quelle: datenbank.xml
 Name: Herbeirufung des Elements
 title: Herbeirufung des Elements
@@ -37,5 +37,5 @@ Ruft ein Elementarwesen des jeweiligen Elements herbei, das in deiner unmittelba
   - [[Luft]]
   - [[Wasser]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Geoden I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Shakagra I]] ODER Vorteil [[Tradition der Geoden I]]
 - **Erlernen:** 40 EP

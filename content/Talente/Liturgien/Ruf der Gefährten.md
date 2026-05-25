@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 8e696c54-2711-4cac-9b9d-6dbcc8e49e25
+ID: 227337bc-14e8-42de-8fac-29fdf1fc5d2d
 Quelle: datenbank.xml
 Name: Ruf der Gefährten
 title: Ruf der Gefährten
@@ -28,5 +28,5 @@ Du rufst einen Delphin herbei. Falls Delphine in deiner Region nicht heimisch si
 - **Fertigkeiten:**
   - [[Wind und Wogen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I]]
+  - Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Swafnirgeweihten I]]
 - **Erlernen:** 10 EP

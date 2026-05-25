@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 12406258-e008-47d2-a076-05c0f1b58a3f
+ID: 27902cbe-8b7d-4768-8af2-76defa0195a1
 Quelle: datenbank.xml
 Name: Geister vertreiben
 title: Geister vertreiben

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: f43d695c-7b3b-47ad-975e-91b218fa0a0b
+ID: 8412f6aa-d1af-470a-9e8e-8e50861004bc
 Quelle: datenbank.xml
 Name: Zauberzeichen
 title: Zauberzeichen
@@ -18,4 +18,4 @@ Bei Zauberzeichen handelt es sich um eine besondere Form der Magie, bei der eine
 
 - **Voraussetzungen:**
   - Übernatürliche-Fertigkeit 'Zauberzeichen' -1
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Zibilja I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]] ODER Vorteil [[Tradition der Zibilja I]]

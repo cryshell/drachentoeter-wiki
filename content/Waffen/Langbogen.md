@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 07aa5383-8350-48a4-8c61-30316059dc66
+ID: d3348427-1def-4081-96f1-1089c89f597b
 Quelle: datenbank.xml
 Name: Langbogen
 title: Langbogen

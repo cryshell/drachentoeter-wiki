@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 31433931-f9f3-4317-aed8-8b8a34563c49
+ID: 9c8cf4b9-4ec4-4182-bd66-7e4e14b5362f
 Quelle: datenbank.xml
 Name: Auge der Mada
 title: Auge der Mada
@@ -35,5 +35,5 @@ Das Zeichen wird in einem Durchmesser von 16 Fingern auf einer beliebigen Fläch
   - [[Kraft]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Schamanen (Waldmenschen) I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

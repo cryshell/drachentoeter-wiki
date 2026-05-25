@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 3f75b7b5-2ed6-4f32-89fd-da034e00c431
+ID: 9c1846e3-9d39-44f2-892c-4fb6bd271bfa
 Quelle: datenbank.xml
 Name: Ogerschelle
 title: Ogerschelle

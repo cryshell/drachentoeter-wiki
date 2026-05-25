@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: d421b35c-462b-4312-8fbc-23dbe6e5f1d7
+ID: 40e74def-bcd7-47cc-a431-9a9ad7d2758f
 Quelle: datenbank.xml
 Name: Knaufschlag
 title: Knaufschlag

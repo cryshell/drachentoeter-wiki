@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: afce3b03-85db-4f56-9ad4-caa2cdaa7932
+ID: 5937bafa-6cb3-4869-8f76-722446f3e44e
 Quelle: datenbank.xml
 Name: Eigenschaft Aufrechterhalten (M)
 title: Eigenschaft Aufrechterhalten (M)
@@ -12,4 +12,4 @@ Bevor die Wirkung eines Zaubers endet, kannst du sie um die Basiswirkungsdauer v
 ---
 
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Tradition der Borbaradianer I]]

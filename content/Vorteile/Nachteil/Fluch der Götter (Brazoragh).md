@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: d240879f-38c5-486c-81ab-b03aae1d7175
+ID: b4de51cc-719a-46b0-9cbd-35817ba1f187
 Quelle: datenbank.xml
 Name: Fluch der Götter (Brazoragh)
 title: Fluch der Götter (Brazoragh)

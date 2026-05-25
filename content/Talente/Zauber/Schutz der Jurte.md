@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 97f401fa-5ab6-45d2-b229-237ff452876f
+ID: 71ea3f29-9f39-4bfd-ab0d-f4a1d7f51a2e
 Quelle: datenbank.xml
 Name: Schutz der Jurte
 title: Schutz der Jurte
@@ -34,5 +34,5 @@ Du schützt einen abgeschlossenen Raum, wie eine Jurte oder einer Höhle, mit bi
   - [[Geister der Stärkung]]
   - [[Geister vertreiben]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Nivesen) I ODER Vorteil Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Orks) I]]
+  - Vorteil [[Tradition der Schamanen (Nivesen) I]] ODER Vorteil [[Tradition der Schamanen (Gjalsker) I]] ODER Vorteil [[Tradition der Schamanen (Goblins) I]] ODER Vorteil [[Tradition der Schamanen (Orks) I]]
 - **Erlernen:** 20 EP

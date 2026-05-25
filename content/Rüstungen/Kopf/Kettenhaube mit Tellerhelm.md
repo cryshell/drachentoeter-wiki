@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 1247eadd-b344-42d5-883d-7df449a82677
+ID: d3e3ee71-117b-46b3-91be-8d39a8247867
 Quelle: datenbank.xml
 Name: Kettenhaube mit Tellerhelm
 title: Kettenhaube mit Tellerhelm

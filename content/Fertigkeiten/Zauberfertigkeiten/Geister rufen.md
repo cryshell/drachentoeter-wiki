@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 159c39f5-6713-4728-9903-e43475b6b3a2
+ID: 698d88cd-3f94-4883-a28e-4141c339b9f3
 Quelle: datenbank.xml
 Name: Geister rufen
 title: Geister rufen

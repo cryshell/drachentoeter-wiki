@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: daa3c02d-dd85-4d0a-94c8-78048265faf3
+ID: c0a3896b-e29b-4a52-b883-0836c3728033
 Quelle: datenbank.xml
 Name: Tradition der Aphasmayrapaktierer I
 title: Tradition der Aphasmayrapaktierer I

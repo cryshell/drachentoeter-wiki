@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 6821aee3-f05f-4a8e-91f7-f2fde2fa817c
+ID: e5d2f58c-900c-4980-9781-d73ebe1b23e0
 Quelle: datenbank.xml
 Name: Drachenhelm
 title: Drachenhelm

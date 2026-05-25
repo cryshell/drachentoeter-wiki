@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 45e445c5-7f4f-4aa2-b593-ca69181256c6
+ID: 996a2f93-cb77-4119-bce1-e79a2efa103f
 Quelle: datenbank.xml
 Name: Aufmerksamer Wächter
 title: Aufmerksamer Wächter
@@ -31,5 +31,5 @@ Du malst, schnitzt oder formst das Abbild eines Tieres. Dieses Tier wird mit sei
   - [[Illusion]]
   - [[Geister der Stärkung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+  - Vorteil [[Tradition der Schamanen (Goblins) I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]]
 - **Erlernen:** 10 EP

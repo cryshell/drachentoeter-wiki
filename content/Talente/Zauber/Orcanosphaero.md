@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 0d922423-5b7a-47f3-8c4e-b81c1bd5d84e
+ID: 24db3773-61ac-4fa9-ab69-ddc8f6c5a8b7
 Quelle: datenbank.xml
 Name: Orcanosphaero
 title: Orcanosphaero
@@ -30,5 +30,5 @@ Ein Sturmball fügt in einem Radius von 3 Schritt 4W6 TP zu und verursacht *Zur�
 - **Fertigkeiten:**
   - [[Luft]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

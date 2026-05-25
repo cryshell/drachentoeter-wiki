@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 2791daec-eb27-41c7-a893-efecbc3611fd
+ID: 09a5cef7-42d0-47f7-9d5d-c4973742e773
 Quelle: datenbank.xml
 Name: Schutz des Dolches
 title: Schutz des Dolches
@@ -30,5 +30,5 @@ Dir steht die Natur schützend zur Seite. Du schwimmst leichter auf Wasser, Schn
   - [[Dolchzauber]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]]
 - **Erlernen:** 20 EP

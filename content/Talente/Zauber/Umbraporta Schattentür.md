@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 63a5f253-7b6d-4c3f-9245-40f1cd886204
+ID: c8e8a8ab-2a0b-41ae-be89-fea696c0ca32
 Quelle: datenbank.xml
 Name: Umbraporta Schattentür
 title: Umbraporta Schattentür
@@ -34,5 +34,5 @@ Du trittst in einen Schatten hinein und wirst sofort durch den Limbus zu einem a
   - [[Dämonisch]]
   - [[Kraft]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

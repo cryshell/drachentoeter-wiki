@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 9e7a141e-ec1f-4613-a42d-3a651bdae39e
+ID: 8766fcaa-2008-49cc-9d60-0b655648f3fb
 Quelle: datenbank.xml
 Name: Aeolitus Windgebraus
 title: Aeolitus Windgebraus
@@ -33,5 +33,5 @@ Ein kräftiger Windstoß breitet sich von deinem Mund kegelförmig (60°) 16 Sch
   - [[Luft]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

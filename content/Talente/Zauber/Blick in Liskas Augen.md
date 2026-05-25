@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: a93f8a20-06b8-4e9e-a213-49670e2167ad
+ID: 77cfee19-bfab-46f4-9aaa-e094bebc8435
 Quelle: datenbank.xml
 Name: Blick in Liskas Augen
 title: Blick in Liskas Augen

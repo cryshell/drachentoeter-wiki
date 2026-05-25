@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: c0f91ffd-007f-4500-bd38-5e9891cff954
+ID: 4300bc57-7e13-4685-9d1f-858e76fe9826
 Quelle: datenbank.xml
 Name: Eigenschaft Objektritual
 title: Eigenschaft Objektritual

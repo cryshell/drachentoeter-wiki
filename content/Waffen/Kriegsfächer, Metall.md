@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: be0935ed-183a-4eba-a32e-ef87b0b83fe2
+ID: feb5449f-772e-4c8b-a877-8f887faf1b38
 Quelle: datenbank.xml
 Name: Kriegsfächer, Metall
 title: Kriegsfächer, Metall

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 56200e2e-bbf4-42ee-816a-d1bed043d1a2
+ID: aa7fe97f-67f2-4935-8abd-b11133266aaa
 Quelle: datenbank.xml
 Name: Lachkrampf
 title: Lachkrampf
@@ -30,5 +30,5 @@ Schluckauf (-4; dein Opfer erhält einen kräftigen Schluckauf und kann keine Bo
 - **Fertigkeiten:**
   - [[Einfluss]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 10 EP

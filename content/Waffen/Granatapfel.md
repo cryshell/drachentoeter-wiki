@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 5d536c69-3033-411d-9198-e50e64570a28
+ID: f18afe47-1fbb-4145-9c6d-b66c0b35fc7c
 Quelle: datenbank.xml
 Name: Granatapfel
 title: Granatapfel

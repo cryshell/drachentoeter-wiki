@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: ccd8b2fd-a92d-4136-a919-39d31e759a8c
+ID: ea6102b7-ca84-40e5-a21c-6bfd37163e26
 Quelle: datenbank.xml
 Name: Transformatio Formgestalt
 title: Transformatio Formgestalt
@@ -33,5 +33,5 @@ Du verwandelst dein Ziel. Die Probenschwierigkeit, Kosten und Zauberdauer sind S
 - **Fertigkeiten:**
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Geoden I]]
+  - Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Geoden I]]
 - **Erlernen:** 40 EP

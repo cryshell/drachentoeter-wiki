@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: d5107d46-92dc-4a2f-9efe-0aeb11eab914
+ID: a5706970-b105-43b7-96f2-94fd6b901e50
 Quelle: datenbank.xml
 Name: Kraft
 title: Kraft
@@ -143,4 +143,4 @@ Mit dieser Zauberei kannst du die Zauberkraft selbst beherrschen, sie verändern
   - [[Zeichen gegen Magie]]
   - [[Zusatzzeichen Satinavs Siegel (passiv)]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Shakagra I]]

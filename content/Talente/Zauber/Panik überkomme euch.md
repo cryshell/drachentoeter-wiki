@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 6c1de5e0-e8f8-49fe-8465-301c133b4771
+ID: e05aa518-0202-4486-8af3-61b1b7a75dcd
 Quelle: datenbank.xml
 Name: "Panik überkomme euch!"
 title: "Panik überkomme euch!"
@@ -32,5 +32,5 @@ Du erhältst die Kreatureneigenschaft Schreckgestalt (Zauber-EW). Die Gegenprobe
   - [[Dämonisch]]
   - [[Einfluss]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Borbaradianer I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Borbaradianer I]]
 - **Erlernen:** 20 EP

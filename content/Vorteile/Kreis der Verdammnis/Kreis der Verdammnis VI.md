@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6e5290dd-1c9e-413d-a256-a6662c82573e
+ID: f11e528a-04d8-44c5-8638-6cd1a50c8ddf
 Quelle: datenbank.xml
 Name: Kreis der Verdammnis VI
 title: Kreis der Verdammnis VI

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 01720f69-f659-4718-acff-63b7513f8abf
+ID: 41c9bf25-52cf-45f9-a1f3-e274d6ae99b2
 Quelle: datenbank.xml
 Name: Zeichen des Handwerks
 title: Zeichen des Handwerks
@@ -29,5 +29,5 @@ Das Zeichen wird in einem Durchmesser von 8 Fingern auf Werkzeug angebracht. Fal
   - [[Objekt]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

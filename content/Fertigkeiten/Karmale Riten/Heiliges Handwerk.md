@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: d0bd00c1-93c0-4162-94bc-ef47598a1c9e
+ID: 9b7941bf-6892-4fd5-bfc6-c558c7756ff5
 Quelle: datenbank.xml
 Name: Heiliges Handwerk
 title: Heiliges Handwerk
@@ -47,4 +47,4 @@ Die meisten menschlichen Ingerimm-Geweihten und die zwergischen Hüter der Esse 
   - [[Segensreicher Neuanfang]]
   - [[Unterpfand des Heiligen Rhys]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Angroschgeweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+  - Vorteil [[Tradition der Angroschgeweihten I]] ODER Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Graveshgeweihten I]]

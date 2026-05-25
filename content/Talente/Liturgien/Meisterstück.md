@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 5e0a25ad-c603-44ac-8c11-7517f75f511b
+ID: fb15ec3b-b027-4891-8671-4aad3a23b685
 Quelle: datenbank.xml
 Name: Meisterstück
 title: Meisterstück
@@ -30,5 +30,5 @@ Während du dich in deine Handwerkskunst versenkst, wirst du mit Inspiration erf
   - [[Heiliges Handwerk]]
   - [[Wissen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+  - Vorteil [[Tradition der Hesindegeweihten I]] ODER Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Angroschgeweihten I]] ODER Vorteil [[Tradition der Graveshgeweihten I]]
 - **Erlernen:** 40 EP

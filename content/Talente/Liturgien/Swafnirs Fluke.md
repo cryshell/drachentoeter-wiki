@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c1cfeb6c-761a-4d71-a1d0-bda2b99dd5e9
+ID: d50fb9aa-521f-4667-a1cd-cc2fff1d0372
 Quelle: datenbank.xml
 Name: Swafnirs Fluke
 title: Swafnirs Fluke
@@ -30,5 +30,5 @@ Voraussetzungen: Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition 
 - **Fertigkeiten:**
   - [[Wind und Wogen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I]]
+  - Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Swafnirgeweihten I]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 38e6f016-e45b-4d6a-95cc-b6e980b2c026
+ID: d00900e7-9bab-4ffe-91a0-b06f7c5fd99e
 Quelle: datenbank.xml
 Name: Incendio
 title: Incendio
@@ -27,5 +27,5 @@ Du setzt das Ziel in Brand und verursachst *Nachbrennen*. Wesen können dem mit 
 - **Fertigkeiten:**
   - [[Feuer]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 20 EP

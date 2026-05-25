@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: e5ee1854-5a17-4014-9bbc-79f96d1a6c55
+ID: ee2a9eec-d1f5-4367-9a33-f6b5dae33c55
 Quelle: datenbank.xml
 Name: Umwelt
 title: Umwelt
@@ -183,4 +183,4 @@ Mit Umweltzaubern kannst du deine direkte Umgebung - also Wetter, Helligkeit ode
   - [[Zappenduster]]
   - [[Zeichen des Stillstands]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Shakagra I]]

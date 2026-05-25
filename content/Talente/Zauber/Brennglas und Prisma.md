@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 7d622ce0-3796-4513-84c9-20a0044f4301
+ID: 7e07c668-e9de-4ab2-9bdf-e759d39e28e7
 Quelle: datenbank.xml
 Name: Brennglas und Prisma
 title: Brennglas und Prisma
@@ -29,5 +29,5 @@ Die Kugel kann ihre Brennweite nach Belieben verändern und so als Vergrößerun
   - [[Kugelzauber]]
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 10 EP

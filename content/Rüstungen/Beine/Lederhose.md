@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 0bf27c78-66af-4227-bce2-baf8bc02a099
+ID: 9c48e075-671f-4744-8887-073ff5f13bab
 Quelle: datenbank.xml
 Name: Lederhose
 title: Lederhose

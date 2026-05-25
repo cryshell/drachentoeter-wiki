@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 551a195c-9351-4f63-87a1-4ec6a2240ed4
+ID: 43ab9f88-14b2-4110-98d2-881612c9113a
 Quelle: datenbank.xml
 Name: Blutiger Schnitter
 title: Blutiger Schnitter
@@ -27,5 +27,5 @@ Du begibst dich in einen Kampfrausch und erleidest keine Wundabzüge. Kannst du 
 - **Fertigkeiten:**
   - [[Guter Kampf]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I]]
+  - Vorteil [[Tradition der Korgeweihten I]] ODER Vorteil [[Tradition der Kr’Thon’Chhgeweihten I]]
 - **Erlernen:** 40 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 4add404e-4bc4-4a71-83e1-14b79f3b76ed
+ID: 3d53195e-fc26-43e7-a4c3-85ea695b2ad2
 Quelle: datenbank.xml
 Name: Pandaemonium
 title: Pandaemonium
@@ -28,5 +28,5 @@ In einem Radius von 4 Schritt um das Ziel brechen Klauen, Mäuler und Tentakel h
 - **Fertigkeiten:**
   - [[Dämonisch]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

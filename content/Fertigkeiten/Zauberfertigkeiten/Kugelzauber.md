@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 4811c72d-d729-4551-87fc-97f3db652a6d
+ID: e360b985-2976-444d-84c9-21827d80a44d
 Quelle: datenbank.xml
 Name: Kugelzauber
 title: Kugelzauber
@@ -47,4 +47,4 @@ Die Kristallkugel eines Scharlatans oder Gildenmagiers dient als Fokus für Illu
   - [[Wachende Kugel]]
   - [[Warnende Kugel]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Scharlatane I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Gildenmagier I]]

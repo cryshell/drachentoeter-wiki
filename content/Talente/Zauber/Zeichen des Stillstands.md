@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 92fe8792-40ec-400c-8e52-e90a04c3783d
+ID: 23e145dd-e982-4535-96f1-c45523d0b0c5
 Quelle: datenbank.xml
 Name: Zeichen des Stillstands
 title: Zeichen des Stillstands
@@ -32,5 +32,5 @@ Das Zeichen wird in einem Durchmesser von 16 Fingern auf einer beliebigen Fläch
   - [[Umwelt]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 40 EP

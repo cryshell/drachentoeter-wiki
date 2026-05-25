@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: c379a9a8-9dc3-4f93-8a0f-82580171a448
+ID: 0975fe44-e6d1-4810-87a7-704eb0f03928
 Quelle: datenbank.xml
 Name: Jagddiskus
 title: Jagddiskus

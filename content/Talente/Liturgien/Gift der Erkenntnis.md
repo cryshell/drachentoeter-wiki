@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c8a5c245-2fea-46ed-9158-bae73484899a
+ID: 5545933f-af23-46ce-b8c7-e69e8691e9e9
 Quelle: datenbank.xml
 Name: Gift der Erkenntnis
 title: Gift der Erkenntnis
@@ -32,5 +32,5 @@ Du lässt dich von einer Schlange beißen. Solange das Gift wirkt, erhältst du 
   - [[Veränderung]]
   - [[Wissen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der H’Szintgeweihten I]]
+  - Vorteil [[Tradition der Hesindegeweihten I]] ODER Vorteil [[Tradition der H’Szintgeweihten I]]
 - **Erlernen:** 20 EP

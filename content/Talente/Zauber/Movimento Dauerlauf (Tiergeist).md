@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e5180d03-e127-4eaa-b957-52a8f34b6a6f
+ID: 98696348-82ce-4345-b18f-9d7f3f8d5044
 Quelle: datenbank.xml
 Name: Movimento Dauerlauf (Tiergeist)
 title: Movimento Dauerlauf (Tiergeist)
@@ -20,5 +20,5 @@ $talent:Movimento Dauerlauf$
   - [[Gaben des Odun]]
   - [[Gaben des Blutgeists]]
 - **Voraussetzungen:**
-  - Vorteil [[Tiergeist (Wolf) ODER Vorteil Tiergeist (Khoramsbestie)]]
+  - Vorteil [[Tiergeist (Wolf)]] ODER Vorteil [[Tiergeist (Khoramsbestie)]]
 - **Erlernen:** 10 EP

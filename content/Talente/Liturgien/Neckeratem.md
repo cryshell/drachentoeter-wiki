@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 6c1628a2-7fe2-4038-8aa9-2b33d5d93e6e
+ID: ee111550-a1de-4fd6-8ebf-e2e09c732a68
 Quelle: datenbank.xml
 Name: Neckeratem
 title: Neckeratem
@@ -29,5 +29,5 @@ Das Ziel kann im Wasser atmen und sieht durch Wasser wie durch Luft. Erlaubt *Au
 - **Fertigkeiten:**
   - [[Wind und Wogen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I]]
+  - Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Swafnirgeweihten I]]
 - **Erlernen:** 10 EP

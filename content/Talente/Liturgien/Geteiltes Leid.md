@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c6ad5a47-11ee-46c3-b46d-1304ccde1ff0
+ID: 6e608913-0db1-4dc4-b33d-b2fa423074c1
 Quelle: datenbank.xml
 Name: Geteiltes Leid
 title: Geteiltes Leid
@@ -29,5 +29,5 @@ Du rufst den Mantel der Heiligen Mascha und schneidest für die gesegnete Person
   - [[Heim und Herd]]
   - [[Wildnis]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Ifirngeweihten I ODER Vorteil Tradition der Traviageweihten I]]
+  - Vorteil [[Tradition der Ifirngeweihten I]] ODER Vorteil [[Tradition der Traviageweihten I]]
 - **Erlernen:** 10 EP

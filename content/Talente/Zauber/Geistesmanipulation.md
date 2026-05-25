@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 196cdcf8-b116-4084-a7ed-7ac4e901d6b9
+ID: 119d797f-1309-4e2a-8785-bcf3dee5d7cd
 Quelle: datenbank.xml
 Name: Geistesmanipulation
 title: Geistesmanipulation
@@ -23,5 +23,5 @@ $talent:Bannbaladin$
   - [[Einfluss]]
   - [[Vampirische Kräfte]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kinder der Finsternis ODER Vorteil Tradition der Kinder der Nacht ODER Vorteil Tradition der Lamijahnim ODER Vorteil Tradition der Feylamia]]
+  - Vorteil [[Tradition der Kinder der Finsternis]] ODER Vorteil [[Tradition der Kinder der Nacht]] ODER Vorteil [[Tradition der Lamijahnim]] ODER Vorteil [[Tradition der Feylamia]]
 - **Erlernen:** 20 EP

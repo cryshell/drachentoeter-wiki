@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 685d8e72-090c-4f01-952d-84418f5eea2f
+ID: 148975d9-c3f9-49a3-baae-4dcb55342147
 Quelle: datenbank.xml
 Name: Leichtes Streitpony
 title: Leichtes Streitpony

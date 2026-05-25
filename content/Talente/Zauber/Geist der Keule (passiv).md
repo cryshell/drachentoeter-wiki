@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: aa44d065-1465-49af-a73a-7ea48c1f415e
+ID: 16b82686-4afd-41f2-92c6-366e88f20193
 Quelle: datenbank.xml
 Name: Geist der Keule (passiv)
 title: Geist der Keule (passiv)

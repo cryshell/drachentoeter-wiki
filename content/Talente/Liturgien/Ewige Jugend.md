@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 32651c97-ed0a-4712-8a0f-65e51734987c
+ID: d2b9c30b-5a71-470b-baee-173559617fa5
 Quelle: datenbank.xml
 Name: Ewige Jugend
 title: Ewige Jugend
@@ -34,5 +34,5 @@ Der Gesegnete behält Zeit seines Lebens ein jugendliches Aussehen. Frevelt der 
   - [[Fruchtbarkeit und Wiedergeburt]]
   - [[Verführung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Rahjageweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Namenlosgeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der Zsahhgeweihten I]]
+  - Vorteil [[Tradition der Rahjageweihten I]] ODER Vorteil [[Tradition der Tsageweihten I]] ODER Vorteil [[Tradition der Namenlosgeweihten I]] ODER Vorteil [[Tradition der Ssad’Huargeweihten I]] ODER Vorteil [[Tradition der Zsahhgeweihten I]]
 - **Erlernen:** 10 EP

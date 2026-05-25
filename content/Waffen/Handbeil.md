@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 66d1e0dc-241c-4a2f-a133-fdd3b2437e28
+ID: 72b58bc6-5e94-4817-bc2c-b78e616341d3
 Quelle: datenbank.xml
 Name: Handbeil
 title: Handbeil

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: 916d789f-d6d4-4fb8-952f-5748bce6cf26
+ID: 6b8d4d04-010a-4e99-9b8e-6cf0f6e0ac4b
 Quelle: datenbank.xml
 Name: Beschwörungen - Beseelung
 title: Beschwörungen - Beseelung

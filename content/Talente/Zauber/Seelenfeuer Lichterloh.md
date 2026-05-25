@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c4ed0507-2295-4f17-82b0-a0d80e75fd1a
+ID: fe8e5b90-8251-4d9c-ac15-1d772e281ed8
 Quelle: datenbank.xml
 Name: Seelenfeuer Lichterloh
 title: Seelenfeuer Lichterloh
@@ -34,5 +34,5 @@ Dein Opfer verwandelt sich im Verlauf einer Stunde in eine Flamme, in der man im
   - [[Feuer]]
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

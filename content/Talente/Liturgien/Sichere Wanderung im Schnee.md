@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: d5ce2d66-8cbd-40bd-ad78-5446933fd86a
+ID: 597babeb-1705-4001-8362-831b8d84db92
 Quelle: datenbank.xml
 Name: Sichere Wanderung im Schnee
 title: Sichere Wanderung im Schnee
@@ -33,5 +33,5 @@ Der Gesegnete kann in tiefstem Schnee und auf Eis laufen, als wäre es *sicherer
   - [[Wildnis]]
   - [[Winter]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Firungeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Himmelswölfegeweihten I]]
+  - Vorteil [[Tradition der Firungeweihten I]] ODER Vorteil [[Tradition der Ifirngeweihten I]] ODER Vorteil [[Tradition der Himmelswölfegeweihten I]]
 - **Erlernen:** 10 EP

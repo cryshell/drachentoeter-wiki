@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 2ca10e92-5fde-4f8d-be28-dc0b382a8710
+ID: 3c50a4ed-8a55-4cf3-a149-2987f2775161
 Quelle: datenbank.xml
 Name: Griff des Pirschers
 title: Griff des Pirschers
@@ -30,5 +30,5 @@ Deine Hände und Füße haften an Oberflächen, sodass du mit halber GS an glatt
   - [[Vampirische Kräfte]]
   - [[Eigenschaften]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kinder der Finsternis ODER Vorteil Tradition der Kinder der Nacht]]
+  - Vorteil [[Tradition der Kinder der Finsternis]] ODER Vorteil [[Tradition der Kinder der Nacht]]
 - **Erlernen:** 20 EP

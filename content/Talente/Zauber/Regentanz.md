@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 9198c05e-5e70-4c40-8348-e74ff95ed81b
+ID: 33ed5046-a852-4b7e-bd7e-a6b8be080ff4
 Quelle: datenbank.xml
 Name: Regentanz
 title: Regentanz
@@ -36,5 +36,5 @@ Es regnet während der Wirkungsdauer einmal täglich auf die Felder im Radius vo
   - [[Geister der Stärkung]]
   - [[Wasser]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Orks) I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+  - Vorteil [[Tradition der Schamanen (Ferkina) I]] ODER Vorteil [[Tradition der Schamanen (Trollzacker) I]] ODER Vorteil [[Tradition der Schamanen (Goblins) I]] ODER Vorteil [[Tradition der Schamanen (Orks) I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]]
 - **Erlernen:** 10 EP

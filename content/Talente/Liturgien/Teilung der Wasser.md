@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c07ab5b7-b3db-40b6-ac94-478d5f07f4ef
+ID: 3edac9d0-1085-4f4c-8ea0-6074f43b8915
 Quelle: datenbank.xml
 Name: Teilung der Wasser
 title: Teilung der Wasser
@@ -30,5 +30,5 @@ Entzieht einem oder mehreren Gegenständen mit einem Gewicht von maximal 8 Stein
 - **Fertigkeiten:**
   - [[Wind und Wogen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I]]
+  - Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Swafnirgeweihten I]]
 - **Erlernen:** 20 EP

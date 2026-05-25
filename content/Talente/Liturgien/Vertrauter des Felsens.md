@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: f9eff228-f4bd-41c6-86b0-3bedb965b71c
+ID: e1238c06-9069-4a61-93e4-f4145bb0a8ef
 Quelle: datenbank.xml
 Name: Vertrauter des Felsens
 title: Vertrauter des Felsens
@@ -29,5 +29,5 @@ Du bist immun gegen Erzschaden und Schaden aus Steinschlag und Steinwaffen. Erla
 - **Fertigkeiten:**
   - [[Heiliges Erz]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+  - Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Angroschgeweihten I]] ODER Vorteil [[Tradition der Graveshgeweihten I]]
 - **Erlernen:** 10 EP

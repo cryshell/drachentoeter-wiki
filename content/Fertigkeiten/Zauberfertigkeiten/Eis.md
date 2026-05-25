@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: eccdfda7-0b39-43bb-bc86-aa3638d43e00
+ID: 493a8d73-5d08-46ec-99a4-3ec96b2e6bee
 Quelle: datenbank.xml
 Name: Eis
 title: Eis
@@ -77,4 +77,4 @@ Neben der Kälte wird Eis auch mit Stillstand, Tod, Gefühlskälte und Vernunft 
   - [[Zeichen des Stillstands]]
   - [[Zorn der Elemente]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Magiedilettanten ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Shakagra I]]

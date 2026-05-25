@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 6e6b2441-e145-47cb-a998-73f4e72c7f18
+ID: a0633000-27f5-4e5b-91fe-c9c2742009a6
 Quelle: datenbank.xml
 Name: "Schlangenbund: Wachsame Augen"
 title: "Schlangenbund: Wachsame Augen"

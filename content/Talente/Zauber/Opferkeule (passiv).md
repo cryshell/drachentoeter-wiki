@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 7107faaa-4c55-4a68-9e27-6e619a8fbfaf
+ID: 6da6952c-0384-44cd-845e-3585940435b3
 Quelle: datenbank.xml
 Name: Opferkeule (passiv)
 title: Opferkeule (passiv)

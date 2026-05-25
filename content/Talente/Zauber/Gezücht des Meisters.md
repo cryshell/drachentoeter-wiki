@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: a709aaaf-3178-45ca-be15-43ddc01ce188
+ID: d7f7b343-5c0c-4075-86e9-bff1aa46c9b8
 Quelle: datenbank.xml
 Name: Gezücht des Meisters
 title: Gezücht des Meisters
@@ -31,5 +31,5 @@ Das Zeichen wird in einem Durchmesser von 16 Fingern auf einer beliebigen Fläch
   - [[Temporal]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

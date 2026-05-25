@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 018401af-96be-44ce-afcd-70142a0e69ee
+ID: 31dc4f7b-de08-4503-8d59-942fde58de71
 Quelle: datenbank.xml
 Name: Körperlose Reise
 title: Körperlose Reise
@@ -31,5 +31,5 @@ Du trennst deinen Geist vom Körper. Dein Körper bleibt totengleich zurück, w�
 - **Fertigkeiten:**
   - [[Kraft]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 40 EP

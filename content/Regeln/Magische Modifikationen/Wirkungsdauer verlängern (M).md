@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: 197ee6c4-e94d-4908-9753-a4fe27b9a830
+ID: 70516b59-ea67-4582-968f-51f9482d38d5
 Quelle: datenbank.xml
 Name: Wirkungsdauer verlängern (M)
 title: Wirkungsdauer verlängern (M)
@@ -14,4 +14,4 @@ Die Wirkungsdauer des Zaubers verdoppelt sich. Mehrmals wählbar.
 
 - **Probe:** Zauber -4
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Tradition der Borbaradianer I]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 28f82ada-b67b-43bc-adaf-7396e9bbb1f5
+ID: 864faf21-1f7c-4572-840d-30c81cdaac79
 Quelle: datenbank.xml
 Name: Arbalette, Magazin
 title: Arbalette, Magazin

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 5c6535f0-0b3b-4bd9-80f7-2c5fc9dc1223
+ID: 01819910-c4f2-456c-af13-55fff5e85c23
 Quelle: datenbank.xml
 Name: Kurzbogen
 title: Kurzbogen

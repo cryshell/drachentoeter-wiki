@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: b64416dc-0ce1-4d1f-b90f-9febc9e96c5c
+ID: 8aafc0c9-6778-4911-a2da-1c31e0f445ae
 Quelle: datenbank.xml
 Name: Sonnenszepter
 title: Sonnenszepter

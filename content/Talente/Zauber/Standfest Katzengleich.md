@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: d875c3c1-c7a8-46fe-b4da-1936b0ebdf97
+ID: 8a102005-e2ef-4e1a-b568-acd61d3862da
 Quelle: datenbank.xml
 Name: Standfest Katzengleich
 title: Standfest Katzengleich
@@ -27,5 +27,5 @@ Deine Geschicklichkeit erhöht sich. Deine Gegenproben, um einen Sturz zu verhin
 - **Fertigkeiten:**
   - [[Eigenschaften]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

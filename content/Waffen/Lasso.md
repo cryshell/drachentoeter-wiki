@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 64613a80-d964-4a16-8cbf-87b3eead767d
+ID: 857468d0-2696-420f-9169-0d366519712e
 Quelle: datenbank.xml
 Name: Lasso
 title: Lasso

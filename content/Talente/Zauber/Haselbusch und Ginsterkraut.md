@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 600fdbf8-6a5c-4405-9b77-9306f9049d58
+ID: d3a90688-adbc-4698-b221-7341bfd9a7a2
 Quelle: datenbank.xml
 Name: Haselbusch und Ginsterkraut
 title: Haselbusch und Ginsterkraut
@@ -33,5 +33,5 @@ Du leitest das Wachstum einer Pflanze, kannst es beschleunigen und formen. Die S
   - [[Humus]]
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]]
 - **Erlernen:** 20 EP

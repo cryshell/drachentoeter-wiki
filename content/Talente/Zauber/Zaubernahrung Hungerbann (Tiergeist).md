@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 6d5022d6-c74b-41aa-bbe2-668175d351ce
+ID: ca266a1d-6f49-4b89-8015-243c6cb04b96
 Quelle: datenbank.xml
 Name: Zaubernahrung Hungerbann (Tiergeist)
 title: Zaubernahrung Hungerbann (Tiergeist)
@@ -20,5 +20,5 @@ $talent:Zaubernahrung Hungerbann$
   - [[Gaben des Odun]]
   - [[Gaben des Blutgeists]]
 - **Voraussetzungen:**
-  - Vorteil [[Tiergeist (Bär) ODER Vorteil Tiergeist (Mammut) ODER Vorteil Tiergeist (Wildschwein)]]
+  - Vorteil [[Tiergeist (Bär)]] ODER Vorteil [[Tiergeist (Mammut)]] ODER Vorteil [[Tiergeist (Wildschwein)]]
 - **Erlernen:** 10 EP

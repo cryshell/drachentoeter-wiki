@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: f7118faa-86fe-4f96-96ce-acf783bdad12
+ID: 8350936f-7311-43cb-b8f2-1c52c3369cc0
 Quelle: datenbank.xml
 Name: Bronzeharnisch
 title: Bronzeharnisch

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e8da198d-b048-4610-8a1b-1d20cc2f6ad9
+ID: 4dbc8c66-d669-4fcd-8b25-ad6d9c5ec2c7
 Quelle: datenbank.xml
 Name: "Dämonische Stärkung: IN"
 title: "Dämonische Stärkung: IN"

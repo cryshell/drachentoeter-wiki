@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 669c939a-b1ae-4899-9bdf-3000d6998ca6
+ID: 74269818-40f1-4ed8-b386-46e0b831b47a
 Quelle: datenbank.xml
 Name: Dämonischer Ritus
 title: Dämonischer Ritus

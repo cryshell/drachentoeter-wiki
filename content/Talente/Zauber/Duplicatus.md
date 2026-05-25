@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 2311892c-a00f-43e3-8d01-ce7d8e250898
+ID: a7b367ea-341e-486b-bb5e-d688732c4e98
 Quelle: datenbank.xml
 Name: Duplicatus
 title: Duplicatus
@@ -31,5 +31,5 @@ Ein mit dir verschwimmender Doppelgänger erscheint. Vor gegnerischen Angriffen 
 - **Fertigkeiten:**
   - [[Illusion]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 20 EP

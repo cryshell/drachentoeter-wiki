@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: fbb83097-cfc5-4294-bb8c-85913a19cfc6
+ID: 4f3fcb45-7d8c-4339-ba58-d588ce7eb39d
 Quelle: datenbank.xml
 Name: Adamantium Erzstruktur
 title: Adamantium Erzstruktur
@@ -34,5 +34,5 @@ Du stärkst die Struktur eines Gegenstandes von maximal 16 Stein Gewicht. Seine 
   - [[Erz]]
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

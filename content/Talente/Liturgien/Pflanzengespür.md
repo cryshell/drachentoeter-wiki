@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 84f437e3-c791-4a67-9419-c268080eebf1
+ID: 9766bc25-a907-4ed8-89a0-3cdf9164f3a6
 Quelle: datenbank.xml
 Name: Pflanzengespür
 title: Pflanzengespür
@@ -28,5 +28,5 @@ Du erhältst einen groben Eindruck von der Wirkung der berührten Pflanze – et
 - **Fertigkeiten:**
   - [[Wachstum]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Perainegeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I]]
+  - Vorteil [[Tradition der Perainegeweihten I]] ODER Vorteil [[Tradition der Ssad’Huargeweihten I]]
 - **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 5544fea1-a397-4208-8fca-5333e26d9be2
+ID: 68a3bc2a-1748-457e-98b5-cdb6103510b8
 Quelle: datenbank.xml
 Name: Aureolus Güldenglanz
 title: Aureolus Güldenglanz
@@ -30,5 +30,5 @@ Je nach AsP-Aufwand sieht eine feste Oberfläche von bis zu 1/2/4/8 Rechtschritt
 - **Fertigkeiten:**
   - [[Illusion]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 10 EP

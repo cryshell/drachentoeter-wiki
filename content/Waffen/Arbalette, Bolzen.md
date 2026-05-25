@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 2670c07e-4db7-4edb-9973-756709353416
+ID: 88c45dc0-16d1-41c7-921b-0654089183fd
 Quelle: datenbank.xml
 Name: Arbalette, Bolzen
 title: Arbalette, Bolzen

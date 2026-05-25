@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c2ebd9e4-b43f-4353-b83e-12e602e7f282
+ID: 3384b195-9156-44dc-86ab-b1e2d3f88bfd
 Quelle: datenbank.xml
 Name: Weisung des Dolches
 title: Weisung des Dolches
@@ -32,5 +32,5 @@ Dein Dolch leuchtet rot auf, wenn er in Richtung einer maximal 8 Meilen entfernt
   - [[Hellsicht]]
   - [[Kraft]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]]
 - **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 7c57f4dd-ebc5-4db3-be81-fa3b9e703dc7
+ID: 34119a59-056f-4514-828e-400ffde1c2f4
 Quelle: datenbank.xml
 Name: Gedankenbilder Elfenruf
 title: Gedankenbilder Elfenruf
@@ -35,5 +35,5 @@ Du sendest eine Gedankenbotschaft an jeden in einem Radius von 1 Meile, der sie 
 - **Fertigkeiten:**
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 10 EP

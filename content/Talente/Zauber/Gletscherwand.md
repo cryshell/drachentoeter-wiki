@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 64d94774-6536-4389-9f76-9c86458922db
+ID: 9b20503b-f9bd-4991-a6ec-11d1691fcb86
 Quelle: datenbank.xml
 Name: Gletscherwand
 title: Gletscherwand
@@ -30,5 +30,5 @@ Eine 4 x 3 x 1 Schritt (BxHxT) große Wand aus blankem Eis entsteht entlang eine
 - **Fertigkeiten:**
   - [[Eis]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

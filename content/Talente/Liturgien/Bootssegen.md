@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 894ca961-b0a2-4ef4-b9c1-56e3e98ecb75
+ID: d3f9084c-622c-493d-955d-2f32fbe3c441
 Quelle: datenbank.xml
 Name: Bootssegen
 title: Bootssegen
@@ -29,5 +29,5 @@ Die Besatzung des gesegneten Boots geht dem Glauben nach bei einem Unglück in E
 - **Fertigkeiten:**
   - [[Seefahrt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I]]
+  - Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Swafnirgeweihten I]]
 - **Erlernen:** 10 EP

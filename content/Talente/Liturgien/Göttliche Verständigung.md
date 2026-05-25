@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 90869af7-b539-4f88-ab81-450cf0505f5d
+ID: e1811744-7949-4bb0-aeb7-735d956b5866
 Quelle: datenbank.xml
 Name: Göttliche Verständigung
 title: Göttliche Verständigung
@@ -32,5 +32,5 @@ Du kannst der Vorsteherin deines Heimattempels eine Nachricht mit bis zu 8 Worte
 - **Fertigkeiten:**
   - [[Göttlicher Ritus]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Firungeweihten I ODER Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Rondrageweihten I ODER Vorteil Tradition der Swafnirgeweihten I ODER Vorteil Tradition der Traviageweihten I ODER Vorteil Tradition der Tsageweihten I]]
+  - Vorteil [[Tradition der Avesgeweihten I]] ODER Vorteil [[Tradition der Borongeweihten I]] ODER Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Firungeweihten I]] ODER Vorteil [[Tradition der Hesindegeweihten I]] ODER Vorteil [[Tradition der Ifirngeweihten I]] ODER Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Angroschgeweihten I]] ODER Vorteil [[Tradition der Korgeweihten I]] ODER Vorteil [[Tradition der Nandusgeweihten I]] ODER Vorteil [[Tradition der Perainegeweihten I]] ODER Vorteil [[Tradition der Phexgeweihten I]] ODER Vorteil [[Tradition der Praiosgeweihten I]] ODER Vorteil [[Tradition der Rahjageweihten I]] ODER Vorteil [[Tradition der Rondrageweihten I]] ODER Vorteil [[Tradition der Swafnirgeweihten I]] ODER Vorteil [[Tradition der Traviageweihten I]] ODER Vorteil [[Tradition der Tsageweihten I]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: d1be9409-e50b-49d8-8708-b5b49bd56c86
+ID: d749de1c-d01f-4005-b102-707e2b382c25
 Quelle: datenbank.xml
 Name: Gesegneter Fang
 title: Gesegneter Fang
@@ -30,5 +30,5 @@ Du segnest Fallen zum Fischfang, also Netze oder Reusen. Dadurch sinkt die Falle
   - [[Flüsse und Quellen]]
   - [[Seefahrt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I]]
+  - Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Swafnirgeweihten I]]
 - **Erlernen:** 10 EP

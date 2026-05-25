@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 405e6ca3-b215-4479-a31a-3b00c590a0d9
+ID: 435a5f3a-600b-4025-97f2-cfaeeb9b7c90
 Quelle: datenbank.xml
 Name: Karnifilo Raserei
 title: Karnifilo Raserei
@@ -32,5 +32,5 @@ Dein Ziel verfällt in einen *Blutrausch*.
   - [[Eigenschaften]]
   - [[Einfluss]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

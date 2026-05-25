@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: b5c3d76a-023f-4262-abb2-28771ca869fa
+ID: 67ec6c36-6a42-43b3-bf96-529cf0bea6db
 Quelle: datenbank.xml
 Name: Dolch (Kurze Wurfwaffen)
 title: Dolch (Kurze Wurfwaffen)

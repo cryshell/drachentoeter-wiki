@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 8e935807-7190-4cf4-8b63-18e13cfbd181
+ID: 473c3162-9d74-4316-a45f-5ff9f2a39259
 Quelle: datenbank.xml
 Name: Schlagring
 title: Schlagring

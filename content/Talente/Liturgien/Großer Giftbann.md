@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 2502e999-75f2-4d79-b476-b7acdab7202a
+ID: 2b785cdc-988f-45f2-a0d8-ee27d229edd0
 Quelle: datenbank.xml
 Name: Großer Giftbann
 title: Großer Giftbann
@@ -31,5 +31,5 @@ Du segnest eine Mahlzeit samt Getränken für bis zu 32 Personen. Die Mahlzeit w
   - [[Heilung]]
   - [[Heim und Herd]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Perainegeweihten I ODER Vorteil Tradition der Traviageweihten I]]
+  - Vorteil [[Tradition der Perainegeweihten I]] ODER Vorteil [[Tradition der Traviageweihten I]]
 - **Erlernen:** 10 EP

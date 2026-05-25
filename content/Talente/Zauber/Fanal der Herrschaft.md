@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b9770414-6d8c-437c-aa61-d6d7063c8c48
+ID: df7d448e-5c55-4340-808b-cc33f245c3f8
 Quelle: datenbank.xml
 Name: Fanal der Herrschaft
 title: Fanal der Herrschaft
@@ -34,5 +34,5 @@ Das Zeichen wird in einem Durchmesser von 16 Fingern auf einer beliebigen Fläch
   - [[Einfluss]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 10 EP

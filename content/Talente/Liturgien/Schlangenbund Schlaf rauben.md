@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 30218dbd-f0c4-4609-9dea-b97df89698ea
+ID: fdaeb78b-d86b-4850-adf5-722a2b580b29
 Quelle: datenbank.xml
 Name: "Schlangenbund: Schlaf rauben"
 title: "Schlangenbund: Schlaf rauben"

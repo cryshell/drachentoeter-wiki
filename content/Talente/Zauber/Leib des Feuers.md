@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c441b0ab-5412-49cc-8835-d8a3e7edc5f9
+ID: 0c666b05-c42e-43a4-86b8-5d915254a104
 Quelle: datenbank.xml
 Name: Leib des Feuers
 title: Leib des Feuers
@@ -33,5 +33,5 @@ Du harmonierst mit dem Element Feuer. Du bist immun gegen Hitze und Feuerschaden
   - [[Feuer]]
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]]
 - **Erlernen:** 20 EP

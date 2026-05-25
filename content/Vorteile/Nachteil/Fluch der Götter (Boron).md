@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 37a874f8-ea8d-498c-a6d7-625d1521497f
+ID: 214f7ec2-db4f-4100-a4b4-e75d21fdc7b0
 Quelle: datenbank.xml
 Name: Fluch der Götter (Boron)
 title: Fluch der Götter (Boron)

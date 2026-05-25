@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 32c8a7c4-077f-40ec-88fb-b0d97930aec9
+ID: 8b5fee56-b3e1-4a1a-92df-f56e66f9c749
 Quelle: datenbank.xml
 Name: Fluch der Götter (Natûru-Gon)
 title: Fluch der Götter (Natûru-Gon)

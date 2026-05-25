@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: cd6ada4c-31c7-4bed-86e0-59314c61225e
+ID: 164cbaf9-e258-4bf6-8d29-0ad96be03014
 Quelle: datenbank.xml
 Name: Mut der Ahnen
 title: Mut der Ahnen
@@ -30,5 +30,5 @@ Die Ahnengeister stärken den Mut von allen Humanoiden in einem Radius von 4 Sch
   - [[Eigenschaften]]
   - [[Geister der Stärkung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Nivesen) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Achaz) I ODER Vorteil Tradition der Schamanen (Orks) I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+  - Vorteil [[Tradition der Schamanen (Ferkina) I]] ODER Vorteil [[Tradition der Schamanen (Gjalsker) I]] ODER Vorteil [[Tradition der Schamanen (Nivesen) I]] ODER Vorteil [[Tradition der Schamanen (Trollzacker) I]] ODER Vorteil [[Tradition der Schamanen (Achaz) I]] ODER Vorteil [[Tradition der Schamanen (Orks) I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: aa5712ff-731c-41dc-94d0-7f8042e7ccbf
+ID: 4ca49875-9b72-4804-b978-96ce040f946a
 Quelle: datenbank.xml
 Name: Schutzsegen
 title: Schutzsegen
@@ -34,5 +34,5 @@ Du ziehst einen Kreis von maximal 8 Schritt Radius und nennst eine Kreaturenklas
   - [[Göttlicher Ritus]]
   - [[Schutz der Sippe]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Firungeweihten I ODER Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Rondrageweihten I ODER Vorteil Tradition der Swafnirgeweihten I ODER Vorteil Tradition der Traviageweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Himmelswölfegeweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I ODER Vorteil Tradition der H’Szintgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der V’Sargeweihten I ODER Vorteil Tradition der Zsahhgeweihten I]]
+  - Vorteil [[Tradition der Avesgeweihten I]] ODER Vorteil [[Tradition der Borongeweihten I]] ODER Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Firungeweihten I]] ODER Vorteil [[Tradition der Hesindegeweihten I]] ODER Vorteil [[Tradition der Ifirngeweihten I]] ODER Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Angroschgeweihten I]] ODER Vorteil [[Tradition der Korgeweihten I]] ODER Vorteil [[Tradition der Nandusgeweihten I]] ODER Vorteil [[Tradition der Perainegeweihten I]] ODER Vorteil [[Tradition der Phexgeweihten I]] ODER Vorteil [[Tradition der Praiosgeweihten I]] ODER Vorteil [[Tradition der Rahjageweihten I]] ODER Vorteil [[Tradition der Rondrageweihten I]] ODER Vorteil [[Tradition der Swafnirgeweihten I]] ODER Vorteil [[Tradition der Traviageweihten I]] ODER Vorteil [[Tradition der Tsageweihten I]] ODER Vorteil [[Tradition der Himmelswölfegeweihten I]] ODER Vorteil [[Tradition der Chr’Ssir’Ssrgeweihten I]] ODER Vorteil [[Tradition der H’Szintgeweihten I]] ODER Vorteil [[Tradition der Kr’Thon’Chhgeweihten I]] ODER Vorteil [[Tradition der Ssad’Huargeweihten I]] ODER Vorteil [[Tradition der V’Sargeweihten I]] ODER Vorteil [[Tradition der Zsahhgeweihten I]]
 - **Erlernen:** 20 EP

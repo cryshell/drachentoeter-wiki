@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 8923b3a9-9604-4aa4-8bf8-2c76d0954c85
+ID: 86071675-3283-4522-b643-11cf48364f3d
 Quelle: datenbank.xml
 Name: Chymische Hochzeit (passiv)
 title: Chymische Hochzeit (passiv)
@@ -19,5 +19,5 @@ Du lässt 4 gAsP in die Schale fließen, -1 für je 8 volle Punkte PW Stabzauber
 - **Fertigkeiten:**
   - [[Schalenzauber]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Hexen I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Hexen I]]
 - **Erlernen:** 60 EP

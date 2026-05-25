@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 247f87c4-be3d-44d4-b474-9163b0e4a689
+ID: 283c9d84-5f5c-4f12-b2c1-468e09e05137
 Quelle: datenbank.xml
 Name: Geister der Täuschung
 title: Geister der Täuschung
@@ -25,5 +25,5 @@ $talent:Halluzination$
   - [[Geister des Zorns]]
   - [[Geister rufen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+  - Vorteil [[Tradition der Schamanen (Ferkina) I]] ODER Vorteil [[Tradition der Schamanen (Trollzacker) I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]]
 - **Erlernen:** 20 EP

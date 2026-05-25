@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 3237036e-badb-4eb0-b66d-c0afcd62f6fd
+ID: 42757176-165c-4b67-b8f0-1e56176b00f2
 Quelle: datenbank.xml
 Name: Zeichen des versperrten Blicks
 title: Zeichen des versperrten Blicks
@@ -33,5 +33,5 @@ Das Zeichen wird in einem Durchmesser von 16 Fingern auf einer beliebigen Fläch
   - [[Hellsicht]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Zibilja I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Zibilja I]]
 - **Erlernen:** 10 EP

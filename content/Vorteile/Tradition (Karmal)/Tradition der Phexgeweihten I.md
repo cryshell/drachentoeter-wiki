@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 337cab52-ee78-4258-b6bc-04b94412064d
+ID: 0fe4699b-7898-40c7-8a56-89269e45f918
 Quelle: datenbank.xml
 Name: Tradition der Phexgeweihten I
 title: Tradition der Phexgeweihten I

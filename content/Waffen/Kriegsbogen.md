@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 0c06942d-3318-42db-8fbd-59a896d1b913
+ID: db807d43-9dcf-4187-8a62-0b659f072cac
 Quelle: datenbank.xml
 Name: Kriegsbogen
 title: Kriegsbogen

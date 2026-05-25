@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 76ad90bf-3db8-4acf-aed3-193c87b993de
+ID: 5d0a2b26-8728-45fd-aa83-32d8ebe973de
 Quelle: datenbank.xml
 Name: Schützenpferd
 title: Schützenpferd

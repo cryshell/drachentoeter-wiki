@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 76630cc3-7669-4f5b-a097-acbc2ede05e6
+ID: 3b7c77b1-c750-47ca-80bf-d58dda5dc7b0
 Quelle: datenbank.xml
 Name: "Mirakel: Autorität"
 title: "Mirakel: Autorität"

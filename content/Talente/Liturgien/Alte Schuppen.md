@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 40f11926-1ae7-445d-a7bd-c77ebe7d2416
+ID: 42877711-8eee-4af4-9247-6f56bcd28d04
 Quelle: datenbank.xml
 Name: Alte Schuppen
 title: Alte Schuppen
@@ -29,5 +29,5 @@ Du bewirkst eine Häutung und Erneuerung der Haut. Vernarbte oder anderweitig ge
   - [[Fruchtbarkeit und Wiedergeburt]]
   - [[Wandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der Zsahhgeweihten I]]
+  - Vorteil [[Tradition der Ssad’Huargeweihten I]] ODER Vorteil [[Tradition der Zsahhgeweihten I]]
 - **Erlernen:** 0 EP

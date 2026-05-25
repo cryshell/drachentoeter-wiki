@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: bc186fe6-2c36-4820-9c69-8f38db211f75
+ID: 9131f0d4-4e0a-4384-856f-77ec5674e438
 Quelle: datenbank.xml
 Name: Unsichtbarer Jäger
 title: Unsichtbarer Jäger
@@ -31,5 +31,5 @@ Du wirst samt deiner am Körper getragenen Ausrüstung unsichtbar. Erfordert *Ko
   - [[Illusion]]
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 40 EP

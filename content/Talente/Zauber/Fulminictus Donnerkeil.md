@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 4c28069f-e1e3-454f-a461-0ea33c094fd4
+ID: d2269afa-d624-4b3b-8721-5ef081d696ff
 Quelle: datenbank.xml
 Name: Fulminictus Donnerkeil
 title: Fulminictus Donnerkeil
@@ -31,5 +31,5 @@ Eine unsichtbare Welle magischer Kraft fügt deinem Ziel 2W6 SP zu.
 - **Fertigkeiten:**
   - [[Kraft]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

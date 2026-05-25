@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 8b626ae8-59cb-4d3e-bd1b-2b4d9f1a856a
+ID: ce7a62ac-5749-4014-a27f-57511253db03
 Quelle: datenbank.xml
 Name: Firnlauf
 title: Firnlauf
@@ -33,5 +33,5 @@ Jede noch so dünne Eis- oder Schneeschicht trägt dich wie trockener Boden. Unt
   - [[Eigenschaften]]
   - [[Eis]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 10 EP

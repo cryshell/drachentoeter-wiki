@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: ee59a986-765a-4204-92bd-60bc0317bbc0
+ID: 8665a749-55e1-4c15-9405-0a1f63a67b74
 Quelle: datenbank.xml
 Name: Lodernder Zorn
 title: Lodernder Zorn
@@ -29,5 +29,5 @@ Stichflammen schießen aus deiner Laterne oder einem mindestens fackelgroßen Fe
 - **Fertigkeiten:**
   - [[Heiliges Feuer]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I]]
+  - Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Angroschgeweihten I]]
 - **Erlernen:** 40 EP

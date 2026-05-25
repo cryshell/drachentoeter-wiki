@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e65e783e-14d2-46d1-804f-99d98e21f25d
+ID: a5415b31-02fa-4f3f-a016-bb2959d3388d
 Quelle: datenbank.xml
 Name: Menetekel Flammenschrift
 title: Menetekel Flammenschrift
@@ -29,5 +29,5 @@ Du lässt bis zu 64 Schriftzeichen mit einer Gesamtlänge von bis zu 8 Schritt e
 - **Fertigkeiten:**
   - [[Illusion]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 10 EP

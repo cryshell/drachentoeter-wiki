@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: cfaccf9b-469a-4f4d-9402-f059c74ffa88
+ID: 2e0f7001-55bc-4ef5-900f-87f170cce2f4
 Quelle: datenbank.xml
 Name: Großschild
 title: Großschild

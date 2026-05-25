@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 8016efb4-70ba-4c2a-9efd-ab19c2c20930
+ID: b96df181-4cfa-4edb-a7ee-94c04b2ba3b3
 Quelle: datenbank.xml
 Name: Licht des verborgenen Pfades
 title: Licht des verborgenen Pfades
@@ -27,5 +27,5 @@ An einer unterirdischen Weggabelung findest du die richtige Abzweigung zu deinem
 - **Fertigkeiten:**
   - [[Heiliges Erz]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+  - Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Angroschgeweihten I]] ODER Vorteil [[Tradition der Graveshgeweihten I]]
 - **Erlernen:** 10 EP

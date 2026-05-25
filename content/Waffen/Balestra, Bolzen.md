@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 22485d70-10bf-4b0c-a309-47f202dfff32
+ID: 614a540f-1e64-4f8b-8c07-83b131150992
 Quelle: datenbank.xml
 Name: Balestra, Bolzen
 title: Balestra, Bolzen

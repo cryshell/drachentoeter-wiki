@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b38aa2b7-944b-450a-b829-ea73b206991f
+ID: 852a8ef1-1149-4033-b0cc-19159701650a
 Quelle: datenbank.xml
 Name: "Schlangenbund: Letzter Ausweg"
 title: "Schlangenbund: Letzter Ausweg"

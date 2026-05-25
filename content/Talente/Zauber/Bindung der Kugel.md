@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: a15c5b71-56b3-4ce0-a222-cd1c5a613888
+ID: ac831730-715f-4b2f-89ae-91b4f56f7280
 Quelle: datenbank.xml
 Name: Bindung der Kugel
 title: Bindung der Kugel
@@ -29,5 +29,5 @@ Du stellst eine enge magische Bindung zu deiner Kristallkugel her, welche die Vo
   - [[Kugelzauber]]
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 10 EP

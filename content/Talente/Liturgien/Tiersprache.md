@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 159dfc33-0499-4348-9840-fcc6a8670e0e
+ID: 87555cd5-7388-4250-b529-06f3e186a67d
 Quelle: datenbank.xml
 Name: Tiersprache
 title: Tiersprache
@@ -31,5 +31,5 @@ Du erhältst den Vorteil Tierempathie und erleidest keine Erschöpfung durch den
   - [[Jagd]]
   - [[Hilfe der Sippe]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Ifirngeweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Himmelswölfegeweihten I]]
+  - Vorteil [[Tradition der Ifirngeweihten I]] ODER Vorteil [[Tradition der Tsageweihten I]] ODER Vorteil [[Tradition der Himmelswölfegeweihten I]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 4cb7cf6e-5b01-46ef-b443-57bf9de01c2d
+ID: 6aec8c28-1965-46aa-b6e6-3cf373d57f9b
 Quelle: datenbank.xml
 Name: Schwere Platte
 title: Schwere Platte

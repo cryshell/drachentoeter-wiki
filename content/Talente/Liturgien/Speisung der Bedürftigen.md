@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: a81a23cc-66ec-4fdd-9ff2-ab4200b22ffa
+ID: 98973a75-7da3-45a7-ac0e-3d606c0457d1
 Quelle: datenbank.xml
 Name: Speisung der Bedürftigen
 title: Speisung der Bedürftigen
@@ -33,5 +33,5 @@ Wegzehrung der heiligen Selma (-4; das Essen bleibt eine Woche haltbar.)
   - [[Heilung]]
   - [[Heim und Herd]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Perainegeweihten I ODER Vorteil Tradition der Traviageweihten I]]
+  - Vorteil [[Tradition der Perainegeweihten I]] ODER Vorteil [[Tradition der Traviageweihten I]]
 - **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: bc4417bc-7a06-45d6-ab2f-6c05136d04f3
+ID: abfed92a-25bc-48dd-bf47-4c30bd0b3f51
 Quelle: datenbank.xml
 Name: Lunge des Leviatan
 title: Lunge des Leviatan
@@ -30,5 +30,5 @@ Dein Ziel erhält 2W6+4 Heilpunkte und für jede Überschreitung der WS heilst d
   - [[Humus]]
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

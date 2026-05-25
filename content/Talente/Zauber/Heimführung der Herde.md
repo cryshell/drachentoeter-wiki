@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c4394cc8-8005-4f1d-9aba-0b9785932f82
+ID: dd0fced8-08ec-4dd3-9ed7-8f5424a19b77
 Quelle: datenbank.xml
 Name: Heimführung der Herde
 title: Heimführung der Herde
@@ -34,5 +34,5 @@ Alle Tiere in einem Radius von 4 Meilen, die dir gehören, kommen zu dir.
   - [[Geister rufen]]
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Nivesen) I ODER Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Orks) I]]
+  - Vorteil [[Tradition der Schamanen (Nivesen) I]] ODER Vorteil [[Tradition der Schamanen (Ferkina) I]] ODER Vorteil [[Tradition der Schamanen (Goblins) I]] ODER Vorteil [[Tradition der Schamanen (Orks) I]]
 - **Erlernen:** 10 EP

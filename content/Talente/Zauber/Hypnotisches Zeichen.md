@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 7471ec52-c3ba-46aa-a642-725c1e347646
+ID: 6a235b71-4f8d-443b-b1b1-f919f6fb5291
 Quelle: datenbank.xml
 Name: Hypnotisches Zeichen
 title: Hypnotisches Zeichen
@@ -29,5 +29,5 @@ Das Zeichen wird in einem Durchmesser von 16 Fingern auf einer beliebigen Fläch
   - [[Einfluss]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Zibilja I]]
+  - Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]] ODER Vorteil [[Tradition der Zibilja I]]
 - **Erlernen:** 20 EP

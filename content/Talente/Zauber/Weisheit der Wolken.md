@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 5dc6006c-d0e4-43bd-ad81-29fa49132d6b
+ID: ee1f4bbe-dc94-430e-bb1c-7fd06b670c91
 Quelle: datenbank.xml
 Name: Weisheit der Wolken
 title: Weisheit der Wolken
@@ -31,5 +31,5 @@ Du verwandelst dich in eine dünne Wolke, die es in Windrichtung wegweht. Du nim
   - [[Luft]]
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I]]
+  - Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]]
 - **Erlernen:** 10 EP

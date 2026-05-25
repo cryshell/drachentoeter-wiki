@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 194c5717-fefe-4082-9432-c333165e3995
+ID: 54cc50c4-bcf7-4856-9bf0-9923723b1718
 Quelle: datenbank.xml
 Name: "Weiches Erstarre! (Dämonisch)"
 title: "Weiches Erstarre! (Dämonisch)"
@@ -25,5 +25,5 @@ $talent:Weiches Erstarre!$
   - [[Erz]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

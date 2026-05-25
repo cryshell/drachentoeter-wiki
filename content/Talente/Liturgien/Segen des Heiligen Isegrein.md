@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c5ca5cbe-df75-4089-8110-482df988bcf7
+ID: c8926816-5ed0-4cd1-95b5-38f1560948b1
 Quelle: datenbank.xml
 Name: Segen des Heiligen Isegrein
 title: Segen des Heiligen Isegrein
@@ -30,5 +30,5 @@ Der Gesegnete wird eins mit seiner Umgebung. In der Wildnis wird er wie mit der 
   - [[Stiller Wanderer]]
   - [[Wildnis]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Firungeweihten I ODER Vorteil Tradition der Ifirngeweihten I]]
+  - Vorteil [[Tradition der Avesgeweihten I]] ODER Vorteil [[Tradition der Firungeweihten I]] ODER Vorteil [[Tradition der Ifirngeweihten I]]
 - **Erlernen:** 20 EP

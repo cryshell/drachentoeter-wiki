@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 9a1f9d4d-01e3-4558-b484-e0aa86b72e56
+ID: 3054c7ea-509e-4c94-888b-7d8ea0b843fa
 Quelle: datenbank.xml
 Name: Weihe der letzten Ruhestatt
 title: Weihe der letzten Ruhestatt
@@ -30,5 +30,5 @@ Du segnest einen Friedhof, der fortan als geweihter Boden gilt und Platz für et
   - [[Tod]]
   - [[Tapam]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borongeweihten I ODER Vorteil Tradition der Kamaluqgeweihten I ODER Vorteil Tradition der V’Sargeweihten I]]
+  - Vorteil [[Tradition der Borongeweihten I]] ODER Vorteil [[Tradition der Kamaluqgeweihten I]] ODER Vorteil [[Tradition der V’Sargeweihten I]]
 - **Erlernen:** 10 EP

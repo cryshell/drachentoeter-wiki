@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 77f78b70-8be0-4128-adea-5d4e4fffde06
+ID: c6175a02-e25f-4332-9888-84438434b9c7
 Quelle: datenbank.xml
 Name: Unbewaffnet, Panzerhandschuhe
 title: Unbewaffnet, Panzerhandschuhe

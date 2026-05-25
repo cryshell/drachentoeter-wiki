@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 4d3c16cc-20e6-4563-9c3e-67abbaee2cc7
+ID: aaf9b47f-bea1-4ffd-8dc9-cb98a713ed47
 Quelle: datenbank.xml
 Name: Warmes Blut
 title: Warmes Blut
@@ -31,5 +31,5 @@ Durch diesen Zauber siehst du die Wärmestrahlung deiner Umgebung. Kaltes ersche
   - [[Feuer]]
   - [[Hellsicht]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 10 EP

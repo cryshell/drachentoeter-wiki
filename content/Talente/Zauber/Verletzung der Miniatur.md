@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: aa7a811c-8b4e-48ac-848d-1448d75c9be1
+ID: 681b82e0-6be6-4869-9283-b893fbe840f0
 Quelle: datenbank.xml
 Name: Verletzung der Miniatur
 title: Verletzung der Miniatur
@@ -31,5 +31,5 @@ Du fügst dir mit dem Dolch selbst eine oder mehrere Wunden zu. Das Opfer deiner
   - [[Verständigung]]
   - [[Geister des Zorns]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Trollzacker) I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Schamanen (Ferkina) I]] ODER Vorteil [[Tradition der Schamanen (Trollzacker) I]]
 - **Erlernen:** 20 EP

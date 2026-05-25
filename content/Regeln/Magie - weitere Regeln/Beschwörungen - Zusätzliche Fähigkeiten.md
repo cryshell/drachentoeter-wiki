@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: 0589149c-61ab-4152-bcb3-391b5fc58b6a
+ID: 8d3cfb21-b9a2-45c8-b230-a343afb3ad54
 Quelle: datenbank.xml
 Name: Beschwörungen - Zusätzliche Fähigkeiten
 title: Beschwörungen - Zusätzliche Fähigkeiten

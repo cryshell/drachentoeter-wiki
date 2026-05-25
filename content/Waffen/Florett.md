@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 8035454b-5977-4640-995c-e1dddcfdc546
+ID: 79ab5c8b-5b38-455a-9cdb-ac581b5be67f
 Quelle: datenbank.xml
 Name: Florett
 title: Florett

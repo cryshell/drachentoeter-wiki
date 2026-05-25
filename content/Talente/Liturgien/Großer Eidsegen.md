@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 38354bdb-2777-4de6-9fee-47013e7f2078
+ID: 39d2c0f6-2e59-44d5-b373-ba2da825544e
 Quelle: datenbank.xml
 Name: Großer Eidsegen
 title: Großer Eidsegen
@@ -40,5 +40,5 @@ Du segnest einen freiwillig geschworenen Eid, wie einen Traviabund oder einen Le
   - [[Göttlicher Ritus]]
   - [[Herrschaft]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Rondrageweihten I ODER Vorteil Tradition der Swafnirgeweihten I ODER Vorteil Tradition der Traviageweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Firungeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Namenlosgeweihten I]]
+  - Vorteil [[Tradition der Avesgeweihten I]] ODER Vorteil [[Tradition der Hesindegeweihten I]] ODER Vorteil [[Tradition der Angroschgeweihten I]] ODER Vorteil [[Tradition der Korgeweihten I]] ODER Vorteil [[Tradition der Perainegeweihten I]] ODER Vorteil [[Tradition der Praiosgeweihten I]] ODER Vorteil [[Tradition der Rahjageweihten I]] ODER Vorteil [[Tradition der Rondrageweihten I]] ODER Vorteil [[Tradition der Swafnirgeweihten I]] ODER Vorteil [[Tradition der Traviageweihten I]] ODER Vorteil [[Tradition der Tsageweihten I]] ODER Vorteil [[Tradition der Borongeweihten I]] ODER Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Firungeweihten I]] ODER Vorteil [[Tradition der Ifirngeweihten I]] ODER Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Nandusgeweihten I]] ODER Vorteil [[Tradition der Phexgeweihten I]] ODER Vorteil [[Tradition der Namenlosgeweihten I]]
 - **Erlernen:** 0 EP

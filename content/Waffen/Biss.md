@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 5ae07f97-4b71-4f64-8c1f-91c21bfedd02
+ID: 75d10fa1-78c9-4859-b327-b6f274fcd894
 Quelle: datenbank.xml
 Name: Biss
 title: Biss

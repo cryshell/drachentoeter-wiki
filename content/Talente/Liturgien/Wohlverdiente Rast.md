@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 0be2fd5a-80ef-4306-a919-f3b561217ec0
+ID: f9247be2-b130-4362-b6f9-bd72a5f73211
 Quelle: datenbank.xml
 Name: Wohlverdiente Rast
 title: Wohlverdiente Rast
@@ -30,5 +30,5 @@ Jede gesegnete Person in einem Radius von 4 Schritt regeneriert 1 Punkt Erschöp
   - [[Sichere Heimkehr]]
   - [[Wachstum]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Perainegeweihten I ODER Vorteil Tradition der Traviageweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I]]
+  - Vorteil [[Tradition der Perainegeweihten I]] ODER Vorteil [[Tradition der Traviageweihten I]] ODER Vorteil [[Tradition der Ssad’Huargeweihten I]]
 - **Erlernen:** 20 EP

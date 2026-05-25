@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 3f72f0f6-05ea-451e-9f92-147c64c934d5
+ID: c9c3f235-88ee-4dde-b9b3-c492e31fdc9a
 Quelle: datenbank.xml
 Name: Hartholzharnisch
 title: Hartholzharnisch

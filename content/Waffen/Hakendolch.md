@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 766e7c28-e201-4fe9-addb-d88d123f1075
+ID: 6a0d6291-06b4-402d-ad03-89bf99476d7a
 Quelle: datenbank.xml
 Name: Hakendolch
 title: Hakendolch

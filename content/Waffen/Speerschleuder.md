@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 32ab592c-9df7-4285-b13f-da09eae2611c
+ID: a9c96d1c-0892-46d4-ba7b-9e459faccb85
 Quelle: datenbank.xml
 Name: Speerschleuder
 title: Speerschleuder

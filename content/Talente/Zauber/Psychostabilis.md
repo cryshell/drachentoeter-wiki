@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: dc30a685-8aa3-412f-8a2d-485f56399df0
+ID: 3c481fe8-3352-40a5-8d02-e772879448b3
 Quelle: datenbank.xml
 Name: Psychostabilis
 title: Psychostabilis
@@ -33,5 +33,5 @@ Magieresistenz-Proben des Ziels sind um +4 erleichtert.
   - [[Antimagie]]
   - [[Eigenschaften]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 6343b941-8ea8-4753-9545-bea389865ae8
+ID: 90d92798-0555-418a-bbef-b88d61bbfafa
 Quelle: datenbank.xml
 Name: Gespür der Keule
 title: Gespür der Keule

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 15cf2023-ee2f-4dc6-91af-32d8a981bee2
+ID: 40a368a4-bea1-40c3-a35c-9a6d5a1065f2
 Quelle: datenbank.xml
 Name: Turnierlanze
 title: Turnierlanze

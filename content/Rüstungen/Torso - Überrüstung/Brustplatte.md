@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 7b08e36d-7692-4f27-9d56-f5c707ffa8ed
+ID: 4fe5c21e-1111-4712-97d4-19c5f581ad6f
 Quelle: datenbank.xml
 Name: Brustplatte
 title: Brustplatte

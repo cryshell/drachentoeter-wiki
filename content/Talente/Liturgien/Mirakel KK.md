@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b6389df0-0111-4cc2-8778-3f4bd345004a
+ID: c9c429b6-3eba-4599-9f18-8a4c7b8ab70c
 Quelle: datenbank.xml
 Name: "Mirakel: KK"
 title: "Mirakel: KK"

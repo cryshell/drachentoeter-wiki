@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 7d59e800-cff9-4da2-aa48-b9d206672be4
+ID: b7636a46-9417-4fbf-8ff4-e4096ed7ed34
 Quelle: datenbank.xml
 Name: Gruufhai (2H)
 title: Gruufhai (2H)

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 9490b218-b104-43a1-b075-7ea4974c42f8
+ID: 7ac1bc27-6c82-4691-bdde-42d857058706
 Quelle: datenbank.xml
 Name: Bronzearmschienen
 title: Bronzearmschienen

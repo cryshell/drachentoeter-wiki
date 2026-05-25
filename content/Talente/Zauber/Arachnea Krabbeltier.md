@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 2ebd7764-080d-437f-8602-7fdcd96667c8
+ID: d64749b0-7e69-4428-8fe9-f8c497be122f
 Quelle: datenbank.xml
 Name: Arachnea Krabbeltier
 title: Arachnea Krabbeltier
@@ -31,5 +31,5 @@ Alle Insekten, Spinnen, Maden und anderen wirbellosen Tiere bis zur Größenklas
 - **Fertigkeiten:**
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]]
 - **Erlernen:** 20 EP

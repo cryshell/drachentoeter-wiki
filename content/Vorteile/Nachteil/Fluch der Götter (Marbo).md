@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: ca522640-887b-4122-be17-71a748690b08
+ID: 12b94ff3-25ab-4102-967f-21fcb4120846
 Quelle: datenbank.xml
 Name: Fluch der Götter (Marbo)
 title: Fluch der Götter (Marbo)

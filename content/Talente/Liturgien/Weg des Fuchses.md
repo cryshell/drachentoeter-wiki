@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 890fd90d-6d4c-40ce-bebf-e296ffb010d6
+ID: b64b7694-fc79-48b9-8c59-6b3768a57317
 Quelle: datenbank.xml
 Name: Weg des Fuchses
 title: Weg des Fuchses
@@ -32,5 +32,5 @@ Straßen, Wege und Pfade gelten für dich immer als <i>sicherer Untergrund</i. H
   - [[Stiller Wanderer]]
   - [[Wildnis]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Firungeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Phexgeweihten I]]
+  - Vorteil [[Tradition der Avesgeweihten I]] ODER Vorteil [[Tradition der Firungeweihten I]] ODER Vorteil [[Tradition der Ifirngeweihten I]] ODER Vorteil [[Tradition der Phexgeweihten I]]
 - **Erlernen:** 20 EP

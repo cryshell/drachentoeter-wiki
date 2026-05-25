@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e09d832a-21db-4735-a885-56804deac363
+ID: 6d90363c-2a50-41ff-b094-400be358154e
 Quelle: datenbank.xml
 Name: Foramen Foraminor
 title: Foramen Foraminor
@@ -31,5 +31,5 @@ Du öffnest ein Schloss beliebiger Bauart.
   - [[Objekt]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 20 EP

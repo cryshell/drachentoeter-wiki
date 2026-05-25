@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 8a6c7ed3-babe-46d0-9289-30386099eea6
+ID: 08ebdf99-ee20-4b1b-83a8-aa5041b6c9f2
 Quelle: datenbank.xml
 Name: Sklaventod
 title: Sklaventod

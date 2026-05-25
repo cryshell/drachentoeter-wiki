@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 139d5f3b-e2ac-4d18-b7fc-ddca3002dc07
+ID: efdf7ccb-13b5-43f0-bd58-8e3cc67f6bf6
 Quelle: datenbank.xml
 Name: Fischflosse
 title: Fischflosse
@@ -31,5 +31,5 @@ Du verwandelst dich in ein im Wasser lebendes Tier deiner Wahl. Du behältst dei
 - **Fertigkeiten:**
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: cc213070-350c-4fd4-ae73-164bef517191
+ID: 8720293e-3a09-4673-92e2-1453d705e94a
 Quelle: datenbank.xml
 Name: Khunchomer
 title: Khunchomer

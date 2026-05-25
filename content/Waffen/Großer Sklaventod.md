@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 45b494ed-ee30-49b2-9782-96175f28e5de
+ID: 8458a37e-9641-405f-b834-102b6ad0bba5
 Quelle: datenbank.xml
 Name: Großer Sklaventod
 title: Großer Sklaventod

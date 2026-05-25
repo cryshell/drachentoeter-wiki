@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 8c1f97c2-620f-4a84-806a-ba4c6b14578b
+ID: 0f8aa471-b6b7-4472-89f1-3dbc97cf2e3d
 Quelle: datenbank.xml
 Name: Wand aus Dornen
 title: Wand aus Dornen
@@ -30,5 +30,5 @@ Eine 4 x 3 x 1 Schritt (BxHxT) große Wand aus spitzen Dornen entsteht entlang e
 - **Fertigkeiten:**
   - [[Humus]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Elfen I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Elfen I]]
 - **Erlernen:** 20 EP

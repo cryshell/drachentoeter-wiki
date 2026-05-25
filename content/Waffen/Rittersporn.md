@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: d5a30369-51ea-4dea-b97c-10848aeedf04
+ID: 74dedea8-c75c-4f59-869f-441ee162a6f7
 Quelle: datenbank.xml
 Name: Rittersporn
 title: Rittersporn

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 0b2c9bc4-aff5-4f84-b734-545dfe6cfba1
+ID: 5d285a8e-89d5-4fec-aba8-e81382ab31a7
 Quelle: datenbank.xml
 Name: Schalenzauber
 title: Schalenzauber
@@ -41,4 +41,4 @@ Dieses Ritualinstrument aus Silber oder Mondsilber wird von Alchemisten und eini
   - [[Sichere Aufbewahrung (passiv)]]
   - [[Transmutation der Elemente]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Gildenmagier I]]

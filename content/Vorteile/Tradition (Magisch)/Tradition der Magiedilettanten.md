@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 52785d5b-33d5-4928-a0a5-328a5d61cd38
+ID: 035806a9-77ed-4087-809a-07ca933fafac
 Quelle: datenbank.xml
 Name: Tradition der Magiedilettanten
 title: Tradition der Magiedilettanten

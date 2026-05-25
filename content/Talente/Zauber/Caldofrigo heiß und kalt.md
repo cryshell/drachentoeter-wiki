@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: a4c07920-3ff2-444b-8fa0-007879413677
+ID: 6fe473a8-16b5-4e2a-bf29-aa0814f3a443
 Quelle: datenbank.xml
 Name: Caldofrigo heiß und kalt
 title: Caldofrigo heiß und kalt
@@ -37,5 +37,5 @@ Du veränderst die Temperaturstufe eines Objektes um zwei Stufen. Die Fertigkeit
   - [[Objekt]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 40 EP

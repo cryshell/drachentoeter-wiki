@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b5e007f1-5680-437a-a0cc-252508d4c459
+ID: 7e3598c8-5a7c-4ad7-929d-91058034fa60
 Quelle: datenbank.xml
 Name: Schutzkreis gegen Traumgänger
 title: Schutzkreis gegen Traumgänger
@@ -31,5 +31,5 @@ Das Zeichen wird auf einer beliebigen Fläche angebracht. Du ziehst einen Kreis 
   - [[Verständigung]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Zibilja I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Zibilja I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 10 EP

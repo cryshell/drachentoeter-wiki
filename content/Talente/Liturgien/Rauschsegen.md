@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: d4caef02-f212-4792-8216-a7f5d3edbce7
+ID: 00f726ae-7855-4e77-a11a-2775b2172108
 Quelle: datenbank.xml
 Name: Rauschsegen
 title: Rauschsegen
@@ -30,5 +30,5 @@ Die gesegneten Rauschmittel entfalten stärkere Wirkung bei geringeren Nebenwirk
   - [[Rausch]]
   - [[Schlaf]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borongeweihten I ODER Vorteil Tradition der Rahjageweihten I]]
+  - Vorteil [[Tradition der Borongeweihten I]] ODER Vorteil [[Tradition der Rahjageweihten I]]
 - **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 6269a888-cbfb-49f7-ac4d-938d6b569577
+ID: cf74c61d-31ef-44a4-9e0b-a992ea13a857
 Quelle: datenbank.xml
 Name: Motoricus Geisterhand
 title: Motoricus Geisterhand
@@ -34,5 +34,5 @@ Unsichtbarer Hieb (Wirkungsdauer augenblicklich; der Zauber fügt einem Objekt 2
 - **Fertigkeiten:**
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

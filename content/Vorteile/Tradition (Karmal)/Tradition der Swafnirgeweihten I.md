@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6b5a1551-9e39-40a3-9fc7-1a2fd282e027
+ID: a4210184-511b-44f0-9112-413f4afe3335
 Quelle: datenbank.xml
 Name: Tradition der Swafnirgeweihten I
 title: Tradition der Swafnirgeweihten I

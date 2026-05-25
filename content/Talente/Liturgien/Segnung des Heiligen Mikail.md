@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 86760831-ed1a-4cbc-a7b5-5cabfa888e56
+ID: 62d7263b-e10b-497a-b8ec-9c3ecdee702e
 Quelle: datenbank.xml
 Name: Segnung des Heiligen Mikail
 title: Segnung des Heiligen Mikail
@@ -30,5 +30,5 @@ Du bittest den Heiligen Mikail um Treffsicherheit für den Schützen. Der nächs
 - **Fertigkeiten:**
   - [[Jagd]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Firungeweihten I ODER Vorteil Tradition der Ifirngeweihten I]]
+  - Vorteil [[Tradition der Firungeweihten I]] ODER Vorteil [[Tradition der Ifirngeweihten I]]
 - **Erlernen:** 10 EP

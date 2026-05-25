@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 7d1ce3c5-ac5a-4cfa-a670-84275909ed6b
+ID: ed189775-a364-4c6d-a4b4-cf839d485554
 Quelle: datenbank.xml
 Name: Wunschglyphe
 title: Wunschglyphe
@@ -31,5 +31,5 @@ Das Zeichen wird in einem Durchmesser von 32 Fingern auf einem maximal schrankgr
   - [[Illusion]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Zibilja I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Zibilja I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

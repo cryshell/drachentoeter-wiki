@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 962b47ca-df35-441f-a477-0b746eabe38a
+ID: 141013a8-96ca-40cb-9f3e-34ce49e2aaa1
 Quelle: datenbank.xml
 Name: Handarmbrust
 title: Handarmbrust

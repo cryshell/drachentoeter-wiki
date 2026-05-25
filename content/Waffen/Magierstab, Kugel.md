@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 01f8ead6-6ca2-4e3f-82d6-6293a8cf9ecb
+ID: 10d33471-5fa9-4a72-acfb-022114c79d24
 Quelle: datenbank.xml
 Name: Magierstab, Kugel
 title: Magierstab, Kugel

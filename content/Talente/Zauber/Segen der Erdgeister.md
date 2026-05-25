@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 50b1397d-3dc0-44cd-962f-05ecd2f93526
+ID: a9d707d0-a44a-4bbe-a2c7-253c783da593
 Quelle: datenbank.xml
 Name: Segen der Erdgeister
 title: Segen der Erdgeister
@@ -25,5 +25,5 @@ $talent:Haselbusch und Ginsterkraut$
   - [[Geister der Stärkung]]
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Achaz) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Orks) I]]
+  - Vorteil [[Tradition der Schamanen (Achaz) I]] ODER Vorteil [[Tradition der Schamanen (Goblins) I]] ODER Vorteil [[Tradition der Schamanen (Orks) I]]
 - **Erlernen:** 20 EP

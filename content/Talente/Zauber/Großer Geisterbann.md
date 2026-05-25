@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: d91f7755-5426-4b41-a6ad-80e3ca06e4c6
+ID: 8d337bf9-cada-423a-8941-b0af254d216b
 Quelle: datenbank.xml
 Name: Großer Geisterbann
 title: Großer Geisterbann
@@ -34,5 +34,5 @@ Geister vertreiben (Probenschwierigkeit 16 bis 28 (nach Mächtigkeit des Geistes
   - [[Antimagie]]
   - [[Geister vertreiben]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Nivesen) I ODER Vorteil Tradition der Schamanen (Orks) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+  - Vorteil [[Tradition der Schamanen (Ferkina) I]] ODER Vorteil [[Tradition der Schamanen (Gjalsker) I]] ODER Vorteil [[Tradition der Schamanen (Goblins) I]] ODER Vorteil [[Tradition der Schamanen (Nivesen) I]] ODER Vorteil [[Tradition der Schamanen (Orks) I]] ODER Vorteil [[Tradition der Schamanen (Trollzacker) I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]]
 - **Erlernen:** 40 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 21bc7ce5-5a82-465f-acae-1e5c0028fa9a
+ID: 69021acd-f14a-49fa-9ab9-1f8b67fbd302
 Quelle: datenbank.xml
 Name: Hilfreiche Tatze, rettende Schwinge
 title: Hilfreiche Tatze, rettende Schwinge
@@ -31,5 +31,5 @@ Du wählst eine maximal *kleine* Tierart und rufst ein entsprechendes Tier herbe
   - [[Einfluss]]
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 10 EP

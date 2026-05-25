@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 2141e5ac-12e0-43d6-ab9f-aaa9b8cad2bd
+ID: 0fd1c4c3-bc79-497c-adf6-e60346b689a5
 Quelle: datenbank.xml
 Name: Manifesto Element
 title: Manifesto Element
@@ -45,5 +45,5 @@ Du beschwörst eine etwa faustgroße Menge oder kleine Manifestation des Element
   - [[Luft]]
   - [[Wasser]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 10 EP

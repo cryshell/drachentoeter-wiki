@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 722cae19-16f5-4f9f-856e-86fe6c36856b
+ID: fd50d314-1370-464f-ad2f-c0675c8a7773
 Quelle: datenbank.xml
 Name: Schutzkreis gegen Elementare
 title: Schutzkreis gegen Elementare
@@ -43,5 +43,5 @@ Das Zeichen wird an einer beliebigen Fläche angebracht. Du ziehst einen Kreis v
   - [[Wasser]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]]
 - **Erlernen:** 10 EP

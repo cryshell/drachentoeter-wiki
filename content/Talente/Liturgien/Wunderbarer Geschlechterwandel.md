@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 72c363c8-9486-4d41-b75a-2aa4c36eb636
+ID: 130ec3e2-9357-4f34-80dc-bbb68acaccd5
 Quelle: datenbank.xml
 Name: Wunderbarer Geschlechterwandel
 title: Wunderbarer Geschlechterwandel
@@ -31,5 +31,5 @@ Du veränderst das Geschlecht des Gesegneten. Körperbau, Stimme und alle andere
   - [[Veränderung]]
   - [[Wandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der H’Szintgeweihten I ODER Vorteil Tradition der Zsahhgeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I]]
+  - Vorteil [[Tradition der H’Szintgeweihten I]] ODER Vorteil [[Tradition der Zsahhgeweihten I]] ODER Vorteil [[Tradition der Ssad’Huargeweihten I]]
 - **Erlernen:** 20 EP

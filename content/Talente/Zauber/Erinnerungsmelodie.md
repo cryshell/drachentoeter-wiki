@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 9fbca57f-4e3a-4123-a3b0-5099dc6870da
+ID: eeb48ead-2b71-435b-b2fa-3d8e65a2cb95
 Quelle: datenbank.xml
 Name: Erinnerungsmelodie
 title: Erinnerungsmelodie
@@ -30,5 +30,5 @@ Du stimmst dich auf eine vergangene Situation ein, um dich an ein Detail zu erin
   - [[Eigenschaften]]
   - [[Elfenlieder]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 16a2fcc5-03b5-4f70-a3bd-23468d359bac
+ID: adfc35bb-0a5f-497c-94fb-58829a7d1db3
 Quelle: datenbank.xml
 Name: Niederhöllen Eisgestalt
 title: Niederhöllen Eisgestalt
@@ -34,5 +34,5 @@ Dein Opfer verwandelt sich im Verlauf einer Stunde in eine Eisstatue. Es gilt da
   - [[Eis]]
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

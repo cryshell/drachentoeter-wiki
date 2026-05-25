@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 0b6acdfe-03b3-48d1-b382-49261c590f04
+ID: 77e05eda-140f-4b88-bfd6-5dd29bdadbbd
 Quelle: datenbank.xml
 Name: Ballista, schwer
 title: Ballista, schwer

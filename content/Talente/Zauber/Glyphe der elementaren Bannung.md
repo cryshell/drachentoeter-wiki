@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 0c726c11-56b0-4be9-bafb-628a3dbe686f
+ID: 6d08dbf2-ef4b-4999-ac58-83bcdca616ca
 Quelle: datenbank.xml
 Name: Glyphe der elementaren Bannung
 title: Glyphe der elementaren Bannung
@@ -42,5 +42,5 @@ Das Zeichen wird in einem Durchmesser von 8 Fingern auf einem maximal schrankgro
   - [[Wasser]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Zibilja I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]] ODER Vorteil [[Tradition der Zibilja I]]
 - **Erlernen:** 10 EP

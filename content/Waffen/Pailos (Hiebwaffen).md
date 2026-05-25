@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 4994cebd-b4bf-44e7-873e-9141a24008aa
+ID: 08488b0d-25fb-449a-95c1-716e9eaba7bc
 Quelle: datenbank.xml
 Name: Pailos (Hiebwaffen)
 title: Pailos (Hiebwaffen)

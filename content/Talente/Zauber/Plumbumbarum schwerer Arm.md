@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: af48b96d-d1b8-4ffe-a9d1-f3b615bf80e4
+ID: 1683eb2a-5660-4323-a509-b5b76de0f52a
 Quelle: datenbank.xml
 Name: Plumbumbarum schwerer Arm
 title: Plumbumbarum schwerer Arm
@@ -29,5 +29,5 @@ Alle Nah- und Fernkampfangriffe des Ziels haben Nachteil.
 - **Fertigkeiten:**
   - [[Eigenschaften]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Shakagra I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 10 EP

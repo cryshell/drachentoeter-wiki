@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e1a3fd4b-c8af-45e5-a720-4f12a8d699c5
+ID: a1e2b319-fc6f-413a-ad65-558830b1fa1f
 Quelle: datenbank.xml
 Name: Nebelwand und Morgendunst
 title: Nebelwand und Morgendunst
@@ -36,5 +36,5 @@ Du erzeugst in einem Radius von 16 Schritt eine Nebelwolke mit beliebiger, auch 
   - [[Umwelt]]
   - [[Wasser]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

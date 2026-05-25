@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 974757ed-16fa-4a29-984f-987953eede89
+ID: 7d09b466-1dec-4792-a3e2-84f3b05aa7b6
 Quelle: datenbank.xml
 Name: Eins mit der Natur
 title: Eins mit der Natur
@@ -31,5 +31,5 @@ Das Ziel kann in der Landschaft, in der der Zauber gewirkt wird, natürliche Gef
   - [[Eigenschaften]]
   - [[Humus]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]]
 - **Erlernen:** 20 EP

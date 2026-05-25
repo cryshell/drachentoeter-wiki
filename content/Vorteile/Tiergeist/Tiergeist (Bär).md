@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e68969a2-a7c3-47b4-bea9-4cc67989ce53
+ID: 8b879bc2-d2f5-4f46-8fea-449cef75a13c
 Quelle: datenbank.xml
 Name: Tiergeist (Bär)
 title: Tiergeist (Bär)

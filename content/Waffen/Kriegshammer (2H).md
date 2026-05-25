@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: e743e1d6-235c-4c77-ae0b-86dd71c736c8
+ID: f4385131-1b5e-489b-beeb-c8743549ae7c
 Quelle: datenbank.xml
 Name: Kriegshammer (2H)
 title: Kriegshammer (2H)

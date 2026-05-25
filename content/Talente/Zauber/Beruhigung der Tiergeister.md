@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 2c1668aa-c556-46c5-a9b2-e9f5e2cc76b6
+ID: 81033678-fb87-4d9b-acdb-34a70b756574
 Quelle: datenbank.xml
 Name: Beruhigung der Tiergeister
 title: Beruhigung der Tiergeister
@@ -23,5 +23,5 @@ $talent:Sanftmut$
   - [[Einfluss]]
   - [[Geister vertreiben]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Nivesen) I]]
+  - Vorteil [[Tradition der Schamanen (Goblins) I]] ODER Vorteil [[Tradition der Schamanen (Nivesen) I]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 4f0d7c61-f967-410f-9c51-c288b9959126
+ID: 8467e0a9-d69c-4fe7-ab70-d897fd61726d
 Quelle: datenbank.xml
 Name: Sensibar Empathicus (Tiergeist)
 title: Sensibar Empathicus (Tiergeist)
@@ -20,5 +20,5 @@ $talent:Sensibar Empathicus$
   - [[Gaben des Odun]]
   - [[Gaben des Blutgeists]]
 - **Voraussetzungen:**
-  - Vorteil [[Tiergeist (Eule) ODER Vorteil Tiergeist (Fuchs) ODER Vorteil Tiergeist (Mungo) ODER Vorteil Tiergeist (Rabe)]]
+  - Vorteil [[Tiergeist (Eule)]] ODER Vorteil [[Tiergeist (Fuchs)]] ODER Vorteil [[Tiergeist (Mungo)]] ODER Vorteil [[Tiergeist (Rabe)]]
 - **Erlernen:** 20 EP

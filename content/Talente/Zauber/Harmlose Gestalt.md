@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 5117c9d5-aa94-4307-ad6c-830de3b61252
+ID: faa927e3-3251-4015-8504-8df63ec24d50
 Quelle: datenbank.xml
 Name: Harmlose Gestalt
 title: Harmlose Gestalt
@@ -29,5 +29,5 @@ Mit dieser *Illusion* (Sicht, Gehör, Geruch) erscheinst du den Umstehenden als 
   - [[Einfluss]]
   - [[Illusion]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

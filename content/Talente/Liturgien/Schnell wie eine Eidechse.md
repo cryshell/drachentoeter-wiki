@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 66db596d-3321-457d-bc91-704077607eef
+ID: 356c7021-6d6b-4ff8-a447-1426a81bbbfe
 Quelle: datenbank.xml
 Name: Schnell wie eine Eidechse
 title: Schnell wie eine Eidechse
@@ -34,5 +34,5 @@ Deine GS steigt um 4 Punkte, Verteidigungen sind um +2 erleichtert und Ausweiche
   - [[Herr des Himmels]]
   - [[Wind und Wogen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Tsageweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I]]
+  - Vorteil [[Tradition der Tsageweihten I]] ODER Vorteil [[Tradition der Chr’Ssir’Ssrgeweihten I]]
 - **Erlernen:** 20 EP

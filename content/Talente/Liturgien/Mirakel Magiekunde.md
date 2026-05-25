@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 26f46753-2d84-422e-8709-aac371720941
+ID: 08e1c17c-72a0-4bb9-917d-3f0566c75e5b
 Quelle: datenbank.xml
 Name: "Mirakel: Magiekunde"
 title: "Mirakel: Magiekunde"

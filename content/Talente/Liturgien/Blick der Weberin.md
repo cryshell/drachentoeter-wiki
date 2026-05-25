@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 8cc26d2c-12ac-4927-a8e1-c29677f58da1
+ID: fc587abf-fb9d-4c1d-bfc0-d55041ae6bb2
 Quelle: datenbank.xml
 Name: Blick der Weberin
 title: Blick der Weberin
@@ -31,5 +31,5 @@ Du analysierst die Kraftfäden eines arkanen Artefakts oder eines magischen Wese
   - [[Magie]]
   - [[Geister]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der H’Szintgeweihten I ODER Vorteil Tradition der Tairachgeweihten I]]
+  - Vorteil [[Tradition der Hesindegeweihten I]] ODER Vorteil [[Tradition der H’Szintgeweihten I]] ODER Vorteil [[Tradition der Tairachgeweihten I]]
 - **Erlernen:** 20 EP

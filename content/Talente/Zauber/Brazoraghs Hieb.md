@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 335056d1-4ef3-47c9-bd0f-b95b2b3f4d98
+ID: bb0545a8-c4b0-40b1-8679-8d4c83bdf256
 Quelle: datenbank.xml
 Name: Brazoraghs Hieb
 title: Brazoraghs Hieb
@@ -30,5 +30,5 @@ Die so verzauberte Nahkampfwaffe gilt als magisch und verursacht Niederwerfen.
   - [[Eigenschaften]]
   - [[Geister des Zorns]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Orks) I]]
+  - Vorteil [[Tradition der Schamanen (Ferkina) I]] ODER Vorteil [[Tradition der Schamanen (Orks) I]]
 - **Erlernen:** 20 EP

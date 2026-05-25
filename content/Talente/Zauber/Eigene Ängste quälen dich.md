@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 75c204b8-ecc5-4a84-969e-d2c8877eff88
+ID: f93a2baa-1d55-48c2-b45e-51ab367635f4
 Quelle: datenbank.xml
 Name: "Eigene Ängste quälen dich!"
 title: "Eigene Ängste quälen dich!"
@@ -34,5 +34,5 @@ Du raubst deinem Ziel einen Sinn deiner Wahl und lieferst es völlig seinen inne
   - [[Eigenschaften]]
   - [[Einfluss]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

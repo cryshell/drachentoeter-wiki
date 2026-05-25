@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 105ae1aa-1d8a-4b03-ae96-42d80adeb443
+ID: 294e9d74-27d4-40fc-9471-b146508fa035
 Quelle: datenbank.xml
 Name: Seefahrt
 title: Seefahrt
@@ -53,4 +53,4 @@ Pragmatische Efferdgeweihte sind aus der aventurischen Seefahrt nicht wegzudenke
   - [[Sterne funkeln immerfort]]
   - [[Tranksegen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I]]
+  - Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Swafnirgeweihten I]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: b64c3092-ca6b-4b33-8fbb-0fa984846c47
+ID: 82b67899-ff24-4144-ae10-5da434b2b228
 Quelle: datenbank.xml
 Name: Drachentöter
 title: Drachentöter

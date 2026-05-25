@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: d331413f-c756-4f2e-b341-865e835b8581
+ID: f1787f20-29c7-4433-a2b1-a5cc3b8ae921
 Quelle: datenbank.xml
 Name: Gemeinschaft treuer Gefährten
 title: Gemeinschaft treuer Gefährten
@@ -33,5 +33,5 @@ Du stärkst die Bindung zwischen einem Tier und seinem Besitzer. Proben im Umgan
   - [[Jagd]]
   - [[Sichere Heimkehr]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Traviageweihten I]]
+  - Vorteil [[Tradition der Avesgeweihten I]] ODER Vorteil [[Tradition der Ifirngeweihten I]] ODER Vorteil [[Tradition der Traviageweihten I]]
 - **Erlernen:** 20 EP

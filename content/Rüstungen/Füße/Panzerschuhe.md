@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 5acabeb3-ce46-4418-8ca6-1a8d3181c6bb
+ID: 4e548eb8-7634-4329-80b5-6f89046ee89c
 Quelle: datenbank.xml
 Name: Panzerschuhe
 title: Panzerschuhe

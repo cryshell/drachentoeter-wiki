@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 778abad2-b10a-4553-9740-0f6f3ab83118
+ID: b95c0281-1c6c-4b12-ae4f-7ce813955042
 Quelle: datenbank.xml
 Name: Bronzebeinschienen mit Streifenschurz
 title: Bronzebeinschienen mit Streifenschurz

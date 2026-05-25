@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 5e37fa98-da7e-4ba3-b15b-1b2e7bd6d6d9
+ID: 76d3a299-341e-4bba-9018-29a836b5c396
 Quelle: datenbank.xml
 Name: Kettenkugel
 title: Kettenkugel

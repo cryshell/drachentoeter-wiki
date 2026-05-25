@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c9b7f477-a120-4987-b77b-c3dd9308df3d
+ID: a0235d41-0f9f-453d-84a7-5617252feab0
 Quelle: datenbank.xml
 Name: Krähenruf
 title: Krähenruf
@@ -37,5 +37,5 @@ Spinnenruf (entspricht der Basiswirkung mit GS 3, RW 1 und Waffeneigenschaft Gif
   - [[Kraft]]
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Hexen I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Hexen I]]
 - **Erlernen:** 20 EP

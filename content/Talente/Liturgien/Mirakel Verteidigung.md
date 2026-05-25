@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: befafa06-1db8-4f20-8f11-3cbd16a97769
+ID: 3cb49a36-2312-4326-91b3-e17c684b62bf
 Quelle: datenbank.xml
 Name: "Mirakel: Verteidigung"
 title: "Mirakel: Verteidigung"

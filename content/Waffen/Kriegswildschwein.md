@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: c0174429-7692-4c5b-89ea-eeb3abba7645
+ID: 5eff12e2-ba5b-4fae-86cf-a00f622d7689
 Quelle: datenbank.xml
 Name: Kriegswildschwein
 title: Kriegswildschwein

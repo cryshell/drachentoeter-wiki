@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: f2465088-0ad8-4829-b0c7-6094b007186f
+ID: cd1a7a5c-aab8-458c-83d6-e80da5450ce7
 Quelle: datenbank.xml
 Name: Satuarias Herrlichkeit
 title: Satuarias Herrlichkeit
@@ -30,5 +30,5 @@ Dein Aussehen weckt Begehren in allen an deinem Geschlecht und deiner Spezies in
   - [[Eigenschaften]]
   - [[Illusion]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Hexen I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Hexen I]]
 - **Erlernen:** 10 EP

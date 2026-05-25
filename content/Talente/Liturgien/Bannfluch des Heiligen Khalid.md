@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 7bec1ad8-dce9-4024-b71a-9ad22788261f
+ID: 2889fee9-801b-486f-8bb6-0080df8f5adf
 Quelle: datenbank.xml
 Name: Bannfluch des Heiligen Khalid
 title: Bannfluch des Heiligen Khalid
@@ -28,5 +28,5 @@ Während der Wirkungsdauer zerfallen die ersten 4 Untoten, die du mit einem gewe
 - **Fertigkeiten:**
   - [[Tod]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borongeweihten I ODER Vorteil Tradition der V’Sargeweihten I]]
+  - Vorteil [[Tradition der Borongeweihten I]] ODER Vorteil [[Tradition der V’Sargeweihten I]]
 - **Erlernen:** 20 EP

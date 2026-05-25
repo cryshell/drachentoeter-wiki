@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e96af276-20b3-4e46-87ae-eb666d9ea426
+ID: 5db5d495-8090-4a12-b26f-56592332c34e
 Quelle: datenbank.xml
 Name: "Mirakel: Verschlagenheit"
 title: "Mirakel: Verschlagenheit"

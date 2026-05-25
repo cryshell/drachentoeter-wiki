@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 0982b75d-e008-4477-967f-b2c5afe8b468
+ID: a9896010-c16c-47df-8497-5ebd1e8c3a3d
 Quelle: datenbank.xml
 Name: Wolfsmesser
 title: Wolfsmesser

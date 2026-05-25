@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 9c2642da-c937-48e8-b0ad-802ba06cfff6
+ID: 4dd2183f-0b58-4a61-9407-a5122bb4d376
 Quelle: datenbank.xml
 Name: Vertrautenmagie
 title: Vertrautenmagie
@@ -45,4 +45,4 @@ Hexen und Geoden (wir nennen sie der Einfachheit halber Bindungspartner) schaffe
   - [[Ungesehener Beobachter]]
   - [[Wachsame Augen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Zibilja I]]
+  - Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Schamanen (Goblins) I]] ODER Vorteil [[Tradition der Zibilja I]]

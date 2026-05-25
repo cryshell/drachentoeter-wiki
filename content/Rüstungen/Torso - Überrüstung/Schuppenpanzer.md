@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 303c149d-ee4b-464c-9d4f-c013d721425b
+ID: ff603ac7-2b40-432e-b306-6da7c1b55700
 Quelle: datenbank.xml
 Name: Schuppenpanzer
 title: Schuppenpanzer

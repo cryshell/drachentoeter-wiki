@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: f14b149c-5042-476a-b3ec-159647095a5a
+ID: 2a713209-5f72-4b77-9444-8c20325bb0fb
 Quelle: datenbank.xml
 Name: Fortifex arkane Wand
 title: Fortifex arkane Wand
@@ -34,5 +34,5 @@ Es entsteht eine maximal 2x2 Schritt große, 5 Finger dicke, unsichtbare Wand mi
   - [[Erz]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

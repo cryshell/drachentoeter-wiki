@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 7ea05868-8b5c-49e7-9948-032781979ec0
+ID: edc5ceff-23fd-43f9-83b8-4722aebcdf77
 Quelle: datenbank.xml
 Name: Arbalette
 title: Arbalette

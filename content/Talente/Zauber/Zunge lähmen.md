@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 6beb7721-09e0-4e2d-a0cd-038d7908e6e2
+ID: 0650915a-4bf3-4bb1-9f49-c94c363bbecf
 Quelle: datenbank.xml
 Name: Zunge lähmen
 title: Zunge lähmen
@@ -27,5 +27,5 @@ Dein Opfer kann seine Zunge nicht mehr bewegen und kann keine verständlichen Ä
 - **Fertigkeiten:**
   - [[Eigenschaften]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 10 EP

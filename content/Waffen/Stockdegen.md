@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: b2a9f489-6d5c-4b93-ae5d-3dd1d0c784e3
+ID: 7b16f24f-aab1-4e23-a516-2e199dcb87f2
 Quelle: datenbank.xml
 Name: Stockdegen
 title: Stockdegen

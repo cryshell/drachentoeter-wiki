@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: d028b533-2a70-4000-8e5b-ac5696236c0b
+ID: 5abefcc3-030b-449f-906a-dabe8919b288
 Quelle: datenbank.xml
 Name: Kriegspferd
 title: Kriegspferd

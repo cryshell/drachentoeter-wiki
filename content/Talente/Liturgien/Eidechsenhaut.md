@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: afb5488e-0831-4c0b-8518-7112a37b782f
+ID: 089934f3-4227-4ca8-a5e5-7d6a5f4dc826
 Quelle: datenbank.xml
 Name: Eidechsenhaut
 title: Eidechsenhaut
@@ -30,5 +30,5 @@ Die Haut des Ziels wird mit dicken Schuppen bedeckt. Dadurch steigt der RS um 2.
   - [[Friede]]
   - [[Wandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Tsageweihten I ODER Vorteil Tradition der Zsahhgeweihten I]]
+  - Vorteil [[Tradition der Tsageweihten I]] ODER Vorteil [[Tradition der Zsahhgeweihten I]]
 - **Erlernen:** 10 EP

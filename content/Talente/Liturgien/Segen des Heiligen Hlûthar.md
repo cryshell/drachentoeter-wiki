@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e6854411-8b86-4412-85fd-5b979fe043c6
+ID: 34ea141e-a737-43be-bc2d-45a372255d13
 Quelle: datenbank.xml
 Name: Segen des Heiligen Hlûthar
 title: Segen des Heiligen Hlûthar
@@ -31,5 +31,5 @@ Du wählst bis zu 8 Mitstreiter in einem Radius von 4 Schritt. Sie erhalten Vort
   - [[Heerführung]]
   - [[Gutes Gold]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Rondrageweihten I ODER Vorteil Tradition der Korgeweihten I]]
+  - Vorteil [[Tradition der Rondrageweihten I]] ODER Vorteil [[Tradition der Korgeweihten I]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c57553fd-f02e-4f4c-a9eb-31a918a396c3
+ID: 4b7344ee-8781-4cfc-a177-56afa6d46c57
 Quelle: datenbank.xml
 Name: Eherne Kraft
 title: Eherne Kraft
@@ -29,5 +29,5 @@ Die Erde bebt. Alle Ziele in einem Radius von 4 Schritt werden *niedergeschmette
 - **Fertigkeiten:**
   - [[Heiliges Erz]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I]]
+  - Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Angroschgeweihten I]]
 - **Erlernen:** 20 EP

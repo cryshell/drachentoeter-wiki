@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 2b48c407-4558-4ce3-8572-568224681e42
+ID: a0175926-7036-4900-a1ff-610fcc8119d6
 Quelle: datenbank.xml
 Name: Applicatus Zauberspeicher
 title: Applicatus Zauberspeicher
@@ -32,5 +32,5 @@ Der nächste Zauber, den du während der Wirkungsdauer sprichst, wird für einen
   - [[Kraft]]
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 20 EP

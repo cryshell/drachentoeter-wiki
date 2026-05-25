@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: d1d66bf3-ba03-4158-b8f5-85e4e0f79935
+ID: 7cbf9193-181a-48ab-bac4-9c98b64d22a1
 Quelle: datenbank.xml
 Name: Drachenzunge
 title: Drachenzunge

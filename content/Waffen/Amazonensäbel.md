@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 3ac98a80-d618-4c9e-ab2e-cfb79d5788ef
+ID: 54c915bd-804a-4005-b53b-3830a6dbfd1d
 Quelle: datenbank.xml
 Name: Amazonensäbel
 title: Amazonensäbel

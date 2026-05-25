@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b846993d-d28c-4eee-b3c0-ccd617256fb2
+ID: d40d63db-e5b2-4b06-bcc6-7667b19e57b5
 Quelle: datenbank.xml
 Name: Leib des Windes
 title: Leib des Windes
@@ -33,5 +33,5 @@ Du harmonierst mit dem Element Luft. Du bist immun gegen Luftschaden, wiegst nur
   - [[Luft]]
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Elfen I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Elfen I]]
 - **Erlernen:** 20 EP

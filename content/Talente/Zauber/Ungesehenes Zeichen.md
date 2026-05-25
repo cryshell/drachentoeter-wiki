@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 25f1fd25-aa96-4e7a-ab55-e1746fc747e8
+ID: 0fb0938f-df8e-4650-82dd-cecf3e936c08
 Quelle: datenbank.xml
 Name: Ungesehenes Zeichen
 title: Ungesehenes Zeichen
@@ -35,5 +35,5 @@ Das Zeichen wird in einem Durchmesser von 8 Fingern auf einem maximal schrankgro
   - [[Illusion]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Zibilja I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Alchemisten I]]
+  - Vorteil [[Tradition der Zibilja I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Alchemisten I]]
 - **Erlernen:** 20 EP

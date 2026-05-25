@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 3db8af20-d12a-4736-a3ca-b01144de8b1a
+ID: f9d676f6-a2f8-4919-b8dc-9b5c0a964ba7
 Quelle: datenbank.xml
 Name: Schleier der Unwissenheit
 title: Schleier der Unwissenheit
@@ -30,5 +30,5 @@ Du schützt die magische Aura des Ziels vor der Entdeckung. Der Analysegrad jede
   - [[Antimagie]]
   - [[Kraft]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Borbaradianer I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Borbaradianer I]]
 - **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: 31749fd0-ca20-4201-837b-272082abaaed
+ID: 5b30028f-fd4a-4f5b-a987-4699c1baf07a
 Quelle: datenbank.xml
 Name: Zeremonie (M)
 title: Zeremonie (M)
@@ -16,4 +16,4 @@ Du kannst die Vorbereitungszeit freiwillig um 1 Minute/Stunde/Tag/Woche/Monat/Ja
 
 - **Probe:** Zauber +X
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen () III ODER Vorteil Tradition der Zibilja III|Tradition der Schamanen (*) III ODER Vorteil Tradition der Zibilja III]]
+  - Vorteil [[Tradition der Schamanen () III|Tradition der Schamanen (*) III]] ODER Vorteil [[Tradition der Zibilja III]]

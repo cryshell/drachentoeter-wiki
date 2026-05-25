@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b310c651-b03c-4550-9621-17bd510e5f57
+ID: a8b27aa1-c201-4280-83fd-8632394a4e72
 Quelle: datenbank.xml
 Name: Tiersinne
 title: Tiersinne
@@ -38,5 +38,5 @@ Dein Vertrautentier schließt seine Augen und leiht dir seine Sinne. Deine Wahrn
   - [[Verständigung]]
   - [[Vertrautenmagie]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Zibilja I]]
+  - Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Schamanen (Goblins) I]] ODER Vorteil [[Tradition der Zibilja I]]
 - **Erlernen:** 20 EP

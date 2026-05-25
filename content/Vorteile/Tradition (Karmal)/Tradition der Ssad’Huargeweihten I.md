@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 5d5e2a69-e37e-4a52-ab03-aa6027f5170a
+ID: 87fdec9e-396a-431f-bc96-c33912d589d4
 Quelle: datenbank.xml
 Name: Tradition der Ssad’Huargeweihten I
 title: Tradition der Ssad’Huargeweihten I

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: debd8a25-c62e-43d0-b593-07e9759e1e34
+ID: be65080b-3051-4a13-a21a-f0c281e5ceb9
 Quelle: datenbank.xml
 Name: Klarum Purum
 title: Klarum Purum
@@ -30,5 +30,5 @@ Du stoppst die Wirkung eines Giftes bis Stufe 16 sofort.
 - **Fertigkeiten:**
   - [[Humus]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 6b0e6e85-512e-491b-90ee-45e3c0f6271b
+ID: 749482c6-8ce0-4f62-a145-3a3185abf666
 Quelle: datenbank.xml
 Name: Über die Wolken
 title: Über die Wolken
@@ -30,5 +30,5 @@ An deinem Rücken wachsen gewaltige Schwingen, mit denen du fliegen kannst. Daf�
   - [[Fröhlicher Wanderer]]
   - [[Herr des Himmels]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I]]
+  - Vorteil [[Tradition der Avesgeweihten I]] ODER Vorteil [[Tradition der Chr’Ssir’Ssrgeweihten I]]
 - **Erlernen:** 40 EP

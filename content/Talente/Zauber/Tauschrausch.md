@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 7c147701-d736-4a28-abb3-1b827a51ff49
+ID: 416ebc65-200a-4fd7-b76e-48aa2ca86d7d
 Quelle: datenbank.xml
 Name: Tauschrausch
 title: Tauschrausch
@@ -32,5 +32,5 @@ Zwei Gegenstände deiner Wahl, die jeweils maximal 2 Stein schwer sind und maxim
   - [[Kraft]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 10 EP

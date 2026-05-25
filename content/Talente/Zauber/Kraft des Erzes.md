@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 22dd1f49-e69b-45fc-be1a-29a95f8870cf
+ID: d99c8991-fe9e-4417-bd21-84942cdb2d14
 Quelle: datenbank.xml
 Name: Kraft des Erzes
 title: Kraft des Erzes
@@ -29,5 +29,5 @@ Der schwerste Metallgegenstand in Reichweite wird stark magnetisch. Im Radius vo
   - [[Erz]]
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

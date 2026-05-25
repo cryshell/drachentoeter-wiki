@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: d75ce657-1fd2-465c-a5a4-18552d7d7590
+ID: 9e13de9a-85f5-4e9e-8f41-781e031a3fd3
 Quelle: datenbank.xml
 Name: Wanderpferd
 title: Wanderpferd

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 4c7c1d47-f690-46b5-9d98-43959397ada1
+ID: 757175e6-f877-41c5-9a83-da579df46625
 Quelle: datenbank.xml
 Name: Stärke des Waldläufers
 title: Stärke des Waldläufers
@@ -30,5 +30,5 @@ Erhöht dein DH um 4 Punkte.
   - [[Stiller Wanderer]]
   - [[Wildnis]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Firungeweihten I]]
+  - Vorteil [[Tradition der Avesgeweihten I]] ODER Vorteil [[Tradition der Firungeweihten I]]
 - **Erlernen:** 20 EP

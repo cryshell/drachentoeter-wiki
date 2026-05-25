@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 49dba4ba-9c02-45d1-841b-e3c6fdc08de3
+ID: 4aaae65b-6f80-42b3-bb16-ecbcd1b9719d
 Quelle: datenbank.xml
 Name: Vertrauter der Flamme
 title: Vertrauter der Flamme
@@ -32,5 +32,5 @@ Du bist immun gegen Feuerschaden und Hitze. Erlaubt *Aufrechterhalten*.
   - [[Heiliges Feuer]]
   - [[Heim und Herd]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Traviageweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+  - Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Angroschgeweihten I]] ODER Vorteil [[Tradition der Traviageweihten I]] ODER Vorteil [[Tradition der Graveshgeweihten I]]
 - **Erlernen:** 20 EP

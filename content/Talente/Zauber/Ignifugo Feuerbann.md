@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 5022b350-efc2-471d-b2eb-935ccbc2c8a3
+ID: 1d7514f7-4390-4166-95e1-5dd584a59746
 Quelle: datenbank.xml
 Name: Ignifugo Feuerbann
 title: Ignifugo Feuerbann
@@ -34,5 +34,5 @@ Selbstlöschung (-4, 0 Aktionen, 4 AsP; du löschst dich selbst. *Reaktiver* Zau
   - [[Feuer]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 20 EP

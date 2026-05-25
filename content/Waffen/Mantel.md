@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 937fab96-ae04-4120-b655-3acdba89d6ed
+ID: 093ad808-e77f-4195-b239-886b0c007c65
 Quelle: datenbank.xml
 Name: Mantel
 title: Mantel

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 83513fb7-2a4c-4521-88b2-a34c36176f32
+ID: 3a99e3b7-e23d-41ad-8b1b-1e768099f1e6
 Quelle: datenbank.xml
 Name: Kettenweste
 title: Kettenweste

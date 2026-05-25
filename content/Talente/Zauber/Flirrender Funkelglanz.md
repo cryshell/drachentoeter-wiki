@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 88ad5308-2811-4463-96d2-ad52da028705
+ID: e7736648-09a3-4042-ab0b-a5f7f3e3b8d9
 Quelle: datenbank.xml
 Name: Flirrender Funkelglanz
 title: Flirrender Funkelglanz
@@ -27,5 +27,5 @@ Du erzeugst eine illusionäre Explosion aus Farben und Formen vor den Augen dein
 - **Fertigkeiten:**
   - [[Illusion]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 20 EP

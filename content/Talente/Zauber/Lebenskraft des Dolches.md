@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: df065794-703a-48d2-a887-00243c9a008f
+ID: b48d2eed-862a-4932-8fb2-0db3f8cf09fd
 Quelle: datenbank.xml
 Name: Lebenskraft des Dolches
 title: Lebenskraft des Dolches
@@ -29,5 +29,5 @@ Du entziehst dem Boden Lebenskraft und regenerierst in der nächsten *langen Ras
   - [[Dolchzauber]]
   - [[Humus]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]]
 - **Erlernen:** 20 EP

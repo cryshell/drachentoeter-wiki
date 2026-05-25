@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c3ad808a-3e68-41e2-ba9e-a1200d3a8809
+ID: 810c9822-e832-4628-a62f-797e14bf791a
 Quelle: datenbank.xml
 Name: Psychostabilis (Tiergeist)
 title: Psychostabilis (Tiergeist)
@@ -20,5 +20,5 @@ $talent:Psychostabilis$
   - [[Gaben des Odun]]
   - [[Gaben des Blutgeists]]
 - **Voraussetzungen:**
-  - Vorteil [[Tiergeist (Elefant) ODER Vorteil Tiergeist (Mammut) ODER Vorteil Tiergeist (Schlange)]]
+  - Vorteil [[Tiergeist (Elefant)]] ODER Vorteil [[Tiergeist (Mammut)]] ODER Vorteil [[Tiergeist (Schlange)]]
 - **Erlernen:** 20 EP

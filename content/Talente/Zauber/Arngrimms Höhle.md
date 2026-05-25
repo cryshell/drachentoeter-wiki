@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: bdcd85f3-6d2b-4519-afb7-17de33d00037
+ID: 51611a55-b23e-4215-8ad2-eea70c058b5a
 Quelle: datenbank.xml
 Name: Arngrimms Höhle
 title: Arngrimms Höhle
@@ -32,5 +32,5 @@ In einem abgeschlossenen Raum wie einer Jurte oder einer kleinen Höhle steigt d
   - [[Geister der Stärkung]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Nivesen) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Achaz) I]]
+  - Vorteil [[Tradition der Schamanen (Gjalsker) I]] ODER Vorteil [[Tradition der Schamanen (Nivesen) I]] ODER Vorteil [[Tradition der Schamanen (Goblins) I]] ODER Vorteil [[Tradition der Schamanen (Achaz) I]]
 - **Erlernen:** 10 EP

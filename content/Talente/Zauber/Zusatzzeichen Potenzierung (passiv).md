@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 1d6d3d9f-5aba-4b92-8a49-a4c05dd03475
+ID: a6e87ca5-e1d9-4010-b049-dad19c172ee9
 Quelle: datenbank.xml
 Name: Zusatzzeichen Potenzierung (passiv)
 title: Zusatzzeichen Potenzierung (passiv)
@@ -21,5 +21,5 @@ Du kannst die Wirkung anderer Zeichen durch die folgende Modifikation verstärke
 - **Fertigkeiten:**
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Zibilja I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Zibilja I]]
 - **Erlernen:** 40 EP

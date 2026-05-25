@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 4e60654c-677a-4e8d-8910-145ed9af4e01
+ID: aeb9160b-729e-4874-8621-c2a3e7cf4059
 Quelle: datenbank.xml
 Name: Geisterruf
 title: Geisterruf
@@ -30,5 +30,5 @@ Du rufst einen Geist herbei. Falls Geister in deiner Region nicht heimisch sind,
 - **Fertigkeiten:**
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 61834363-d3bf-496a-8006-07be5c91d447
+ID: d66be727-f6a5-48d4-be7e-d1bb138c6526
 Quelle: datenbank.xml
 Name: Waliburias Wehr
 title: Waliburias Wehr
@@ -30,5 +30,5 @@ Bei jeder deiner Bewegungen stieben Funken und Rauch steigt auf. Für feindlich 
   - [[Heiliges Feuer]]
   - [[Guter Kampf]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+  - Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Angroschgeweihten I]] ODER Vorteil [[Tradition der Korgeweihten I]] ODER Vorteil [[Tradition der Kr’Thon’Chhgeweihten I]] ODER Vorteil [[Tradition der Graveshgeweihten I]]
 - **Erlernen:** 20 EP

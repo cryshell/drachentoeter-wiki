@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: d3e47862-3b1c-4db9-896d-4b7c1cc3827c
+ID: 0dbae1cc-cafb-4f4d-963d-78394f1cd451
 Quelle: datenbank.xml
 Name: Orcanofaxius
 title: Orcanofaxius
@@ -31,5 +31,5 @@ Ein Strahl aus elementarer Luft fügt dem Ziel 2W6 TP zu und verursacht *Zurück
 - **Fertigkeiten:**
   - [[Luft]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

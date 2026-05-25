@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 494eae59-7089-478d-a8e9-f9c835cc3f3e
+ID: 006a493d-87b5-4d9b-ac2e-736f69dade12
 Quelle: datenbank.xml
 Name: Wegzeichen
 title: Wegzeichen
@@ -36,5 +36,5 @@ Du vergräbst einen Talisman. Während der Wirkungsdauer kannst du unter Aufwend
   - [[Geister rufen]]
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Nivesen) I]]
+  - Vorteil [[Tradition der Schamanen (Gjalsker) I]] ODER Vorteil [[Tradition der Schamanen (Nivesen) I]]
 - **Erlernen:** 10 EP

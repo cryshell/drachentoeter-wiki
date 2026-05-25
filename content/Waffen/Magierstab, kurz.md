@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 5e75323b-5cb3-4a4d-b6cf-edce0533ea14
+ID: 22c06731-6f77-4d1b-977e-b43d8679182c
 Quelle: datenbank.xml
 Name: Magierstab, kurz
 title: Magierstab, kurz

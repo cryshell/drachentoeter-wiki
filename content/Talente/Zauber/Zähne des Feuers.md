@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 9e73e471-66fd-4a00-965e-9f7d501ad736
+ID: b8fd633d-71cc-47da-850e-2d5bbe31a572
 Quelle: datenbank.xml
 Name: Zähne des Feuers
 title: Zähne des Feuers
@@ -33,5 +33,5 @@ Die Glyphe wird in einem Durchmesser von 16 Fingern auf einer beliebigen Fläche
   - [[Objekt]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Alchemisten I]]
+  - Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Alchemisten I]]
 - **Erlernen:** 20 EP

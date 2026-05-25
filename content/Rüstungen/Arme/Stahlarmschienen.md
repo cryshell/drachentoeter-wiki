@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: ed9d4496-b282-4116-a210-199a41993af4
+ID: db72e23b-93a2-4906-8c60-0095a484fef9
 Quelle: datenbank.xml
 Name: Stahlarmschienen
 title: Stahlarmschienen

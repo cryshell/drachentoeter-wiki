@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: bc26b2f8-4c1e-4795-af98-89dc9cc79fe0
+ID: 80abd69e-c3ec-4108-a298-155b9ce14bac
 Quelle: datenbank.xml
 Name: Invocatio Minima
 title: Invocatio Minima
@@ -29,5 +29,5 @@ Du beschwörst eine etwa faustgroße Menge oder kleine Manifestation niederhöll
 - **Fertigkeiten:**
   - [[Dämonisch]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 10 EP

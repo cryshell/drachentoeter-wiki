@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 000d026b-cca7-4d7e-befd-3b6a970fca11
+ID: 05e24e6e-ff20-491a-bead-6f4c1884c0b6
 Quelle: datenbank.xml
 Name: Schutz gegen Untote
 title: Schutz gegen Untote
@@ -30,5 +30,5 @@ Eine silbrige Kuppel mit 2 Schritt Radius umgibt dich und bewegt sich mit dir. U
   - [[Antimagie]]
   - [[Kugelzauber]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 20 EP

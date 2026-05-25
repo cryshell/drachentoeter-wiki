@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 04827f82-ca2b-4286-91fd-5d57179cb35c
+ID: 5e3a172e-b09d-4092-af99-073ba8acca04
 Quelle: datenbank.xml
 Name: Reptilea Natternnest
 title: Reptilea Natternnest
@@ -33,5 +33,5 @@ Alle Geschuppten bis zur Größenklasse *klein*, die sich in einem Radius von 64
   - [[Dämonisch]]
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

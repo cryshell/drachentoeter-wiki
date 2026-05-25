@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 1a974924-6b8a-4099-bda7-3c28611620e2
+ID: 6e9087a1-40b9-4a8a-abe9-10b89267c534
 Quelle: datenbank.xml
 Name: Gladiatorenschulter
 title: Gladiatorenschulter

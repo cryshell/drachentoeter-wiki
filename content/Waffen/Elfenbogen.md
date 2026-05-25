@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: a9bdd749-7dfc-45e2-91bc-2dc201512120
+ID: 0da12f3c-026b-47d4-994f-5a0321e9db3a
 Quelle: datenbank.xml
 Name: Elfenbogen
 title: Elfenbogen

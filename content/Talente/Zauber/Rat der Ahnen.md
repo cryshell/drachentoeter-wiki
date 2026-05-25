@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 60852dbd-f584-46b0-abed-af63cab61c52
+ID: e895039c-b112-43b9-9a92-ebf3b412d689
 Quelle: datenbank.xml
 Name: Rat der Ahnen
 title: Rat der Ahnen
@@ -31,5 +31,5 @@ Du rufst einen Totengeist in den Körper eines seiner Nachfahren herab. Dort ver
   - [[Geister rufen]]
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Achaz) I ODER Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Nivesen) I ODER Vorteil Tradition der Schamanen (Orks) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+  - Vorteil [[Tradition der Schamanen (Achaz) I]] ODER Vorteil [[Tradition der Schamanen (Ferkina) I]] ODER Vorteil [[Tradition der Schamanen (Gjalsker) I]] ODER Vorteil [[Tradition der Schamanen (Nivesen) I]] ODER Vorteil [[Tradition der Schamanen (Orks) I]] ODER Vorteil [[Tradition der Schamanen (Trollzacker) I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]]
 - **Erlernen:** 10 EP

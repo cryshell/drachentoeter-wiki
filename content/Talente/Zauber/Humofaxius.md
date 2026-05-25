@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 8a1ffbc9-099c-403f-bba3-948e4ae1faae
+ID: 7fbce971-25ad-4b83-843f-9e185369dfc8
 Quelle: datenbank.xml
 Name: Humofaxius
 title: Humofaxius
@@ -31,5 +31,5 @@ Ein Strahl aus elementarem Humus fügt dem Ziel 2W6 TP zu und verursacht *Fessel
 - **Fertigkeiten:**
   - [[Humus]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 47d4c744-8379-4c7e-812a-e20ff398315f
+ID: 976507ba-b4e0-4088-9e8e-88224cb9ad0f
 Quelle: datenbank.xml
 Name: Wasserwand
 title: Wasserwand
@@ -30,5 +30,5 @@ Eine 4 x 3 x 1 Schritt (BxHxT) große Wand aus rauschenden Wogen entsteht entlan
 - **Fertigkeiten:**
   - [[Wasser]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: d3180255-eeeb-4723-9074-5695f35f4f11
+ID: 56548077-091b-4a36-97da-5f9ca79849d4
 Quelle: datenbank.xml
 Name: Madas Spiegel
 title: Madas Spiegel
@@ -31,5 +31,5 @@ Die Spiegelung des Mondes auf der Wasseroberfläche verwandelt sich in das Abbil
   - [[Hellsicht]]
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 10 EP

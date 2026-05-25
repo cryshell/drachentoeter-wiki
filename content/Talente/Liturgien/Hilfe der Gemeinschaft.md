@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 23f6dcb9-1fe3-4ae6-8d23-227a86d5c321
+ID: 250dfb53-7960-4be8-8396-dd5a672cc926
 Quelle: datenbank.xml
 Name: Hilfe der Gemeinschaft
 title: Hilfe der Gemeinschaft
@@ -32,5 +32,5 @@ Du stärkst in einem Radius von 4 Schritt den Zusammenhalt einer Familie, zwisch
   - [[Fröhlicher Wanderer]]
   - [[Heim und Herd]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Traviageweihten I]]
+  - Vorteil [[Tradition der Avesgeweihten I]] ODER Vorteil [[Tradition der Traviageweihten I]]
 - **Erlernen:** 20 EP

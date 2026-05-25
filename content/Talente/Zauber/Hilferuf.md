@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 712e2e1f-4132-46ba-9993-edd954560f5d
+ID: 883cadc3-868a-4d00-b22e-2fc6f1c4f1bc
 Quelle: datenbank.xml
 Name: Hilferuf
 title: Hilferuf

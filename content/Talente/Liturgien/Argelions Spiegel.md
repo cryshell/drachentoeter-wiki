@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b81eb028-6060-4b39-b1aa-51500b997b93
+ID: 2b4bf81f-534a-4b40-b7e7-c5540eb4d817
 Quelle: datenbank.xml
 Name: Argelions Spiegel
 title: Argelions Spiegel
@@ -28,5 +28,5 @@ Der nächste auf dich gewirkte Zauber wird auf den Zauberer zurückgeworfen. Erl
 - **Fertigkeiten:**
   - [[Magie]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der H’Szintgeweihten I]]
+  - Vorteil [[Tradition der Hesindegeweihten I]] ODER Vorteil [[Tradition der H’Szintgeweihten I]]
 - **Erlernen:** 20 EP

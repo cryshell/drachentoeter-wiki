@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 246a2f5b-7f4a-4944-9034-209395036afc
+ID: 32e53385-3216-42bb-b776-eb799103e85a
 Quelle: datenbank.xml
 Name: Anderthalbhänder
 title: Anderthalbhänder

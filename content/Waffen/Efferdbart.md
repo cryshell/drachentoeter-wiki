@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 5fac7f47-cadc-4a7b-902f-73b56952e7c7
+ID: d8bad5bd-7f6a-4969-a736-421c5bd74d79
 Quelle: datenbank.xml
 Name: Efferdbart
 title: Efferdbart

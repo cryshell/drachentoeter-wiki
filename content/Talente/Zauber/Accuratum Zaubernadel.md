@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 6a710604-6d62-46e8-a410-b736eb6d13bd
+ID: a9891bc4-d745-4691-a329-bd17d3fc97a0
 Quelle: datenbank.xml
 Name: Accuratum Zaubernadel
 title: Accuratum Zaubernadel
@@ -34,5 +34,5 @@ Sackleinen und Spinnenseide (-4; du verwandelst eine Stoffart in eine andere.)
 - **Fertigkeiten:**
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 60c7d1fe-c8bc-4ab3-a647-d95c9b974115
+ID: 3c7f261f-d195-4364-8300-168e7f3b6683
 Quelle: datenbank.xml
 Name: Invercano Spiegeltrick
 title: Invercano Spiegeltrick
@@ -30,5 +30,5 @@ Du verwandelst deine Hände in silbern glänzende Spiegel. Du kannst den nächst
 - **Fertigkeiten:**
   - [[Kraft]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Elfen I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Elfen I]]
 - **Erlernen:** 20 EP

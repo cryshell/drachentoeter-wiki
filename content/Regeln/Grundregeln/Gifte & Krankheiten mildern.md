@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: a0d0fdac-2b32-4d07-8b08-9723e2e44567
+ID: bb454ad3-cd04-4b6e-a819-7f2ee3a6af1e
 Quelle: datenbank.xml
 Name: "Gifte & Krankheiten mildern"
 title: "Gifte & Krankheiten mildern"

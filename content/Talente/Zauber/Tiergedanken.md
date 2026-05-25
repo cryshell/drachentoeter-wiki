@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 5420efb0-31e6-4587-9013-d8c6d393d23d
+ID: 8063c5a3-4cad-4033-9829-27964350562f
 Quelle: datenbank.xml
 Name: Tiergedanken
 title: Tiergedanken
@@ -30,5 +30,5 @@ Du siehst die Gedanken des Tiers als verschwommene Bilder. Erlaubt *Aufrechterha
   - [[Hellsicht]]
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 10 EP

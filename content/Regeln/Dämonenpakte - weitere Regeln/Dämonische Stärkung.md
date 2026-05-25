@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: d73bb4f2-801e-4f2e-81cd-bd9894de6268
+ID: 2e950529-282c-4bfe-8e53-09cc958a2a27
 Quelle: datenbank.xml
 Name: Dämonische Stärkung
 title: Dämonische Stärkung

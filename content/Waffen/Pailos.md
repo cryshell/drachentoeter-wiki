@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: db76060b-275d-4ea7-b81c-61e238389d52
+ID: 1b26b739-fd25-48c6-9778-c6470a61518b
 Quelle: datenbank.xml
 Name: Pailos
 title: Pailos

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 3d7ffacf-2fef-4e2b-9568-8b5a01ca29f4
+ID: 46673415-c7a6-439c-b574-4e9302e15469
 Quelle: datenbank.xml
 Name: Kugel des Illusionisten (passiv)
 title: Kugel des Illusionisten (passiv)
@@ -22,5 +22,5 @@ Du lässt 2 gAsP in die Kugel fließen. Fortan sind Illusionszauber um +1 erleic
   - [[Illusion]]
   - [[Kugelzauber]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 20 EP

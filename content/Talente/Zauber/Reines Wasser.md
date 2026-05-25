@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 817419d6-2dc3-4de7-a153-a445f0c66e74
+ID: 8f17c825-bc05-444c-ac3d-6186857aecb8
 Quelle: datenbank.xml
 Name: Reines Wasser
 title: Reines Wasser
@@ -35,5 +35,5 @@ Du verwandelst 100 Liter Salzwasser in Trinkwasser.
   - [[Objekt]]
   - [[Wasser]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+  - Vorteil [[Tradition der Schamanen (Gjalsker) I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]]
 - **Erlernen:** 10 EP

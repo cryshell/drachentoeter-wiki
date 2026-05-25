@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: 5b774fbd-33c4-4365-ab93-b8c0cf5c72c2
+ID: 4ea1dc0c-f493-4f8b-9394-2249d5ef8059
 Quelle: datenbank.xml
 Name: Aktion Übernatürliches wirken
 title: Aktion Übernatürliches wirken
@@ -12,4 +12,4 @@ Als magiebegabte wirkst du einen Zauber, als Geweihter eine Liturgie, als Paktie
 ---
 
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Geweiht I]] ODER Vorteil [[Paktierer I]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: d5836db7-8219-490e-8bc4-5fbafc464c00
+ID: 6b821a69-5b3c-4744-b8b7-5753710f7154
 Quelle: datenbank.xml
 Name: "Dämonische Stärkung: KO"
 title: "Dämonische Stärkung: KO"

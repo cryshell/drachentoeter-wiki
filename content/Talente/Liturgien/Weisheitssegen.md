@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 5dddb8a3-4658-49eb-9318-d5b0f18ec013
+ID: bb49a3dc-f701-499c-ae18-449725a99ff4
 Quelle: datenbank.xml
 Name: Weisheitssegen
 title: Weisheitssegen
@@ -32,5 +32,5 @@ Proben auf KL sind um +2 erleichtert.
   - [[Göttlicher Ritus]]
   - [[Veränderung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Firungeweihten I ODER Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Rondrageweihten I ODER Vorteil Tradition der Swafnirgeweihten I ODER Vorteil Tradition der Traviageweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I ODER Vorteil Tradition der H’Szintgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der V’Sargeweihten I ODER Vorteil Tradition der Zsahhgeweihten I]]
+  - Vorteil [[Tradition der Avesgeweihten I]] ODER Vorteil [[Tradition der Borongeweihten I]] ODER Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Firungeweihten I]] ODER Vorteil [[Tradition der Hesindegeweihten I]] ODER Vorteil [[Tradition der Ifirngeweihten I]] ODER Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Angroschgeweihten I]] ODER Vorteil [[Tradition der Korgeweihten I]] ODER Vorteil [[Tradition der Nandusgeweihten I]] ODER Vorteil [[Tradition der Perainegeweihten I]] ODER Vorteil [[Tradition der Phexgeweihten I]] ODER Vorteil [[Tradition der Praiosgeweihten I]] ODER Vorteil [[Tradition der Rahjageweihten I]] ODER Vorteil [[Tradition der Rondrageweihten I]] ODER Vorteil [[Tradition der Swafnirgeweihten I]] ODER Vorteil [[Tradition der Traviageweihten I]] ODER Vorteil [[Tradition der Tsageweihten I]] ODER Vorteil [[Tradition der Chr’Ssir’Ssrgeweihten I]] ODER Vorteil [[Tradition der H’Szintgeweihten I]] ODER Vorteil [[Tradition der Kr’Thon’Chhgeweihten I]] ODER Vorteil [[Tradition der Ssad’Huargeweihten I]] ODER Vorteil [[Tradition der V’Sargeweihten I]] ODER Vorteil [[Tradition der Zsahhgeweihten I]]
 - **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 526b72b1-66da-4d9e-919d-f07cf27d59c8
+ID: 5c701e12-c002-4a5f-93db-2de0d2f4d73b
 Quelle: datenbank.xml
 Name: "Mirakel: Diplomatie"
 title: "Mirakel: Diplomatie"

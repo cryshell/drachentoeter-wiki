@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: f4426dbe-3adf-40e9-87dd-abcfe5711d2c
+ID: f8677f9b-9bff-4e99-8583-a8919c54db4d
 Quelle: datenbank.xml
 Name: "Mirakel: Wahrnehmung"
 title: "Mirakel: Wahrnehmung"

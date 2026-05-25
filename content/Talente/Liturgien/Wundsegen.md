@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 1c257be8-dd80-46de-8460-b57be866e6be
+ID: 77fed90f-3594-47a9-bd65-96084008145e
 Quelle: datenbank.xml
 Name: Wundsegen
 title: Wundsegen
@@ -33,5 +33,5 @@ Der Gesegnete erhält sofort 2W6+4 Heilpunkte, für jede Überschreitung der WS 
   - [[Fruchtbarkeit und Wiedergeburt]]
   - [[Heilung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Perainegeweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der Zsahhgeweihten I]]
+  - Vorteil [[Tradition der Perainegeweihten I]] ODER Vorteil [[Tradition der Tsageweihten I]] ODER Vorteil [[Tradition der Ssad’Huargeweihten I]] ODER Vorteil [[Tradition der Zsahhgeweihten I]]
 - **Erlernen:** 40 EP

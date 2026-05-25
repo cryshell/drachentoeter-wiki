@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: a960896d-cfb6-40f0-8bf0-d99ae8484036
+ID: e26b4535-effa-4b53-b105-38be35abbb64
 Quelle: datenbank.xml
 Name: Eberfänger
 title: Eberfänger

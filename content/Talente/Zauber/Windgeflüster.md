@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 109bfaf3-2f62-4c5d-9866-a3681bf405ce
+ID: 48f2e35f-bd60-4310-80ce-0bcd20af21dc
 Quelle: datenbank.xml
 Name: Windgeflüster
 title: Windgeflüster
@@ -32,5 +32,5 @@ Eine Botschaft von maximal 16 Worten wird von Luftelementaren binnen weniger Min
   - [[Luft]]
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Shakagra I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 10 EP

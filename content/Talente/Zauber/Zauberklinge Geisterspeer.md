@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: d7dc22a3-440b-4569-973b-02b904bc761e
+ID: 8457b959-326d-4416-a129-e8f426617adf
 Quelle: datenbank.xml
 Name: Zauberklinge Geisterspeer
 title: Zauberklinge Geisterspeer
@@ -34,5 +34,5 @@ Die verzauberte Waffe gilt während der Wirkungsdauer als magisch.
   - [[Kraft]]
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

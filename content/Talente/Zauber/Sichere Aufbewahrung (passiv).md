@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: ef6a8552-d96d-4cae-8e75-e3e6c3f21960
+ID: d2c17c92-ec5d-40b7-8f4c-9129b58b5c09
 Quelle: datenbank.xml
 Name: Sichere Aufbewahrung (passiv)
 title: Sichere Aufbewahrung (passiv)
@@ -19,5 +19,5 @@ In der Schale aufbewahrte Substanzen verderben oder zersetzen sich nicht. Du kan
 - **Fertigkeiten:**
   - [[Schalenzauber]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Hexen I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Hexen I]]
 - **Erlernen:** 20 EP

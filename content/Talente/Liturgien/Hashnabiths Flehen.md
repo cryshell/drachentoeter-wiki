@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: f8de34f6-83c2-4f30-88e8-22ab59a01c6c
+ID: 083a1900-3094-4c72-a6c0-de6c8ff154cc
 Quelle: datenbank.xml
 Name: Hashnabiths Flehen
 title: Hashnabiths Flehen
@@ -32,5 +32,5 @@ Quellsegen (-4, Vorbereitungszeit 1 Stunde, Ziel Wasserquelle, Wirkungsdauer 1 M
   - [[Stiller Wanderer]]
   - [[Flüsse und Quellen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Efferdgeweihten I]]
+  - Vorteil [[Tradition der Avesgeweihten I]] ODER Vorteil [[Tradition der Efferdgeweihten I]]
 - **Erlernen:** 10 EP

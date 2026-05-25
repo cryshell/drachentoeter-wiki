@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: dc727822-bc7c-434d-ad79-44f28a667a44
+ID: cb7dca6b-35b6-4012-a8c9-1ec56ecc6f5b
 Quelle: datenbank.xml
 Name: Wurfkeule
 title: Wurfkeule

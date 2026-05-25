@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 61208d66-4bb2-4ae4-bf33-5ec9d7c14e8b
+ID: 1f6b6526-404d-43af-a174-5fc3bbe8836e
 Quelle: datenbank.xml
 Name: "Mirakel: Straßenkunde"
 title: "Mirakel: Straßenkunde"

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 9e595a52-0272-48e1-a335-d71aa1ff436b
+ID: 1375f6c5-5000-4f54-98d0-6fee4a8fe6c0
 Quelle: datenbank.xml
 Name: Schweres Wurfnetz
 title: Schweres Wurfnetz

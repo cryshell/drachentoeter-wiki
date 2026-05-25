@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: 5b3ba890-0488-4012-a2d9-b65da46cf092
+ID: c402a3a3-bb84-4923-ac80-82780ef9d8bd
 Quelle: datenbank.xml
 Name: Verbotene Pforten
 title: Verbotene Pforten
@@ -15,4 +15,4 @@ Du kannst deine Zauber mit deiner Lebenskraft speisen. Jede selbst zugefügte Wu
 
 - **Voraussetzungen:**
   - Kein Vorteil [[Verbotene Pforten]]
-  - Vorteil [[Tradition der Feylamia ODER Vorteil Tradition der Kinder der Nacht ODER Vorteil Tradition der Kinder der Finsternis ODER Vorteil Tradition der Lamijahnim ODER Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Borbaradianer I ODER Talent 'Blut des Dolches (passiv)']]
+  - Vorteil [[Tradition der Feylamia]] ODER Vorteil [[Tradition der Kinder der Nacht]] ODER Vorteil [[Tradition der Kinder der Finsternis]] ODER Vorteil [[Tradition der Lamijahnim]] ODER Vorteil [[Tradition der Anach-Nûrim I]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Talent 'Blut des Dolches (passiv)'

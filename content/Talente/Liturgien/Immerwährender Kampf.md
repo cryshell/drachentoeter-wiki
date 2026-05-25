@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 2ec1f9f6-6974-471b-8453-69eba5d54f3a
+ID: 264216ca-f170-429d-afee-bfc23ae946bf
 Quelle: datenbank.xml
 Name: Immerwährender Kampf
 title: Immerwährender Kampf
@@ -28,5 +28,5 @@ Die Lebenskraft deiner Feinde stärkt dich. Wenn du seit dem Beginn deines letzt
 - **Fertigkeiten:**
   - [[Guter Kampf]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I]]
+  - Vorteil [[Tradition der Korgeweihten I]] ODER Vorteil [[Tradition der Kr’Thon’Chhgeweihten I]]
 - **Erlernen:** 40 EP

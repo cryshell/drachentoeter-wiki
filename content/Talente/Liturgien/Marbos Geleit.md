@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 8fde8a56-3a4d-47c8-bc99-c6336b53f57c
+ID: 4f5d733c-aa71-4a52-bc9f-e7d5b62ba097
 Quelle: datenbank.xml
 Name: Marbos Geleit
 title: Marbos Geleit
@@ -27,5 +27,5 @@ Deine Seele verlässt kurzzeitig deinen Körper und begleitet und beschützt die
 - **Fertigkeiten:**
   - [[Tod]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borongeweihten I ODER Vorteil Tradition der V’Sargeweihten I]]
+  - Vorteil [[Tradition der Borongeweihten I]] ODER Vorteil [[Tradition der V’Sargeweihten I]]
 - **Erlernen:** 0 EP

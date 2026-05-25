@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: aacd8854-eac2-49c6-a7aa-8458d750103f
+ID: 58f9f0aa-2eb5-4c91-b441-045ec1c4952f
 Quelle: datenbank.xml
 Name: Efferdanes Reinigung
 title: Efferdanes Reinigung
@@ -30,5 +30,5 @@ Dein Gebet schwächt charyptide Einflüsse in der Umgebung. Die Verseuchung sink
 - **Fertigkeiten:**
   - [[Wind und Wogen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I]]
+  - Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Swafnirgeweihten I]]
 - **Erlernen:** 20 EP

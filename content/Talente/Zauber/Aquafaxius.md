@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 52fef2de-1911-4a53-a4a3-2faf9596aed4
+ID: 9197403c-b6f8-4c0f-937e-12d4e849bc3d
 Quelle: datenbank.xml
 Name: Aquafaxius
 title: Aquafaxius
@@ -31,5 +31,5 @@ Ein Strahl aus elementarem Wasser fügt dem Ziel 2W6 TP zu und verursacht *Ertr�
 - **Fertigkeiten:**
   - [[Wasser]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

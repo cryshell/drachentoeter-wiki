@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 0a3264a0-a697-4be9-b964-a03e59dc3e3a
+ID: 3f0f1c6b-6054-4f8b-93a6-65e428b29082
 Quelle: datenbank.xml
 Name: Langer Schuppenpanzer
 title: Langer Schuppenpanzer

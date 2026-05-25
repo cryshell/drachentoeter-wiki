@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 511ed920-14d6-4915-8a77-e69e44f93472
+ID: 196b440c-3720-40e3-b4fb-a707143eecb4
 Quelle: datenbank.xml
 Name: "Mirakel: Mythenkunde"
 title: "Mirakel: Mythenkunde"

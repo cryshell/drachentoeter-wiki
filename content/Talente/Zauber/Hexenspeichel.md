@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 1aad7d55-948a-4c30-bc4f-7b71956a47a7
+ID: edd387de-0969-47c5-b184-d1d7ebf5da28
 Quelle: datenbank.xml
 Name: Hexenspeichel
 title: Hexenspeichel
@@ -33,5 +33,5 @@ Dein Ziel erhält 1W6+2 Heilpunkte, für jede Überschreitung der WS heilst du e
   - [[Humus]]
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Geoden I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Geoden I]]
 - **Erlernen:** 20 EP

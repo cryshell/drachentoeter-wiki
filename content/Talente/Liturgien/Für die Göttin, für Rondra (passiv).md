@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b1b0f048-8787-4132-a356-781558e7a98b
+ID: eaec7006-b023-41a0-a716-e858e9bb86df
 Quelle: datenbank.xml
 Name: "Für die Göttin, für Rondra! (passiv)"
 title: "Für die Göttin, für Rondra! (passiv)"

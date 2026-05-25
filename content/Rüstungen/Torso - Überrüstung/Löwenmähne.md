@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: f6488c75-4bc2-4dd8-8fb3-2b1e642b2cdf
+ID: d50d4b26-a5f3-4254-a258-2931b25fc4fe
 Quelle: datenbank.xml
 Name: Löwenmähne
 title: Löwenmähne

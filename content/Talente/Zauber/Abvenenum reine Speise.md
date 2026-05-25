@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 32ec47de-5170-4342-bee7-951f126fd9ae
+ID: 2abc5de7-defe-4f29-be2b-e94f5b6e7888
 Quelle: datenbank.xml
 Name: Abvenenum reine Speise
 title: Abvenenum reine Speise
@@ -31,5 +31,5 @@ Du reinigst eine Mahlzeit für 10 Personen von Verfallserscheinungen, Giften und
 - **Fertigkeiten:**
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

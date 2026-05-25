@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: a900c622-d336-4126-b0bd-7ac180cd66b1
+ID: 3bcd9ac5-933e-4833-bd46-54daee1bede0
 Quelle: datenbank.xml
 Name: Leidensbote
 title: Leidensbote
@@ -36,5 +36,5 @@ Giftbote (-Giftstufe/4, du überträgst deine Vergiftung auf dein Ziel.)
   - [[Verständigung]]
 - **Voraussetzungen:**
   - Vorteil [[Tradition der Kristallomanten I]]
-  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Hexen I]]
+  - Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Hexen I]]
 - **Erlernen:** 20 EP

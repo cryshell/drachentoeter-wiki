@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 9eea4f62-c9e4-46ae-882c-e432f208b10e
+ID: bc06e7f7-4824-413a-8f8e-39ae74c67a08
 Quelle: datenbank.xml
 Name: Protectionis Kontrabann
 title: Protectionis Kontrabann
@@ -35,5 +35,5 @@ Magie unterdrücken (16 Aktionen, Zone, Wirkungsdauer 1 Stunde; in einem Radius 
   - [[Antimagie]]
   - [[Kraft]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 10 EP

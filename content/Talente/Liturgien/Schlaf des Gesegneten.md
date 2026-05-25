@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 5871c9b2-6d76-4a10-b431-181dd8f5e838
+ID: dd6de794-57c2-4aff-aa2a-77dd57fa502d
 Quelle: datenbank.xml
 Name: Schlaf des Gesegneten
 title: Schlaf des Gesegneten
@@ -35,5 +35,5 @@ Dein Ziel sinkt in einen tiefen Schlaf, während dem es 2 zusätzliche Einschrä
   - [[Schlaf]]
   - [[Stiller Wanderer]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Borongeweihten I ODER Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Rahjageweihten I]]
+  - Vorteil [[Tradition der Avesgeweihten I]] ODER Vorteil [[Tradition der Borongeweihten I]] ODER Vorteil [[Tradition der Perainegeweihten I]] ODER Vorteil [[Tradition der Rahjageweihten I]]
 - **Erlernen:** 20 EP

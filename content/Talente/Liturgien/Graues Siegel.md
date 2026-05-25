@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b0cc31bb-5416-48d2-9eb7-e77401fd19de
+ID: 7bf66063-2814-4087-8a69-d4c1f3c5d12d
 Quelle: datenbank.xml
 Name: Graues Siegel
 title: Graues Siegel
@@ -33,5 +33,5 @@ Du verschlüsselst eine Nachricht, sodass sie nur noch von einer bestimmten Pers
   - [[Nächtlicher Schatten]]
   - [[Wissen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Phexgeweihten I]]
+  - Vorteil [[Tradition der Hesindegeweihten I]] ODER Vorteil [[Tradition der Nandusgeweihten I]] ODER Vorteil [[Tradition der Phexgeweihten I]]
 - **Erlernen:** 10 EP

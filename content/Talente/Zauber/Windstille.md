@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b29e71ec-122a-47e1-810f-ef8a95515347
+ID: 8dd35eb0-0832-4274-8c04-d057de45c11c
 Quelle: datenbank.xml
 Name: Windstille
 title: Windstille
@@ -32,5 +32,5 @@ In einem Radius von 32 Schritt senkst du die Windstärke auf einer Skala von win
   - [[Luft]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 10 EP

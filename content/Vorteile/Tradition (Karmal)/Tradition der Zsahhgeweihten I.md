@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 3097a4ef-2a6f-410c-8033-00b8b5aba401
+ID: 004d1cf2-1288-4da5-8521-ffdb5bd31c42
 Quelle: datenbank.xml
 Name: Tradition der Zsahhgeweihten I
 title: Tradition der Zsahhgeweihten I

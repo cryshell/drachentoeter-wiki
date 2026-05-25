@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: f0e480ee-df28-4c93-805c-531e38edcafc
+ID: ee71b25a-adcb-4053-9e60-e9be42594e06
 Quelle: datenbank.xml
 Name: Dschadra (Lanzenreiten)
 title: Dschadra (Lanzenreiten)

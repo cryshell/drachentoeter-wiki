@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: fb7256c7-5673-424d-8e07-5c2fe5ac18d4
+ID: 5459f003-0d27-4f2c-aea5-d3355b0d3fdb
 Quelle: datenbank.xml
 Name: Segensreicher Neuanfang
 title: Segensreicher Neuanfang
@@ -31,5 +31,5 @@ Du segnest ein neues Unternehmen. Der Gesegnete erhält temporär 1 WiP, auch ü
   - [[Heiliges Handwerk]]
   - [[Neubeginn]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Tsageweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+  - Vorteil [[Tradition der Tsageweihten I]] ODER Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Graveshgeweihten I]]
 - **Erlernen:** 20 EP

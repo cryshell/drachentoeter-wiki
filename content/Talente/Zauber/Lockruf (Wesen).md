@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 8c41d5a5-cbde-49f4-b19b-4150309de36a
+ID: 4c5859da-fffb-4467-8ca1-b2d43c4b40bc
 Quelle: datenbank.xml
 Name: Lockruf (Wesen)
 title: Lockruf (Wesen)

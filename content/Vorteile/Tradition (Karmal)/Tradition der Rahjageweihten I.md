@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6bab1df4-9cad-4167-be16-1c778662c19b
+ID: 4271b8f3-d720-4a81-855f-1fe6effd380c
 Quelle: datenbank.xml
 Name: Tradition der Rahjageweihten I
 title: Tradition der Rahjageweihten I

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: e1666ef4-f016-4040-b1db-aada5abd6319
+ID: 9622a4f4-6e9a-4e2c-b76a-19dfe29cfaa8
 Quelle: datenbank.xml
 Name: Gambeson
 title: Gambeson

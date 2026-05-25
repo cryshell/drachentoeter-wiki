@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 4724d260-ab3e-4820-ae1d-6e764db51c56
+ID: 22ac09cf-0b0b-4170-bb12-d69692df60c2
 Quelle: datenbank.xml
 Name: Schlangenstab
 title: Schlangenstab
@@ -29,5 +29,5 @@ Dein Stab verwandelt sich in eine Smaragdnatter, die dich verteidigt. Die Natter
   - [[Veränderung]]
   - [[Wissen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der H’Szintgeweihten I]]
+  - Vorteil [[Tradition der Hesindegeweihten I]] ODER Vorteil [[Tradition der H’Szintgeweihten I]]
 - **Erlernen:** 20 EP

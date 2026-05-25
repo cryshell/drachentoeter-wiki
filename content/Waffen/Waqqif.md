@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: a8545292-5811-46d5-b996-6696d6d019c1
+ID: cf94acd1-7008-4716-beda-319f94e83e21
 Quelle: datenbank.xml
 Name: Waqqif
 title: Waqqif

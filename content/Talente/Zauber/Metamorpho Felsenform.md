@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 6440d3ed-5756-4fa9-81ca-4767804fcf20
+ID: 2774670f-5bc3-4f92-a328-0af6143ba3fa
 Quelle: datenbank.xml
 Name: Metamorpho Felsenform
 title: Metamorpho Felsenform
@@ -33,5 +33,5 @@ Du formst Erz mit bloßen Händen in die wundersamsten Formen. Die Probenschwier
   - [[Erz]]
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

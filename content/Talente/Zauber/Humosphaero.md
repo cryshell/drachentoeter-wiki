@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: dd9ddbbd-84a9-4d4c-aa6d-29d830376495
+ID: ce28b619-a2a4-48b6-9325-0c3bb02b090c
 Quelle: datenbank.xml
 Name: Humosphaero
 title: Humosphaero
@@ -30,5 +30,5 @@ Ein Humusball fügt in einem Radius von 3 Schritt 4W6 TP zu und verursacht *Fess
 - **Fertigkeiten:**
   - [[Humus]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

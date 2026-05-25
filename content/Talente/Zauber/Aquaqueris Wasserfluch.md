@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 298a784e-ab6f-43be-94a2-a41be285981d
+ID: 2fdeb2f6-8033-44c8-87ad-256f152a231e
 Quelle: datenbank.xml
 Name: Aquaqueris Wasserfluch
 title: Aquaqueris Wasserfluch
@@ -30,5 +30,5 @@ Du füllst die Lunge des Opfers mit Wasser und verursachst 2W6 SP(E) und *Erträ
 - **Fertigkeiten:**
   - [[Wasser]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 938650f2-ca23-4301-afc1-e17357d3331a
+ID: d5be80b8-5c95-4d5c-af46-d162286a00fb
 Quelle: datenbank.xml
 Name: Attributo
 title: Attributo
@@ -30,5 +30,5 @@ Wähle ein Attribut aus. Proben auf dieses Attribut sind um +2 erleichtert.
 - **Fertigkeiten:**
   - [[Eigenschaften]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Shakagra I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 20 EP

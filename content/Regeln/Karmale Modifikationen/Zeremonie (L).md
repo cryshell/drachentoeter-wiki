@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: c490b21a-608b-4e7b-afcd-4c0ae3abf74b
+ID: 65496c23-cfff-4b76-9dbb-d34335e1f2a5
 Quelle: datenbank.xml
 Name: Zeremonie (L)
 title: Zeremonie (L)
@@ -16,4 +16,4 @@ Du kannst die Vorbereitungszeit freiwillig um 1 Minute/Stunde/Tag/Woche/Monat/Ja
 
 - **Probe:** Liturgie +X
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borongeweihten III ODER Vorteil Tradition der Hesindegeweihten III ODER Vorteil Tradition der Ifirngeweihten III ODER Vorteil Tradition der Perainegeweihten III ODER Vorteil Tradition der Praiosgeweihten III ODER Vorteil Tradition der Traviageweihten III ODER Vorteil Tradition der Tsageweihten III ODER Vorteil Tradition der Kamaluqgeweihten III]]
+  - Vorteil [[Tradition der Borongeweihten III]] ODER Vorteil [[Tradition der Hesindegeweihten III]] ODER Vorteil [[Tradition der Ifirngeweihten III]] ODER Vorteil [[Tradition der Perainegeweihten III]] ODER Vorteil [[Tradition der Praiosgeweihten III]] ODER Vorteil [[Tradition der Traviageweihten III]] ODER Vorteil [[Tradition der Tsageweihten III]] ODER Vorteil [[Tradition der Kamaluqgeweihten III]]

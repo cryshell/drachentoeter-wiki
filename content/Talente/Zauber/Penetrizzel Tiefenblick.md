@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c545d16f-f618-4013-b43c-cde588dd4f3a
+ID: db09866a-e2ca-4a80-9805-49eb5eb882d5
 Quelle: datenbank.xml
 Name: Penetrizzel Tiefenblick
 title: Penetrizzel Tiefenblick
@@ -33,5 +33,5 @@ Du kannst durch eine Wand von bis zu einem halben Schritt Dicke sehen, solange d
 - **Fertigkeiten:**
   - [[Hellsicht]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 10 EP

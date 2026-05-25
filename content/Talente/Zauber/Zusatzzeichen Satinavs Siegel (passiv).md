@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 4da9936b-3ced-4b4e-aefa-0a3008eaf534
+ID: a29ed270-5d7e-4e57-9033-3bf18f5c1838
 Quelle: datenbank.xml
 Name: Zusatzzeichen Satinavs Siegel (passiv)
 title: Zusatzzeichen Satinavs Siegel (passiv)
@@ -23,5 +23,5 @@ Du kannst die Wirkungsdauer anderer Zeichen durch die folgende Modifikation verl
   - [[Kraft]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Zibilja I]]
+  - Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]] ODER Vorteil [[Tradition der Zibilja I]]
 - **Erlernen:** 40 EP

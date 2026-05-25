@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c7916f19-857c-4aa1-96c8-0fa45588b177
+ID: 0a5c9eea-c24a-4952-a93c-cc9f6f400cc3
 Quelle: datenbank.xml
 Name: Erneuerung des Geborstenen
 title: Erneuerung des Geborstenen
@@ -34,5 +34,5 @@ Ein einfacher Gegenstand wie eine Nahkampfwaffe oder ein Kutschenrad verliert so
   - [[Heiliges Handwerk]]
   - [[Neubeginn]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+  - Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Angroschgeweihten I]] ODER Vorteil [[Tradition der Tsageweihten I]] ODER Vorteil [[Tradition der Graveshgeweihten I]]
 - **Erlernen:** 20 EP

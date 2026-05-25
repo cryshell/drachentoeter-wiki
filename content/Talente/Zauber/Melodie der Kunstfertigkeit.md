@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 7f8d6662-81c4-44eb-8eb1-8afdcdb3723a
+ID: c9971a72-55ab-421b-b05c-684cf59fb5a8
 Quelle: datenbank.xml
 Name: Melodie der Kunstfertigkeit
 title: Melodie der Kunstfertigkeit
@@ -30,5 +30,5 @@ Die Melodie verleiht allen Proben auf eine Fertigkeit zur Herstellung eines best
   - [[Eigenschaften]]
   - [[Elfenlieder]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 40 EP

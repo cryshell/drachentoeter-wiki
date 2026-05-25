@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 0b7da39e-33de-43d3-aa5a-c7978113279d
+ID: 781a37ca-ea2c-444d-85cd-b043f1ce8c35
 Quelle: datenbank.xml
 Name: "Dämonische Stärkung: Nahkampf"
 title: "Dämonische Stärkung: Nahkampf"

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: a74b1eaf-877c-4285-8b79-33d46d6c2ad6
+ID: c84fabcd-059b-4ef3-8758-c2cd081c10d1
 Quelle: datenbank.xml
 Name: Zaubermelodie
 title: Zaubermelodie
@@ -31,5 +31,5 @@ Die Melodie verleiht allen Proben auf allgemeine Zauber Vorteil.
   - [[Elfenlieder]]
   - [[Kraft]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

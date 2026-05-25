@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 66722b50-61b0-44a6-a38a-005037585543
+ID: 143d632f-66e2-49f3-beb5-0b85889239e6
 Quelle: datenbank.xml
 Name: Sterne funkeln immerfort
 title: Sterne funkeln immerfort
@@ -48,5 +48,5 @@ Dein Ziel kann bei jedem Wetter Sternkunde-Proben zur Orientierung ablegen und d
   - [[Hilfe der Sippe]]
   - [[Nacht]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Efferdgeweihten I ODER Vorteil Tradition der Firungeweihten I ODER Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I ODER Vorteil Tradition der Tairachgeweihten I ODER Vorteil Tradition der Himmelswölfegeweihten I ODER Vorteil Tradition der V’Sargeweihten I]]
+  - Vorteil [[Tradition der Avesgeweihten I]] ODER Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Firungeweihten I]] ODER Vorteil [[Tradition der Hesindegeweihten I]] ODER Vorteil [[Tradition der Ifirngeweihten I]] ODER Vorteil [[Tradition der Nandusgeweihten I]] ODER Vorteil [[Tradition der Phexgeweihten I]] ODER Vorteil [[Tradition der Praiosgeweihten I]] ODER Vorteil [[Tradition der Swafnirgeweihten I]] ODER Vorteil [[Tradition der Chr’Ssir’Ssrgeweihten I]] ODER Vorteil [[Tradition der Tairachgeweihten I]] ODER Vorteil [[Tradition der Himmelswölfegeweihten I]] ODER Vorteil [[Tradition der V’Sargeweihten I]]
 - **Erlernen:** 10 EP

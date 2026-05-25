@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 8afa74ee-67f6-4fe2-8b6e-cf7c8545feb9
+ID: 384ee876-1e75-4f11-85bd-31f8f8310c8d
 Quelle: datenbank.xml
 Name: "Warmes gefriere!"
 title: "Warmes gefriere!"
@@ -30,5 +30,5 @@ Das verzauberte Material von maximal 2 Kubikmetern Volumen kühlt schlagartig au
   - [[Eis]]
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

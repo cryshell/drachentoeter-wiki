@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 16c581ee-0f79-42d7-9cad-8d11732da74c
+ID: f2ff1284-2c44-40fa-8937-e7a271f71109
 Quelle: datenbank.xml
 Name: Axxeleratus Blitzgeschwind
 title: Axxeleratus Blitzgeschwind
@@ -32,5 +32,5 @@ Die GS deines Zieles steigt um 4 Punkte, Verteidigungen sind um +2 erleichtert u
 - **Fertigkeiten:**
   - [[Eigenschaften]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

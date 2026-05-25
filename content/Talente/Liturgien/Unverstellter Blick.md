@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 59276f2d-73eb-45d9-9ee6-14691a6ee73c
+ID: 401bf410-7b93-4c04-baff-077c52e264b1
 Quelle: datenbank.xml
 Name: Unverstellter Blick
 title: Unverstellter Blick
@@ -36,5 +36,5 @@ Du nimmst alle Illusionen als golden (Pra), silbern (Phe) oder grün (Hes) schil
   - [[Magie]]
   - [[Magiebann]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Tairachgeweihten I ODER Vorteil Tradition der H’Szintgeweihten I]]
+  - Vorteil [[Tradition der Hesindegeweihten I]] ODER Vorteil [[Tradition der Phexgeweihten I]] ODER Vorteil [[Tradition der Praiosgeweihten I]] ODER Vorteil [[Tradition der Nandusgeweihten I]] ODER Vorteil [[Tradition der Tairachgeweihten I]] ODER Vorteil [[Tradition der H’Szintgeweihten I]]
 - **Erlernen:** 10 EP

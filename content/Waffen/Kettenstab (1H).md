@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: ded591cf-22de-4c9f-88e2-3d98bc965a4e
+ID: 9700d05f-7068-49a1-98e7-645acb99c586
 Quelle: datenbank.xml
 Name: Kettenstab (1H)
 title: Kettenstab (1H)

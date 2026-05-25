@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 0448885e-8091-4956-b7ad-96e8564c2891
+ID: fc8dde17-5ebc-4de5-9379-2df3f238f08f
 Quelle: datenbank.xml
 Name: Plattenarme
 title: Plattenarme

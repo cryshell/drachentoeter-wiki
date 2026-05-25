@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 9ecd7b42-edd7-4b81-ac30-77c45a726dbf
+ID: f30f872f-bf3a-4c64-9bae-0b991de7fadb
 Quelle: datenbank.xml
 Name: Kettenhaube mit Topfhelm
 title: Kettenhaube mit Topfhelm

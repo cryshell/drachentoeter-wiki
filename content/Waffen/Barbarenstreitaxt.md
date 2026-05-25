@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: fa992dcc-604d-47c5-87ac-ed1cf40d0157
+ID: 0fb9d191-6fb6-4801-9fc1-ce9fde8588dc
 Quelle: datenbank.xml
 Name: Barbarenstreitaxt
 title: Barbarenstreitaxt

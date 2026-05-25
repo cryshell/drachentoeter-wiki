@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 8ed9d9d2-7414-4efd-96ea-895891a19eb5
+ID: 3d460ab0-1601-461b-8cc5-1aa8393a9315
 Quelle: datenbank.xml
 Name: "Hartes schmelze!"
 title: "Hartes schmelze!"
@@ -29,5 +29,5 @@ Du verzauberst je nach AsP-Aufwand hartes Material auf der Größenskala Faust/R
   - [[Objekt]]
   - [[Wasser]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

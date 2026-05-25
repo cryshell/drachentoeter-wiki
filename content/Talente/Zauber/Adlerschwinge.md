@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: a71805d7-e6d3-4e0d-a153-e007e8ba5afe
+ID: 1379d32e-6b7d-4ed2-8e85-3faa74978b35
 Quelle: datenbank.xml
 Name: Adlerschwinge
 title: Adlerschwinge
@@ -31,5 +31,5 @@ Du verwandelst dich in ein fliegendes Tier deiner Wahl. Du behältst deine geist
 - **Fertigkeiten:**
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 40 EP

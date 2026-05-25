@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 826087db-e078-450c-94d8-058e612648fb
+ID: 518437cf-e60f-4b70-8c7e-05ecb32ac0d3
 Quelle: datenbank.xml
 Name: "Mirakel: Beeinflussung"
 title: "Mirakel: Beeinflussung"

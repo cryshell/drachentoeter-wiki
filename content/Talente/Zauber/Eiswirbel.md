@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: f47c793b-b58b-46e9-a675-f4e2252e89c4
+ID: 22c70342-a925-4aa1-ac6f-2c49e1f9807f
 Quelle: datenbank.xml
 Name: Eiswirbel
 title: Eiswirbel
@@ -30,5 +30,5 @@ Du erzeugst einen kleinen Schnee- und Eissturm mit einem Radius von 2 Schritt. J
   - [[Eis]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Shakagra I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Shakagra I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

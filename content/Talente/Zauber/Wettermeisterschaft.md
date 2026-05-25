@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 1e224bea-ce37-435f-babe-909aba742958
+ID: 259db6d4-b72a-4ddc-a3a0-7d98c189e1e2
 Quelle: datenbank.xml
 Name: Wettermeisterschaft
 title: Wettermeisterschaft
@@ -36,5 +36,5 @@ Das Wetter in einer Zone von bis zu 1 Meile Radius verändert sich nach deinem W
   - [[Luft]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

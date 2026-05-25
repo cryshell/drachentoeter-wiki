@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: ab7d4e40-9cae-440e-b5c1-888b1570b6ed
+ID: 0ea12042-e593-4cb7-9ccb-da07c7d660a1
 Quelle: datenbank.xml
 Name: "Mirakel: Jagd"
 title: "Mirakel: Jagd"

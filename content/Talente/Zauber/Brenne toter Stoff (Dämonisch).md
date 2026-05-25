@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 6505ce4b-e93c-4355-98c1-c187a5cdd987
+ID: 833ef9e2-f368-4d43-a79d-6cb996c66486
 Quelle: datenbank.xml
 Name: "Brenne toter Stoff! (Dämonisch)"
 title: "Brenne toter Stoff! (Dämonisch)"
@@ -25,5 +25,5 @@ $talent:Brenne toter Stoff!$
   - [[Feuer]]
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

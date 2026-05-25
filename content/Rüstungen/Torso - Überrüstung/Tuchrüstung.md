@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 204977d0-c8b4-4844-8640-2ae0b520456b
+ID: a7b3ce3f-0861-4cc6-9e9b-d2dc0449e034
 Quelle: datenbank.xml
 Name: Tuchrüstung
 title: Tuchrüstung

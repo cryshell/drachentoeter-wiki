@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: 086e35d4-51bd-409a-bad3-873bbd04efcc
+ID: 26f52d69-d4b2-4433-ad75-4e92764f74ed
 Quelle: datenbank.xml
 Name: Reichweite erhöhen (M)
 title: Reichweite erhöhen (M)
@@ -14,4 +14,4 @@ Die Reichweite des Zaubers verdoppelt sich. Die Reichweite Berührung wird zu 2 
 
 - **Probe:** Zauber -4
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Tradition der Borbaradianer I]]

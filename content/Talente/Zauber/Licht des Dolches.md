@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 23fa8c9a-62d7-4a97-9a11-9d7313cd54d1
+ID: e751a44a-f3ed-46b5-bf38-ca05ab5494d6
 Quelle: datenbank.xml
 Name: Licht des Dolches
 title: Licht des Dolches
@@ -23,5 +23,5 @@ $talent:Katzenaugen$
   - [[Dolchzauber]]
   - [[Eigenschaften]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]]
 - **Erlernen:** 20 EP

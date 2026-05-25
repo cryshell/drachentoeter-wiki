@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 5b26a097-04d5-4950-92f1-35d1bb8d8fdb
+ID: 1786eabf-e50b-42ad-8f04-78e054d73afe
 Quelle: datenbank.xml
 Name: Impersona Maskenbild
 title: Impersona Maskenbild
@@ -31,5 +31,5 @@ Durch eine *Illusion* (Sicht) erscheinen Gesicht und Haare des Ziels wie das ein
 - **Fertigkeiten:**
   - [[Illusion]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 20 EP

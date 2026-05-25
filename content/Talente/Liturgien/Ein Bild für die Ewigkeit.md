@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: ff78838c-7f8f-41b5-b639-2c5ebc238af7
+ID: b407c5c7-a25b-44ea-b5c5-167192cafa80
 Quelle: datenbank.xml
 Name: Ein Bild für die Ewigkeit
 title: Ein Bild für die Ewigkeit
@@ -31,5 +31,5 @@ Du prägst dir die während der Wirkungsdauer erfahrenen Sinneseindrücke für i
   - [[Tradition]]
   - [[Wissen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Nandusgeweihten I ODER Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Tairachgeweihten I]]
+  - Vorteil [[Tradition der Nandusgeweihten I]] ODER Vorteil [[Tradition der Rahjageweihten I]] ODER Vorteil [[Tradition der Tairachgeweihten I]]
 - **Erlernen:** 20 EP

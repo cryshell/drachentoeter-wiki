@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: fbe2090b-0673-4346-adfe-4d4c3ac9e748
+ID: 4dab4909-ae61-418d-aac1-7542ac082025
 Quelle: datenbank.xml
 Name: "Weiches Erstarre!"
 title: "Weiches Erstarre!"
@@ -32,5 +32,5 @@ Du lässt bis zu 8 Raumschritt Luft, Wasser oder ein anderes „weiches“ Mater
   - [[Erz]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

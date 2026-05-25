@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 14d76520-d9f3-4d11-8f94-52eeb0bb3199
+ID: de4fdb21-4fad-4204-a4d2-93cb4b00393d
 Quelle: datenbank.xml
 Name: Weg des Windes
 title: Weg des Windes
@@ -32,5 +32,5 @@ Erhöht das DH des Ziels um +2 Punkte.
   - [[Eigenschaften]]
   - [[Geister der Stärkung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Nivesen) I ODER Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Trollzacker) I]]
+  - Vorteil [[Tradition der Schamanen (Nivesen) I]] ODER Vorteil [[Tradition der Schamanen (Ferkina) I]] ODER Vorteil [[Tradition der Schamanen (Gjalsker) I]] ODER Vorteil [[Tradition der Schamanen (Trollzacker) I]]
 - **Erlernen:** 20 EP

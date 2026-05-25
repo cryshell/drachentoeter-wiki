@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 65932dc6-61a8-4273-9155-4d6ddcfc243c
+ID: b76896e5-0a45-45e8-9516-cdb57580a550
 Quelle: datenbank.xml
 Name: Privilegien (Zwölfgöttergeweiht)
 title: Privilegien (Zwölfgöttergeweiht)

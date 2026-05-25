@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 376d19ce-117c-4b92-90eb-55932fecb5af
+ID: ea6d7e80-8606-4ed0-8162-4c62b88ec2d4
 Quelle: datenbank.xml
 Name: Ruf des Vampirs
 title: Ruf des Vampirs
@@ -31,5 +31,5 @@ Du sendest einen geistigen Ruf an jemanden, von dem du bereits Sikaryan geraubt 
   - [[Verständigung]]
   - [[Einfluss]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kinder der Finsternis ODER Vorteil Tradition der Kinder der Nacht ODER Vorteil Tradition der Lamijahnim ODER Vorteil Tradition der Feylamia]]
+  - Vorteil [[Tradition der Kinder der Finsternis]] ODER Vorteil [[Tradition der Kinder der Nacht]] ODER Vorteil [[Tradition der Lamijahnim]] ODER Vorteil [[Tradition der Feylamia]]
 - **Erlernen:** 40 EP

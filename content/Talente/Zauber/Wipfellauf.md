@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 5c11f71d-d54f-4d9c-bccc-cec10e456483
+ID: 643ec2e2-2c5a-46d6-8837-38a8e6e3229e
 Quelle: datenbank.xml
 Name: Wipfellauf
 title: Wipfellauf
@@ -32,5 +32,5 @@ Du kannst dich durch Baumkronen und Unterholz bewegen, als wären sie eine norma
   - [[Eigenschaften]]
   - [[Humus]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

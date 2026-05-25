@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 5c790405-b920-4345-959d-8715441f6a3b
+ID: 54a7188e-9e41-41ee-bfc6-af24020d2353
 Quelle: datenbank.xml
 Name: Mondsilberzunge
 title: Mondsilberzunge
@@ -34,5 +34,5 @@ Deine Zunge ist flink und die Worte fließen dir nur so von den Lippen. Deine Ü
   - [[Stiller Wanderer]]
   - [[Gutes Gold]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Korgeweihten I]]
+  - Vorteil [[Tradition der Avesgeweihten I]] ODER Vorteil [[Tradition der Phexgeweihten I]] ODER Vorteil [[Tradition der Tsageweihten I]] ODER Vorteil [[Tradition der Korgeweihten I]]
 - **Erlernen:** 20 EP

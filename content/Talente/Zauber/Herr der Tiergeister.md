@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: a6036a0c-9f61-4a86-8538-596fa642afaf
+ID: 60d7d38e-0848-4993-936d-b52eec99030a
 Quelle: datenbank.xml
 Name: Herr der Tiergeister
 title: Herr der Tiergeister
@@ -23,5 +23,5 @@ $talent:Herr über das Tierreich$
   - [[Einfluss]]
   - [[Geister rufen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Achaz) I ODER Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Orks) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+  - Vorteil [[Tradition der Schamanen (Achaz) I]] ODER Vorteil [[Tradition der Schamanen (Ferkina) I]] ODER Vorteil [[Tradition der Schamanen (Gjalsker) I]] ODER Vorteil [[Tradition der Schamanen (Orks) I]] ODER Vorteil [[Tradition der Schamanen (Trollzacker) I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]]
 - **Erlernen:** 20 EP

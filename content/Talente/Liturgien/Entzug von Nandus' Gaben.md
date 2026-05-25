@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 9bc08842-9f9a-48ca-93d5-5f60511df288
+ID: 2caf5934-cb2e-4d4b-9782-753c8b28c925
 Quelle: datenbank.xml
 Name: "Entzug von Nandus' Gaben"
 title: "Entzug von Nandus' Gaben"
@@ -29,5 +29,5 @@ Du strafst dein Ziel mit Dummheit, es ist *verwirrt*.
   - [[List]]
   - [[Wissen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Phexgeweihten I]]
+  - Vorteil [[Tradition der Hesindegeweihten I]] ODER Vorteil [[Tradition der Nandusgeweihten I]] ODER Vorteil [[Tradition der Phexgeweihten I]]
 - **Erlernen:** 10 EP

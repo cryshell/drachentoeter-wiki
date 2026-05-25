@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: efa007f1-7fb1-4e21-a135-5ba10a17c815
+ID: 240f5ab4-11f9-4258-9890-a80f5f7bcef3
 Quelle: datenbank.xml
 Name: Weisheit der Bäume
 title: Weisheit der Bäume
@@ -31,5 +31,5 @@ Du verwandelst dich in einen prächtigen Baum. Während deiner Zeit als Baum bis
   - [[Humus]]
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]]
 - **Erlernen:** 10 EP

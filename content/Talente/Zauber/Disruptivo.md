@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 4b1531ae-7908-47a1-8791-8ed17a4a06e0
+ID: c4d93afb-d433-487a-a12c-bd87a572d11f
 Quelle: datenbank.xml
 Name: Disruptivo
 title: Disruptivo
@@ -32,5 +32,5 @@ In einem Radius von 2 Schritt haben alle Zauberproben Nachteil. Erlaubt *Aufrech
   - [[Antimagie]]
   - [[Kraft]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Shakagra I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 20 EP

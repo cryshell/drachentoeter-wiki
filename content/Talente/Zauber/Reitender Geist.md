@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 87db6366-4ec4-4892-aff5-3d6d5f218c87
+ID: d8695a94-216b-44f2-9b76-067f953875fe
 Quelle: datenbank.xml
 Name: Reitender Geist
 title: Reitender Geist
@@ -33,5 +33,5 @@ Das bezauberte Tier wird dir gegenüber brav und anhänglich. Proben im Umgang m
   - [[Einfluss]]
   - [[Geister der Stärkung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Orks) I]]
+  - Vorteil [[Tradition der Schamanen (Gjalsker) I]] ODER Vorteil [[Tradition der Schamanen (Goblins) I]] ODER Vorteil [[Tradition der Schamanen (Ferkina) I]] ODER Vorteil [[Tradition der Schamanen (Trollzacker) I]] ODER Vorteil [[Tradition der Schamanen (Orks) I]]
 - **Erlernen:** 20 EP

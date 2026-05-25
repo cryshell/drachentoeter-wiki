@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e823952b-6a86-46e3-b58f-93b2d1c21dc3
+ID: ec7f3d34-5d26-492d-9852-4fcf4c2de7ee
 Quelle: datenbank.xml
 Name: "Erinnerung verlasse dich!"
 title: "Erinnerung verlasse dich!"
@@ -29,5 +29,5 @@ Dein Ziel verliert sämtliche Erinnerung an sein voriges Leben und kann sich sp�
   - [[Dämonisch]]
   - [[Einfluss]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

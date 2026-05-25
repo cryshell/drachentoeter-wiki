@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 601c5fef-08a6-4f02-aab1-26dcd5237cf6
+ID: 8725199b-a0ba-40cd-bac6-eb46f12e713b
 Quelle: datenbank.xml
 Name: Morgenstern
 title: Morgenstern

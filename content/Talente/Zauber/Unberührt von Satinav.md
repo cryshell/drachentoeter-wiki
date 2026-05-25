@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 81950bf7-5698-438e-8cea-59379b69fcf7
+ID: ea05bf6f-5d36-46bf-b971-bf022e1216d2
 Quelle: datenbank.xml
 Name: Unberührt von Satinav
 title: Unberührt von Satinav
@@ -29,5 +29,5 @@ Du stoppst je nach AsP-Aufwand den natürlichen Verfall eines Gegenstandes auf d
   - [[Objekt]]
   - [[Temporal]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Elfen I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Elfen I]]
 - **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: d1c10fd7-05b6-42b5-b4c7-d80bacc208cf
+ID: a07373cb-834b-494f-89e6-6c7d79ca6cc8
 Quelle: datenbank.xml
 Name: Pfeil der Luft
 title: Pfeil der Luft
@@ -32,5 +32,5 @@ Du verzauberst einen Pfeil (oder Bolzen oder Wurfwaffe), sodass er im Flug die M
   - [[Luft]]
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

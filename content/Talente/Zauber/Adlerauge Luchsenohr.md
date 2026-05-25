@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 4661d41e-445e-42ad-bd96-a3846f50f20b
+ID: d77422c1-6fe6-46d7-a07b-a113098b65ea
 Quelle: datenbank.xml
 Name: Adlerauge Luchsenohr
 title: Adlerauge Luchsenohr
@@ -32,5 +32,5 @@ Du schärfst deine Sinne auf magische Weise. Alle Proben auf Wahrnehmung haben V
   - [[Eigenschaften]]
   - [[Hellsicht]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 10 EP

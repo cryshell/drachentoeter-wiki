@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: a3308839-2cd3-42f9-afc1-238cf3295817
+ID: e0e84104-38ad-4515-851c-4257b6caf229
 Quelle: datenbank.xml
 Name: Ängste lindern (Tiergeist)
 title: Ängste lindern (Tiergeist)
@@ -20,5 +20,5 @@ $talent:Ängste lindern$
   - [[Gaben des Odun]]
   - [[Gaben des Blutgeists]]
 - **Voraussetzungen:**
-  - Vorteil [[Tiergeist (Löwe) ODER Vorteil Tiergeist (Mammut)]]
+  - Vorteil [[Tiergeist (Löwe)]] ODER Vorteil [[Tiergeist (Mammut)]]
 - **Erlernen:** 20 EP

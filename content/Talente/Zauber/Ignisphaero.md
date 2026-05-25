@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 223e2431-cc13-4b82-a8b1-73fdc909bb40
+ID: 64ffad4e-7935-491f-b61a-2d7fa5df816d
 Quelle: datenbank.xml
 Name: Ignisphaero
 title: Ignisphaero
@@ -30,5 +30,5 @@ Ein Feuerball fügt in einem Radius von 3 Schritt 4W6 TP zu und verursacht *Nach
 - **Fertigkeiten:**
   - [[Feuer]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

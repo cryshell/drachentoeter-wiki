@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e539877e-c7e9-4dad-8cf4-b3a4b1abc185
+ID: 8b3a8067-3d82-4b16-8241-84bf78df02b6
 Quelle: datenbank.xml
 Name: Sicherer Weg durch den Fels
 title: Sicherer Weg durch den Fels
@@ -28,5 +28,5 @@ Unter der Erde wird dein Ziel wie mit der Gabe Gefahreninstinkt vor natürlichen
 - **Fertigkeiten:**
   - [[Heiliges Erz]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I]]
+  - Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Angroschgeweihten I]]
 - **Erlernen:** 10 EP

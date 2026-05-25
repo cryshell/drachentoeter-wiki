@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 1a63a467-fc76-4f13-8361-2d97823603db
+ID: a584573a-d960-4151-abc1-eab89ad38eb3
 Quelle: datenbank.xml
 Name: Geläutert sei Erz und Goldgestein
 title: Geläutert sei Erz und Goldgestein
@@ -28,5 +28,5 @@ Aus einem Erzklumpen mit bis zu 8 Stein Gewicht werden alle nutzbaren Metalle in
 - **Fertigkeiten:**
   - [[Heiliges Erz]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Angroschgeweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+  - Vorteil [[Tradition der Angroschgeweihten I]] ODER Vorteil [[Tradition der Graveshgeweihten I]]
 - **Erlernen:** 10 EP

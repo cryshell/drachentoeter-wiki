@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: fef3376b-40bb-472e-9237-78ade26c02b2
+ID: 9923ff06-6d90-4554-bc12-a673b23c3bf4
 Quelle: datenbank.xml
 Name: Scheibendolch
 title: Scheibendolch

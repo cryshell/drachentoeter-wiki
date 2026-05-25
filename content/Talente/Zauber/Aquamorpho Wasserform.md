@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 9b7a5690-4b3a-41d8-8a42-d6ab1a9881b4
+ID: 6bd449af-e19d-4916-b7e0-7b0b4d5ff5b2
 Quelle: datenbank.xml
 Name: Aquamorpho Wasserform
 title: Aquamorpho Wasserform
@@ -37,5 +37,5 @@ Du formst Wasser mit bloßen Händen in die wundersamsten Formen. Die Probenschw
   - [[Wasser]]
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I]]
+  - Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]]
 - **Erlernen:** 20 EP

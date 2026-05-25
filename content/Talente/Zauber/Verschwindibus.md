@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 411d945b-d53c-4bee-bb6d-01232d6cdfcd
+ID: c3786046-31bc-4179-b5c5-3e7aab7cfbbe
 Quelle: datenbank.xml
 Name: Verschwindibus
 title: Verschwindibus
@@ -32,5 +32,5 @@ Dein bis zu 2 Stein schweres Ziel verschwindet für die Wirkungsdauer im nähere
   - [[Kraft]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 10 EP

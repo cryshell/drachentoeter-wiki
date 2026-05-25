@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: f4e27a49-4e51-4241-943c-1cff1284c79d
+ID: 0eb1b5ea-b0c3-4777-89ea-f9128ea919b9
 Quelle: datenbank.xml
 Name: Wellenlauf
 title: Wellenlauf
@@ -32,5 +32,5 @@ Wasser ist für dich ein fester Untergrund. Du erleidest keine Abzüge durch unw
   - [[Eigenschaften]]
   - [[Wasser]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 10 EP

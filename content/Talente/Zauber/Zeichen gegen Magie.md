@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: d3f6c82d-4c6b-490f-89b2-08c6e2382ba9
+ID: 33b8b4fc-b535-415f-b6f8-f83885de4a7d
 Quelle: datenbank.xml
 Name: Zeichen gegen Magie
 title: Zeichen gegen Magie
@@ -35,5 +35,5 @@ Das Zeichen wird in einem Durchmesser von 16 Fingern auf einem maximal schrankgr
   - [[Objekt]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

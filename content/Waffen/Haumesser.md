@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 2c4154bd-bdd6-4d02-8c08-dc21680b961b
+ID: 90f66a91-2f8a-49d1-94e1-70458264d509
 Quelle: datenbank.xml
 Name: Haumesser
 title: Haumesser

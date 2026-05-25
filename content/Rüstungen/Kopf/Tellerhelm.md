@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 73665ebf-36b7-4273-922c-7ee4919162aa
+ID: dc64a6c2-f924-4234-b31f-b6b85ee5b087
 Quelle: datenbank.xml
 Name: Tellerhelm
 title: Tellerhelm

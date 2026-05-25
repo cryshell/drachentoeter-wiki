@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: a7647597-2f15-4cee-9e2b-4d2b7b671b40
+ID: 55434df9-9f51-4469-afd7-bd87b848b88e
 Quelle: datenbank.xml
 Name: Innere Ruhe
 title: Innere Ruhe
@@ -32,5 +32,5 @@ Du besinnst dich auf deine innere Kraft. Proben auf MU und KO haben Vorteil. Erl
   - [[Ordnung]]
   - [[Vergessen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borongeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der V’Sargeweihten I]]
+  - Vorteil [[Tradition der Borongeweihten I]] ODER Vorteil [[Tradition der Praiosgeweihten I]] ODER Vorteil [[Tradition der V’Sargeweihten I]]
 - **Erlernen:** 20 EP

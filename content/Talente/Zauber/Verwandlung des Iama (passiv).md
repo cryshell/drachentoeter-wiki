@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c67ab29b-4489-40ef-8ba4-b7ca4f584ea6
+ID: 5f0fcc53-f186-4e3b-96d9-5c9ce2001dc7
 Quelle: datenbank.xml
 Name: Verwandlung des Iama (passiv)
 title: Verwandlung des Iama (passiv)
@@ -19,5 +19,5 @@ Wenn du bei einer Verwandlung deines Körpers (egal ob freiwillig oder unfreiwil
 - **Fertigkeiten:**
   - [[Elfenlieder]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

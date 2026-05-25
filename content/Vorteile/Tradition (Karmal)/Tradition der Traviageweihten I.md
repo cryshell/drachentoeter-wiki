@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 427450a8-e780-4301-a6c4-a0130b774a51
+ID: d6597374-9a9c-4314-99fe-767e5cecf3a7
 Quelle: datenbank.xml
 Name: Tradition der Traviageweihten I
 title: Tradition der Traviageweihten I

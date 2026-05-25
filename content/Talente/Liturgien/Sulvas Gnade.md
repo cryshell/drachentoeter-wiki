@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 357cbe11-ac4f-43cb-8cdf-6cb47b7d5def
+ID: 778a671d-22a8-4dd0-bfb0-24c1929082a8
 Quelle: datenbank.xml
 Name: Sulvas Gnade
 title: Sulvas Gnade
@@ -30,5 +30,5 @@ Die Gnade der göttlichen Stute stärkt deine Beziehung zu einem Pferd. Erstens 
   - [[Harmonie]]
   - [[Stiller Wanderer]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Rahjageweihten I ODER Vorteil Tradition der Avesgeweihten I]]
+  - Vorteil [[Tradition der Rahjageweihten I]] ODER Vorteil [[Tradition der Avesgeweihten I]]
 - **Erlernen:** 20 EP

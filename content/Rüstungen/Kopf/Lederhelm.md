@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 21026543-e61d-428e-9f6a-3c18edc8a175
+ID: 92fecde1-1e24-4289-a628-54d69e93b281
 Quelle: datenbank.xml
 Name: Lederhelm
 title: Lederhelm

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: ec4d8f5d-fe2e-47ef-822c-9dcaa36923fb
+ID: cc8005fb-297c-43dd-92ae-6598c0196391
 Quelle: datenbank.xml
 Name: Vogelzwitschern Glockenspiel
 title: Vogelzwitschern Glockenspiel
@@ -31,5 +31,5 @@ Ein bestimmtes Geräusch, welches das Ziel erzeugt, klingt wie ein anderes Gerä
 - **Fertigkeiten:**
   - [[Illusion]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 10 EP

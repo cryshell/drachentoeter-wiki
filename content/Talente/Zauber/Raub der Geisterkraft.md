@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 93557696-9366-4efc-b4a4-5f6b576fd1fc
+ID: 7e5dd2f0-0859-410f-b0d4-7131b30ed436
 Quelle: datenbank.xml
 Name: Raub der Geisterkraft
 title: Raub der Geisterkraft
@@ -25,5 +25,5 @@ $talent:Magischer Raub$
   - [[Kraft]]
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Orks) I ODER Vorteil Tradition der Schamanen (Trollzacker) I]]
+  - Vorteil [[Tradition der Schamanen (Ferkina) I]] ODER Vorteil [[Tradition der Schamanen (Orks) I]] ODER Vorteil [[Tradition der Schamanen (Trollzacker) I]]
 - **Erlernen:** 20 EP

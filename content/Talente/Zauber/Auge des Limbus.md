@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: afde650d-9eab-491e-9c4a-d57c3fd9497f
+ID: 31981013-701a-4ad5-8645-b39cb31d3756
 Quelle: datenbank.xml
 Name: Auge des Limbus
 title: Auge des Limbus
@@ -29,5 +29,5 @@ Du reißt eine Öffnung in die Barriere zwischen der Welt und dem Limbus. In ein
 - **Fertigkeiten:**
   - [[Kraft]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 40 EP

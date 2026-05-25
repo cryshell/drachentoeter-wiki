@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 626b11de-e01f-4db4-ab25-09a55d002cf1
+ID: 4a5ec2d2-129f-45b6-9ce1-35814afac2a4
 Quelle: datenbank.xml
 Name: Tradition der Efferdgeweihten I
 title: Tradition der Efferdgeweihten I

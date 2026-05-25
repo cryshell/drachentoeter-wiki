@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 5f2e7118-aa75-4070-a131-1140b31897f3
+ID: 48212ad3-ba70-409b-89fd-f3f2f04cfc01
 Quelle: datenbank.xml
 Name: "Mirakel: Athletik"
 title: "Mirakel: Athletik"

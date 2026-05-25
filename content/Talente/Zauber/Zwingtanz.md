@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 91bdd129-4e3a-4588-9ddc-7cc1d16d9cb6
+ID: a5fada6e-befb-4f55-84a9-70c4786a33db
 Quelle: datenbank.xml
 Name: Zwingtanz
 title: Zwingtanz
@@ -28,5 +28,5 @@ Dein Opfer verliert die Kontrolle über seinen Körper und wird *handlungsunfäh
 - **Fertigkeiten:**
   - [[Einfluss]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]]
 - **Erlernen:** 20 EP

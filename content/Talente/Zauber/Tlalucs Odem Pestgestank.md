@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 5d187832-0255-47a1-ba1a-5b0c32fedc64
+ID: f05bc270-cb4b-4be1-a0dc-33e8d3fec65b
 Quelle: datenbank.xml
 Name: Tlalucs Odem Pestgestank
 title: Tlalucs Odem Pestgestank
@@ -32,5 +32,5 @@ Eine giftige Wolke breitet sich aus deinem Mund 8 Schritt weit kegelförmig aus 
 - **Fertigkeiten:**
   - [[Dämonisch]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I]]
+  - Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]]
 - **Erlernen:** 20 EP

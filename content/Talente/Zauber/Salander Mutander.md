@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 34d04f76-e22e-4e9f-9b61-dd6bb10b357b
+ID: f7b1c1e7-5ef6-41af-a7c5-161cb90d9289
 Quelle: datenbank.xml
 Name: Salander Mutander
 title: Salander Mutander
@@ -31,5 +31,5 @@ Du verwandelst dein Ziel in ein beliebiges anderes, kleineres und leichteres Tie
 - **Fertigkeiten:**
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 40 EP

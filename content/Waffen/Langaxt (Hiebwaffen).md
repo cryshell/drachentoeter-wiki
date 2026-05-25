@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: f0f8325b-6eef-4c8c-b019-e4368195a737
+ID: e9f6c70e-d470-47c1-b3de-13d96e95e06c
 Quelle: datenbank.xml
 Name: Langaxt (Hiebwaffen)
 title: Langaxt (Hiebwaffen)

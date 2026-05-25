@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: f482c172-e109-466a-b185-bf2456b34159
+ID: b2176301-d030-4aa6-8a20-517b5ef8c19f
 Quelle: datenbank.xml
 Name: Artefakte - Unwillentliche Beseelung
 title: Artefakte - Unwillentliche Beseelung

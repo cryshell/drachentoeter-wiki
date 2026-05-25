@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 538f6b93-a3e6-4040-b9fb-5e3c2c6f0439
+ID: 9a59a6d1-84ff-4aac-97b7-86df2db4de7b
 Quelle: datenbank.xml
 Name: Knochenkeule, groß
 title: Knochenkeule, groß

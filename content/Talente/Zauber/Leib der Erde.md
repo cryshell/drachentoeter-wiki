@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 97d7e281-dd22-43cd-9199-944dff580b1d
+ID: 3214e515-a2e5-4843-8b9d-bcaab0b39a71
 Quelle: datenbank.xml
 Name: Leib der Erde
 title: Leib der Erde
@@ -33,5 +33,5 @@ Du harmonierst mit dem Element Humus. Du bist immun gegen Gifte und Humusschaden
   - [[Humus]]
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

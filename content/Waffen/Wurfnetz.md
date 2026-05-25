@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: adbf5d6d-75ee-4632-9dd1-71d2de8c6ad4
+ID: cbdc311c-2b59-47d0-9adc-b6f17bcea12b
 Quelle: datenbank.xml
 Name: Wurfnetz
 title: Wurfnetz

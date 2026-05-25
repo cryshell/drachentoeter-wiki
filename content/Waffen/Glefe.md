@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: bc14bae5-46b1-4ee4-a16c-3a48cbd45539
+ID: db348838-30fc-4262-af71-0818089d5c6a
 Quelle: datenbank.xml
 Name: Glefe
 title: Glefe

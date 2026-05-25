@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 04281180-bc37-4842-986f-93f89cc8c55b
+ID: f3098ede-22ae-499b-a874-0549d6c05ccb
 Quelle: datenbank.xml
 Name: Kraft des Humus
 title: Kraft des Humus
@@ -29,5 +29,5 @@ Du erfüllst ein großes humusaffines Wesen wie einen Baum mit elementarer Leben
 - **Fertigkeiten:**
   - [[Humus]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

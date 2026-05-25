@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 7f418c6e-8b0d-42b9-8e0d-8372efc21b06
+ID: 3a320c8c-b0a1-4630-8aed-e40d5d348130
 Quelle: datenbank.xml
 Name: Memorabia Falsifir
 title: Memorabia Falsifir
@@ -34,5 +34,5 @@ Dein Opfer verdrängt sämtliche Erinnerungen an einen von dir bestimmten Zeitra
 - **Fertigkeiten:**
   - [[Einfluss]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 40 EP

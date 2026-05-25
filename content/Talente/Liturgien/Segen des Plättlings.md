@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: a52597d2-51b8-4d71-a249-c1d50e6b7cfd
+ID: 0d36c676-8db6-47bd-b48e-917bb0e53f60
 Quelle: datenbank.xml
 Name: Segen des Plättlings
 title: Segen des Plättlings
@@ -29,5 +29,5 @@ Du verwandelst 100 Liter Salzwasser in Trinkwasser.
 - **Fertigkeiten:**
   - [[Seefahrt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I]]
+  - Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Swafnirgeweihten I]]
 - **Erlernen:** 10 EP

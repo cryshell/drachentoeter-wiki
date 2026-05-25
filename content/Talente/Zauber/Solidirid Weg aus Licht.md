@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c3235755-9eeb-4bcd-a7bf-ee39dfe79116
+ID: e7aaf501-0e07-44d7-95fc-5e8f23e280fd
 Quelle: datenbank.xml
 Name: Solidirid Weg aus Licht
 title: Solidirid Weg aus Licht
@@ -33,5 +33,5 @@ Vor dir entsteht eine Brücke aus Licht, die in allen Regenbogenfarben schillert
   - [[Luft]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 58932d63-ad58-45ab-acf5-030cfcacd2b0
+ID: 280c633a-6291-49f3-bde5-a313a37c94e0
 Quelle: datenbank.xml
 Name: Armatrutz (Tiergeist)
 title: Armatrutz (Tiergeist)
@@ -20,5 +20,5 @@ $talent:Armatrutz$
   - [[Gaben des Odun]]
   - [[Gaben des Blutgeists]]
 - **Voraussetzungen:**
-  - Vorteil [[Tiergeist (Löwe) ODER Vorteil Tiergeist (Mammut)]]
+  - Vorteil [[Tiergeist (Löwe)]] ODER Vorteil [[Tiergeist (Mammut)]]
 - **Erlernen:** 20 EP

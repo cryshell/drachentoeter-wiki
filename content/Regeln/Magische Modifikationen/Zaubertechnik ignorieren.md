@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: 909f978c-b69a-450d-af61-923d0f2992c3
+ID: 73bbdee8-b2e4-435e-8440-76c3178e41f6
 Quelle: datenbank.xml
 Name: Zaubertechnik ignorieren
 title: Zaubertechnik ignorieren
@@ -14,4 +14,4 @@ Du ignorierst eine der bei der Tradition angeführten Bedingungen. Ignorierst du
 
 - **Probe:** Zauber -4
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Tradition der Borbaradianer I]]

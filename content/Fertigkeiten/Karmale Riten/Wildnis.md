@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 201f7023-8784-4a80-bc54-145adea4300b
+ID: 9bc1a234-4f6f-40cd-bc34-87559069dc00
 Quelle: datenbank.xml
 Name: Wildnis
 title: Wildnis
@@ -61,4 +61,4 @@ Die Waldläufer des Nordens streifen oft monatelang abseits aller Wege durch die
   - [[Winterschlaf]]
   - [[Zuflucht finden]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Ifirngeweihten I ODER Vorteil Tradition der Firungeweihten I]]
+  - Vorteil [[Tradition der Ifirngeweihten I]] ODER Vorteil [[Tradition der Firungeweihten I]]

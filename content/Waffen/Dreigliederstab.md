@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: d064de6a-162e-4576-b2f7-b8f965e37608
+ID: bb070f9a-7c35-4620-a03f-9b70e85e1f30
 Quelle: datenbank.xml
 Name: Dreigliederstab
 title: Dreigliederstab

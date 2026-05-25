@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 41e94b5d-e9dc-402a-a3ac-96c0185d0672
+ID: 6ab6202b-4338-4d80-b454-5014a8370a52
 Quelle: datenbank.xml
 Name: Warnende Kugel
 title: Warnende Kugel
@@ -29,5 +29,5 @@ Die Kugel leuchtet auf, falls sich eine feindlich gesinnte Person in weniger als
   - [[Hellsicht]]
   - [[Kugelzauber]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 20 EP

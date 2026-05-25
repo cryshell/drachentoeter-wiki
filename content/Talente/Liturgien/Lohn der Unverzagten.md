@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 5a5d7a60-512e-464b-aabb-4dc575497bdd
+ID: 4e31c76f-0578-4393-8922-387c8e61a961
 Quelle: datenbank.xml
 Name: Lohn der Unverzagten
 title: Lohn der Unverzagten
@@ -30,5 +30,5 @@ Du stärkst die Widerstandskraft des Gesegneten. Proben zur Abwehr von Krankheit
   - [[Heilung]]
   - [[Heim und Herd]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Perainegeweihten I ODER Vorteil Tradition der Traviageweihten I]]
+  - Vorteil [[Tradition der Perainegeweihten I]] ODER Vorteil [[Tradition der Traviageweihten I]]
 - **Erlernen:** 10 EP

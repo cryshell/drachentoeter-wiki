@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e6012f8a-8636-4348-924e-3a5ebba78da9
+ID: 60e6759d-f89b-4d20-b4c1-6be25aad902a
 Quelle: datenbank.xml
 Name: "Beute!"
 title: "Beute!"

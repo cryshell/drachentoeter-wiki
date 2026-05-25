@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 4658149a-19d6-4ee8-a4ed-95bbc07a5b9b
+ID: aae29006-0363-45ab-bb3c-0bb398c9d59b
 Quelle: datenbank.xml
 Name: Andergaster
 title: Andergaster

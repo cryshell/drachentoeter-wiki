@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 077bb690-e356-4d59-b5f9-f1e2749b17e6
+ID: 58108928-1036-4350-bcca-1da6c63700f4
 Quelle: datenbank.xml
 Name: Panzerhandschuhe
 title: Panzerhandschuhe

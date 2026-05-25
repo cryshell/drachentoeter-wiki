@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 7b779181-7dde-42ba-929e-c2c6fd7996dd
+ID: c8810930-828f-436d-9f67-483a73f14eb1
 Quelle: datenbank.xml
 Name: Kettenhandschuhe
 title: Kettenhandschuhe

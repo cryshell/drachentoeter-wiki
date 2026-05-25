@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: d41d2520-999f-47a3-a73c-f454ddb7017a
+ID: 9e992b3c-94a5-42e5-ac9f-c898718ce9f8
 Quelle: datenbank.xml
 Name: Schleuder
 title: Schleuder

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 75d92084-c561-4f30-ae8e-148bfd4bad48
+ID: c355683e-7d29-4102-abdc-309176169190
 Quelle: datenbank.xml
 Name: Tiergeist (Schlange)
 title: Tiergeist (Schlange)

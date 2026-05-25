@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: ddfc5804-5f71-439f-9e11-873edaf71f2f
+ID: e4070196-434b-42fe-81b7-23ae71462403
 Quelle: datenbank.xml
 Name: "Gefunden!"
 title: "Gefunden!"
@@ -32,5 +32,5 @@ Du erspürst die Richtung, in der sich ein mindestens truhengroßer Gegenstand a
 - **Fertigkeiten:**
   - [[Hellsicht]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 10 EP

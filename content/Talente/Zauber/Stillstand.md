@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 13dd2d2c-936d-4778-8970-cd15aca5ae43
+ID: c839a295-957a-4e14-aec5-d94b39ade4ea
 Quelle: datenbank.xml
 Name: Stillstand
 title: Stillstand
@@ -32,5 +32,5 @@ In einem Radius von 8 Schritt werden alle Bewegungen außer deiner verlangsamt. 
   - [[Eis]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Geoden I]]
+  - Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Shakagra I]] ODER Vorteil [[Tradition der Geoden I]]
 - **Erlernen:** 40 EP

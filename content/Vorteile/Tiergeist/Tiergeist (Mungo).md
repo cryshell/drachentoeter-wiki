@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 7db7107d-7bfd-478e-9700-5e3f0080225f
+ID: ed9efc1e-18be-42c4-b01c-16d5843c6acb
 Quelle: datenbank.xml
 Name: Tiergeist (Mungo)
 title: Tiergeist (Mungo)

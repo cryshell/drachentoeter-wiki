@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 0197ab2e-b795-4eb7-85d6-d6d8b5ce4167
+ID: 88f68137-d874-43a4-bd63-c487c5015029
 Quelle: datenbank.xml
 Name: Tharvuns Schwingen
 title: Tharvuns Schwingen
@@ -30,5 +30,5 @@ Das gesegnete Reittier ist unaufhaltsam. Seine GS steigt um +4 und es verfügt �
   - [[Fröhlicher Wanderer]]
   - [[Harmonie]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Rahjageweihten I]]
+  - Vorteil [[Tradition der Avesgeweihten I]] ODER Vorteil [[Tradition der Rahjageweihten I]]
 - **Erlernen:** 10 EP

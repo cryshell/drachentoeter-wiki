@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 97cbc137-fe0c-4696-9a9a-41094469c12f
+ID: 81276e45-b7f5-446d-92b5-4e079592399f
 Quelle: datenbank.xml
 Name: Tradition der Tairachgeweihten I
 title: Tradition der Tairachgeweihten I

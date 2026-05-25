@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 30624b43-7913-4fa9-8a58-9bb754ad7a4f
+ID: 4833939e-5c33-4748-95ab-bbe9c19ac526
 Quelle: datenbank.xml
 Name: Weg des Dolches
 title: Weg des Dolches
@@ -31,5 +31,5 @@ Dein Dolch zeigt in die Richtung des Ortes, an dem er geweiht wurde. Eine Überl
   - [[Hellsicht]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]]
 - **Erlernen:** 10 EP

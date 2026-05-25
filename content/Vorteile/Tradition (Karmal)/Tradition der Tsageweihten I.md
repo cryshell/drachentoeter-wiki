@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e2fefb84-fc59-4512-b968-f66e7ce55a4f
+ID: d83b9147-bb3c-426a-868d-c39ecf3e0738
 Quelle: datenbank.xml
 Name: Tradition der Tsageweihten I
 title: Tradition der Tsageweihten I

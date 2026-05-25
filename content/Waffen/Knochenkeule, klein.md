@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 1558dc76-b52e-4bfc-a68c-092218e3d48f
+ID: 6cf92f3e-f6c6-4645-a243-5f284b8ea1ff
 Quelle: datenbank.xml
 Name: Knochenkeule, klein
 title: Knochenkeule, klein

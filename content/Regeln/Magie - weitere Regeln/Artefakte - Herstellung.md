@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: c5303b67-71b5-45d4-90f1-c31327b764c6
+ID: df3e3dc0-b56e-4311-a465-9cef5523712c
 Quelle: datenbank.xml
 Name: Artefakte - Herstellung
 title: Artefakte - Herstellung

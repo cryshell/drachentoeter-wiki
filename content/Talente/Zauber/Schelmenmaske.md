@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 37ebf94a-29e1-460b-be1e-a4e84a4a4748
+ID: 40036165-5c98-4d2f-96b9-5dc325a42871
 Quelle: datenbank.xml
 Name: Schelmenmaske
 title: Schelmenmaske
@@ -30,5 +30,5 @@ Durch eine *Illusion* (Sicht) gleicht dein Körper dem eines anderen. Du kannst 
 - **Fertigkeiten:**
   - [[Illusion]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 20 EP

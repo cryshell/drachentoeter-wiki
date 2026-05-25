@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 6ed52fc2-5e26-4396-a41c-1b7221df3fb5
+ID: dba6e6ed-1879-44c5-b588-039c02baa059
 Quelle: datenbank.xml
 Name: Hermetisches Siegel
 title: Hermetisches Siegel
@@ -34,5 +34,5 @@ Das Zeichen wird in einem Durchmesser von 16 Fingern auf einem maximal schrankgr
   - [[Temporal]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Zibilja I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Zibilja I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 10 EP

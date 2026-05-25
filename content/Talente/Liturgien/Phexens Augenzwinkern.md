@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: eb212e8e-3844-4443-b2a5-5d4d2be10f26
+ID: d26cb891-5d72-49f6-9b20-9754b5af94f3
 Quelle: datenbank.xml
 Name: Phexens Augenzwinkern
 title: Phexens Augenzwinkern
@@ -29,5 +29,5 @@ Das Ziel kann sich kaum an dein Gesicht erinnern. Selbst wenn es darauf angespro
   - [[List]]
   - [[Stiller Wanderer]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Phexgeweihten I]]
+  - Vorteil [[Tradition der Avesgeweihten I]] ODER Vorteil [[Tradition der Phexgeweihten I]]
 - **Erlernen:** 10 EP

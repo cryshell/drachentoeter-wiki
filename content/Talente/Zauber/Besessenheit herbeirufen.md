@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 10e9b77b-fd7a-432e-8502-8ef3587ddc17
+ID: b6ac07e5-c3a8-4352-95e3-f26a9498027e
 Quelle: datenbank.xml
 Name: Besessenheit herbeirufen
 title: Besessenheit herbeirufen
@@ -32,5 +32,5 @@ Dein Opfer verliert die Kontrolle über seinen Körper und wird *handlungsunfäh
   - [[Geister des Zorns]]
   - [[Geister rufen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Trollzacker) I]]
+  - Vorteil [[Tradition der Schamanen (Ferkina) I]] ODER Vorteil [[Tradition der Schamanen (Trollzacker) I]]
 - **Erlernen:** 20 EP

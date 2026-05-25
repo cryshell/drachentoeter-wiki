@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: ff356a13-8e14-447b-abff-a6fae970c17f
+ID: 2c5df621-3de0-46d9-8cd9-26a731c95017
 Quelle: datenbank.xml
 Name: Dunkelheit
 title: Dunkelheit
@@ -30,5 +30,5 @@ In einem Radius von 4 Schritt entsteht eine Zone der Dunkelheit, in der die Hell
 - **Fertigkeiten:**
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

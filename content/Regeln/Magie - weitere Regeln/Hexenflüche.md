@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: 2b40ffa1-67e4-44ba-ab68-d7be46a1fd6c
+ID: de327a35-df8d-4ccd-add9-7bebdf0febf2
 Quelle: datenbank.xml
 Name: Hexenflüche
 title: Hexenflüche

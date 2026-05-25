@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 53d036c9-eba1-446b-98ae-c208e2f7abfc
+ID: b4a011af-97ce-4ed4-a29f-9e9eea19fb4a
 Quelle: datenbank.xml
 Name: Macht des Elements
 title: Macht des Elements

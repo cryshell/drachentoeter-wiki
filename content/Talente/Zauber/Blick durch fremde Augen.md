@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 863ab078-a673-4758-a18e-05ad07ade587
+ID: bfbafae7-4323-49ab-9e0b-51a99a04c7b1
 Quelle: datenbank.xml
 Name: Blick durch fremde Augen
 title: Blick durch fremde Augen
@@ -33,5 +33,5 @@ Du blickst während der Wirkungsdauer durch die Augen deines Opfers, das davon n
   - [[Hellsicht]]
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 20 EP

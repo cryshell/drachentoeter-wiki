@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 348408dd-3c51-4396-9a49-64cc1b76cb28
+ID: b233f6f4-2a5a-46ca-b655-d3c9064eaeca
 Quelle: datenbank.xml
 Name: Siegel der Seelenruhe
 title: Siegel der Seelenruhe
@@ -30,5 +30,5 @@ Das Zeichen in einem Durchmesser von 16 Fingern wird auf einer beliebigen Fläch
   - [[Einfluss]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Zibilja I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Zibilja I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

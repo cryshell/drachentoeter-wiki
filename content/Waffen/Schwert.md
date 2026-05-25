@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 61180c76-35a6-45a8-9506-8a2c265fa092
+ID: 3290e5c1-a2b5-4e34-ace1-057df3b18b44
 Quelle: datenbank.xml
 Name: Schwert
 title: Schwert

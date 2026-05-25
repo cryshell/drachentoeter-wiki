@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: bdef2e59-d5b7-4ba0-a640-19a76f7bce8d
+ID: a1725adb-e1fc-48cd-bea8-acbf29252e82
 Quelle: datenbank.xml
 Name: Baburiner Hut
 title: Baburiner Hut

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 8793eddb-a64e-433d-8ce7-a141923456bb
+ID: 8e8cbab9-bf59-439c-adf5-7512a646ded9
 Quelle: datenbank.xml
 Name: Lederarmschienen
 title: Lederarmschienen

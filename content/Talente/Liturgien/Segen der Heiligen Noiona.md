@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 510bc267-4a4b-441b-bb0a-3c460c1f5deb
+ID: a287cf0f-2d27-4fbf-8083-3b646775d1d9
 Quelle: datenbank.xml
 Name: Segen der Heiligen Noiona
 title: Segen der Heiligen Noiona
@@ -35,5 +35,5 @@ Du erspürst Geistesstörungen und Suchtkrankheiten in deinem Ziel und erfährst
   - [[Rausch]]
   - [[Vergessen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borongeweihten I ODER Vorteil Tradition der Perainegeweihten I ODER Vorteil Tradition der Traviageweihten I ODER Vorteil Tradition der Rahjageweihten I]]
+  - Vorteil [[Tradition der Borongeweihten I]] ODER Vorteil [[Tradition der Perainegeweihten I]] ODER Vorteil [[Tradition der Traviageweihten I]] ODER Vorteil [[Tradition der Rahjageweihten I]]
 - **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: dd4133f4-17e3-4d61-ae2c-7ed26f982c3a
+ID: 98dd57ba-7936-4669-a2c8-6a7f30f9b283
 Quelle: datenbank.xml
 Name: Apport des Iama
 title: Apport des Iama
@@ -29,5 +29,5 @@ Das Iama kehrt fliegend mit einer Geschwindigkeit von 10 Meilen pro Stunde zu di
   - [[Elfenlieder]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 10 EP

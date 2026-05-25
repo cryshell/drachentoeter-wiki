@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 9a0c69c1-a766-40d1-b58a-70386f8b8ada
+ID: 747ed1f4-22e5-4511-b66c-cacf37f70365
 Quelle: datenbank.xml
 Name: Kraft des Lebens
 title: Kraft des Lebens
@@ -28,5 +28,5 @@ Du segnest bis zu 4 Personen, sodass ihre KO-Proben um +2 erleichtert sind.
 - **Fertigkeiten:**
   - [[Wachstum]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Perainegeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I]]
+  - Vorteil [[Tradition der Perainegeweihten I]] ODER Vorteil [[Tradition der Ssad’Huargeweihten I]]
 - **Erlernen:** 20 EP

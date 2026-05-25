@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 3280c5bf-0db1-48da-943f-08ee29b1cfac
+ID: a7af09da-92aa-4ff1-a071-cf5bb5b9c714
 Quelle: datenbank.xml
 Name: Blutsbund
 title: Blutsbund
@@ -31,5 +31,5 @@ Du segnest einen Blutsbund wie etwa eine Hochzeit oder Blutsbrüderschaft. Alle 
   - [[Geister der Stärkung]]
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Nivesen) I ODER Vorteil Tradition der Schamanen (Orks) I]]
+  - Vorteil [[Tradition der Schamanen (Ferkina) I]] ODER Vorteil [[Tradition der Schamanen (Gjalsker) I]] ODER Vorteil [[Tradition der Schamanen (Trollzacker) I]] ODER Vorteil [[Tradition der Schamanen (Nivesen) I]] ODER Vorteil [[Tradition der Schamanen (Orks) I]]
 - **Erlernen:** 0 EP

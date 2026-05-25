@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: cfd7a152-e0a7-490c-bec9-2175bdb60e1e
+ID: 623d96e2-1274-4289-bb1d-a40536ac27b2
 Quelle: datenbank.xml
 Name: Dolchzauber
 title: Dolchzauber
@@ -59,4 +59,4 @@ Die geheimen Rituale der Druiden beruhen auf ihrem verzauberten Dolch aus Obsidi
   - [[Weg des Dolches]]
   - [[Weisung des Dolches]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]]

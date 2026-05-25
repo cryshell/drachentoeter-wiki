@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 5d17ce27-0c88-4f8f-a542-8d8edb57868e
+ID: 67c891f3-b26f-4db8-b23b-ae2eb2b530fd
 Quelle: datenbank.xml
 Name: Tiere besprechen
 title: Tiere besprechen
@@ -33,5 +33,5 @@ Bann des Siechtums (Probenschwierigkeit 12; du beendest ein Gift oder eine Krank
   - [[Humus]]
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Hexen I]]
 - **Erlernen:** 10 EP

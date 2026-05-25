@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b9d5c1a0-0237-4379-bcb5-db2a52e18dcc
+ID: 4edcc21c-7fe7-480f-8787-16a1d8f648dc
 Quelle: datenbank.xml
 Name: Leib der Wogen
 title: Leib der Wogen
@@ -33,5 +33,5 @@ Du harmonierst mit dem Element Wasser. Du bist immun gegen Wasserschaden. Ström
   - [[Wasser]]
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

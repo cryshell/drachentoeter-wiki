@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: f113e337-e7b9-4e4e-a82a-31f849118e50
+ID: f7e2df0f-7597-4a5e-834b-ab009aa2ade5
 Quelle: datenbank.xml
 Name: Auge der ewigen Wacht
 title: Auge der ewigen Wacht
@@ -34,5 +34,5 @@ Das Zeichen wird in einem Durchmesser von 8/16/24/32 Fingern auf einer Leiche an
   - [[Temporal]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

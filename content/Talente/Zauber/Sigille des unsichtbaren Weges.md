@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 63e98827-3ce4-4be5-811c-1b160bec6e77
+ID: 0d3534fe-96ce-4b9b-bf1c-e92d15f6cc2d
 Quelle: datenbank.xml
 Name: Sigille des unsichtbaren Weges
 title: Sigille des unsichtbaren Weges
@@ -35,5 +35,5 @@ Das Zeichen wird in einem Durchmesser von 8 Fingern auf einer beliebigen Fläche
   - [[Umwelt]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Zibilja I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Zibilja I]]
 - **Erlernen:** 20 EP

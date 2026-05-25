@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 3800789b-fe87-4a1e-9f8e-f44ca1e691b8
+ID: 3df7c9f6-7f7f-4fe7-b844-f0eedf11ee9f
 Quelle: datenbank.xml
 Name: Desintegratus Pulverstaub
 title: Desintegratus Pulverstaub
@@ -30,5 +30,5 @@ Von deiner Hand geht 8 Schritt weit eine kegelförmige (15°) Welle astraler Kra
 - **Fertigkeiten:**
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

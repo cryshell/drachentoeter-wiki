@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 34012192-1903-4f6f-9cb4-7d7a538c45b5
+ID: 4e2d84ff-f734-45d4-b1f5-1c4d8541eb96
 Quelle: datenbank.xml
 Name: Wurmspieß
 title: Wurmspieß

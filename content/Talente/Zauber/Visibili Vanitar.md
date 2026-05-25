@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 76a02844-e55b-4cec-bcd1-ce4ded223122
+ID: 9af6bd11-cdf1-4935-8e76-055112661503
 Quelle: datenbank.xml
 Name: Visibili Vanitar
 title: Visibili Vanitar
@@ -29,5 +29,5 @@ Dein Ziel wird unsichtbar. Kleidung und andere Gegenstände sind nicht betroffen
 - **Fertigkeiten:**
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

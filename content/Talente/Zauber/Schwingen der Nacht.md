@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 4c95cb99-a975-4d78-a283-4f043fdb5c21
+ID: 2b7b367b-3639-4798-95f3-8995d80fb963
 Quelle: datenbank.xml
 Name: Schwingen der Nacht
 title: Schwingen der Nacht
@@ -30,5 +30,5 @@ Du verwandelst dich in je nach Tradition in eine Riesenfledermaus (Kdf) oder ein
   - [[Vampirische Kräfte]]
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kinder der Nacht ODER Vorteil Tradition der Kinder der Finsternis]]
+  - Vorteil [[Tradition der Kinder der Nacht]] ODER Vorteil [[Tradition der Kinder der Finsternis]]
 - **Erlernen:** 40 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 1d41a02f-9f9c-495b-bfe6-7814c57597d9
+ID: b8e56e72-fdd9-48a6-9804-ad223ae50581
 Quelle: datenbank.xml
 Name: "Beiß auf Granit!"
 title: "Beiß auf Granit!"

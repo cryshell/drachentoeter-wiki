@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: ad0c9e5e-25ea-484b-bee3-b005285340f2
+ID: 9a882d2a-fc87-4792-bb9f-bdedbe78148d
 Quelle: datenbank.xml
 Name: Onager, schwer
 title: Onager, schwer

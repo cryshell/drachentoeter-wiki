@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 0ec3d43f-595f-4cba-b42c-49d7d3115a08
+ID: 47c216a5-451e-498b-83dd-069a06ff8373
 Quelle: datenbank.xml
 Name: Nebelleib
 title: Nebelleib
@@ -32,5 +32,5 @@ Du verwandelst dich in Nebel, während deine Ausrüstung zurückbleibt. In deine
   - [[Verwandlung]]
   - [[Wasser]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]]
 - **Erlernen:** 20 EP

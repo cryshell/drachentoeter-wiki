@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e287e042-8bf6-46f2-9111-d24719ab06ab
+ID: dff39b2e-6ccb-4485-80e7-652a87804120
 Quelle: datenbank.xml
 Name: "Stein wandle!"
 title: "Stein wandle!"
@@ -26,5 +26,5 @@ Du erschaffst einen Golem aus Holz, Stein oder anderen Materialien. Der Golem ha
 - **Fertigkeiten:**
   - [[Dämonisch]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 40 EP

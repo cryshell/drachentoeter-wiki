@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: a316919f-004d-4ebd-8933-3082de0e651b
+ID: d10d8036-4092-4836-9ac7-8158d8004a6a
 Quelle: datenbank.xml
 Name: Kriegslanze
 title: Kriegslanze

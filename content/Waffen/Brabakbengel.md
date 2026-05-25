@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: df7747e9-c600-4d4d-b6bb-355be8b69da1
+ID: ed1b9926-8f71-4b91-886b-e883efd9b3c8
 Quelle: datenbank.xml
 Name: Brabakbengel
 title: Brabakbengel

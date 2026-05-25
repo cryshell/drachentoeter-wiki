@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 9cfaa2ed-b79a-4ea4-804e-6613811e34fd
+ID: 5e356716-aaf0-4f5f-a110-7b73108b4f2d
 Quelle: datenbank.xml
 Name: Aerofugo Vakuum
 title: Aerofugo Vakuum
@@ -30,5 +30,5 @@ Du entfernst sämtliche Luft aus einem Bereich mit bis zu 4 Schritt Radius. Flam
   - [[Luft]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

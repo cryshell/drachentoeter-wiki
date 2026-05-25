@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 8d00f9b3-16e7-4782-b900-dad7433eb734
+ID: e08dbc3c-f373-475c-b6b3-cfaf92cb9470
 Quelle: datenbank.xml
 Name: Katzenaugen (Tiergeist)
 title: Katzenaugen (Tiergeist)
@@ -20,5 +20,5 @@ $talent:Katzenaugen$
   - [[Gaben des Odun]]
   - [[Gaben des Blutgeists]]
 - **Voraussetzungen:**
-  - Vorteil [[Tiergeist (Fischotter) ODER Vorteil Tiergeist (Löwe) ODER Vorteil Tiergeist (Wildkatze) ODER Vorteil Tiergeist (Panther)]]
+  - Vorteil [[Tiergeist (Fischotter)]] ODER Vorteil [[Tiergeist (Löwe)]] ODER Vorteil [[Tiergeist (Wildkatze)]] ODER Vorteil [[Tiergeist (Panther)]]
 - **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 2d020adb-eca2-49eb-9bfc-2b88234cf0b9
+ID: 35756f2a-ab1b-4338-a062-f3d9e6433d0d
 Quelle: datenbank.xml
 Name: Zauberzeichen
 title: Zauberzeichen
@@ -110,4 +110,4 @@ Bei Zauberzeichen handelt es sich um eine besondere Form der Magie, bei der eine
   - [[Zusatzzeichen Zielbeschränkung (passiv)]]
   - [[Zähne des Feuers]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Zibilja I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]] ODER Vorteil [[Tradition der Zibilja I]]

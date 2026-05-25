@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 6c74e82a-b8d7-40eb-bd42-aedd2f87e964
+ID: f6c5319a-06be-44a8-9ba2-993aea8af6fc
 Quelle: datenbank.xml
 Name: Movimento Dauerlauf
 title: Movimento Dauerlauf
@@ -28,5 +28,5 @@ Erhöht das DH des Ziels um +2 Punkte.
 - **Fertigkeiten:**
   - [[Eigenschaften]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

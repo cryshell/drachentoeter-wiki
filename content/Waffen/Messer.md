@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: a0d9074c-0b3e-4424-af07-e1ef713e97f5
+ID: 10461f51-733b-47cf-beb2-04c93ac3cfbe
 Quelle: datenbank.xml
 Name: Messer
 title: Messer

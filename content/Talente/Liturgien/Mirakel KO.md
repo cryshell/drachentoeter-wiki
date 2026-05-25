@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: f1edd738-b1c0-4a44-aaf3-0f9545657ff3
+ID: de6897ff-815f-408d-bf40-d879bc2edf1c
 Quelle: datenbank.xml
 Name: "Mirakel: KO"
 title: "Mirakel: KO"

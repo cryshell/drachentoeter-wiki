@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 925b65c3-441a-4801-8a95-0df74b68d4da
+ID: 83618fb9-d4fb-4515-a7da-d5c90e5dd5b5
 Quelle: datenbank.xml
 Name: Auge des Jägers
 title: Auge des Jägers
@@ -29,5 +29,5 @@ Du benennst eine Beute. Wahrnehmungs-, Jagd-, Überleben- und andere Proben, um 
   - [[Jagd]]
   - [[Hilfe der Sippe]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Firungeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Himmelswölfegeweihten I]]
+  - Vorteil [[Tradition der Firungeweihten I]] ODER Vorteil [[Tradition der Ifirngeweihten I]] ODER Vorteil [[Tradition der Himmelswölfegeweihten I]]
 - **Erlernen:** 20 EP

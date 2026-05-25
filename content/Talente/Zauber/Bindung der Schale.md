@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c4954be0-2ffa-4ca4-a774-59dd5c609803
+ID: 1a954d3f-4234-45ee-bf26-f0085d1930c1
 Quelle: datenbank.xml
 Name: Bindung der Schale
 title: Bindung der Schale
@@ -29,5 +29,5 @@ Du stellst eine enge magische Bindung zu deiner Schale der Alchemie her, welche 
   - [[Objekt]]
   - [[Schalenzauber]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]]
 - **Erlernen:** 10 EP

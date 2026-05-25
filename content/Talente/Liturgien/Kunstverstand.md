@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 0a3add85-bab4-43c8-92ff-73058e0dc9ab
+ID: d9f2cb74-f6d3-4378-ab87-f377043df298
 Quelle: datenbank.xml
 Name: Kunstverstand
 title: Kunstverstand
@@ -31,5 +31,5 @@ Du erhältst einen groben Eindruck von der Qualität und dem Verkaufswert des Ge
   - [[Heiliges Handwerk]]
   - [[List]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+  - Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Angroschgeweihten I]] ODER Vorteil [[Tradition der Phexgeweihten I]] ODER Vorteil [[Tradition der Graveshgeweihten I]]
 - **Erlernen:** 10 EP

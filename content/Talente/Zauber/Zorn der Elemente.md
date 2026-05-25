@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e413b562-5bd9-4155-a184-ebe3cb062dfa
+ID: c785bdb2-4092-4969-b1f6-08f2e48562b8
 Quelle: datenbank.xml
 Name: Zorn der Elemente
 title: Zorn der Elemente
@@ -44,5 +44,5 @@ Du schleuderst eine Handvoll des Elements, mit dem du den Zauber wirkst, auf dei
   - [[Luft]]
   - [[Wasser]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

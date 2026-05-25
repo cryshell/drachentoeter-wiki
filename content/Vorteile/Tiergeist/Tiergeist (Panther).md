@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 7f365292-651e-4746-b6ce-2668149f6cd7
+ID: d6187286-6bd1-44ab-a788-3236386f8739
 Quelle: datenbank.xml
 Name: Tiergeist (Panther)
 title: Tiergeist (Panther)

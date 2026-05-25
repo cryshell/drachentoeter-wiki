@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 37256d70-e21d-4311-af8f-4df04eb6ba1a
+ID: f1953477-d96e-446f-92c0-48b78311545d
 Quelle: datenbank.xml
 Name: Tradition der Avesgeweihten I
 title: Tradition der Avesgeweihten I

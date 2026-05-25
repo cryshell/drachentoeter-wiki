@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 0dc99b90-9833-4577-8348-9f0bc4f29d46
+ID: 0eb7c387-d411-4287-8e27-824bd520ee11
 Quelle: datenbank.xml
 Name: Auge des Händlers
 title: Auge des Händlers
@@ -29,5 +29,5 @@ Mit untrüglicher Sicherheit findest du ein besonderes Stück auf einem Markt, i
   - [[List]]
   - [[Einsicht]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Nandusgeweihten I ODER Vorteil Tradition der Phexgeweihten I]]
+  - Vorteil [[Tradition der Nandusgeweihten I]] ODER Vorteil [[Tradition der Phexgeweihten I]]
 - **Erlernen:** 10 EP

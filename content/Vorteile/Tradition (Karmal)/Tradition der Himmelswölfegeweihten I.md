@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 409d6eae-f8be-4804-b079-c9eec33439b4
+ID: 18d923d7-a343-4deb-88bf-274d9a11bccd
 Quelle: datenbank.xml
 Name: Tradition der Himmelswölfegeweihten I
 title: Tradition der Himmelswölfegeweihten I

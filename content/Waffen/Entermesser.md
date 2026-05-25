@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 6b9e1e39-a993-4b85-aa5e-d43807aff4a8
+ID: b9c05ef5-2c29-4385-bf6e-1a7e8e1588fd
 Quelle: datenbank.xml
 Name: Entermesser
 title: Entermesser

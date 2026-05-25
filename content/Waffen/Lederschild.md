@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 17b606ff-065f-4fda-85ba-5fe4cacb2f36
+ID: 740cb7f6-8cc9-4ccf-9229-f979f623c543
 Quelle: datenbank.xml
 Name: Lederschild
 title: Lederschild

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 3ecdbff1-0ae3-4e86-a0a6-f5c9123429e1
+ID: e5d2a7dc-ec3d-4f36-97ef-3e245e81e7e2
 Quelle: datenbank.xml
 Name: Reflectimago Spiegelschein
 title: Reflectimago Spiegelschein
@@ -32,5 +32,5 @@ Durch eine *Illusion* (Sicht) kannst du während der Wirkungsdauer bis zu 4 Obje
 - **Fertigkeiten:**
   - [[Illusion]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 10 EP

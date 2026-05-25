@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 045706a1-4c8d-45b7-a3d4-f65bf0d2a581
+ID: 6dff65b4-e1b0-48b8-8b04-531698e6f5ef
 Quelle: datenbank.xml
 Name: Band und Fessel
 title: Band und Fessel
@@ -27,5 +27,5 @@ Dein Opfer kann einen kreisförmigen Bereich von 4 Schritt Radius nicht verlasse
 - **Fertigkeiten:**
   - [[Einfluss]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

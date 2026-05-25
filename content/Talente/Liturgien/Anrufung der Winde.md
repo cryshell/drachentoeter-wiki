@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: ef9d6c8c-7635-4af9-9abf-7505b6caa107
+ID: fc2fa2ce-e476-4910-83c7-36a2130d1b8b
 Quelle: datenbank.xml
 Name: Anrufung der Winde
 title: Anrufung der Winde
@@ -33,5 +33,5 @@ Im Radius von 1 Meile kannst du den Wind auf einer Skala von windstill/leichte B
   - [[Seefahrt]]
   - [[Wind und Wogen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I]]
+  - Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Swafnirgeweihten I]] ODER Vorteil [[Tradition der Chr’Ssir’Ssrgeweihten I]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 8f959dd9-9679-46a7-9546-039c672668d8
+ID: 0af1c641-d92f-45f3-b498-924cbdc2fc8e
 Quelle: datenbank.xml
 Name: Holzschild, verstärkt
 title: Holzschild, verstärkt

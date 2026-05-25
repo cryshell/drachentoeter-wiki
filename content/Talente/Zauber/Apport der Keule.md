@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 5a7851db-d0b8-4af0-8bea-cdc8f1359ba1
+ID: 41e57b92-7e2d-49a6-90fd-3e0cee5589df
 Quelle: datenbank.xml
 Name: Apport der Keule
 title: Apport der Keule

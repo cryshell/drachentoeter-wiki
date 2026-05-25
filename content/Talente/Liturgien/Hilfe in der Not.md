@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 302eef84-5fed-4690-ba31-c6ca94780f6d
+ID: 5dd10e20-7c29-41f3-833d-82342bb0eaed
 Quelle: datenbank.xml
 Name: Hilfe in der Not
 title: Hilfe in der Not
@@ -30,5 +30,5 @@ Du erhältst einen groben Eindruck, in welcher Richtung sich eine gesuchte Perso
   - [[Wildnis]]
   - [[Fröhlicher Wanderer]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Ifirngeweihten I ODER Vorteil Tradition der Avesgeweihten I]]
+  - Vorteil [[Tradition der Ifirngeweihten I]] ODER Vorteil [[Tradition der Avesgeweihten I]]
 - **Erlernen:** 20 EP

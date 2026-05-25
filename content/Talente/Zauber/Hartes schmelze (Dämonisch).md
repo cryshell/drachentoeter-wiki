@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 7a7c5b00-0599-4fce-a363-812e0e5f47c9
+ID: c5243a76-2ea3-4e48-ad04-4ff5f65118dc
 Quelle: datenbank.xml
 Name: "Hartes schmelze! (Dämonisch)"
 title: "Hartes schmelze! (Dämonisch)"
@@ -25,5 +25,5 @@ $talent:Hartes schmelze!$
   - [[Objekt]]
   - [[Wasser]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

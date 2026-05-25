@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 76f3ee21-4ab8-4ab3-9214-7946702dfab3
+ID: a201ddaa-cb86-4e2a-b2b1-26f116809525
 Quelle: datenbank.xml
 Name: "Brenne toter Stoff!"
 title: "Brenne toter Stoff!"
@@ -32,5 +32,5 @@ Du entzündest ein magisches Feuer mit der Temperaturstufe *Glut*. Das Feuer hat
   - [[Feuer]]
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 20 EP

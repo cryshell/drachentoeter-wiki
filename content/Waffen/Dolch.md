@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 7a1e581c-ce23-4329-bbe0-a9457b1782c3
+ID: 54408abc-1469-44bf-af33-fabc0744995e
 Quelle: datenbank.xml
 Name: Dolch
 title: Dolch

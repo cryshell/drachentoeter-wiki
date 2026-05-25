@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 56b95150-5163-449d-8702-9eb586111017
+ID: 5040fb09-d663-4466-8e11-d9b04e9b42fb
 Quelle: datenbank.xml
 Name: Ignimorpho Feuerform
 title: Ignimorpho Feuerform
@@ -35,5 +35,5 @@ Du formst Feuer in die wundersamsten Formen. Die Probenschwierigkeit, Kosten und
   - [[Feuer]]
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Druiden I]]
+  - Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Druiden I]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 4677f0d5-9704-4096-93e6-de5fe1f81521
+ID: b2987691-8b65-4c0e-ab74-e0164c315079
 Quelle: datenbank.xml
 Name: Gardianum Zauberschild
 title: Gardianum Zauberschild
@@ -33,5 +33,5 @@ Du erschaffst eine unsichtbare und immaterielle Schutzkuppel mit einem Radius vo
   - [[Antimagie]]
   - [[Kraft]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

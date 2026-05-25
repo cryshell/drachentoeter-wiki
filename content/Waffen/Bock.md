@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 5d75bcb4-ddbb-4e21-b06e-7ce7b5c4b426
+ID: 26249274-4663-43c1-9859-f30ecde6515f
 Quelle: datenbank.xml
 Name: Bock
 title: Bock

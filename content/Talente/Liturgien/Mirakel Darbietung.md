@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 763494ad-f4a5-4f72-b49d-9fa99982d94d
+ID: bfa79757-2f00-44e3-9e0f-0fff56ab6639
 Quelle: datenbank.xml
 Name: "Mirakel: Darbietung"
 title: "Mirakel: Darbietung"

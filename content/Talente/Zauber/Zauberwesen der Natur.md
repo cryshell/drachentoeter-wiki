@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c97026da-8b19-4fb8-ab63-1aa7280d2aae
+ID: ce16c6fb-c8ae-4f89-a1f7-4b027dae69eb
 Quelle: datenbank.xml
 Name: Zauberwesen der Natur
 title: Zauberwesen der Natur
@@ -30,5 +30,5 @@ Du rufst ein Feenwesen herbei. Falls Feenwesen in deiner Region nicht heimisch s
 - **Fertigkeiten:**
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 10 EP

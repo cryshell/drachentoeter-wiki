@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 6c3b44d1-dde8-4776-95e0-6db32beef2b2
+ID: 97fafae3-ee11-4e00-8879-7374e4d54b3b
 Quelle: datenbank.xml
 Name: Feuer und Eis
 title: Feuer und Eis
@@ -31,5 +31,5 @@ Du kannst die Schale auf eine Temperatur zwischen niederhöllische Kälte und La
   - [[Feuer]]
   - [[Schalenzauber]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 6ae49051-1bcc-4b5d-bb3e-42a90c0bf966
+ID: af283540-3127-4547-8082-88a3262dd2af
 Quelle: datenbank.xml
 Name: Fluch der Wandlung
 title: Fluch der Wandlung
@@ -31,5 +31,5 @@ Das Ziel verwandelt sich im Laufe einer Woche in ein Tier, typischerweise in ein
   - [[Verwandlung]]
   - [[Geister des Zorns]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Achaz) I ODER Vorteil Tradition der Schamanen (Nivesen) I]]
+  - Vorteil [[Tradition der Schamanen (Achaz) I]] ODER Vorteil [[Tradition der Schamanen (Nivesen) I]]
 - **Erlernen:** 20 EP

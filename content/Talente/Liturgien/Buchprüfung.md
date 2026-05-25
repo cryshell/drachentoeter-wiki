@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 0907660a-1c69-4774-9789-14618b39f159
+ID: 8e955c34-7bd7-46b0-989c-ea46e430b27a
 Quelle: datenbank.xml
 Name: Buchprüfung
 title: Buchprüfung
@@ -31,5 +31,5 @@ Du findest sofort die interessante Stelle in einem Buch. Dies reduziert zudem na
   - [[List]]
   - [[Wissen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Nandusgeweihten I]]
+  - Vorteil [[Tradition der Hesindegeweihten I]] ODER Vorteil [[Tradition der Phexgeweihten I]] ODER Vorteil [[Tradition der Nandusgeweihten I]]
 - **Erlernen:** 10 EP

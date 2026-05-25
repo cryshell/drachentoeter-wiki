@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 9e1586b1-db98-425f-84bf-d8dd130323cb
+ID: e6c6f3d5-ab07-4610-9301-4ccda83fb5f3
 Quelle: datenbank.xml
 Name: Windhose
 title: Windhose
@@ -32,5 +32,5 @@ Du erzeugst einen Wirbelsturm, den du mit einer Geschwindigkeit von 4 Schritt pr
   - [[Luft]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

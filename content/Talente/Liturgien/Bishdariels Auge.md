@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 67a3334f-352b-4b67-9fb1-f150c2d7fca7
+ID: 1a2d9ec6-c708-4135-967c-7b1d2b081b5f
 Quelle: datenbank.xml
 Name: Bishdariels Auge
 title: Bishdariels Auge
@@ -33,5 +33,5 @@ Du erhältst einen Einblick in den Traum deines Ziels. Erfordert *Konzentration*
   - [[Einsicht]]
   - [[Schlaf]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borongeweihten I ODER Vorteil Tradition der Nandusgeweihten I]]
+  - Vorteil [[Tradition der Borongeweihten I]] ODER Vorteil [[Tradition der Nandusgeweihten I]]
 - **Erlernen:** 10 EP

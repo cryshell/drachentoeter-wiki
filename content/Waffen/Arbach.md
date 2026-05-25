@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 83dd04b4-e385-42ef-b617-e6da4f3af250
+ID: 04659a20-0224-4701-b8b7-f31cbb7d142e
 Quelle: datenbank.xml
 Name: Arbach
 title: Arbach

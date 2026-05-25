@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: 3a3eb4b3-c09f-44cb-ae3a-7f56d04c5a2c
+ID: a748616f-5ef2-4a83-a00f-c6a46646f341
 Quelle: datenbank.xml
 Name: Mehrere Ziele (M)
 title: Mehrere Ziele (M)
@@ -16,4 +16,4 @@ Der Zauber wirkt auf mehrere unterschiedliche Ziele in Reichweite. Die Kosten we
 
 - **Probe:** Zauber -4
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Tradition der Borbaradianer I]]

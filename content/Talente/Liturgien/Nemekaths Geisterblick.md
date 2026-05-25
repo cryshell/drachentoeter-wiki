@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e9e4ff86-2bea-4a01-8a44-afc0e807b5aa
+ID: 68a82662-9726-48f0-891f-4896ec2d590f
 Quelle: datenbank.xml
 Name: Nemekaths Geisterblick
 title: Nemekaths Geisterblick
@@ -32,5 +32,5 @@ Du siehst unsichtbare Geister, Dämonen oder Elementarwesen. Erlaubt *Aufrechter
   - [[Geister]]
   - [[Tod]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borongeweihten I ODER Vorteil Tradition der V’Sargeweihten I ODER Vorteil Tradition der Tairachgeweihten I]]
+  - Vorteil [[Tradition der Borongeweihten I]] ODER Vorteil [[Tradition der V’Sargeweihten I]] ODER Vorteil [[Tradition der Tairachgeweihten I]]
 - **Erlernen:** 10 EP

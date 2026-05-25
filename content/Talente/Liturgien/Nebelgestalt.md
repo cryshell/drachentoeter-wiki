@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 58f2c167-017a-4905-abca-be1c94734b7a
+ID: c1973691-553f-465c-8160-45e4141f61f0
 Quelle: datenbank.xml
 Name: Nebelgestalt
 title: Nebelgestalt
@@ -34,5 +34,5 @@ Du verwandelst dich mitsamt Ausrüstung in Nebel, dem weder Waffen noch Magie et
   - [[Nächtlicher Schatten]]
   - [[Wind und Wogen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Phexgeweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I ODER Vorteil Tradition der V’Sargeweihten I]]
+  - Vorteil [[Tradition der Phexgeweihten I]] ODER Vorteil [[Tradition der Chr’Ssir’Ssrgeweihten I]] ODER Vorteil [[Tradition der V’Sargeweihten I]]
 - **Erlernen:** 20 EP

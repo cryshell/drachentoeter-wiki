@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 2f698842-43dc-470b-a9fd-1cc10e09401d
+ID: bf34678f-1e5d-4359-b0b3-354715c97c8e
 Quelle: datenbank.xml
 Name: Vipernblick
 title: Vipernblick
@@ -27,5 +27,5 @@ Du verzauberst deine Augen, sodass sie in bis zu 1 Schritt Entfernung absolut hy
 - **Fertigkeiten:**
   - [[Einfluss]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

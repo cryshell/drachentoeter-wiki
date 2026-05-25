@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 8dd91de8-5103-4677-8cf2-0ff7df585d9d
+ID: 9ca3dbef-fd9f-4a2e-89c9-deaa2d7bf75b
 Quelle: datenbank.xml
 Name: Schutzkreis gegen Daimonide
 title: Schutzkreis gegen Daimonide
@@ -33,5 +33,5 @@ Das Zeichen wird auf einer beliebigen Fläche angebracht. Du ziehst einen Kreis 
   - [[Dämonisch]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]]
 - **Erlernen:** 10 EP

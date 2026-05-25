@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 88bf186e-8b38-4124-a8a2-430118e015e4
+ID: c1f9b01a-346c-4e55-8050-de17a2e6db1c
 Quelle: datenbank.xml
 Name: Kraft der Keule
 title: Kraft der Keule

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 04b35a46-3fc2-4a5b-ba22-52fe076c71bb
+ID: 3f6ed1da-eb25-4675-be04-9b9881f4b83a
 Quelle: datenbank.xml
 Name: Imperavi Handlungszwang
 title: Imperavi Handlungszwang
@@ -31,5 +31,5 @@ Dein Ziel muss einen einzigen Befehl von dir ausführen und darf währenddessen 
 - **Fertigkeiten:**
   - [[Einfluss]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 40 EP

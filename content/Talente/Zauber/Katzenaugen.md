@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 09078bed-9beb-430c-acce-1d205dea7c5b
+ID: 848dcaa7-9db1-4f86-8c30-70023be9853e
 Quelle: datenbank.xml
 Name: Katzenaugen
 title: Katzenaugen
@@ -28,5 +28,5 @@ Die Helligkeit steigt für dich um 1 Stufe. Bei grellem Licht bist du bis zum En
 - **Fertigkeiten:**
   - [[Eigenschaften]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 10 EP

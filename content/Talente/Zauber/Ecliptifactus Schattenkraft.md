@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b4397e9b-ac0b-4d20-a6f8-3e64edd58296
+ID: 5e938763-ff83-47ab-ad43-c042249552bd
 Quelle: datenbank.xml
 Name: Ecliptifactus Schattenkraft
 title: Ecliptifactus Schattenkraft
@@ -30,5 +30,5 @@ Dein Schatten kämpft an deiner Seite (WS 5, INI 6, GS 8, RW 1, VT 16, AT 6, TP 
   - [[Dämonisch]]
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

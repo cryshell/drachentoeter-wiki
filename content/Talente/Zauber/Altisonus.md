@@ -1,6 +1,6 @@
 ---
 Entit√§tstyp: Talent
-ID: d81d8f5e-783e-4669-849a-6993302a7cc3
+ID: 56b5d531-2e91-4ebf-81bc-3383ed854f9a
 Quelle: datenbank.xml
 Name: Altisonus
 title: Altisonus
@@ -28,5 +28,5 @@ Deine Stimme wird so laut, dass dich jeder in einem Radius von 32 Schritt gut h√
 - **Fertigkeiten:**
   - [[Eigenschaften]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: caa4ffb2-b1ee-4ca9-9f65-a48e58154be0
+ID: 1d4f5a03-7dba-4ca6-86fb-e3623dfd9952
 Quelle: datenbank.xml
 Name: Singendes Zeichen
 title: Singendes Zeichen
@@ -31,5 +31,5 @@ Das Zeichen wird in einem Durchmesser von 8 Fingern auf einem maximal schrankgro
   - [[Illusion]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Alchemisten I]]
+  - Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Alchemisten I]]
 - **Erlernen:** 10 EP

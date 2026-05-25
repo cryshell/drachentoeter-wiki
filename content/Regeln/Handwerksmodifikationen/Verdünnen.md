@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: 56b54cae-ebce-4807-8a3a-bcf499f2aedd
+ID: a592bc9d-01ad-468f-8472-05dd989949fe
 Quelle: datenbank.xml
 Name: Verdünnen
 title: Verdünnen
@@ -17,4 +17,4 @@ Verdoppelt die Anzahl der hergestellten Substanzen. Die Verbrauchsmaterialien st
 
 - **Probe:** Fertigung -4
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Transmutatoren III ODER Vorteil Tradition der Apotheker III ODER Vorteil Tradition der Giftmischer III]]
+  - Vorteil [[Tradition der Transmutatoren III]] ODER Vorteil [[Tradition der Apotheker III]] ODER Vorteil [[Tradition der Giftmischer III]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 96025f68-45f3-40d6-9ed5-788efd6c062f
+ID: 9d4a4753-eb0f-4f19-bca1-4d9c6b3a74ef
 Quelle: datenbank.xml
 Name: Borndorn
 title: Borndorn

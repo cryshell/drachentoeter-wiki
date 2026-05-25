@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c09d236c-67bb-4715-b3c3-2aa45db6cdff
+ID: a6f14164-5c94-4cf6-a1fc-029efcaaf428
 Quelle: datenbank.xml
 Name: Transmutare Körperform
 title: Transmutare Körperform
@@ -29,5 +29,5 @@ Du kannst das Aussehen deines Zieles nach Belieben ändern, musst dabei aber dab
 - **Fertigkeiten:**
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

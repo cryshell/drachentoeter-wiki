@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: cca9e507-8fa2-47f3-ad60-7c9295647c4e
+ID: 7feccc71-17cf-43d0-9927-654296d56a3b
 Quelle: datenbank.xml
 Name: Wanderkamel
 title: Wanderkamel

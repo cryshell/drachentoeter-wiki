@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 32e89039-e32c-4f69-9dbe-07b56f0e0341
+ID: d6d33d18-08aa-4bc7-8289-a39b49199c1d
 Quelle: datenbank.xml
 Name: Tradition der Asfalothpaktierer I
 title: Tradition der Asfalothpaktierer I

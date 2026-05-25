@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: a0189a82-2236-4930-96f8-6743ab918745
+ID: 377efcac-114d-4be8-b702-083ad3e01cfd
 Quelle: datenbank.xml
 Name: "Mirakel: CH"
 title: "Mirakel: CH"

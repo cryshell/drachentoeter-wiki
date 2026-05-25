@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 7fd4b82b-244c-439b-ae08-23caef6014cb
+ID: 577ca345-5e77-45de-aff5-7ece83385cd9
 Quelle: datenbank.xml
 Name: Tiergeist (Wildkatze)
 title: Tiergeist (Wildkatze)

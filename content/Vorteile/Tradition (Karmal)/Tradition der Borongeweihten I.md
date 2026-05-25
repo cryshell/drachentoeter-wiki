@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 3a1d6c09-0e79-4d6b-98ae-cd65ddea9402
+ID: 867d6b4a-a637-4c88-962a-6f17eabc0330
 Quelle: datenbank.xml
 Name: Tradition der Borongeweihten I
 title: Tradition der Borongeweihten I

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 88fd969e-4d99-4501-9256-18fcec43b140
+ID: 71f424d5-4231-4636-ab9f-218fde28e2f5
 Quelle: datenbank.xml
 Name: "Dämonische Stärkung: FF"
 title: "Dämonische Stärkung: FF"

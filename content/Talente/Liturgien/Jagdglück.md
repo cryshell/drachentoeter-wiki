@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 75de2957-dc7e-4133-8299-3ee5fe82bf60
+ID: adbe893e-32d4-463a-9b25-daf28fd0e1e5
 Quelle: datenbank.xml
 Name: Jagdglück
 title: Jagdglück
@@ -32,5 +32,5 @@ Im Laufe der Wirkungsdauer findest du leichter Tiere, die firungefällig erjagt 
   - [[Jagd]]
   - [[Hilfe der Sippe]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Firungeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Himmelswölfegeweihten I]]
+  - Vorteil [[Tradition der Firungeweihten I]] ODER Vorteil [[Tradition der Ifirngeweihten I]] ODER Vorteil [[Tradition der Himmelswölfegeweihten I]]
 - **Erlernen:** 10 EP

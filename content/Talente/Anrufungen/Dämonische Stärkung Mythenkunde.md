@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 7c3c478c-82ca-4ae6-9a58-4b54627f992d
+ID: 52ee1d6a-9d25-4af3-9e76-80245f516749
 Quelle: datenbank.xml
 Name: "Dämonische Stärkung: Mythenkunde"
 title: "Dämonische Stärkung: Mythenkunde"

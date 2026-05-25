@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: a316af6c-f981-4805-924a-304b99d192a3
+ID: b81112a0-bbe7-404d-93ff-9e239a2b24fb
 Quelle: datenbank.xml
 Name: Aquasphaero
 title: Aquasphaero
@@ -30,5 +30,5 @@ Ein Wasserball fügt in einem Radius von 3 Schritt 4W6 TP zu und verursacht *Ert
 - **Fertigkeiten:**
   - [[Wasser]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

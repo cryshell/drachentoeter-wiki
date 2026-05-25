@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 033de1de-1e2b-4004-9c1a-1d4c817ee341
+ID: cabb2829-1854-4c07-931f-4215c5f34fb2
 Quelle: datenbank.xml
 Name: Fluch der Götter (Kor)
 title: Fluch der Götter (Kor)

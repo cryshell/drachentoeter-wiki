@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: bfb00529-cec4-4a82-9fd5-903b4f04c529
+ID: a711c7d6-02f4-4dad-9ab3-ca620abb522d
 Quelle: datenbank.xml
 Name: "Abu al'Mada"
 title: "Abu al'Mada"

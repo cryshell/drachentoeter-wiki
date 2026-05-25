@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 8a93e892-6edf-40ed-985c-8c77afeea44a
+ID: 6aad2b47-f38a-40e3-81a6-49262fa77b8a
 Quelle: datenbank.xml
 Name: Kälbchensegen
 title: Kälbchensegen
@@ -31,5 +31,5 @@ Das neugeborene Tier ist immun gegen Krankheiten.
   - [[Neubeginn]]
   - [[Wachstum]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Perainegeweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der Himmelswölfegeweihten I]]
+  - Vorteil [[Tradition der Perainegeweihten I]] ODER Vorteil [[Tradition der Tsageweihten I]] ODER Vorteil [[Tradition der Ssad’Huargeweihten I]] ODER Vorteil [[Tradition der Himmelswölfegeweihten I]]
 - **Erlernen:** 0 EP

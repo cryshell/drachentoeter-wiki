@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 00e5705f-66f5-459a-a090-8f07028a69ec
+ID: f6a913b5-8537-4e67-bd97-53b90bd02f26
 Quelle: datenbank.xml
 Name: Zuflucht finden
 title: Zuflucht finden
@@ -35,5 +35,5 @@ Du findest intuitiv den Weg zur nächsten sicheren Lagerstätte. Lager bereiten-
   - [[Sichere Heimkehr]]
   - [[Wildnis]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Firungeweihten I ODER Vorteil Tradition der Ifirngeweihten I ODER Vorteil Tradition der Traviageweihten I ODER Vorteil Tradition der Himmelswölfegeweihten I]]
+  - Vorteil [[Tradition der Avesgeweihten I]] ODER Vorteil [[Tradition der Firungeweihten I]] ODER Vorteil [[Tradition der Ifirngeweihten I]] ODER Vorteil [[Tradition der Traviageweihten I]] ODER Vorteil [[Tradition der Himmelswölfegeweihten I]]
 - **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b98abfcd-01e9-4977-b992-6bddeae24f12
+ID: 78758ed8-e20b-4060-b4d5-61d0aba5670c
 Quelle: datenbank.xml
 Name: Projektimago Ebenbild
 title: Projektimago Ebenbild
@@ -29,5 +29,5 @@ Du lässt eine *Illusion* (Sicht und Gehör) deiner selbst an einem Ort erschein
   - [[Illusion]]
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 10 EP

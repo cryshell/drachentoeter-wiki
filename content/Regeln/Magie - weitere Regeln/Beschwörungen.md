@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: 623feb1b-18ee-48d6-9772-17ecce4e6ad9
+ID: 419605dc-84de-46c5-b472-9918e4b024f6
 Quelle: datenbank.xml
 Name: Beschwörungen
 title: Beschwörungen

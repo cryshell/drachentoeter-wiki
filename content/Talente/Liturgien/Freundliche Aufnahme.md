@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c8202c12-2179-4269-a2ef-274e7fc4b2b1
+ID: 892eaba5-6f9d-47e7-8908-03b7becd07f8
 Quelle: datenbank.xml
 Name: Freundliche Aufnahme
 title: Freundliche Aufnahme
@@ -30,5 +30,5 @@ Du findest den direktesten Weg zum nächsten bewohnten Heim im Radius von 16 Mei
   - [[Fröhlicher Wanderer]]
   - [[Sichere Heimkehr]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Traviageweihten I]]
+  - Vorteil [[Tradition der Avesgeweihten I]] ODER Vorteil [[Tradition der Traviageweihten I]]
 - **Erlernen:** 10 EP

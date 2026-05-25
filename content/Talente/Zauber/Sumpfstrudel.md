@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 065dfe61-383a-4279-8939-6eab60423230
+ID: d188adf5-dc16-4185-a2ea-b5977b3e2f58
 Quelle: datenbank.xml
 Name: Sumpfstrudel
 title: Sumpfstrudel
@@ -31,5 +31,5 @@ Im Humusboden bildet sich ein morastiger Strudel mit einem Radius von 16 Schritt
   - [[Humus]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

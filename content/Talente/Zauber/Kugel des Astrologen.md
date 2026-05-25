@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: bb83cc6d-849b-4591-95e7-e4a90c20e774
+ID: fe5f882c-75de-4756-bb2f-4ad9b420ff3f
 Quelle: datenbank.xml
 Name: Kugel des Astrologen
 title: Kugel des Astrologen
@@ -29,5 +29,5 @@ Voraussetzungen: Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der
   - [[Hellsicht]]
   - [[Kugelzauber]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 10 EP

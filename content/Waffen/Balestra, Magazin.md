@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: ad8d8f49-ad05-48e8-af1b-5f61cbdcbaa8
+ID: 123e8561-f96b-45a1-80d2-b2cb763b9bb4
 Quelle: datenbank.xml
 Name: Balestra, Magazin
 title: Balestra, Magazin

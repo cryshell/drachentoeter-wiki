@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: ed3aa99d-526b-4369-bd45-daccc2caa741
+ID: 5665de34-acbc-42c6-a714-b7e8036bab7b
 Quelle: datenbank.xml
 Name: Liaiellas Orakel
 title: Liaiellas Orakel
@@ -27,5 +27,5 @@ Du erfährst, ob die Seele eines Verschollenen von Liaiella in Borons Hallen (od
 - **Fertigkeiten:**
   - [[Seefahrt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I]]
+  - Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Swafnirgeweihten I]]
 - **Erlernen:** 0 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b24305e2-b34e-42c5-af83-7dd784d38554
+ID: d64611c4-9915-4574-a341-b09ba616f0b6
 Quelle: datenbank.xml
 Name: Schwarzer Schrecken
 title: Schwarzer Schrecken
@@ -29,5 +29,5 @@ Das Opfer leidet an einer Angst vor einer Farbe oder Form deiner Wahl, meist wir
 - **Fertigkeiten:**
   - [[Einfluss]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 10 EP

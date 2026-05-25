@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 352e777b-34ea-4fbd-8096-c655ce97f22e
+ID: 129f23e7-2937-4a0c-938d-b7a45ac1d4f1
 Quelle: datenbank.xml
 Name: Wundersame Verständigung
 title: Wundersame Verständigung
@@ -33,5 +33,5 @@ Du verfügst über eine Sprachkenntnis deiner Wahl, außer Zeichensprachen oder 
   - [[List]]
   - [[Wissen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Hesindegeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Phexgeweihten I]]
+  - Vorteil [[Tradition der Avesgeweihten I]] ODER Vorteil [[Tradition der Hesindegeweihten I]] ODER Vorteil [[Tradition der Nandusgeweihten I]] ODER Vorteil [[Tradition der Phexgeweihten I]]
 - **Erlernen:** 20 EP

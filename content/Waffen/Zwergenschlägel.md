@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: e4ff0687-ba6d-4cc6-97ef-41a9dfb49f0f
+ID: 3da07c07-329d-4720-b1d3-f881551a21e8
 Quelle: datenbank.xml
 Name: Zwergenschlägel
 title: Zwergenschlägel

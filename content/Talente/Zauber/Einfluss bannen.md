@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 2d5d2ae4-22a2-4681-a96f-ee7db599d229
+ID: 4f805cb4-f1ae-4b9f-84cc-6bfa4aafaf3d
 Quelle: datenbank.xml
 Name: Einfluss bannen
 title: Einfluss bannen
@@ -32,5 +32,5 @@ Magie unterdrücken (Probenschwierigkeit 12, 16 Aktionen, Zone, Wirkungsdauer 1 
   - [[Antimagie]]
   - [[Einfluss]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

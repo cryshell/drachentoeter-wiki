@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: ac43ecb3-1b45-41c9-9aa5-deb282addd8a
+ID: 2cdc3fcb-dfc8-410b-9579-5294b36de2ac
 Quelle: datenbank.xml
 Name: Balestra
 title: Balestra

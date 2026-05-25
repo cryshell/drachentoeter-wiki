@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 6ea3df22-b68c-461e-8a73-07c255bb1170
+ID: 1c0e414d-a915-41e8-a8ae-1c78e9083316
 Quelle: datenbank.xml
 Name: Wille zur Wahrheit
 title: Wille zur Wahrheit
@@ -29,5 +29,5 @@ Jeder in einem Radius von 16 Schritt hält sich an die Wahrheit. Versuche zu Lü
   - [[Einsicht]]
   - [[Ordnung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Nandusgeweihten I ODER Vorteil Tradition der Praiosgeweihten I]]
+  - Vorteil [[Tradition der Nandusgeweihten I]] ODER Vorteil [[Tradition der Praiosgeweihten I]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 0f7632a7-9c5e-457a-8994-e84fe8338714
+ID: 4eddb330-f922-43c0-9576-649f67011685
 Quelle: datenbank.xml
 Name: Pike
 title: Pike

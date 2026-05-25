@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 51246319-7b06-4b7a-87b3-40d4aa50e2d1
+ID: 81be2575-06c6-4ae1-b0ef-644c3ff61572
 Quelle: datenbank.xml
 Name: Nekropathia Seelenreise
 title: Nekropathia Seelenreise
@@ -29,5 +29,5 @@ Du nimmst Kontakt mit einer Seele in Borons Hallen auf. Du kannst mit ihr sprech
 - **Fertigkeiten:**
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]]
 - **Erlernen:** 20 EP

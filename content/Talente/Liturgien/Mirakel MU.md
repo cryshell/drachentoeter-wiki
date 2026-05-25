@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: a51eb141-f6d2-4828-ae52-ae7925002621
+ID: 6d3e1e2c-6717-4310-870a-13abeff5682e
 Quelle: datenbank.xml
 Name: "Mirakel: MU"
 title: "Mirakel: MU"

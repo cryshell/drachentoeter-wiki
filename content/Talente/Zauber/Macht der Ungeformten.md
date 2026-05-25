@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: bcec0ac6-e617-4177-a687-1f282cc8c312
+ID: e1f8e7fe-d77d-4b24-ab15-eedc13889506
 Quelle: datenbank.xml
 Name: Macht der Ungeformten
 title: Macht der Ungeformten
@@ -32,5 +32,5 @@ Ruft einen Dämon herbei, der in deiner unmittelbaren Nähe erscheint. Schwierig
   - [[Geister des Zorns]]
   - [[Geister rufen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Achaz) I ODER Vorteil Tradition der Schamanen (Orks) I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+  - Vorteil [[Tradition der Schamanen (Achaz) I]] ODER Vorteil [[Tradition der Schamanen (Orks) I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]]
 - **Erlernen:** 40 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 37e28c28-3832-4a80-9a37-11439ce4532b
+ID: c836d7df-1e68-4477-9b35-d073a853e3d3
 Quelle: datenbank.xml
 Name: Sternenspur
 title: Sternenspur
@@ -32,5 +32,5 @@ Du kannst mit einer einfachen Berührung einen leuchtenden Stern als Markierung 
   - [[Nächtlicher Schatten]]
   - [[Stiller Wanderer]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Nandusgeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Avesgeweihten I]]
+  - Vorteil [[Tradition der Nandusgeweihten I]] ODER Vorteil [[Tradition der Phexgeweihten I]] ODER Vorteil [[Tradition der Avesgeweihten I]]
 - **Erlernen:** 10 EP

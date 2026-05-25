@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 73026aa1-de9d-40f4-8684-5ec6eed578c7
+ID: a0259640-3507-4c18-807d-5dc473e55991
 Quelle: datenbank.xml
 Name: Illusion auflösen
 title: Illusion auflösen
@@ -32,5 +32,5 @@ Magie unterdrücken (Probenschwierigkeit 12, 16 Aktionen, Zone, Wirkungsdauer 1 
   - [[Antimagie]]
   - [[Illusion]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 10 EP

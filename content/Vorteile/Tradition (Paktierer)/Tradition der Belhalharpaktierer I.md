@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 9c9c7315-3bd8-4e8e-94d9-82d0ca416fb3
+ID: bd40f7e0-5b25-4b85-a959-a6e132351833
 Quelle: datenbank.xml
 Name: Tradition der Belhalharpaktierer I
 title: Tradition der Belhalharpaktierer I

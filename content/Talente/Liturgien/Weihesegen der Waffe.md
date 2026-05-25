@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 7d641cb6-3c9e-44c3-9ae4-d102c832bfe7
+ID: 5959dc06-d270-465f-97b5-0e1c6f7d98b2
 Quelle: datenbank.xml
 Name: Weihesegen der Waffe
 title: Weihesegen der Waffe
@@ -34,5 +34,5 @@ Du weihst bis zu vier Nahkampfwaffen einem Radius von 4 Schritt.
   - [[Gutes Gold]]
   - [[Heerführung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Rondrageweihten I ODER Vorteil Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I]]
+  - Vorteil [[Tradition der Rondrageweihten I]] ODER Vorteil [[Tradition der Korgeweihten I]] ODER Vorteil [[Tradition der Kr’Thon’Chhgeweihten I]]
 - **Erlernen:** 20 EP

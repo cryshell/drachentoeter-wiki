@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 4cc37f6c-c656-46b6-b1fc-974d1ecc1ac3
+ID: 1991906b-18cf-4f18-9c6e-d0dd8682c50d
 Quelle: datenbank.xml
 Name: Kusliker Lamellar
 title: Kusliker Lamellar

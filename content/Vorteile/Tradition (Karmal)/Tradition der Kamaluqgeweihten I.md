@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: b70bd995-2920-4311-8b9c-b367b380681a
+ID: 5fbd4b2a-e2ab-4009-9425-f0e6e26096e7
 Quelle: datenbank.xml
 Name: Tradition der Kamaluqgeweihten I
 title: Tradition der Kamaluqgeweihten I

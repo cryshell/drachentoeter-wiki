@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e11228c9-c7ea-4d1f-8841-7dfafe1d4e15
+ID: e4c8e348-27cd-4393-ac6b-9f73fadfcf0d
 Quelle: datenbank.xml
 Name: "Mirakel: Überleben"
 title: "Mirakel: Überleben"

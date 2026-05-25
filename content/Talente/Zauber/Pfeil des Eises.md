@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 39e761d8-0938-42ea-b146-5798cdeb0e8c
+ID: 4dc023d4-8411-45a3-87fe-fee92febeb61
 Quelle: datenbank.xml
 Name: Pfeil des Eises
 title: Pfeil des Eises
@@ -32,5 +32,5 @@ Du verzauberst einen Pfeil (oder Bolzen oder Wurfwaffe), sodass er im Flug die M
   - [[Eis]]
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

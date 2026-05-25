@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 548a3cd5-9ed1-4bea-b901-832151f6afe3
+ID: 2edf7b79-4dd9-4ded-ae6e-ac7d1fd68792
 Quelle: datenbank.xml
 Name: Große Gier
 title: Große Gier
@@ -30,5 +30,5 @@ Du erweckst im Ziel ein dringendes Bedürfnis nach einem Gegenstand, einer Handl
 - **Fertigkeiten:**
   - [[Einfluss]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Hexen I]]
 - **Erlernen:** 20 EP

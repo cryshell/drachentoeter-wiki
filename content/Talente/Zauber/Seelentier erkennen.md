@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 8e64142b-698b-4b04-a3d6-d1f621f10e75
+ID: 93d9f197-1c25-445c-9853-75000ff86c8e
 Quelle: datenbank.xml
 Name: Seelentier erkennen
 title: Seelentier erkennen
@@ -27,5 +27,5 @@ Du erkennst das Seelentier deines Zieles. Wenn dir das Tier und seine assoziiert
 - **Fertigkeiten:**
   - [[Hellsicht]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Elfen I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Elfen I]]
 - **Erlernen:** 20 EP

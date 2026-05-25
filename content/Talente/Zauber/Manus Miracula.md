@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 47580b69-d2c3-49fb-9c0a-6fab7e991d5e
+ID: 1f5f6194-6f3f-44be-ab99-95f8b34873d1
 Quelle: datenbank.xml
 Name: Manus Miracula
 title: Manus Miracula
@@ -29,5 +29,5 @@ Du erzeugst eine telekinetische Verbindung zwischen deiner Hand und einem Gegens
 - **Fertigkeiten:**
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Shakagra I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 9c1dec45-cfbf-4d13-8c44-bf14424754c3
+ID: 0cb10c5c-1d4d-40d2-9a3f-da9313ee5c30
 Quelle: datenbank.xml
 Name: Objectofixo
 title: Objectofixo
@@ -33,5 +33,5 @@ Du fixierst je nach AsP-Aufwand einen Gegenstand von maximal 1/2/4/... Stein auf
   - [[Objekt]]
   - [[Temporal]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

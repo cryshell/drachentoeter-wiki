@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 9585380a-67ae-41f8-800c-dc0c5ac699f6
+ID: a2f5509a-cb2b-45e7-9820-f2d5cdb90614
 Quelle: datenbank.xml
 Name: "Mirakel: Schusswaffen"
 title: "Mirakel: Schusswaffen"

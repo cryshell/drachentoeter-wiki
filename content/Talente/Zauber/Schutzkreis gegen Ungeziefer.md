@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 6079f07f-fc38-479d-a193-97f300914bae
+ID: adf53940-a218-4dfd-838b-acc814664a04
 Quelle: datenbank.xml
 Name: Schutzkreis gegen Ungeziefer
 title: Schutzkreis gegen Ungeziefer
@@ -30,5 +30,5 @@ Das Zeichen wird auf einer beliebigen Fläche angebracht. Du ziehst einen Kreis 
   - [[Einfluss]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Alchemisten I]]
+  - Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Alchemisten I]]
 - **Erlernen:** 10 EP

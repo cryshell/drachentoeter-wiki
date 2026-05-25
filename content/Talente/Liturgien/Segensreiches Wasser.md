@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 015ae74d-5fac-4eb9-a441-22d63d70dcc2
+ID: 707b3963-3c3a-4872-b85c-bca10ba0f334
 Quelle: datenbank.xml
 Name: Segensreiches Wasser
 title: Segensreiches Wasser
@@ -30,5 +30,5 @@ Efferdgeweihte rufen Efferds Wasserkrug, Perainegeweihte den Krug der Heiligen L
   - [[Flüsse und Quellen]]
   - [[Wachstum]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Perainegeweihten I]]
+  - Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Perainegeweihten I]]
 - **Erlernen:** 40 EP

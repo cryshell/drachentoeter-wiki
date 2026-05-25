@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 278692a5-1e43-475d-a35a-a5301c03918e
+ID: 62b25a6d-8b84-4e9e-a0a6-68d0368a638c
 Quelle: datenbank.xml
 Name: Nihilogravo Schwerelos
 title: Nihilogravo Schwerelos
@@ -32,5 +32,5 @@ Du hebst in einem Radius von 4 Schritt die Schwerkraft auf. Nach unten wird die 
 - **Fertigkeiten:**
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 40 EP

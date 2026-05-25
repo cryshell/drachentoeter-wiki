@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 65fbe159-da8c-4b77-bb91-3bb3f3499fdc
+ID: 939c2eb7-acd4-4caa-a739-64de0a8bd66e
 Quelle: datenbank.xml
 Name: Geister austreiben
 title: Geister austreiben
@@ -30,5 +30,5 @@ Du zeichnest ein Pentagramm, durch das ein Geist deiner Wahl verschwindet. Er ka
   - [[Antimagie]]
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]]
 - **Erlernen:** 10 EP

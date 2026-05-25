@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 90616090-95fd-498c-ab02-529f4b8d3b66
+ID: c23954a8-5621-45c6-b4cb-2b8a2880e36f
 Quelle: datenbank.xml
 Name: Ruf der Ferne
 title: Ruf der Ferne
@@ -30,5 +30,5 @@ Du segnest ein von dir gefertigtes Glöckchen oder Musikinstrument und legst dab
   - [[Fröhlicher Wanderer]]
   - [[Heiliges Handwerk]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Avesgeweihten I]]
+  - Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Angroschgeweihten I]] ODER Vorteil [[Tradition der Avesgeweihten I]]
 - **Erlernen:** 10 EP

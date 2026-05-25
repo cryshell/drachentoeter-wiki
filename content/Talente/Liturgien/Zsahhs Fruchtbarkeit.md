@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 5b1799c4-2c66-4660-a8f6-ca070bce210e
+ID: d6014818-2f1a-4e16-b974-79efee1b77f8
 Quelle: datenbank.xml
 Name: Zsahhs Fruchtbarkeit
 title: Zsahhs Fruchtbarkeit
@@ -21,5 +21,5 @@ $talent:Tsas Fruchtbarkeit$
 - **Fertigkeiten:**
   - [[Fruchtbarkeit und Wiedergeburt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der Zsahhgeweihten I]]
+  - Vorteil [[Tradition der Ssad’Huargeweihten I]] ODER Vorteil [[Tradition der Zsahhgeweihten I]]
 - **Erlernen:** 0 EP

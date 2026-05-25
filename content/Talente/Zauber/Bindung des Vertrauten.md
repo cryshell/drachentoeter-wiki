@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e4349185-7d97-42ca-bfc1-c95367cf07c1
+ID: 302fdb64-b669-4624-a8a1-355bf74cb207
 Quelle: datenbank.xml
 Name: Bindung des Vertrauten
 title: Bindung des Vertrauten
@@ -31,5 +31,5 @@ Du stellst eine enge magische Bindung zu deinem Vertrautentier her. Das Tier kan
   - [[Verständigung]]
   - [[Vertrautenmagie]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Zibilja I]]
+  - Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Schamanen (Goblins) I]] ODER Vorteil [[Tradition der Zibilja I]]
 - **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 4be29d24-6c6c-499f-9585-fef546613e33
+ID: 89d18efe-5d7c-4c4e-a30e-019772fd2e3e
 Quelle: datenbank.xml
 Name: "Mirakel: Seefahrt"
 title: "Mirakel: Seefahrt"

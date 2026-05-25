@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 8115a335-2015-4d13-a0ff-db9c0404c27b
+ID: 570011f7-29fb-46b4-9ea0-57415eff4ba5
 Quelle: datenbank.xml
 Name: Hauch des Elements
 title: Hauch des Elements

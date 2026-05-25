@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: aa921b17-8df8-4a45-9d74-f48e3c0eca6e
+ID: 0f47c622-3e78-4e93-aa28-1287c3d15512
 Quelle: datenbank.xml
 Name: Drachenzahn
 title: Drachenzahn

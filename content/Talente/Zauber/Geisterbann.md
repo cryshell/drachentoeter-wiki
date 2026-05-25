@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 7802ab4d-a783-4a5c-ac58-f2c9212cdd68
+ID: 2eb58532-951f-4ac1-8c71-da0d9fa1271a
 Quelle: datenbank.xml
 Name: Geisterbann
 title: Geisterbann
@@ -29,5 +29,5 @@ Du bannst einen Zauber auf deinem Ziel, wenn keine gAsP in ihn geflossen sind.
   - [[Antimagie]]
   - [[Geister vertreiben]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Nivesen) I ODER Vorteil Tradition der Schamanen (Orks) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+  - Vorteil [[Tradition der Schamanen (Ferkina) I]] ODER Vorteil [[Tradition der Schamanen (Gjalsker) I]] ODER Vorteil [[Tradition der Schamanen (Goblins) I]] ODER Vorteil [[Tradition der Schamanen (Nivesen) I]] ODER Vorteil [[Tradition der Schamanen (Orks) I]] ODER Vorteil [[Tradition der Schamanen (Trollzacker) I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]]
 - **Erlernen:** 20 EP

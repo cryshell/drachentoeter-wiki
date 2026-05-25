@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 236e7041-6b8e-4087-a00c-0c0fc68e564d
+ID: 5296d41a-0a42-4f13-9d0f-a648ee96690b
 Quelle: datenbank.xml
 Name: Leichtes Streitross
 title: Leichtes Streitross

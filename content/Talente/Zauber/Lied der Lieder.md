@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 919d7b6c-21ba-42b0-b4bf-3067a194d947
+ID: 3b448f1e-6439-4b88-bb65-3805594309f8
 Quelle: datenbank.xml
 Name: Lied der Lieder
 title: Lied der Lieder
@@ -29,5 +29,5 @@ Alle Humanoide, die sich während der Wirkungsdauer in einem Radius von 4 Schrit
   - [[Einfluss]]
   - [[Elfenlieder]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

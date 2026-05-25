@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 37af869f-3007-4360-890f-8036f5e5d7d1
+ID: 6c0adc8c-74b5-4ed5-b7eb-8c6f0e505a9b
 Quelle: datenbank.xml
 Name: Schrifttum ferner Lande
 title: Schrifttum ferner Lande
@@ -32,5 +32,5 @@ Du verfügst über eine Schriftkenntnis deiner Wahl. Erlaubt *Aufrechterhalten*.
   - [[Veränderung]]
   - [[Wissen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der H’Szintgeweihten I ODER Vorteil Tradition der Nandusgeweihten I]]
+  - Vorteil [[Tradition der Hesindegeweihten I]] ODER Vorteil [[Tradition der Phexgeweihten I]] ODER Vorteil [[Tradition der H’Szintgeweihten I]] ODER Vorteil [[Tradition der Nandusgeweihten I]]
 - **Erlernen:** 20 EP

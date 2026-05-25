@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 2e4b7e95-5349-4a50-b4eb-3532c5f33c45
+ID: baeca5b5-e35d-4e1f-b541-8903a3fd9d5c
 Quelle: datenbank.xml
 Name: Gesang der Delphine
 title: Gesang der Delphine
@@ -29,5 +29,5 @@ Das Ziel erhält den Vorteil Tierempathie (Delphine für Eff oder Pottwale für 
 - **Fertigkeiten:**
   - [[Wind und Wogen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I]]
+  - Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Swafnirgeweihten I]]
 - **Erlernen:** 10 EP

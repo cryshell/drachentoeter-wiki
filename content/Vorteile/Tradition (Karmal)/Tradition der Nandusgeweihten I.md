@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 88355774-8080-4a40-baa3-e99aad18734d
+ID: a240c081-6b12-43a8-8ddb-d5ab26eb2bb9
 Quelle: datenbank.xml
 Name: Tradition der Nandusgeweihten I
 title: Tradition der Nandusgeweihten I

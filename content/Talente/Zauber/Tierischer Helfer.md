@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 5fdef0d0-e23d-4b0c-9b71-8dc27f433445
+ID: d3618b46-8430-4d32-9145-92083e12a56c
 Quelle: datenbank.xml
 Name: Tierischer Helfer
 title: Tierischer Helfer
@@ -25,5 +25,5 @@ $talent:Tiergedanken$
   - [[Geister rufen]]
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Trollzacker) I]]
+  - Vorteil [[Tradition der Schamanen (Ferkina) I]] ODER Vorteil [[Tradition der Schamanen (Gjalsker) I]] ODER Vorteil [[Tradition der Schamanen (Trollzacker) I]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: c1231a52-599e-46c9-9d25-b5d8a7f39179
+ID: 7b605e34-5a5f-46df-9819-294224436424
 Quelle: datenbank.xml
 Name: Veteranenhand
 title: Veteranenhand

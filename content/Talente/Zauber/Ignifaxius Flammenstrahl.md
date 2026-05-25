@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: be75c461-7055-413c-964c-8e124ca294fe
+ID: 5cd1b38f-3939-40fe-b85d-fa6637d29636
 Quelle: datenbank.xml
 Name: Ignifaxius Flammenstrahl
 title: Ignifaxius Flammenstrahl
@@ -31,5 +31,5 @@ Eine Flammenlanze fügt dem Ziel 2W6 TP zu und verursacht *Nachbrennen*. *Ballis
 - **Fertigkeiten:**
   - [[Feuer]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Geoden I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Geoden I]]
 - **Erlernen:** 20 EP

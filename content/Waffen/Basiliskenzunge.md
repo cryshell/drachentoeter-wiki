@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 4d6f6c33-d094-489e-8e6d-6d84fa5d1307
+ID: e72d3e46-c007-44f0-af12-e27829cdf28c
 Quelle: datenbank.xml
 Name: Basiliskenzunge
 title: Basiliskenzunge

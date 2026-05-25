@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 89976030-dc6d-4abb-a2f5-825662190dc5
+ID: f84ea7f4-5483-4c96-8c30-43813ae87cf7
 Quelle: datenbank.xml
 Name: Sprechende Symbole
 title: Sprechende Symbole
@@ -28,5 +28,5 @@ Du erhältst einen groben Eindruck über die Bedeutung eines Symbols.
 - **Fertigkeiten:**
   - [[Wissen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der Nandusgeweihten I]]
+  - Vorteil [[Tradition der Hesindegeweihten I]] ODER Vorteil [[Tradition der Nandusgeweihten I]]
 - **Erlernen:** 10 EP

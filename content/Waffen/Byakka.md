@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 08bd76ea-f59f-4734-a244-3a1ee60b55c5
+ID: 6471bf3f-01b7-4408-8bcc-ec5cb72c28f9
 Quelle: datenbank.xml
 Name: Byakka
 title: Byakka

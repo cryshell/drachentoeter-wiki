@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: a6ba75f3-19c3-4b18-8ae6-44b289380934
+ID: dd0efc1d-d27b-497d-a2f1-82d034da3720
 Quelle: datenbank.xml
 Name: Elementarer Sekundäreffekt
 title: Elementarer Sekundäreffekt
@@ -17,4 +17,4 @@ Voraussetzungen: Vorteil Geweiht I ODER Vorteil Zauberer I ODER Vorteil Paktiere
 ---
 
 - **Voraussetzungen:**
-  - Vorteil [[Geweiht I ODER Vorteil Zauberer I ODER Vorteil Paktierer I ODER Vorteil Tradition der Borbaradianer I]]
+  - Vorteil [[Geweiht I]] ODER Vorteil [[Zauberer I]] ODER Vorteil [[Paktierer I]] ODER Vorteil [[Tradition der Borbaradianer I]]

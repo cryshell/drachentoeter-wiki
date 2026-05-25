@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: eb949234-1bf3-44a2-9ded-ebf94f6c2fe8
+ID: ef1b8512-4ee0-4fbb-a63e-496ecfe56d0f
 Quelle: datenbank.xml
 Name: "Mirakel: Naturkunde"
 title: "Mirakel: Naturkunde"

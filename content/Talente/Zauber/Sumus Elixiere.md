@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 60e30a9f-f455-4aab-8359-134c189bce57
+ID: 8f37899d-fd88-4a68-9165-290615fdcf3d
 Quelle: datenbank.xml
 Name: Sumus Elixiere
 title: Sumus Elixiere
@@ -29,5 +29,5 @@ Du stärkst ein frisch gebrautes, heilendes oder kräftigendes Elixier. Es erhä
 - **Fertigkeiten:**
   - [[Humus]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]]
 - **Erlernen:** 10 EP

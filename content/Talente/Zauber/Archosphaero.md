@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 55bb8414-e0ab-483e-81a2-e657970e66b7
+ID: eedb0ccf-abe2-4e88-b1b4-a71b740a4587
 Quelle: datenbank.xml
 Name: Archosphaero
 title: Archosphaero
@@ -30,5 +30,5 @@ Ein Erzball fügt in einem Radius von 3 Schritt 4W6 TP zu und verursacht *Nieder
 - **Fertigkeiten:**
   - [[Erz]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

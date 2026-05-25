@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b20eb8cd-cb40-48a8-ae70-eb33cf25fe9e
+ID: dd107169-af3c-40da-9ae2-b5043dba3dba
 Quelle: datenbank.xml
 Name: Krötensprung
 title: Krötensprung
@@ -30,5 +30,5 @@ Der nächste Sprung deines Zieles ist gewaltig. Die Basisreichweite und -höhe s
 - **Fertigkeiten:**
   - [[Eigenschaften]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 10 EP

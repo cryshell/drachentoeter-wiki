@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 6c3d29a8-4b69-4608-98b8-ae423f8f4ffb
+ID: 0f8d10b0-2145-4715-afd1-1deda0b0851a
 Quelle: datenbank.xml
 Name: Silentium Schweigekreis
 title: Silentium Schweigekreis
@@ -33,5 +33,5 @@ In einem Radius von 2 Schritt werden keine Geräusche mehr übertragen und jeder
 - **Fertigkeiten:**
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Schelme I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

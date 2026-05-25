@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e0ee7e19-1017-49f0-a195-1e212eb2c652
+ID: a41dba31-06fa-4dd3-8c9e-09e0620355bf
 Quelle: datenbank.xml
 Name: Ruhe Körper, Ruhe Geist
 title: Ruhe Körper, Ruhe Geist
@@ -28,5 +28,5 @@ Dein Ziel sinkt in einen tiefen Schlaf, aus dem es nur mit Gewalt geweckt werden
 - **Fertigkeiten:**
   - [[Humus]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 10 EP

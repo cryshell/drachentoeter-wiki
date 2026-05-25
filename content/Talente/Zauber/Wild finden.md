@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 4784e015-6346-4a2e-bea8-0e86cb5c1e18
+ID: 7860e43d-3e9c-46ed-a3a0-2899066d0fc5
 Quelle: datenbank.xml
 Name: Wild finden
 title: Wild finden
@@ -37,5 +37,5 @@ Im Laufe der Wirkungsdauer findet das Ziel leichter Tiere, die erjagt werden kö
   - [[Geister der Stärkung]]
   - [[Geister rufen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Orks) I]]
+  - Vorteil [[Tradition der Schamanen (Gjalsker) I]] ODER Vorteil [[Tradition der Schamanen (Goblins) I]] ODER Vorteil [[Tradition der Schamanen (Orks) I]]
 - **Erlernen:** 10 EP

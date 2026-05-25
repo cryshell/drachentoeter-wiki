@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: f67787a1-3c87-4187-9322-d937b0dbffbf
+ID: 7c9d605c-d0fa-455e-888c-4dbfcb110688
 Quelle: datenbank.xml
 Name: Schutz des Geleges
 title: Schutz des Geleges
@@ -28,5 +28,5 @@ Segnet 4 Eier eines Geleges von Jungechsen, so dass sie sich nicht gegenseitig a
 - **Fertigkeiten:**
   - [[Fruchtbarkeit und Wiedergeburt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Ssad’Huargeweihten I ODER Vorteil Tradition der Zsahhgeweihten I]]
+  - Vorteil [[Tradition der Ssad’Huargeweihten I]] ODER Vorteil [[Tradition der Zsahhgeweihten I]]
 - **Erlernen:** 0 EP

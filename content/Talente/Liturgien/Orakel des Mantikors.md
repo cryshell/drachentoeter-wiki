@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: dec547cc-fcf2-4378-ba2a-dbd9180d0d1d
+ID: 63c6f81d-1fbc-4746-b7e7-1dd7d31d3cdf
 Quelle: datenbank.xml
 Name: Orakel des Mantikors
 title: Orakel des Mantikors
@@ -29,5 +29,5 @@ Du erfährst, ob ein Verschollener im Kampf gefallen ist. Sollte der Verschollen
   - [[Eroberung]]
   - [[Gutes Gold]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I]]
+  - Vorteil [[Tradition der Korgeweihten I]] ODER Vorteil [[Tradition der Kr’Thon’Chhgeweihten I]]
 - **Erlernen:** 0 EP

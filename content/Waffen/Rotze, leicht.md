@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 3510f161-63ae-4b3e-8112-2ed4e4c9508f
+ID: c1e64403-4d04-4b9f-8c3e-49b9a29a5500
 Quelle: datenbank.xml
 Name: Rotze, leicht
 title: Rotze, leicht

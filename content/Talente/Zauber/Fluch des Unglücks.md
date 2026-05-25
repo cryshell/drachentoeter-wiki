@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 0dd22058-9ac0-4fd0-92bb-95e9d2405dc2
+ID: a64bfdf5-aaaa-481c-b61c-4ad4275fec47
 Quelle: datenbank.xml
 Name: Fluch des Unglücks
 title: Fluch des Unglücks

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 494ef111-4d98-4520-a737-afa285c0fd0c
+ID: a2844eb6-f8c7-4644-b410-2c004c9abb76
 Quelle: datenbank.xml
 Name: Krötenhaut
 title: Krötenhaut

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: afd5ecb2-a999-4d28-bb4d-3ad111b1d32b
+ID: de6758ac-5ee4-437a-bc90-c3dbfa5fd635
 Quelle: datenbank.xml
 Name: Zagibu Ubigaz
 title: Zagibu Ubigaz
@@ -29,5 +29,5 @@ Du lässt einen Schatz von maximal 1 Stein Gewicht unwiederbringlich zu Staub ze
   - [[Erz]]
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 10 EP

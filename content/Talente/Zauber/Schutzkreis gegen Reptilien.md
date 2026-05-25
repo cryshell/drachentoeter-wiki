@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: ffeed76c-7272-4f7f-b13f-eec88403dd0e
+ID: acf63558-e9cc-4113-ba87-2702e60d82f6
 Quelle: datenbank.xml
 Name: Schutzkreis gegen Reptilien
 title: Schutzkreis gegen Reptilien
@@ -30,5 +30,5 @@ Das Zeichen wird auf einer beliebigen Fläche angebracht. Du ziehst einen Kreis 
   - [[Einfluss]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]]
 - **Erlernen:** 10 EP

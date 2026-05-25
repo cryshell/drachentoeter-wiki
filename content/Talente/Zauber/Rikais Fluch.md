@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: fe517e27-ad5c-4d57-af84-9976b8944b55
+ID: 6cb3bcca-41dc-4f1c-bfcc-1cc9bc8ae1eb
 Quelle: datenbank.xml
 Name: Rikais Fluch
 title: Rikais Fluch
@@ -32,5 +32,5 @@ Der Zauber schwächt Pflanzen und Gegenstände aus dem Element Humus in einem Ra
   - [[Geister des Zorns]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Orks) I ODER Vorteil Tradition der Schamanen (Nivesen) I]]
+  - Vorteil [[Tradition der Schamanen (Goblins) I]] ODER Vorteil [[Tradition der Schamanen (Orks) I]] ODER Vorteil [[Tradition der Schamanen (Nivesen) I]]
 - **Erlernen:** 10 EP

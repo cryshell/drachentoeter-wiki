@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 1ebb419f-1baf-44f2-943a-75305cc4736f
+ID: ff04d870-e128-4bdd-81c4-c248622f96c3
 Quelle: datenbank.xml
 Name: Wand aus Erz
 title: Wand aus Erz
@@ -30,5 +30,5 @@ Eine 4 x 3 x 1 Schritt (BxHxT) große Wand aus massivem Erz entsteht entlang ein
 - **Fertigkeiten:**
   - [[Erz]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

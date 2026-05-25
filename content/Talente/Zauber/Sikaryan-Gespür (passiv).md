@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 5d31db5f-0ab2-4733-99d5-48047d246e7c
+ID: 7005b0e1-f386-49de-ac92-217f432cf9e8
 Quelle: datenbank.xml
 Name: Sikaryan-Gespür (passiv)
 title: Sikaryan-Gespür (passiv)
@@ -19,5 +19,5 @@ Du nimmst intuitiv wahr, ob und wo sich Lebewesen in einem Radius von PW Vampiri
 - **Fertigkeiten:**
   - [[Vampirische Kräfte]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kinder der Finsternis ODER Vorteil Tradition der Kinder der Nacht ODER Vorteil Tradition der Lamijahnim ODER Vorteil Tradition der Feylamia]]
+  - Vorteil [[Tradition der Kinder der Finsternis]] ODER Vorteil [[Tradition der Kinder der Nacht]] ODER Vorteil [[Tradition der Lamijahnim]] ODER Vorteil [[Tradition der Feylamia]]
 - **Erlernen:** 80 EP

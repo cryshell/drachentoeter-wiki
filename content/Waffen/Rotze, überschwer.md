@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: d5f4ea5c-c4df-4244-9e79-0bae27be9c5e
+ID: ee0b6ea6-a815-4c5f-9e03-86ff31615d37
 Quelle: datenbank.xml
 Name: Rotze, überschwer
 title: Rotze, überschwer

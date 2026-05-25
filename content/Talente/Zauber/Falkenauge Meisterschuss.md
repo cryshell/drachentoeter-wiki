@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: a6d72e5d-61a6-42d2-85ed-5c7a38c371b5
+ID: eb50b020-7e32-4cfb-a2e8-1297efc0ea9a
 Quelle: datenbank.xml
 Name: Falkenauge Meisterschuss
 title: Falkenauge Meisterschuss
@@ -30,5 +30,5 @@ Dein nächster Fernkampfangriff gegen das Ziel hat Vorteil.
 - **Fertigkeiten:**
   - [[Eigenschaften]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

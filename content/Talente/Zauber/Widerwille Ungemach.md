@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 50090c98-b605-490f-a690-9fad15b0e397
+ID: 7fcc38ab-3546-4bf2-a0ff-00fd451e5930
 Quelle: datenbank.xml
 Name: Widerwille Ungemach
 title: Widerwille Ungemach
@@ -32,5 +32,5 @@ Das verzauberte Objekt wird von Umstehenden gemieden. Die Spielleitung erwähnt 
   - [[Einfluss]]
   - [[Illusion]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 20 EP

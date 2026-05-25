@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: ad40a93c-1a75-46b0-9540-393089104850
+ID: 804b3208-66b5-4333-a445-adaecc9c3f88
 Quelle: datenbank.xml
 Name: Schicksalsgemeinschaft
 title: Schicksalsgemeinschaft
@@ -35,5 +35,5 @@ Du stärkst das gegenseitige Vertrauen zwischen bis zu 8 treuen Gefährten in ei
   - [[Heim und Herd]]
   - [[Stiller Wanderer]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Traviageweihten I]]
+  - Vorteil [[Tradition der Avesgeweihten I]] ODER Vorteil [[Tradition der Rahjageweihten I]] ODER Vorteil [[Tradition der Traviageweihten I]]
 - **Erlernen:** 20 EP

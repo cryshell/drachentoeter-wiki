@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 33cd720a-285f-48ec-a2e6-fea9886f0a12
+ID: bbc6bfb5-3d75-4dba-a462-a5126023ca43
 Quelle: datenbank.xml
 Name: Dreifacher Saatsegen
 title: Dreifacher Saatsegen
@@ -27,5 +27,5 @@ Das gesegnete Feld ist vor Ernteschäden durch schlechte Witterung geschützt. J
 - **Fertigkeiten:**
   - [[Wachstum]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Perainegeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I]]
+  - Vorteil [[Tradition der Perainegeweihten I]] ODER Vorteil [[Tradition der Ssad’Huargeweihten I]]
 - **Erlernen:** 0 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 4b1d3fb7-8537-4cda-84c8-cff8f626e352
+ID: 1b40dbb6-0eae-4ce7-b38c-4aacea71e69f
 Quelle: datenbank.xml
 Name: Delicioso Gaumenschmaus
 title: Delicioso Gaumenschmaus
@@ -31,5 +31,5 @@ Du kannst Geruch und Geschmack eines Gegenstandes bis zur Größe einer Truhe �
 - **Fertigkeiten:**
   - [[Illusion]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 10 EP

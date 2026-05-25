@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 3331bf23-af83-4829-ae58-4de553f5ca0d
+ID: 6e380bbd-edef-43be-9dc0-1358733192e8
 Quelle: datenbank.xml
 Name: Bastardschwert (1H)
 title: Bastardschwert (1H)

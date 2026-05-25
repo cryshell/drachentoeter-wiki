@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 3109329a-e616-4581-8d98-eb1c68d074e3
+ID: 468646c4-a85d-4550-b8d3-068f5c45cef2
 Quelle: datenbank.xml
 Name: "Dämonische Stärkung: Bildung"
 title: "Dämonische Stärkung: Bildung"

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 7fd85a97-56c8-4fd8-9bfd-0e1021bd5929
+ID: 228666b6-8491-435c-af30-85429380eee6
 Quelle: datenbank.xml
 Name: Nachtwind (2H)
 title: Nachtwind (2H)

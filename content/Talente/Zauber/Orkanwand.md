@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 7d39e8a6-032f-44c8-8e9c-66faf7ef943f
+ID: ee49f3b6-70ea-4464-8b75-e7f899fc595d
 Quelle: datenbank.xml
 Name: Orkanwand
 title: Orkanwand
@@ -30,5 +30,5 @@ Eine 4 x 3 x 1 Schritt (BxHxT) große Wand aus rasenden Windhosen entsteht entla
 - **Fertigkeiten:**
   - [[Luft]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Elfen I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Elfen I]]
 - **Erlernen:** 20 EP

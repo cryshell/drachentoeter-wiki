@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e1b07b3b-41dc-41e3-802d-f32a3fcb9e67
+ID: b4884b03-7d7b-4a47-9c26-f6a0b890e859
 Quelle: datenbank.xml
 Name: Ingerimms Zorn verschone uns
 title: Ingerimms Zorn verschone uns
@@ -27,5 +27,5 @@ Der Stein des Ingerimm erscheint. Im Radius von 8 Meilen um diesen unbeweglichen
 - **Fertigkeiten:**
   - [[Heiliges Erz]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+  - Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Angroschgeweihten I]] ODER Vorteil [[Tradition der Graveshgeweihten I]]
 - **Erlernen:** 10 EP

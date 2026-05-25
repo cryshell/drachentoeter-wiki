@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 4302e145-59aa-452b-b262-41f0a9259d56
+ID: ac5c1734-e99a-4135-adce-0b0e75fb4cc9
 Quelle: datenbank.xml
 Name: "Mirakel: Grobhandwerk"
 title: "Mirakel: Grobhandwerk"

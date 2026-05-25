@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 8bc49a53-9a4d-48da-89b2-092fef7311a6
+ID: c52ead34-c226-43d1-ae4a-f65c2645c608
 Quelle: datenbank.xml
 Name: Objectovoco
 title: Objectovoco
@@ -28,5 +28,5 @@ Du verzauberst einen Gegenstand, sodass er dir 4 Ja/Nein-Fragen beantwortet. Bea
 - **Fertigkeiten:**
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 10 EP

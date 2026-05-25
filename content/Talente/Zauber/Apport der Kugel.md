@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 4bf43556-1213-42bd-86a5-a6da00b03392
+ID: 5fd73664-9ec7-4411-817f-3aea39fa3dec
 Quelle: datenbank.xml
 Name: Apport der Kugel
 title: Apport der Kugel
@@ -29,5 +29,5 @@ Die Kristallkugel kehrt fliegend mit einer Geschwindigkeit von 10 Meilen pro Stu
   - [[Kugelzauber]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 10 EP

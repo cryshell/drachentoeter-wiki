@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 61a6b495-6ca6-40b6-a608-0db9f9b44cde
+ID: 8818253e-e007-40fa-95f2-3f165417e515
 Quelle: datenbank.xml
 Name: Fluch des Gewürms
 title: Fluch des Gewürms
@@ -31,5 +31,5 @@ Dein Opfer wird von einer Myriade Insekten und Kleintieren bedeckt. Misslingt ei
   - [[Verständigung]]
   - [[Geister des Zorns]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Schamanen (Achaz) I ODER Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Orks) I]]
+  - Vorteil [[Tradition der Schamanen (Waldmenschen) I]] ODER Vorteil [[Tradition der Schamanen (Achaz) I]] ODER Vorteil [[Tradition der Schamanen (Ferkina) I]] ODER Vorteil [[Tradition der Schamanen (Trollzacker) I]] ODER Vorteil [[Tradition der Schamanen (Goblins) I]] ODER Vorteil [[Tradition der Schamanen (Orks) I]]
 - **Erlernen:** 20 EP

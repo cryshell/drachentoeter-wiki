@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 6f5f8a47-1225-4726-8348-0c2d3cf1f247
+ID: c5087f4e-59ee-46bc-b733-39b86ecb154e
 Quelle: datenbank.xml
 Name: Verborgen vor Blicken
 title: Verborgen vor Blicken
@@ -25,5 +25,5 @@ $talent:Harmlose Gestalt$
   - [[Geister der Stärkung]]
   - [[Illusion]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Achaz) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Orks) I]]
+  - Vorteil [[Tradition der Schamanen (Achaz) I]] ODER Vorteil [[Tradition der Schamanen (Goblins) I]] ODER Vorteil [[Tradition der Schamanen (Orks) I]]
 - **Erlernen:** 20 EP

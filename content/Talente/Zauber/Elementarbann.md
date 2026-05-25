@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 05954a8f-7a5b-4762-9a7b-0a6eccf4f94c
+ID: 00d43916-03d4-40f7-9b14-02b8a8253903
 Quelle: datenbank.xml
 Name: Elementarbann
 title: Elementarbann
@@ -43,5 +43,5 @@ Hexagramma (Probenschwierigkeit Beschwörungsschwierigkeit des Ziels, 16 Aktione
   - [[Luft]]
   - [[Wasser]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

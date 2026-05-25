@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: c638f54c-8c19-440c-b1ff-d0a7283f36a2
+ID: 6510e9b5-d39d-4f03-823a-f1d1b5be839a
 Quelle: datenbank.xml
 Name: Feuerflasche
 title: Feuerflasche

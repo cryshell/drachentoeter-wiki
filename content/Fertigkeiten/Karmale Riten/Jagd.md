@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: ee5fcf5a-36be-45f7-9e7f-f72159f498d0
+ID: e6f08c2e-74f7-49cd-b27b-54427480e5c2
 Quelle: datenbank.xml
 Name: Jagd
 title: Jagd
@@ -55,4 +55,4 @@ Die Hüter der Jagd begleiten Jagdgesellschaften und achten über die Einhaltung
   - [[Tiersprache]]
   - [[Trophäe erhalten]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Ifirngeweihten I ODER Vorteil Tradition der Firungeweihten I]]
+  - Vorteil [[Tradition der Ifirngeweihten I]] ODER Vorteil [[Tradition der Firungeweihten I]]

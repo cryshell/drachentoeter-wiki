@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 91038639-5f2a-4921-b219-392b254b2dea
+ID: 84ac6e66-8a42-436a-8ea2-385276b8a9b5
 Quelle: datenbank.xml
 Name: Wind und Wogen
 title: Wind und Wogen
@@ -63,4 +63,4 @@ Die Mystiker unter den Efferdgeweihten schwimmen mit den Delphinen, studieren Wi
   - [[Swafnirs Ruhelied]]
   - [[Teilung der Wasser]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I]]
+  - Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Swafnirgeweihten I]] ODER Vorteil [[Tradition der Chr’Ssir’Ssrgeweihten I]]

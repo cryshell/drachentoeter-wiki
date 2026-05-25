@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 8a66ef04-4d43-4744-87bd-84adc96fa80c
+ID: 601509c7-ebe5-4737-8448-1bd1694e682b
 Quelle: datenbank.xml
 Name: Malmkreis
 title: Malmkreis
@@ -30,5 +30,5 @@ Du erzeugst einen kleinen Sturm aus umherfliegenden Steinen mit einem Radius von
   - [[Erz]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Geoden I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Elfen I]]
+  - Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Elfen I]]
 - **Erlernen:** 20 EP

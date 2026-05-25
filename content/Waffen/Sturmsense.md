@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 54f47dc1-2d70-4d00-9cd3-c3f1a55a184c
+ID: 836b8c32-203f-41de-96ad-d275298a5084
 Quelle: datenbank.xml
 Name: Sturmsense
 title: Sturmsense

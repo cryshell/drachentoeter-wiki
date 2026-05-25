@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 2de8ba52-235e-46af-a987-e5ca47081a50
+ID: 7037ae82-93e0-4ec8-9e7f-c8cd0db9121b
 Quelle: datenbank.xml
 Name: Ungesehener Beobachter
 title: Ungesehener Beobachter
@@ -30,5 +30,5 @@ Du kannst dein Vertrautentier Tier in einem Radius von PW Vertrautenmagie Meilen
   - [[Verständigung]]
   - [[Vertrautenmagie]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Hexen I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Zibilja I]]
+  - Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Schamanen (Goblins) I]] ODER Vorteil [[Tradition der Zibilja I]]
 - **Erlernen:** 20 EP

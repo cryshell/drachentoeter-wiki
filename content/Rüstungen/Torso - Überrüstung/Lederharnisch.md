@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 3a87e888-3052-4b85-bf4b-37848922e211
+ID: bd17abcd-b452-419e-a6d7-87b8a31c99ab
 Quelle: datenbank.xml
 Name: Lederharnisch
 title: Lederharnisch

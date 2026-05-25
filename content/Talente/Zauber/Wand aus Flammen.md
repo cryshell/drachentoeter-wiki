@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 7bcfc114-d32d-46d0-a985-85159e5aebfb
+ID: a6bccf3a-1b12-48f3-b74c-7789120af266
 Quelle: datenbank.xml
 Name: Wand aus Flammen
 title: Wand aus Flammen
@@ -30,5 +30,5 @@ Eine 4 x 3 x 1 Schritt (BxHxT) große Wand aus lodernden Flammen entsteht entlan
 - **Fertigkeiten:**
   - [[Feuer]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

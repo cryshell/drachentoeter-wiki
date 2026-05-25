@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 467c08c5-62e1-4de2-ba97-ab7c8d35dd99
+ID: 9184a621-b133-4bc4-9208-91867980bc3c
 Quelle: datenbank.xml
 Name: Hellebarde
 title: Hellebarde

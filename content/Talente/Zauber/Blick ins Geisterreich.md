@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 18f9427f-df15-44cd-91e2-b542e4a79e63
+ID: 7e4e8a8f-a402-450b-80f1-59f36a7e9816
 Quelle: datenbank.xml
 Name: Blick ins Geisterreich
 title: Blick ins Geisterreich

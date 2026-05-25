@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: a883403c-cb0c-4d58-a7bd-f84b0f345133
+ID: 4a5e8830-84b5-4264-8e62-e2c455a08adc
 Quelle: datenbank.xml
 Name: "Tradition der Sattler & Kürschner I"
 title: "Tradition der Sattler & Kürschner I"

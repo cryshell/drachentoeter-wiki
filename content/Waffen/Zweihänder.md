@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 4eb3cce8-656e-4ee3-8e6d-8c5f1f8b3f5b
+ID: 7ac12764-e90f-4fad-994c-b87688b9c610
 Quelle: datenbank.xml
 Name: Zweihänder
 title: Zweihänder

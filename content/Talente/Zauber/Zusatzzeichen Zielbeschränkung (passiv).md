@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c7a32ae7-055d-4878-9c24-abfbec1f71fe
+ID: 2d7d56c5-a363-4325-9f04-7396077e61e7
 Quelle: datenbank.xml
 Name: Zusatzzeichen Zielbeschränkung (passiv)
 title: Zusatzzeichen Zielbeschränkung (passiv)
@@ -22,5 +22,5 @@ Du kannst die Wirkung anderer Zeichen durch die folgende Modifikation auf bestim
 - **Fertigkeiten:**
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Zibilja I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Zibilja I]]
 - **Erlernen:** 40 EP

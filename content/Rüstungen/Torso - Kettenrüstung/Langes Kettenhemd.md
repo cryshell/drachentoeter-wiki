@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 725f0286-4f31-4070-bae9-cba6ab9a4e5c
+ID: b4e69a56-05f3-47f0-b4f9-0108155f7ec6
 Quelle: datenbank.xml
 Name: Langes Kettenhemd
 title: Langes Kettenhemd

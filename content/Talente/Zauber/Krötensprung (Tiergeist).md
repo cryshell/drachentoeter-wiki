@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 2a6339f4-1564-4bd9-951b-88997ba33964
+ID: 51bbcda1-4458-4f24-a0ce-e872e6da417c
 Quelle: datenbank.xml
 Name: Krötensprung (Tiergeist)
 title: Krötensprung (Tiergeist)
@@ -20,5 +20,5 @@ $talent:Krötensprung$
   - [[Gaben des Odun]]
   - [[Gaben des Blutgeists]]
 - **Voraussetzungen:**
-  - Vorteil [[Tiergeist (Wildkatze) ODER Vorteil Tiergeist (Panther)]]
+  - Vorteil [[Tiergeist (Wildkatze)]] ODER Vorteil [[Tiergeist (Panther)]]
 - **Erlernen:** 10 EP

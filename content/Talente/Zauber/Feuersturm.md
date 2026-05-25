@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 5cd6a0a9-bf2e-4661-80b1-ba7093ab96a6
+ID: 23648aeb-cc17-41e3-82ca-9e27b87df2d6
 Quelle: datenbank.xml
 Name: Feuersturm
 title: Feuersturm
@@ -30,5 +30,5 @@ Du erzeugst einen kleinen Feuersturm mit einem Radius von 2 Schritt. Jedes Wesen
   - [[Feuer]]
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

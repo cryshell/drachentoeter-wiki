@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 71f8e36f-55df-4a3e-9b2c-952fb479e9b2
+ID: 85f37ef9-960d-41d3-8afe-0cda6587ed05
 Quelle: datenbank.xml
 Name: Pectetondo Zauberhaar
 title: Pectetondo Zauberhaar
@@ -31,5 +31,5 @@ Du kannst den Schnitt und die Farbe deiner Haare und deines Bartes verändern. D
 - **Fertigkeiten:**
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 10 EP

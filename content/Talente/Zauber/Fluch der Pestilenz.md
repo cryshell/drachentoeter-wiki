@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c4e06ef7-02c5-4ab5-8ba3-0f1694f6a94b
+ID: 2a1f0725-a8fc-4a0d-9b2d-a275f45412ba
 Quelle: datenbank.xml
 Name: Fluch der Pestilenz
 title: Fluch der Pestilenz
@@ -30,5 +30,5 @@ Du infizierst dein Opfer mit einer dir bekannten Krankheit deiner Wahl, die dann
 - **Fertigkeiten:**
   - [[Dämonisch]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

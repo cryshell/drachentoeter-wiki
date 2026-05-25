@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 9446b146-11d0-413b-8a39-bc89da678ed9
+ID: 96ddd1bd-0e91-40f1-8ebb-68b9ac842016
 Quelle: datenbank.xml
 Name: Tradition der Korgeweihten I
 title: Tradition der Korgeweihten I

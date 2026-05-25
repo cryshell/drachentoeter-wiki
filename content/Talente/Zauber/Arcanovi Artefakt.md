@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: d371c711-703b-49e0-a6b8-9486fd83f0cc
+ID: b44d0cc8-dba9-47c3-88e6-908dc90265b5
 Quelle: datenbank.xml
 Name: Arcanovi Artefakt
 title: Arcanovi Artefakt
@@ -37,5 +37,5 @@ Der Arcanovi ist der bindende Spruch eines Artefaktes, in das du weitere Zauber 
   - [[Kraft]]
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 40 EP

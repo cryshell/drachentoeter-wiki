@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 595e620b-8aec-4009-917c-abacb135ac4e
+ID: 8680a9ca-09c1-4121-b303-9a59d15b2d37
 Quelle: datenbank.xml
 Name: Rapier
 title: Rapier

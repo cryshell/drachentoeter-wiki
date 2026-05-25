@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: f804a1fc-6fdb-4b10-bfa5-9b41403f0977
+ID: 1a6779ce-1dd3-4f0b-b0da-25881ffe993a
 Quelle: datenbank.xml
 Name: "Dämonische Stärkung: Diplomatie"
 title: "Dämonische Stärkung: Diplomatie"

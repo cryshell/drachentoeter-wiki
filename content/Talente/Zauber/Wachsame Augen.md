@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: bed60609-6a8c-4b24-b139-1940a0d330ef
+ID: 8b53600c-d6bd-4eaf-808a-a1e2c74857ef
 Quelle: datenbank.xml
 Name: Wachsame Augen
 title: Wachsame Augen
@@ -30,5 +30,5 @@ Dein Vertrautentier ruft Tiere seiner Gattung aus bis zu 1 Meile herbei, die üb
   - [[Verständigung]]
   - [[Vertrautenmagie]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Zibilja I]]
+  - Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Schamanen (Goblins) I]] ODER Vorteil [[Tradition der Zibilja I]]
 - **Erlernen:** 10 EP

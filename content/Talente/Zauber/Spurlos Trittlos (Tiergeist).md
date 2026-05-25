@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 107d29a8-bc1d-4aa3-aed0-73a0035a5e95
+ID: e7d12eff-64b1-42d9-82cd-64e6d2fa279a
 Quelle: datenbank.xml
 Name: Spurlos Trittlos (Tiergeist)
 title: Spurlos Trittlos (Tiergeist)
@@ -20,5 +20,5 @@ $talent:Spurlos Trittlos$
   - [[Gaben des Odun]]
   - [[Gaben des Blutgeists]]
 - **Voraussetzungen:**
-  - Vorteil [[Tiergeist (Wildkatze) ODER Vorteil Tiergeist (Panther) ODER Vorteil Tiergeist (Wolf) ODER Vorteil Tiergeist (Khoramsbestie)]]
+  - Vorteil [[Tiergeist (Wildkatze)]] ODER Vorteil [[Tiergeist (Panther)]] ODER Vorteil [[Tiergeist (Wolf)]] ODER Vorteil [[Tiergeist (Khoramsbestie)]]
 - **Erlernen:** 10 EP

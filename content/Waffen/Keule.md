@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 0cebf398-d66f-40d2-83b8-51f8b076ec66
+ID: 0768e7c0-3758-425c-80a7-afa68b038490
 Quelle: datenbank.xml
 Name: Keule
 title: Keule

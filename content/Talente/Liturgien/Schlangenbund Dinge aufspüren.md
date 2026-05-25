@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 97d0b120-9f17-4bd0-979c-1e4731de183b
+ID: 2890f108-51a5-4798-b451-8bd9c9c0e3ce
 Quelle: datenbank.xml
 Name: "Schlangenbund: Dinge aufspüren"
 title: "Schlangenbund: Dinge aufspüren"

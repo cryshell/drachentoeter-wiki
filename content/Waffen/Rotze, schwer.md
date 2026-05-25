@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 20b8abe3-8443-4c43-89e6-8417d08d4c88
+ID: ce7f2a28-f526-46d8-8c5a-cdbae8b9eceb
 Quelle: datenbank.xml
 Name: Rotze, schwer
 title: Rotze, schwer

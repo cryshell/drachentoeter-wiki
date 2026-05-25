@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c1a1e05e-c8fa-487c-b63c-2b81528be8cb
+ID: 36d17621-1487-41b5-b83e-3ac3e3a47493
 Quelle: datenbank.xml
 Name: Axxeleratus Blitzgeschwind (Tiergeist)
 title: Axxeleratus Blitzgeschwind (Tiergeist)
@@ -20,5 +20,5 @@ $talent:Axxeleratus Blitzgeschwind$
   - [[Gaben des Odun]]
   - [[Gaben des Blutgeists]]
 - **Voraussetzungen:**
-  - Vorteil [[Tiergeist (Affe) ODER Vorteil Tiergeist (Falke) ODER Vorteil Tiergeist (Gebirgsbock) ODER Vorteil Tiergeist (Wolf) ODER Vorteil Tiergeist (Khoramsbestie)]]
+  - Vorteil [[Tiergeist (Affe)]] ODER Vorteil [[Tiergeist (Falke)]] ODER Vorteil [[Tiergeist (Gebirgsbock)]] ODER Vorteil [[Tiergeist (Wolf)]] ODER Vorteil [[Tiergeist (Khoramsbestie)]]
 - **Erlernen:** 20 EP

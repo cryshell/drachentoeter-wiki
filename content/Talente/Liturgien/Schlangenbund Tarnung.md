@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 8a0a891c-b2f5-4cdd-8e3f-d4364c730440
+ID: 4e62866a-49f4-44c6-81fc-38feb8a7ce42
 Quelle: datenbank.xml
 Name: "Schlangenbund: Tarnung"
 title: "Schlangenbund: Tarnung"

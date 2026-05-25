@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 9d9bbfe8-d3a7-4e52-9c49-6daf296251d9
+ID: fac61e19-9565-4429-a6f1-1a4c3fc8807b
 Quelle: datenbank.xml
 Name: Wurfring
 title: Wurfring

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: c7beecdf-e57f-457e-9220-64bd3fe27f04
+ID: 0c7b2d8b-117f-4d27-a37f-3dcedc212451
 Quelle: datenbank.xml
 Name: Skorpion, schwer
 title: Skorpion, schwer

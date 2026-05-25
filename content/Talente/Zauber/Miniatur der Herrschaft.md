@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 05216b56-1a54-4e2f-9f30-98d407d36bc0
+ID: cdf55ae2-177f-4a6e-aed2-5034d535867f
 Quelle: datenbank.xml
 Name: Miniatur der Herrschaft
 title: Miniatur der Herrschaft
@@ -34,5 +34,5 @@ Aus Lehm und einem Körperteil des Opfers (z. B. Haare oder Blut) fertigst du ei
   - [[Verständigung]]
   - [[Geister des Zorns]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Trollzacker) I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Schamanen (Ferkina) I]] ODER Vorteil [[Tradition der Schamanen (Trollzacker) I]]
 - **Erlernen:** 20 EP

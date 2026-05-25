@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: cf26f3bd-2e0f-47e4-bdb0-0c7e727a33d8
+ID: 3434289e-4fdd-4e51-b7a7-1f6c6f7f6d2f
 Quelle: datenbank.xml
 Name: Sapefacta Zauberschwamm
 title: Sapefacta Zauberschwamm
@@ -33,5 +33,5 @@ Deine Kleidung ist so sauber, als wäre sie frisch gewaschen.
   - [[Umwelt]]
   - [[Wasser]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 10 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 11aa868c-11ba-4444-8460-64f8d5c9b19f
+ID: 595494d3-0466-41e8-be23-1957905ec198
 Quelle: datenbank.xml
 Name: "Mirakel: Alchemie"
 title: "Mirakel: Alchemie"

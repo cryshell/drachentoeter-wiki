@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: daa493e5-34c8-47c9-875c-bcaab5f303b9
+ID: b479a5ac-8662-4f8e-93b1-047911677197
 Quelle: datenbank.xml
 Name: "Schlangenbund: Ungesehener Beobachter"
 title: "Schlangenbund: Ungesehener Beobachter"

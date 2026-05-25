@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 3ef1bff7-691c-47f7-ac0e-e2ab92f63c3d
+ID: 36722084-8784-4f66-9f55-abfb0da8673a
 Quelle: datenbank.xml
 Name: Blick in die Vergangenheit
 title: Blick in die Vergangenheit
@@ -32,5 +32,5 @@ Die Geschichte des Ortes rauscht vor deinen Augen vorbei. Während der Wirkungsd
   - [[Hellsicht]]
   - [[Temporal]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 10 EP

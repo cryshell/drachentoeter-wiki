@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c5587161-60d2-43b3-bac2-5f3ebf8b69a4
+ID: 99e5ec7c-c3d5-475d-a641-14455251c771
 Quelle: datenbank.xml
 Name: Mannschaftssegen
 title: Mannschaftssegen
@@ -27,5 +27,5 @@ Die gesamte Schiffsmannschaft erhält Vorteil auf MU-Proben, solange sie sich an
 - **Fertigkeiten:**
   - [[Seefahrt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I]]
+  - Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Swafnirgeweihten I]]
 - **Erlernen:** 10 EP

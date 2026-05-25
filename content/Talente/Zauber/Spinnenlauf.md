@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: f54d5e08-c03b-45a8-9099-5a4e2535365a
+ID: 7be3fcd0-4932-4520-93b1-a3d589887651
 Quelle: datenbank.xml
 Name: Spinnenlauf
 title: Spinnenlauf
@@ -31,5 +31,5 @@ Deine nackten Hände und Füße haften an Oberflächen, sodass du mit GS 1 an gl
 - **Fertigkeiten:**
   - [[Eigenschaften]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

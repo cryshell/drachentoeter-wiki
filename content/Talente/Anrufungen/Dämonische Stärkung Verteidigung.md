@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: aa775ec8-3fff-4085-b412-09348027176c
+ID: aa70ad1b-6497-4045-a7e5-2f83881be89e
 Quelle: datenbank.xml
 Name: "Dämonische Stärkung: Verteidigung"
 title: "Dämonische Stärkung: Verteidigung"

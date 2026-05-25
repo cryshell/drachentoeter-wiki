@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 3701a20d-df96-4fc0-bc29-6eb585421ddc
+ID: 5b307696-5160-489b-8b1a-1408a1ffe6d1
 Quelle: datenbank.xml
 Name: Ernte des Dolches
 title: Ernte des Dolches
@@ -31,5 +31,5 @@ Die nächste mit dem Ritualgegenstand geerntete Pflanze ist viermal so lange hal
   - [[Objekt]]
   - [[Temporal]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]]
 - **Erlernen:** 10 EP

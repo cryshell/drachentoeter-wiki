@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 0d672844-cd9f-4eec-9fed-c8a00f1970f6
+ID: 02b29eb5-3c9f-4c25-b470-411a555877d1
 Quelle: datenbank.xml
 Name: "Tradition der Schneider & Weber I"
 title: "Tradition der Schneider & Weber I"

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 4de54265-d143-4e90-bb75-c8e021532efb
+ID: ae3ee22f-c79d-4169-9a28-b1d651a959d6
 Quelle: datenbank.xml
 Name: Purgation
 title: Purgation
@@ -38,5 +38,5 @@ Du bannst einen Zauber, in den gAsP geflossen sind (wie ein Artefakt oder ein pe
   - [[Geister]]
   - [[Nipakau]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der Rondrageweihten I ODER Vorteil Tradition der H’Szintgeweihten I ODER Vorteil Tradition der Tairachgeweihten I ODER Vorteil Tradition der Kamaluqgeweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+  - Vorteil [[Tradition der Hesindegeweihten I]] ODER Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Angroschgeweihten I]] ODER Vorteil [[Tradition der Praiosgeweihten I]] ODER Vorteil [[Tradition der Rondrageweihten I]] ODER Vorteil [[Tradition der H’Szintgeweihten I]] ODER Vorteil [[Tradition der Tairachgeweihten I]] ODER Vorteil [[Tradition der Kamaluqgeweihten I]] ODER Vorteil [[Tradition der Graveshgeweihten I]]
 - **Erlernen:** 20 EP

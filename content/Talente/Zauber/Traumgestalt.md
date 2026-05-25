@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 2c335c61-083b-47ab-a062-2e53950f11df
+ID: c357d3e7-faea-4129-8322-eb5ec49da27b
 Quelle: datenbank.xml
 Name: Traumgestalt
 title: Traumgestalt
@@ -30,5 +30,5 @@ Du kannst in die Träume eines schlafenden Zieles eindringen und ihm dort Botsch
 - **Fertigkeiten:**
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 20 EP

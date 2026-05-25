@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: c5ccfc49-0ef2-4b2d-b61a-b9bf64828b1e
+ID: 5e3bc028-fc02-4fb6-843c-e25c4c952f9d
 Quelle: datenbank.xml
 Name: Zweililien
 title: Zweililien

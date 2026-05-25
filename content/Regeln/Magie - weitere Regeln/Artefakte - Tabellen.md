@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: bd050c75-53f7-4271-9a65-59bfcc94d5bb
+ID: 4eb70109-3644-477f-a915-f81caa221c11
 Quelle: datenbank.xml
 Name: Artefakte - Tabellen
 title: Artefakte - Tabellen

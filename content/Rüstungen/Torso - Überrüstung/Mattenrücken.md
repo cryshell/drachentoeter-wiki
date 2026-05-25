@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 1c060759-0920-46b0-8475-db0df417408c
+ID: 6f58bb5f-52ca-4a4c-93e6-2f08e5a60c36
 Quelle: datenbank.xml
 Name: Mattenrücken
 title: Mattenrücken

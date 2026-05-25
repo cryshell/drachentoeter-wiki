@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 3a93652d-87b9-497d-afea-affbec3af6d4
+ID: 73b6c285-f786-4a49-85d7-5d408d75268f
 Quelle: datenbank.xml
 Name: Kampfdiskus
 title: Kampfdiskus

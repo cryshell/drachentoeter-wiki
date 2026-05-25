@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: a36a6507-ff85-4b86-a0d1-56c23ebf1e9a
+ID: 0ebbee16-412c-4751-80ba-5e5224b640bf
 Quelle: datenbank.xml
 Name: Reißer
 title: Reißer

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 97d053d2-0954-4abf-abbc-3cb50dab99ba
+ID: 300e666c-78b1-4e11-bb7e-00a083217c04
 Quelle: datenbank.xml
 Name: Tradition der Hesindegeweihten I
 title: Tradition der Hesindegeweihten I

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 3582f949-05d7-48f5-8c1d-9fd2d678642c
+ID: 9e2331a0-d8f3-4b50-b1da-beb4116f6e3d
 Quelle: datenbank.xml
 Name: Blick in die Flammen
 title: Blick in die Flammen
@@ -30,5 +30,5 @@ Du erhältst grobe visionäre Einblicke in die Geschichte eines Brandes, der sic
 - **Fertigkeiten:**
   - [[Heiliges Feuer]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+  - Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Angroschgeweihten I]] ODER Vorteil [[Tradition der Graveshgeweihten I]]
 - **Erlernen:** 10 EP

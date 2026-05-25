@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 40017fad-542f-452f-9c6c-51df12afaffc
+ID: dda03534-e09f-495a-a1bb-3351f7af07b1
 Quelle: datenbank.xml
 Name: Zusatzzeichen Verkleinerung (passiv)
 title: Zusatzzeichen Verkleinerung (passiv)
@@ -21,5 +21,5 @@ Du kannst die Größe anderer Zeichen durch die folgende Modifikation verringern
 - **Fertigkeiten:**
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Zibilja I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Zibilja I]]
 - **Erlernen:** 20 EP

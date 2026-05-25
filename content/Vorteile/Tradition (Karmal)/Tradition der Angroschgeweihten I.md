@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: e7dd224a-1528-4cb2-a388-246af7d0bc10
+ID: b7096159-3f5c-4e29-bd06-eee54cd00c4d
 Quelle: datenbank.xml
 Name: Tradition der Angroschgeweihten I
 title: Tradition der Angroschgeweihten I

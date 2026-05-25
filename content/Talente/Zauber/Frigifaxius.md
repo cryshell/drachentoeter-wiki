@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 9e3c2863-0342-4816-8ad4-5b9bc686820e
+ID: e19723e4-49cf-4e91-8bc9-6a837b7de9c2
 Quelle: datenbank.xml
 Name: Frigifaxius
 title: Frigifaxius
@@ -31,5 +31,5 @@ Ein Strahl aus elementarem Eis fügt dem Ziel 2W6 TP zu und verursacht *Erfriere
 - **Fertigkeiten:**
   - [[Eis]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Geoden I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Shakagra I]] ODER Vorteil [[Tradition der Geoden I]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 5fd9b09f-fc1f-4ef5-ab53-ff69ccd7fd89
+ID: 98af52c3-ec82-427e-a748-b40ccebf4f4b
 Quelle: datenbank.xml
 Name: Fünflagenharnisch
 title: Fünflagenharnisch

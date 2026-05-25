@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 82987ca6-79d0-45d0-9dd6-242e98f10088
+ID: 4f57402c-dfcf-4cef-8af6-7abd26e501bd
 Quelle: datenbank.xml
 Name: Serpentialis Schlangenleib
 title: Serpentialis Schlangenleib
@@ -33,5 +33,5 @@ Schlangengriff (Wirkungsdauer 4 Minuten, 4 AsP; deine Arme verwandeln sich 2 sch
 - **Fertigkeiten:**
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

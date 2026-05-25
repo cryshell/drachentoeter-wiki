@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 15575518-e596-4656-814a-d0b8c6472ae4
+ID: 59417ee2-7d0f-4ff4-9446-8827cf19e157
 Quelle: datenbank.xml
 Name: "Tradition der Bogner & Armbruster II"
 title: "Tradition der Bogner & Armbruster II"

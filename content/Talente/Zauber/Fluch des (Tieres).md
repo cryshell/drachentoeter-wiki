@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 3f2f9d1c-8cd5-4ff2-85d9-f4d7cc16360c
+ID: fa4a7803-a3be-4b99-b22f-1f56b5a8a4b8
 Quelle: datenbank.xml
 Name: Fluch des (Tieres)
 title: Fluch des (Tieres)

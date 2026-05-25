@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 1ed8c5dd-8ab7-4702-be06-69246b6211d3
+ID: 2bcaaa67-6110-4eea-ae52-f0e606d0f824
 Quelle: datenbank.xml
 Name: Halluzination
 title: Halluzination
@@ -30,5 +30,5 @@ Deinem Opfer erscheint eine Halluzination deiner Wahl, die es mit allen fünf Si
 - **Fertigkeiten:**
   - [[Einfluss]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 20 EP

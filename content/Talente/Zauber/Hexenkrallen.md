@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 98a62ac9-2eac-4ec1-9aa5-cc8445b0b61d
+ID: db1dd43a-509e-454a-a87a-a4fa81724445
 Quelle: datenbank.xml
 Name: Hexenkrallen
 title: Hexenkrallen
@@ -32,5 +32,5 @@ Deine Fingernägel werden lang, scharf und hart wie Raubtierklauen. Deine Hände
   - [[Eigenschaften]]
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Hexen I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Hexen I]]
 - **Erlernen:** 20 EP

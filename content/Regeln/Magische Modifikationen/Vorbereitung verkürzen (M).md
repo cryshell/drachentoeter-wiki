@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: f136dcad-55df-4dba-877d-ea2dcb8d7b09
+ID: e5ce1ee0-4165-4ffb-9110-bbe10f68f95d
 Quelle: datenbank.xml
 Name: Vorbereitung verkürzen (M)
 title: Vorbereitung verkürzen (M)
@@ -14,4 +14,4 @@ Die Vorbereitungszeit des Zaubers halbiert sich. Eine Vorbereitungszeit von 1 Ak
 
 - **Probe:** Zauber -4
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Tradition der Borbaradianer I]]

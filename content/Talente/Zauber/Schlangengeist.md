@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 0c443663-671c-4cda-b714-c4e93e1739dd
+ID: 6ec26293-8614-44d5-9870-a77dd50db075
 Quelle: datenbank.xml
 Name: Schlangengeist
 title: Schlangengeist
@@ -29,5 +29,5 @@ Du rufst einen Schlangengeist, den du an dich bindest. Wenn du die Bindung löst
   - [[Geister des Zorns]]
   - [[Verständigung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Achaz) I ODER Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Trollzacker) I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+  - Vorteil [[Tradition der Schamanen (Achaz) I]] ODER Vorteil [[Tradition der Schamanen (Ferkina) I]] ODER Vorteil [[Tradition der Schamanen (Gjalsker) I]] ODER Vorteil [[Tradition der Schamanen (Trollzacker) I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]]
 - **Erlernen:** 40 EP

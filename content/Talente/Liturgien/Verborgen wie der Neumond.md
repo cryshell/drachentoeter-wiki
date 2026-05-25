@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 24001cb3-844a-4cfe-aa03-2df4609c5493
+ID: 774a5df4-81bd-4769-85a2-d610beb61918
 Quelle: datenbank.xml
 Name: Verborgen wie der Neumond
 title: Verborgen wie der Neumond
@@ -30,5 +30,5 @@ Du passt dich deiner Umgebung an. Du erhältst den Vorteil Tarnung (kein Malus d
   - [[Nächtlicher Schatten]]
   - [[Nacht]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Phexgeweihten I ODER Vorteil Tradition der V’Sargeweihten I]]
+  - Vorteil [[Tradition der Phexgeweihten I]] ODER Vorteil [[Tradition der V’Sargeweihten I]]
 - **Erlernen:** 20 EP

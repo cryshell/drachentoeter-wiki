@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 5cb7a9ba-9897-49c4-8cad-eb71c1e1724f
+ID: 29a5c8ee-9c46-421b-8d97-3c0e550851c6
 Quelle: datenbank.xml
 Name: Elfenlieder
 title: Elfenlieder
@@ -55,4 +55,4 @@ Die auf einem Iama vorgetragenen Elfenlieder gehören zu den ältesten Spielarte
   - [[Verwandlung des Iama (passiv)]]
   - [[Zaubermelodie]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Shakagra I]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 04327986-e645-402e-bac2-b6e5151ed82f
+ID: cea75533-d482-45b4-8e08-407e02cb5479
 Quelle: datenbank.xml
 Name: Thorwalerschild
 title: Thorwalerschild

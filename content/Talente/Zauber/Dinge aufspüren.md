@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 3c5e3421-0a1f-4070-b00d-50d668088878
+ID: a8e47a13-1fe5-4deb-8300-9039d1824f0f
 Quelle: datenbank.xml
 Name: Dinge aufspüren
 title: Dinge aufspüren
@@ -29,5 +29,5 @@ Dein Vertrautentier teilt dir mit, in welcher Richtung sich ein Gegenstand aus d
   - [[Hellsicht]]
   - [[Vertrautenmagie]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Zibilja I]]
+  - Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Schamanen (Goblins) I]] ODER Vorteil [[Tradition der Zibilja I]]
 - **Erlernen:** 10 EP

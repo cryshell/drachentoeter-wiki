@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 7c96edf3-3e32-472c-a700-34afb9fb16c9
+ID: c2f96511-ab36-4a3a-8053-fcb66491317d
 Quelle: datenbank.xml
 Name: Mammutonpanzer
 title: Mammutonpanzer

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 7ca2fe07-0ce2-43b1-b15f-580bc3734e4c
+ID: 0af56f0c-e5e2-424e-afc8-6d5637385b8e
 Quelle: datenbank.xml
 Name: Erneuerung des Landes
 title: Erneuerung des Landes
@@ -29,5 +29,5 @@ Dein Gebet schwächt dämonische Verseuchung in deiner Umgebung. Auf der Skala n
 - **Fertigkeiten:**
   - [[Wachstum]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Perainegeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I]]
+  - Vorteil [[Tradition der Perainegeweihten I]] ODER Vorteil [[Tradition der Ssad’Huargeweihten I]]
 - **Erlernen:** 20 EP

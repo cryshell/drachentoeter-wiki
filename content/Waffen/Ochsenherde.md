@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 718401ed-491d-40e3-8069-b3fcbf007ba1
+ID: 36bd8d14-df43-4afb-8b6a-c6fddf9129a6
 Quelle: datenbank.xml
 Name: Ochsenherde
 title: Ochsenherde

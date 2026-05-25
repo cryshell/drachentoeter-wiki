@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6abba7fc-cc22-4c3f-a343-fb12fd324d58
+ID: 5188a5ec-1651-4cba-bcc8-cea52e1d653e
 Quelle: datenbank.xml
 Name: Tiergeist (Eule)
 title: Tiergeist (Eule)

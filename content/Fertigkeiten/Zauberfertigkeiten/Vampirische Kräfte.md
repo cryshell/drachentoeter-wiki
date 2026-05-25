@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: d5796a6f-a28f-4552-8efa-e1011988f7d5
+ID: fc3b1633-fb50-48b0-83fe-22691ba370bc
 Quelle: datenbank.xml
 Name: Vampirische Kräfte
 title: Vampirische Kräfte
@@ -53,4 +53,4 @@ Diese übernatürlichen Kräfte ermöglichen es Vampiren unter anderem, ihren Op
   - [[Sog des Purpurnen (passiv)]]
   - [[Stärke des untoten Leibs]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kinder der Nacht ODER Vorteil Tradition der Kinder der Finsternis ODER Vorteil Tradition der Lamijahnim ODER Vorteil Tradition der Feylamia]]
+  - Vorteil [[Tradition der Kinder der Nacht]] ODER Vorteil [[Tradition der Kinder der Finsternis]] ODER Vorteil [[Tradition der Lamijahnim]] ODER Vorteil [[Tradition der Feylamia]]

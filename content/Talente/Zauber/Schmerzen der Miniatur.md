@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 4d76cb51-1092-4762-9eab-3f349ef43f8c
+ID: 10bb4fef-a46d-4d7b-8860-f2186872c60e
 Quelle: datenbank.xml
 Name: Schmerzen der Miniatur
 title: Schmerzen der Miniatur
@@ -33,5 +33,5 @@ Mit Dolchstichen in eine Miniatur der Herrschaft kannst du dem Opfer Schmerzen z
   - [[Verständigung]]
   - [[Geister des Zorns]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Trollzacker) I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Schamanen (Ferkina) I]] ODER Vorteil [[Tradition der Schamanen (Trollzacker) I]]
 - **Erlernen:** 10 EP

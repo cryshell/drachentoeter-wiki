@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 210bdc63-4f1b-497d-a2c7-9baa72a04a13
+ID: 1145db45-3348-426e-ac5f-ea1581760a71
 Quelle: datenbank.xml
 Name: Conagas Ruf
 title: Conagas Ruf
@@ -28,5 +28,5 @@ Du bläst in dein Muschelhorn und segnest einen Bereich mit einem Radius von 128
 - **Fertigkeiten:**
   - [[Seefahrt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Swafnirgeweihten I]]
+  - Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Swafnirgeweihten I]]
 - **Erlernen:** 10 EP

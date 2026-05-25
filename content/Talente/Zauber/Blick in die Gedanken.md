@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 6b4e377d-4701-428d-80b8-0196859b0a1b
+ID: d6d621ab-84e5-4fb2-82ea-939db931525b
 Quelle: datenbank.xml
 Name: Blick in die Gedanken
 title: Blick in die Gedanken
@@ -34,5 +34,5 @@ Verhandlungssinn (nicht Elf, -4, Wirkungsdauer 1 Stunde; du kannst die Argumente
 - **Fertigkeiten:**
   - [[Hellsicht]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Shakagra I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

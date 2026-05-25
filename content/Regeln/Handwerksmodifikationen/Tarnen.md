@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: e59f0f05-dc6d-4160-90e9-2cf5210c3b4a
+ID: 84d118fc-3ee7-40e5-9a5c-7b562cde6ac5
 Quelle: datenbank.xml
 Name: Tarnen
 title: Tarnen
@@ -16,4 +16,4 @@ Die Kleidung oder Rüstung erhält die Eigenschaft Tarnung für eine Umgebung na
 
 - **Probe:** Fertigung -4
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Sattler & Kürschner III ODER Vorteil Tradition der Schneider & Weber III]]
+  - Vorteil [[Tradition der Sattler & Kürschner III]] ODER Vorteil [[Tradition der Schneider & Weber III]]

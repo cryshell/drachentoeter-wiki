@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 435271e6-be81-4eb8-9152-a374f6394b95
+ID: 0f0a79f7-037e-4548-9411-4a668266a66c
 Quelle: datenbank.xml
 Name: "Mirakel: 1. Fertigkeit"
 title: "Mirakel: 1. Fertigkeit"

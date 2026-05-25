@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 83e475c3-e07c-4e54-84e9-e14e3e7f05b6
+ID: 22115521-8dfe-4281-8bb4-4a0e777f4cf3
 Quelle: datenbank.xml
 Name: Sicht auf Madas Welt
 title: Sicht auf Madas Welt
@@ -37,5 +37,5 @@ Du nimmst magische Kraft in deiner Umgebung als silbernen Schimmer wahr. Das ent
   - [[Magiebann]]
   - [[Geister]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der Phexgeweihten I ODER Vorteil Tradition der Praiosgeweihten I ODER Vorteil Tradition der H’Szintgeweihten I ODER Vorteil Tradition der Nandusgeweihten I ODER Vorteil Tradition der Tairachgeweihten I]]
+  - Vorteil [[Tradition der Hesindegeweihten I]] ODER Vorteil [[Tradition der Phexgeweihten I]] ODER Vorteil [[Tradition der Praiosgeweihten I]] ODER Vorteil [[Tradition der H’Szintgeweihten I]] ODER Vorteil [[Tradition der Nandusgeweihten I]] ODER Vorteil [[Tradition der Tairachgeweihten I]]
 - **Erlernen:** 10 EP

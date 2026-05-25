@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 273cabc9-2eba-4808-bb74-d73b32883776
+ID: 398ac8e3-a4ca-4b4e-a89b-eb988d3c997c
 Quelle: datenbank.xml
 Name: Eisenrost und Patina
 title: Eisenrost und Patina
@@ -34,5 +34,5 @@ Du lässt je nach AsP-Aufwand einen metallischen Gegenstand auf der Größenskal
   - [[Objekt]]
   - [[Temporal]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 20 EP

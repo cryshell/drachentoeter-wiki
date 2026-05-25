@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 9502a003-f083-4716-af8f-e87e8b24372c
+ID: 23de0e1a-bc23-4d05-bb45-2ee34e46e28a
 Quelle: datenbank.xml
 Name: Stahlbeinschienen
 title: Stahlbeinschienen

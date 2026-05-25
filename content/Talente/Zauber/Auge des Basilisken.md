@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: f286271f-13ce-45a3-af98-a3283db1213e
+ID: a6c9dd9c-5a9e-460e-beb7-ae46966b1ceb
 Quelle: datenbank.xml
 Name: Auge des Basilisken
 title: Auge des Basilisken
@@ -32,5 +32,5 @@ Das Zeichen wird in einem Durchmesser von 32 Fingern auf einer beliebigen Fläch
   - [[Verwandlung]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 40 EP

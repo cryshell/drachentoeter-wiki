@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: b1c7f365-d3be-4405-bb44-b6879e632ea1
+ID: 9ea36853-f141-4d19-8e87-82159bb1b628
 Quelle: datenbank.xml
 Name: Magie
 title: Magie
@@ -47,4 +47,4 @@ Hesinde gilt als Schutzpatronin der Magie und nicht wenige Geweihte, gerade unte
   - [[Sicht auf Madas Welt]]
   - [[Unverstellter Blick]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Hesindegeweihten I ODER Vorteil Tradition der H’Szintgeweihten I]]
+  - Vorteil [[Tradition der Hesindegeweihten I]] ODER Vorteil [[Tradition der H’Szintgeweihten I]]

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: c875c101-3b64-472d-8379-9f6f523e1b88
+ID: 02d7c81e-7559-444d-ac7f-d2fdbed887c5
 Quelle: datenbank.xml
 Name: Zeit lassen
 title: Zeit lassen
@@ -16,4 +16,4 @@ Verdoppelt die Vorbereitungszeit, aber erleichtert den Zauber um +2. Eine Vorber
 
 - **Probe:** Zauber +2
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Alchemisten III ODER Vorteil Tradition der Elfen III ODER Vorteil Tradition der Geoden III ODER Vorteil Tradition der Gildenmagier III ODER Vorteil Tradition der Kristallomanten III ODER Vorteil Tradition der Scharlatane III ODER Vorteil Tradition der Zauberbarden III]]
+  - Vorteil [[Tradition der Alchemisten III]] ODER Vorteil [[Tradition der Elfen III]] ODER Vorteil [[Tradition der Geoden III]] ODER Vorteil [[Tradition der Gildenmagier III]] ODER Vorteil [[Tradition der Kristallomanten III]] ODER Vorteil [[Tradition der Scharlatane III]] ODER Vorteil [[Tradition der Zauberbarden III]]

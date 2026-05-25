@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 7feeac4a-a8fb-4a46-98f7-78f26a5253c7
+ID: 1c50ae15-92cb-4a81-8929-da9605bc2f9c
 Quelle: datenbank.xml
 Name: Fluch der Götter (Mokoscha)
 title: Fluch der Götter (Mokoscha)

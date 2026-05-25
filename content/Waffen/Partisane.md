@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 5ed591ad-77a9-498b-ac26-0b65585a015d
+ID: eeae5ca2-1943-44bd-8b63-3520b78087c0
 Quelle: datenbank.xml
 Name: Partisane
 title: Partisane

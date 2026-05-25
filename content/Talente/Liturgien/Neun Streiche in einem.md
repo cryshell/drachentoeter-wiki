@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 536e5e61-e0e2-4283-8823-3bd7af3d25c2
+ID: a4c0b7bf-d6e7-461c-b63b-f8135848edcc
 Quelle: datenbank.xml
 Name: Neun Streiche in einem
 title: Neun Streiche in einem
@@ -28,5 +28,5 @@ Du wirfst die Kraft des Gnadenlosen in deinen nächsten Angriff. Trifft dieser A
 - **Fertigkeiten:**
   - [[Guter Kampf]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Korgeweihten I ODER Vorteil Tradition der Kr’Thon’Chhgeweihten I]]
+  - Vorteil [[Tradition der Korgeweihten I]] ODER Vorteil [[Tradition der Kr’Thon’Chhgeweihten I]]
 - **Erlernen:** 20 EP

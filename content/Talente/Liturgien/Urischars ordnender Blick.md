@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c094a29b-fe10-437f-97d8-c76df12a7815
+ID: bd7b84ee-dcde-497f-81b0-febf6a7464b3
 Quelle: datenbank.xml
 Name: Urischars ordnender Blick
 title: Urischars ordnender Blick
@@ -30,5 +30,5 @@ Du siehst die verborgene Ordnung im Chaos: Du findest Bücher der gleichen Fachr
   - [[Einsicht]]
   - [[Ordnung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Nandusgeweihten I ODER Vorteil Tradition der Praiosgeweihten I]]
+  - Vorteil [[Tradition der Nandusgeweihten I]] ODER Vorteil [[Tradition der Praiosgeweihten I]]
 - **Erlernen:** 10 EP

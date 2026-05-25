@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e667737b-f2f9-4dca-8ffd-3e1b95f5d3d1
+ID: 49dce028-c63e-47ab-9f82-36b976cb5edc
 Quelle: datenbank.xml
 Name: Klickeradomms
 title: Klickeradomms
@@ -29,5 +29,5 @@ Du zerbrichst einen Gegenstand, den du auch mit einem Fausthieb zertrümmern kö
 - **Fertigkeiten:**
   - [[Umwelt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 10 EP

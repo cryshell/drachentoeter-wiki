@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: f10b091e-6740-4b9c-81b3-f5ed55b2eb14
+ID: 5ab5848c-d22f-4aec-9026-e978e132b01d
 Quelle: datenbank.xml
 Name: Seidenweich Schuppengleich
 title: Seidenweich Schuppengleich
@@ -29,5 +29,5 @@ Du gibst durch eine *Illusion* (Tastsinn) dem verzauberten Gegenstand eine Textu
 - **Fertigkeiten:**
   - [[Illusion]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 10 EP

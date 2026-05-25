@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b6cf9617-b9bc-44be-8069-4b574d20318a
+ID: ca96cc1e-653b-420b-bd84-f81eb40b48e6
 Quelle: datenbank.xml
 Name: Glyphe des verfluchten Goldes
 title: Glyphe des verfluchten Goldes
@@ -35,5 +35,5 @@ Das Zeichen wird in einem Durchmesser von 16 Fingern auf einem maximal schrankgr
   - [[Objekt]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Zibilja I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Zibilja I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: f3746ea7-b08f-4b8c-9659-0d82f65528eb
+ID: b6e8508b-ae2e-4f5f-a1ff-70d3ade41ea7
 Quelle: datenbank.xml
 Name: Schutzgeist
 title: Schutzgeist

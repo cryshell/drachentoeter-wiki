@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: ce4f58b8-6548-4a99-9a46-60c9b9b59b8c
+ID: 00c25af3-0376-4441-9553-f06fe5b8996b
 Quelle: datenbank.xml
 Name: Gänsegeschnatter
 title: Gänsegeschnatter
@@ -32,5 +32,5 @@ Im Laufe des Tages fliegt dir eine Wildgans (Tra) oder ein Zugvogel (Aves) zu, d
   - [[Fröhlicher Wanderer]]
   - [[Sichere Heimkehr]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Traviageweihten I]]
+  - Vorteil [[Tradition der Avesgeweihten I]] ODER Vorteil [[Tradition der Traviageweihten I]]
 - **Erlernen:** 20 EP

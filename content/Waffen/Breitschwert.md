@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 173bc970-edb3-484a-b056-ce75eb737b5a
+ID: 8ec24a09-7a2b-4d4b-a1c0-8d4b1c438603
 Quelle: datenbank.xml
 Name: Breitschwert
 title: Breitschwert

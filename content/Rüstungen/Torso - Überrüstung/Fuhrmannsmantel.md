@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 3faa6962-da59-4463-a6ef-f40884bc7e7c
+ID: 2e1768ac-d24e-4a95-9386-324153c4ed80
 Quelle: datenbank.xml
 Name: Fuhrmannsmantel
 title: Fuhrmannsmantel

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: f75d5f1f-7855-4fb2-b426-2cc2e8002223
+ID: ebdcf4c9-337b-4edd-aebd-f2109cd8da0b
 Quelle: datenbank.xml
 Name: "Herzschlag ruhe!"
 title: "Herzschlag ruhe!"

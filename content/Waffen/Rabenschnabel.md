@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 98a6d40f-8777-4b2d-b038-3ac0dc7bb6c3
+ID: 3ef16b24-e1f3-4fe9-a7da-7825e3f76659
 Quelle: datenbank.xml
 Name: Rabenschnabel
 title: Rabenschnabel

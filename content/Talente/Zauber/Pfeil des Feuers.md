@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 94a0cba7-560a-42de-90c7-805d9add246d
+ID: e98090de-a529-4bfb-a25c-42c78fb61837
 Quelle: datenbank.xml
 Name: Pfeil des Feuers
 title: Pfeil des Feuers
@@ -32,5 +32,5 @@ Du verzauberst einen Pfeil (oder Bolzen oder Wurfwaffe), sodass er im Flug die M
   - [[Feuer]]
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Elfen I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Elfen I]]
 - **Erlernen:** 20 EP

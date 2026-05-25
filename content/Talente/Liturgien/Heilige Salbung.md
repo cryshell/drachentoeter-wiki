@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b40194b5-ade1-48f6-910c-56a55f57b532
+ID: 274ce959-8916-492e-a2a6-b546645f27e9
 Quelle: datenbank.xml
 Name: Heilige Salbung
 title: Heilige Salbung
@@ -31,5 +31,5 @@ Hohe Qualität: Heilt 2 weitere Sikaryanwunden.
   - [[Friede]]
   - [[Heilung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Perainegeweihten I ODER Vorteil Tradition der Tsageweihten I]]
+  - Vorteil [[Tradition der Perainegeweihten I]] ODER Vorteil [[Tradition der Tsageweihten I]]
 - **Erlernen:** 10 EP

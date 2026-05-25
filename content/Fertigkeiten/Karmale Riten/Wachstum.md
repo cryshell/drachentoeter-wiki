@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 0c53fc19-0a31-43b1-92a6-2f21957bb7cc
+ID: ffe27e00-db7c-4b65-9ff4-dbd06169c3fc
 Quelle: datenbank.xml
 Name: Wachstum
 title: Wachstum
@@ -51,4 +51,4 @@ Viele ländliche Perainegeweihte beteiligen sich an der bäuerlichen Arbeit und 
   - [[Segensreiches Wasser]]
   - [[Wohlverdiente Rast]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Perainegeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I]]
+  - Vorteil [[Tradition der Perainegeweihten I]] ODER Vorteil [[Tradition der Ssad’Huargeweihten I]]

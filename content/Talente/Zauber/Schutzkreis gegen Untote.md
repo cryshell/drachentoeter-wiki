@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 6a198724-7f8d-47f1-b838-968f67515998
+ID: 70fee379-1dec-44ad-91a8-fb5d8b5406c1
 Quelle: datenbank.xml
 Name: Schutzkreis gegen Untote
 title: Schutzkreis gegen Untote
@@ -33,5 +33,5 @@ Das Zeichen wird auf einer beliebigen Fläche angebracht. Du ziehst einen Kreis 
   - [[Dämonisch]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]]
 - **Erlernen:** 10 EP

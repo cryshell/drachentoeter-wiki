@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: df2ea4d3-3191-469e-b672-bdc2ccb890f4
+ID: 8485ad39-03ab-4fe9-bd12-387abc60427b
 Quelle: datenbank.xml
 Name: Siegel der zweiten Haut
 title: Siegel der zweiten Haut
@@ -34,5 +34,5 @@ Das Zeichen in einem Durchmesser von 16 Fingern wird auf einem maximal schrankgr
   - [[Objekt]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Schamanen (Waldmenschen) I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 8b8a70ba-2b30-420c-956b-4ec6a9d65ee0
+ID: 34e1d202-723a-49f8-8f26-fe546202aede
 Quelle: datenbank.xml
 Name: Jagdmesser
 title: Jagdmesser

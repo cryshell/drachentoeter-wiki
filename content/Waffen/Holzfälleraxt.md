@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 2933a68e-6b05-4b07-84b1-9d09a430fc6b
+ID: bd44496a-755d-4aba-861a-eaf25d37cf34
 Quelle: datenbank.xml
 Name: Holzfälleraxt
 title: Holzfälleraxt

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 48ff8a35-5f51-43da-a2d0-d3720019b4eb
+ID: 88a8ab03-7083-4b95-afa9-ecfb926f1e93
 Quelle: datenbank.xml
 Name: Chamaelioni Mimikry
 title: Chamaelioni Mimikry
@@ -33,5 +33,5 @@ Du verschmilzt vollkommen mit der Umgebung und erhältst den Vorteil Tarnung (ke
   - [[Illusion]]
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

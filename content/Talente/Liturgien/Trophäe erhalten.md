@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: d7c9eaae-9377-4d65-bfdd-ae45b1776f33
+ID: 199e04fa-5fe7-413f-9f22-73149689cd2b
 Quelle: datenbank.xml
 Name: Trophäe erhalten
 title: Trophäe erhalten
@@ -27,5 +27,5 @@ Die gesegnete Jagdbeute verdirbt während der Wirkungsdauer nicht und kann so ve
 - **Fertigkeiten:**
   - [[Jagd]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Firungeweihten I ODER Vorteil Tradition der Ifirngeweihten I]]
+  - Vorteil [[Tradition der Firungeweihten I]] ODER Vorteil [[Tradition der Ifirngeweihten I]]
 - **Erlernen:** 10 EP

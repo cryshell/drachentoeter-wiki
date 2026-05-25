@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: bb802ec2-39ac-43bb-b3c0-03dcf077957e
+ID: 4dd6a6a8-2201-404c-b0c8-fa35206ffee7
 Quelle: datenbank.xml
 Name: "Mirakel: KL"
 title: "Mirakel: KL"

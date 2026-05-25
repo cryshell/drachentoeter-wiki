@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 72b46669-cc5f-4f28-beaa-3951c89ee82d
+ID: 2288950c-ddee-4f46-bb05-6628619b2754
 Quelle: datenbank.xml
 Name: Zorn des Berglöwen
 title: Zorn des Berglöwen
@@ -32,5 +32,5 @@ Du verfällst in einen *Blutrausch*, greifst während diesem aber keine Freunde 
   - [[Einfluss]]
   - [[Geister des Zorns]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Gjalsker) I ODER Vorteil Tradition der Schamanen (Nivesen) I ODER Vorteil Tradition der Schamanen (Trollzacker) I]]
+  - Vorteil [[Tradition der Schamanen (Ferkina) I]] ODER Vorteil [[Tradition der Schamanen (Gjalsker) I]] ODER Vorteil [[Tradition der Schamanen (Nivesen) I]] ODER Vorteil [[Tradition der Schamanen (Trollzacker) I]]
 - **Erlernen:** 10 EP

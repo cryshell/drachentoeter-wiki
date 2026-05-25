@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e286be3a-360a-4101-87ee-817c19de505b
+ID: a3820807-b1e2-4d2d-b7ea-ed5d6684e2fb
 Quelle: datenbank.xml
 Name: Bindung des Iama
 title: Bindung des Iama
@@ -29,5 +29,5 @@ Du stellst eine enge magische Bindung zu deinem Iama her, welche die Voraussetzu
   - [[Elfenlieder]]
   - [[Kraft]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 10 EP

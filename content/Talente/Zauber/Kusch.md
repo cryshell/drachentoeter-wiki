@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b39c1dec-a851-4525-9315-7caa71b9961b
+ID: ab59d203-43b5-414e-8f81-af29cc0b4569
 Quelle: datenbank.xml
 Name: "Kusch!"
 title: "Kusch!"
@@ -29,5 +29,5 @@ Das verzauberte Tier flieht vor dir.
 - **Fertigkeiten:**
   - [[Einfluss]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 10 EP

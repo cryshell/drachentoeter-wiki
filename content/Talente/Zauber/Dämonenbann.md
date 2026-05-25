@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: ffe8e2ba-9389-429d-8c21-17f328a76084
+ID: 03d3dc6d-dd16-4f43-82e6-4493f9e24496
 Quelle: datenbank.xml
 Name: Dämonenbann
 title: Dämonenbann
@@ -33,5 +33,5 @@ Pentagramma (Probenschwierigkeit Beschwörungsschwierigkeit des Ziels, 16 Aktion
   - [[Antimagie]]
   - [[Dämonisch]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]]
 - **Erlernen:** 20 EP

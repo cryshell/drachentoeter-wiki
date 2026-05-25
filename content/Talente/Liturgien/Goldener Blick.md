@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 7b4b7795-afcb-4765-bd7d-b0798363f842
+ID: 4ec83151-6896-4d97-b48b-4211ac8a8a52
 Quelle: datenbank.xml
 Name: Goldener Blick
 title: Goldener Blick
@@ -28,5 +28,5 @@ Du erspürst die Gegenwart und die genaue Lage von unverarbeiteten Bodenschätze
 - **Fertigkeiten:**
   - [[Heiliges Erz]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+  - Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Angroschgeweihten I]] ODER Vorteil [[Tradition der Graveshgeweihten I]]
 - **Erlernen:** 10 EP

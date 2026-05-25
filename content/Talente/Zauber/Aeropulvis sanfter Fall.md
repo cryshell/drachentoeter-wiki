@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e3e3e2eb-3df9-4b5f-8a94-f25a0cef1548
+ID: 6b63e9cc-3a3c-4567-8d22-4c3f34eb10ca
 Quelle: datenbank.xml
 Name: Aeropulvis sanfter Fall
 title: Aeropulvis sanfter Fall
@@ -27,5 +27,5 @@ Halbiert die effektive Höhe eines Sturzes kumulativ zur Körperbeherrschungs-Pr
 - **Fertigkeiten:**
   - [[Luft]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Hexen I]]
+  - Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Hexen I]]
 - **Erlernen:** 20 EP

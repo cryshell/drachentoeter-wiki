@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 2617e123-2b99-4dd2-9b10-c8ad25ecfcc2
+ID: 1e712ed6-092d-4ce1-acea-e7699578d3ba
 Quelle: datenbank.xml
 Name: Pfeil des Humus
 title: Pfeil des Humus
@@ -32,5 +32,5 @@ Du verzauberst einen Pfeil (oder Bolzen oder Wurfwaffe), sodass er im Flug die M
   - [[Humus]]
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Elfen I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

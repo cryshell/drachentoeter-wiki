@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 15c6f50e-ec55-4cdb-9d42-0b6c5d345930
+ID: 8a3fb282-a01e-4088-af9a-61e245f35401
 Quelle: datenbank.xml
 Name: "Totes handle!"
 title: "Totes handle!"
@@ -26,5 +26,5 @@ Du erschaffst aus einer Leiche einen untoten Diener. Der Untote hat sich nach 1 
 - **Fertigkeiten:**
   - [[Dämonisch]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I]]
+  - Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Gildenmagier I]]
 - **Erlernen:** 40 EP

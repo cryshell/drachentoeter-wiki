@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c5940532-6da7-4823-aef8-5d4b643cb801
+ID: c23e8eab-766a-44e1-beef-7f993ff1d315
 Quelle: datenbank.xml
 Name: Respondami Wahrheitszwang
 title: Respondami Wahrheitszwang
@@ -28,5 +28,5 @@ Das Ziel muss eine Ja/Nein-Frage wahrheitsgemäß beantworten. Ist die Frage nic
 - **Fertigkeiten:**
   - [[Einfluss]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

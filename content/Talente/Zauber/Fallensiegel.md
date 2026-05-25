@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 53e25f5e-3c34-48c0-8196-e08585daa61e
+ID: 3a648cc8-5290-4ad9-b580-c7c09edcbab1
 Quelle: datenbank.xml
 Name: Fallensiegel
 title: Fallensiegel
@@ -45,5 +45,5 @@ Das Zeichen wird in einem Durchmesser von 8 Fingern auf einem maximal schrankgro
   - [[Wasser]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Zibilja I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+  - Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Zibilja I]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]]
 - **Erlernen:** 20 EP

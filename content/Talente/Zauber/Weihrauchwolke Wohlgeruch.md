@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 07dfe908-58a7-49af-9504-325875484a07
+ID: 6bd7ab52-7798-4f59-9651-17bb4af9847b
 Quelle: datenbank.xml
 Name: Weihrauchwolke Wohlgeruch
 title: Weihrauchwolke Wohlgeruch
@@ -32,5 +32,5 @@ Du verleihst deinem Ziel einen angenehmen Geruch deiner Wahl. *Illusion* (Geruch
 - **Fertigkeiten:**
   - [[Illusion]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 10 EP

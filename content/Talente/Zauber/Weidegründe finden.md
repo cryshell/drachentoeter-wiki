@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 45038e13-b06d-437c-b727-f1eee61d857c
+ID: 0380b29b-98a5-49cc-b774-4712f13833df
 Quelle: datenbank.xml
 Name: Weidegründe finden
 title: Weidegründe finden
@@ -36,5 +36,5 @@ Die Geister helfen dir auf dem Weg zu den nächsten Weidegründen. Entsprechende
   - [[Geister der Stärkung]]
   - [[Geister rufen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Schamanen (Ferkina) I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Schamanen (Nivesen) I ODER Vorteil Tradition der Schamanen (Orks) I]]
+  - Vorteil [[Tradition der Schamanen (Ferkina) I]] ODER Vorteil [[Tradition der Schamanen (Goblins) I]] ODER Vorteil [[Tradition der Schamanen (Nivesen) I]] ODER Vorteil [[Tradition der Schamanen (Orks) I]]
 - **Erlernen:** 0 EP

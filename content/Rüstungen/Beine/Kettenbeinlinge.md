@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 9f2f83f3-3a27-4262-b56d-d44e82f9eca0
+ID: d7ac35e1-1056-45be-8b2e-5b985929dab5
 Quelle: datenbank.xml
 Name: Kettenbeinlinge
 title: Kettenbeinlinge

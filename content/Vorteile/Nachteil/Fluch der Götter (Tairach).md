@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: bceb8e46-71cf-4374-a9e8-0d6d8d7af866
+ID: c55657d4-7b16-4953-a3cd-8c8f78460186
 Quelle: datenbank.xml
 Name: Fluch der Götter (Tairach)
 title: Fluch der Götter (Tairach)

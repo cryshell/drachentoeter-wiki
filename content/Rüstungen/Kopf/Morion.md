@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 7968c06f-38ee-43fb-b45b-06c87a79fa51
+ID: 567aa58c-3e7c-472a-9b97-e55c7bb15308
 Quelle: datenbank.xml
 Name: Morion
 title: Morion

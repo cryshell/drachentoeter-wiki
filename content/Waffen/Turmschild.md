@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 69add8ab-d032-4779-9e64-2d56c94a41b1
+ID: aacb6007-d5a0-497a-bede-11fa11a8277c
 Quelle: datenbank.xml
 Name: Turmschild
 title: Turmschild

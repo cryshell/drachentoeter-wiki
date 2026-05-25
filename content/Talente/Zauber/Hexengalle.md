@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 3320bff1-228c-4645-adf4-8f8b01d26b6b
+ID: 4fea7495-c2a9-48b1-b314-5430afe37a12
 Quelle: datenbank.xml
 Name: Hexengalle
 title: Hexengalle
@@ -33,5 +33,5 @@ Krötenschweiß (-4, Wirkungsdauer 4 Minuten, 16 AsP; dein Schweiß wird ätzend
 - **Fertigkeiten:**
   - [[Eigenschaften]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

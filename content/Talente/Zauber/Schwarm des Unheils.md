@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: f751a7ef-d4e5-4605-9ff3-0612c305d576
+ID: aa090a30-5546-4693-81a0-72cc95af12db
 Quelle: datenbank.xml
 Name: Schwarm des Unheils
 title: Schwarm des Unheils
@@ -33,5 +33,5 @@ Fledermausschwarm (-4, nur Kdf; entspricht der Variante Rabenschwarm mit Radarsi
   - [[Vampirische Kräfte]]
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kinder der Nacht ODER Vorteil Tradition der Kinder der Finsternis]]
+  - Vorteil [[Tradition der Kinder der Nacht]] ODER Vorteil [[Tradition der Kinder der Finsternis]]
 - **Erlernen:** 40 EP

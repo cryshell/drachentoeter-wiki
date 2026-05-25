@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e904d8f4-89b6-4080-9fc1-9fb687f7025b
+ID: 555aa3b5-7e65-4706-b4dd-8ea6b0f8704d
 Quelle: datenbank.xml
 Name: Sanftmut
 title: Sanftmut
@@ -28,5 +28,5 @@ Das verzauberte Tier verliert seine Angriffslust und wird *benommen*, solange es
 - **Fertigkeiten:**
   - [[Einfluss]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 10 EP

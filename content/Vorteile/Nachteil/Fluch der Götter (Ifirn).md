@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 43c8c32b-ed37-44e1-bf87-2982f3b25a0b
+ID: 5246964b-ba99-4037-be2f-3787c62dd513
 Quelle: datenbank.xml
 Name: Fluch der Götter (Ifirn)
 title: Fluch der Götter (Ifirn)

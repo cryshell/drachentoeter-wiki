@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 2dcb2f1b-fc94-448c-8381-dba345f9ccef
+ID: 6e00d539-1527-4fb7-9a0a-01a16cd40449
 Quelle: datenbank.xml
 Name: Zauberzwang
 title: Zauberzwang
@@ -30,5 +30,5 @@ Du erlegst dem Opfer eine Aufgabe auf, die nicht tödlich sein darf, oder ein Ge
 - **Fertigkeiten:**
   - [[Einfluss]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 40 EP

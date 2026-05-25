@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c369fe83-3a72-4e5c-865d-772be5e65a56
+ID: 033ea70c-2e4d-4cdc-bc57-73c9cfc3cc53
 Quelle: datenbank.xml
 Name: Bindung des Dolches
 title: Bindung des Dolches
@@ -29,5 +29,5 @@ Du stellst eine enge magische Bindung zu deinem Ritualgegenstand (ein Vulkanglas
   - [[Dolchzauber]]
   - [[Objekt]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Geoden I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Geoden I]]
 - **Erlernen:** 10 EP

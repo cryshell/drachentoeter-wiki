@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 4ff2a24c-588d-441c-9d5c-d237a96da03e
+ID: 0238d7e3-b784-49bd-913d-2924fa999649
 Quelle: datenbank.xml
 Name: Glyphe der elementaren Attraktion
 title: Glyphe der elementaren Attraktion
@@ -48,5 +48,5 @@ Das Zeichen wird in einem Durchmesser von 4 Fingern auf einem maximal schrankgro
   - [[Wasser]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kristallomanten I ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+  - Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]]
 - **Erlernen:** 20 EP

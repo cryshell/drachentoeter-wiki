@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: d4e84f1c-29b2-471b-9b85-f92e6f0200b7
+ID: c073f055-b375-4f97-a5e0-f6dc56ec1c4c
 Quelle: datenbank.xml
 Name: Chimaeroform Hybridgestalt
 title: Chimaeroform Hybridgestalt
@@ -28,5 +28,5 @@ Du erschaffst eine Chimäre aus zwei oder mehr Lebewesen. Eines dieser Lebewesen
   - [[Dämonisch]]
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 40 EP

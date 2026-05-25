@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 74e9b00a-2ed0-4e6c-adf0-41e3f9f28ad8
+ID: 2f3e336d-cd57-4912-a6df-5dfebce0dd79
 Quelle: datenbank.xml
 Name: Armatrutz
 title: Armatrutz
@@ -31,5 +31,5 @@ Der RS deines Zieles steigt um 1.
   - [[Eigenschaften]]
   - [[Erz]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Alchemisten I ODER Vorteil Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Scharlatane I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Alchemisten I]] ODER Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Shakagra I]] ODER Vorteil [[Tradition der Scharlatane I]]
 - **Erlernen:** 20 EP

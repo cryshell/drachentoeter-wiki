@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 13117ce8-5955-424d-b92a-14f828249ba4
+ID: 97980ecf-f376-456e-aadf-a4ece32315e4
 Quelle: datenbank.xml
 Name: "Dämonische Stärkung: MR"
 title: "Dämonische Stärkung: MR"

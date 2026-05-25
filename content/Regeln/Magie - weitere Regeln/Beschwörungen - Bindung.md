@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Regel
-ID: 5c6dbf47-38f7-42b4-abaf-63a0320d5fa2
+ID: 0ecb34fe-68a4-4e40-b77c-efea8e4c458c
 Quelle: datenbank.xml
 Name: Beschwörungen - Bindung
 title: Beschwörungen - Bindung

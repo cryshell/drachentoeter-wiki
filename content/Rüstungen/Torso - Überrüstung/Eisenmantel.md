@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: bf581750-efab-450f-b9d5-5986cb86593e
+ID: 5b80d702-1bd4-4eb7-992c-75c26345d9b5
 Quelle: datenbank.xml
 Name: Eisenmantel
 title: Eisenmantel

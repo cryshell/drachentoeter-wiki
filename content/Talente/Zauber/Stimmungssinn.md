@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 07c61579-2448-4cce-8858-0e447c39a78b
+ID: 4c41c6b2-ba30-4f13-88a3-7babb40e531c
 Quelle: datenbank.xml
 Name: Stimmungssinn
 title: Stimmungssinn
@@ -30,5 +30,5 @@ Dein Vertrautentier starrt das Ziel an und gibt dir seine Eindrücke weiter. Men
   - [[Hellsicht]]
   - [[Vertrautenmagie]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Geoden I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Schamanen (Goblins) I ODER Vorteil Tradition der Zibilja I]]
+  - Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Schamanen (Goblins) I]] ODER Vorteil [[Tradition der Zibilja I]]
 - **Erlernen:** 20 EP

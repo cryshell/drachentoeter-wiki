@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e67a26da-3bcb-4f51-8392-12166438c3c4
+ID: aa3b952f-64a5-4654-92cb-30e4abc7047d
 Quelle: datenbank.xml
 Name: Auris Nasus Oculus
 title: Auris Nasus Oculus
@@ -31,5 +31,5 @@ Eine statische *Illusion* (Sicht, Gehör oder Geruch) deiner Wahl erscheint. Ihr
 - **Fertigkeiten:**
   - [[Illusion]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 40 EP

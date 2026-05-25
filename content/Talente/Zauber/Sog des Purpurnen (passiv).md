@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 376bbd19-21cf-4022-9f59-7ebd98547580
+ID: 2f72456c-6fbf-4c9b-be1f-3d8cceca43c1
 Quelle: datenbank.xml
 Name: Sog des Purpurnen (passiv)
 title: Sog des Purpurnen (passiv)
@@ -22,5 +22,5 @@ Du hast gelernt, statt Sikaryan auch die Astralkraft deiner Opfer zu rauben. Sta
   - [[Vampirische Kräfte]]
 - **Voraussetzungen:**
   - Vorteil [[Zauberer I]]
-  - Vorteil [[Tradition der Kinder der Nacht ODER Vorteil Tradition der Kinder der Finsternis ODER Vorteil Tradition der Feylamia ODER Vorteil Tradition der Lamijahnim]]
+  - Vorteil [[Tradition der Kinder der Nacht]] ODER Vorteil [[Tradition der Kinder der Finsternis]] ODER Vorteil [[Tradition der Feylamia]] ODER Vorteil [[Tradition der Lamijahnim]]
 - **Erlernen:** 40 EP

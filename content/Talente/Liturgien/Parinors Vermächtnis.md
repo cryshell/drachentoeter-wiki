@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e00e76e2-9f47-4188-a228-1ded95ad0d9e
+ID: 6f6f9bf7-c5f5-43c5-9170-c3afe92a910a
 Quelle: datenbank.xml
 Name: Parinors Vermächtnis
 title: Parinors Vermächtnis
@@ -30,5 +30,5 @@ Die gesegnete Pflanze wächst doppelt so schnell, bis sie zu einem prächtigen E
 - **Fertigkeiten:**
   - [[Wachstum]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Perainegeweihten I ODER Vorteil Tradition der Ssad’Huargeweihten I]]
+  - Vorteil [[Tradition der Perainegeweihten I]] ODER Vorteil [[Tradition der Ssad’Huargeweihten I]]
 - **Erlernen:** 10 EP

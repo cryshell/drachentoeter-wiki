@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 0ffb0e26-794f-43e8-9512-f25b52947eaa
+ID: a546129f-9b90-430c-9e3b-0c7f6b6de610
 Quelle: datenbank.xml
 Name: Achfawar
 title: Achfawar

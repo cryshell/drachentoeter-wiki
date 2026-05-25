@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: bad925e5-cc74-49e2-a59f-ad69cf135be4
+ID: 9db413ea-c23e-40f9-bb6f-2ce555d1c7d8
 Quelle: datenbank.xml
 Name: "Mirakel: Heilkunde"
 title: "Mirakel: Heilkunde"

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e26c1ff6-ccda-4670-a739-b222b75d84eb
+ID: 48d4e871-2024-4f5e-afe6-48b0ac199a79
 Quelle: datenbank.xml
 Name: Leib des Eises
 title: Leib des Eises
@@ -33,5 +33,5 @@ Du harmonierst mit dem Element Eis. Du bist immun gegen Kälte und Eisschaden. E
   - [[Eis]]
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Geoden I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Geoden I]]
 - **Erlernen:** 20 EP

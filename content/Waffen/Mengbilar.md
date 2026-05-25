@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: 0b82f43f-f62b-41db-8790-23e36c98423a
+ID: de117319-1fb0-4231-b8b0-63599dab8e36
 Quelle: datenbank.xml
 Name: Mengbilar
 title: Mengbilar

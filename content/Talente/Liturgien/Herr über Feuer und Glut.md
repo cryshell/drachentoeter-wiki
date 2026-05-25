@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 7ba46887-26a4-49fb-84bd-72c5415341b0
+ID: dec3df3f-0439-48d7-93ef-c711c7ac4c9f
 Quelle: datenbank.xml
 Name: Herr über Feuer und Glut
 title: Herr über Feuer und Glut
@@ -31,5 +31,5 @@ Du formst Feuer in die wundersamsten Formen. Die Probenschwierigkeit, Kosten und
 - **Fertigkeiten:**
   - [[Heiliges Feuer]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Angroschgeweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+  - Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Angroschgeweihten I]] ODER Vorteil [[Tradition der Graveshgeweihten I]]
 - **Erlernen:** 20 EP

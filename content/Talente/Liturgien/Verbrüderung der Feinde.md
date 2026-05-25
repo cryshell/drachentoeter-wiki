@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: deb5429c-e632-47d8-9e32-3a8946c65a15
+ID: e6d0f193-cfc2-48e5-8d64-de8bcd193e42
 Quelle: datenbank.xml
 Name: Verbrüderung der Feinde
 title: Verbrüderung der Feinde
@@ -36,5 +36,5 @@ Alle Lebewesen, die sich während der Wirkungsdauer in einem Radius von 4 Schrit
   - [[Harmonie]]
   - [[Wandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Rahjageweihten I ODER Vorteil Tradition der Tsageweihten I ODER Vorteil Tradition der Zsahhgeweihten I]]
+  - Vorteil [[Tradition der Rahjageweihten I]] ODER Vorteil [[Tradition der Tsageweihten I]] ODER Vorteil [[Tradition der Zsahhgeweihten I]]
 - **Erlernen:** 20 EP

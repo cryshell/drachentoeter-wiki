@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 93e558dc-e2d9-4a7f-ac2b-539317377cc2
+ID: 1e7c81f4-363e-4f3d-ad3c-7919d16e37a3
 Quelle: datenbank.xml
 Name: Stahlbeinschienen mit Streifenschurz
 title: Stahlbeinschienen mit Streifenschurz

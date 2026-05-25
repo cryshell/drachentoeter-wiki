@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: db592389-30db-49c9-9d14-1a5da3fe9f00
+ID: 05fa4953-8cdc-4c11-a9da-cb12501aa25a
 Quelle: datenbank.xml
 Name: Göttliche Freiheit
 title: Göttliche Freiheit
@@ -31,5 +31,5 @@ Der Gesegnete wird von einer Fessel befreit, zum Beispiel von einer Eisenkette, 
   - [[Neubeginn]]
   - [[Rausch]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Rahjageweihten I ODER Vorteil Tradition der Tsageweihten I]]
+  - Vorteil [[Tradition der Avesgeweihten I]] ODER Vorteil [[Tradition der Rahjageweihten I]] ODER Vorteil [[Tradition der Tsageweihten I]]
 - **Erlernen:** 20 EP

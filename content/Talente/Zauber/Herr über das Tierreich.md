@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 2f8328e1-af1d-4742-80d8-60e2025e3075
+ID: b7d27aa0-357f-4571-8f34-cc7b49b4dfc5
 Quelle: datenbank.xml
 Name: Herr über das Tierreich
 title: Herr über das Tierreich
@@ -30,5 +30,5 @@ Du zwingst ein Tier unter deinen Bann. Es verhält sich, als wäre es gut dressi
 - **Fertigkeiten:**
   - [[Einfluss]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Druiden I ODER Vorteil Tradition der Elfen I ODER Vorteil Tradition der Geoden I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Hexen I ODER Vorteil Tradition der Kristallomanten I ODER Vorteil Tradition der Shakagra I]]
+  - Vorteil [[Tradition der Druiden I]] ODER Vorteil [[Tradition der Elfen I]] ODER Vorteil [[Tradition der Geoden I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Hexen I]] ODER Vorteil [[Tradition der Kristallomanten I]] ODER Vorteil [[Tradition der Shakagra I]]
 - **Erlernen:** 20 EP

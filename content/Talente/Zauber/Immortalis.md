@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 1335a1b7-ffdd-4bef-996c-50af58c097f9
+ID: fa877bc1-1af9-409c-a67b-9f2c5184402f
 Quelle: datenbank.xml
 Name: Immortalis
 title: Immortalis
@@ -32,5 +32,5 @@ Du alterst nicht mehr.
   - [[Temporal]]
   - [[Verwandlung]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Gildenmagier I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

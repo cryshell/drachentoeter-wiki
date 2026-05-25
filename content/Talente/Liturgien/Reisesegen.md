@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e63453b9-0ab6-4315-9ab0-7b8e2e41b106
+ID: 22c4b89b-043f-44bd-9ca4-f30ff1b5cd35
 Quelle: datenbank.xml
 Name: Reisesegen
 title: Reisesegen
@@ -30,5 +30,5 @@ Der Segen Travias begleitet den Reisenden und warnt ihn vor Arglist und Tücke. 
   - [[Sichere Heimkehr]]
   - [[Stiller Wanderer]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Avesgeweihten I ODER Vorteil Tradition der Traviageweihten I]]
+  - Vorteil [[Tradition der Avesgeweihten I]] ODER Vorteil [[Tradition der Traviageweihten I]]
 - **Erlernen:** 20 EP

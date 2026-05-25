@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: c353a8f2-d2e4-4eff-bfaa-9175a01e7086
+ID: efbfb3fe-b511-4c1c-b731-94454acad0a1
 Quelle: datenbank.xml
 Name: Harmlose Gestalt (Tiergeist)
 title: Harmlose Gestalt (Tiergeist)
@@ -20,5 +20,5 @@ $talent:Harmlose Gestalt$
   - [[Gaben des Odun]]
   - [[Gaben des Blutgeists]]
 - **Voraussetzungen:**
-  - Vorteil [[Tiergeist (Fuchs) ODER Vorteil Tiergeist (Mungo)]]
+  - Vorteil [[Tiergeist (Fuchs)]] ODER Vorteil [[Tiergeist (Mungo)]]
 - **Erlernen:** 20 EP

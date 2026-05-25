@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 08fa8b47-a96b-4a1e-ae56-b7c63b225238
+ID: d2694ad4-f774-4859-a53d-e708ab129f83
 Quelle: datenbank.xml
 Name: Sturmhaube
 title: Sturmhaube

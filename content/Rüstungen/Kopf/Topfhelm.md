@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: e26faf71-e3a6-4146-a93b-3d69d13a57bc
+ID: c29b8af5-fbee-4b00-a08b-27247e2d1084
 Quelle: datenbank.xml
 Name: Topfhelm
 title: Topfhelm

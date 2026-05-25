@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: ac8b67c9-c36f-4310-b1a7-b4d94a970b82
+ID: 2aa5e035-b254-4995-94c5-c63e1867bb95
 Quelle: datenbank.xml
 Name: Lederweste
 title: Lederweste

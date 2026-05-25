@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 31c41c09-c6cd-474c-b8cb-0f984675705f
+ID: a6c7cf1f-0ae8-4116-a915-c3882bc8e5c1
 Quelle: datenbank.xml
 Name: Pelzweste
 title: Pelzweste

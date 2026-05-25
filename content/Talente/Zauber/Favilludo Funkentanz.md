@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: a4b47c76-8132-42e1-b42d-14f5a5656dd8
+ID: 0d2a4754-f34b-423c-b8a0-da8e5b1d7f4e
 Quelle: datenbank.xml
 Name: Favilludo Funkentanz
 title: Favilludo Funkentanz
@@ -30,5 +30,5 @@ Subtiles Leuchten (-4, Humanoid, 4 AsP; mit dieser *Illusion* (Sicht) wirkt das 
 - **Fertigkeiten:**
   - [[Illusion]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Scharlatane I ODER Vorteil Tradition der Schelme I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Scharlatane I]] ODER Vorteil [[Tradition der Schelme I]]
 - **Erlernen:** 20 EP

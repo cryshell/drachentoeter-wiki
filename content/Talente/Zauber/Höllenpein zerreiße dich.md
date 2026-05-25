@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 9becb0b6-856b-4091-8f9d-43f7659bdfb3
+ID: 01070cb4-2b60-4c9e-863f-4f857d2ed823
 Quelle: datenbank.xml
 Name: "Höllenpein zerreiße dich!"
 title: "Höllenpein zerreiße dich!"
@@ -30,5 +30,5 @@ Dein Opfer windet sich in schrecklichen Schmerzen und ist bis zum Ende der Wirku
   - [[Dämonisch]]
   - [[Einfluss]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Tradition der Gildenmagier I ODER Vorteil Tradition der Shakagra I ODER Vorteil Tradition der Kristallomanten I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Tradition der Gildenmagier I]] ODER Vorteil [[Tradition der Shakagra I]] ODER Vorteil [[Tradition der Kristallomanten I]]
 - **Erlernen:** 20 EP

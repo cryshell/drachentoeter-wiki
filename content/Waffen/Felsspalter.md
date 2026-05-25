@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Waffe
-ID: d8ed803b-23d2-490e-a490-5939e328ff41
+ID: 4946c621-711c-4046-ba66-5f75301a95b8
 Quelle: datenbank.xml
 Name: Felsspalter
 title: Felsspalter

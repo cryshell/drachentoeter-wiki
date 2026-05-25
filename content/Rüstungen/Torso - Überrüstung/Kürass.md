@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Rüstung
-ID: 43e5e32e-9e64-4185-bdf6-897a324b8773
+ID: f74871ef-ddca-41e6-b874-17f2a3ea8e16
 Quelle: datenbank.xml
 Name: Kürass
 title: Kürass

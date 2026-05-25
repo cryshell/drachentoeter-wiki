@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: e152531d-e604-436f-8f9f-17cce7688e9d
+ID: 34d39f78-e556-44fb-bb1d-e40cc7749fb8
 Quelle: datenbank.xml
 Name: Tränen des Milden
 title: Tränen des Milden
@@ -32,5 +32,5 @@ Innerhalb des nächsten Tages regnet es auf die Felder im Radius von 1 Meile und
   - [[Flüsse und Quellen]]
   - [[Herr des Himmels]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Efferdgeweihten I ODER Vorteil Tradition der Chr’Ssir’Ssrgeweihten I]]
+  - Vorteil [[Tradition der Efferdgeweihten I]] ODER Vorteil [[Tradition der Chr’Ssir’Ssrgeweihten I]]
 - **Erlernen:** 10 EP

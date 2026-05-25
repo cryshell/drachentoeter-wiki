@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 3cf799c6-a235-4fdb-aef4-71a32571c16f
+ID: 11ff6d7e-ab04-4a1f-b2e8-b5c831d7ce7d
 Quelle: datenbank.xml
 Name: Blutnebel
 title: Blutnebel
@@ -27,5 +27,5 @@ $talent:Nebelleib$
   - [[Wasser]]
   - [[Vampirische Kräfte]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Kinder der Finsternis ODER Vorteil Tradition der Kinder der Nacht ODER Vorteil Tradition der Lamijahnim]]
+  - Vorteil [[Tradition der Kinder der Finsternis]] ODER Vorteil [[Tradition der Kinder der Nacht]] ODER Vorteil [[Tradition der Lamijahnim]]
 - **Erlernen:** 20 EP

@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 6a37df1d-8303-47ee-9ef4-eacddd9fa443
+ID: 617f0097-1bea-45f0-9a54-ac8c0f2a29ab
 Quelle: datenbank.xml
 Name: Tradition der Graveshgeweihten I
 title: Tradition der Graveshgeweihten I

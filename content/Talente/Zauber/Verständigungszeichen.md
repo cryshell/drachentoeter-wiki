@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: 008f683d-cf83-4267-9df2-65e4009b0890
+ID: 2cef7905-d897-42d5-8f09-77bd05c23798
 Quelle: datenbank.xml
 Name: Verständigungszeichen
 title: Verständigungszeichen
@@ -30,5 +30,5 @@ Das Zeichen wird in einem Durchmesser von 8 Fingern auf einem maximal schrankgro
   - [[Verständigung]]
   - [[Zauberzeichen]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Zibilja I ODER Vorteil Tradition der Schamanen (Waldmenschen) I]]
+  - Vorteil [[Tradition der Zibilja I]] ODER Vorteil [[Tradition der Schamanen (Waldmenschen) I]]
 - **Erlernen:** 20 EP

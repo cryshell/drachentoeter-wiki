@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Talent
-ID: b8a62f18-f826-4ad5-b101-80c0884a76d8
+ID: 62ffe851-ad71-4f81-ba96-82a54aabfeb4
 Quelle: datenbank.xml
 Name: "Dämonische Stärkung: Wahrnehmung"
 title: "Dämonische Stärkung: Wahrnehmung"

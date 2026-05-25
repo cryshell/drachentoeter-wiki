@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 5b8ee31c-b200-4a23-9a28-cb8caa7ba57f
+ID: 166db017-7284-4985-a8ff-a1b5227505cc
 Quelle: datenbank.xml
 Name: Heiliges Erz
 title: Heiliges Erz
@@ -45,4 +45,4 @@ Ingerimm ist der Herr des Erzes und der unterirdischen Schätze. Er bewahrt die 
   - [[Sicherer Weg durch den Fels]]
   - [[Vertrauter des Felsens]]
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Angroschgeweihten I ODER Vorteil Tradition der Ingerimmgeweihten I ODER Vorteil Tradition der Graveshgeweihten I]]
+  - Vorteil [[Tradition der Angroschgeweihten I]] ODER Vorteil [[Tradition der Ingerimmgeweihten I]] ODER Vorteil [[Tradition der Graveshgeweihten I]]

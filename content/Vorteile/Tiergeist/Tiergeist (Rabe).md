@@ -1,6 +1,6 @@
 ---
 Entitätstyp: Vorteil
-ID: 8f94dcaa-efa6-46a5-8b1f-4a649ca6ed8b
+ID: ee96f7aa-3d4f-48c8-ac2a-6016e949dd23
 Quelle: datenbank.xml
 Name: Tiergeist (Rabe)
 title: Tiergeist (Rabe)
