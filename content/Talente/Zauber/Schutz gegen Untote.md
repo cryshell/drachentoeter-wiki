@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c5d4b77a-e9f0-4641-9591-27acf247abb9
+ID: 000d026b-cca7-4d7e-befd-3b6a970fca11
+Quelle: datenbank.xml
 Name: Schutz gegen Untote
 title: Schutz gegen Untote
 Kategorie: Zauber

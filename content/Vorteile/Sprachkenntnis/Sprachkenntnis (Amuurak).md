@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 2e528270-a06e-4d50-b4ba-ce82df4a14f9
+ID: 82c91d49-e005-4ea0-85b4-d7fcb4bb1145
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Amuurak)
 title: Sprachkenntnis (Amuurak)
 Kategorie: Sprachkenntnis

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 467982f3-6111-4a05-915d-d3311c77d1c1
+ID: 3237036e-badb-4eb0-b66d-c0afcd62f6fd
+Quelle: datenbank.xml
 Name: Zeichen des versperrten Blicks
 title: Zeichen des versperrten Blicks
 Kategorie: Zauber

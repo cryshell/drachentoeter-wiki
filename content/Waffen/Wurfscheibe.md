@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: b1d39d31-41ee-4f5d-9dc0-eb651c3b4988
+ID: 7bcdf62a-7afc-496b-bf34-093ea6b2730d
+Quelle: datenbank.xml
 Name: Wurfscheibe
 title: Wurfscheibe
 Trefferpunkte: 1W6+1

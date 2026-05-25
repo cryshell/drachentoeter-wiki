@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 56ca5c7a-c8bc-4409-a230-b4552b3474f8
+ID: b348939d-fe13-4134-9ec4-6206bfe84c47
+Quelle: datenbank.xml
 Name: Tradition der Kinder der Nacht
 title: Tradition der Kinder der Nacht
 Kategorie: Tradition (Vampir)

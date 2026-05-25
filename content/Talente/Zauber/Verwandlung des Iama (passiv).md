@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 800eed26-40ad-49b4-8009-3f6009640741
+ID: c67ab29b-4489-40ef-8ba4-b7ca4f584ea6
+Quelle: datenbank.xml
 Name: Verwandlung des Iama (passiv)
 title: Verwandlung des Iama (passiv)
 Kategorie: Zauber

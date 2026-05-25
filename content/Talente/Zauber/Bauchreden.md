@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ea42761b-f1ef-4cde-8b37-4dec8d6201b7
+ID: acfc241c-3dfb-4b7c-8600-756024f0a5b6
+Quelle: datenbank.xml
 Name: Bauchreden
 title: Bauchreden
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: bd44a73e-5008-4bc9-96ce-4e076f6b3f90
+ID: fe0d9585-d9cb-4999-a2ec-0ef70bd2351c
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Ologhaijan)
 title: Sprachkenntnis (Ologhaijan)
 Kategorie: Sprachkenntnis

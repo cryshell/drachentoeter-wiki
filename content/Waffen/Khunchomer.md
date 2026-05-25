@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 3c5b031f-5023-488e-9b4b-4387512839a2
+ID: cc213070-350c-4fd4-ae73-164bef517191
+Quelle: datenbank.xml
 Name: Khunchomer
 title: Khunchomer
 Trefferpunkte: 2W6+2

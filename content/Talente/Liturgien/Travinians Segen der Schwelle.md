@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 661fd524-50d5-4926-a5db-a351af9d1879
+ID: 6bf67bd8-3201-41c1-945c-92e513b44e66
+Quelle: datenbank.xml
 Name: Travinians Segen der Schwelle
 title: Travinians Segen der Schwelle
 Kategorie: Liturgien

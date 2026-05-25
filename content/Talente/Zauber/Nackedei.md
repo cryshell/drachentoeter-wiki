@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 31debcf3-8ea1-4ffb-99b2-0693281117ae
+ID: e74513d8-22e4-4e53-9159-afa277398958
+Quelle: datenbank.xml
 Name: Nackedei
 title: Nackedei
 Kategorie: Zauber

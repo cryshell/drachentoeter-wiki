@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: eaf2f3d7-77ca-4a9c-864c-cb7676a5f7fd
+ID: cb67ab83-47d7-4fde-add8-5b23434cef21
+Quelle: datenbank.xml
 Name: Corpofrigo Kälteschock
 title: Corpofrigo Kälteschock
 Kategorie: Zauber

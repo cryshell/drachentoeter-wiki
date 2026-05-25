@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e8e40d27-8510-43b9-b18f-68b7e2b4c835
+ID: a6d72e5d-61a6-42d2-85ed-5c7a38c371b5
+Quelle: datenbank.xml
 Name: Falkenauge Meisterschuss
 title: Falkenauge Meisterschuss
 Kategorie: Zauber

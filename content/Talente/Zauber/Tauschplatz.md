@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 45416849-e945-41a4-89d4-3095bbda398b
+ID: bf15c573-f7dc-4ffd-81b5-297f63825298
+Quelle: datenbank.xml
 Name: Tauschplatz
 title: Tauschplatz
 Kategorie: Zauber

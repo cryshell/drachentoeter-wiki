@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 32aa850a-2872-42f0-8f43-b6930e7352e4
+ID: 29f81a6e-7414-4558-8c6e-b299d7595230
+Quelle: datenbank.xml
 Name: Tradition der Schamanen (Ferkina) I
 title: Tradition der Schamanen (Ferkina) I
 Kategorie: Tradition (Magisch)

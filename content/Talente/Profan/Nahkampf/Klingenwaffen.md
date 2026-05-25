@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ca872106-0269-4f5f-81a5-1dc633b1dd5f
+ID: 31968a05-1d2d-4be9-852d-f47ccde14b9e
+Quelle: datenbank.xml
 Name: Klingenwaffen
 title: Klingenwaffen
 Kategorie: Profan

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e131d23c-059b-47d5-8b94-d4da2750b0ad
+ID: f2ee1cb9-cf98-4545-9f9c-7d1e0e4faac9
+Quelle: datenbank.xml
 Name: Orkanbö
 title: Orkanbö
 Kategorie: Anrufungen

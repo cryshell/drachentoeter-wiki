@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 9d5e6c78-2987-4c01-8c3a-a9243b7b899e
+ID: 1f3d7de2-00a2-4322-9ad8-5785a1aaec08
+Quelle: datenbank.xml
 Name: Schriftkenntnis (Kemi-Symbole)
 title: Schriftkenntnis (Kemi-Symbole)
 Kategorie: Schriftkenntnis

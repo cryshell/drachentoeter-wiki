@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f39589ff-6836-4802-84ef-4fe752ad39a9
+ID: fb814df4-f42b-4ed9-baa4-fe3c79ae5614
+Quelle: datenbank.xml
 Name: Zaubernahrung Hungerbann
 title: Zaubernahrung Hungerbann
 Kategorie: Zauber

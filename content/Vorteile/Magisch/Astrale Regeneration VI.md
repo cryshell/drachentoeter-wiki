@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: c346b212-dc09-4bff-ae34-49c4325e6743
+ID: 24fe4435-61f3-4a9f-9da4-95b6a0bc6453
+Quelle: datenbank.xml
 Name: Astrale Regeneration VI
 title: Astrale Regeneration VI
 Kategorie: Magisch

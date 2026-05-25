@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 37f7041b-d533-4080-8029-1aecd5e81c5e
+ID: 6b86501a-9679-495d-b2ab-975649d02a8c
+Quelle: datenbank.xml
 Name: Gebändigte Gier IV
 title: Gebändigte Gier IV
 Kategorie: Nachteil

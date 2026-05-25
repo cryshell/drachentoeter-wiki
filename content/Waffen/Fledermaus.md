@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 4c9ab394-e45d-4d76-b5eb-0fc0a4249b5c
+ID: 93390336-87e6-46a7-826b-ba2407d27493
+Quelle: datenbank.xml
 Name: Fledermaus
 title: Fledermaus
 Trefferpunkte: 0W6+0

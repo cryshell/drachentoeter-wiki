@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d0d9a4f9-2cde-44ed-8de3-7e8b97984694
+ID: ce4f58b8-6548-4a99-9a46-60c9b9b59b8c
+Quelle: datenbank.xml
 Name: Gänsegeschnatter
 title: Gänsegeschnatter
 Kategorie: Liturgien

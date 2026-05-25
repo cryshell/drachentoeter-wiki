@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 617897a2-5f06-48cb-badc-6e78dbcc66e7
+ID: c3034103-a868-4693-8beb-7ec46b25c643
+Quelle: datenbank.xml
 Name: Schleudern
 title: Schleudern
 Kategorie: Profan

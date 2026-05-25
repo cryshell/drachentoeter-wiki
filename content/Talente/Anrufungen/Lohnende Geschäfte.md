@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: fe794c03-feb1-4afa-a273-a6e403bfde0f
+ID: a6136527-c17b-463d-bd7e-ea4c6cfbf516
+Quelle: datenbank.xml
 Name: Lohnende Geschäfte
 title: Lohnende Geschäfte
 Kategorie: Anrufungen

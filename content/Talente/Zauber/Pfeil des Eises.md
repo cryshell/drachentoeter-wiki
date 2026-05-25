@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: aab4c63f-6641-46c4-be15-0ae985e79e4b
+ID: 39e761d8-0938-42ea-b146-5798cdeb0e8c
+Quelle: datenbank.xml
 Name: Pfeil des Eises
 title: Pfeil des Eises
 Kategorie: Zauber

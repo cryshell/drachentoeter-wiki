@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ae3c41a0-cc76-4578-9e02-e8fd9f0ee05b
+ID: f3823ad8-9c85-4a40-9820-8bd84e62ad59
+Quelle: datenbank.xml
 Name: Lied der Reinheit
 title: Lied der Reinheit
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: c035be47-02fc-4c3e-af8c-35940f4cd202
+ID: 68f01daa-767e-432d-9d8c-d5e336a58c4f
+Quelle: datenbank.xml
 Name: Resistenz II
 title: Resistenz II
 Kategorie: Nachteil

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 90fd8172-2732-4dd2-a6bb-e95a6a4d67b7
+ID: a2bfcf17-b959-4bc4-aa97-f6e55adb69c9
+Quelle: datenbank.xml
 Name: Kritische Treffer I
 title: Kritische Treffer I
 Kategorie: Kampf

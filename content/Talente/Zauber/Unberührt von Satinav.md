@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b4facfc1-497d-428c-92a7-61618caaf152
+ID: 81950bf7-5698-438e-8cea-59379b69fcf7
+Quelle: datenbank.xml
 Name: Unberührt von Satinav
 title: Unberührt von Satinav
 Kategorie: Zauber

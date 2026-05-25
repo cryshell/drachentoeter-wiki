@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 08bd8ff6-7186-4051-9498-e2ad278f9143
+ID: 12e3650b-ed70-47d1-8991-69965c0a34e6
+Quelle: datenbank.xml
 Name: Reinigung
 title: Reinigung
 Kategorie: Zauber

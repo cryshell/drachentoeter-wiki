@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffeneigenschaft
-ID:
+ID: 40bc6048-71f5-4072-97bd-709220ac70cf
+Quelle: datenbank.xml
 Name: Zerbrechlich
 title: Zerbrechlich
 ---

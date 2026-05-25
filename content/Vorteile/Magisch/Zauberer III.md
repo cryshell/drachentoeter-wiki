@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 2283d618-fe5e-44f2-98f6-beabc8c70c29
+ID: 8e9d47ff-8fd4-4fd3-a9ae-74ca4cf366e7
+Quelle: datenbank.xml
 Name: Zauberer III
 title: Zauberer III
 Kategorie: Magisch

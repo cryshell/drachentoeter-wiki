@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c200b2e7-6f2c-4abc-a345-42125bb3ea6a
+ID: 637bb98c-692e-4d33-88fa-3587be6fe1bc
+Quelle: datenbank.xml
 Name: Kakophonie des Wahnsinns
 title: Kakophonie des Wahnsinns
 Kategorie: Zauber

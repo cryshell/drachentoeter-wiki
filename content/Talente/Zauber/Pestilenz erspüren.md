@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8f4c6eec-b271-41e6-8ef1-bf343d236cf8
+ID: 65b3bf42-2b7a-4798-84d4-e8cca4917889
+Quelle: datenbank.xml
 Name: Pestilenz erspüren
 title: Pestilenz erspüren
 Kategorie: Zauber

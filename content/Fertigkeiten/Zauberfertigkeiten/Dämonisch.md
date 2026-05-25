@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: f48873f1-51f2-4ebd-a9a6-c6895a2a263e
+ID: a86262e6-1a7a-4f1b-b308-95f99e23cdbe
+Quelle: datenbank.xml
 Name: Dämonisch
 title: Dämonisch
 Kategorie: Zauberfertigkeiten

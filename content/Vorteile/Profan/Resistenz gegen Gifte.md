@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 2dee292c-d9da-49a1-a08c-f731d1604d6d
+ID: 1ff2c6e0-a5a2-4947-a0f4-7f32df7aad0e
+Quelle: datenbank.xml
 Name: Resistenz gegen Gifte
 title: Resistenz gegen Gifte
 Kategorie: Profan

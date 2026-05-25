@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 651aeb58-95a2-4420-aa22-baaeae7a39d8
+ID: f3a94bc9-496c-4104-b11d-82a34553dcff
+Quelle: datenbank.xml
 Name: Irrlichtertanz
 title: Irrlichtertanz
 Kategorie: Anrufungen

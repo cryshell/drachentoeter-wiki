@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Fertigkeit
-ID: c11120b2-f970-435a-a024-2822b32b9741
+ID: 9f333625-4b35-429e-a325-732f78761d2d
+Quelle: datenbank.xml
 Name: Grobhandwerk
 title: Grobhandwerk
 Kategorie: Handwerk

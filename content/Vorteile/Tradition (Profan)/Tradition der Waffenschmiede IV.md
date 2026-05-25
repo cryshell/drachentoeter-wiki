@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: d7a6827d-f63f-47d1-bca6-3520382c90bf
+ID: ebc61a3f-0642-458a-a3e7-37993d2bfb3f
+Quelle: datenbank.xml
 Name: Tradition der Waffenschmiede IV
 title: Tradition der Waffenschmiede IV
 Kategorie: Tradition (Profan)
@@ -16,5 +17,5 @@ Kosten: 20
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - MeisterAttribut FF 10 ODER MeisterAttribut KK 10
+  - MeisterAttribut [[Fingerfertigkeit|FF]] 10 ODER MeisterAttribut [[Körperkraft|KK]] 10
   - Vorteil [[Tradition der Waffenschmiede III]]

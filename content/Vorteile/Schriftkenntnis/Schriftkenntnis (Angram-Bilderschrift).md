@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: b2ed13d9-54ff-4309-a5ac-caa7f113c830
+ID: e550e12a-0076-4291-bbbc-8244d7fb4340
+Quelle: datenbank.xml
 Name: Schriftkenntnis (Angram-Bilderschrift)
 title: Schriftkenntnis (Angram-Bilderschrift)
 Kategorie: Schriftkenntnis

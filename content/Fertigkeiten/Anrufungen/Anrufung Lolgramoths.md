@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 85d8d410-445a-4508-8252-b6d4e85d65a8
+ID: 0738dc93-5f90-454d-9bbb-95c5bb48f31f
+Quelle: datenbank.xml
 Name: Anrufung Lolgramoths
 title: Anrufung Lolgramoths
 Kategorie: Anrufungen

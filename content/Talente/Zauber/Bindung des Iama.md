@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1466edfa-3e91-42d3-b7d4-3f24e31d2faf
+ID: e286be3a-360a-4101-87ee-817c19de505b
+Quelle: datenbank.xml
 Name: Bindung des Iama
 title: Bindung des Iama
 Kategorie: Zauber

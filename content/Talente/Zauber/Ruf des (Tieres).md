@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a2f83519-191e-4027-bb77-42441738b342
+ID: c8ab12a1-5a9e-460f-9cbc-e91b2a273c2f
+Quelle: datenbank.xml
 Name: Ruf des (Tieres)
 title: Ruf des (Tieres)
 Kategorie: Zauber

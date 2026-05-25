@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: a354e91d-561d-46f3-a737-1648f16f554b
+ID: 81968cdd-a8b2-46c2-aa20-b716246480ad
+Quelle: datenbank.xml
 Name: Schriftkenntnis (Chuchas)
 title: Schriftkenntnis (Chuchas)
 Kategorie: Schriftkenntnis

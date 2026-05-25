@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 71119eff-40b2-4096-8b20-ad945bd2b92f
+ID: f113e337-e7b9-4e4e-a82a-31f849118e50
+Quelle: datenbank.xml
 Name: Auge der ewigen Wacht
 title: Auge der ewigen Wacht
 Kategorie: Zauber

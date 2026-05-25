@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f0e69628-2c8c-433e-8abd-34c338d95c77
+ID: f6783cd6-07c6-4a7f-ae6d-477cb85ec928
+Quelle: datenbank.xml
 Name: Macht über den Regen
 title: Macht über den Regen
 Kategorie: Zauber

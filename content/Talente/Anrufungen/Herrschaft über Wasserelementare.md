@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f3b7d080-e4bc-4997-b52a-343cd42a1573
+ID: e92ac929-2562-4dde-9269-c64482258a03
+Quelle: datenbank.xml
 Name: Herrschaft über Wasserelementare
 title: Herrschaft über Wasserelementare
 Kategorie: Anrufungen

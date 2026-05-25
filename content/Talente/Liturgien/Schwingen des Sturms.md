@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c3399ce2-bc22-4ab4-bb28-6f95787060f8
+ID: e4eecdb5-5b4b-4270-83cd-c4006ae177fa
+Quelle: datenbank.xml
 Name: Schwingen des Sturms
 title: Schwingen des Sturms
 Kategorie: Liturgien

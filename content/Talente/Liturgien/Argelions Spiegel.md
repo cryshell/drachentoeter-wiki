@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: feea56fb-0621-4ebf-b5ae-17fde4e1c364
+ID: b81eb028-6060-4b39-b1aa-51500b997b93
+Quelle: datenbank.xml
 Name: Argelions Spiegel
 title: Argelions Spiegel
 Kategorie: Liturgien

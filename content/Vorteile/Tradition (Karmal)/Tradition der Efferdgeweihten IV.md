@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 6c8be425-456c-48fb-85f7-5a02adbc03c7
+ID: d31d3f7b-f77b-452c-b213-ed5937f300fc
+Quelle: datenbank.xml
 Name: Tradition der Efferdgeweihten IV
 title: Tradition der Efferdgeweihten IV
 Kategorie: Tradition (Karmal)

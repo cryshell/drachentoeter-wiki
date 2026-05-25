@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: fa24f8c4-fc69-4060-aa8c-2cc64cb5ed33
+ID: 7c7fb90a-e950-4d1f-80e0-1798f0d32df2
+Quelle: datenbank.xml
 Name: Fluch der Götter (Rikai)
 title: Fluch der Götter (Rikai)
 Kategorie: Nachteil

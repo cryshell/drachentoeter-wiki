@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: c75f1935-8f97-49ab-8acd-044837dfbff8
+ID: adbf5d6d-75ee-4632-9dd1-71d2de8c6ad4
+Quelle: datenbank.xml
 Name: Wurfnetz
 title: Wurfnetz
 Trefferpunkte: 0W6+0

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 3a78694a-c9cb-4bc1-b7d0-24d303cb3706
+ID: 5a48e276-54c6-4850-9477-a7e4f2d947ff
+Quelle: datenbank.xml
 Name: Mailam Rekdais Segen
 title: Mailam Rekdais Segen
 Kategorie: Zauber

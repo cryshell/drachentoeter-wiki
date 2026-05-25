@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e978306b-4577-40fd-a2df-67b227f37d09
+ID: f5d2ec9f-fcb1-4547-9284-0f997b1a4051
+Quelle: datenbank.xml
 Name: Aura des Stabes (passiv)
 title: Aura des Stabes (passiv)
 Kategorie: Zauber

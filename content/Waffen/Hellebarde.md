@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 52a8f054-a848-490e-8ea2-4011f7e88199
+ID: 467c08c5-62e1-4de2-ba97-ab7c8d35dd99
+Quelle: datenbank.xml
 Name: Hellebarde
 title: Hellebarde
 Trefferpunkte: 2W6+2
@@ -29,6 +30,6 @@ Preis: 75
   - Hieb
   - [[Kopflastig|Kopflastig]]
   - [[Rüstungsbrechend|Rüstungsbrechend]]
-  - [[Schwer|Schwer (4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (4)]]
   - [[Zweihändig|Zweihändig]]
   - [[Haken|Haken]]

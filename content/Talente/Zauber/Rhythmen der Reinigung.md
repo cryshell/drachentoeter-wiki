@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: dcf4f7c1-25bf-4dbe-b91d-8a056d1a1465
+ID: 00307983-59d2-43cc-b2b4-a24a5ec57329
+Quelle: datenbank.xml
 Name: Rhythmen der Reinigung
 title: Rhythmen der Reinigung
 Kategorie: Zauber

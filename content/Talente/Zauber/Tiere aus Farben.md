@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2acba772-8466-43d3-a400-97f9b143969b
+ID: 09cac1ac-6a92-4f31-936a-693c14eb6577
+Quelle: datenbank.xml
 Name: Tiere aus Farben
 title: Tiere aus Farben
 Kategorie: Zauber

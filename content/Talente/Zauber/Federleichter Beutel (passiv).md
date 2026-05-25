@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e6e909da-3a7a-4673-af8a-18839a68194e
+ID: 04acd297-30ca-45fa-9d64-782f79f23cf5
+Quelle: datenbank.xml
 Name: Federleichter Beutel (passiv)
 title: Federleichter Beutel (passiv)
 Kategorie: Zauber

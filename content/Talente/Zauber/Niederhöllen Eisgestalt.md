@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 48d60e8d-d38f-40e0-ac86-30f7c91c70cb
+ID: 16a2fcc5-03b5-4f70-a3bd-23468d359bac
+Quelle: datenbank.xml
 Name: Niederhöllen Eisgestalt
 title: Niederhöllen Eisgestalt
 Kategorie: Zauber

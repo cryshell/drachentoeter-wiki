@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffeneigenschaft
-ID:
+ID: b2047888-1436-44df-a9d0-896da317f259
+Quelle: datenbank.xml
 Name: Unzerstörbar
 title: Unzerstörbar
 ---

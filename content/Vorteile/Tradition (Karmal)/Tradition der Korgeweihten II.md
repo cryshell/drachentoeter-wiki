@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: f9219d4e-8bb2-47ee-b4a1-eebb97b75f25
+ID: 55c63011-1756-4bc6-938b-15b4520c347c
+Quelle: datenbank.xml
 Name: Tradition der Korgeweihten II
 title: Tradition der Korgeweihten II
 Kategorie: Tradition (Karmal)

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2fe930a9-4eb6-4dbe-a847-3327416e681a
+ID: b5e007f1-5680-437a-a0cc-252508d4c459
+Quelle: datenbank.xml
 Name: Schutzkreis gegen Traumgänger
 title: Schutzkreis gegen Traumgänger
 Kategorie: Zauber

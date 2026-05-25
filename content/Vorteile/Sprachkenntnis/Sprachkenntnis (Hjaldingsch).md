@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 8236ac21-d353-4ff9-a090-9887e0811b59
+ID: 8f933b42-526a-4421-be38-95cd9f6cb054
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Hjaldingsch)
 title: Sprachkenntnis (Hjaldingsch)
 Kategorie: Sprachkenntnis

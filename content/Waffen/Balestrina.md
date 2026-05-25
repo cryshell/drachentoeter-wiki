@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 178270f7-0e9d-4272-b202-b1bbff46db02
+ID: 7ef19cd2-5e36-45dc-a3f7-b2ed68f487f6
+Quelle: datenbank.xml
 Name: Balestrina
 title: Balestrina
 Trefferpunkte: 2W6+1

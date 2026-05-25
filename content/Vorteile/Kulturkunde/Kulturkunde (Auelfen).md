@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 77e3b834-7d25-4ba8-9f4b-3d3383ebfcc4
+ID: 3e35f1b6-31c6-4561-a44c-71e4c2084be1
+Quelle: datenbank.xml
 Name: Kulturkunde (Auelfen)
 title: Kulturkunde (Auelfen)
 Kategorie: Kulturkunde

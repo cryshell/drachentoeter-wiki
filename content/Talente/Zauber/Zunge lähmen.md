@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 24c29518-116d-4a78-b1d7-bc4fb367b330
+ID: 6beb7721-09e0-4e2d-a0cd-038d7908e6e2
+Quelle: datenbank.xml
 Name: Zunge lähmen
 title: Zunge lähmen
 Kategorie: Zauber

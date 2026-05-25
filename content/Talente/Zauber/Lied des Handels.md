@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: bc9d0141-c75a-4cd4-ab24-ba622a117674
+ID: 05281dbe-e072-4252-beb1-c40b95498178
+Quelle: datenbank.xml
 Name: Lied des Handels
 title: Lied des Handels
 Kategorie: Zauber

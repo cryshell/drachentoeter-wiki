@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 764eaf8b-7f31-474e-8c47-a3e4752ec773
+ID: b6f350c0-4bf6-484c-a80a-42ce15c403ac
+Quelle: datenbank.xml
 Name: Kornfäule
 title: Kornfäule
 Kategorie: Zauber

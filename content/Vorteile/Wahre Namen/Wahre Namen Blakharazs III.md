@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 9fd5746d-3cf8-4168-b587-55d4e1c4b6cf
+ID: 1d297bbe-959a-4c0e-a123-b0d2a7ed76de
+Quelle: datenbank.xml
 Name: Wahre Namen Blakharazs III
 title: Wahre Namen Blakharazs III
 Kategorie: Wahre Namen
@@ -17,6 +18,6 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Geweiht I]] ODER Vorteil [[Paktierer I]]
   - Attribut [[Klugheit|KL]] 8
   - Vorteil [[Wahre Namen Blakharazs II]]

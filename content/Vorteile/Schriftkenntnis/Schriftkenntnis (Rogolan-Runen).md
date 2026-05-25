@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 8e4ba8f5-7d5d-4346-b802-80fb29752e03
+ID: b8869f47-cc12-47a9-ada2-cd17203110eb
+Quelle: datenbank.xml
 Name: Schriftkenntnis (Rogolan-Runen)
 title: Schriftkenntnis (Rogolan-Runen)
 Kategorie: Schriftkenntnis

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 67866cb4-6e3a-4bd4-8e53-148f57705cd1
+ID: 0f5770dd-64c9-4970-b5cf-d75971ebdeb5
+Quelle: datenbank.xml
 Name: Gegneranalyse
 title: Gegneranalyse
 Kategorie: Kampf

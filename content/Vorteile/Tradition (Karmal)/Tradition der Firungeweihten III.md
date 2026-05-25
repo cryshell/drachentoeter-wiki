@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: dedaf033-9416-48f5-ae22-04016a26545c
+ID: 4ed355cb-d27c-4c10-ac56-b9731e475958
+Quelle: datenbank.xml
 Name: Tradition der Firungeweihten III
 title: Tradition der Firungeweihten III
 Kategorie: Tradition (Karmal)

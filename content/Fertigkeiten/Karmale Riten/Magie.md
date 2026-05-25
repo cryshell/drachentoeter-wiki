@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 42f0dd3c-a053-4ae9-8e9d-367c7b482cea
+ID: b1c7f365-d3be-4405-bb44-b6879e632ea1
+Quelle: datenbank.xml
 Name: Magie
 title: Magie
 Kategorie: Karmale Riten

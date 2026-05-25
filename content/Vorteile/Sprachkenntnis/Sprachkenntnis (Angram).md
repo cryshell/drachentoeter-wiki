@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: c8473f56-4bf9-4193-a957-158feae0aeeb
+ID: 85ff4818-d5d7-4049-a6e2-46b5666b3363
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Angram)
 title: Sprachkenntnis (Angram)
 Kategorie: Sprachkenntnis

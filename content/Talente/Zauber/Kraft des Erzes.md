@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8fb3f6fa-5464-4e23-9240-e384ea4c86dd
+ID: 22dd1f49-e69b-45fc-be1a-29a95f8870cf
+Quelle: datenbank.xml
 Name: Kraft des Erzes
 title: Kraft des Erzes
 Kategorie: Zauber

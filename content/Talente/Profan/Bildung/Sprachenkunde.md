@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 43d56596-a44b-4556-9dbd-6e279c76f307
+ID: b8b18a26-1b50-4ca9-b918-fc1e4d524e52
+Quelle: datenbank.xml
 Name: Sprachenkunde
 title: Sprachenkunde
 Kategorie: Profan

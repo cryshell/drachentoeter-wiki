@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 1f4d3465-2aba-465c-8457-e4f703829815
+ID: 583053c3-3b88-4028-ae63-870b7c3c990e
+Quelle: datenbank.xml
 Name: Simulacrum II
 title: Simulacrum II
 Kategorie: Kreis der Verdammnis

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ec8b0846-3a56-469b-ba24-47edd6affc5a
+ID: 551a195c-9351-4f63-87a1-4ec6a2240ed4
+Quelle: datenbank.xml
 Name: Blutiger Schnitter
 title: Blutiger Schnitter
 Kategorie: Liturgien

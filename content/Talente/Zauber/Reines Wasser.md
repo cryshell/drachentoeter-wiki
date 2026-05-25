@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 66c77909-6123-4325-97c7-b450742ebab5
+ID: 817419d6-2dc3-4de7-a153-a445f0c66e74
+Quelle: datenbank.xml
 Name: Reines Wasser
 title: Reines Wasser
 Kategorie: Zauber

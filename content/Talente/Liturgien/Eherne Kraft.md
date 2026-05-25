@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b850ae7b-913e-45a9-a3d8-911c273426c2
+ID: c57553fd-f02e-4f4c-a9eb-31a918a396c3
+Quelle: datenbank.xml
 Name: Eherne Kraft
 title: Eherne Kraft
 Kategorie: Liturgien

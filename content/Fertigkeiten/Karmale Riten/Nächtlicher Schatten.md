@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: d0d15b18-a139-4fc0-ba9b-12aebbdb1539
+ID: a227a0c2-37c8-499a-ba02-c744d8ec34c5
+Quelle: datenbank.xml
 Name: Nächtlicher Schatten
 title: Nächtlicher Schatten
 Kategorie: Karmale Riten

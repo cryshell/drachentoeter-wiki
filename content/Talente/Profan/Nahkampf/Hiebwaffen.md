@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: fcc169d7-445a-482a-adfe-a43c9760297f
+ID: a134282c-1cda-4de4-b1b1-eefcb7b258b4
+Quelle: datenbank.xml
 Name: Hiebwaffen
 title: Hiebwaffen
 Kategorie: Profan

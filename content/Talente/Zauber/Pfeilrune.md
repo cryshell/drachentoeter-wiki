@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1e8e6042-fb88-47b7-a10d-1a763ae4d261
+ID: eb8d36f1-3eff-4e59-a99b-08f549a6582e
+Quelle: datenbank.xml
 Name: Pfeilrune
 title: Pfeilrune
 Kategorie: Zauber

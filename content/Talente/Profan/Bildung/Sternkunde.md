@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c33bf153-cd27-4044-9a90-62fe77b082ab
+ID: 4582e996-4725-4f1d-aa00-a407832252b6
+Quelle: datenbank.xml
 Name: Sternkunde
 title: Sternkunde
 Kategorie: Profan

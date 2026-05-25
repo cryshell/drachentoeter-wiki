@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a23c1698-66e4-4579-94fa-363e17937bce
+ID: e1a3fd4b-c8af-45e5-a720-4f12a8d699c5
+Quelle: datenbank.xml
 Name: Nebelwand und Morgendunst
 title: Nebelwand und Morgendunst
 Kategorie: Zauber

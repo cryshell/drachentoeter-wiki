@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: e017b647-8d4e-4bfb-9cb0-8e11af4c27f2
+ID: fba2987a-faa9-4da5-8f07-a2bf7469d3b2
+Quelle: datenbank.xml
 Name: Aura der Verzerrung
 title: Aura der Verzerrung
 Kategorie: Kreis der Verdammnis

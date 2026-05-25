@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: bac01630-7ba0-4ae8-b96e-80594be899f0
+ID: 4eb3cce8-656e-4ee3-8e6d-8c5f1f8b3f5b
+Quelle: datenbank.xml
 Name: Zweihänder
 title: Zweihänder
 Trefferpunkte: 3W6+1

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ece3a082-50bf-47a2-9a7f-79dbc1435008
+ID: 037db410-f5dd-47ce-81a2-3e2fec0b6922
+Quelle: datenbank.xml
 Name: Glückssegen
 title: Glückssegen
 Kategorie: Liturgien

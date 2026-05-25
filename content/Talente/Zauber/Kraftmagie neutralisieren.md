@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b0abfa0c-a204-4c4e-8240-3fb11c0bbed7
+ID: cd1e6f8a-045d-45a4-a87e-416dd961c1a7
+Quelle: datenbank.xml
 Name: Kraftmagie neutralisieren
 title: Kraftmagie neutralisieren
 Kategorie: Zauber

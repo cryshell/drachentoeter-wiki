@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f492c153-810c-4ce5-a5db-7121ca680cad
+ID: c7a32ae7-055d-4878-9c24-abfbec1f71fe
+Quelle: datenbank.xml
 Name: Zusatzzeichen Zielbeschränkung (passiv)
 title: Zusatzzeichen Zielbeschränkung (passiv)
 Kategorie: Zauber

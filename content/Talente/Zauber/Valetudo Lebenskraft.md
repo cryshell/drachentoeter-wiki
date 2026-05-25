@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 853b3d46-c258-4ed4-b451-73372bf6f47b
+ID: 0455dc76-4a73-494c-924e-bc101217b25d
+Quelle: datenbank.xml
 Name: Valetudo Lebenskraft
 title: Valetudo Lebenskraft
 Kategorie: Zauber

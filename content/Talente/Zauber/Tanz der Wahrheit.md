@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 145e7723-aec2-4b21-96fb-75cbc9552e89
+ID: 26625ba1-b2db-40d6-bdfc-3f3b8030086c
+Quelle: datenbank.xml
 Name: Tanz der Wahrheit
 title: Tanz der Wahrheit
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 085179ce-9eab-4f4a-872b-29983169fe3a
+ID: 72b46669-cc5f-4f28-beaa-3951c89ee82d
+Quelle: datenbank.xml
 Name: Zorn des Berglöwen
 title: Zorn des Berglöwen
 Kategorie: Zauber

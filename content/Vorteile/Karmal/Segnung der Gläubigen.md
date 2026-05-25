@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 9b6362f6-3796-4b4d-917c-22e60b2ee53c
+ID: bc8bf1d3-743c-4260-97f2-ac33b46b7165
+Quelle: datenbank.xml
 Name: Segnung der Gläubigen
 title: Segnung der Gläubigen
 Kategorie: Karmal

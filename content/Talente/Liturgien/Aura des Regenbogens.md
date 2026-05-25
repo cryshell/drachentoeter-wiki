@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 18400e70-3adc-4f92-b685-075b77d08e7c
+ID: f662c2a7-da4b-429b-812a-92e99353be6f
+Quelle: datenbank.xml
 Name: Aura des Regenbogens
 title: Aura des Regenbogens
 Kategorie: Liturgien

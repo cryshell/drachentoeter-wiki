@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: cc5f506f-042c-49b7-a7b2-3047579ea9bc
+ID: 4bf43556-1213-42bd-86a5-a6da00b03392
+Quelle: datenbank.xml
 Name: Apport der Kugel
 title: Apport der Kugel
 Kategorie: Zauber

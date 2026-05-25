@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f9a18c02-4358-4230-8859-71021f203e84
+ID: cc36f92f-5948-4b68-a6c3-0b5612b8b212
+Quelle: datenbank.xml
 Name: Corpofesso Gliederschmerz
 title: Corpofesso Gliederschmerz
 Kategorie: Zauber

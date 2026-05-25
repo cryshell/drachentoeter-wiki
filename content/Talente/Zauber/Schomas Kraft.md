@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 91187d49-6580-407c-aa7c-0f0dbd8d2052
+ID: 6ead643c-3b66-4f85-b97e-04761a724a2a
+Quelle: datenbank.xml
 Name: Schomas Kraft
 title: Schomas Kraft
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: cc04cce6-3680-4b57-b7a3-28373bbbab56
+ID: e8187bea-8de3-4072-91b1-ce792765d8fd
+Quelle: datenbank.xml
 Name: Kulturkunde (Svellttal)
 title: Kulturkunde (Svellttal)
 Kategorie: Kulturkunde

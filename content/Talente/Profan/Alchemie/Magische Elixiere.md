@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1717e7c4-63d9-4a4f-bfa3-3d86185f38b9
+ID: 69ed5041-87ea-4444-a313-92fd4e8eb586
+Quelle: datenbank.xml
 Name: Magische Elixiere
 title: Magische Elixiere
 Kategorie: Profan

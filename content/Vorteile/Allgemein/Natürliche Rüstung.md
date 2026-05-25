@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 5c526186-392d-449e-8168-21eb3524d9a6
+ID: c6e3e7f8-33e5-4c32-8bdc-79beb5083578
+Quelle: datenbank.xml
 Name: Natürliche Rüstung
 title: Natürliche Rüstung
 Kategorie: Allgemein

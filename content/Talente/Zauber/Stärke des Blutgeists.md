@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e5aea7c8-ac7d-4935-8dc4-a244ca680161
+ID: 757af364-0a56-4aa4-8d75-e064399ff3e7
+Quelle: datenbank.xml
 Name: Stärke des Blutgeists
 title: Stärke des Blutgeists
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b0593f10-fbbf-4fa4-89d1-9ebcbcab06c4
+ID: 7ab517ba-d5e9-4665-823d-6d05e076432c
+Quelle: datenbank.xml
 Name: Blick aufs Wesen
 title: Blick aufs Wesen
 Kategorie: Zauber

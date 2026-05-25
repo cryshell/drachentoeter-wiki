@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b7cb8378-3171-40bd-baba-4ccc10a61448
+ID: 1d77b6c7-e2bd-4283-8027-60c8746b677c
+Quelle: datenbank.xml
 Name: Rhythmen des Krieges
 title: Rhythmen des Krieges
 Kategorie: Zauber

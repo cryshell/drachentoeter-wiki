@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 257c68d4-db60-4e0b-985f-488c830d33e0
+ID: 83a93059-3e37-45b7-9214-c87dad9f8bbf
+Quelle: datenbank.xml
 Name: Verständigung
 title: Verständigung
 Kategorie: Zauberfertigkeiten

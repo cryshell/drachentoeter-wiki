@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: d4a3e032-8e90-48bd-98a2-d28f90eaea29
+ID: b34600ca-64ad-4f23-a547-89aa09f993ab
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Zyklopisch)
 title: Sprachkenntnis (Zyklopisch)
 Kategorie: Sprachkenntnis

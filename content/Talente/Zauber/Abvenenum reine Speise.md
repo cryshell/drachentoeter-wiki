@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c18293b3-5897-4b41-a7ce-732294f7dcf3
+ID: 32ec47de-5170-4342-bee7-951f126fd9ae
+Quelle: datenbank.xml
 Name: Abvenenum reine Speise
 title: Abvenenum reine Speise
 Kategorie: Zauber

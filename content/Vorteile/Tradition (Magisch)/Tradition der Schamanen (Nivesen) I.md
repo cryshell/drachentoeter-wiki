@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 67c8a4fa-ea56-4e62-87e3-1ed56bd1e6e4
+ID: c5bfb30e-005c-4f5f-8b97-81e273bb3ef5
+Quelle: datenbank.xml
 Name: Tradition der Schamanen (Nivesen) I
 title: Tradition der Schamanen (Nivesen) I
 Kategorie: Tradition (Magisch)

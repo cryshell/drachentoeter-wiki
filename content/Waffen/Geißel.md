@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 09f5dfe1-e2c0-4ac1-b12d-7eff65f4d14a
+ID: 46bc1a90-f276-4f97-a26d-d30bc10173a0
+Quelle: datenbank.xml
 Name: Geißel
 title: Geißel
 Trefferpunkte: 1W6+0

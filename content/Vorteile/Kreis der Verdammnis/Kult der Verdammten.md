@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: c1c05ca0-2c2c-44c0-9e50-a10946ec1feb
+ID: 7ec98365-8852-4d76-b39c-c7f5b099aae2
+Quelle: datenbank.xml
 Name: Kult der Verdammten
 title: Kult der Verdammten
 Kategorie: Kreis der Verdammnis

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 02271c21-b12a-48bb-beab-bfe852181e59
+ID: 7837eb9c-170e-411d-ae83-1e3feb2fec5f
+Quelle: datenbank.xml
 Name: Unfruchtbarkeit
 title: Unfruchtbarkeit
 Kategorie: Zauber

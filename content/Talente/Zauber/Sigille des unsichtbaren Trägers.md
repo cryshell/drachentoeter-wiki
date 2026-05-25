@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5d6719e5-4982-4d7d-b69d-1708518f3761
+ID: 60eac1a3-8cd1-4bbd-9f3e-d557283d6b4d
+Quelle: datenbank.xml
 Name: Sigille des unsichtbaren Trägers
 title: Sigille des unsichtbaren Trägers
 Kategorie: Zauber

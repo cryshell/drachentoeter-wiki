@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8bb64602-03e2-47b9-a75b-b4e639274af7
+ID: 86b9c179-0bcf-4858-93d4-678965be2b4f
+Quelle: datenbank.xml
 Name: Nekropathia Seelenreise (Tiergeist)
 title: Nekropathia Seelenreise (Tiergeist)
 Kategorie: Zauber

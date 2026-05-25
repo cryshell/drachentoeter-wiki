@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5e84d1e7-272d-4f89-8957-2f83227f82c9
+ID: 36206137-81f3-406d-9ca4-ce94e71347cc
+Quelle: datenbank.xml
 Name: Balsam Salabunde
 title: Balsam Salabunde
 Kategorie: Zauber

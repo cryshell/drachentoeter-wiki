@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0596bd66-52a9-4d26-9be2-ac7321dd844f
+ID: dfe6d5c3-3387-49a7-a1ed-aba29a722769
+Quelle: datenbank.xml
 Name: Sigille der Schatten
 title: Sigille der Schatten
 Kategorie: Zauber

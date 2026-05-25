@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 3db65726-f7b7-4a8c-b7a0-40c08a321ac5
+ID: fb7256c7-5673-424d-8e07-5c2fe5ac18d4
+Quelle: datenbank.xml
 Name: Segensreicher Neuanfang
 title: Segensreicher Neuanfang
 Kategorie: Liturgien

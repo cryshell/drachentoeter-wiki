@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 4713a313-e97c-46f4-9a4f-8f30c17af2a3
+ID: 8221c115-06a3-4e13-b76a-ba06010bc878
+Quelle: datenbank.xml
 Name: Illusion
 title: Illusion
 Kategorie: Zauberfertigkeiten

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 79140c47-06e9-47b7-83c3-b6b2dc7c7831
+ID: 98331714-555d-4c1f-b6d1-570ba33dd6d3
+Quelle: datenbank.xml
 Name: Balläster
 title: Balläster
 Trefferpunkte: 2W6+3

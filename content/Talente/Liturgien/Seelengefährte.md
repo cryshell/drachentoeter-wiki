@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a1ada92c-3365-484b-83bc-0a02243e37dc
+ID: b51aa10e-b4ef-427e-ba7a-ed036f64111a
+Quelle: datenbank.xml
 Name: Seelengefährte
 title: Seelengefährte
 Kategorie: Liturgien

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 3886fc5e-bceb-4eb0-8cd0-f553cfb853ec
+ID: 71f8e36f-55df-4a3e-9b2c-952fb479e9b2
+Quelle: datenbank.xml
 Name: Pectetondo Zauberhaar
 title: Pectetondo Zauberhaar
 Kategorie: Zauber

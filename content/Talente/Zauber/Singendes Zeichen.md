@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: debe64ce-448b-4985-aee6-56b5f0b52623
+ID: caa4ffb2-b1ee-4ca9-9f65-a48e58154be0
+Quelle: datenbank.xml
 Name: Singendes Zeichen
 title: Singendes Zeichen
 Kategorie: Zauber

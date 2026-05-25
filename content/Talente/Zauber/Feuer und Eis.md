@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9a82df72-b599-488f-a84d-06c109487180
+ID: 6c3b44d1-dde8-4776-95e0-6db32beef2b2
+Quelle: datenbank.xml
 Name: Feuer und Eis
 title: Feuer und Eis
 Kategorie: Zauber

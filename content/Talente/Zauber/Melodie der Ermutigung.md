@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f0905c2e-c0af-40cb-9802-4bd6668d9537
+ID: 7bab44f9-7a27-48ec-9644-3db8edc6e094
+Quelle: datenbank.xml
 Name: Melodie der Ermutigung
 title: Melodie der Ermutigung
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 83d1bad4-2773-4e90-9794-8df0008937b3
+ID: 35d2e71d-ece2-4ec7-a53f-e4da6bcb13b6
+Quelle: datenbank.xml
 Name: Flexible Magie
 title: Flexible Magie
 Kategorie: Magisch
@@ -18,7 +19,7 @@ Während du einen Zauber vorbereitest, erhalten Gegner keinen Vorteil auf Angrif
 
 - **Erlernen:** 40 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Vampir I]]
   - Attribut [[Intuition|IN]] 6
 - **Siehe auch:**
   - [[Aktion Konzentration]]

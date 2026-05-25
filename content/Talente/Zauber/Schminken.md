@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a5f48b52-9556-4358-b8b2-6652f6216326
+ID: adfbf83e-baa3-47d5-b15e-da108fe13cd7
+Quelle: datenbank.xml
 Name: Schminken
 title: Schminken
 Kategorie: Zauber

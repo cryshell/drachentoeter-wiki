@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 3a38f066-9453-4134-9b20-7c1f852b3404
+ID: 2d80533f-2a00-416b-9741-3e58b8331006
+Quelle: datenbank.xml
 Name: Lach dich gesund
 title: Lach dich gesund
 Kategorie: Zauber

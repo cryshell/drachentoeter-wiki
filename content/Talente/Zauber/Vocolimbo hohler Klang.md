@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2abc477a-5e79-4b23-b05a-c6f86efe4187
+ID: 61709ca7-032a-46a4-a24c-1ce2efcb64ee
+Quelle: datenbank.xml
 Name: Vocolimbo hohler Klang
 title: Vocolimbo hohler Klang
 Kategorie: Zauber

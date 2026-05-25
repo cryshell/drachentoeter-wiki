@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b340f9fd-aeca-492d-8477-d7217d306241
+ID: ab0b04e1-1e5f-4f08-94b9-46fa9e403996
+Quelle: datenbank.xml
 Name: Radau
 title: Radau
 Kategorie: Zauber

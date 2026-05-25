@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: b52c57ea-859c-41d3-a1ec-154ced6f29b1
+ID: 0d6cc40b-d69b-4157-976b-a9b71429035a
+Quelle: datenbank.xml
 Name: Kernschuss
 title: Kernschuss
 Kategorie: Kampf

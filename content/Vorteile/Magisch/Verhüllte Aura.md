@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 60c5d94c-6c01-46a1-80f0-fafdca44bc31
+ID: b12ac62d-249a-4999-8c2c-75c94b234b6f
+Quelle: datenbank.xml
 Name: Verhüllte Aura
 title: Verhüllte Aura
 Kategorie: Magisch

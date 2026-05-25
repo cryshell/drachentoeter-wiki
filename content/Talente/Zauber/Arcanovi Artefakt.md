@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: fd7f5451-7686-4d05-818e-c209953e72d8
+ID: d371c711-703b-49e0-a6b8-9486fd83f0cc
+Quelle: datenbank.xml
 Name: Arcanovi Artefakt
 title: Arcanovi Artefakt
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 7a099500-9da4-4622-bc0e-073b0fb43565
+ID: 20460d0b-93f7-48a5-a993-5c4ff471ad68
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Drachisch)
 title: Sprachkenntnis (Drachisch)
 Kategorie: Sprachkenntnis

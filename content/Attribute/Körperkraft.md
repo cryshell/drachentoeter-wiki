@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Attribut
-ID: e76a5b63-61cb-4b4e-9872-5a9936150185
+ID: 5f4ab9e0-a36a-4bcc-8604-ddb4719cc931
+Quelle: datenbank.xml
 Name: Körperkraft
 title: Körperkraft
 Abkürzung: KK

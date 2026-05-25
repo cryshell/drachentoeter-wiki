@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 3dd5d5c6-bfe1-41d8-a0dc-aea74aa4c3f5
+ID: debd8a25-c62e-43d0-b593-07e9759e1e34
+Quelle: datenbank.xml
 Name: Klarum Purum
 title: Klarum Purum
 Kategorie: Zauber

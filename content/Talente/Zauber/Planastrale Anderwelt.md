@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e15471a8-a859-4301-b517-5872756d5db3
+ID: 36c8acf6-0209-445f-9e64-24a3f02d3e4f
+Quelle: datenbank.xml
 Name: Planastrale Anderwelt
 title: Planastrale Anderwelt
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 3e732af8-9477-4548-8042-99e89a8c121d
+ID: 9fd63d6a-9e9a-48f0-9de0-7b37968a35e6
+Quelle: datenbank.xml
 Name: Skorpion, leicht
 title: Skorpion, leicht
 Trefferpunkte: 2W6+2

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b887c190-d4ef-472f-8e1e-16a95a0bd277
+ID: bcc398b7-6059-4dad-8d6a-77eeac8e8f3d
+Quelle: datenbank.xml
 Name: Custodosigil Diebesbann
 title: Custodosigil Diebesbann
 Kategorie: Zauber

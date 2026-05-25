@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8b235395-a710-45af-8966-68ad644dc64d
+ID: 0e9a2d19-bab3-498f-a78e-f19110b2e5a8
+Quelle: datenbank.xml
 Name: Farben des Geistes
 title: Farben des Geistes
 Kategorie: Zauber

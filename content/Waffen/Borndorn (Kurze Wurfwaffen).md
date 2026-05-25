@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: fc096481-0dc8-4aa6-82fb-422de088c36d
+ID: a98d6aa8-b48a-44cc-9f04-1478d3a4a135
+Quelle: datenbank.xml
 Name: Borndorn (Kurze Wurfwaffen)
 title: Borndorn (Kurze Wurfwaffen)
 Trefferpunkte: 1W6+2

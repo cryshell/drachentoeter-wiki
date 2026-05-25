@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 171ef920-cc68-4e52-b57d-06f0b687cbff
+ID: 93cc9541-9d5a-4b54-bdfd-c4dd0141728d
+Quelle: datenbank.xml
 Name: Debilitatio
 title: Debilitatio
 Kategorie: Zauber

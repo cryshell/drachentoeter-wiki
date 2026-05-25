@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 5986dee3-6971-44ea-9b3b-a190b08b1c69
+ID: ee5fcf5a-36be-45f7-9e7f-f72159f498d0
+Quelle: datenbank.xml
 Name: Jagd
 title: Jagd
 Kategorie: Karmale Riten

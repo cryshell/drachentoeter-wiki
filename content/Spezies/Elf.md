@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Spezies
-ID: ab083c8b-a252-4dbb-9431-432459433e1a
+ID: 99776d97-b8db-408d-afeb-13fe48ef1609
+Quelle: datenbank.xml
 Name: Elf
 ---
 Elfen sind magiebegabte, naturverbundene Wesen mit spitzen Ohren und großen Augen. Sie haben einen ausgeprägten Sinn für Freiheit und Harmonie. Elfische Sippen sind hauptsächlich in den Salamandersteinen und weiter nördlich zu finden, manche haben sich auch in der Nähe menschlicher Städte niedergelassen.

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c6b066b2-08e5-470f-94ff-b3599b2cb40e
+ID: 91b51b5b-97aa-48ff-9a06-4b9c86ce9c46
+Quelle: datenbank.xml
 Name: Kugel des Hellsehers (passiv)
 title: Kugel des Hellsehers (passiv)
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: ce8067fc-e7e6-4800-84c7-f3ca99d21416
+ID: 1b288898-a609-4ad1-a3bc-ef84bcb477d2
+Quelle: datenbank.xml
 Name: Immunität gegen Gifte
 title: Immunität gegen Gifte
 Kategorie: Profan

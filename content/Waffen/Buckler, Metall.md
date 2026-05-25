@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 63fe80ec-68d3-43d5-aa3e-bb7adc1a18d0
+ID: d6addb69-6edf-48cb-9e11-c670911943f3
+Quelle: datenbank.xml
 Name: Buckler, Metall
 title: Buckler, Metall
 Trefferpunkte: 1W6+1

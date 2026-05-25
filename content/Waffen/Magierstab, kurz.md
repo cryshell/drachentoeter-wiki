@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 4e3a922f-565b-4326-aefd-63878467fd96
+ID: 5e75323b-5cb3-4a4d-b6cf-edce0533ea14
+Quelle: datenbank.xml
 Name: Magierstab, kurz
 title: Magierstab, kurz
 Trefferpunkte: 1W6+0
@@ -30,4 +31,4 @@ Preis: 0
 - **Waffeneigenschaften:**
   - Wucht
   - [[Nebenhand|Nebenhand]]
-  - [[Versteckt|Versteckt]]
+  - [[Waffeneigenschaften/Versteckt|Versteckt]]

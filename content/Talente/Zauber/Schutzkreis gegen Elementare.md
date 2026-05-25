@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: bd4d049e-d7a4-4617-b3ba-1fe9155cab45
+ID: 722cae19-16f5-4f9f-856e-86fe6c36856b
+Quelle: datenbank.xml
 Name: Schutzkreis gegen Elementare
 title: Schutzkreis gegen Elementare
 Kategorie: Zauber

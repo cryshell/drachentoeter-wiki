@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c2321527-e177-4679-97fd-18bd2e14b5a4
+ID: 8bc5df12-daca-4c13-af1e-d954fa74f85a
+Quelle: datenbank.xml
 Name: Fluch wider die Ungläubigen
 title: Fluch wider die Ungläubigen
 Kategorie: Liturgien

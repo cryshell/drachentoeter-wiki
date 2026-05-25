@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 22af5f21-a6c7-4afe-9658-614f852243f4
+ID: 23fa8c9a-62d7-4a97-9a11-9d7313cd54d1
+Quelle: datenbank.xml
 Name: Licht des Dolches
 title: Licht des Dolches
 Kategorie: Zauber

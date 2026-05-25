@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d6c6261e-6197-40a7-a28a-72aa5e519481
+ID: 53b264c9-fa59-46d8-ad8a-18b56d590910
+Quelle: datenbank.xml
 Name: Feuermähne Flammenhuf
 title: Feuermähne Flammenhuf
 Kategorie: Zauber

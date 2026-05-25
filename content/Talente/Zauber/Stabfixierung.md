@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 029064fc-49c2-412d-bbb2-6db6ff3a950c
+ID: 1f02cbef-bc54-42cd-a921-cd19b7654400
+Quelle: datenbank.xml
 Name: Stabfixierung
 title: Stabfixierung
 Kategorie: Zauber

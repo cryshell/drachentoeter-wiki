@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: b7ac8f64-6b65-418c-ab5e-3ec17436c1c1
+ID: 2e93163d-375a-4399-b1f6-2b09fc5ab259
+Quelle: datenbank.xml
 Name: Tradition der Scharlatane IV
 title: Tradition der Scharlatane IV
 Kategorie: Tradition (Magisch)

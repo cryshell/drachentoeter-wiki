@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 4bb6325e-0668-4adc-9606-255788d3b008
+ID: a70420d4-86c2-4c0f-8320-f54f1b606c6a
+Quelle: datenbank.xml
 Name: Tradition der Hexen II
 title: Tradition der Hexen II
 Kategorie: Tradition (Magisch)

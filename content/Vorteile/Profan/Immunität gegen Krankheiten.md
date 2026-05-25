@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 6e72e867-724f-496d-8885-2da940b8ff7c
+ID: 2c58eb0e-7862-4781-8d78-2aeb5111fcf8
+Quelle: datenbank.xml
 Name: Immunität gegen Krankheiten
 title: Immunität gegen Krankheiten
 Kategorie: Profan

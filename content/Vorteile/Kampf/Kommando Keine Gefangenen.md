@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 12ee08ec-e638-4cfe-8bd2-97728a9c307a
+ID: 6b314ab4-59bd-441c-84da-beb018ff1b76
+Quelle: datenbank.xml
 Name: "Kommando: Keine Gefangenen!"
 title: "Kommando: Keine Gefangenen!"
 Kategorie: Kampf

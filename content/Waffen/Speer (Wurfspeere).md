@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 7171c4d0-a6e8-4831-b9e9-536526545b67
+ID: da789b1c-ffbc-4d19-889f-c1358f15cb3d
+Quelle: datenbank.xml
 Name: Speer (Wurfspeere)
 title: Speer (Wurfspeere)
 Trefferpunkte: 2W6+2

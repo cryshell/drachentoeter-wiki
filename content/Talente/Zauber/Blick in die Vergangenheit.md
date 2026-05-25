@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 158bffde-4de8-4d26-8324-66b38cfecb14
+ID: 3ef1bff7-691c-47f7-ac0e-e2ab92f63c3d
+Quelle: datenbank.xml
 Name: Blick in die Vergangenheit
 title: Blick in die Vergangenheit
 Kategorie: Zauber

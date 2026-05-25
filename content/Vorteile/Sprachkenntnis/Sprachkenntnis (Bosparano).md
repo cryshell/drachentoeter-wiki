@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 51d10f12-a08a-4b5e-9d82-458680afd159
+ID: 9935529c-4467-48ac-9641-5be0b03cff9e
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Bosparano)
 title: Sprachkenntnis (Bosparano)
 Kategorie: Sprachkenntnis

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 831b4890-8675-4f40-8161-f9bf73059f33
+ID: d5796a6f-a28f-4552-8efa-e1011988f7d5
+Quelle: datenbank.xml
 Name: Vampirische Kräfte
 title: Vampirische Kräfte
 Kategorie: Zauberfertigkeiten

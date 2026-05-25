@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 422235d4-f15f-4d7b-a307-98f8a95981a6
+ID: 5117c9d5-aa94-4307-ad6c-830de3b61252
+Quelle: datenbank.xml
 Name: Harmlose Gestalt
 title: Harmlose Gestalt
 Kategorie: Zauber

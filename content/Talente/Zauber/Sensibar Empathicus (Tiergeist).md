@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: bb5fb674-37b0-40f2-ab90-42da1f858413
+ID: 4f0d7c61-f967-410f-9c51-c288b9959126
+Quelle: datenbank.xml
 Name: Sensibar Empathicus (Tiergeist)
 title: Sensibar Empathicus (Tiergeist)
 Kategorie: Zauber

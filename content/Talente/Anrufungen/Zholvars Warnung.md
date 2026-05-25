@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 24a6e38d-9e87-4b7d-8bd7-f905ac465b72
+ID: 932b374c-d889-4c71-89a6-a808f391445d
+Quelle: datenbank.xml
 Name: Zholvars Warnung
 title: Zholvars Warnung
 Kategorie: Anrufungen

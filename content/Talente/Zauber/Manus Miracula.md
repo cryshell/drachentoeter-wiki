@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 860d9424-cbe5-4451-9506-2e44608740ae
+ID: 47580b69-d2c3-49fb-9c0a-6fab7e991d5e
+Quelle: datenbank.xml
 Name: Manus Miracula
 title: Manus Miracula
 Kategorie: Zauber

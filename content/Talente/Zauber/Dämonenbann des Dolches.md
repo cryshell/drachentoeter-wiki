@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 3f0940a5-3596-40d0-bee5-9a2ab395cc98
+ID: 2a44a8c4-0e1b-4a6a-88ad-616495633c2b
+Quelle: datenbank.xml
 Name: Dämonenbann des Dolches
 title: Dämonenbann des Dolches
 Kategorie: Zauber

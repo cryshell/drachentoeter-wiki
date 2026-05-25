@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c0340037-4473-4dea-9113-bf90b57ddb55
+ID: fbd68948-19db-490c-8c93-c2af8ade8472
+Quelle: datenbank.xml
 Name: Metamorpho Gletscherform
 title: Metamorpho Gletscherform
 Kategorie: Zauber

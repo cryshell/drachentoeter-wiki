@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Abgeleiteter Wert
-ID: 5f06c639-f3ec-4e02-9a92-7dc464677156
+ID: 0d1943b4-ca4d-4062-a5b4-45362276435e
+Quelle: datenbank.xml
 Name: Durchhaltevermögen
 title: Durchhaltevermögen
 Abkürzung: DH

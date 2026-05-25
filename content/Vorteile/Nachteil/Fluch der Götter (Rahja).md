@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 1c321971-9dc9-46b2-94d1-66f4241a7742
+ID: 78bb716b-8208-41d7-9a67-f871a66d364c
+Quelle: datenbank.xml
 Name: Fluch der Götter (Rahja)
 title: Fluch der Götter (Rahja)
 Kategorie: Nachteil

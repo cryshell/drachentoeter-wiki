@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: af49c770-7489-4bce-86fe-13f75582463b
+ID: 015fcde9-5eec-4b1a-a3d5-87ca7782bd9e
+Quelle: datenbank.xml
 Name: Ringrituale
 title: Ringrituale
 Kategorie: Zauberfertigkeiten

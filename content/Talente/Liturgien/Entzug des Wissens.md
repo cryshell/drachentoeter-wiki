@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ba503c75-c2e7-406f-871d-5b1da8c7841c
+ID: 0d89cd71-dd8d-4543-b949-01d087d81072
+Quelle: datenbank.xml
 Name: Entzug des Wissens
 title: Entzug des Wissens
 Kategorie: Liturgien

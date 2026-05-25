@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 8530267c-3aad-491f-9a26-8b77defdf8a2
+ID: be12272a-63b3-40fb-b781-64a4593bf806
+Quelle: datenbank.xml
 Name: Packesel
 title: Packesel
 Kategorie: Profan

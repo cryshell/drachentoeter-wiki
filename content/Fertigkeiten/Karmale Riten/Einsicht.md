@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 2134caa3-4a02-4fb5-9eda-1303e1ec3f1f
+ID: 3331e92f-454b-4c58-9a3c-4a9a01ceca0b
+Quelle: datenbank.xml
 Name: Einsicht
 title: Einsicht
 Kategorie: Karmale Riten

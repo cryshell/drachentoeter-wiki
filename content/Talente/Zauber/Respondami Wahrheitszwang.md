@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d8f14358-5495-4bb1-971c-0cabc44ae31b
+ID: c5940532-6da7-4823-aef8-5d4b643cb801
+Quelle: datenbank.xml
 Name: Respondami Wahrheitszwang
 title: Respondami Wahrheitszwang
 Kategorie: Zauber

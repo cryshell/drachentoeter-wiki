@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ec39194e-b128-45af-9dc8-c26900063950
+ID: 771db6c1-24f1-44fc-9109-d874a16f5fe4
+Quelle: datenbank.xml
 Name: Analys Arcanstruktur
 title: Analys Arcanstruktur
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 18db5050-d9f8-4fa7-a364-24bd09a167cc
+ID: d67b699d-b41a-4bc8-9ef4-d06baccdef05
+Quelle: datenbank.xml
 Name: Wildnisläufer
 title: Wildnisläufer
 Kategorie: Profan

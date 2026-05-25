@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 94e13d60-43f3-4ca7-9c2c-cc36e7d6c544
+ID: 34086291-a8e0-43cb-8e5e-04394000ebd3
+Quelle: datenbank.xml
 Name: Rausch
 title: Rausch
 Kategorie: Karmale Riten

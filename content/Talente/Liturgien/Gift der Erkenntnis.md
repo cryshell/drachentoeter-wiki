@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 53bf6a81-3e42-422c-bec8-332c2d64ab98
+ID: c8a5c245-2fea-46ed-9158-bae73484899a
+Quelle: datenbank.xml
 Name: Gift der Erkenntnis
 title: Gift der Erkenntnis
 Kategorie: Liturgien

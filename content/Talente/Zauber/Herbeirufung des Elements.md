@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a99d48db-2868-4346-a658-764229336783
+ID: 66af765f-3162-4c7f-9b86-945ea8a2964f
+Quelle: datenbank.xml
 Name: Herbeirufung des Elements
 title: Herbeirufung des Elements
 Kategorie: Zauber

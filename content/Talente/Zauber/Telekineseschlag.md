@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 599527da-0fbc-410b-b13e-ae31c1581970
+ID: 410aa4fd-d59b-47a2-9444-e5c0b6fc7e76
+Quelle: datenbank.xml
 Name: Telekineseschlag
 title: Telekineseschlag
 Kategorie: Zauber

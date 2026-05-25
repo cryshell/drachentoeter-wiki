@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 705a9e11-aa4a-43ab-8945-44a1262d75a2
+ID: 25f1fd25-aa96-4e7a-ab55-e1746fc747e8
+Quelle: datenbank.xml
 Name: Ungesehenes Zeichen
 title: Ungesehenes Zeichen
 Kategorie: Zauber

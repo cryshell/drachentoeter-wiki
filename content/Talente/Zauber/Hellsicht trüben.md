@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e69f3946-06be-44e3-b1dc-d902fda316a9
+ID: 8219e5e6-ccca-4d0b-9cb2-803a5291229a
+Quelle: datenbank.xml
 Name: Hellsicht trüben
 title: Hellsicht trüben
 Kategorie: Zauber

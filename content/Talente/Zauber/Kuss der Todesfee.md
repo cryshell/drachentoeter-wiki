@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e6b23169-aa85-49b5-9c67-7b926321a484
+ID: 0ac3e8c2-dfe6-46a0-aef3-8841ad0cca20
+Quelle: datenbank.xml
 Name: Kuss der Todesfee
 title: Kuss der Todesfee
 Kategorie: Zauber

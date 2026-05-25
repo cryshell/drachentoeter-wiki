@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a2dba94d-a7bd-45ab-ae5a-f58280279f01
+ID: 7471ec52-c3ba-46aa-a642-725c1e347646
+Quelle: datenbank.xml
 Name: Hypnotisches Zeichen
 title: Hypnotisches Zeichen
 Kategorie: Zauber

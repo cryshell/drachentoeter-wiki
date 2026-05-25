@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 917ba869-b0f3-42a9-8a32-801740963be3
+ID: f44603e2-9f90-4ecb-809e-aca174f6793f
+Quelle: datenbank.xml
 Name: Tranksegen
 title: Tranksegen
 Kategorie: Liturgien

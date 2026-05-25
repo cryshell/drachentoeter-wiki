@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d1da426e-fe2f-49a1-a632-adffcf99579a
+ID: c6cd61bf-3152-422b-9848-75c6c833b2c2
+Quelle: datenbank.xml
 Name: Bannstab (passiv)
 title: Bannstab (passiv)
 Kategorie: Zauber

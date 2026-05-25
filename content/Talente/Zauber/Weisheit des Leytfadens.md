@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 07108c8a-e913-4713-bc5d-1ae644c59922
+ID: b797aa53-06f5-45a6-b457-797fed3dc9b9
+Quelle: datenbank.xml
 Name: Weisheit des Leytfadens
 title: Weisheit des Leytfadens
 Kategorie: Zauber

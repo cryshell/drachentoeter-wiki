@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5ac548ad-b14c-4ecc-ab84-16267667aff5
+ID: beb40065-05ad-40ee-89f0-1f79879ec7e0
+Quelle: datenbank.xml
 Name: Heller Stern
 title: Heller Stern
 Kategorie: Zauber

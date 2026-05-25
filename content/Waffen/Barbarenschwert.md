@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 35b7d798-eb3f-440f-8d93-ea4fb94770ac
+ID: 813a952d-b48e-43b1-98af-9ad15ead5c37
+Quelle: datenbank.xml
 Name: Barbarenschwert
 title: Barbarenschwert
 Trefferpunkte: 3W6+-1
@@ -29,4 +30,4 @@ Preis: 200
 - **Waffeneigenschaften:**
   - Hieb
   - [[Kopflastig|Kopflastig]]
-  - [[Einschüchternd|Einschüchternd]]
+  - [[Waffeneigenschaften/Einschüchternd|Einschüchternd]]

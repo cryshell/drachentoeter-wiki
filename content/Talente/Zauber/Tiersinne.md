@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: de609437-bcf7-4c4e-9b44-e41f3db2bf0d
+ID: b310c651-b03c-4550-9621-17bd510e5f57
+Quelle: datenbank.xml
 Name: Tiersinne
 title: Tiersinne
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: e582ea18-9465-4409-9431-0924c8096171
+ID: 8607d06c-43e0-45dc-b05a-d2c529eccc30
+Quelle: datenbank.xml
 Name: Tradition der Kristallomanten II
 title: Tradition der Kristallomanten II
 Kategorie: Tradition (Magisch)

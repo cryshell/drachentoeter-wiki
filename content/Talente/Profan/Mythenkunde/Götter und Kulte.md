@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: beca3391-562a-4e93-9846-e100f60eb3c4
+ID: a1c5d918-d917-430d-88ab-679d61ab8835
+Quelle: datenbank.xml
 Name: Götter und Kulte
 title: Götter und Kulte
 Kategorie: Profan

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 513a4c9b-ec95-4cc2-ac2e-4f81240d0dfd
+ID: 7b46d227-556c-47cb-8733-d84321268c81
+Quelle: datenbank.xml
 Name: Hammerfaust
 title: Hammerfaust
 Kategorie: Kampf

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 64a11bf8-ac0a-4096-902c-5a616841db08
+ID: 84220847-42eb-492b-9811-74f6f5c9152a
+Quelle: datenbank.xml
 Name: Veränderung aufheben
 title: Veränderung aufheben
 Kategorie: Zauber

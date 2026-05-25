@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f2b81fd8-2ee6-4e7d-80a2-d006eab5c2b4
+ID: 7f418c6e-8b0d-42b9-8e0d-8372efc21b06
+Quelle: datenbank.xml
 Name: Memorabia Falsifir
 title: Memorabia Falsifir
 Kategorie: Zauber

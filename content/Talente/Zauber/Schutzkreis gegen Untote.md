@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 85fc16f1-ac7b-4809-b093-49048e02257c
+ID: 6a198724-7f8d-47f1-b838-968f67515998
+Quelle: datenbank.xml
 Name: Schutzkreis gegen Untote
 title: Schutzkreis gegen Untote
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: e1ad9b42-bdbf-455b-8e05-12f1587e4fcb
+ID: 946f2069-db5f-4323-9481-4054fca081b7
+Quelle: datenbank.xml
 Name: Tradition
 title: Tradition
 Kategorie: Karmale Riten

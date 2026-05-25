@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1c2ecc2b-c95a-4775-9a69-70a3693607a1
+ID: 91812bc6-7289-4390-8301-e5d4f42a974a
+Quelle: datenbank.xml
 Name: Iribaars Hand
 title: Iribaars Hand
 Kategorie: Zauber

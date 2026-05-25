@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 320a79d7-8200-4654-8593-fdb4158b29e7
+ID: 38b429d8-e916-4a04-b822-d39904be6ca3
+Quelle: datenbank.xml
 Name: Wahre Namen des Namenlosen IV
 title: Wahre Namen des Namenlosen IV
 Kategorie: Wahre Namen
@@ -17,6 +18,6 @@ Kosten: 10
 
 - **Erlernen:** 10 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Geweiht I]] ODER Vorteil [[Paktierer I]]
   - MeisterAttribut [[Klugheit|KL]] 10
   - Vorteil [[Wahre Namen des Namenlosen III]]

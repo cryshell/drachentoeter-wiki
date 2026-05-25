@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d39bc5e5-737e-421e-b25f-a937e77b5a44
+ID: 7545ca8e-3897-4b82-a07c-31ac6bc0bb0b
+Quelle: datenbank.xml
 Name: Zungenschwellung
 title: Zungenschwellung
 Kategorie: Zauber

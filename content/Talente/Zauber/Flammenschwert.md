@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ca27a7c4-d171-4156-b815-5c6759a7ef36
+ID: 4b02dda7-a772-4aff-8973-887676b644f9
+Quelle: datenbank.xml
 Name: Flammenschwert
 title: Flammenschwert
 Kategorie: Zauber

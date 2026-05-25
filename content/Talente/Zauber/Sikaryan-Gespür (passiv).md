@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8e2b7c51-4d4e-44a7-9b36-46f350b34db1
+ID: 5d31db5f-0ab2-4733-99d5-48047d246e7c
+Quelle: datenbank.xml
 Name: Sikaryan-Gespür (passiv)
 title: Sikaryan-Gespür (passiv)
 Kategorie: Zauber

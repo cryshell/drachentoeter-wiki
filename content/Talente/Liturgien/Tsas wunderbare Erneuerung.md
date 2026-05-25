@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8c72ac2e-9217-4396-9871-73fef0b9d10e
+ID: 404302ef-0d2d-4c04-ad71-c9734418271b
+Quelle: datenbank.xml
 Name: Tsas wunderbare Erneuerung
 title: Tsas wunderbare Erneuerung
 Kategorie: Liturgien

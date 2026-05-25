@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 972e9816-205e-41f8-b371-982a20c38f2a
+ID: 07451b8b-2302-4612-9a1c-92d9e2babeda
+Quelle: datenbank.xml
 Name: Tanz der Ermutigung
 title: Tanz der Ermutigung
 Kategorie: Zauber

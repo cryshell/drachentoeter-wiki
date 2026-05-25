@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 130efa5d-9b90-4dc6-b5d1-e90d33944c70
+ID: 9fbca57f-4e3a-4123-a3b0-5099dc6870da
+Quelle: datenbank.xml
 Name: Erinnerungsmelodie
 title: Erinnerungsmelodie
 Kategorie: Zauber

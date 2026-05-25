@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: f6d376bd-86df-4ea8-b649-147f4fdff733
+ID: 91038639-5f2a-4921-b219-392b254b2dea
+Quelle: datenbank.xml
 Name: Wind und Wogen
 title: Wind und Wogen
 Kategorie: Karmale Riten

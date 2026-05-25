@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 230028f8-a757-4306-a0ad-4530b657e659
+ID: ff356a13-8e14-447b-abff-a6fae970c17f
+Quelle: datenbank.xml
 Name: Dunkelheit
 title: Dunkelheit
 Kategorie: Zauber

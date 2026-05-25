@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8f9cfd3c-ef38-4782-bf62-8e515e6a9a0e
+ID: a89b6cad-154e-4910-9ecf-ec3d90806d6a
+Quelle: datenbank.xml
 Name: Bindungspartner finden
 title: Bindungspartner finden
 Kategorie: Zauber

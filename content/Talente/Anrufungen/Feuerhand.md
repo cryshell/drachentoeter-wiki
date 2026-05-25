@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 879414e4-e469-4338-bd31-c14c226c53a8
+ID: d531013e-dbcf-47d2-8690-6e76eb875ce9
+Quelle: datenbank.xml
 Name: Feuerhand
 title: Feuerhand
 Kategorie: Anrufungen

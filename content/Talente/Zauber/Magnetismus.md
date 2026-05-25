@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f1b6afe7-90d4-478b-a487-2a90bdda7e9e
+ID: f5675df3-0761-47e8-97e8-346fb2eb40a9
+Quelle: datenbank.xml
 Name: Magnetismus
 title: Magnetismus
 Kategorie: Zauber

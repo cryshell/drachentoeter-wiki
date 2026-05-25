@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 785b6885-6e76-45e1-8d19-059c56aaefc4
+ID: 15acddf1-d6c6-457a-8a5a-fdef2bb0dba4
+Quelle: datenbank.xml
 Name: Diplomat
 title: Diplomat
 Kategorie: Profan

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0a626be3-4d3d-4654-9511-bcae02a87af4
+ID: a4b47c76-8132-42e1-b42d-14f5a5656dd8
+Quelle: datenbank.xml
 Name: Favilludo Funkentanz
 title: Favilludo Funkentanz
 Kategorie: Zauber

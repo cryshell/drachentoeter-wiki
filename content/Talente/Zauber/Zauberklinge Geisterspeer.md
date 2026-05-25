@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 558ca725-f575-4655-98c2-29c6757f958a
+ID: d7dc22a3-440b-4569-973b-02b904bc761e
+Quelle: datenbank.xml
 Name: Zauberklinge Geisterspeer
 title: Zauberklinge Geisterspeer
 Kategorie: Zauber

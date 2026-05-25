@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 112435a5-9ba3-4b3a-ad15-7c8365c64b51
+ID: 661fe86e-f517-4f68-8632-ab5dcaccc0bc
+Quelle: datenbank.xml
 Name: Sklavenlied
 title: Sklavenlied
 Kategorie: Zauber

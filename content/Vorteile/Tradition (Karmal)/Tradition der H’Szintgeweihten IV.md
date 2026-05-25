@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 2f983a99-6065-4586-8c08-6c3b756b8a21
+ID: 4e42ff2b-4ddc-4947-8332-192cacbaa2fd
+Quelle: datenbank.xml
 Name: Tradition der H’Szintgeweihten IV
 title: Tradition der H’Szintgeweihten IV
 Kategorie: Tradition (Karmal)

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 66f4ae5b-4811-4d6b-8692-cb3bae01bc91
+ID: c3bc4cd8-d685-49dd-b4b5-20c5199f7105
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Fjarningsch)
 title: Sprachkenntnis (Fjarningsch)
 Kategorie: Sprachkenntnis

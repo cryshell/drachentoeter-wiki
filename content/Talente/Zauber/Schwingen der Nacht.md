@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ce4ebfc0-653a-4981-856d-bc8b312d1b9d
+ID: 4c95cb99-a975-4d78-a283-4f043fdb5c21
+Quelle: datenbank.xml
 Name: Schwingen der Nacht
 title: Schwingen der Nacht
 Kategorie: Zauber

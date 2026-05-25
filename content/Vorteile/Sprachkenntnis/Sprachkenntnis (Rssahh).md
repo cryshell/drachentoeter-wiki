@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 6a453d99-b20e-43cd-b693-16771cd7cd1c
+ID: b489eba5-85fb-41a7-9b0f-5c49f0de4958
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Rssahh)
 title: Sprachkenntnis (Rssahh)
 Kategorie: Sprachkenntnis

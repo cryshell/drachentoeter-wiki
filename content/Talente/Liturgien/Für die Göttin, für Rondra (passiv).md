@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 6f1c4e55-f7eb-45b1-a0f7-b176ccd843b7
+ID: b1b0f048-8787-4132-a356-781558e7a98b
+Quelle: datenbank.xml
 Name: "Für die Göttin, für Rondra! (passiv)"
 title: "Für die Göttin, für Rondra! (passiv)"
 Kategorie: Liturgien

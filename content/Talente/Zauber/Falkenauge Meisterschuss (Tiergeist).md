@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1864947f-66b8-4290-88b4-f01b1a98586b
+ID: 47c77e11-e11b-45d3-9256-5a0e07dcccfd
+Quelle: datenbank.xml
 Name: Falkenauge Meisterschuss (Tiergeist)
 title: Falkenauge Meisterschuss (Tiergeist)
 Kategorie: Zauber

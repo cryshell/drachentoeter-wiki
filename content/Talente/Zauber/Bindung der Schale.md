@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 32e8bca3-277d-4048-b927-bfd44346247e
+ID: c4954be0-2ffa-4ca4-a774-59dd5c609803
+Quelle: datenbank.xml
 Name: Bindung der Schale
 title: Bindung der Schale
 Kategorie: Zauber

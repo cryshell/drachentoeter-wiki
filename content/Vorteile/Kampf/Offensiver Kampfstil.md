@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 066d26aa-d379-471f-8f1f-c000ca926939
+ID: 98cf3e3f-0cb7-4ce0-a122-bf88bf7198b2
+Quelle: datenbank.xml
 Name: Offensiver Kampfstil
 title: Offensiver Kampfstil
 Kategorie: Kampf

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 6aae3d84-7388-4166-bc5c-46277e3129c8
+ID: 799db0c7-64f7-4225-a531-4082cf3308c4
+Quelle: datenbank.xml
 Name: Stabbohrer
 title: Stabbohrer
 Kategorie: Zauber

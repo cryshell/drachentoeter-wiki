@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ee1ff9ff-cc53-429a-b6f4-d1fbbf36d13d
+ID: dd030705-bf16-4ed7-a560-7c342ac39064
+Quelle: datenbank.xml
 Name: Drachenrune
 title: Drachenrune
 Kategorie: Zauber

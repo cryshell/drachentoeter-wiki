@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5bc0abe7-834a-4bb7-b35e-8b70874421b4
+ID: 4cc45695-031e-45ee-ac5f-1aa65f10474c
+Quelle: datenbank.xml
 Name: Gestalt aus Rauch
 title: Gestalt aus Rauch
 Kategorie: Zauber

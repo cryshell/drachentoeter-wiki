@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 4f5d9300-79d7-443e-90da-0a063d2635a2
+ID: 170c1f2a-9a25-46df-9ece-d8786c81b51c
+Quelle: datenbank.xml
 Name: Wasserbann
 title: Wasserbann
 Kategorie: Zauber

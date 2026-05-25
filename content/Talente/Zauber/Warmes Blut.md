@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5ca259d0-2c93-4ca2-9ba4-989f7959bb92
+ID: 4d3c16cc-20e6-4563-9c3e-67abbaee2cc7
+Quelle: datenbank.xml
 Name: Warmes Blut
 title: Warmes Blut
 Kategorie: Zauber

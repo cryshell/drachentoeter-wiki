@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 45b56527-2a02-4228-9cda-0051180285f9
+ID: a0d9074c-0b3e-4424-af07-e1ef713e97f5
+Quelle: datenbank.xml
 Name: Messer
 title: Messer
 Trefferpunkte: 1W6+1

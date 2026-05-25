@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1f4b383c-4812-42fc-b333-8b7d463f24fa
+ID: 216fb9b2-d834-4552-ad53-e65518b12f28
+Quelle: datenbank.xml
 Name: Furchtrune
 title: Furchtrune
 Kategorie: Zauber

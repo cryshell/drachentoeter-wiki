@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0b541d0a-291b-4159-97e4-2aad204bf975
+ID: 1c257be8-dd80-46de-8460-b57be866e6be
+Quelle: datenbank.xml
 Name: Wundsegen
 title: Wundsegen
 Kategorie: Liturgien

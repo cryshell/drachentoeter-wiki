@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 6f49140d-3979-49bf-9c8a-12ea9f9ca485
+ID: 1a27996e-d07b-4c30-88e3-9ba59bcdb9ad
+Quelle: datenbank.xml
 Name: Kulturkunde (Wilde Zwerge)
 title: Kulturkunde (Wilde Zwerge)
 Kategorie: Kulturkunde

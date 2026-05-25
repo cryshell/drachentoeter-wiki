@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 59af3748-6a5f-49a6-a5f4-ec3f7424a93e
+ID: 0b2c9bc4-aff5-4f84-b734-545dfe6cfba1
+Quelle: datenbank.xml
 Name: Schalenzauber
 title: Schalenzauber
 Kategorie: Zauberfertigkeiten

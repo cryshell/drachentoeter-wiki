@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: de9009b9-052f-48e7-abef-5223f7ac4004
+ID: f03641bc-9b22-4fb1-a05f-8792e9ebbe0b
+Quelle: datenbank.xml
 Name: Dorgnapp
 title: Dorgnapp
 Trefferpunkte: 2W6+0

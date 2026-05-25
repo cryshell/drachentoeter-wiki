@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b785149e-18df-4074-b3e2-1bb24a26799f
+ID: 58210bf7-28ea-4d18-8de2-55d325c8f7ff
+Quelle: datenbank.xml
 Name: Segen der Heiligen Ardare
 title: Segen der Heiligen Ardare
 Kategorie: Liturgien

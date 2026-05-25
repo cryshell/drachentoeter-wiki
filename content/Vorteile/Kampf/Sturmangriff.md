@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: bfc0fc13-d60f-487e-b12c-855dc2d056b5
+ID: 202d45d2-b7b5-4321-a6b1-98fbe9475c0a
+Quelle: datenbank.xml
 Name: Sturmangriff
 title: Sturmangriff
 Kategorie: Kampf

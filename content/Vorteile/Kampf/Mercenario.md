@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 956c69d3-6463-42ae-b68f-bd11fc8e8b9f
+ID: 4725673b-3d5f-4237-9c97-e3a27db7ebd2
+Quelle: datenbank.xml
 Name: Mercenario
 title: Mercenario
 Kategorie: Kampf

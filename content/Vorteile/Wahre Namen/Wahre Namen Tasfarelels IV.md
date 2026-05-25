@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: f946bcda-fff2-4848-a830-4b737b7d1b44
+ID: 9868e7e4-8649-4978-8f2f-5010f116b48c
+Quelle: datenbank.xml
 Name: Wahre Namen Tasfarelels IV
 title: Wahre Namen Tasfarelels IV
 Kategorie: Wahre Namen
@@ -17,6 +18,6 @@ Kosten: 20
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Geweiht I]] ODER Vorteil [[Paktierer I]]
   - MeisterAttribut [[Klugheit|KL]] 10
   - Vorteil [[Wahre Namen Tasfarelels III]]

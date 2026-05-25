@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 8c5688eb-0787-4392-a62d-06b7808b3303
+ID: 6dc6f7cc-e3c4-43a2-b16b-8019c4b6b873
+Quelle: datenbank.xml
 Name: Angepasst (Sumpf)
 title: Angepasst (Sumpf)
 Kategorie: Profan

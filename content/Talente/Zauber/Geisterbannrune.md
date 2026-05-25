@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 38d038ab-d71d-450f-a937-4db761e22215
+ID: 37efb89b-d0fa-4c3e-9a1d-e179e60a79f0
+Quelle: datenbank.xml
 Name: Geisterbannrune
 title: Geisterbannrune
 Kategorie: Zauber

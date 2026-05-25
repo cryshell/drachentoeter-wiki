@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 030e8d98-8723-4da4-8fc9-a2908a9378ae
+ID: c4984344-e07b-494e-a11a-99be021b40af
+Quelle: datenbank.xml
 Name: Hilfe der Sippe
 title: Hilfe der Sippe
 Kategorie: Karmale Riten

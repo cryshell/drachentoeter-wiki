@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 74187824-361c-4bb6-8a24-18e95f30a0f4
+ID: c441b0ab-5412-49cc-8835-d8a3e7edc5f9
+Quelle: datenbank.xml
 Name: Leib des Feuers
 title: Leib des Feuers
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 3f195ab8-8dde-4bd7-b5d7-c95ff2ba8133
+ID: cf2fcdbe-4513-45aa-b2ee-0fd5eadcff9b
+Quelle: datenbank.xml
 Name: Krankheit erkennen
 title: Krankheit erkennen
 Kategorie: Anrufungen

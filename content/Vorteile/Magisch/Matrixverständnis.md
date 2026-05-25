@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 77086273-4376-431c-907f-bb978711adf2
+ID: 915f8398-b929-4e68-a721-5bf2dada733b
+Quelle: datenbank.xml
 Name: Matrixverständnis
 title: Matrixverständnis
 Kategorie: Magisch
@@ -19,7 +20,7 @@ Kosten: 40
 
 - **Erlernen:** 40 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Vampir I]]
   - Attribut [[Fingerfertigkeit|FF]] 6
 - **Siehe auch:**
   - [[Artefakte - Herstellung]]

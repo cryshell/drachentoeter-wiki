@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 4dc6f2a3-d378-44d7-a2d7-aea0f28e64ee
+ID: 595e620b-8aec-4009-917c-abacb135ac4e
+Quelle: datenbank.xml
 Name: Rapier
 title: Rapier
 Trefferpunkte: 2W6+1

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: f085812d-94f5-43c5-8232-faf3d12912ca
+ID: 0b4bb36d-bca6-4dd5-89ca-2467079c4d2f
+Quelle: datenbank.xml
 Name: List
 title: List
 Kategorie: Karmale Riten

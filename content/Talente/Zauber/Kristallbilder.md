@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1f613a07-913d-480d-be0b-7388447d4561
+ID: 81566dba-0fbc-4e95-8375-b66fba70524a
+Quelle: datenbank.xml
 Name: Kristallbilder
 title: Kristallbilder
 Kategorie: Zauber

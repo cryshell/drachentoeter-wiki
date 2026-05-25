@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 32e3f55c-9a47-469d-b47e-d6482b997637
+ID: 8d0ce75d-c923-4d14-80e7-4f753a9e4a74
+Quelle: datenbank.xml
 Name: Tradition der Zauberbarden IV
 title: Tradition der Zauberbarden IV
 Kategorie: Tradition (Magisch)

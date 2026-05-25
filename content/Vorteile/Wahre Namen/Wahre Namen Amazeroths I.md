@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 7de54055-33dd-48aa-acd2-cfca50b99721
+ID: f8dd96e1-a11b-4314-be29-8fe9e06e3402
+Quelle: datenbank.xml
 Name: Wahre Namen Amazeroths I
 title: Wahre Namen Amazeroths I
 Kategorie: Wahre Namen
@@ -16,5 +17,5 @@ Du kannst alle Dämonen Amazeroths bis zu einer Beschwörungsschwierigkeit von 1
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Geweiht I]] ODER Vorteil [[Paktierer I]]
   - Attribut [[Klugheit|KL]] 4

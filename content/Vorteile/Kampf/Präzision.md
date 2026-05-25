@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 9e984c38-dac8-4131-a240-9eaeb5d0224f
+ID: adcc2e7a-3cd0-47c5-976f-283a45c2576b
+Quelle: datenbank.xml
 Name: Präzision
 title: Präzision
 Kategorie: Kampf

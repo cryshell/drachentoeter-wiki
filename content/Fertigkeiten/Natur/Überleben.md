@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 74ee67ad-ccaa-45b7-bc6a-9811a614473d
+ID: 287fb1d1-787d-4058-a467-37494fc89f22
+Quelle: datenbank.xml
 Name: Überleben
 title: Überleben
 Kategorie: Natur

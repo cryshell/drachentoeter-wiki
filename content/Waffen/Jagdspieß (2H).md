@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 008c54f4-644b-4792-844d-8be7807f05b2
+ID: 46b6b17b-10dd-4af7-9745-d39efe4c00aa
+Quelle: datenbank.xml
 Name: Jagdspieß (2H)
 title: Jagdspieß (2H)
 Trefferpunkte: 2W6+3

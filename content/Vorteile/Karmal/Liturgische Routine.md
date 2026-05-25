@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: d9f5cd0c-e134-4ab4-bb4d-4dd171fcc5b4
+ID: 9e14edbc-40e7-4f05-b623-7ddea9e4aafd
+Quelle: datenbank.xml
 Name: Liturgische Routine
 title: Liturgische Routine
 Kategorie: Karmal

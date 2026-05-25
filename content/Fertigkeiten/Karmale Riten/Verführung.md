@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 1209938f-c80d-424e-b9b9-73e12384a11c
+ID: 00488c8b-1ee6-41eb-990b-2be8bd3e3e11
+Quelle: datenbank.xml
 Name: Verführung
 title: Verführung
 Kategorie: Karmale Riten

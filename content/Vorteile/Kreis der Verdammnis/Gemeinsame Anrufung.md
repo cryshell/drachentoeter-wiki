@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 3cbd3033-1881-4dd0-bd34-d88c5aaf5275
+ID: a451dc62-833c-412a-a49a-616bc06a37e9
+Quelle: datenbank.xml
 Name: Gemeinsame Anrufung
 title: Gemeinsame Anrufung
 Kategorie: Kreis der Verdammnis

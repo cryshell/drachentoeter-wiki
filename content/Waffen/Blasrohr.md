@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: f1592675-adce-49b7-b781-0254065e038d
+ID: 86555113-dca3-4582-ac09-db5b34135445
+Quelle: datenbank.xml
 Name: Blasrohr
 title: Blasrohr
 Trefferpunkte: 1W6+-1

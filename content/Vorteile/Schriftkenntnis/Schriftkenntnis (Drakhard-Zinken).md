@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 48599f74-b6f2-41a7-b77d-3eca6199b4b6
+ID: 5d6c939d-ae9f-47b8-a667-2f4518fbd8eb
+Quelle: datenbank.xml
 Name: Schriftkenntnis (Drakhard-Zinken)
 title: Schriftkenntnis (Drakhard-Zinken)
 Kategorie: Schriftkenntnis

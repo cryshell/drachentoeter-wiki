@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 5de59438-6f2c-4ebc-9a93-ab0273c754f4
+ID: 90347ca0-0b03-4cbc-8cee-dc3bcb74c8c1
+Quelle: datenbank.xml
 Name: Tradition der Feylamia
 title: Tradition der Feylamia
 Kategorie: Tradition (Vampir)

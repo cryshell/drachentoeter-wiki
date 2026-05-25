@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 91021083-5814-4e96-8c6d-ad2b6da6de4a
+ID: be75c461-7055-413c-964c-8e124ca294fe
+Quelle: datenbank.xml
 Name: Ignifaxius Flammenstrahl
 title: Ignifaxius Flammenstrahl
 Kategorie: Zauber

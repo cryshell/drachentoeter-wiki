@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffeneigenschaft
-ID:
+ID: 70fa4b57-bc89-43a4-8d88-9356a9efff4a
+Quelle: datenbank.xml
 Name: Schild
 title: Schild
 ---

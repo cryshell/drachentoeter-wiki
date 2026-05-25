@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e34d3125-a475-4e17-9081-e33978378264
+ID: 2330a67d-bf1f-43c4-bf26-8902cab932ea
+Quelle: datenbank.xml
 Name: Seil des Adepten
 title: Seil des Adepten
 Kategorie: Zauber

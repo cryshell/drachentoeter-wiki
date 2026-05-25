@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 415e8263-8c0f-447a-926b-d21e7241d95d
+ID: 582fe05e-193e-4d22-b64f-203c0641ee7f
+Quelle: datenbank.xml
 Name: Bindung des Schuppenbeutels
 title: Bindung des Schuppenbeutels
 Kategorie: Zauber

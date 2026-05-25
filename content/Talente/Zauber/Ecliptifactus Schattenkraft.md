@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 452223df-8614-4ed7-855a-da61412472dd
+ID: b4397e9b-ac0b-4d20-a6f8-3e64edd58296
+Quelle: datenbank.xml
 Name: Ecliptifactus Schattenkraft
 title: Ecliptifactus Schattenkraft
 Kategorie: Zauber

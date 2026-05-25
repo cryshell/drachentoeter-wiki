@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: cff8e5c7-3703-4a52-8ddd-44bf6ce9c396
+ID: 45b494ed-ee30-49b2-9782-96175f28e5de
+Quelle: datenbank.xml
 Name: Großer Sklaventod
 title: Großer Sklaventod
 Trefferpunkte: 3W6+1
@@ -27,6 +28,6 @@ Preis: 350
 - **Waffeneigenschaften:**
   - Hieb
   - [[Kopflastig|Kopflastig]]
-  - [[Schwer|Schwer (4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (4)]]
   - [[Zweihändig|Zweihändig]]
-  - [[Einschüchternd|Einschüchternd]]
+  - [[Waffeneigenschaften/Einschüchternd|Einschüchternd]]

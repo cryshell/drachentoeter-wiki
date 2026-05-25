@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 64346d76-ecca-426a-9f5d-fef77be2b85c
+ID: a856ea9f-2910-4c00-95e5-d357ff60b624
+Quelle: datenbank.xml
 Name: Geschenk des Blutes
 title: Geschenk des Blutes
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: c788d4e2-fc5d-4952-85ee-760b82f96e59
+ID: 8789dc4c-a0d1-49a7-8cdf-a19e29f4bbf9
+Quelle: datenbank.xml
 Name: Orkischer Reiterbogen
 title: Orkischer Reiterbogen
 Trefferpunkte: 2W6+3
@@ -24,5 +25,5 @@ Fernkampf: true
 - **Fernkampf:** ja
 - **Waffeneigenschaften:**
   - Schuss
-  - [[Schwer|Schwer (6)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (6)]]
   - [[Zweihändig|Zweihändig]]

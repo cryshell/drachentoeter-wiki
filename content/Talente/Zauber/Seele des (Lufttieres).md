@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 08aff41f-91b4-46a0-b33d-a2f5bfe0edb6
+ID: 3a4a92e8-b737-4ff6-ae26-4697e0052725
+Quelle: datenbank.xml
 Name: Seele des (Lufttieres)
 title: Seele des (Lufttieres)
 Kategorie: Zauber

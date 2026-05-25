@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: b3ad4036-bada-4d1c-84b7-5214687c9fd6
+ID: 30e8357d-7261-43cb-baed-7aca8c2ae5ca
+Quelle: datenbank.xml
 Name: Menschenfänger
 title: Menschenfänger
 Trefferpunkte: 1W6+0

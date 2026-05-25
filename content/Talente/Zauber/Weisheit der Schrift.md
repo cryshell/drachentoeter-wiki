@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b7aefd39-3eb6-4666-82ee-0c1c5c57db3d
+ID: f29a44ac-537d-462a-8746-ffdff20d575a
+Quelle: datenbank.xml
 Name: Weisheit der Schrift
 title: Weisheit der Schrift
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 32aac350-10e6-4ecb-aa12-f89854d6ca40
+ID: 3701a20d-df96-4fc0-bc29-6eb585421ddc
+Quelle: datenbank.xml
 Name: Ernte des Dolches
 title: Ernte des Dolches
 Kategorie: Zauber

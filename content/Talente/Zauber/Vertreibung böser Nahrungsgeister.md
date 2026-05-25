@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 52320617-70ff-4b98-9a21-65ed29dd9446
+ID: cbd45c11-3c6f-45e4-8340-c15961825411
+Quelle: datenbank.xml
 Name: Vertreibung böser Nahrungsgeister
 title: Vertreibung böser Nahrungsgeister
 Kategorie: Zauber

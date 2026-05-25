@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 580b5f6e-e0d4-4058-a0fc-61c902c94dd7
+ID: bdc31b8b-9663-48d0-84fd-74d0d14a163a
+Quelle: datenbank.xml
 Name: Privilegien
 title: Privilegien
 Kategorie: Profan

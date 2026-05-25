@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f7350c01-dbfa-4479-977b-cbd532cf6e67
+ID: f2d9d31f-1284-4e4f-b027-3d0729aaa40b
+Quelle: datenbank.xml
 Name: Feuerfinger
 title: Feuerfinger
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2b187967-beb4-4398-a179-cf0a6365a807
+ID: 78bbdc17-6dec-4f7f-af62-1e7ce4b8bfe8
+Quelle: datenbank.xml
 Name: Namenlose Kälte
 title: Namenlose Kälte
 Kategorie: Liturgien

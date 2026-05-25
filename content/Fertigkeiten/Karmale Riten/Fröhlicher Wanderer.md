@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: b4619fe7-98a0-43d4-94c1-12194e25bb72
+ID: fecf4a84-6c94-460c-9ffc-a443f5e3628a
+Quelle: datenbank.xml
 Name: Fröhlicher Wanderer
 title: Fröhlicher Wanderer
 Kategorie: Karmale Riten

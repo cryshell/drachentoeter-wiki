@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: fb290aa0-ab80-40b5-9aee-c3ce80801c07
+ID: a2ed1c96-33ec-477c-b903-de5a4f4256dd
+Quelle: datenbank.xml
 Name: Rohrstock
 title: Rohrstock
 Kategorie: Zauber

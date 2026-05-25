@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: eeeaa77b-0c10-456f-8f60-bb08c0bc0b7c
+ID: 0e077f49-4d3f-44e2-b98a-fa1ca09a0397
+Quelle: datenbank.xml
 Name: Kulturkunde (Amazonen)
 title: Kulturkunde (Amazonen)
 Kategorie: Kulturkunde

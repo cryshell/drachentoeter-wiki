@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 40946897-9b8c-4410-8a9b-05ea95cdadc0
+ID: bb60f1fe-9723-427f-9a40-cd69100c9caa
+Quelle: datenbank.xml
 Name: Wahre Namen Thargunitoths IV
 title: Wahre Namen Thargunitoths IV
 Kategorie: Wahre Namen
@@ -17,6 +18,6 @@ Kosten: 20
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Geweiht I]] ODER Vorteil [[Paktierer I]]
   - MeisterAttribut [[Klugheit|KL]] 10
   - Vorteil [[Wahre Namen Thargunitoths III]]

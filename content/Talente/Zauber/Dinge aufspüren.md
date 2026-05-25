@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e5790d4d-30c6-409f-893e-0690f76b6ad6
+ID: 3c5e3421-0a1f-4070-b00d-50d668088878
+Quelle: datenbank.xml
 Name: Dinge aufspüren
 title: Dinge aufspüren
 Kategorie: Zauber

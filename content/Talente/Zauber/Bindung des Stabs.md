@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b6ef3c6c-c210-48b1-a5ec-36b0d252e07c
+ID: 81533649-df37-4c9a-b8df-c6fdfba90622
+Quelle: datenbank.xml
 Name: Bindung des Stabs
 title: Bindung des Stabs
 Kategorie: Zauber

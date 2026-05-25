@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 5f0b0176-4ce0-4a04-862c-92cd0da9f8d3
+ID: cabf0d2d-ad9d-4977-bc78-26ef783d47b3
+Quelle: datenbank.xml
 Name: Kulturkunde (Aranien)
 title: Kulturkunde (Aranien)
 Kategorie: Kulturkunde

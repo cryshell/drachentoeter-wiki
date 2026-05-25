@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9e3e4fbb-dc23-446c-8b6e-c37c544bb7b5
+ID: 2ae9fe89-c639-4677-accb-8a3c11845715
+Quelle: datenbank.xml
 Name: Sicherer Tritt im Schnee
 title: Sicherer Tritt im Schnee
 Kategorie: Anrufungen

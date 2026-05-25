@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffeneigenschaft
-ID:
+ID: 4b4b2915-25a3-4688-9638-410c1d28bb82
+Quelle: datenbank.xml
 Name: Geschütz
 title: Geschütz
 ---

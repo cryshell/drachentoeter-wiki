@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: ef37e280-698b-4da0-9052-ed3739e5b10c
+ID: dd0dabe0-6a9d-4e41-9abb-cb6ba5710f44
+Quelle: datenbank.xml
 Name: Heilung
 title: Heilung
 Kategorie: Karmale Riten

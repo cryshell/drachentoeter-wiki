@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: a5bf57b4-589e-4826-a664-4f0b95f3c8f6
+ID: 63117043-0063-4af6-b98e-767d17d9ddcf
+Quelle: datenbank.xml
 Name: Tiergeist (Wolf)
 title: Tiergeist (Wolf)
 Kategorie: Tiergeist
@@ -28,8 +29,8 @@ Kosten: 0
 
 - **Erlernen:** 0 EP
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
-  - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
+  - Vorteil [[Tradition der Anach-Nûrim I]] ODER Vorteil [[Tradition der Durro-Dûn I]] ODER Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]] ODER Kein Vorteil [[Tiergeist ()|Tiergeist (*)]]
 - **Siehe auch:**
   - [[Adlerauge Luchsenohr]]
   - [[Axxeleratus Blitzgeschwind]]

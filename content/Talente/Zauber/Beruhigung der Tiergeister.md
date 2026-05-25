@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e13942a1-509e-4e93-a785-7059f631b217
+ID: 2c1668aa-c556-46c5-a9b2-e9f5e2cc76b6
+Quelle: datenbank.xml
 Name: Beruhigung der Tiergeister
 title: Beruhigung der Tiergeister
 Kategorie: Zauber

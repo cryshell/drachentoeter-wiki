@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: c0a751e6-7318-4c43-90dd-4fbf49ff95a1
+ID: f4742f05-ab2b-4093-a94a-a338db73e998
+Quelle: datenbank.xml
 Name: Granatapfel (Schleudern)
 title: Granatapfel (Schleudern)
 Trefferpunkte: 4W6+2

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 21770c9d-1f37-4e04-8cbf-a4b63d101f42
+ID: 4b51e2ec-30ed-4472-a4d9-70e27e31c746
+Quelle: datenbank.xml
 Name: Naturkunde
 title: Naturkunde
 Kategorie: Wissen

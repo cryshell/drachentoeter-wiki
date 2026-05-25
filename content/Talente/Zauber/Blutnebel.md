@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c34450f8-91a1-4a7a-a53b-39bdd0122ca7
+ID: 3cf799c6-a235-4fdb-aef4-71a32571c16f
+Quelle: datenbank.xml
 Name: Blutnebel
 title: Blutnebel
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: f7a4b001-9fc7-4451-8dcf-c18174bc45e1
+ID: 4ae3efc5-9ed7-44bf-af8f-1fe7f9f69dc6
+Quelle: datenbank.xml
 Name: Winter
 title: Winter
 Kategorie: Karmale Riten

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ab8a8106-b385-4c0a-b429-10dd7bc7f5be
+ID: 51246319-7b06-4b7a-87b3-40d4aa50e2d1
+Quelle: datenbank.xml
 Name: Nekropathia Seelenreise
 title: Nekropathia Seelenreise
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffeneigenschaft
-ID:
+ID: 297f968b-de90-4fef-a9ea-d7ab384c0546
+Quelle: datenbank.xml
 Name: Wurfarm
 title: Wurfarm
 ---

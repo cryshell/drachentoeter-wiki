@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b2f95fbf-f2a5-44ae-939f-3906e8e27a6b
+ID: 31433931-f9f3-4317-aed8-8b8a34563c49
+Quelle: datenbank.xml
 Name: Auge der Mada
 title: Auge der Mada
 Kategorie: Zauber

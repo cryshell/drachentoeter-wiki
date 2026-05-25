@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: cfffb7c8-f4a0-4082-96d1-338ffd344510
+ID: 51092fdd-3635-4130-9653-21b9a9a459a4
+Quelle: datenbank.xml
 Name: Tierkunde
 title: Tierkunde
 Kategorie: Profan

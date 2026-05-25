@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 12c5fed2-cb2d-4611-b3ee-53698f157aaa
+ID: 69add8ab-d032-4779-9e64-2d56c94a41b1
+Quelle: datenbank.xml
 Name: Turmschild
 title: Turmschild
 Trefferpunkte: 1W6+0
@@ -29,7 +30,7 @@ Preis: 120
 - **Waffeneigenschaften:**
   - Wucht
   - [[Schild|Schild]]
-  - [[Schwer|Schwer(6)]]
+  - [[Waffeneigenschaften/Schwer|Schwer(6)]]
   - abgesetzt Dreivierteldeckung
   - [[Nebenhand|Nebenhand]]
   - [[Defensiv|Defensiv (2)]]

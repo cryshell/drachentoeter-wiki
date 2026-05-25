@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 3a7ca59e-33d9-48ef-b945-c1deb48c1ed3
+ID: d12da0f0-08b1-4dbf-8123-3c64fca1b0fa
+Quelle: datenbank.xml
 Name: Kulturkunde (Mittelreich)
 title: Kulturkunde (Mittelreich)
 Kategorie: Kulturkunde

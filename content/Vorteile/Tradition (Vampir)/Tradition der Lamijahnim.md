@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 200bd384-b095-4ef3-8d03-dad43fea6865
+ID: 52cfcd51-b2e4-4f69-95c1-ca016c57f16b
+Quelle: datenbank.xml
 Name: Tradition der Lamijahnim
 title: Tradition der Lamijahnim
 Kategorie: Tradition (Vampir)

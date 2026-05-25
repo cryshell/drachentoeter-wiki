@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: d8558596-fd3b-4f08-b87c-10c888f30272
+ID: db1f0413-d88a-4d00-96f4-7aff255f8b4a
+Quelle: datenbank.xml
 Name: Tradition der Rondrageweihten IV
 title: Tradition der Rondrageweihten IV
 Kategorie: Tradition (Karmal)

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 082e3253-eac3-4ea2-a226-9b7b5312e7a1
+ID: f89e8f43-1010-4915-85de-f9bfcc13310f
+Quelle: datenbank.xml
 Name: Stangenwaffen
 title: Stangenwaffen
 Kategorie: Profan

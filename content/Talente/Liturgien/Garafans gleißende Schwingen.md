@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: eb272f46-6bff-4cd0-aa22-a5ed2162b5cf
+ID: 9fa45397-85d1-45de-be76-26688a9f42c6
+Quelle: datenbank.xml
 Name: Garafans gleißende Schwingen
 title: Garafans gleißende Schwingen
 Kategorie: Liturgien

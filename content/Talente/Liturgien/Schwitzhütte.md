@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ba52d58b-0dec-450d-ab9b-60dbee4f02e4
+ID: d2ca90f1-0547-489d-b43d-3bf3fbf3a606
+Quelle: datenbank.xml
 Name: Schwitzhütte
 title: Schwitzhütte
 Kategorie: Liturgien

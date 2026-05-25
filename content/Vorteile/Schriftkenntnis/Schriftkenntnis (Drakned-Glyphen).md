@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 0feb0b23-4da7-4fa1-9c6f-7631a1ea3ad8
+ID: 6d67e8e0-3dc7-40de-9ef7-ffbfe62f524d
+Quelle: datenbank.xml
 Name: Schriftkenntnis (Drakned-Glyphen)
 title: Schriftkenntnis (Drakned-Glyphen)
 Kategorie: Schriftkenntnis

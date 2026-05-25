@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8791d640-27c8-4dbd-81cd-bdc59fcd0eaf
+ID: fdbaee5a-5acb-4773-9803-61f330b57a87
+Quelle: datenbank.xml
 Name: Kaltes Schmieden
 title: Kaltes Schmieden
 Kategorie: Anrufungen

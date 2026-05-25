@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b6b9613a-1c6e-49fc-be73-90c064c0e802
+ID: cd6ada4c-31c7-4bed-86e0-59314c61225e
+Quelle: datenbank.xml
 Name: Mut der Ahnen
 title: Mut der Ahnen
 Kategorie: Zauber

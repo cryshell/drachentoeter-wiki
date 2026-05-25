@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: bda0a575-fb48-4f2d-ae7f-3420dd164374
+ID: bc26b2f8-4c1e-4795-af98-89dc9cc79fe0
+Quelle: datenbank.xml
 Name: Invocatio Minima
 title: Invocatio Minima
 Kategorie: Zauber

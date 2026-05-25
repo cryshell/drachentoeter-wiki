@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 894b38b1-78b8-4943-9184-db6844f3cdca
+ID: 6af008f4-9016-444d-acfb-7a64b4f34e01
+Quelle: datenbank.xml
 Name: Laufen
 title: Laufen
 Kategorie: Profan

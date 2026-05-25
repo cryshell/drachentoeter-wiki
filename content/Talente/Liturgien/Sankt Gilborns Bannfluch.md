@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c396012a-a3d1-4905-b9df-7ce346264cf8
+ID: 3088d362-dd69-46e1-9426-1dbbb161fa12
+Quelle: datenbank.xml
 Name: Sankt Gilborns Bannfluch
 title: Sankt Gilborns Bannfluch
 Kategorie: Liturgien

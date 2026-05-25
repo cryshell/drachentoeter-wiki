@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: af403ce2-be5a-461f-b97b-7e41dd7ee528
+ID: 065dfe61-383a-4279-8939-6eab60423230
+Quelle: datenbank.xml
 Name: Sumpfstrudel
 title: Sumpfstrudel
 Kategorie: Zauber

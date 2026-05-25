@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: ac87dd03-85d4-414c-a75c-72fe118a301d
+ID: 2158ace7-e0a0-4369-bb5a-0bd7dfcb4232
+Quelle: datenbank.xml
 Name: Unbeugsamkeit
 title: Unbeugsamkeit
 Kategorie: Profan

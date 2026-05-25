@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d81636cc-fe18-448a-8826-9a1209550c5c
+ID: 7a28e8ef-1973-4994-9820-311e2332cfcc
+Quelle: datenbank.xml
 Name: Levthans Feuer
 title: Levthans Feuer
 Kategorie: Zauber

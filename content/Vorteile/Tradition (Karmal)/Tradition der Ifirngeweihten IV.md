@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 88ddeff3-7e2c-4439-9f17-dc4c232a7507
+ID: bef01511-2cca-4a91-b3db-0a6c7e3ba6e8
+Quelle: datenbank.xml
 Name: Tradition der Ifirngeweihten IV
 title: Tradition der Ifirngeweihten IV
 Kategorie: Tradition (Karmal)

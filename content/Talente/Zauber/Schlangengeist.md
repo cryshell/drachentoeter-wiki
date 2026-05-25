@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 55019f1f-744c-4a2e-894c-4a79ec72b082
+ID: 0c443663-671c-4cda-b714-c4e93e1739dd
+Quelle: datenbank.xml
 Name: Schlangengeist
 title: Schlangengeist
 Kategorie: Zauber

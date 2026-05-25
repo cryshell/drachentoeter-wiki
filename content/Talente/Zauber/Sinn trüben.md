@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d0f26d45-b87e-449b-bc00-6d72a3013ff8
+ID: e5e734f3-5355-46b6-8e33-4c6d492986ef
+Quelle: datenbank.xml
 Name: Sinn trüben
 title: Sinn trüben
 Kategorie: Zauber

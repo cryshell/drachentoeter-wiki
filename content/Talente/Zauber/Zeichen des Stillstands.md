@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8d42215a-33df-4d9c-a9c7-6faaf1d2ab34
+ID: 92fe8792-40ec-400c-8e52-e90a04c3783d
+Quelle: datenbank.xml
 Name: Zeichen des Stillstands
 title: Zeichen des Stillstands
 Kategorie: Zauber

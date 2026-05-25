@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5136eaf8-3f8a-44e0-94b8-ebf903398e80
+ID: 8115a335-2015-4d13-a0ff-db9c0404c27b
+Quelle: datenbank.xml
 Name: Hauch des Elements
 title: Hauch des Elements
 Kategorie: Zauber

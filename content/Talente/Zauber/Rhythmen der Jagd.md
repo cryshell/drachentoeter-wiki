@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 31dd3928-a9fe-4265-b969-734a114d218a
+ID: 810241d1-c53e-4de6-882f-e9eafeedfb2b
+Quelle: datenbank.xml
 Name: Rhythmen der Jagd
 title: Rhythmen der Jagd
 Kategorie: Zauber

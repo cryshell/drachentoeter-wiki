@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: cd241575-493f-4a38-b790-73446959dbdd
+ID: 2d020adb-eca2-49eb-9bfc-2b88234cf0b9
+Quelle: datenbank.xml
 Name: Zauberzeichen
 title: Zauberzeichen
 Kategorie: Zauberfertigkeiten

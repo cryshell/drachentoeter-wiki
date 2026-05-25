@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 273d2a6b-9211-4ffe-b1e2-121dcfd26b24
+ID: 8fe5b8c9-6b1f-4563-b4e8-bdd5bff3b385
+Quelle: datenbank.xml
 Name: Objektweihe
 title: Objektweihe
 Kategorie: Liturgien

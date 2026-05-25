@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a3318cbc-75fd-4223-bbdf-83d9e9a52174
+ID: 7e4cda44-77ff-40f7-8455-a7036923bf3d
+Quelle: datenbank.xml
 Name: Wogensturmrune
 title: Wogensturmrune
 Kategorie: Zauber

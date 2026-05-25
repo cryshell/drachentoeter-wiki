@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 33aa5f1c-bc00-406d-a04f-dce5eedc7128
+ID: 58346e4a-5204-43ee-8210-abeb1ad7fef9
+Quelle: datenbank.xml
 Name: Verfluchtes Herdfeuer
 title: Verfluchtes Herdfeuer
 Kategorie: Anrufungen

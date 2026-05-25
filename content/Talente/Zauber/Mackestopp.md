@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9677bd3a-e9d6-451b-9e68-c8649857c59e
+ID: d3669f82-c405-4aa9-8afe-d83423d4e972
+Quelle: datenbank.xml
 Name: Mackestopp
 title: Mackestopp
 Kategorie: Zauber

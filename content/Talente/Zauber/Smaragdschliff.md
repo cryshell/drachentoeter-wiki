@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a522f956-450f-4b07-adde-8340bd4ff667
+ID: 401068ed-f6f7-4dfc-9ad4-5aeeb8ddb409
+Quelle: datenbank.xml
 Name: Smaragdschliff
 title: Smaragdschliff
 Kategorie: Zauber

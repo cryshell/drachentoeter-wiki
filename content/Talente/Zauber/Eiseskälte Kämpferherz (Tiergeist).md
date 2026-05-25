@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 7154be32-25a7-419a-afe7-128342a02612
+ID: e544cfaf-237d-43f1-98b5-04c786d67c2c
+Quelle: datenbank.xml
 Name: Eiseskälte Kämpferherz (Tiergeist)
 title: Eiseskälte Kämpferherz (Tiergeist)
 Kategorie: Zauber

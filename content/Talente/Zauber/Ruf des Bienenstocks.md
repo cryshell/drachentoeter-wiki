@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e4345966-bcf7-4ca5-9865-88ec9ce1a3eb
+ID: a6ef978d-9196-4503-b749-b5eb8b2fff15
+Quelle: datenbank.xml
 Name: Ruf des Bienenstocks
 title: Ruf des Bienenstocks
 Kategorie: Zauber

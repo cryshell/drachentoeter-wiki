@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 3dfc09e7-033a-460a-9118-bceb85b439d4
+ID: 9c2642da-c937-48e8-b0ad-802ba06cfff6
+Quelle: datenbank.xml
 Name: Vertrautenmagie
 title: Vertrautenmagie
 Kategorie: Zauberfertigkeiten

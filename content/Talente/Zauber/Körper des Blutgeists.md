@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c8543e4f-b457-4ea4-af5e-b210977e230c
+ID: 073bb4c6-b7b3-4c0c-a094-5e7e6bda0e3e
+Quelle: datenbank.xml
 Name: Körper des Blutgeists
 title: Körper des Blutgeists
 Kategorie: Zauber

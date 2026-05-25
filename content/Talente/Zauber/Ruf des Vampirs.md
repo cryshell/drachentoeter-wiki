@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 78cf25e9-d48e-42d9-9332-6b9bbf987225
+ID: 376d19ce-117c-4b92-90eb-55932fecb5af
+Quelle: datenbank.xml
 Name: Ruf des Vampirs
 title: Ruf des Vampirs
 Kategorie: Zauber

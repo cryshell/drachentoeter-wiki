@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c32374de-f84c-4ab2-9dbe-827d090c6225
+ID: 7d641cb6-3c9e-44c3-9ae4-d102c832bfe7
+Quelle: datenbank.xml
 Name: Weihesegen der Waffe
 title: Weihesegen der Waffe
 Kategorie: Liturgien

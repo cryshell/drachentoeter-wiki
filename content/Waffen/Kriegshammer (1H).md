@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: af9beafb-eb73-48fa-a5a5-fbb194c6bcbe
+ID: ca6c4a83-9798-4669-b4ec-889e281875d2
+Quelle: datenbank.xml
 Name: Kriegshammer (1H)
 title: Kriegshammer (1H)
 Trefferpunkte: 3W6+0
@@ -27,6 +28,6 @@ Preis: 120
 - **Waffeneigenschaften:**
   - Wucht
   - [[Kopflastig|Kopflastig]]
-  - [[Schwer|Schwer (6)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (6)]]
   - [[Rüstungsbrechend|Rüstungsbrechend]]
   - [[Vielseitig|Vielseitig (TP +2; WM +1)]]

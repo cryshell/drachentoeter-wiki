@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 07daaae8-7243-43a8-8b6c-f0320d733cb9
+ID: 53a7337a-6eb9-4094-98a3-0e9967b17863
+Quelle: datenbank.xml
 Name: Reichung des Amethyst
 title: Reichung des Amethyst
 Kategorie: Liturgien

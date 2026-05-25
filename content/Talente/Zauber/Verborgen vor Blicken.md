@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e70047ca-6cb9-408d-bc0a-7b688313651c
+ID: 6f5f8a47-1225-4726-8348-0c2d3cf1f247
+Quelle: datenbank.xml
 Name: Verborgen vor Blicken
 title: Verborgen vor Blicken
 Kategorie: Zauber

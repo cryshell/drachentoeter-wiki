@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8b002c63-6bbb-4aaf-9c58-d570b7c86324
+ID: a709aaaf-3178-45ca-be15-43ddc01ce188
+Quelle: datenbank.xml
 Name: Gezücht des Meisters
 title: Gezücht des Meisters
 Kategorie: Zauber

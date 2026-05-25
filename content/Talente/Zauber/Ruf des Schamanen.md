@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 663aa477-3b5f-4510-a88a-222ef3a8d08f
+ID: 5666eb68-8d7a-4bf1-a0cf-c463a1902a76
+Quelle: datenbank.xml
 Name: Ruf des Schamanen
 title: Ruf des Schamanen
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: e55ebf39-aeff-41f6-bbbf-bfc16317ab76
+ID: b279c914-92a5-4a60-bde7-ebe1255338ff
+Quelle: datenbank.xml
 Name: Angepasst (Eiswüste)
 title: Angepasst (Eiswüste)
 Kategorie: Profan

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2ce7a323-36bc-43df-b07e-7ab046e8fe84
+ID: d4fac0c7-3d80-48cf-b4df-700109b54bcd
+Quelle: datenbank.xml
 Name: Tempus Stasis
 title: Tempus Stasis
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 4f9e4795-4bb8-41e8-895b-d20fb15ea94d
+ID: d2b6c809-ccc4-4ffe-8132-aaebcacecfd3
+Quelle: datenbank.xml
 Name: Angepasst (Wald)
 title: Angepasst (Wald)
 Kategorie: Profan

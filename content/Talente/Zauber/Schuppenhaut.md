@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: db7de147-5a15-438f-9568-60e4e8c07ac0
+ID: b0be55f8-9fb4-48a6-87e9-f6684beb7639
+Quelle: datenbank.xml
 Name: Schuppenhaut
 title: Schuppenhaut
 Kategorie: Zauber

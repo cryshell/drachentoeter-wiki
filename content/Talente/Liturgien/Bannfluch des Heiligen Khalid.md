@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 582a1204-54ae-46bb-96ad-4a8b22033208
+ID: 7bec1ad8-dce9-4024-b71a-9ad22788261f
+Quelle: datenbank.xml
 Name: Bannfluch des Heiligen Khalid
 title: Bannfluch des Heiligen Khalid
 Kategorie: Liturgien

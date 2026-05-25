@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1ebc12a4-2e18-4833-9788-16efe9d2f8a5
+ID: 7f8d6662-81c4-44eb-8eb1-8afdcdb3723a
+Quelle: datenbank.xml
 Name: Melodie der Kunstfertigkeit
 title: Melodie der Kunstfertigkeit
 Kategorie: Zauber

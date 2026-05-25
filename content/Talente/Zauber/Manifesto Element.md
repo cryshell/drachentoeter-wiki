@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 208faf65-d568-4017-bcba-181863337942
+ID: 2141e5ac-12e0-43d6-ab9f-aaa9b8cad2bd
+Quelle: datenbank.xml
 Name: Manifesto Element
 title: Manifesto Element
 Kategorie: Zauber

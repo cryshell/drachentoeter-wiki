@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: b6ac3d69-7664-4f2d-8a43-9929d84fdfbe
+ID: 0f8bb219-27b2-4b98-95f6-c5ee664d0fdd
+Quelle: datenbank.xml
 Name: Wahre Namen Blakharazs I
 title: Wahre Namen Blakharazs I
 Kategorie: Wahre Namen
@@ -16,5 +17,5 @@ Du kannst alle Dämonen Blakharazs bis zu einer Beschwörungsschwierigkeit von 1
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Geweiht I]] ODER Vorteil [[Paktierer I]]
   - Attribut [[Klugheit|KL]] 4

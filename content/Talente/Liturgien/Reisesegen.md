@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8bbe9bf9-98e3-41e3-80ee-b6f6bfe59c66
+ID: e63453b9-0ab6-4315-9ab0-7b8e2e41b106
+Quelle: datenbank.xml
 Name: Reisesegen
 title: Reisesegen
 Kategorie: Liturgien

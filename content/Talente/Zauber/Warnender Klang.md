@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 80ddeb28-ba05-45be-a1c7-3a513e39aa01
+ID: 8f043d86-99d3-44ca-93d7-9cc18acb3eb0
+Quelle: datenbank.xml
 Name: Warnender Klang
 title: Warnender Klang
 Kategorie: Zauber

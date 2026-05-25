@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 7df6f20b-4f6b-412e-9e78-e28c75d6c5a9
+ID: a4c07920-3ff2-444b-8fa0-007879413677
+Quelle: datenbank.xml
 Name: Caldofrigo heiß und kalt
 title: Caldofrigo heiß und kalt
 Kategorie: Zauber

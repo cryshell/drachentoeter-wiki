@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 6a407a4e-4f8c-42f2-83a2-6d35ca64d0f3
+ID: 57b29d83-d7c6-40ec-b2b1-504da1786bc1
+Quelle: datenbank.xml
 Name: Steinbearbeitung
 title: Steinbearbeitung
 Kategorie: Profan

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: be7e145d-a335-47d8-a674-9449d1635a4f
+ID: d8468de7-4004-4cc7-b421-6edd450621c8
+Quelle: datenbank.xml
 Name: Ehre
 title: Ehre
 Kategorie: Karmale Riten

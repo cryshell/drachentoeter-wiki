@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: fd11a5dd-7300-4c70-939d-12c149798af6
+ID: 35204e3d-b6c9-4893-8b2d-08739856eb01
+Quelle: datenbank.xml
 Name: Ablativum
 title: Ablativum
 Kategorie: Zauber

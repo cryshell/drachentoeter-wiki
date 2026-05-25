@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 37f327cf-42bb-4c8f-a0f4-6648f610687f
+ID: 4c28069f-e1e3-454f-a461-0ea33c094fd4
+Quelle: datenbank.xml
 Name: Fulminictus Donnerkeil
 title: Fulminictus Donnerkeil
 Kategorie: Zauber

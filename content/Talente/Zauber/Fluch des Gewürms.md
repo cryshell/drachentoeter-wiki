@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1e23a68e-e949-4bce-8050-85a4dc10cf45
+ID: 61a6b495-6ca6-40b6-a608-0db9f9b44cde
+Quelle: datenbank.xml
 Name: Fluch des Gewürms
 title: Fluch des Gewürms
 Kategorie: Zauber

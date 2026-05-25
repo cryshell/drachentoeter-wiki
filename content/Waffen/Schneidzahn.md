@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 5fa4d150-285f-4676-afea-877778d42423
+ID: 0a71d75f-dba0-433b-9984-a57d572da1ec
+Quelle: datenbank.xml
 Name: Schneidzahn
 title: Schneidzahn
 Trefferpunkte: 2W6+1

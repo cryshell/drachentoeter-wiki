@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 4bcfa66c-4680-4637-9ec0-40a6412c1aa1
+ID: 360e5c9a-97e4-4954-b5ce-f079b2e14e7a
+Quelle: datenbank.xml
 Name: Tanz der Erholung
 title: Tanz der Erholung
 Kategorie: Zauber

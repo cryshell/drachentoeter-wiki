@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f7bcd644-bda3-44b1-aa6a-dc39aeab65fe
+ID: ec770457-8afc-4880-8b11-11f3d1b2f838
+Quelle: datenbank.xml
 Name: Praios‘ Magiebann
 title: Praios‘ Magiebann
 Kategorie: Liturgien

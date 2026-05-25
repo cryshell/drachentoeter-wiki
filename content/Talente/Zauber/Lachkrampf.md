@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c51191e0-721f-4e47-9725-14cafe7f2c37
+ID: 56200e2e-bbf4-42ee-816a-d1bed043d1a2
+Quelle: datenbank.xml
 Name: Lachkrampf
 title: Lachkrampf
 Kategorie: Zauber

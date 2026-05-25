@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: b881a7d5-e9b2-47ed-9898-ab5625a6b655
+ID: a7db936b-54b9-4668-8fda-e55bc2994cd2
+Quelle: datenbank.xml
 Name: Vergessen
 title: Vergessen
 Kategorie: Karmale Riten

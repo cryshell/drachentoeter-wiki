@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 32ad3ee9-9fc4-452a-93be-62fc3630595d
+ID: c42cb4a4-d6e6-48e5-bdb5-5b0f27b71905
+Quelle: datenbank.xml
 Name: Minderpakt
 title: Minderpakt
 Kategorie: Kreis der Verdammnis

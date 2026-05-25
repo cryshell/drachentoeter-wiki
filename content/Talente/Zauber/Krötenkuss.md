@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d160ac4a-91fb-4a8e-bf1b-dfc51814a596
+ID: 798fd560-de7f-4e5a-8632-5b1a845f3a18
+Quelle: datenbank.xml
 Name: Krötenkuss
 title: Krötenkuss
 Kategorie: Zauber

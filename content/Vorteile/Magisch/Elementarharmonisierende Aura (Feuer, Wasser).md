@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 1a53a307-1195-4177-af0e-88a98cf1da7e
+ID: e35fcc11-47d7-4742-88ee-b35353347d24
+Quelle: datenbank.xml
 Name: Elementarharmonisierende Aura (Feuer, Wasser)
 title: Elementarharmonisierende Aura (Feuer, Wasser)
 Kategorie: Magisch

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b67c2d4c-4e98-4f20-9bee-e9189eb6eef2
+ID: 5e736544-df14-4e38-b985-d2a5a6a361c4
+Quelle: datenbank.xml
 Name: Aufnahme
 title: Aufnahme
 Kategorie: Zauber

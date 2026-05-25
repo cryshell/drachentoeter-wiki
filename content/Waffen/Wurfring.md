@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 0d6a6308-ce28-42e8-ac49-d28f7ee8f4bb
+ID: 9d9bbfe8-d3a7-4e52-9c49-6daf296251d9
+Quelle: datenbank.xml
 Name: Wurfring
 title: Wurfring
 Trefferpunkte: 1W6+1

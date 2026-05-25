@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 72a62ae8-921f-4792-968b-9da1bf308683
+ID: c8ee4013-b8df-46fb-b5e7-ac3b935cc5cb
+Quelle: datenbank.xml
 Name: Autorität
 title: Autorität
 Kategorie: Interaktion

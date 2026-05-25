@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 65133707-3258-4dc2-9aa8-5131c663283c
+ID: dfc42a4d-7ebd-497a-9b58-203234e2f349
+Quelle: datenbank.xml
 Name: Macht des Blutes
 title: Macht des Blutes
 Kategorie: Zauber

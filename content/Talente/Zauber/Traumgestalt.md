@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ea114180-a091-4609-9d35-adeb40c5523c
+ID: 2c335c61-083b-47ab-a062-2e53950f11df
+Quelle: datenbank.xml
 Name: Traumgestalt
 title: Traumgestalt
 Kategorie: Zauber

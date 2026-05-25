@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 6d9d0523-e90d-4025-b1d8-502b20586c87
+ID: 30624b43-7913-4fa9-8a58-9bb754ad7a4f
+Quelle: datenbank.xml
 Name: Weg des Dolches
 title: Weg des Dolches
 Kategorie: Zauber

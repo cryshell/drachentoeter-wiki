@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d3838ae5-036f-4ba1-b786-2219340ee567
+ID: f10b091e-6740-4b9c-81b3-f5ed55b2eb14
+Quelle: datenbank.xml
 Name: Seidenweich Schuppengleich
 title: Seidenweich Schuppengleich
 Kategorie: Zauber

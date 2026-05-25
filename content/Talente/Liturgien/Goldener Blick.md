@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: adc9fcbb-baf8-4af5-bf71-c39a721b4ffe
+ID: 7b4b7795-afcb-4765-bd7d-b0798363f842
+Quelle: datenbank.xml
 Name: Goldener Blick
 title: Goldener Blick
 Kategorie: Liturgien

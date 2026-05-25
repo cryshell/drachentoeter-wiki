@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 633cc7d3-20d1-4f63-bcec-806c98b1ae93
+ID: 974757ed-16fa-4a29-984f-987953eede89
+Quelle: datenbank.xml
 Name: Eins mit der Natur
 title: Eins mit der Natur
 Kategorie: Zauber

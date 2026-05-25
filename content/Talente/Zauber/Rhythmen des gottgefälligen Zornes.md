@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a5af84dc-c595-4433-830c-e68e989fb6ab
+ID: ad0c8d7f-a59d-49de-bd4e-1865eb480520
+Quelle: datenbank.xml
 Name: Rhythmen des gottgefälligen Zornes
 title: Rhythmen des gottgefälligen Zornes
 Kategorie: Zauber

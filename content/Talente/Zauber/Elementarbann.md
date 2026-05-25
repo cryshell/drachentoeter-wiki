@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 81a9c214-26e1-4f90-bee0-dd6ec8c93bdd
+ID: 05954a8f-7a5b-4762-9a7b-0a6eccf4f94c
+Quelle: datenbank.xml
 Name: Elementarbann
 title: Elementarbann
 Kategorie: Zauber

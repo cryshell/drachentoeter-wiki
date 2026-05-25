@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: c0c51bf6-853f-419d-9244-3a2e07b87ea6
+ID: 716d5d54-87f0-4f64-b6d9-f2cbad6b5972
+Quelle: datenbank.xml
 Name: Eisenwalder
 title: Eisenwalder
 Trefferpunkte: 2W6+2
@@ -25,6 +26,6 @@ Fernkampf: true
 - **Waffeneigenschaften:**
   - Schuss
   - [[Magazin|Magazin (10; 8 Akt)]]
-  - [[Schwer|Schwer (4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (4)]]
   - [[Spannschloss|Spannschloss]]
   - [[Zweihändig|Zweihändig]]

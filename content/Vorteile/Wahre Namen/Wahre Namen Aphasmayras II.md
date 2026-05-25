@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 8a40bfc8-7450-4fac-abca-6c8dd0238d3a
+ID: 2ef3d008-ff02-458d-9dd6-a09ccfa42247
+Quelle: datenbank.xml
 Name: Wahre Namen Aphasmayras II
 title: Wahre Namen Aphasmayras II
 Kategorie: Wahre Namen
@@ -17,6 +18,6 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 - **Erlernen:** 10 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Geweiht I]] ODER Vorteil [[Paktierer I]]
   - Attribut [[Klugheit|KL]] 6
   - Vorteil [[Wahre Namen Aphasmayras I]]

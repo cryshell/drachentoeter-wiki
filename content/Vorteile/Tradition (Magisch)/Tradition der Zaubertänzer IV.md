@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 54db99c2-e4f9-4a90-9aa5-46f94e0a2762
+ID: 6b08c3e6-514e-4dc0-9984-de31b5eface0
+Quelle: datenbank.xml
 Name: Tradition der Zaubertänzer IV
 title: Tradition der Zaubertänzer IV
 Kategorie: Tradition (Magisch)

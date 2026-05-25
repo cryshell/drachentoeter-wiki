@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 1cb7a724-1b00-451b-ba16-6ac51587febc
+ID: 0a86d8ce-5cf3-47db-83af-b5c8327d2302
+Quelle: datenbank.xml
 Name: Zauberer II
 title: Zauberer II
 Kategorie: Magisch

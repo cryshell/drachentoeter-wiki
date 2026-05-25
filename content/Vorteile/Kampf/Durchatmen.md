@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 76578c56-541c-4dcf-b57e-e86b7523d85a
+ID: 9f825b5a-3f08-440e-9d2d-7f40f57f810b
+Quelle: datenbank.xml
 Name: Durchatmen
 title: Durchatmen
 Kategorie: Kampf

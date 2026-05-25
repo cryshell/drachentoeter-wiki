@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: cfc9ebf0-f940-45c4-bfbc-7da9e7e5675e
+ID: 97e174ea-0d9a-4e21-b988-747c321e03ec
+Quelle: datenbank.xml
 Name: "Dämonische Stärkung: KK"
 title: "Dämonische Stärkung: KK"
 Kategorie: Anrufungen

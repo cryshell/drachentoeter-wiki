@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2c12ba4f-2661-4749-bcdd-fbeb1a22165e
+ID: 34a38ff6-e6c3-423f-8f45-35e57a458705
+Quelle: datenbank.xml
 Name: Rondras wundersame Rüstung
 title: Rondras wundersame Rüstung
 Kategorie: Liturgien

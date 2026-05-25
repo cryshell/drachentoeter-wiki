@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 1c9cb661-0ddb-4506-9bcc-3bb87fbff856
+ID: 16f0c930-7141-4710-84e2-28dd7e0d162e
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Ferkina)
 title: Sprachkenntnis (Ferkina)
 Kategorie: Sprachkenntnis

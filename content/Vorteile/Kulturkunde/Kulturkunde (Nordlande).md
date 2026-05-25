@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 1a304c92-10f3-498e-9f56-dfdd1c32d7cb
+ID: 226db754-dd44-4dde-821f-cae2f03af344
+Quelle: datenbank.xml
 Name: Kulturkunde (Nordlande)
 title: Kulturkunde (Nordlande)
 Kategorie: Kulturkunde

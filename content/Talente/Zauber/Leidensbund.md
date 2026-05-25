@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f6e9b82c-7adc-4e24-b6dc-f8951abfbc8a
+ID: 381c6806-f4c5-446d-9cd1-c10967ce0070
+Quelle: datenbank.xml
 Name: Leidensbund
 title: Leidensbund
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 4085f9ac-afb8-4619-b4b0-b2854feacc5d
+ID: 1d07ca39-21c5-42ba-a488-34cb39b42506
+Quelle: datenbank.xml
 Name: Jagd
 title: Jagd
 Kategorie: Natur

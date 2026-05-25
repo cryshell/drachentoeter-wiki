@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Abgeleiteter Wert
-ID: a5d1ff19-4b77-4d07-8836-6ee40416fe00
+ID: fcdd1158-f610-4076-9909-fe5e0d3bc338
+Quelle: datenbank.xml
 Name: Magieresistenz
 title: Magieresistenz
 Abkürzung: MR

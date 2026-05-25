@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: bcb660a2-2341-479b-b8af-d0d4635ebf5d
+ID: 1c768724-05ec-49d7-b803-8ee8f9605fc8
+Quelle: datenbank.xml
 Name: Exkommunikation
 title: Exkommunikation
 Kategorie: Liturgien

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Spezies
-ID: 3187ec89-ea7c-4ff2-8042-f629810b5970
+ID: e1d5c8b2-1453-464c-b3f4-024149a3714b
+Quelle: datenbank.xml
 Name: Zwerg
 ---
 Die kleinwüchsigen Zwerge zeichnen sich durch ihre hohe körperliche Widerstandskraft, einen ausgeprägten Sinn für Tradition und Ehre sowie eine besondere Affinität zu Bergbau und Metallverarbeitung aus. Außerhalb ihrer Bergkönigreiche sind sie in vielen Städten der Menschen auffindbar.

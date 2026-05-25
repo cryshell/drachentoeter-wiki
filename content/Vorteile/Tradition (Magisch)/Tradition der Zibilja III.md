@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 23f91a9f-29fd-4d7a-a6f7-4a1a0794b5ea
+ID: d79ea37a-c584-41ce-baa7-4c833a76603e
+Quelle: datenbank.xml
 Name: Tradition der Zibilja III
 title: Tradition der Zibilja III
 Kategorie: Tradition (Magisch)

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9cd98e68-8ab3-489e-93fd-9c8313f768a2
+ID: c305a26e-68e4-487f-a4f7-5f5d9a6075ea
+Quelle: datenbank.xml
 Name: Pfeil des Heiligen Isegrein
 title: Pfeil des Heiligen Isegrein
 Kategorie: Liturgien

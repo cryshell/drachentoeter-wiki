@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 1725b4ff-166a-443a-a7ca-aac7e987f6e5
+ID: 3a978bb0-f133-4255-8e5a-cef86f175d3f
+Quelle: datenbank.xml
 Name: Zuverlässige Stärkung
 title: Zuverlässige Stärkung
 Kategorie: Kreis der Verdammnis

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 6136315f-84c5-4cc5-a186-68777667cb39
+ID: 2487ab01-9cb3-43db-9b3e-62b65ecccd22
+Quelle: datenbank.xml
 Name: Astrale Regeneration V
 title: Astrale Regeneration V
 Kategorie: Magisch

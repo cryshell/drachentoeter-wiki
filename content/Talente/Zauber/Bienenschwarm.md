@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5a986113-09da-4991-a1e6-4b06e084c2eb
+ID: 27a7d24a-079f-429b-ba53-5285d746aa71
+Quelle: datenbank.xml
 Name: Bienenschwarm
 title: Bienenschwarm
 Kategorie: Zauber

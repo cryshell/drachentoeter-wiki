@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 6803ee28-0bf0-48ea-a57a-59fb20d95e0f
+ID: 10253064-0a63-4d69-89be-a901a2a69e1a
+Quelle: datenbank.xml
 Name: Resistenz gegen Krankheiten
 title: Resistenz gegen Krankheiten
 Kategorie: Profan

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 079374f1-d1c1-4cf2-a01d-84e4ac76965f
+ID: e057d6d3-654a-41de-af8a-8b18ae32f2d1
+Quelle: datenbank.xml
 Name: Stärkung der Verdammten
 title: Stärkung der Verdammten
 Kategorie: Kreis der Verdammnis

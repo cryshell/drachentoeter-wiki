@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 417969bb-8521-4d61-b961-a9aabc17c939
+ID: f3a6bcfb-ef18-4b58-a224-f47139f97038
+Quelle: datenbank.xml
 Name: Fruchtbarkeit und Wiedergeburt
 title: Fruchtbarkeit und Wiedergeburt
 Kategorie: Karmale Riten

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: f8a87ef0-e312-42bb-8022-156973e5cbf2
+ID: b2a9f489-6d5c-4b93-ae5d-3dd1d0c784e3
+Quelle: datenbank.xml
 Name: Stockdegen
 title: Stockdegen
 Trefferpunkte: 2W6+0
@@ -29,4 +30,4 @@ Preis: 180
 - **Waffeneigenschaften:**
   - Stich
   - [[Wendig|Wendig]]
-  - [[Versteckt|Versteckt]]
+  - [[Waffeneigenschaften/Versteckt|Versteckt]]

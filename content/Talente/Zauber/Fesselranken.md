@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b5cccf47-f0b2-45f9-b517-9b79ff9cb34e
+ID: c0b10ff9-55f4-442d-bbe3-c8761a8e85fa
+Quelle: datenbank.xml
 Name: Fesselranken
 title: Fesselranken
 Kategorie: Zauber

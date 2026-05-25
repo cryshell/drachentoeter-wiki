@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 632b2374-68ee-4eb1-bd6e-8b413b2c9966
+ID: c4394cc8-8005-4f1d-9aba-0b9785932f82
+Quelle: datenbank.xml
 Name: Heimführung der Herde
 title: Heimführung der Herde
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Abgeleiteter Wert
-ID: 000d2e56-81c1-4316-88df-fa101a91d5bc
+ID: 2fab9ac7-7640-4eb9-8a2b-8bee820e3d5f
+Quelle: datenbank.xml
 Name: Initiative
 title: Initiative
 Abkürzung: INI

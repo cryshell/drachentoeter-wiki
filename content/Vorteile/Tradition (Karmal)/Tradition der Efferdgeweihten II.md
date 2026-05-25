@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 43a5e8a9-f3a8-4230-a0e7-7790aab57506
+ID: af699587-2720-4fb9-a29d-4118302614d5
+Quelle: datenbank.xml
 Name: Tradition der Efferdgeweihten II
 title: Tradition der Efferdgeweihten II
 Kategorie: Tradition (Karmal)

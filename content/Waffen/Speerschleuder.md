@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: c7579b5b-2f4a-4ace-b36e-f2c894fec881
+ID: 32ab592c-9df7-4285-b13f-da09eae2611c
+Quelle: datenbank.xml
 Name: Speerschleuder
 title: Speerschleuder
 Trefferpunkte: 2W6+3

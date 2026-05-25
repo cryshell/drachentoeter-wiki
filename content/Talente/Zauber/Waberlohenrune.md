@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: dab0d35a-ae19-4a45-9ac4-29091c36e0e2
+ID: 34f73a10-b7eb-4cb9-b551-a668d4ec458c
+Quelle: datenbank.xml
 Name: Waberlohenrune
 title: Waberlohenrune
 Kategorie: Zauber

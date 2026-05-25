@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: da8eff18-142a-48ef-9809-b22dfbdbec6b
+ID: 8977329b-a09d-45d6-9f65-82ad46650351
+Quelle: datenbank.xml
 Name: Schriftkenntnis (Gjalsker Runen)
 title: Schriftkenntnis (Gjalsker Runen)
 Kategorie: Schriftkenntnis

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 06f6395b-f59b-43b7-bd07-bed26e75a66f
+ID: 109bfaf3-2f62-4c5d-9866-a3681bf405ce
+Quelle: datenbank.xml
 Name: Windgeflüster
 title: Windgeflüster
 Kategorie: Zauber

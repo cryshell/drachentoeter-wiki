@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: ab665aed-65d1-4912-9b23-10232300d64c
+ID: 1a6a32bc-6ca1-442e-baa8-e23c4cb6f7f0
+Quelle: datenbank.xml
 Name: Kulturkunde (Bornland)
 title: Kulturkunde (Bornland)
 Kategorie: Kulturkunde

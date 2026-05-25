@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 6dff71d5-2364-40cf-818e-bf3485f9b800
+ID: 61208d66-4bb2-4ae4-bf33-5ec9d7c14e8b
+Quelle: datenbank.xml
 Name: "Mirakel: Straßenkunde"
 title: "Mirakel: Straßenkunde"
 Kategorie: Liturgien

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d31f8337-5178-4b11-941e-3637e4119e12
+ID: 85f43745-55c3-4d0b-8ef1-859072bb9ab5
+Quelle: datenbank.xml
 Name: Schriller Klang
 title: Schriller Klang
 Kategorie: Zauber

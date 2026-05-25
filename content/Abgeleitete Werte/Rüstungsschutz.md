@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Abgeleiteter Wert
-ID: 9b6496f2-21b0-41f3-8fe5-c4a63dca2ef0
+ID: 47f2d7b7-6678-4504-ac59-19218ad216d1
+Quelle: datenbank.xml
 Name: Rüstungsschutz
 title: Rüstungsschutz
 Abkürzung: RS

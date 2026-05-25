@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d56feb6a-69a5-4b0b-bcba-e120c96c1fb1
+ID: a71805d7-e6d3-4e0d-a153-e007e8ba5afe
+Quelle: datenbank.xml
 Name: Adlerschwinge
 title: Adlerschwinge
 Kategorie: Zauber

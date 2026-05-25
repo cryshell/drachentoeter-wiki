@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 379de955-8475-44c2-9d92-c2293b8c0336
+ID: 77281131-078f-4748-b498-b017f30cb210
+Quelle: datenbank.xml
 Name: Sägefischschwert
 title: Sägefischschwert
 Trefferpunkte: 2W6+2

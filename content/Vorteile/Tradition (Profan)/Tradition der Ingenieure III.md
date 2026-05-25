@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 2b075b4a-b7bf-418d-88ac-09ce0272bf55
+ID: 63f6448e-55de-4241-ae16-9818e79ff559
+Quelle: datenbank.xml
 Name: Tradition der Ingenieure III
 title: Tradition der Ingenieure III
 Kategorie: Tradition (Profan)
@@ -18,7 +19,7 @@ Du kannst die Modifikation Schneller Fallenaufbau nutzen.
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Attribut FF 8 ODER Attribut KL 8
+  - Attribut [[Fingerfertigkeit|FF]] 8 ODER Attribut [[Klugheit|KL]] 8
   - Vorteil [[Tradition der Ingenieure II]]
 - **Siehe auch:**
   - [[Schneller Fallenaufbau]]

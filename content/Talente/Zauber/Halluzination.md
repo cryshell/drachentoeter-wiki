@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b2a0a2cb-c83f-46e7-b2cf-63ad0522dce0
+ID: 1ed8c5dd-8ab7-4702-be06-69246b6211d3
+Quelle: datenbank.xml
 Name: Halluzination
 title: Halluzination
 Kategorie: Zauber

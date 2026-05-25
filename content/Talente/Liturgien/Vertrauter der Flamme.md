@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 72190444-9067-48cb-bf0f-877cc958aa4a
+ID: 49dba4ba-9c02-45d1-841b-e3c6fdc08de3
+Quelle: datenbank.xml
 Name: Vertrauter der Flamme
 title: Vertrauter der Flamme
 Kategorie: Liturgien

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ce800146-5381-4794-ac0f-38b595dd6280
+ID: 0d922423-5b7a-47f3-8c4e-b81c1bd5d84e
+Quelle: datenbank.xml
 Name: Orcanosphaero
 title: Orcanosphaero
 Kategorie: Zauber

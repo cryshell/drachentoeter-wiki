@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 79952127-a0ee-40ce-9314-d834589e51a2
+ID: 8a5877d7-8833-4491-a8c6-788f73524e37
+Quelle: datenbank.xml
 Name: Wurfwaffen
 title: Wurfwaffen
 Kategorie: Kampf (Fernkampf)

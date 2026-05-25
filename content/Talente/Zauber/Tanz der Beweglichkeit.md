@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 700a8640-88ef-493a-af15-9a11668a150e
+ID: 66c4cf64-3f88-472d-985b-7f64f04a8a71
+Quelle: datenbank.xml
 Name: Tanz der Beweglichkeit
 title: Tanz der Beweglichkeit
 Kategorie: Zauber

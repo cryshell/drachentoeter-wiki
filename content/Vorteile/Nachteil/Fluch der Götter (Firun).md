@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 9cdfc325-3126-4c16-9fbf-c6e739443f6e
+ID: 71791e1c-73c0-42cc-a97e-c9628285950b
+Quelle: datenbank.xml
 Name: Fluch der Götter (Firun)
 title: Fluch der Götter (Firun)
 Kategorie: Nachteil

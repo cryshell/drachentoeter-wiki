@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 536c3b45-b283-415f-8972-255ce39a0a1b
+ID: 9be55be4-301f-4772-81d9-7e793dd4e8f3
+Quelle: datenbank.xml
 Name: Tiergeist (Falke)
 title: Tiergeist (Falke)
 Kategorie: Tiergeist
@@ -27,8 +28,8 @@ Kosten: 0
 
 - **Erlernen:** 0 EP
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
-  - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
+  - Vorteil [[Tradition der Anach-Nûrim I]] ODER Vorteil [[Tradition der Durro-Dûn I]] ODER Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]] ODER Kein Vorteil [[Tiergeist ()|Tiergeist (*)]]
 - **Siehe auch:**
   - [[Adlerauge Luchsenohr]]
   - [[Axxeleratus Blitzgeschwind]]

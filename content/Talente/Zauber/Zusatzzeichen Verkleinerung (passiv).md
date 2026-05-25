@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 47b2e116-52de-430d-a15d-5a201f815101
+ID: 40017fad-542f-452f-9c6c-51df12afaffc
+Quelle: datenbank.xml
 Name: Zusatzzeichen Verkleinerung (passiv)
 title: Zusatzzeichen Verkleinerung (passiv)
 Kategorie: Zauber

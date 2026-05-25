@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 33184eb5-3ff8-4a67-b31c-79a099df0642
+ID: 7d39e8a6-032f-44c8-8e9c-66faf7ef943f
+Quelle: datenbank.xml
 Name: Orkanwand
 title: Orkanwand
 Kategorie: Zauber

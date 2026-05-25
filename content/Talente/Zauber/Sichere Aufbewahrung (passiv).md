@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a64a4ae7-bc24-4dc4-bc29-2cc0fb26354e
+ID: ef6a8552-d96d-4cae-8e75-e3e6c3f21960
+Quelle: datenbank.xml
 Name: Sichere Aufbewahrung (passiv)
 title: Sichere Aufbewahrung (passiv)
 Kategorie: Zauber

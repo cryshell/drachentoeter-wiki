@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8ab6c888-c7b8-4b9c-bd83-8753077813bc
+ID: d205d421-a66f-49c2-a1e1-2c0d8871a23a
+Quelle: datenbank.xml
 Name: Kristallkraft bündeln (passiv)
 title: Kristallkraft bündeln (passiv)
 Kategorie: Zauber

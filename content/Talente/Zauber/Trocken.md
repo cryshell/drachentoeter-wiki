@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 62a52667-7231-4057-81e6-56e34af6004f
+ID: 69529a16-e1fe-4235-a4b3-b310e6ea15a8
+Quelle: datenbank.xml
 Name: Trocken
 title: Trocken
 Kategorie: Zauber

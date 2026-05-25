@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0bfa8a1a-2b26-4310-8342-48f4f72972cb
+ID: 352e777b-34ea-4fbd-8096-c655ce97f22e
+Quelle: datenbank.xml
 Name: Wundersame Verständigung
 title: Wundersame Verständigung
 Kategorie: Liturgien

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: d6f9f0ae-d202-46f2-b1f0-890bdcffc806
+ID: 79b61e14-4f35-416b-b1cc-0de643d47196
+Quelle: datenbank.xml
 Name: Anrufung Thargunitoths
 title: Anrufung Thargunitoths
 Kategorie: Anrufungen

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: dd7d2b52-8f80-488a-86dd-b4a22b420284
+ID: c505468a-de93-48f2-a5fe-1390ece64472
+Quelle: datenbank.xml
 Name: Insektenbann
 title: Insektenbann
 Kategorie: Zauber

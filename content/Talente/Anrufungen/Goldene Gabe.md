@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: cd601843-1d24-4ecd-8580-9b55ebc589ba
+ID: 97e6fe4a-a61f-4bcc-ac3d-712fa8bdfcde
+Quelle: datenbank.xml
 Name: Goldene Gabe
 title: Goldene Gabe
 Kategorie: Anrufungen

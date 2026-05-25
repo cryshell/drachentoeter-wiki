@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 65a6b1af-93c6-4fc1-b5fc-8581528de58e
+ID: d5380d46-438b-479d-b1b8-ab3633d6cd60
+Quelle: datenbank.xml
 Name: Allegorische Analyse (passiv)
 title: Allegorische Analyse (passiv)
 Kategorie: Zauber

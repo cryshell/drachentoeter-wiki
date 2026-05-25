@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 048f76e2-0c7c-4604-beef-093a77bdaf3c
+ID: 6748f536-ecde-4cab-9027-9003ed4c6c84
+Quelle: datenbank.xml
 Name: Herrschaft über Luftelementare
 title: Herrschaft über Luftelementare
 Kategorie: Anrufungen

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 3a0524d5-08b9-4286-a4a6-d7f5a260e4e9
+ID: 272db779-c0ab-4280-b1b9-a09013ec7bd6
+Quelle: datenbank.xml
 Name: Bildung
 title: Bildung
 Kategorie: Wissen

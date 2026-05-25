@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: b47f29af-9f2d-4e27-9c32-94c043ce5ebf
+ID: 8c2adf1c-ec76-455c-be6c-97715cd7eac5
+Quelle: datenbank.xml
 Name: Kulturkunde (Shakagra)
 title: Kulturkunde (Shakagra)
 Kategorie: Kulturkunde

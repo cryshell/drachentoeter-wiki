@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 7badb359-2c9c-4285-8f95-63ed9e4fa294
+ID: 5d17ce27-0c88-4f8f-a542-8d8edb57868e
+Quelle: datenbank.xml
 Name: Tiere besprechen
 title: Tiere besprechen
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 092c738d-4076-4a66-af4f-f275d759a227
+ID: a7b411e6-d521-48e9-a829-b3e0bc61958b
+Quelle: datenbank.xml
 Name: Tradition der Lolgramothpaktierer I
 title: Tradition der Lolgramothpaktierer I
 Kategorie: Tradition (Paktierer)

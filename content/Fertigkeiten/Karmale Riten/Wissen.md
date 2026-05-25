@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 8e1ea502-5c59-4ec2-bfc3-b6974f21434b
+ID: 4fa92f52-0d55-4761-8e30-c4a36306b0a3
+Quelle: datenbank.xml
 Name: Wissen
 title: Wissen
 Kategorie: Karmale Riten

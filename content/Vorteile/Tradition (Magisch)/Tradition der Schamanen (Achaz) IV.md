@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: e10c5514-c274-4fe4-9c68-ff81220f9b9e
+ID: b5f66faf-a41a-4273-98b3-4432dc03d0f8
+Quelle: datenbank.xml
 Name: Tradition der Schamanen (Achaz) IV
 title: Tradition der Schamanen (Achaz) IV
 Kategorie: Tradition (Magisch)

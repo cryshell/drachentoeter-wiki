@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d40995f2-ea52-480c-a748-9b3b003ab8fd
+ID: 31cec977-90f0-41e3-b727-3e2d775931f8
+Quelle: datenbank.xml
 Name: Abkühlung
 title: Abkühlung
 Kategorie: Zauber

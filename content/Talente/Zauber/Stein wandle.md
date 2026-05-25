@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 7f86d2be-3378-46ad-97c4-cd9b208dcfd3
+ID: e287e042-8bf6-46f2-9111-d24719ab06ab
+Quelle: datenbank.xml
 Name: "Stein wandle!"
 title: "Stein wandle!"
 Kategorie: Zauber

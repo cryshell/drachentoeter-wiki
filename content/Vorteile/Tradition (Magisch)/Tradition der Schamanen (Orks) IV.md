@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 2144f930-2d9b-4b41-9817-64a3cc6207f0
+ID: 015d1416-a705-49cf-b0fb-eb4237eed9a5
+Quelle: datenbank.xml
 Name: Tradition der Schamanen (Orks) IV
 title: Tradition der Schamanen (Orks) IV
 Kategorie: Tradition (Magisch)

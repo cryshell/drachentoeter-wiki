@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 4f5b3e79-c415-42ca-8fe6-a10c14c9ac19
+ID: 4c7c18c0-ccb7-469b-b8fc-5e49a2af81b9
+Quelle: datenbank.xml
 Name: Hellsicht
 title: Hellsicht
 Kategorie: Zauberfertigkeiten

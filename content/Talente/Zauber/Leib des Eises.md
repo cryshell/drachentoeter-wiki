@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 22d4b84c-00d6-4816-bb05-b4791891121b
+ID: e26c1ff6-ccda-4670-a739-b222b75d84eb
+Quelle: datenbank.xml
 Name: Leib des Eises
 title: Leib des Eises
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 7624b0e7-9767-456e-88cc-8ad211702b36
+ID: 9eea4f62-c9e4-46ae-882c-e432f208b10e
+Quelle: datenbank.xml
 Name: Protectionis Kontrabann
 title: Protectionis Kontrabann
 Kategorie: Zauber

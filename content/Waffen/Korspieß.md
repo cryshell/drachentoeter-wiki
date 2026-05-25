@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: df5c09a1-21c6-47a0-9220-f00580e40e99
+ID: b75a43a6-bd94-4428-a095-277cac7eb65f
+Quelle: datenbank.xml
 Name: Korspieß
 title: Korspieß
 Trefferpunkte: 2W6+4
@@ -28,7 +29,7 @@ Preis: 200
   - Stich
   - Hieb
   - [[Kopflastig|Kopflastig]]
-  - [[Schwer|Schwer (4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (4)]]
   - [[Zweihändig|Zweihändig]]
   - [[Rüstungsbrechend|Rüstungsbrechend]]
   - [[Knebel|Knebel]]

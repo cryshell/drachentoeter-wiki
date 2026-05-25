@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 457e3f80-d118-45db-94b6-4facac9b6993
+ID: 9a8929a7-f9c2-485b-9dcf-baed65f421c1
+Quelle: datenbank.xml
 Name: Dichter und Denker
 title: Dichter und Denker
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e7047867-a962-4bc6-bb89-a1587bd48734
+ID: 008f683d-cf83-4267-9df2-65e4009b0890
+Quelle: datenbank.xml
 Name: Verständigungszeichen
 title: Verständigungszeichen
 Kategorie: Zauber

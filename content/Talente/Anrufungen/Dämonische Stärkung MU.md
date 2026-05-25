@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1c192841-b49a-4cb8-b32f-553a773946cf
+ID: f30be4f1-f2ad-483a-8ce2-d3c1858ebf84
+Quelle: datenbank.xml
 Name: "Dämonische Stärkung: MU"
 title: "Dämonische Stärkung: MU"
 Kategorie: Anrufungen

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 99606137-9028-4304-a295-0ade618bc4d3
+ID: 2d00294e-0a41-48ab-bcf2-f15629404e5e
+Quelle: datenbank.xml
 Name: Tradition der Shakagra II
 title: Tradition der Shakagra II
 Kategorie: Tradition (Magisch)

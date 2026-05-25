@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 09c279a3-672d-4bf7-ab00-e5c774e83095
+ID: 9d435e5d-721a-4466-828a-7c9f50b1baec
+Quelle: datenbank.xml
 Name: Guten Morgen
 title: Guten Morgen
 Kategorie: Zauber

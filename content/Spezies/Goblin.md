@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Spezies
-ID: d3f3d931-1ce6-4899-a0b4-786423424f96
+ID: ee50f068-1385-4eac-8b5f-82906c295288
+Quelle: datenbank.xml
 Name: Goblin
 ---
 Goblins sind kleinwüchsige und flinke Wesen mit einem roten oder braunen Fell. Ihre scharfen Sinne helfen ihnen, in der Wildnis und in vereinzelten Menschenstädten gleichermaßen zu überleben. Für ihren Mut sind sie hingegen nicht bekannt, was dazu führt, dass sie gerne unterschätzt werden. Sie sind hauptsächlich in Mittel- und Nordaventurien anzutreffen.

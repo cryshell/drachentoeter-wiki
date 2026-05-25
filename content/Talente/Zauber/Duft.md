@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: fa4cfcf7-af94-4bc6-bac6-86122a21b151
+ID: 52f27a8e-e96a-4464-b484-57fab04eecf4
+Quelle: datenbank.xml
 Name: Duft
 title: Duft
 Kategorie: Zauber

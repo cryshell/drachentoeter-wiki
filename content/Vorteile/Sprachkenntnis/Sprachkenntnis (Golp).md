@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 7f3cfc1c-2cb8-4ebc-8b82-c294fb9038c3
+ID: 92004037-3a71-4bfd-b12d-c55d69cefafa
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Golp)
 title: Sprachkenntnis (Golp)
 Kategorie: Sprachkenntnis

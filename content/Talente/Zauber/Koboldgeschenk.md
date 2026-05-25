@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 30b4bb6a-a542-4e18-9d29-7dc1201a81c9
+ID: 19189648-606b-4cfe-ae9a-d6263b10fc21
+Quelle: datenbank.xml
 Name: Koboldgeschenk
 title: Koboldgeschenk
 Kategorie: Zauber

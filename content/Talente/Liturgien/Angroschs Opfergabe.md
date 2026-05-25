@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 469dd6ff-e62e-435a-ac5e-a1240ad7c2c4
+ID: 2341b19f-6257-4f1e-8385-83d6325349f4
+Quelle: datenbank.xml
 Name: Angroschs Opfergabe
 title: Angroschs Opfergabe
 Kategorie: Liturgien

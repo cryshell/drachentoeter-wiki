@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e6229b72-b746-4c41-8f82-0c23bc82fa5a
+ID: 5fdef0d0-e23d-4b0c-9b71-8dc27f433445
+Quelle: datenbank.xml
 Name: Tierischer Helfer
 title: Tierischer Helfer
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: b49a7fe2-1559-4572-8433-193b78f792f9
+ID: 68023856-0094-4fcf-8a99-c81e0d1d9a7c
+Quelle: datenbank.xml
 Name: Tradition der Alchemisten IV
 title: Tradition der Alchemisten IV
 Kategorie: Tradition (Magisch)

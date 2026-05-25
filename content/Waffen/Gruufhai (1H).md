@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 9393b149-4189-4bb2-b152-93ae4a1d0cdb
+ID: 10545277-f2a8-48c7-98ac-aca02a890315
+Quelle: datenbank.xml
 Name: Gruufhai (1H)
 title: Gruufhai (1H)
 Trefferpunkte: 3W6+0
@@ -27,6 +28,6 @@ Preis: 120
 - **Waffeneigenschaften:**
   - Wucht
   - [[Kopflastig|Kopflastig]]
-  - [[Schwer|Schwer (6)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (6)]]
   - [[Rüstungsbrechend|Rüstungsbrechend]]
   - [[Vielseitig|Vielseitig (TP +2; WM +1)]]

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Attribut
-ID: b685af79-f81d-4749-bda0-e17b096ae39a
+ID: a7c9332b-ed18-433f-849c-5e1a6fb7e200
+Quelle: datenbank.xml
 Name: Fingerfertigkeit
 title: Fingerfertigkeit
 Abkürzung: FF

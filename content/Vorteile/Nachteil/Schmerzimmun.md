@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 085b2076-eade-410f-85c2-195ccbc3b742
+ID: db26654e-24ae-44c0-96b8-1dd860992b32
+Quelle: datenbank.xml
 Name: Schmerzimmun
 title: Schmerzimmun
 Kategorie: Nachteil

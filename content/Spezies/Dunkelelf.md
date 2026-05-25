@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Spezies
-ID: c0684b0a-0075-4dc2-adc5-92602bf2eadf
+ID: cdb93fb9-2f90-4b14-a4cd-7dd44cc9a527
+Quelle: datenbank.xml
 Name: Dunkelelf
 ---
 Die Nachtalben sind Daimonide, die durch Pardona aus einer Vereinigung von Elfen und Dämonen erschaffen wurden. Sie leben bis auf Einzelfälle ausschließlich in Städten am Meeresgrund des Gletschermeeres unter der Klirrfrostwüste.

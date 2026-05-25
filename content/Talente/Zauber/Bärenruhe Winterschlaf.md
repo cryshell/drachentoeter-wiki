@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e635021f-3a90-484c-92f9-1260fb8f1d14
+ID: 32b336c8-4aee-4029-9ae4-2ed5dd0a8f07
+Quelle: datenbank.xml
 Name: Bärenruhe Winterschlaf
 title: Bärenruhe Winterschlaf
 Kategorie: Zauber

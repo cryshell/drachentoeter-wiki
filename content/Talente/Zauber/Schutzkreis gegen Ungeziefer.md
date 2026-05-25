@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e9af20c8-9df6-42c8-bca7-94bbd5b69869
+ID: 6079f07f-fc38-479d-a193-97f300914bae
+Quelle: datenbank.xml
 Name: Schutzkreis gegen Ungeziefer
 title: Schutzkreis gegen Ungeziefer
 Kategorie: Zauber

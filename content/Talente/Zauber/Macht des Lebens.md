@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1f8c66d5-53ca-456f-9013-889ade279896
+ID: af94b467-e85c-4304-8d5b-4242c72b920d
+Quelle: datenbank.xml
 Name: Macht des Lebens
 title: Macht des Lebens
 Kategorie: Zauber

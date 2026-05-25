@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 3c9aad69-87e6-4dae-8a1f-4f7bc44a87b2
+ID: ee4e19b1-0353-4b2f-b6bc-23df61b3ac46
+Quelle: datenbank.xml
 Name: Destructibo Arcanitas
 title: Destructibo Arcanitas
 Kategorie: Zauber

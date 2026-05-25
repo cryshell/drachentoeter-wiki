@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a636d479-541a-4ce7-9fd0-44f4c8bdb7e8
+ID: 1c760ed9-d077-49bc-8597-e33a2e15a55b
+Quelle: datenbank.xml
 Name: Waffenfluch
 title: Waffenfluch
 Kategorie: Liturgien

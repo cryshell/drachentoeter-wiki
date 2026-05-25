@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9426e0fb-5590-416f-9315-e57c46a5e665
+ID: 5f2e7029-9fcc-4e86-99f7-10d3339606bd
+Quelle: datenbank.xml
 Name: Melodie der Angriffslust
 title: Melodie der Angriffslust
 Kategorie: Zauber

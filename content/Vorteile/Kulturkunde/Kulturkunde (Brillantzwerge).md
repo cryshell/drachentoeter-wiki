@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 2dda1750-40e6-4c94-83bd-6adcb96eb67c
+ID: 682d49a0-ea57-42f7-97d7-19cd0a9b193a
+Quelle: datenbank.xml
 Name: Kulturkunde (Brillantzwerge)
 title: Kulturkunde (Brillantzwerge)
 Kategorie: Kulturkunde

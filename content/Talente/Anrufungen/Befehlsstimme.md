@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9a37aa8c-07a1-4d3a-8e3b-79245102e959
+ID: 231059ea-b10c-45a9-89db-4a16feda7522
+Quelle: datenbank.xml
 Name: Befehlsstimme
 title: Befehlsstimme
 Kategorie: Anrufungen

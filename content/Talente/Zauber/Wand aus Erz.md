@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e35598d5-312a-48eb-a1f0-6c72f236b68d
+ID: 1ebb419f-1baf-44f2-943a-75305cc4736f
+Quelle: datenbank.xml
 Name: Wand aus Erz
 title: Wand aus Erz
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: eb2f3646-d94c-4920-9bab-8afc46a1dbcb
+ID: 223e2431-cc13-4b82-a8b1-73fdc909bb40
+Quelle: datenbank.xml
 Name: Ignisphaero
 title: Ignisphaero
 Kategorie: Zauber

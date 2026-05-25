@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: fb4f4c99-8326-401a-b103-db15b52b36f4
+ID: 7825da58-e49e-4a0e-9eb2-d48b9b0657b0
+Quelle: datenbank.xml
 Name: Herrschaft
 title: Herrschaft
 Kategorie: Karmale Riten

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 54bdfdb4-410c-4648-a464-d0278f82338c
+ID: 1468fcd7-3931-4db6-9333-9d2658db550e
+Quelle: datenbank.xml
 Name: Drachenklaue
 title: Drachenklaue
 Trefferpunkte: 1W6+2

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 94af72f3-6aee-44b6-9ef4-6b0d360fd4b0
+ID: e96c5bbe-5b27-482f-b846-006bb6080acc
+Quelle: datenbank.xml
 Name: Winterlager
 title: Winterlager
 Kategorie: Zauber

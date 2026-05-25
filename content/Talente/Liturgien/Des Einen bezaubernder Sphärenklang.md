@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2f10bc8a-ec00-473f-a113-c7309662375c
+ID: d19d6fe0-d7b5-45bc-8bf4-40f5d2654720
+Quelle: datenbank.xml
 Name: Des Einen bezaubernder Sphärenklang
 title: Des Einen bezaubernder Sphärenklang
 Kategorie: Liturgien

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 1b1af9c5-2253-46a9-9de9-16d53115c175
+ID: fb4e7049-ae89-4b73-bbdc-77ae1ccc2414
+Quelle: datenbank.xml
 Name: Kulturkunde (Archaische Achaz)
 title: Kulturkunde (Archaische Achaz)
 Kategorie: Kulturkunde

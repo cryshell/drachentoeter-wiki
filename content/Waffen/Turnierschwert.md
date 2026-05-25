@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 19ad3903-57fa-4b6d-af26-40fefe9a7a50
+ID: 79b6b808-8e3e-42b5-9a5b-76eedbdd3aed
+Quelle: datenbank.xml
 Name: Turnierschwert
 title: Turnierschwert
 Trefferpunkte: 1W6+1

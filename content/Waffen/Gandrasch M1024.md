@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 87fb4bdb-9f0f-44f7-bb25-91eaaf29256e
+ID: d0b07a22-ee04-494e-8711-5ae6f00e65ae
+Quelle: datenbank.xml
 Name: Gandrasch M1024
 title: Gandrasch M1024
 Trefferpunkte: 3W6+0
@@ -25,6 +26,6 @@ Fernkampf: true
 - **Waffeneigenschaften:**
   - Schuss
   - Doppelt spannbar (RW 64; LZ 8; TP +6)
-  - [[Schwer|Schwer (8)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (8)]]
   - [[Spannschloss|Spannschloss]]
   - [[Zweihändig|Zweihändig]]

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffeneigenschaft
-ID:
+ID: a3b79d09-4130-4afd-b60f-8c69ad68db7a
+Quelle: datenbank.xml
 Name: Spannschloss
 title: Spannschloss
 ---

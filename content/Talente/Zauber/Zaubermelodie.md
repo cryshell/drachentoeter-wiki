@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: bd2dec09-2715-471b-9b5c-801d8bcafc1a
+ID: a74b1eaf-877c-4285-8b79-33d46d6c2ad6
+Quelle: datenbank.xml
 Name: Zaubermelodie
 title: Zaubermelodie
 Kategorie: Zauber

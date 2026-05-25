@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 0e9f9b85-9e71-4c39-bc8c-4b25912977a8
+ID: dc29ca72-024b-4879-ac59-df9d5a81964a
+Quelle: datenbank.xml
 Name: Unterstützung der Verdammten
 title: Unterstützung der Verdammten
 Kategorie: Kreis der Verdammnis

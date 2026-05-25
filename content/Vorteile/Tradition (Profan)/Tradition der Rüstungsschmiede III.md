@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 4ae37e64-56b7-40f9-9c58-7dabd6e63514
+ID: 1755369c-81f4-4f32-b288-405a64c69aaf
+Quelle: datenbank.xml
 Name: Tradition der Rüstungsschmiede III
 title: Tradition der Rüstungsschmiede III
 Kategorie: Tradition (Profan)
@@ -19,7 +20,7 @@ Du kannst Drachenschuppen und Toschkril zu Rüstungen verarbeiten (beides Zwerge
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Attribut KO 8 ODER Attribut KK 8
+  - Attribut [[Konstitution|KO]] 8 ODER Attribut [[Körperkraft|KK]] 8
   - Vorteil [[Tradition der Rüstungsschmiede II]]
 - **Siehe auch:**
   - [[Filigranes Kettengeflecht]]

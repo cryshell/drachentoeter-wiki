@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 8605a1c1-12db-41a3-82a4-d507fa2d5e0e
+ID: 7b50d15e-830e-4799-858f-64ff19c839cd
+Quelle: datenbank.xml
 Name: Geister
 title: Geister
 Kategorie: Karmale Riten

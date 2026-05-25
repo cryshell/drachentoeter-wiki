@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: b4618c85-4d7c-484d-9857-0482d319fd4f
+ID: 3d4ca74d-4dde-43c2-9cbc-a4847464483f
+Quelle: datenbank.xml
 Name: Berittener Schütze
 title: Berittener Schütze
 Kategorie: Kampf

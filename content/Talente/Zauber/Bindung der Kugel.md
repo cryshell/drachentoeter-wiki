@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1f51a729-7acf-42d5-92b0-b2fa1245ee3a
+ID: a15c5b71-56b3-4ce0-a222-cd1c5a613888
+Quelle: datenbank.xml
 Name: Bindung der Kugel
 title: Bindung der Kugel
 Kategorie: Zauber

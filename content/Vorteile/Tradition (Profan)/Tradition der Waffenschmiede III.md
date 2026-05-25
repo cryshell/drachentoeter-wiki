@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: a3e3c7e6-3285-43b7-8c72-c9b5d6b341a1
+ID: af2704ea-29d1-47ea-9c27-a227aefa573d
+Quelle: datenbank.xml
 Name: Tradition der Waffenschmiede III
 title: Tradition der Waffenschmiede III
 Kategorie: Tradition (Profan)
@@ -18,7 +19,7 @@ Du kannst Toschkril zu Waffen verarbeiten (Zwerge). Ermöglicht zudem die Modifi
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Attribut FF 8 ODER Attribut KK 8
+  - Attribut [[Fingerfertigkeit|FF]] 8 ODER Attribut [[Körperkraft|KK]] 8
   - Vorteil [[Tradition der Waffenschmiede II]]
 - **Siehe auch:**
   - [[Spezialanfertigung]]

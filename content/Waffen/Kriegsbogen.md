@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 1bf21c40-ca95-4fce-a232-f15a3c53408f
+ID: 0c06942d-3318-42db-8fbd-59a896d1b913
+Quelle: datenbank.xml
 Name: Kriegsbogen
 title: Kriegsbogen
 Trefferpunkte: 2W6+5
@@ -24,5 +25,5 @@ Fernkampf: true
 - **Fernkampf:** ja
 - **Waffeneigenschaften:**
   - Schuss
-  - [[Schwer|Schwer (8)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (8)]]
   - [[Zweihändig|Zweihändig]]

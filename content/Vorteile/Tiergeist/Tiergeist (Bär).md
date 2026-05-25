@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: dce606d5-832b-484e-a2e7-ffe3c9e60097
+ID: e68969a2-a7c3-47b4-bea9-4cc67989ce53
+Quelle: datenbank.xml
 Name: Tiergeist (Bär)
 title: Tiergeist (Bär)
 Kategorie: Tiergeist
@@ -28,8 +29,8 @@ Kosten: 0
 
 - **Erlernen:** 0 EP
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
-  - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
+  - Vorteil [[Tradition der Anach-Nûrim I]] ODER Vorteil [[Tradition der Durro-Dûn I]] ODER Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]] ODER Kein Vorteil [[Tiergeist ()|Tiergeist (*)]]
 - **Siehe auch:**
   - [[Bärenruhe Winterschlaf]]
   - [[Eiseskälte Kämpferherz]]

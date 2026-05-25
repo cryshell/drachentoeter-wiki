@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 2d3c56ab-3453-478d-9af6-007d3227dcf8
+ID: 0874bf67-6f8b-4ef2-bf7c-3240004de24b
+Quelle: datenbank.xml
 Name: Tradition der Ingenieure II
 title: Tradition der Ingenieure II
 Kategorie: Tradition (Profan)
@@ -18,7 +19,7 @@ Du kannst die Modifikation Entschärfung erschweren einmal ohne Erschwernis eins
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Attribut FF 6 ODER Attribut KL 6
+  - Attribut [[Fingerfertigkeit|FF]] 6 ODER Attribut [[Klugheit|KL]] 6
   - Vorteil [[Tradition der Ingenieure I]]
 - **Siehe auch:**
   - [[Entschärfung erschweren]]

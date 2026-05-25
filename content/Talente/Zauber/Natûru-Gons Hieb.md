@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1e73c30a-e06b-4d13-ae3d-b86928a642b8
+ID: cddf0050-7e26-4d0a-adc0-8dfc88e61f2f
+Quelle: datenbank.xml
 Name: Natûru-Gons Hieb
 title: Natûru-Gons Hieb
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2913f5ef-33c2-4848-bdd7-b965e9c417c6
+ID: de3ce78f-0503-421d-932d-d1b01dad7109
+Quelle: datenbank.xml
 Name: Ordentlich
 title: Ordentlich
 Kategorie: Zauber

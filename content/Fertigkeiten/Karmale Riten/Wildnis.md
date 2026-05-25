@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: adc0a306-355b-4187-9beb-5177476f2249
+ID: 201f7023-8784-4a80-bc54-145adea4300b
+Quelle: datenbank.xml
 Name: Wildnis
 title: Wildnis
 Kategorie: Karmale Riten

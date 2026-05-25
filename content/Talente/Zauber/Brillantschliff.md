@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: aad79d87-3c26-4a76-9b2f-c496d0924ec0
+ID: 0cc079b4-60f9-423a-843d-98dc903ba0a6
+Quelle: datenbank.xml
 Name: Brillantschliff
 title: Brillantschliff
 Kategorie: Zauber

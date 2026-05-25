@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 640587eb-200f-4e4c-8259-1a49ccd9a470
+ID: 13ac9b41-2c81-40c6-a537-dd5153590c75
+Quelle: datenbank.xml
 Name: Orchidee, verstärkt
 title: Orchidee, verstärkt
 Trefferpunkte: 1W6+2

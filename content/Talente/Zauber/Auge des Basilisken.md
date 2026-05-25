@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1c9aa996-3b77-4a88-b6a4-b58491098569
+ID: f286271f-13ce-45a3-af98-a3283db1213e
+Quelle: datenbank.xml
 Name: Auge des Basilisken
 title: Auge des Basilisken
 Kategorie: Zauber

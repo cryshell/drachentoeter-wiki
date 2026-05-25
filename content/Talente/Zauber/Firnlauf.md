@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 63b053a4-4044-420f-91cf-b99fef12b10b
+ID: 8b626ae8-59cb-4d3e-bd1b-2b4d9f1a856a
+Quelle: datenbank.xml
 Name: Firnlauf
 title: Firnlauf
 Kategorie: Zauber

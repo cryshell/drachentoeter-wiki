@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2754b2a9-50de-42e5-a513-8b4733a6607d
+ID: 04b35a46-3fc2-4a5b-ba22-52fe076c71bb
+Quelle: datenbank.xml
 Name: Imperavi Handlungszwang
 title: Imperavi Handlungszwang
 Kategorie: Zauber

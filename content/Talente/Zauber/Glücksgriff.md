@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e5b547f1-527c-4eda-9001-e4a8053865fc
+ID: 23142c4a-a943-4d14-80cd-9110496372e7
+Quelle: datenbank.xml
 Name: Glücksgriff
 title: Glücksgriff
 Kategorie: Zauber

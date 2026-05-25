@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 55631fa8-c45c-42b8-9ecd-b4ac0539ab9f
+ID: ccd2cbec-9c69-464a-9ce7-f4edb77a7349
+Quelle: datenbank.xml
 Name: Speer (1H)
 title: Speer (1H)
 Trefferpunkte: 2W6+1

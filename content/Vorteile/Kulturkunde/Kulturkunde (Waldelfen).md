@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 29aeffa9-3c87-4921-a617-a9e12f71f78a
+ID: 5f5c68d4-a3fb-463d-9121-8731261875f7
+Quelle: datenbank.xml
 Name: Kulturkunde (Waldelfen)
 title: Kulturkunde (Waldelfen)
 Kategorie: Kulturkunde

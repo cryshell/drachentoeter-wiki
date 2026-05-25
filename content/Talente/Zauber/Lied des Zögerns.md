@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9401050d-668c-4a97-aa99-9a3c3acd23d6
+ID: 9749198b-97bc-49ee-971d-46d3fc49604f
+Quelle: datenbank.xml
 Name: Lied des Zögerns
 title: Lied des Zögerns
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f8a1ebfe-3d67-4ef8-b0b3-53d1a0bf595a
+ID: 112f89bf-e271-44b8-b441-955f5f3a93dd
+Quelle: datenbank.xml
 Name: Rhythmen des Schutzes
 title: Rhythmen des Schutzes
 Kategorie: Zauber

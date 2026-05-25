@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2857f356-83b0-4619-bc97-01818e7148b3
+ID: 5fe87a76-d03d-467c-9989-e3672a00468a
+Quelle: datenbank.xml
 Name: Frigisphaero
 title: Frigisphaero
 Kategorie: Zauber

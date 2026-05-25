@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 45ce9d9f-c6ae-435f-964d-4a0eccd1ecc7
+ID: d5468c1e-97ec-4674-a03b-2e3fd4f1c957
+Quelle: datenbank.xml
 Name: Kulturkunde (Zahori)
 title: Kulturkunde (Zahori)
 Kategorie: Kulturkunde

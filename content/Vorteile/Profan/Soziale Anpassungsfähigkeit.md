@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 2ffc4870-224a-4240-b0a6-660674e81c95
+ID: 1bfed0b1-e229-4747-a710-9e904eba46f4
+Quelle: datenbank.xml
 Name: Soziale Anpassungsfähigkeit
 title: Soziale Anpassungsfähigkeit
 Kategorie: Profan

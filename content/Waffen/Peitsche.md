@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 7a0f2594-066d-457b-863b-f9fa6330dc27
+ID: e4c8e677-6d1f-476c-b6b0-323cc071a5cd
+Quelle: datenbank.xml
 Name: Peitsche
 title: Peitsche
 Trefferpunkte: 1W6+0

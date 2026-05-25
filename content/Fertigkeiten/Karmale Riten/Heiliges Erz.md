@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 4f6fbdc5-e5c3-49a9-9f34-ae675861a60d
+ID: 5b8ee31c-b200-4a23-9a28-cb8caa7ba57f
+Quelle: datenbank.xml
 Name: Heiliges Erz
 title: Heiliges Erz
 Kategorie: Karmale Riten

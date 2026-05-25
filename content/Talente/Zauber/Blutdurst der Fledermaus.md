@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 29bcdd72-c184-4745-a296-fcd850f6f463
+ID: bccccf7a-1a2a-47e2-bf23-d145fa276bbf
+Quelle: datenbank.xml
 Name: Blutdurst der Fledermaus
 title: Blutdurst der Fledermaus
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: e991c02a-b80d-4663-9f1c-b45a816cf681
+ID: 5599b9ce-2c3b-4663-ab43-08548ae67f82
+Quelle: datenbank.xml
 Name: Wahre Namen der Luft III
 title: Wahre Namen der Luft III
 Kategorie: Wahre Namen
@@ -17,6 +18,6 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Geweiht I]] ODER Vorteil [[Paktierer I]]
   - Attribut [[Klugheit|KL]] 8
   - Vorteil [[Wahre Namen der Luft II]]

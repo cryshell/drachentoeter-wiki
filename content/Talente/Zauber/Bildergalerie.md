@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c5a0439a-86ae-4db6-848c-add769318b7a
+ID: afb9c2d1-453a-4d52-95b9-f74b5a3d367f
+Quelle: datenbank.xml
 Name: Bildergalerie
 title: Bildergalerie
 Kategorie: Zauber

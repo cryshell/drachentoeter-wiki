@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: edbfef23-42a5-4b5a-9294-ae007bdcbbec
+ID: dc1e871e-d3d3-42e5-a9cc-a397bff39d52
+Quelle: datenbank.xml
 Name: Neue Körperteile (passiv)
 title: Neue Körperteile (passiv)
 Kategorie: Anrufungen

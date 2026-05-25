@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 086244f4-9e53-49ee-840e-4c150958db4f
+ID: 4ae699a5-92f3-4a97-8c22-09ecb0b72b7c
+Quelle: datenbank.xml
 Name: Ängste lindern
 title: Ängste lindern
 Kategorie: Zauber

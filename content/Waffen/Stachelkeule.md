@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: abe170c6-9b77-49bb-b228-e7a1483639db
+ID: 8bab5db0-0c01-4887-be0b-c9815790ee33
+Quelle: datenbank.xml
 Name: Stachelkeule
 title: Stachelkeule
 Trefferpunkte: 2W6+1

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1d92158a-6d7a-4ca1-a61d-06fa443a5cf6
+ID: ec8aa536-35e3-4393-b702-446a460ec394
+Quelle: datenbank.xml
 Name: Blitz dich find
 title: Blitz dich find
 Kategorie: Zauber

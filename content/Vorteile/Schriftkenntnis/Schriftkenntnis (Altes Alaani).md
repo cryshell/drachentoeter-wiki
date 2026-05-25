@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: ce7d40e3-4820-4a05-9aa4-8bb0c9f16ba9
+ID: db819d9e-87a7-4df0-82ed-b54cc23dd9e1
+Quelle: datenbank.xml
 Name: Schriftkenntnis (Altes Alaani)
 title: Schriftkenntnis (Altes Alaani)
 Kategorie: Schriftkenntnis

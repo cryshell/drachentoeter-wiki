@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: fe836ecd-6737-43aa-9474-3427447da8fa
+ID: ad8d8f49-ad05-48e8-af1b-5f61cbdcbaa8
+Quelle: datenbank.xml
 Name: Balestra, Magazin
 title: Balestra, Magazin
 Trefferpunkte: 3W6+0
@@ -25,7 +26,7 @@ Fernkampf: true
 - **Waffeneigenschaften:**
   - Schuss
   - [[Niederwerfen|Niederwerfen]]
-  - [[Schwer|Schwer (4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (4)]]
   - [[Spannschloss|Spannschloss]]
   - [[Zweihändig|Zweihändig]]
   - [[Magazin|Magazin (3; 4 Akt)]]

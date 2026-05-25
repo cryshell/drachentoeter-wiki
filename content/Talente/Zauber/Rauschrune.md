@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 31ea935a-3f78-44c5-b2c4-860e8a6e6ee2
+ID: a7a87d6d-0461-4436-bbd6-f8ab83d98d2a
+Quelle: datenbank.xml
 Name: Rauschrune
 title: Rauschrune
 Kategorie: Zauber

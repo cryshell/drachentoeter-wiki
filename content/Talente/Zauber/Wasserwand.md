@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 6e6a00ba-5d85-4d17-ac92-0065f11b7f37
+ID: 47d4c744-8379-4c7e-812a-e20ff398315f
+Quelle: datenbank.xml
 Name: Wasserwand
 title: Wasserwand
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffeneigenschaft
-ID:
+ID: 440aae63-ef8d-421b-ae3f-fe779ccdaffc
+Quelle: datenbank.xml
 Name: Versteckt
 title: Versteckt
 ---

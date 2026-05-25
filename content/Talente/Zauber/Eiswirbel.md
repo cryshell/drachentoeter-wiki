@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 16f5cf21-91ae-4de5-855d-d07ff4074e33
+ID: f47c793b-b58b-46e9-a675-f4e2252e89c4
+Quelle: datenbank.xml
 Name: Eiswirbel
 title: Eiswirbel
 Kategorie: Zauber

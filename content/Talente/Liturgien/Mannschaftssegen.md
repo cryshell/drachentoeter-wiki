@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c71deef4-75dc-4efe-b3e5-915c0a19c216
+ID: c5587161-60d2-43b3-bac2-5f3ebf8b69a4
+Quelle: datenbank.xml
 Name: Mannschaftssegen
 title: Mannschaftssegen
 Kategorie: Liturgien

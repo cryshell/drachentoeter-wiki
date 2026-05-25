@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 21110caa-980c-4c03-a37f-342631d8bc9c
+ID: effa6469-afad-4df1-875f-fdd17eab5b6d
+Quelle: datenbank.xml
 Name: "Kommando: Deckung geben!"
 title: "Kommando: Deckung geben!"
 Kategorie: Kampf

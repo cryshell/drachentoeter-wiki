@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ea02840d-ea51-4134-8610-04f03eed1b14
+ID: 451eeb8e-89c8-4c15-b1be-37c18d5aa7da
+Quelle: datenbank.xml
 Name: Armbrüste
 title: Armbrüste
 Kategorie: Profan

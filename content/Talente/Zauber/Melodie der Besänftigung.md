@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 86b99723-3e75-4e64-b08f-24321ac307ba
+ID: 817ee860-6b66-4603-a86e-09984b8bbe36
+Quelle: datenbank.xml
 Name: Melodie der Besänftigung
 title: Melodie der Besänftigung
 Kategorie: Zauber

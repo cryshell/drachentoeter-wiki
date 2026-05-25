@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8e5026cc-d494-4031-99fe-997976ccff13
+ID: 1aad7d55-948a-4c30-bc4f-7b71956a47a7
+Quelle: datenbank.xml
 Name: Hexenspeichel
 title: Hexenspeichel
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: e2e72b0f-73eb-486c-aec6-346c7d17004e
+ID: 27dc6d37-a444-4f22-8ca5-ad2a525c3a42
+Quelle: datenbank.xml
 Name: Astrale Regeneration III
 title: Astrale Regeneration III
 Kategorie: Magisch

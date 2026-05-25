@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 50ad7524-6464-4ad8-a83c-f603bfa8af46
+ID: 018401af-96be-44ce-afcd-70142a0e69ee
+Quelle: datenbank.xml
 Name: Körperlose Reise
 title: Körperlose Reise
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1d61acd6-37c8-4be2-accf-56c7af1ee32d
+ID: 0ff14cec-2d8c-48e0-aae0-fd17e9a4ec67
+Quelle: datenbank.xml
 Name: Bannbaladin
 title: Bannbaladin
 Kategorie: Zauber

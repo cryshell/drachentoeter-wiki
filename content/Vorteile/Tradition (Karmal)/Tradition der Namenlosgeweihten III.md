@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 12a25504-91f6-4726-9734-30173762f0c8
+ID: e814ab17-888f-46f7-b06e-e35d47871576
+Quelle: datenbank.xml
 Name: Tradition der Namenlosgeweihten III
 title: Tradition der Namenlosgeweihten III
 Kategorie: Tradition (Karmal)

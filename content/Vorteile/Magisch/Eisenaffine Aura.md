@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 7917081e-ed81-473d-8693-cfa5608b07d6
+ID: bf6be4d7-a7c2-478b-83c8-f5cfb96170af
+Quelle: datenbank.xml
 Name: Eisenaffine Aura
 title: Eisenaffine Aura
 Kategorie: Magisch

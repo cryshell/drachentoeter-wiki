@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: a6b4cb7a-1c9d-46e5-ba85-fae4d85341b2
+ID: cf7ea4d7-8251-4e59-b7e1-a3138ba1ad8c
+Quelle: datenbank.xml
 Name: Stärke des Glaubens
 title: Stärke des Glaubens
 Kategorie: Karmal

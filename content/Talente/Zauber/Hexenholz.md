@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 68953c20-9ba8-4af0-be8a-5d37442b877a
+ID: dd60af9d-5f2c-48ca-90be-06302307bb8b
+Quelle: datenbank.xml
 Name: Hexenholz
 title: Hexenholz
 Kategorie: Zauber

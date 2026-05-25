@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b3ad8613-c293-4d8b-a487-b0b760f801d7
+ID: 5420efb0-31e6-4587-9013-d8c6d393d23d
+Quelle: datenbank.xml
 Name: Tiergedanken
 title: Tiergedanken
 Kategorie: Zauber

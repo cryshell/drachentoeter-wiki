@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 538f1e59-a3a7-4c8d-a255-3cb35b0ea7a0
+ID: 56b95150-5163-449d-8702-9eb586111017
+Quelle: datenbank.xml
 Name: Ignimorpho Feuerform
 title: Ignimorpho Feuerform
 Kategorie: Zauber

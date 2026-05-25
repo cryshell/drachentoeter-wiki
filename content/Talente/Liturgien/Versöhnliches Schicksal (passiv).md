@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 18addfe9-d39b-4a89-9e02-cbe2f35ddb73
+ID: 84e5cf1d-5f5c-497a-bcb9-a98035fe02c3
+Quelle: datenbank.xml
 Name: Versöhnliches Schicksal (passiv)
 title: Versöhnliches Schicksal (passiv)
 Kategorie: Liturgien

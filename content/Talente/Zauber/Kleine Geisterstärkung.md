@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e6ca668f-1c7a-47b6-8362-ed26734d0a74
+ID: 08bf6b08-1718-4f62-ad1a-68404271b9e4
+Quelle: datenbank.xml
 Name: Kleine Geisterstärkung
 title: Kleine Geisterstärkung
 Kategorie: Zauber

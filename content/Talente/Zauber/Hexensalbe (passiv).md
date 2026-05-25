@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9fde439d-bba4-4af6-8f83-4842fcce1698
+ID: e7a19681-7b20-4f85-9ca2-fa1dd50f390b
+Quelle: datenbank.xml
 Name: Hexensalbe (passiv)
 title: Hexensalbe (passiv)
 Kategorie: Zauber

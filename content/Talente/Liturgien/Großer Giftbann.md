@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 091bfdd8-4460-4fdb-b81a-146d27795a3d
+ID: 2502e999-75f2-4d79-b476-b7acdab7202a
+Quelle: datenbank.xml
 Name: Großer Giftbann
 title: Großer Giftbann
 Kategorie: Liturgien

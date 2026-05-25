@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 4ea8adb2-4c28-41f2-a8fb-352cdfd8ff5a
+ID: d96f3b51-100e-4268-a771-81c0cf90b14d
+Quelle: datenbank.xml
 Name: Verborgenes Wissen erspüren
 title: Verborgenes Wissen erspüren
 Kategorie: Anrufungen

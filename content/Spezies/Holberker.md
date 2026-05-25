@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Spezies
-ID: 2e7b9507-118d-4e2f-a960-cc7d5b034389
+ID: d4c90e11-b8c4-44dc-8779-3c7f2f739d44
+Quelle: datenbank.xml
 Name: Holberker
 ---
 Holberker entstanden durch eine magische Verbindung von Orks und Elfen. Sie haben weiche Gesichtszüge, leicht zugespitzte Ohren und eine starke Behaarung, aber kein Fell. Die sehr kleine Holberker-Population lebt hauptsächlich in Nordaventurien.

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 6bcbcb34-2d04-428c-887d-e5884579894c
+ID: 67eb968a-fd42-4b07-b95f-d9909176797e
+Quelle: datenbank.xml
 Name: Magierstab, mittel
 title: Magierstab, mittel
 Trefferpunkte: 1W6+1

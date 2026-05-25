@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 71b09dda-f996-46d8-9f26-4a31a601568b
+ID: 25767d3e-f04a-49bb-ab2e-b612a99978fc
+Quelle: datenbank.xml
 Name: Alfenbannrune
 title: Alfenbannrune
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 5ae9b86e-dcd8-44d0-9f9e-79989a3bfb1d
+ID: ab04aa81-10a9-4525-8653-50a5ce1ab22b
+Quelle: datenbank.xml
 Name: Tradition der Kinder der Finsternis
 title: Tradition der Kinder der Finsternis
 Kategorie: Tradition (Vampir)

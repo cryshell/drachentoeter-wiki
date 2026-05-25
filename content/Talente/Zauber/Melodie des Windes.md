@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e5824fa0-e717-4914-a601-415c4ebe4526
+ID: 201df5aa-9348-4dd2-9f8b-afbc693a1b62
+Quelle: datenbank.xml
 Name: Melodie des Windes
 title: Melodie des Windes
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 4dc0f713-65b2-4d3b-92bf-1131eb5fd397
+ID: 4677f0d5-9704-4096-93e6-de5fe1f81521
+Quelle: datenbank.xml
 Name: Gardianum Zauberschild
 title: Gardianum Zauberschild
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: cbf2153b-2052-478f-9b60-46f7f7ef8444
+ID: 7e5a6485-3b2f-4806-a814-194ba4f9491b
+Quelle: datenbank.xml
 Name: Wasseratem
 title: Wasseratem
 Kategorie: Zauber

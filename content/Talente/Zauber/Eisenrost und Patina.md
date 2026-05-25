@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a83db1f0-3f9b-4f46-9f50-663320db99ae
+ID: 273cabc9-2eba-4808-bb74-d73b32883776
+Quelle: datenbank.xml
 Name: Eisenrost und Patina
 title: Eisenrost und Patina
 Kategorie: Zauber

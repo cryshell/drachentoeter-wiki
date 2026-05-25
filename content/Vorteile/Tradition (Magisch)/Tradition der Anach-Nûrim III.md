@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: acb0b211-ae87-426a-a57c-b209ac6c51bc
+ID: 308a4153-cc6f-4361-8dfe-a91e1e92924f
+Quelle: datenbank.xml
 Name: Tradition der Anach-Nûrim III
 title: Tradition der Anach-Nûrim III
 Kategorie: Tradition (Magisch)

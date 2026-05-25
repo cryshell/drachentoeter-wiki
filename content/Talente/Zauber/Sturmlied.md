@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ef2301b5-34a9-429d-8a6e-fc36dbf1c5fa
+ID: f3488b22-ecb5-45d5-b637-e12c7cb664e7
+Quelle: datenbank.xml
 Name: Sturmlied
 title: Sturmlied
 Kategorie: Zauber

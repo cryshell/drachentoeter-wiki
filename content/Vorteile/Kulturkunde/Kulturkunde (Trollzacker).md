@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: f4739c45-65d8-40e4-a1e4-445e993001fc
+ID: 1c37bebb-40ed-4969-adda-9702aef589b9
+Quelle: datenbank.xml
 Name: Kulturkunde (Trollzacker)
 title: Kulturkunde (Trollzacker)
 Kategorie: Kulturkunde

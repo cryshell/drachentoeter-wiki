@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 907f6e4e-82bb-45ea-83bb-cd55e238c771
+ID: 0c0114b8-f317-42be-9550-e69fd78e9420
+Quelle: datenbank.xml
 Name: Tradition der Tischler IV
 title: Tradition der Tischler IV
 Kategorie: Tradition (Profan)
@@ -16,5 +17,5 @@ Kosten: 20
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - MeisterAttribut FF 10 ODER MeisterAttribut KK 10
+  - MeisterAttribut [[Fingerfertigkeit|FF]] 10 ODER MeisterAttribut [[Körperkraft|KK]] 10
   - Vorteil [[Tradition der Tischler III]]

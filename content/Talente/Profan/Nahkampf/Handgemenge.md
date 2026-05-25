@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f614a404-0fd6-47c3-8376-aa085ce425c4
+ID: cabe9a57-d68c-40a8-bc5a-a0ca491423aa
+Quelle: datenbank.xml
 Name: Handgemenge
 title: Handgemenge
 Kategorie: Profan

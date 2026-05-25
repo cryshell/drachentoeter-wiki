@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: eeea304f-b485-4fbd-a61a-cb596aeb3a06
+ID: 65fbe159-da8c-4b77-bb91-3bb3f3499fdc
+Quelle: datenbank.xml
 Name: Geister austreiben
 title: Geister austreiben
 Kategorie: Zauber

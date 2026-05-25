@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 32c00c69-4866-4065-a105-ed9c40cb2e46
+ID: 139d5f3b-e2ac-4d18-b7fc-ddca3002dc07
+Quelle: datenbank.xml
 Name: Fischflosse
 title: Fischflosse
 Kategorie: Zauber

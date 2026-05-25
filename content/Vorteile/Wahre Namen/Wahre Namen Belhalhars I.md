@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: b707c6e8-0e98-4d51-b31c-213c9412f975
+ID: 91f84860-d058-4d40-b3f3-741f9d6b9b0e
+Quelle: datenbank.xml
 Name: Wahre Namen Belhalhars I
 title: Wahre Namen Belhalhars I
 Kategorie: Wahre Namen
@@ -16,5 +17,5 @@ Du kannst alle Dämonen Belhalhars bis zu einer Beschwörungsschwierigkeit von 1
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Geweiht I]] ODER Vorteil [[Paktierer I]]
   - Attribut [[Klugheit|KL]] 4

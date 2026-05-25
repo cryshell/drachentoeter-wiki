@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0b2c91e0-d670-43cd-b428-4d75959bc51a
+ID: b24305e2-b34e-42c5-af83-7dd784d38554
+Quelle: datenbank.xml
 Name: Schwarzer Schrecken
 title: Schwarzer Schrecken
 Kategorie: Zauber

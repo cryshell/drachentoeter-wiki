@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: bfdd26c3-8ad2-43ba-ae1f-3fc494ae568a
+ID: f03929e1-7a97-4f61-b8c9-1bcb041b9998
+Quelle: datenbank.xml
 Name: Klarer Geist
 title: Klarer Geist
 Kategorie: Liturgien

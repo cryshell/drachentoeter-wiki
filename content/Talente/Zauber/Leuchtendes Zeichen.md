@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9ae0563d-14a7-4609-b76d-0fd79a54114f
+ID: d21297a3-6056-4cd9-994b-fab44571d9ba
+Quelle: datenbank.xml
 Name: Leuchtendes Zeichen
 title: Leuchtendes Zeichen
 Kategorie: Zauber

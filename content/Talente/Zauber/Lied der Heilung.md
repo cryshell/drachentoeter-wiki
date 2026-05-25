@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8e71bcfb-ed3d-4aa6-9155-738cfefccebc
+ID: 47908163-9af9-449e-8cb2-7f7606b04127
+Quelle: datenbank.xml
 Name: Lied der Heilung
 title: Lied der Heilung
 Kategorie: Zauber

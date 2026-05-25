@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 57e50dd1-b2c7-452e-8a5d-19ad2c9a97aa
+ID: dd2eb73b-ea4f-4fb2-a333-b47dacc567a9
+Quelle: datenbank.xml
 Name: Jäger aus der Tiefe
 title: Jäger aus der Tiefe
 Kategorie: Anrufungen

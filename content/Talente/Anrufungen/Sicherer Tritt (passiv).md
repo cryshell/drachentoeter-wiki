@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d5ad03cd-2c30-4578-ba50-8830bee63190
+ID: ecbb87ee-cb9b-46c4-badd-7c35c41a1fd4
+Quelle: datenbank.xml
 Name: Sicherer Tritt (passiv)
 title: Sicherer Tritt (passiv)
 Kategorie: Anrufungen

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 17bb92f0-d9cc-4670-800d-16b33518f6fb
+ID: d2c9b67d-87ff-40b2-a82f-89489dd03e10
+Quelle: datenbank.xml
 Name: Viehverstümmelung
 title: Viehverstümmelung
 Kategorie: Zauber

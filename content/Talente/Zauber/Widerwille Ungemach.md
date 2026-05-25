@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8f4709ca-c581-471b-adb5-2ffe315b4cc6
+ID: 50090c98-b605-490f-a690-9fad15b0e397
+Quelle: datenbank.xml
 Name: Widerwille Ungemach
 title: Widerwille Ungemach
 Kategorie: Zauber

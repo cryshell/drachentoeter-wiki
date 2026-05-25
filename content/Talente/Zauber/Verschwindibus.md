@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f5ac4037-6b95-46a8-bc0a-1ab794374e12
+ID: 411d945b-d53c-4bee-bb6d-01232d6cdfcd
+Quelle: datenbank.xml
 Name: Verschwindibus
 title: Verschwindibus
 Kategorie: Zauber

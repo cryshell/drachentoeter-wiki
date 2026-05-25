@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 75d81e06-6d83-48e7-b75e-78e21b165262
+ID: 21f2d107-3e12-4f2e-b010-b7fa91ab4cc2
+Quelle: datenbank.xml
 Name: Seelenbannung
 title: Seelenbannung
 Kategorie: Liturgien

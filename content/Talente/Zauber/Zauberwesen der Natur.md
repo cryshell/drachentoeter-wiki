@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9e126ea2-c2ed-4f3e-8be3-9975bfb43c1e
+ID: c97026da-8b19-4fb8-ab63-1aa7280d2aae
+Quelle: datenbank.xml
 Name: Zauberwesen der Natur
 title: Zauberwesen der Natur
 Kategorie: Zauber

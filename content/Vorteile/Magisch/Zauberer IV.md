@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: cd3f2590-4193-439f-a892-31f2a905e001
+ID: 9e7b0e5b-e202-41e5-b960-83ccac9ad275
+Quelle: datenbank.xml
 Name: Zauberer IV
 title: Zauberer IV
 Kategorie: Magisch

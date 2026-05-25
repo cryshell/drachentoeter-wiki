@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 96436721-a00c-4101-8482-a43234598d71
+ID: 94eeb203-0f44-4b3c-92c9-8f0494994a0b
+Quelle: datenbank.xml
 Name: Verwertung
 title: Verwertung
 Kategorie: Profan

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 159b9412-6112-470e-89fe-14249ec51c2a
+ID: 30b17fe3-f7ed-4254-ad01-9049b512e9f4
+Quelle: datenbank.xml
 Name: Nuntiovolo Botenvogel
 title: Nuntiovolo Botenvogel
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Spezies
-ID: fb1e8bb9-9f41-49df-b7a1-88ac9f1b8490
+ID: fe02304a-6e6e-44cd-a11f-0cf6177e21e7
+Quelle: datenbank.xml
 Name: Halbelf
 ---
 Die überwiegend magiebegabten Halbelfen vereinen ein elfisches und menschliches Erbe, erkennbar an großen Augen und leicht spitzen Ohren. Sie sind typischerweise in Menschenstädten Mittel- und Nordaventuriens zu finden, insbesondere in solchen mit elfischen Siedlungen.

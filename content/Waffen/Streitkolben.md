@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: e2349278-a004-4efb-9dd8-08fff47f6017
+ID: c22ac3ae-bc71-4379-a977-ac19e6336c2b
+Quelle: datenbank.xml
 Name: Streitkolben
 title: Streitkolben
 Trefferpunkte: 2W6+2

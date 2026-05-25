@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 19fcd335-f964-4880-9030-f5826b5eef33
+ID: 04b555e5-54bf-4c9e-bfc5-f0182da681c3
+Quelle: datenbank.xml
 Name: Macht des Sukkubus
 title: Macht des Sukkubus
 Kategorie: Zauber

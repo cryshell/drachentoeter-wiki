@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 794389d5-9c24-4d1d-9a97-676cefb62998
+ID: 06d92724-4965-46ee-9eeb-038d3d65f5f3
+Quelle: datenbank.xml
 Name: Sichere Heimkehr
 title: Sichere Heimkehr
 Kategorie: Karmale Riten

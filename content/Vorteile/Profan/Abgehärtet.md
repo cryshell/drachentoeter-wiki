@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 43986a5a-23e9-448f-94f0-70a9707ef9b2
+ID: bf9c6360-dfa0-49af-bb77-a30bd488f54c
+Quelle: datenbank.xml
 Name: Abgehärtet
 title: Abgehärtet
 Kategorie: Profan

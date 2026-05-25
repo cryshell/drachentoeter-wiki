@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 21152b34-c94e-4ae1-92f2-43e25781b259
+ID: 5ed3f40b-da7f-4af8-bf00-f612e3581ef1
+Quelle: datenbank.xml
 Name: Empathie
 title: Empathie
 Kategorie: Profan

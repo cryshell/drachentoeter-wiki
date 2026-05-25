@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 6d7f40fa-4052-4bd4-9989-193a928b4dc7
+ID: f88b27e5-aef0-453e-bbe1-70169d6b8100
+Quelle: datenbank.xml
 Name: Rhythmen der Güte
 title: Rhythmen der Güte
 Kategorie: Zauber

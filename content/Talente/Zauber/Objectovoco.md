@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d4598154-85ca-4314-bc07-3df599f0a278
+ID: 8bc49a53-9a4d-48da-89b2-092fef7311a6
+Quelle: datenbank.xml
 Name: Objectovoco
 title: Objectovoco
 Kategorie: Zauber

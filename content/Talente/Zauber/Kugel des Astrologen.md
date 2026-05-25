@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: fd7deac8-94db-4a70-99da-3ff9595c0e3c
+ID: bb83cc6d-849b-4591-95e7-e4a90c20e774
+Quelle: datenbank.xml
 Name: Kugel des Astrologen
 title: Kugel des Astrologen
 Kategorie: Zauber

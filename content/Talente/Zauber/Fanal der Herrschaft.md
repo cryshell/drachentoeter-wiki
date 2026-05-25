@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b582a008-ae6e-4df6-8462-439e9628434e
+ID: b9770414-6d8c-437c-aa61-d6d7063c8c48
+Quelle: datenbank.xml
 Name: Fanal der Herrschaft
 title: Fanal der Herrschaft
 Kategorie: Zauber

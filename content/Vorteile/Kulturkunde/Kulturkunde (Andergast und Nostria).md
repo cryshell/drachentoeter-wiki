@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 5f6a9a40-00ea-4b81-b68e-5366053246d8
+ID: 490e56e6-9f94-406d-851e-626b1729aa5c
+Quelle: datenbank.xml
 Name: Kulturkunde (Andergast und Nostria)
 title: Kulturkunde (Andergast und Nostria)
 Kategorie: Kulturkunde

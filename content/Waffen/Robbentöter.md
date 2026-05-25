@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 922220e3-5779-46c4-931b-1869305dd581
+ID: 6f2179a1-bcc4-40e7-a23a-a7c87e88314a
+Quelle: datenbank.xml
 Name: Robbentöter
 title: Robbentöter
 Trefferpunkte: 2W6+3

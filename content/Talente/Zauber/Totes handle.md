@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: fa89504d-5f34-4b13-ab1d-de9cb0c10738
+ID: 15c6f50e-ec55-4cdb-9d42-0b6c5d345930
+Quelle: datenbank.xml
 Name: "Totes handle!"
 title: "Totes handle!"
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 89a6d3b1-003c-4132-975a-9a4231ecb3a9
+ID: aecd180d-d94b-49a7-8dab-51607d8db5da
+Quelle: datenbank.xml
 Name: Dämonischer Panzer
 title: Dämonischer Panzer
 Kategorie: Anrufungen

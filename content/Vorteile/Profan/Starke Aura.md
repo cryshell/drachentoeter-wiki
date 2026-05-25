@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: edd6ef5b-c16f-471d-aef8-c9587058aa8e
+ID: 1822c936-d0a4-4792-a188-9acac8b3598e
+Quelle: datenbank.xml
 Name: Starke Aura
 title: Starke Aura
 Kategorie: Profan

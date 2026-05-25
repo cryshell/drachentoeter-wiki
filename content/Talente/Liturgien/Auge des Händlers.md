@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c9e85a77-d27b-4b12-a3d8-d16f1530b664
+ID: 0dc99b90-9833-4577-8348-9f0bc4f29d46
+Quelle: datenbank.xml
 Name: Auge des Händlers
 title: Auge des Händlers
 Kategorie: Liturgien

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: cb7d8f62-ab75-4635-9b40-98acea04ea47
+ID: 1cfd849a-e5ce-42ff-a9fd-15bf83231b9f
+Quelle: datenbank.xml
 Name: Herrschaft über Erzelementare
 title: Herrschaft über Erzelementare
 Kategorie: Anrufungen

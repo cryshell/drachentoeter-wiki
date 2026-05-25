@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 10cc25da-55d4-4ae4-bb46-1ca361cd8b7e
+ID: 9c478ba3-cffb-413a-b664-bfa07f4bc599
+Quelle: datenbank.xml
 Name: Stabschleuder
 title: Stabschleuder
 Trefferpunkte: 2W6+0

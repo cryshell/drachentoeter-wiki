@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 06846595-d983-4bc5-a5b5-8f5de0575adf
+ID: 33c8a7a5-50a6-4824-9f0e-557ffca84000
+Quelle: datenbank.xml
 Name: Privilegien (Krieger)
 title: Privilegien (Krieger)
 Kategorie: Profan

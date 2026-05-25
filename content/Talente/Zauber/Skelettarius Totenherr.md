@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a64c41f7-681f-45fc-a5e9-4f096abc19f9
+ID: e4ca6b34-6a9e-4356-a9f3-c254b569ef78
+Quelle: datenbank.xml
 Name: Skelettarius Totenherr
 title: Skelettarius Totenherr
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 6acfd78d-3d09-42f8-991a-b0917ba70a9e
+ID: 6c74e82a-b8d7-40eb-bd42-aedd2f87e964
+Quelle: datenbank.xml
 Name: Movimento Dauerlauf
 title: Movimento Dauerlauf
 Kategorie: Zauber

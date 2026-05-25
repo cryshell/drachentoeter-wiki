@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 48ca6f6e-26c0-4026-9bca-a6253c8e245a
+ID: 414d97ca-af5b-4118-a568-3a27835f6bbf
+Quelle: datenbank.xml
 Name: Kulturkunde (Novadis)
 title: Kulturkunde (Novadis)
 Kategorie: Kulturkunde

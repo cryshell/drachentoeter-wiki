@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 17bfec92-9ed4-4667-897c-ed7c2c5f1fee
+ID: c2ebd9e4-b43f-4353-b83e-12e602e7f282
+Quelle: datenbank.xml
 Name: Weisung des Dolches
 title: Weisung des Dolches
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2ef78e64-d8af-4798-80e5-78f02f5ee58e
+ID: 4581d490-ad7b-42be-b04b-bc3b0f3be5f9
+Quelle: datenbank.xml
 Name: Seelenwanderung
 title: Seelenwanderung
 Kategorie: Zauber

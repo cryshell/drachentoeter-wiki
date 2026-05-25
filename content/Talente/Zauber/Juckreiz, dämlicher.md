@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9b57506b-ec1b-458e-ab4a-b21f2d87921f
+ID: 8a94ce9e-ab44-430e-8afd-f0352942c1cd
+Quelle: datenbank.xml
 Name: "Juckreiz, dämlicher!"
 title: "Juckreiz, dämlicher!"
 Kategorie: Zauber

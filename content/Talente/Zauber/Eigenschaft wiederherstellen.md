@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 452028eb-80a8-4411-8d76-5bde979b3400
+ID: 512fb623-85c4-4b05-8388-236c20203a4b
+Quelle: datenbank.xml
 Name: Eigenschaft wiederherstellen
 title: Eigenschaft wiederherstellen
 Kategorie: Zauber

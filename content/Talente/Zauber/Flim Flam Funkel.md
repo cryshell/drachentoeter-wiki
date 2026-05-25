@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 6967bc2d-fc6c-499a-8976-dc178a0a8654
+ID: 8127835f-471d-466d-a994-64df36c51ece
+Quelle: datenbank.xml
 Name: Flim Flam Funkel
 title: Flim Flam Funkel
 Kategorie: Zauber

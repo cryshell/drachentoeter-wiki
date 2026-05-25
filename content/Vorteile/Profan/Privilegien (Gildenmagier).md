@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 4946de70-6b3f-4adb-ae06-c8fdf4be1001
+ID: f13df5c4-cf52-419f-81a8-328de70a76f2
+Quelle: datenbank.xml
 Name: Privilegien (Gildenmagier)
 title: Privilegien (Gildenmagier)
 Kategorie: Profan

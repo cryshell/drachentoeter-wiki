@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: eac401d0-c264-4a52-9846-d6d75fd1e0b7
+ID: ef0ceece-a0fe-4575-bf3b-0a48bf392fd5
+Quelle: datenbank.xml
 Name: Pech wünschen
 title: Pech wünschen
 Kategorie: Anrufungen

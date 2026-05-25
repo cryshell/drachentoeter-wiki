@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: a0fab703-89de-451c-bc0d-9d5e775b8224
+ID: cc649cc9-87ea-4e96-9ed5-18f0d0edfc6e
+Quelle: datenbank.xml
 Name: Geweiht II
 title: Geweiht II
 Kategorie: Karmal

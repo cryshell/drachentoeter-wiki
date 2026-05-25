@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 1db0b507-c86f-41a0-a450-dc1bfb30b726
+ID: 3a39743f-13b9-4b08-b150-b8661efea79c
+Quelle: datenbank.xml
 Name: Flüsse und Quellen
 title: Flüsse und Quellen
 Kategorie: Karmale Riten

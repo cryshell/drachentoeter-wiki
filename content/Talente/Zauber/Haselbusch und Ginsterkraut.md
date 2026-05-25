@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f84a0308-eabb-479f-838c-2c235c478236
+ID: 600fdbf8-6a5c-4405-9b77-9306f9049d58
+Quelle: datenbank.xml
 Name: Haselbusch und Ginsterkraut
 title: Haselbusch und Ginsterkraut
 Kategorie: Zauber

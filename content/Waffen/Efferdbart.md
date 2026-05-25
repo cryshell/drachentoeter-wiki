@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 5ccf0898-46b2-4b54-820a-3520ae9d2a3d
+ID: 5fac7f47-cadc-4a7b-902f-73b56952e7c7
+Quelle: datenbank.xml
 Name: Efferdbart
 title: Efferdbart
 Trefferpunkte: 2W6+1

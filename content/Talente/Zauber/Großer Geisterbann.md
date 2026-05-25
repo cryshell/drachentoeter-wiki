@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ff4c52f9-492b-4a2d-a83a-1cd5ec801c15
+ID: d91f7755-5426-4b41-a6ad-80e3ca06e4c6
+Quelle: datenbank.xml
 Name: Großer Geisterbann
 title: Großer Geisterbann
 Kategorie: Zauber

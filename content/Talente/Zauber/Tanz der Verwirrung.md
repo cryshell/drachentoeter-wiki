@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c5a3eaeb-fb2b-40c7-b631-162838f95e75
+ID: 16ed4a5e-58b7-4cca-b7f3-5bff3cf92198
+Quelle: datenbank.xml
 Name: Tanz der Verwirrung
 title: Tanz der Verwirrung
 Kategorie: Zauber

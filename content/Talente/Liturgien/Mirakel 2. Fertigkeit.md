@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9311c33d-6434-46bd-9671-0460ee55cce8
+ID: a19587b3-e27d-48de-840a-53f77dbec86b
+Quelle: datenbank.xml
 Name: "Mirakel: 2. Fertigkeit"
 title: "Mirakel: 2. Fertigkeit"
 Kategorie: Liturgien

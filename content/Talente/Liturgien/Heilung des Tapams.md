@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 67fe2bee-5d57-48be-9d0c-e1042de04641
+ID: 7b28ab86-2395-4d74-b7de-49989f5fc3e4
+Quelle: datenbank.xml
 Name: Heilung des Tapams
 title: Heilung des Tapams
 Kategorie: Liturgien

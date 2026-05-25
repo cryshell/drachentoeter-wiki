@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: e4c0f9aa-76d8-42f5-9bbb-258ebfe1c271
+ID: 9289cafb-2d4f-4ef1-95ef-327d36bb72c1
+Quelle: datenbank.xml
 Name: Tradition der Lolgramothpaktierer IV
 title: Tradition der Lolgramothpaktierer IV
 Kategorie: Tradition (Paktierer)

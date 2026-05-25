@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 3bead108-808b-4875-ad4a-0c4ecfefac45
+ID: 2a2db115-7d88-4c13-a1af-976d675f5b79
+Quelle: datenbank.xml
 Name: Pfeil des Wassers
 title: Pfeil des Wassers
 Kategorie: Zauber

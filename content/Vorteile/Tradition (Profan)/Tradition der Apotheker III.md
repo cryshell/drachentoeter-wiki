@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: a7f75ea6-cc6c-46f9-92d6-d1d1c98251a5
+ID: 68697b28-ffe5-4a2e-8bff-fe7c657f123c
+Quelle: datenbank.xml
 Name: Tradition der Apotheker III
 title: Tradition der Apotheker III
 Kategorie: Tradition (Profan)

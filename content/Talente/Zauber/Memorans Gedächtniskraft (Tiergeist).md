@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 12024119-43b2-4891-9da0-1c2be287bc9d
+ID: b0c1e294-76d0-4ffc-b0e9-97b99bf70ef0
+Quelle: datenbank.xml
 Name: Memorans Gedächtniskraft (Tiergeist)
 title: Memorans Gedächtniskraft (Tiergeist)
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 52eff18e-09ed-4580-922e-438db395d79d
+ID: 276aa503-80b4-4d35-abd5-cecb95067d1e
+Quelle: datenbank.xml
 Name: Leichengespür
 title: Leichengespür
 Kategorie: Anrufungen

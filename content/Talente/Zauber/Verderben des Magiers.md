@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0f273b1f-e759-4ce6-b87d-2ea49c1836ea
+ID: 94dad83b-834e-4c98-85f0-e2fb795aa5f9
+Quelle: datenbank.xml
 Name: Verderben des Magiers
 title: Verderben des Magiers
 Kategorie: Zauber

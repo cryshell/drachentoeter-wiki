@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 521260b0-975e-47f9-8aa5-51b2b7ec6c2f
+ID: 713b368b-f653-419c-935f-83cecddc268c
+Quelle: datenbank.xml
 Name: Regeneration I
 title: Regeneration I
 Kategorie: Nachteil

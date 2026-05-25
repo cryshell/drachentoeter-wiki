@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 216d9ddc-2032-482c-a548-1b2f9a2190d9
+ID: 86a489b9-8670-4876-86ff-36202069fb0d
+Quelle: datenbank.xml
 Name: Bannschwert
 title: Bannschwert
 Kategorie: Zauber

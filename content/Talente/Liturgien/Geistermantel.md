@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 99fb2f6a-d89f-4d08-92b4-4dbfe51abe6a
+ID: aa5410ee-e100-4510-b960-53dded6050b2
+Quelle: datenbank.xml
 Name: Geistermantel
 title: Geistermantel
 Kategorie: Liturgien

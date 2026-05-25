@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 207ab1d3-3177-4bd0-ab9b-55305656894c
+ID: 05216b56-1a54-4e2f-9f30-98d407d36bc0
+Quelle: datenbank.xml
 Name: Miniatur der Herrschaft
 title: Miniatur der Herrschaft
 Kategorie: Zauber

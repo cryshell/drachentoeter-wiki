@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Attribut
-ID: d4488e3c-6f8d-44c4-93f2-a31dac4c634e
+ID: 759bc7a2-394c-42fb-82fc-2f7a59722b76
+Quelle: datenbank.xml
 Name: Intuition
 title: Intuition
 Abkürzung: IN

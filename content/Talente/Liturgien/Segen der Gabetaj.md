@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c692fe93-6b03-46e1-8340-52ca1de03584
+ID: a288b8dc-555c-4a06-9a8f-e0d86b013cca
+Quelle: datenbank.xml
 Name: Segen der Gabetaj
 title: Segen der Gabetaj
 Kategorie: Liturgien

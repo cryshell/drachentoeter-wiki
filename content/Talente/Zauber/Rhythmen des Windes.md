@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d681cd84-0c0c-459a-84ae-9972c89d11aa
+ID: e0ea5120-6f7f-4f12-aae4-631a9e48bb68
+Quelle: datenbank.xml
 Name: Rhythmen des Windes
 title: Rhythmen des Windes
 Kategorie: Zauber

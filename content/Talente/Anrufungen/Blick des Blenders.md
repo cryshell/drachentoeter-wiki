@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 41447370-bfae-4272-b77b-b6dc7c0fecd0
+ID: c50af363-e4ac-4b7a-af9a-1191adcab963
+Quelle: datenbank.xml
 Name: Blick des Blenders
 title: Blick des Blenders
 Kategorie: Anrufungen

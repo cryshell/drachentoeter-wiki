@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 85491e89-d261-4e23-89a6-dc8bbeaf0147
+ID: 50b1397d-3dc0-44cd-962f-05ecd2f93526
+Quelle: datenbank.xml
 Name: Segen der Erdgeister
 title: Segen der Erdgeister
 Kategorie: Zauber

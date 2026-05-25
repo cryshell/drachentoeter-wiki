@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2aa4ef4b-b4ce-458a-b1a5-1eab4c5a13ef
+ID: 2de55a0c-3038-4a48-b4c9-dfd6e603c35a
+Quelle: datenbank.xml
 Name: Apport des Schuppenbeutels
 title: Apport des Schuppenbeutels
 Kategorie: Zauber

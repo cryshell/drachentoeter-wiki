@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 643f1ade-1963-4eda-b820-28289788fd91
+ID: d81d8f5e-783e-4669-849a-6993302a7cc3
+Quelle: datenbank.xml
 Name: Altisonus
 title: Altisonus
 Kategorie: Zauber

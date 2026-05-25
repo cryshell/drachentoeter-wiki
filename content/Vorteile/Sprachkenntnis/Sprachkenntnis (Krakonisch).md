@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 5f1d6714-d840-4b6c-ac52-ad8a1838fe4a
+ID: 1b388eff-fda2-41b0-b24b-07c1aecde6f8
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Krakonisch)
 title: Sprachkenntnis (Krakonisch)
 Kategorie: Sprachkenntnis

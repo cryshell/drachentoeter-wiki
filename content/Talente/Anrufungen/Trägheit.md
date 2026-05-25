@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c939ff0a-a4c5-4454-8f83-b6b27378e978
+ID: 8687a7af-5a3a-4ece-b6f2-f3a550c4c2f6
+Quelle: datenbank.xml
 Name: Trägheit
 title: Trägheit
 Kategorie: Anrufungen

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 408c2c84-ea23-4e7d-9b7c-099037414128
+ID: 22485d70-10bf-4b0c-a309-47f202dfff32
+Quelle: datenbank.xml
 Name: Balestra, Bolzen
 title: Balestra, Bolzen
 Trefferpunkte: 3W6+2
@@ -25,6 +26,6 @@ Fernkampf: true
 - **Waffeneigenschaften:**
   - Schuss
   - [[Niederwerfen|Niederwerfen]]
-  - [[Schwer|Schwer (4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (4)]]
   - [[Spannschloss|Spannschloss]]
   - [[Zweihändig|Zweihändig]]

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: f6995741-4a33-4a62-9467-613467e0e4a7
+ID: f042a013-0ebb-4050-9f98-7cb6c296d81c
+Quelle: datenbank.xml
 Name: Ogerfänger
 title: Ogerfänger
 Trefferpunkte: 1W6+3

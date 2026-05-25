@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: bb56ddad-b2f2-4127-849c-cb3ce59bd610
+ID: a76c72db-f3fe-4914-b270-564cb7c07b0e
+Quelle: datenbank.xml
 Name: Schnellziehen
 title: Schnellziehen
 Kategorie: Kampf

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 2575044f-1344-4233-be5b-ff8fae5fe44d
+ID: cab89eb4-c3f1-4735-a7fe-c09bf0a16aaf
+Quelle: datenbank.xml
 Name: Gladiatorenstil
 title: Gladiatorenstil
 Kategorie: Kampf

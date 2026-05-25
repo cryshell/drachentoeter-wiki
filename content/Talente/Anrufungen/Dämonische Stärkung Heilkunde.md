@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5cfb7142-30db-499a-986c-17ab703385b3
+ID: e01d1276-2180-4b6e-918c-67ff0b8a1802
+Quelle: datenbank.xml
 Name: "Dämonische Stärkung: Heilkunde"
 title: "Dämonische Stärkung: Heilkunde"
 Kategorie: Anrufungen

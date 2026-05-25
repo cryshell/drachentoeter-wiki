@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 94ef0c23-90c1-4e35-a47c-ed632bf790d6
+ID: 09e42f07-f14f-4676-a47c-a135833b55ca
+Quelle: datenbank.xml
 Name: Elementwandlung
 title: Elementwandlung
 Kategorie: Liturgien

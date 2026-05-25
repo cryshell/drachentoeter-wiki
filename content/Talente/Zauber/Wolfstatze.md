@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: dcc82107-ef2e-41c1-9fbc-a0b932294a3b
+ID: ec3782d9-5195-451a-8cfa-6dd82c5ee644
+Quelle: datenbank.xml
 Name: Wolfstatze
 title: Wolfstatze
 Kategorie: Zauber

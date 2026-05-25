@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: eadaf3a1-1c86-498b-a8e5-9d48aeac3a72
+ID: 16697540-93af-4c7a-97f3-f7552e9fb02b
+Quelle: datenbank.xml
 Name: Melodie der Beruhigung
 title: Melodie der Beruhigung
 Kategorie: Zauber

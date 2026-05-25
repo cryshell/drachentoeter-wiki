@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5b0bed3e-029b-4817-8095-fd807ff4d6e7
+ID: 2de8ba52-235e-46af-a987-e5ca47081a50
+Quelle: datenbank.xml
 Name: Ungesehener Beobachter
 title: Ungesehener Beobachter
 Kategorie: Zauber

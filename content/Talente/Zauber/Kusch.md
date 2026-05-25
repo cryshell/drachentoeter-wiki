@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1d14216f-b52e-41af-b914-21761c5833b7
+ID: b39c1dec-a851-4525-9315-7caa71b9961b
+Quelle: datenbank.xml
 Name: "Kusch!"
 title: "Kusch!"
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2f90af17-543b-40d7-b269-c42a362e74fd
+ID: b98abfcd-01e9-4977-b992-6bddeae24f12
+Quelle: datenbank.xml
 Name: Projektimago Ebenbild
 title: Projektimago Ebenbild
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 389524a2-558d-4f0b-a479-51e211b22356
+ID: e1dd33e1-95e3-422d-9acc-483c13ef2237
+Quelle: datenbank.xml
 Name: Streitaxt
 title: Streitaxt
 Trefferpunkte: 2W6+2

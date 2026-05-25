@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 89a1d2be-93d2-44be-8232-76b6341dc5f3
+ID: f5dd4144-947a-4d7c-b829-c3367266a579
+Quelle: datenbank.xml
 Name: Siegelbrecher
 title: Siegelbrecher
 Kategorie: Zauber

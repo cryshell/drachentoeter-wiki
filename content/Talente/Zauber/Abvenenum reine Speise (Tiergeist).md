@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a83f28bf-9d98-4c10-8172-6ed11be6c341
+ID: cbf4d354-235c-4487-9821-138d89970ecb
+Quelle: datenbank.xml
 Name: Abvenenum reine Speise (Tiergeist)
 title: Abvenenum reine Speise (Tiergeist)
 Kategorie: Zauber

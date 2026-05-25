@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 00bbdff3-6565-4705-b8c2-45843d5adaff
+ID: 64d94774-6536-4389-9f76-9c86458922db
+Quelle: datenbank.xml
 Name: Gletscherwand
 title: Gletscherwand
 Kategorie: Zauber

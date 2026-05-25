@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8b95392a-c00d-4581-91ee-4ab953e0ad75
+ID: 32c42faf-bb6f-4fd9-b8a5-3fa26ebbde9a
+Quelle: datenbank.xml
 Name: Befreiung der Kristallgeister (passiv)
 title: Befreiung der Kristallgeister (passiv)
 Kategorie: Zauber

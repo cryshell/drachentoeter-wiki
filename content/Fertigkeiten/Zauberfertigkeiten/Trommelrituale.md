@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 493a4dae-ebbb-408a-a612-fe6261336129
+ID: ef070a06-d6f1-4e53-a308-db2f46a95c9d
+Quelle: datenbank.xml
 Name: Trommelrituale
 title: Trommelrituale
 Kategorie: Zauberfertigkeiten

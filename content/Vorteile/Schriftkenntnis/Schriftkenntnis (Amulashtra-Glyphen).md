@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 13517b0a-6a3c-439f-801a-853aefc17732
+ID: 40c565a5-2ce0-4327-8ce4-58dca690f66e
+Quelle: datenbank.xml
 Name: Schriftkenntnis (Amulashtra-Glyphen)
 title: Schriftkenntnis (Amulashtra-Glyphen)
 Kategorie: Schriftkenntnis

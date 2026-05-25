@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: fe0bb164-841a-44d1-991e-cb378ce18c0a
+ID: 99f47116-a522-4a84-a383-71eda5b970d7
+Quelle: datenbank.xml
 Name: Unheimliches Lachen
 title: Unheimliches Lachen
 Kategorie: Zauber

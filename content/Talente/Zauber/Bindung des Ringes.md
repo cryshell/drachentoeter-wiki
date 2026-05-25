@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 341fb83d-251c-41c9-8529-3ddeacc3d3b5
+ID: 46b0419f-4c5c-40c8-a6a3-63f7159d005c
+Quelle: datenbank.xml
 Name: Bindung des Ringes
 title: Bindung des Ringes
 Kategorie: Zauber

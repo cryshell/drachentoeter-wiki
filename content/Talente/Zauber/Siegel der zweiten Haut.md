@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0c2e24f2-3adf-4381-8e62-b2fb24c183e0
+ID: df2ea4d3-3191-469e-b672-bdc2ccb890f4
+Quelle: datenbank.xml
 Name: Siegel der zweiten Haut
 title: Siegel der zweiten Haut
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ba885127-866b-4b37-ac99-9260ff0dec58
+ID: 97892179-adaf-41af-a632-5aa0c99ecc2c
+Quelle: datenbank.xml
 Name: Objekt entzaubern
 title: Objekt entzaubern
 Kategorie: Zauber

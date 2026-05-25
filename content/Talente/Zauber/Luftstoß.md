@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ec896ffc-b5ef-4c89-bb98-bb0c01372b0e
+ID: b309ca6c-3a30-46fd-96fd-75929451127c
+Quelle: datenbank.xml
 Name: Luftstoß
 title: Luftstoß
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: de644683-aeca-47ef-9d66-8b0fe1cf6e49
+ID: 3c9073dd-e243-49fa-b28c-c2ad9d0fc2ff
+Quelle: datenbank.xml
 Name: Hexenknoten
 title: Hexenknoten
 Kategorie: Zauber

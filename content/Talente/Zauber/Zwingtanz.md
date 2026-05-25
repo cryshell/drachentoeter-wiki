@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: acd976b3-6db8-4f4f-89c5-dbff0d62db23
+ID: 91bdd129-4e3a-4588-9ddc-7cc1d16d9cb6
+Quelle: datenbank.xml
 Name: Zwingtanz
 title: Zwingtanz
 Kategorie: Zauber

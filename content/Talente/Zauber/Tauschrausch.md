@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 77cc6818-a514-4ec1-90bd-12041a5061b7
+ID: 7c147701-d736-4a28-abb3-1b827a51ff49
+Quelle: datenbank.xml
 Name: Tauschrausch
 title: Tauschrausch
 Kategorie: Zauber

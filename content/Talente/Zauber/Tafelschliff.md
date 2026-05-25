@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 476e82bd-2b3c-46a8-87bc-988a87c760e0
+ID: 6859d9be-661a-4524-aff1-d295f20e7f61
+Quelle: datenbank.xml
 Name: Tafelschliff
 title: Tafelschliff
 Kategorie: Zauber

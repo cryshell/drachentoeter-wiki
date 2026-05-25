@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0bc7dc3b-8538-47c1-b19f-ac411cffcb36
+ID: d1c10fd7-05b6-42b5-b4c7-d80bacc208cf
+Quelle: datenbank.xml
 Name: Pfeil der Luft
 title: Pfeil der Luft
 Kategorie: Zauber

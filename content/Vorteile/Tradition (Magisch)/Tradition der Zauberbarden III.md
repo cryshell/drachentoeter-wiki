@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 03bfbdd2-b4e7-4ac9-8f1d-32d855b69b79
+ID: cc06e5ae-1978-4428-8d6b-1ae5b7c9d7c4
+Quelle: datenbank.xml
 Name: Tradition der Zauberbarden III
 title: Tradition der Zauberbarden III
 Kategorie: Tradition (Magisch)

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 93222125-14e5-49ad-b476-41cab995abbc
+ID: 07c61579-2448-4cce-8858-0e447c39a78b
+Quelle: datenbank.xml
 Name: Stimmungssinn
 title: Stimmungssinn
 Kategorie: Zauber

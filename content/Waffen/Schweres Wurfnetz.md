@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 17e17d16-94a9-4b03-aacc-0165b89e180a
+ID: 9e595a52-0272-48e1-a335-d71aa1ff436b
+Quelle: datenbank.xml
 Name: Schweres Wurfnetz
 title: Schweres Wurfnetz
 Trefferpunkte: 0W6+0
@@ -24,5 +25,5 @@ Fernkampf: true
 - **Fernkampf:** ja
 - **Waffeneigenschaften:**
   - [[Umklammern|Umklammern (20)]]
-  - [[Schwer|Schwer (4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (4)]]
   - [[Zweihändig|Zweihändig]]

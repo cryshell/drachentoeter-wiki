@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9375bc62-dfdb-4ecd-baf1-6ab4a1b96816
+ID: 2f698842-43dc-470b-a9fd-1cc10e09401d
+Quelle: datenbank.xml
 Name: Vipernblick
 title: Vipernblick
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d37b96f8-f0c4-4710-8e68-f3848f3fd0ee
+ID: c4dfbd32-73d9-4643-bd25-24ec14d535bb
+Quelle: datenbank.xml
 Name: Holzbearbeitung
 title: Holzbearbeitung
 Kategorie: Profan

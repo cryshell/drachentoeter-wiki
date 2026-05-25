@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: db26fdcd-2702-4666-aa2b-5526cec5398b
+ID: a96ef8d4-894c-422c-84a3-94fbde59b6de
+Quelle: datenbank.xml
 Name: Harmonischer Rausch
 title: Harmonischer Rausch
 Kategorie: Liturgien

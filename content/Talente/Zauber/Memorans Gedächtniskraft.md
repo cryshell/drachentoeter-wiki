@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 4bffaebf-cd6c-4739-a8d0-00edb93ff39d
+ID: 9845e2ab-9720-4005-ba3b-abfcc9aa7cdd
+Quelle: datenbank.xml
 Name: Memorans Gedächtniskraft
 title: Memorans Gedächtniskraft
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: f617d4aa-1596-40f0-a9e2-5f52957c7302
+ID: ba29a69b-0ee7-4d81-9731-607560eaac4d
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Gjalskisch)
 title: Sprachkenntnis (Gjalskisch)
 Kategorie: Sprachkenntnis

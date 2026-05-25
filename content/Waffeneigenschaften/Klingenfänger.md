@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffeneigenschaft
-ID:
+ID: 5f7dac43-5465-4fdd-adc2-b2f1fb8fc484
+Quelle: datenbank.xml
 Name: Klingenfänger
 title: Klingenfänger
 ---

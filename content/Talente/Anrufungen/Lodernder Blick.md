@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: af23f7c0-6811-488b-b9da-c799cfe8c709
+ID: 95776b90-f4f8-436b-8955-51970fbf68e0
+Quelle: datenbank.xml
 Name: Lodernder Blick
 title: Lodernder Blick
 Kategorie: Anrufungen

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0369a866-e0f5-49ed-8795-6911639ecada
+ID: b5c6e9e5-c7fb-4072-b6b5-c8a6d5952f1f
+Quelle: datenbank.xml
 Name: Stimme des Nipakau
 title: Stimme des Nipakau
 Kategorie: Zauber

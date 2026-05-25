@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Fertigkeit
-ID: fcdded01-5604-421b-a672-9770f1a2ea9e
+ID: b3f8cf29-9c50-4515-ac46-d5a8f7bdf526
+Quelle: datenbank.xml
 Name: Feinhandwerk
 title: Feinhandwerk
 Kategorie: Handwerk

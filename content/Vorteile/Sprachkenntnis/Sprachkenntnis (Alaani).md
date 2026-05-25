@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 1a66daa5-4b7d-45a2-bdc1-1a904ec23639
+ID: 1c1b9561-7adf-457b-b459-e01e60d0bf6c
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Alaani)
 title: Sprachkenntnis (Alaani)
 Kategorie: Sprachkenntnis

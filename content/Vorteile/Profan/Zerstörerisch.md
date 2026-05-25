@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: ce46f462-a246-4aa0-ad57-730395919e9d
+ID: 87503191-a2e6-425c-b2f6-f6126216066c
+Quelle: datenbank.xml
 Name: Zerstörerisch
 title: Zerstörerisch
 Kategorie: Profan

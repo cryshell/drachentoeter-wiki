@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: fc0f708f-cc7d-4579-99d4-ed0fca55506b
+ID: ac3a6fbf-5abe-46a3-8d2f-e81dbe31d9aa
+Quelle: datenbank.xml
 Name: Sensattaco Meisterstreich (Tiergeist)
 title: Sensattaco Meisterstreich (Tiergeist)
 Kategorie: Zauber

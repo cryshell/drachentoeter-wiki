@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 19cdca73-a6d0-4851-8c50-a72492bce4f8
+ID: 01f8ead6-6ca2-4e3f-82d6-6293a8cf9ecb
+Quelle: datenbank.xml
 Name: Magierstab, Kugel
 title: Magierstab, Kugel
 Trefferpunkte: 2W6+1
@@ -26,6 +27,6 @@ Preis: 0
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
   - Wucht
-  - [[Schwer|Schwer (4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (4)]]
   - [[Zweihändig|Zweihändig]]
   - [[Kopflastig|Kopflastig]]

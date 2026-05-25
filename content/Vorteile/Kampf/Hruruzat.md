@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: d6701b2d-57da-4f2b-acba-2096525af17b
+ID: 66a1e22d-c3eb-48bd-9009-54231df3c0c3
+Quelle: datenbank.xml
 Name: Hruruzat
 title: Hruruzat
 Kategorie: Kampf

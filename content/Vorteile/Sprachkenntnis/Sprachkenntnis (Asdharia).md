@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: e3587507-f8b3-4389-ab9c-6782c30edb71
+ID: 48f5c649-177c-4f4f-9364-1bbb03914bf5
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Asdharia)
 title: Sprachkenntnis (Asdharia)
 Kategorie: Sprachkenntnis

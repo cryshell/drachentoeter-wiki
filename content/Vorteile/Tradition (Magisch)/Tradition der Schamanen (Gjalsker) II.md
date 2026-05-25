@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 4d1421d4-811c-427a-952a-b9ea5fa563d9
+ID: 61be3cb6-94bf-4d7d-bd0a-0d6b0dcf8e99
+Quelle: datenbank.xml
 Name: Tradition der Schamanen (Gjalsker) II
 title: Tradition der Schamanen (Gjalsker) II
 Kategorie: Tradition (Magisch)

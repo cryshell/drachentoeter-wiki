@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 7fba058e-82e8-4191-b825-9bc4e4ef1fe8
+ID: dc339db9-1348-497f-91e1-39379d7f968c
+Quelle: datenbank.xml
 Name: Harmonie
 title: Harmonie
 Kategorie: Karmale Riten

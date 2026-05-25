@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 256e9c0d-41e0-4cd4-ab0f-465d23ade6cd
+ID: 8e64142b-698b-4b04-a3d6-d1f621f10e75
+Quelle: datenbank.xml
 Name: Seelentier erkennen
 title: Seelentier erkennen
 Kategorie: Zauber

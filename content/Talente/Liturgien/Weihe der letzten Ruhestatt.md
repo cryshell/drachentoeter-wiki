@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c88a868a-1730-4bbf-bb57-6878cc596f9e
+ID: 9a1f9d4d-01e3-4558-b484-e0aa86b72e56
+Quelle: datenbank.xml
 Name: Weihe der letzten Ruhestatt
 title: Weihe der letzten Ruhestatt
 Kategorie: Liturgien

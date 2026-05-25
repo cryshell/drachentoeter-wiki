@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: dae5c3cd-bfc1-4487-ab5d-0e1604103dcd
+ID: 7d1ce3c5-ac5a-4cfa-a670-84275909ed6b
+Quelle: datenbank.xml
 Name: Wunschglyphe
 title: Wunschglyphe
 Kategorie: Zauber

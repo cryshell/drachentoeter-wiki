@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 3d5525e5-fcc7-4fb5-b5cd-8271407a725d
+ID: e4a7821b-8510-4cea-8a33-eac02ef46795
+Quelle: datenbank.xml
 Name: Sinnenschärfe
 title: Sinnenschärfe
 Kategorie: Profan

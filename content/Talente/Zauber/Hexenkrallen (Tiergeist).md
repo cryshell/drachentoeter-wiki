@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 4d77fe77-97d0-4b67-984e-0ac2fff74497
+ID: 74feb56b-7d36-4999-8612-f8fbee0bb33f
+Quelle: datenbank.xml
 Name: Hexenkrallen (Tiergeist)
 title: Hexenkrallen (Tiergeist)
 Kategorie: Zauber

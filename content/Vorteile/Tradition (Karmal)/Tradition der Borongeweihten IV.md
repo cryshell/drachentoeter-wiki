@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 28dc513e-ab07-4d0d-b102-27a6bc2261cf
+ID: 870debab-d4cb-4c9a-bc59-f412ce3a7489
+Quelle: datenbank.xml
 Name: Tradition der Borongeweihten IV
 title: Tradition der Borongeweihten IV
 Kategorie: Tradition (Karmal)

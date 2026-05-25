@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 35e9de8e-e281-4feb-a702-78400d9a3da0
+ID: bc186fe6-2c36-4820-9c69-8f38db211f75
+Quelle: datenbank.xml
 Name: Unsichtbarer Jäger
 title: Unsichtbarer Jäger
 Kategorie: Zauber

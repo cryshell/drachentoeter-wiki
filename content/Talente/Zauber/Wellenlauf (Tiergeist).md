@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1671c6f1-9bd5-4778-bb88-a94b66a4f14f
+ID: a12bd384-852c-4123-be5e-9b69679d7706
+Quelle: datenbank.xml
 Name: Wellenlauf (Tiergeist)
 title: Wellenlauf (Tiergeist)
 Kategorie: Zauber

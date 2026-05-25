@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 01e3ba01-778d-44a6-b4ee-3556e566587c
+ID: 42697498-b552-4cd4-b689-7178335555d5
+Quelle: datenbank.xml
 Name: Verteidigung
 title: Verteidigung
 Kategorie: Kampf

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: d5ece68c-a711-4b3d-ae19-340b63688f7d
+ID: 99dae1be-680d-42b7-b4ed-d60be8f0a665
+Quelle: datenbank.xml
 Name: Akoluth
 title: Akoluth
 Kategorie: Karmal

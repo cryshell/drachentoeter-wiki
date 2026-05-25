@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: b9527bd7-bda0-44e0-9bec-700c33ef8c6b
+ID: 718401ed-491d-40e3-8069-b3fcbf007ba1
+Quelle: datenbank.xml
 Name: Ochsenherde
 title: Ochsenherde
 Trefferpunkte: 4W6+0
@@ -26,6 +27,6 @@ Preis: 250
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
   - Wucht
-  - [[Einschüchternd|Einschüchternd]]
-  - [[Schwer|Schwer (8)]]
+  - [[Waffeneigenschaften/Einschüchternd|Einschüchternd]]
+  - [[Waffeneigenschaften/Schwer|Schwer (8)]]
   - [[Unberechenbar|Unberechenbar]]

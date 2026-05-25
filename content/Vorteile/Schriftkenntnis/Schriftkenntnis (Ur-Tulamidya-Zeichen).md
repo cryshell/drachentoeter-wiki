@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 812fce67-38a5-4b9d-a65e-15bd6591c82c
+ID: af632125-b789-4a72-9b26-f1718e8821b9
+Quelle: datenbank.xml
 Name: Schriftkenntnis (Ur-Tulamidya-Zeichen)
 title: Schriftkenntnis (Ur-Tulamidya-Zeichen)
 Kategorie: Schriftkenntnis

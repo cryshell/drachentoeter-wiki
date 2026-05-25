@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: eaf5d8c9-ea2a-42f7-9a20-c473d43d2283
+ID: 07e24be7-fded-4aff-8216-064ce2fdb980
+Quelle: datenbank.xml
 Name: Tradition der Charyptorothpaktierer III
 title: Tradition der Charyptorothpaktierer III
 Kategorie: Tradition (Paktierer)

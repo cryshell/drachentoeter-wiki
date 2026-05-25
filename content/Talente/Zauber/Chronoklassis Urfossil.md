@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 623eb7ce-e91b-4257-b190-b18b8195f4da
+ID: 2198db95-4fac-4782-88e0-1f61da4179e7
+Quelle: datenbank.xml
 Name: Chronoklassis Urfossil
 title: Chronoklassis Urfossil
 Kategorie: Zauber

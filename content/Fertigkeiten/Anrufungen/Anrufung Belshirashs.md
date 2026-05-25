@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 89ba4eaa-7331-418c-8c0a-4971d612bbbd
+ID: 2c83ca50-31e7-4075-8888-b1149be922a5
+Quelle: datenbank.xml
 Name: Anrufung Belshirashs
 title: Anrufung Belshirashs
 Kategorie: Anrufungen

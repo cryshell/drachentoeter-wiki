@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 07ee1650-e67e-4ab7-a7aa-949d1ddec56f
+ID: 07dfe908-58a7-49af-9504-325875484a07
+Quelle: datenbank.xml
 Name: Weihrauchwolke Wohlgeruch
 title: Weihrauchwolke Wohlgeruch
 Kategorie: Zauber

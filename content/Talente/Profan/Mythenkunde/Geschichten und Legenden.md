@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 6d5ff32a-0c42-4255-ace0-1241c89b73d8
+ID: 6ba7b91b-5849-49f0-8df2-09e69cac959b
+Quelle: datenbank.xml
 Name: Geschichten und Legenden
 title: Geschichten und Legenden
 Kategorie: Profan

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2802ffed-7a69-47c8-9373-4b54c3a1ec1c
+ID: dec547cc-fcf2-4378-ba2a-dbd9180d0d1d
+Quelle: datenbank.xml
 Name: Orakel des Mantikors
 title: Orakel des Mantikors
 Kategorie: Liturgien

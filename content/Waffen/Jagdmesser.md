@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: a2977b37-fb41-439f-b765-3ceec2019ffe
+ID: 8b8a70ba-2b30-420c-956b-4ec6a9d65ee0
+Quelle: datenbank.xml
 Name: Jagdmesser
 title: Jagdmesser
 Trefferpunkte: 1W6+2

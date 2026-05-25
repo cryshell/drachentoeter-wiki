@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 2b403747-bdb3-4f96-a6bd-2e1293dcef30
+ID: 71c65eed-47bd-4fa4-9a84-beaf827aee34
+Quelle: datenbank.xml
 Name: Kristallmagie
 title: Kristallmagie
 Kategorie: Zauberfertigkeiten

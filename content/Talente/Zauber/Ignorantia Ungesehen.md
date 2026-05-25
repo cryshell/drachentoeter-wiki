@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 4940f7a6-9dff-4107-ace2-5ee07c885a7f
+ID: 0f95feb5-75b5-4a6f-9c66-bfddbc6380cc
+Quelle: datenbank.xml
 Name: Ignorantia Ungesehen
 title: Ignorantia Ungesehen
 Kategorie: Zauber

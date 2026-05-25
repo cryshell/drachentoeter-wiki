@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9d3ba925-901d-44a0-b8f4-fd0245192feb
+ID: 76a02844-e55b-4cec-bcd1-ce4ded223122
+Quelle: datenbank.xml
 Name: Visibili Vanitar
 title: Visibili Vanitar
 Kategorie: Zauber

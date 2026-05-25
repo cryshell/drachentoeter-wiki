@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 85773341-55e8-4e91-ae82-1d2bbdd6b081
+ID: 63e98827-3ce4-4be5-811c-1b160bec6e77
+Quelle: datenbank.xml
 Name: Sigille des unsichtbaren Weges
 title: Sigille des unsichtbaren Weges
 Kategorie: Zauber

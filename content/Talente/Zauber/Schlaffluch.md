@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 92b6270a-8f71-4a95-a782-03c82b9bb138
+ID: 4dba76a7-042f-43d0-82d1-acab2f10a82f
+Quelle: datenbank.xml
 Name: Schlaffluch
 title: Schlaffluch
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: f1a95e3b-65b4-4371-862f-4245f6ca1333
+ID: b723e7bf-a429-426b-bfd3-55fc440bac6d
+Quelle: datenbank.xml
 Name: Magiegespür
 title: Magiegespür
 Kategorie: Allgemein

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 131ba29d-21ec-42f3-aaee-c09f35e3ebf5
+ID: 6440d3ed-5756-4fa9-81ca-4767804fcf20
+Quelle: datenbank.xml
 Name: Metamorpho Felsenform
 title: Metamorpho Felsenform
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: ce4e297c-3435-4aa5-97e5-41c40eea25c1
+ID: 4811c72d-d729-4551-87fc-97f3db652a6d
+Quelle: datenbank.xml
 Name: Kugelzauber
 title: Kugelzauber
 Kategorie: Zauberfertigkeiten

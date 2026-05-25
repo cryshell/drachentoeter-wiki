@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 54479a3b-0a21-43be-9507-484a69a52dab
+ID: afd5ecb2-a999-4d28-bb4d-3ad111b1d32b
+Quelle: datenbank.xml
 Name: Zagibu Ubigaz
 title: Zagibu Ubigaz
 Kategorie: Zauber

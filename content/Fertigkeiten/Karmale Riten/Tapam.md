@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 02616934-bc56-428c-87ae-8b5d6a1375ce
+ID: 4c47cfd8-1236-48d3-bd60-50acb0b10b38
+Quelle: datenbank.xml
 Name: Tapam
 title: Tapam
 Kategorie: Karmale Riten

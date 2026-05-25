@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 4af1c251-5822-4780-a1a6-16338cc434ac
+ID: 6fc689cf-dd30-4a3d-bdb7-82b7521cab81
+Quelle: datenbank.xml
 Name: Schlangenbund
 title: Schlangenbund
 Kategorie: Karmale Riten

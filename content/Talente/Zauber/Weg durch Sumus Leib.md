@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c7bdc102-67a1-4b02-908d-4fa99e8d43aa
+ID: c9b0a460-68d1-4230-84cd-93319bd6c51a
+Quelle: datenbank.xml
 Name: Weg durch Sumus Leib
 title: Weg durch Sumus Leib
 Kategorie: Zauber

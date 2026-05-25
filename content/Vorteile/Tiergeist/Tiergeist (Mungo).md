@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 260cdb68-edf0-4c37-9643-188a521014c2
+ID: 7db7107d-7bfd-478e-9700-5e3f0080225f
+Quelle: datenbank.xml
 Name: Tiergeist (Mungo)
 title: Tiergeist (Mungo)
 Kategorie: Tiergeist
@@ -26,8 +27,8 @@ Kosten: 0
 
 - **Erlernen:** 0 EP
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
-  - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
+  - Vorteil [[Tradition der Anach-Nûrim I]] ODER Vorteil [[Tradition der Durro-Dûn I]] ODER Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]] ODER Kein Vorteil [[Tiergeist ()|Tiergeist (*)]]
 - **Siehe auch:**
   - [[Attributo]]
   - [[Harmlose Gestalt]]

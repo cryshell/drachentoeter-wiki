@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 72340d22-523a-4b18-a519-28f571735109
+ID: 2871a5e7-94bd-41ac-8d5a-0effe4c036ad
+Quelle: datenbank.xml
 Name: Kulturkunde (Norbarden)
 title: Kulturkunde (Norbarden)
 Kategorie: Kulturkunde

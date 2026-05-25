@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b13baf9c-549e-4112-9a0e-161989673843
+ID: c7a9e9d6-e4fe-4568-a0dc-c1ec23c5824a
+Quelle: datenbank.xml
 Name: Letzter Ausweg
 title: Letzter Ausweg
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 3031b7ab-0860-413b-a5da-ede3b16b5673
+ID: 0a86e0da-a089-46fb-af4a-763fa374db2f
+Quelle: datenbank.xml
 Name: Geschosshagel
 title: Geschosshagel
 Kategorie: Kampf

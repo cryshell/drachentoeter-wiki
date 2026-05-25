@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 7ead03ff-f997-4ee4-bb9a-af1c600e5d7e
+ID: 72271ac4-cf3b-40d4-b2ff-21de87e09911
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Zhayad)
 title: Sprachkenntnis (Zhayad)
 Kategorie: Sprachkenntnis

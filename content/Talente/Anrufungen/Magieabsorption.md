@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e885150a-2f2b-4ead-af1f-ca6e6429bfc7
+ID: 774e7ebc-fbb4-4d53-b21e-9e10a41261bb
+Quelle: datenbank.xml
 Name: Magieabsorption
 title: Magieabsorption
 Kategorie: Anrufungen

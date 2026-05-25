@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 744fcf9b-cae3-43ef-8bbc-f536813a2505
+ID: 13c3ee03-e3fb-4a52-a48e-8518ceeb6a95
+Quelle: datenbank.xml
 Name: Eigenschaften
 title: Eigenschaften
 Kategorie: Zauberfertigkeiten

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 04292f0b-e454-4d80-968d-94b78d3058cc
+ID: 0ec38503-0a60-4150-8947-2247fba40d17
+Quelle: datenbank.xml
 Name: Lästige Mindergeister
 title: Lästige Mindergeister
 Kategorie: Magisch
@@ -17,7 +18,7 @@ Wann immer dir ein Zauber mit Basiskosten von mindestens 16 AsP misslingt, ersch
 
 - **Erlernen:** 0 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Vampir I]]
 - **Siehe auch:**
   - [[Aktion Konzentration]]
   - [[Elementarbann]]

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c6f36337-35dc-466d-8430-4ef1e4b73467
+ID: d0e39919-3e54-460a-bfa1-24073f95c508
+Quelle: datenbank.xml
 Name: Wundschmerz
 title: Wundschmerz
 Kategorie: Anrufungen

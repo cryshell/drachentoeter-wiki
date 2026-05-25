@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2a367cc7-dab9-4f0f-ac75-e0eda62754d7
+ID: c595d4dc-25ed-4243-9117-82c7989fb341
+Quelle: datenbank.xml
 Name: Cryptographo Zauberschrift
 title: Cryptographo Zauberschrift
 Kategorie: Zauber

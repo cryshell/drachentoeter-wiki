@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: d6e6f057-581a-490d-8dfb-9fa30ed7d60b
+ID: 2670c07e-4db7-4edb-9973-756709353416
+Quelle: datenbank.xml
 Name: Arbalette, Bolzen
 title: Arbalette, Bolzen
 Trefferpunkte: 3W6+4
@@ -25,6 +26,6 @@ Fernkampf: true
 - **Waffeneigenschaften:**
   - Schuss
   - [[Niederwerfen|Niederwerfen (-4)]]
-  - [[Schwer|Schwer (4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (4)]]
   - [[Spannschloss|Spannschloss]]
   - [[Zweihändig|Zweihändig]]

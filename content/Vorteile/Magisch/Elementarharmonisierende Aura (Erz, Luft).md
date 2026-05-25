@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 9bee23d2-3d9d-4be4-bd78-617c1767ae1b
+ID: 8b9d6c52-f449-432b-9808-d7558f8db59f
+Quelle: datenbank.xml
 Name: Elementarharmonisierende Aura (Erz, Luft)
 title: Elementarharmonisierende Aura (Erz, Luft)
 Kategorie: Magisch

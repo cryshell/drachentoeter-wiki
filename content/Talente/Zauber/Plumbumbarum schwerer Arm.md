@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b838b7ff-7ca4-4f52-a763-f60289a53455
+ID: af48b96d-d1b8-4ffe-a9d1-f3b615bf80e4
+Quelle: datenbank.xml
 Name: Plumbumbarum schwerer Arm
 title: Plumbumbarum schwerer Arm
 Kategorie: Zauber

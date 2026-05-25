@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2709ac0b-2c32-4c36-94fd-1b09e4bbe9f9
+ID: 9e1586b1-db98-425f-84bf-d8dd130323cb
+Quelle: datenbank.xml
 Name: Windhose
 title: Windhose
 Kategorie: Zauber

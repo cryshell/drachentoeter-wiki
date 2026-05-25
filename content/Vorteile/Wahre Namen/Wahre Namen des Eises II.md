@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 1b99a738-9dd0-4845-82e3-5d8bacbea0bb
+ID: 9289edff-0efe-410d-924d-b37abb4f0fcf
+Quelle: datenbank.xml
 Name: Wahre Namen des Eises II
 title: Wahre Namen des Eises II
 Kategorie: Wahre Namen
@@ -17,6 +18,6 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Geweiht I]] ODER Vorteil [[Paktierer I]]
   - Attribut [[Klugheit|KL]] 6
   - Vorteil [[Wahre Namen des Eises I]]

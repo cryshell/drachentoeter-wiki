@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c46b2b4c-3aa1-41b6-b40a-e0d273da29ef
+ID: 24001cb3-844a-4cfe-aa03-2df4609c5493
+Quelle: datenbank.xml
 Name: Verborgen wie der Neumond
 title: Verborgen wie der Neumond
 Kategorie: Liturgien

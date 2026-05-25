@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d35b1856-438d-4fe0-9ecd-7258d4c87bb9
+ID: 4724d260-ab3e-4820-ae1d-6e764db51c56
+Quelle: datenbank.xml
 Name: Schlangenstab
 title: Schlangenstab
 Kategorie: Liturgien

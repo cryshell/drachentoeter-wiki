@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 91e09a73-f094-4899-94cc-365253f47eed
+ID: 239467ad-3b7e-499f-9d2d-a1b9e8be945e
+Quelle: datenbank.xml
 Name: Wahre Namen der Luft I
 title: Wahre Namen der Luft I
 Kategorie: Wahre Namen
@@ -16,5 +17,5 @@ Du kannst alle Elementare der Luft bis zu einer Beschwörungsschwierigkeit von 1
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Geweiht I]] ODER Vorteil [[Paktierer I]]
   - Attribut [[Klugheit|KL]] 4

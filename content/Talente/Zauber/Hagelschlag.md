@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: cb20d7f2-a7eb-42c7-b91f-15e8c6b23a03
+ID: 0c886b0d-5ead-43ae-9f0e-4d42e11fc721
+Quelle: datenbank.xml
 Name: Hagelschlag
 title: Hagelschlag
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a437bd85-3367-4b3a-88be-d04e3929232b
+ID: 21c64e98-88c5-47f8-8bda-e84507dfc036
+Quelle: datenbank.xml
 Name: Aerogelo Atemqual
 title: Aerogelo Atemqual
 Kategorie: Zauber

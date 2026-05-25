@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: dffd0183-a3b1-42f0-b088-06ccb813645e
+ID: 13681bc6-c67f-4a41-b745-bc2587b726db
+Quelle: datenbank.xml
 Name: H‘Szints Auge (passiv)
 title: H‘Szints Auge (passiv)
 Kategorie: Zauber

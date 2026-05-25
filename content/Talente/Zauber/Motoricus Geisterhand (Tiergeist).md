@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 88b71c3c-2d01-42b3-88e5-3e21f5aff1df
+ID: 7a0f4e9b-f6d9-42e2-9323-b63e8481c197
+Quelle: datenbank.xml
 Name: Motoricus Geisterhand (Tiergeist)
 title: Motoricus Geisterhand (Tiergeist)
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 1bc5fbdc-c997-4b3e-9310-4f0dd506cd5a
+ID: b7f56d02-fd08-4ad5-82ed-51e523686974
+Quelle: datenbank.xml
 Name: Diplomatie
 title: Diplomatie
 Kategorie: Interaktion

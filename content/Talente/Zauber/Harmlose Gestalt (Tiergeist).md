@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ba302cb4-5abe-4c70-8ad8-1c53750a239b
+ID: c353a8f2-d2e4-4eff-bfaa-9175a01e7086
+Quelle: datenbank.xml
 Name: Harmlose Gestalt (Tiergeist)
 title: Harmlose Gestalt (Tiergeist)
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 4c2583c0-8af6-4802-ba55-6470f5d2b0aa
+ID: bb702033-cdac-42c5-845b-e5dfe58f1e8e
+Quelle: datenbank.xml
 Name: Wachender Stein
 title: Wachender Stein
 Kategorie: Zauber

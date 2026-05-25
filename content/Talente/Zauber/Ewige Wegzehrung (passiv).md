@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 7f2f7284-dfef-4990-b5ec-05c1c1f9d48d
+ID: 1b8df73e-dfe8-4e19-afd6-bba125560d71
+Quelle: datenbank.xml
 Name: Ewige Wegzehrung (passiv)
 title: Ewige Wegzehrung (passiv)
 Kategorie: Zauber

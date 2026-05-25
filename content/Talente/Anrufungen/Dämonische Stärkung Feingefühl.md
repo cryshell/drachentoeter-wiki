@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: be20ef34-bcb0-42d6-84dc-e2d1ebf70a08
+ID: 9c6c88b6-8d25-4713-88c0-62711a160d9d
+Quelle: datenbank.xml
 Name: "Dämonische Stärkung: Feingefühl"
 title: "Dämonische Stärkung: Feingefühl"
 Kategorie: Anrufungen

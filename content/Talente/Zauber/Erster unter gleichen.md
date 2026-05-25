@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 7e09912b-876c-4047-9a68-a8944d3cc37f
+ID: d1af2b78-9db4-4d9c-b8d5-21547dc6bb26
+Quelle: datenbank.xml
 Name: Erster unter gleichen
 title: Erster unter gleichen
 Kategorie: Zauber

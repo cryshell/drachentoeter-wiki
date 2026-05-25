@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0d5a1c56-5924-40ba-b5d2-0b348f357af8
+ID: 820f5211-44e7-4ca1-ab14-4aac51e21139
+Quelle: datenbank.xml
 Name: Magnum Opus
 title: Magnum Opus
 Kategorie: Anrufungen

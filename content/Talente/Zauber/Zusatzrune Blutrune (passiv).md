@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 6befb24d-03f3-4a15-a1ca-b8e88f770c01
+ID: 5e488565-c7d9-41d4-98e2-a89b0d1bef75
+Quelle: datenbank.xml
 Name: Zusatzrune Blutrune (passiv)
 title: Zusatzrune Blutrune (passiv)
 Kategorie: Zauber

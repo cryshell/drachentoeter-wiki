@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d6dcbd47-fdd7-4f4b-b400-02af84887727
+ID: 60efd042-337e-4c7f-8e47-36bf6cd020e0
+Quelle: datenbank.xml
 Name: Apport des Dolches
 title: Apport des Dolches
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9ab616b4-00c7-4198-8ab8-c873d1b23ee5
+ID: b4c695cf-8fc2-4dbc-9c09-49414b52e73d
+Quelle: datenbank.xml
 Name: Paralysis starr wie Stein
 title: Paralysis starr wie Stein
 Kategorie: Zauber

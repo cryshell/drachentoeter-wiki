@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2ff051f0-e870-46ce-b663-ec487d8ad476
+ID: 548a3cd5-9ed1-4bea-b901-832151f6afe3
+Quelle: datenbank.xml
 Name: Große Gier
 title: Große Gier
 Kategorie: Zauber

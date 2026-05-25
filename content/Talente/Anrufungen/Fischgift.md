@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e9c056bc-5117-4a7a-8b97-bfebe591932a
+ID: 1814df09-eb27-4094-8e52-aa997f3402fa
+Quelle: datenbank.xml
 Name: Fischgift
 title: Fischgift
 Kategorie: Anrufungen

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 7b75b1fc-a469-498e-920a-cd038fe8989f
+ID: c4e06ef7-02c5-4ab5-8ba3-0f1694f6a94b
+Quelle: datenbank.xml
 Name: Fluch der Pestilenz
 title: Fluch der Pestilenz
 Kategorie: Zauber

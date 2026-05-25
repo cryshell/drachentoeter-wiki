@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: babc92ab-feb6-4752-b8c5-9984eb160566
+ID: 1fdb8885-9654-4b6d-8b4a-4dfb1a92b1c3
+Quelle: datenbank.xml
 Name: Transversalis Teleport
 title: Transversalis Teleport
 Kategorie: Zauber

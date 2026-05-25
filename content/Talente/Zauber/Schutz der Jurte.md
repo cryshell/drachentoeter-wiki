@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ffa754f4-1155-410b-8511-f208b5987741
+ID: 97f401fa-5ab6-45d2-b229-237ff452876f
+Quelle: datenbank.xml
 Name: Schutz der Jurte
 title: Schutz der Jurte
 Kategorie: Zauber

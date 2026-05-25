@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: af0f2520-d869-4152-acfe-e8dc6513a663
+ID: 5ed66908-aed7-4f49-a2e6-73845d3c5ebe
+Quelle: datenbank.xml
 Name: Degen
 title: Degen
 Trefferpunkte: 2W6+0

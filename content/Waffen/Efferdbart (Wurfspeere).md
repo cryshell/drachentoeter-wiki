@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 0d8641f0-ada7-4ad6-a271-0797c8772f77
+ID: d97309d6-b625-4156-866c-3c65484357b4
+Quelle: datenbank.xml
 Name: Efferdbart (Wurfspeere)
 title: Efferdbart (Wurfspeere)
 Trefferpunkte: 2W6+1

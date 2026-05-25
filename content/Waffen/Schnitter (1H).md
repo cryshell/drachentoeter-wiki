@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: c5305435-92e3-4b9e-8af1-dd51ba7e7610
+ID: cedb2ace-b87d-4a2a-9d57-414634ed9a78
+Quelle: datenbank.xml
 Name: Schnitter (1H)
 title: Schnitter (1H)
 Trefferpunkte: 2W6+2

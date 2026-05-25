@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1c69c79a-c0a5-4c00-9d40-a9b819c2bce2
+ID: 5c462aa7-e328-4f54-ac4d-fffd27566dc1
+Quelle: datenbank.xml
 Name: Wipfellauf (Tiergeist)
 title: Wipfellauf (Tiergeist)
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 9ba4b486-cf67-4e65-b0a7-30772b1facc7
+ID: 9a169af9-34a4-41b2-a739-b86468ebcbb4
+Quelle: datenbank.xml
 Name: Wahre Namen Tasfarelels III
 title: Wahre Namen Tasfarelels III
 Kategorie: Wahre Namen
@@ -17,6 +18,6 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Geweiht I]] ODER Vorteil [[Paktierer I]]
   - Attribut [[Klugheit|KL]] 8
   - Vorteil [[Wahre Namen Tasfarelels II]]

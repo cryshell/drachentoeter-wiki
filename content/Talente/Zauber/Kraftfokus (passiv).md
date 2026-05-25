@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8bb86e17-145e-4f72-abd4-6200d1d008f9
+ID: ac50bdae-2206-4e8e-bf6a-141b92f558f0
+Quelle: datenbank.xml
 Name: Kraftfokus (passiv)
 title: Kraftfokus (passiv)
 Kategorie: Zauber

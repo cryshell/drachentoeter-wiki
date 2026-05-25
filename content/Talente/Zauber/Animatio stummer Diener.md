@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 13a18ca6-d198-460b-8f27-1eaf7ace79a3
+ID: 68e7b5c2-5414-4900-bc06-a8529ae6ef77
+Quelle: datenbank.xml
 Name: Animatio stummer Diener
 title: Animatio stummer Diener
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 707c46d6-6009-49ff-8d9d-1d4b2f027f5f
+ID: 1f22495a-8d07-4f72-a6b8-4abf781d7536
+Quelle: datenbank.xml
 Name: Warunker Hammer
 title: Warunker Hammer
 Trefferpunkte: 2W6+2
@@ -32,4 +33,4 @@ Preis: 150
   - [[Rüstungsbrechend|Rüstungsbrechend]]
   - [[Zweihändig|Zweihändig]]
   - [[Knebel|Knebel]]
-  - [[Schwer|Schwer (4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (4)]]

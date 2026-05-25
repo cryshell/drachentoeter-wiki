@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: faa4da69-2019-48b4-b859-b0e6e5d02ef6
+ID: 8fc6dd54-bd7e-434b-9c48-d6c4c1f0a81c
+Quelle: datenbank.xml
 Name: Liebling des Erzdämons
 title: Liebling des Erzdämons
 Kategorie: Kreis der Verdammnis

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 73e21173-bf35-4c08-9bfc-43089824d45a
+ID: 59cd8d96-0512-43ff-944f-fac7beb58188
+Quelle: datenbank.xml
 Name: Tanz des Ungehorsams
 title: Tanz des Ungehorsams
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 30879932-0e0b-4c9f-bae6-bcf34ca8f484
+ID: 8d2c03a4-2bd9-45a8-a17f-5c18db1265d8
+Quelle: datenbank.xml
 Name: Spinnenlauf (Tiergeist)
 title: Spinnenlauf (Tiergeist)
 Kategorie: Zauber

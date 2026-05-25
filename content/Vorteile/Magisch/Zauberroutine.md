@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 4f2bc820-d8c7-4fd7-a0ec-ae458115ed78
+ID: 57857c35-17d4-4ba2-b1fd-a90e088807fa
+Quelle: datenbank.xml
 Name: Zauberroutine
 title: Zauberroutine
 Kategorie: Magisch
@@ -19,7 +20,7 @@ Wenn du einen Passierschlag gegen einen Gegner ausführen darfst, kannst du stat
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Vampir I]]
   - Attribut [[Klugheit|KL]] 4
 - **Siehe auch:**
   - [[Reaktion]]

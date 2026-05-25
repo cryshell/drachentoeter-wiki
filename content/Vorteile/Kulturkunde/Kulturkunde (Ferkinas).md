@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: b3556cce-850f-4ccc-9ea6-d0dfde5b6201
+ID: b7aa7e44-2781-4231-b1bb-d86a9f09ee19
+Quelle: datenbank.xml
 Name: Kulturkunde (Ferkinas)
 title: Kulturkunde (Ferkinas)
 Kategorie: Kulturkunde

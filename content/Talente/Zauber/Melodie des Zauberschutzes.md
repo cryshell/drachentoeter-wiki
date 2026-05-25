@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5774db40-e911-4414-be8d-f3dbdf53fa99
+ID: 63882966-d20e-4219-adb0-aacaed7beae1
+Quelle: datenbank.xml
 Name: Melodie des Zauberschutzes
 title: Melodie des Zauberschutzes
 Kategorie: Zauber

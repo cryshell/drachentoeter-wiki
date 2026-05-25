@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 7959f7fd-b07a-441a-aaf0-c673d14b1f20
+ID: 27fc69d6-71fa-4c78-b2d7-992a79a3aa7c
+Quelle: datenbank.xml
 Name: Giftdrüsen
 title: Giftdrüsen
 Kategorie: Anrufungen

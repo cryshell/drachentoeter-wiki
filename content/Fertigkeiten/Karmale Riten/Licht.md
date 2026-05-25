@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: c2be354c-cadb-492e-aefc-41ecb2700b07
+ID: c27c3432-9fc1-46db-9700-9ef12b317961
+Quelle: datenbank.xml
 Name: Licht
 title: Licht
 Kategorie: Karmale Riten

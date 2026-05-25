@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 0f88f988-e723-4b91-b374-8887c87e1633
+ID: 3846fb92-0e34-4b9b-9486-99bdf8965420
+Quelle: datenbank.xml
 Name: Effizientes Zaubern
 title: Effizientes Zaubern
 Kategorie: Magisch
@@ -18,7 +19,7 @@ Ermöglicht die spontane Modifikation Kosten sparen.
 
 - **Erlernen:** 60 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Vampir I]]
   - Attribut [[Klugheit|KL]] 8
 - **Siehe auch:**
   - [[Kosten sparen (M)]]

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: a87a36f0-34cf-4e27-b3c4-b9e6b8e1d5af
+ID: a83dbf2c-decf-4b04-9a8a-c8235e3816bf
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Nujuka)
 title: Sprachkenntnis (Nujuka)
 Kategorie: Sprachkenntnis

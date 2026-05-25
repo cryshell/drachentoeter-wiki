@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 4f87b864-35b2-43b1-a232-42a58530ea58
+ID: 2b48c407-4558-4ce3-8572-568224681e42
+Quelle: datenbank.xml
 Name: Applicatus Zauberspeicher
 title: Applicatus Zauberspeicher
 Kategorie: Zauber

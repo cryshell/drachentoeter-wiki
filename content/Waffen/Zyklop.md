@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: c7ab2083-242d-4cd9-90ab-c115b5d0bfe5
+ID: 4071ebd2-a8cf-4440-b8ce-6e16e8e75b8f
+Quelle: datenbank.xml
 Name: Zyklop
 title: Zyklop
 Trefferpunkte: 3W20+20

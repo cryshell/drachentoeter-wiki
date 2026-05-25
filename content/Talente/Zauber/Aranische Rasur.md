@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 405f9619-031f-4951-89ab-33d740c66cd7
+ID: 4c9e9269-df9b-4d9f-a03a-de962c6f8d29
+Quelle: datenbank.xml
 Name: Aranische Rasur
 title: Aranische Rasur
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2fecaf7a-f9ca-46b5-94c1-1aa4dd3bfd09
+ID: 27e486c3-bab4-499c-986b-c8edad3508d2
+Quelle: datenbank.xml
 Name: Ritus der Schlachthilfe
 title: Ritus der Schlachthilfe
 Kategorie: Liturgien

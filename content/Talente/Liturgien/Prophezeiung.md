@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 843b260f-109a-4b15-9bd6-4ef5879d11fe
+ID: a81d1eca-41e5-4dcb-90e2-73b628a33ebe
+Quelle: datenbank.xml
 Name: Prophezeiung
 title: Prophezeiung
 Kategorie: Liturgien

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f221fb5d-326d-43bc-a703-a1fbbe6dc5c2
+ID: d2136a80-7736-4e51-958e-a284e6d85955
+Quelle: datenbank.xml
 Name: Artefakt beseelen
 title: Artefakt beseelen
 Kategorie: Anrufungen

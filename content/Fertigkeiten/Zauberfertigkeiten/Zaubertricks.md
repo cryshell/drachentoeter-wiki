@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: e82a3d08-9f7a-4f77-acff-e7c2c0dec0d4
+ID: 5d065d82-415a-4a17-9977-0d3b6309d24b
+Quelle: datenbank.xml
 Name: Zaubertricks
 title: Zaubertricks
 Kategorie: Zauberfertigkeiten

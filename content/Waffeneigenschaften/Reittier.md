@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffeneigenschaft
-ID:
+ID: 5d3d3c83-35ee-49bb-b93e-7d722f240ee8
+Quelle: datenbank.xml
 Name: Reittier
 title: Reittier
 ---

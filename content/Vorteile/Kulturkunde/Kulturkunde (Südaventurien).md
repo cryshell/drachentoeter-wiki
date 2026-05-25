@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 5b12e49a-d6ee-4a51-9ce7-7ebaa426b86d
+ID: 41ea2038-380a-490d-97f7-1c9c9cb4bd26
+Quelle: datenbank.xml
 Name: Kulturkunde (Südaventurien)
 title: Kulturkunde (Südaventurien)
 Kategorie: Kulturkunde

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: bfb85061-00bb-46c3-b30a-226fbce64a82
+ID: d5c9f589-eac3-4bfb-a018-7d2fef20353a
+Quelle: datenbank.xml
 Name: Geleit des Nipakau
 title: Geleit des Nipakau
 Kategorie: Zauber

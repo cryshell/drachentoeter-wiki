@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: f65bb21f-97c2-4d86-8c7e-dd47ceb6042d
+ID: 72f75a65-b68e-418d-854b-eca39f8b4aa2
+Quelle: datenbank.xml
 Name: Knochenkeule, mittel
 title: Knochenkeule, mittel
 Trefferpunkte: 2W6+1

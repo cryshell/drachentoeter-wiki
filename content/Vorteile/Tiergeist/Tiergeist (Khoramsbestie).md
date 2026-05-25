@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 5025653c-2e07-4767-9424-f2552ea00469
+ID: 22ba7525-0756-423d-96ff-4fdfe1f5f102
+Quelle: datenbank.xml
 Name: Tiergeist (Khoramsbestie)
 title: Tiergeist (Khoramsbestie)
 Kategorie: Tiergeist
@@ -28,8 +29,8 @@ Kosten: 0
 
 - **Erlernen:** 0 EP
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
-  - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
+  - Vorteil [[Tradition der Anach-Nûrim I]] ODER Vorteil [[Tradition der Durro-Dûn I]] ODER Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]] ODER Kein Vorteil [[Tiergeist ()|Tiergeist (*)]]
 - **Siehe auch:**
   - [[Adlerauge Luchsenohr]]
   - [[Axxeleratus Blitzgeschwind]]

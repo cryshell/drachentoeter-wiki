@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 6946b0ac-0ced-423f-a082-10850a08e548
+ID: 1058bc6e-38e5-465e-9b59-a25c129d1e16
+Quelle: datenbank.xml
 Name: Schutz vor göttlichem Wirken
 title: Schutz vor göttlichem Wirken
 Kategorie: Kreis der Verdammnis

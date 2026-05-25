@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d3c19f4c-e2c7-46d6-9c25-ec2f4679dfd9
+ID: efe44349-bd9d-4820-8564-757d3e94db45
+Quelle: datenbank.xml
 Name: Menschenkenntnis
 title: Menschenkenntnis
 Kategorie: Profan

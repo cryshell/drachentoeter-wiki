@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 58c53e45-47d5-42a9-b9fb-f397dc0a8b4a
+ID: 280d3ed9-a1c2-4bad-9d8a-f4e9c4c49f7b
+Quelle: datenbank.xml
 Name: Atemtechnik
 title: Atemtechnik
 Kategorie: Kampf

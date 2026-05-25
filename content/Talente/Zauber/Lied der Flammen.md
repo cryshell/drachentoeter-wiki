@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 93014859-1bc5-4853-8a96-1988af474f3d
+ID: a31d4d6d-0d31-4d94-9a5c-85f21520632d
+Quelle: datenbank.xml
 Name: Lied der Flammen
 title: Lied der Flammen
 Kategorie: Zauber

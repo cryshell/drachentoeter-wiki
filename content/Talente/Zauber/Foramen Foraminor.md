@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 85a09c79-7b5f-4e92-9f07-b618b75f4267
+ID: e09d832a-21db-4735-a885-56804deac363
+Quelle: datenbank.xml
 Name: Foramen Foraminor
 title: Foramen Foraminor
 Kategorie: Zauber

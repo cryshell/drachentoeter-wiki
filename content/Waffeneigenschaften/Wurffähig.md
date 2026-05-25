@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffeneigenschaft
-ID:
+ID: bb924843-fb3b-4d14-9030-2e9d0186c7a9
+Quelle: datenbank.xml
 Name: Wurffähig
 title: Wurffähig
 ---

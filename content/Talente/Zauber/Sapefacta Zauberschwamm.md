@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: fdb6cb45-795d-4bc0-8f75-62cc503109bb
+ID: cf26f3bd-2e0f-47e4-bdb0-0c7e727a33d8
+Quelle: datenbank.xml
 Name: Sapefacta Zauberschwamm
 title: Sapefacta Zauberschwamm
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 7ba1c0da-f2ec-4106-942e-e0ccdd8a157c
+ID: 3fc83b99-b725-4680-8fa6-81bedf50f2cc
+Quelle: datenbank.xml
 Name: Friede
 title: Friede
 Kategorie: Karmale Riten

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 532c17dc-437d-46f8-a1ee-8916e7b82026
+ID: 5dddb8a3-4658-49eb-9318-d5b0f18ec013
+Quelle: datenbank.xml
 Name: Weisheitssegen
 title: Weisheitssegen
 Kategorie: Liturgien

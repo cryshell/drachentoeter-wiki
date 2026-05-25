@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 16f20024-b1c1-4547-8361-94b7e915a63e
+ID: 20fc973c-ae44-481e-a01e-624286421ec5
+Quelle: datenbank.xml
 Name: Ehrfürchtiges Verhalten
 title: Ehrfürchtiges Verhalten
 Kategorie: Zauber

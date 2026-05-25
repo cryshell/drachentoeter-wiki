@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: a0efef7f-7245-4dc5-af78-43c9a44bd3c9
+ID: 5b304d4a-b56d-4a99-8d87-fc186ba195aa
+Quelle: datenbank.xml
 Name: Zyklopäisches Ringen
 title: Zyklopäisches Ringen
 Kategorie: Kampf

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: e5b92af3-5a83-4db6-ba94-ca482dba31a7
+ID: c232bd57-0186-4bb1-82dc-699c147dcd8e
+Quelle: datenbank.xml
 Name: Wahre Namen Lolgramoths II
 title: Wahre Namen Lolgramoths II
 Kategorie: Wahre Namen
@@ -17,6 +18,6 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Geweiht I]] ODER Vorteil [[Paktierer I]]
   - Attribut [[Klugheit|KL]] 6
   - Vorteil [[Wahre Namen Lolgramoths I]]

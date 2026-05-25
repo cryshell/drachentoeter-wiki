@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 653f48ea-73a1-4e33-b814-f7f85824fadb
+ID: 9963f368-4055-4d0e-aad6-bb2333f3e4d1
+Quelle: datenbank.xml
 Name: Anrufung Belkelels
 title: Anrufung Belkelels
 Kategorie: Anrufungen

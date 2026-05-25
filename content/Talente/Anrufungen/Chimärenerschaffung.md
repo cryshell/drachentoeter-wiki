@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ee936149-3d44-44b7-bf03-1192a27efec1
+ID: b7fabc5e-2633-480d-afe2-9ce344d67a36
+Quelle: datenbank.xml
 Name: Chimärenerschaffung
 title: Chimärenerschaffung
 Kategorie: Anrufungen

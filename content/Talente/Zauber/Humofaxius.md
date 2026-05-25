@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 15cd955b-f3ad-427e-a239-e54727469773
+ID: 8a1ffbc9-099c-403f-bba3-948e4ae1faae
+Quelle: datenbank.xml
 Name: Humofaxius
 title: Humofaxius
 Kategorie: Zauber

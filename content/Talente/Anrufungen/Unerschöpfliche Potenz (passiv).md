@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5587c5f5-adb0-4b41-bb6b-dab0d7f3faf0
+ID: b6c8054d-bde9-4463-bb87-7369ccfa94af
+Quelle: datenbank.xml
 Name: Unerschöpfliche Potenz (passiv)
 title: Unerschöpfliche Potenz (passiv)
 Kategorie: Anrufungen

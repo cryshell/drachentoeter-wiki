@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b348bcf1-f934-4766-91e3-d100eb93bfae
+ID: 5c11f71d-d54f-4d9c-bccc-cec10e456483
+Quelle: datenbank.xml
 Name: Wipfellauf
 title: Wipfellauf
 Kategorie: Zauber

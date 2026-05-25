@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8b9a9eb0-398a-4d65-816f-7b42ec8fbaf5
+ID: ff78838c-7f8f-41b5-b639-2c5ebc238af7
+Quelle: datenbank.xml
 Name: Ein Bild für die Ewigkeit
 title: Ein Bild für die Ewigkeit
 Kategorie: Liturgien

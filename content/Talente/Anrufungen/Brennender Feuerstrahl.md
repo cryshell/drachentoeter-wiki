@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 94343b48-ad0a-4788-98c7-99e3debfaec8
+ID: 5c042a80-8850-412f-a3aa-cbe5b96a0229
+Quelle: datenbank.xml
 Name: Brennender Feuerstrahl
 title: Brennender Feuerstrahl
 Kategorie: Anrufungen

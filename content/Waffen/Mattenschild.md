@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 7006c195-0ffb-467e-9400-019df9e0614c
+ID: 42eadde3-715f-4e4d-abce-178b2c9f638a
+Quelle: datenbank.xml
 Name: Mattenschild
 title: Mattenschild
 Trefferpunkte: 1W6+-1

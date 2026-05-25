@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Fertigkeit
-ID: f2859215-52b4-4462-bf2b-23a462cab7a8
+ID: 0c6b8b7a-9fda-4eb9-88fc-c050826a322d
+Quelle: datenbank.xml
 Name: Seefahrt
 title: Seefahrt
 Kategorie: Körper

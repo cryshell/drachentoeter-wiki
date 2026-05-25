@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 32641df4-5fec-412b-a793-362fab2a7584
+ID: e240dc5c-86d9-4174-a800-3590640b6cf2
+Quelle: datenbank.xml
 Name: "Kommando: Kennt Keinen Schmerz!"
 title: "Kommando: Kennt Keinen Schmerz!"
 Kategorie: Kampf

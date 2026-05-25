@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: ddd15791-1061-42a0-b0a0-2bfd71171a2a
+ID: 460f376c-5971-41da-b953-8ad7cf29e7af
+Quelle: datenbank.xml
 Name: Magierdegen
 title: Magierdegen
 Trefferpunkte: 2W6+0

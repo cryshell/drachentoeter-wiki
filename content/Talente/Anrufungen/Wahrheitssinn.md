@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 147a0eee-0785-4e77-8c5b-645904fef1f3
+ID: cb574b3f-2dbe-49ee-b1c3-5f85a8daace0
+Quelle: datenbank.xml
 Name: Wahrheitssinn
 title: Wahrheitssinn
 Kategorie: Anrufungen

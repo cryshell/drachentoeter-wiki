@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 7b90d4bd-a302-4dcd-bb04-90439d787324
+ID: f62d0f88-83f8-4171-8fc7-e9a8a1b39caa
+Quelle: datenbank.xml
 Name: Hammerschlag
 title: Hammerschlag
 Kategorie: Kampf

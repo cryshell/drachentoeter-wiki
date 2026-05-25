@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 789c4647-7612-426d-85cd-a94f27d7a668
+ID: e45f2ee9-eb90-42f9-b8d6-ee675e334f4b
+Quelle: datenbank.xml
 Name: Liturgische Bindung
 title: Liturgische Bindung
 Kategorie: Liturgien

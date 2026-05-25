@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e864033c-b941-4d25-a7d5-6cb1dbd9ee9e
+ID: 3280c5bf-0db1-48da-943f-08ee29b1cfac
+Quelle: datenbank.xml
 Name: Blutsbund
 title: Blutsbund
 Kategorie: Zauber

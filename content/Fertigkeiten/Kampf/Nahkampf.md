@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 23459ce2-4ed9-49d5-8334-96aaeb69bc20
+ID: 87a77847-4da2-47ee-9654-e7139767b187
+Quelle: datenbank.xml
 Name: Nahkampf
 title: Nahkampf
 Kategorie: Kampf

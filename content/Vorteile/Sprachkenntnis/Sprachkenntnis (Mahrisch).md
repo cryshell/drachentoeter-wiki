@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: ae9686d3-b467-4a29-8664-ced54e7d1f22
+ID: b8c9cc62-5720-49a0-b5a7-1200f9d385ee
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Mahrisch)
 title: Sprachkenntnis (Mahrisch)
 Kategorie: Sprachkenntnis

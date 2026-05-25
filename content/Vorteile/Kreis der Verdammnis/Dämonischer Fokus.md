@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 80f17d71-7589-4f8e-8551-18d3b341dd74
+ID: 9d992b83-e1b1-4d6a-b647-311410335fa4
+Quelle: datenbank.xml
 Name: Dämonischer Fokus
 title: Dämonischer Fokus
 Kategorie: Kreis der Verdammnis

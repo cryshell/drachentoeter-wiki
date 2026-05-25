@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e9800c6d-b2f2-44fb-90f0-5df7bf8f35bd
+ID: b6cf9617-b9bc-44be-8069-4b574d20318a
+Quelle: datenbank.xml
 Name: Glyphe des verfluchten Goldes
 title: Glyphe des verfluchten Goldes
 Kategorie: Zauber

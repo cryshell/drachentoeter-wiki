@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c07a0eb5-1c6b-4c3b-837e-63993b46ab1f
+ID: a9ad18f1-2c58-4517-bdd0-f6fe603ad461
+Quelle: datenbank.xml
 Name: Wasseratem (Tiergeist)
 title: Wasseratem (Tiergeist)
 Kategorie: Zauber

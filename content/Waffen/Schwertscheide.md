@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: d22d24ac-ab4b-4ef9-8c4d-3462ec836894
+ID: ed45936c-e059-4d5a-9be0-4d8735b30eec
+Quelle: datenbank.xml
 Name: Schwertscheide
 title: Schwertscheide
 Trefferpunkte: 0W6+0

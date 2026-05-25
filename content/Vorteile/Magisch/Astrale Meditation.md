@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 1d79a2ef-16de-47b3-bdae-a4d74ebad887
+ID: 6caf2c69-5ef0-4764-96bd-b30ed2737f51
+Quelle: datenbank.xml
 Name: Astrale Meditation
 title: Astrale Meditation
 Kategorie: Magisch
@@ -16,6 +17,6 @@ Du kannst durch eine halbstündige Meditation deine Lebenskraft in Astralenergie
 
 - **Erlernen:** 40 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Vampir I]]
 - **Siehe auch:**
   - [[Regeneration]]

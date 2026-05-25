@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 34a64e90-ab98-4de0-a379-02c98f6fbadc
+ID: 3f75b7b5-2ed6-4f32-89fd-da034e00c431
+Quelle: datenbank.xml
 Name: Ogerschelle
 title: Ogerschelle
 Trefferpunkte: 3W6+2
@@ -26,5 +27,5 @@ Preis: 180
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
   - Wucht
-  - [[Schwer|Schwer (6)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (6)]]
   - [[Unberechenbar|Unberechenbar]]

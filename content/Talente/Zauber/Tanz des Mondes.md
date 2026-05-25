@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 935e3f05-eda8-4dfb-81f5-7b112659018d
+ID: 84c0f73b-7163-4931-b075-6184c4a40a74
+Quelle: datenbank.xml
 Name: Tanz des Mondes
 title: Tanz des Mondes
 Kategorie: Zauber

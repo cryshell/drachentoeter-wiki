@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c13b4fb4-bc27-4a9e-8d95-936690291bbe
+ID: 1333091b-4865-4285-a488-57379305f776
+Quelle: datenbank.xml
 Name: Beruhigen
 title: Beruhigen
 Kategorie: Profan

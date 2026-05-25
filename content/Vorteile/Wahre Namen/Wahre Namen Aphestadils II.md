@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 2022c39c-4a3e-498a-8b92-fb829fb651fe
+ID: bb2a90a7-8965-4826-80e3-09789c341224
+Quelle: datenbank.xml
 Name: Wahre Namen Aphestadils II
 title: Wahre Namen Aphestadils II
 Kategorie: Wahre Namen
@@ -17,6 +18,6 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 - **Erlernen:** 10 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Geweiht I]] ODER Vorteil [[Paktierer I]]
   - Attribut [[Klugheit|KL]] 6
   - Vorteil [[Wahre Namen Aphestadils I]]

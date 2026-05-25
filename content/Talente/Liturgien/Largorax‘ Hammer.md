@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5695c5bf-1066-456d-94e7-0b23151546d0
+ID: ab287f2b-bcdc-41d9-9e1d-e779a8d9edb3
+Quelle: datenbank.xml
 Name: Largorax‘ Hammer
 title: Largorax‘ Hammer
 Kategorie: Liturgien

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 6e40bf1e-de73-434d-94e2-76d29550ab93
+ID: 74e9b00a-2ed0-4e6c-adf0-41e3f9f28ad8
+Quelle: datenbank.xml
 Name: Armatrutz
 title: Armatrutz
 Kategorie: Zauber

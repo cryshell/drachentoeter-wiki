@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9d6c628a-1260-46f4-97d3-10b0f49215bf
+ID: b5af5bfb-4fb2-490a-8486-9517cc50004a
+Quelle: datenbank.xml
 Name: Schelmenkleister
 title: Schelmenkleister
 Kategorie: Zauber

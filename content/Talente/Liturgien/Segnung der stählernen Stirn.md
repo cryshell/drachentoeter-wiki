@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 24974251-53d3-462f-aac9-0793d6d8b6ac
+ID: 08f5577b-0e6b-4cb0-9282-bb33adeccd20
+Quelle: datenbank.xml
 Name: Segnung der stählernen Stirn
 title: Segnung der stählernen Stirn
 Kategorie: Liturgien

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8d79b2cd-de9d-4f55-af2c-0eadb49035af
+ID: 27c10b0b-bb78-4a89-98f8-809e75514f36
+Quelle: datenbank.xml
 Name: Daradors Bann der Schatten
 title: Daradors Bann der Schatten
 Kategorie: Liturgien

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 02493920-adb9-4ab1-8071-036dd8014b5c
+ID: 58cb6c20-7520-4dbc-b923-18b82a8212af
+Quelle: datenbank.xml
 Name: Pfeil des Erzes
 title: Pfeil des Erzes
 Kategorie: Zauber

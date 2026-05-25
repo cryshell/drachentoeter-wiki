@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e8e3dbbd-58e2-4b9e-afbf-45501750c581
+ID: f4e27a49-4e51-4241-943c-1cff1284c79d
+Quelle: datenbank.xml
 Name: Wellenlauf
 title: Wellenlauf
 Kategorie: Zauber

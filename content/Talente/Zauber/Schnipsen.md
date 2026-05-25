@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c6a11b1f-c5fe-4cea-9ff7-f168412128d1
+ID: cd6962f0-1b2a-4bb8-957d-57534886671f
+Quelle: datenbank.xml
 Name: Schnipsen
 title: Schnipsen
 Kategorie: Zauber

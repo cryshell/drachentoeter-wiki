@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 61edc349-3183-441b-9392-7e9285a5515e
+ID: 8f959dd9-9679-46a7-9546-039c672668d8
+Quelle: datenbank.xml
 Name: Holzschild, verstärkt
 title: Holzschild, verstärkt
 Trefferpunkte: 1W6+1
@@ -29,6 +30,6 @@ Preis: 50
 - **Waffeneigenschaften:**
   - Wucht
   - [[Schild|Schild]]
-  - [[Schwer|Schwer (4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (4)]]
   - [[Nebenhand|Nebenhand]]
   - [[Defensiv|Defensiv (1)]]

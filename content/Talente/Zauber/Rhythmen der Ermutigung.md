@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2f77b161-1a6c-4dde-8f22-042793410725
+ID: 5edb6fac-3d7d-4eef-a980-5cc69dd52453
+Quelle: datenbank.xml
 Name: Rhythmen der Ermutigung
 title: Rhythmen der Ermutigung
 Kategorie: Zauber

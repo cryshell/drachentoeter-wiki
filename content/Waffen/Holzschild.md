@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 109cd385-d226-4602-9b3c-81c79135815b
+ID: 26077af2-24a1-4cac-bbef-93fb06ddea3f
+Quelle: datenbank.xml
 Name: Holzschild
 title: Holzschild
 Trefferpunkte: 1W6+0
@@ -29,6 +30,6 @@ Preis: 40
 - **Waffeneigenschaften:**
   - Wucht
   - [[Schild|Schild]]
-  - [[Schwer|Schwer(4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer(4)]]
   - [[Nebenhand|Nebenhand]]
   - [[Defensiv|Defensiv (1)]]

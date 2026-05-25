@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 29c6002b-92c2-4f42-9202-b2e3c973d9e0
+ID: 12b0a3a9-a858-492a-bc1d-d3e8e2c14cb2
+Quelle: datenbank.xml
 Name: Astrale Aufladung
 title: Astrale Aufladung
 Kategorie: Zauber

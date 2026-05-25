@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ecd6b45f-36d9-41c1-a3c7-cb6434e254a9
+ID: 009cbcb5-5e3b-4a78-8340-d1c2bc6089f8
+Quelle: datenbank.xml
 Name: Holterdipolter
 title: Holterdipolter
 Kategorie: Zauber

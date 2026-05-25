@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 414a43c0-72d4-42e6-8c2b-7ab148dbf7f7
+ID: c5846fcf-9335-4a5a-91fb-084719f1a2bc
+Quelle: datenbank.xml
 Name: Herr der Flammen
 title: Herr der Flammen
 Kategorie: Zauber

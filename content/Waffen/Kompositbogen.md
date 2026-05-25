@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 43d78fa8-183f-4496-8498-6a03f7a5f367
+ID: 4a81ecbf-92ca-4997-a754-2d1059b80ae5
+Quelle: datenbank.xml
 Name: Kompositbogen
 title: Kompositbogen
 Trefferpunkte: 2W6+3
@@ -24,5 +25,5 @@ Fernkampf: true
 - **Fernkampf:** ja
 - **Waffeneigenschaften:**
   - Schuss
-  - [[Schwer|Schwer (6)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (6)]]
   - [[Zweihändig|Zweihändig]]

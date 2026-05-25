@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 67b86324-af24-42a7-9d65-594391f46dee
+ID: d5ce2d66-8cbd-40bd-ad78-5446933fd86a
+Quelle: datenbank.xml
 Name: Sichere Wanderung im Schnee
 title: Sichere Wanderung im Schnee
 Kategorie: Liturgien

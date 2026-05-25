@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 45cccd2b-36f6-4396-b866-8e25e7638cfb
+ID: 28a716d7-e585-4ac8-bfae-582bbf015f60
+Quelle: datenbank.xml
 Name: Zyklop, klein
 title: Zyklop, klein
 Trefferpunkte: 2W20+20

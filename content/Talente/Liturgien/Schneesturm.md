@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 4898cbc1-2294-45ca-9b78-5399393173e9
+ID: 05f8adb1-b88e-474f-a97b-d7f2098d1224
+Quelle: datenbank.xml
 Name: Schneesturm
 title: Schneesturm
 Kategorie: Liturgien

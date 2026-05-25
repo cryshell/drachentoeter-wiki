@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d05e57e8-e8f9-439e-8afc-b976969d229e
+ID: e677fb84-5123-47de-a3db-a4b06455aeff
+Quelle: datenbank.xml
 Name: Dämonische Bindung
 title: Dämonische Bindung
 Kategorie: Anrufungen

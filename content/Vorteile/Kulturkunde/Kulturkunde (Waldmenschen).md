@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 47361dd6-ad8a-4197-a3d4-4e5d8ffc750d
+ID: a1699662-5d5c-41cc-b4ac-0f5da5b11454
+Quelle: datenbank.xml
 Name: Kulturkunde (Waldmenschen)
 title: Kulturkunde (Waldmenschen)
 Kategorie: Kulturkunde

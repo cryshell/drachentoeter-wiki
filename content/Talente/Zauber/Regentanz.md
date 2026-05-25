@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5b08e955-e018-4a5c-85b3-e6ca7968001b
+ID: 9198c05e-5e70-4c40-8348-e74ff95ed81b
+Quelle: datenbank.xml
 Name: Regentanz
 title: Regentanz
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Attribut
-ID: 2855c4bc-1f60-4d30-bef3-4dc80317c006
+ID: 49dcf7b2-bed5-40f4-aba6-71cb0fd12c7a
+Quelle: datenbank.xml
 Name: Charisma
 title: Charisma
 Abkürzung: CH

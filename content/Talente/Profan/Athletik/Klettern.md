@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 41357dd4-f82e-49aa-8e3b-4cbd9a51d804
+ID: 8e7546d7-9bb8-4bb6-b60d-7d5c2a6af7c2
+Quelle: datenbank.xml
 Name: Klettern
 title: Klettern
 Kategorie: Profan

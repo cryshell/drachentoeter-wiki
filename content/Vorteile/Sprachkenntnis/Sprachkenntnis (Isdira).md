@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 89467edc-c27b-4dbd-b63c-386a053b093d
+ID: dea27d9f-b512-40fe-8617-ed8d16c33b07
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Isdira)
 title: Sprachkenntnis (Isdira)
 Kategorie: Sprachkenntnis

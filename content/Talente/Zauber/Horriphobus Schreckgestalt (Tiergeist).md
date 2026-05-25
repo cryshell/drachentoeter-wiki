@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 338328d4-459a-4ad8-821e-84088e3b84c3
+ID: 4eed835d-ed32-4a33-816f-cce74587f344
+Quelle: datenbank.xml
 Name: Horriphobus Schreckgestalt (Tiergeist)
 title: Horriphobus Schreckgestalt (Tiergeist)
 Kategorie: Zauber

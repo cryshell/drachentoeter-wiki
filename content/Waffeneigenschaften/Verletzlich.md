@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffeneigenschaft
-ID:
+ID: b9d8e759-aa83-47c3-9349-8dc84f14ba65
+Quelle: datenbank.xml
 Name: Verletzlich
 title: Verletzlich
 ---

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 412bed87-b801-4de1-9b3e-1cf3d55c105d
+ID: 06bce8a8-b58c-4f6d-a282-52cb665c0aec
+Quelle: datenbank.xml
 Name: Beeinflussung
 title: Beeinflussung
 Kategorie: Interaktion

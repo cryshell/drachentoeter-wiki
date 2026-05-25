@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 446336c7-f876-4ef1-bd62-fd68956120a0
+ID: 9e9da1b1-9204-4dd6-a4be-52cb2587efc7
+Quelle: datenbank.xml
 Name: Somnigravis
 title: Somnigravis
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 5932a2bf-3e69-4b00-960d-330d9b0bbdb2
+ID: 9132fc09-c21d-467c-bc29-5978a4deb0fe
+Quelle: datenbank.xml
 Name: Orknase (2H)
 title: Orknase (2H)
 Trefferpunkte: 2W6+4

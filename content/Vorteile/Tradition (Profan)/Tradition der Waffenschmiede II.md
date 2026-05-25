@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: a937ee99-e8b0-45e9-9b79-03c3952d7260
+ID: 474ecf14-1a27-42f1-bb23-357868bafde3
+Quelle: datenbank.xml
 Name: Tradition der Waffenschmiede II
 title: Tradition der Waffenschmiede II
 Kategorie: Tradition (Profan)
@@ -16,5 +17,5 @@ Du kannst die Modifikation Schaden erhöhen einmal ohne Erschwernis einsetzen.
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Attribut FF 6 ODER Attribut KK 6
+  - Attribut [[Fingerfertigkeit|FF]] 6 ODER Attribut [[Körperkraft|KK]] 6
   - Vorteil [[Tradition der Waffenschmiede I]]

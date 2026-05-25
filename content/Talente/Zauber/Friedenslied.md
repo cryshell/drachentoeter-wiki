@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 6b593cbf-4507-4048-87b2-6f6d2bffa3dd
+ID: 7a432b87-9b63-48a0-846d-38c77c7ee4b7
+Quelle: datenbank.xml
 Name: Friedenslied
 title: Friedenslied
 Kategorie: Zauber

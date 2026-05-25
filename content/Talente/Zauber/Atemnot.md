@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8f2eaaaa-c11e-4363-99f2-cc3d8ac8d890
+ID: 1ab6855c-e016-49bf-8f48-3e52e061ce54
+Quelle: datenbank.xml
 Name: Atemnot
 title: Atemnot
 Kategorie: Zauber

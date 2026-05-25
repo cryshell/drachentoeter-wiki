@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: bdc42534-f892-4383-b7fa-a3e6cec1e3d2
+ID: a2796506-1c3c-45bd-a9a6-7126a5a2b12c
+Quelle: datenbank.xml
 Name: Entgifterrune
 title: Entgifterrune
 Kategorie: Zauber

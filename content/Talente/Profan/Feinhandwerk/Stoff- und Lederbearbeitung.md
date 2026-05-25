@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 81bcba2f-30f0-4b59-bfec-f4879692fe3e
+ID: 8e35c534-b8bd-4084-99a2-77b0434ede3f
+Quelle: datenbank.xml
 Name: Stoff- und Lederbearbeitung
 title: Stoff- und Lederbearbeitung
 Kategorie: Profan

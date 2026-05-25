@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 19d0f0c7-8801-4325-a761-08512c215f90
+ID: a3308839-2cd3-42f9-afc1-238cf3295817
+Quelle: datenbank.xml
 Name: Ängste lindern (Tiergeist)
 title: Ängste lindern (Tiergeist)
 Kategorie: Zauber

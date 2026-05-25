@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 7ab86970-614b-41a9-b186-32a7a3779ed8
+ID: 4658149a-19d6-4ee8-a4ed-95bbc07a5b9b
+Quelle: datenbank.xml
 Name: Andergaster
 title: Andergaster
 Trefferpunkte: 3W6+3
@@ -28,6 +29,6 @@ Preis: 350
   - Hieb
   - Stich
   - [[Kopflastig|Kopflastig]]
-  - [[Schwer|Schwer (4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (4)]]
   - [[Zweihändig|Zweihändig]]
   - [[Mordhau|Mordhau]]

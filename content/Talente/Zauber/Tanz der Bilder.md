@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8ace52b7-57d2-4e0d-8df7-742a085c7b48
+ID: 424c6ee0-09fa-4454-a342-380555b6db7e
+Quelle: datenbank.xml
 Name: Tanz der Bilder
 title: Tanz der Bilder
 Kategorie: Zauber

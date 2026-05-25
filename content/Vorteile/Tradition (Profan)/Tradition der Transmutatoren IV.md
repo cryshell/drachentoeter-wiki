@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: fa8efa7a-62b2-431f-a7b7-f9fe9677aa87
+ID: c2fa93cb-0c8f-4b6d-9c70-c3d2f07dc8e5
+Quelle: datenbank.xml
 Name: Tradition der Transmutatoren IV
 title: Tradition der Transmutatoren IV
 Kategorie: Tradition (Profan)

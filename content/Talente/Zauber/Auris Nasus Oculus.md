@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 09c884d3-202c-4c29-ab68-f9bd5c556d00
+ID: e67a26da-3bcb-4f51-8392-12166438c3c4
+Quelle: datenbank.xml
 Name: Auris Nasus Oculus
 title: Auris Nasus Oculus
 Kategorie: Zauber

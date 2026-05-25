@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 36823121-df6b-42d6-857f-7029237f2b69
+ID: be1cd278-f5df-4d7b-a501-d013c2612576
+Quelle: datenbank.xml
 Name: Schriftkenntnis (Hjaldingsche Runen)
 title: Schriftkenntnis (Hjaldingsche Runen)
 Kategorie: Schriftkenntnis

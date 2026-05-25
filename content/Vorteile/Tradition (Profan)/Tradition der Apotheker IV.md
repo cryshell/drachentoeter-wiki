@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: f40a7b20-734f-4af0-9eff-da490ff857d3
+ID: 4a98fb2e-c1a9-430c-a651-eb78cba81658
+Quelle: datenbank.xml
 Name: Tradition der Apotheker IV
 title: Tradition der Apotheker IV
 Kategorie: Tradition (Profan)

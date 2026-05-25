@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 6a62c394-4d9e-4ddc-9b1e-eb7571ca5562
+ID: 4add404e-4bc4-4a71-83e1-14b79f3b76ed
+Quelle: datenbank.xml
 Name: Pandaemonium
 title: Pandaemonium
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 9485b678-6dcf-470c-b04e-117e470c8a4e
+ID: cfd7a152-e0a7-490c-bec9-2175bdb60e1e
+Quelle: datenbank.xml
 Name: Dolchzauber
 title: Dolchzauber
 Kategorie: Zauberfertigkeiten

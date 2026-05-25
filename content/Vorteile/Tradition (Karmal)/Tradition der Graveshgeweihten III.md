@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: b336e5ba-1419-4c44-b3f1-0a242ba45275
+ID: 5167bb66-d08d-4e1d-be53-849c15776b79
+Quelle: datenbank.xml
 Name: Tradition der Graveshgeweihten III
 title: Tradition der Graveshgeweihten III
 Kategorie: Tradition (Karmal)

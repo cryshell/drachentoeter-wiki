@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d4c98fea-d38c-426e-8d10-29d627a937d7
+ID: 2331e9d3-0580-4037-a097-7a5a6421d472
+Quelle: datenbank.xml
 Name: Heilungssegen
 title: Heilungssegen
 Kategorie: Liturgien

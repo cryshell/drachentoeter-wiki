@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2a79d5c4-6e3b-4e9e-b40e-a179918218fd
+ID: 1699021f-46e0-44eb-9485-66f772c7c1eb
+Quelle: datenbank.xml
 Name: Wachshaut
 title: Wachshaut
 Kategorie: Zauber

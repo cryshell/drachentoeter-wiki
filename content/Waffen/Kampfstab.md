@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: e728436d-3bc7-4438-9981-60a6e782aa6d
+ID: 9efeb818-9fe0-4728-a01b-6d4b66016adc
+Quelle: datenbank.xml
 Name: Kampfstab
 title: Kampfstab
 Trefferpunkte: 1W6+2

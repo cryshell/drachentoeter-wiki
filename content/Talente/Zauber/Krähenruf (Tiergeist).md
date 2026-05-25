@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5c30de58-82a5-4aa6-b610-655cccd9f92a
+ID: d57ff3e7-76d8-4381-b970-2c39ac13c3f7
+Quelle: datenbank.xml
 Name: Krähenruf (Tiergeist)
 title: Krähenruf (Tiergeist)
 Kategorie: Zauber

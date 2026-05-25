@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 80161927-446f-41c8-a077-b7cd25c462fb
+ID: d1cf2e0a-a470-4d99-b2d7-fe2351e90bac
+Quelle: datenbank.xml
 Name: Stoßspeer
 title: Stoßspeer
 Trefferpunkte: 3W6+3

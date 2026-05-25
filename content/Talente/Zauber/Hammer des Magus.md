@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: bfe58ad1-cf4a-4d9b-9e2b-d845c9f4b156
+ID: a1c4e7df-fe78-4844-a259-9781d80fd2ba
+Quelle: datenbank.xml
 Name: Hammer des Magus
 title: Hammer des Magus
 Kategorie: Zauber

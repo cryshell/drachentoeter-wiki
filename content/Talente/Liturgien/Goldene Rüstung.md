@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: dd089343-93da-4683-b0df-11585f3ef6b1
+ID: 5a470744-e5f5-4fe2-b4d5-236e5e113032
+Quelle: datenbank.xml
 Name: Goldene Rüstung
 title: Goldene Rüstung
 Kategorie: Liturgien

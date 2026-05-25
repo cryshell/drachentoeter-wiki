@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: df158dca-f904-444a-a273-1b91bda9ada1
+ID: 94ad1e12-eeb3-4482-8c6d-469ec52f29f4
+Quelle: datenbank.xml
 Name: Göttliche Nähe
 title: Göttliche Nähe
 Kategorie: Karmal

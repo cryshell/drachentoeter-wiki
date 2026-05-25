@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ce0bd9d6-a926-4c53-93ea-0f3996fba88d
+ID: 59810627-0d74-49e5-b4b7-c226c34c6a06
+Quelle: datenbank.xml
 Name: Reiten
 title: Reiten
 Kategorie: Profan

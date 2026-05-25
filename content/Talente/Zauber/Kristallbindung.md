@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 70524e36-2891-4c21-b8ab-fa776e320f13
+ID: d144386b-d6e4-44e4-bae8-f70667c0f3bb
+Quelle: datenbank.xml
 Name: Kristallbindung
 title: Kristallbindung
 Kategorie: Zauber

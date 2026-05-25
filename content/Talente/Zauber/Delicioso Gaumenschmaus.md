@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f799d892-4338-412f-9c21-b36ef196bed7
+ID: 4b1d3fb7-8537-4cda-84c8-cff8f626e352
+Quelle: datenbank.xml
 Name: Delicioso Gaumenschmaus
 title: Delicioso Gaumenschmaus
 Kategorie: Zauber

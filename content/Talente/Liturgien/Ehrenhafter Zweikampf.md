@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ad8e4be4-797f-4b84-93bb-a8b56733c326
+ID: 9ea49801-b275-44a4-86b3-b23a7e3c3d2b
+Quelle: datenbank.xml
 Name: Ehrenhafter Zweikampf
 title: Ehrenhafter Zweikampf
 Kategorie: Liturgien

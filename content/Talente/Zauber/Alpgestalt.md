@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 562c98c1-539f-407a-a6ea-d4b990e4c69d
+ID: e4b9231b-5794-49a3-9cc3-24bc58d0209d
+Quelle: datenbank.xml
 Name: Alpgestalt
 title: Alpgestalt
 Kategorie: Zauber

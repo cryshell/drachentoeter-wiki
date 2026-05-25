@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 4e00e5eb-fbd9-4556-b714-2da2912a792f
+ID: e96af276-20b3-4e46-87ae-eb666d9ea426
+Quelle: datenbank.xml
 Name: "Mirakel: Verschlagenheit"
 title: "Mirakel: Verschlagenheit"
 Kategorie: Liturgien

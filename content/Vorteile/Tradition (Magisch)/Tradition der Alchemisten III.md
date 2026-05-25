@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: bd3050b5-c5ac-4c4f-9393-41f212b5e25c
+ID: 2f2671d6-73a0-43e6-bb93-518876e6a97a
+Quelle: datenbank.xml
 Name: Tradition der Alchemisten III
 title: Tradition der Alchemisten III
 Kategorie: Tradition (Magisch)

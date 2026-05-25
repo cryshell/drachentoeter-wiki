@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1b1969b2-0dc3-42fe-80aa-307da439e5d6
+ID: f786b4f6-2a4d-4fe9-88b2-594858f8839a
+Quelle: datenbank.xml
 Name: Wandlung des Stabs
 title: Wandlung des Stabs
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 50e3b722-428a-4cb2-a3bf-47370668fde9
+ID: 0132ad6e-4950-4dc5-b6ef-7fe2f38b704d
+Quelle: datenbank.xml
 Name: Panzerarm
 title: Panzerarm
 Trefferpunkte: 1W6+2

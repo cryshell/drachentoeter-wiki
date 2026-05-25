@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: fbcf9a6a-a537-45f7-9674-575799329ed5
+ID: e4349185-7d97-42ca-bfc1-c95367cf07c1
+Quelle: datenbank.xml
 Name: Bindung des Vertrauten
 title: Bindung des Vertrauten
 Kategorie: Zauber

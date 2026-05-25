@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 948ca53e-ac8e-46ec-9f52-cf05daab6d8f
+ID: 58f2c167-017a-4905-abca-be1c94734b7a
+Quelle: datenbank.xml
 Name: Nebelgestalt
 title: Nebelgestalt
 Kategorie: Liturgien

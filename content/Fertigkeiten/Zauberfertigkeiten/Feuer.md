@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 8baaad9b-680a-4a02-bf9d-1b8c4bf73d09
+ID: 384267f7-0092-4531-bdd6-d19bf0a2de71
+Quelle: datenbank.xml
 Name: Feuer
 title: Feuer
 Kategorie: Zauberfertigkeiten

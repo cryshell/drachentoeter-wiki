@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffeneigenschaft
-ID:
+ID: 33e627e8-f317-40bc-9e3d-ba5e087bc53b
+Quelle: datenbank.xml
 Name: Schwer
 title: Schwer
 ---

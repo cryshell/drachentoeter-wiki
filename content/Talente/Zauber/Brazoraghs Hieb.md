@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 844bef9b-8460-4a84-aa6f-5cfb25890f7a
+ID: 335056d1-4ef3-47c9-bd0f-b95b2b3f4d98
+Quelle: datenbank.xml
 Name: Brazoraghs Hieb
 title: Brazoraghs Hieb
 Kategorie: Zauber

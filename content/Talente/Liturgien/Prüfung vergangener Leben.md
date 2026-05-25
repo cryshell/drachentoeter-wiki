@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9e64f503-d610-4992-a2f6-c66427c4f6ed
+ID: 96af779a-eba9-4a3d-bf21-3a69f05a6b04
+Quelle: datenbank.xml
 Name: Prüfung vergangener Leben
 title: Prüfung vergangener Leben
 Kategorie: Liturgien

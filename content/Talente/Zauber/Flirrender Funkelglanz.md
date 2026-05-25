@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 56c281b6-e64e-4eb3-994b-5a972824693a
+ID: 88ad5308-2811-4463-96d2-ad52da028705
+Quelle: datenbank.xml
 Name: Flirrender Funkelglanz
 title: Flirrender Funkelglanz
 Kategorie: Zauber

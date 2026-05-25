@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 39a2e3c4-4b5d-4813-8086-109061e09c05
+ID: 729a67b3-0d8c-463c-8e61-875d8f4a889c
+Quelle: datenbank.xml
 Name: Sinesigill Unerkannt
 title: Sinesigill Unerkannt
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a40e2c25-6a9c-46d3-9f18-13ecd8131abc
+ID: 6e9b1812-0919-4813-91a3-20c5683b70c4
+Quelle: datenbank.xml
 Name: Eiseskälte Kämpferherz
 title: Eiseskälte Kämpferherz
 Kategorie: Zauber

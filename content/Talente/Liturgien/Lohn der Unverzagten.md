@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 426e3d8c-b005-4bcd-a003-83ad39f6d581
+ID: 5a5d7a60-512e-464b-aabb-4dc575497bdd
+Quelle: datenbank.xml
 Name: Lohn der Unverzagten
 title: Lohn der Unverzagten
 Kategorie: Liturgien

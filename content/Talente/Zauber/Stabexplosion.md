@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d75e74a7-0325-4303-b62e-e04bb09b75aa
+ID: 796b202f-3368-46ea-baf9-a10bb785b9c3
+Quelle: datenbank.xml
 Name: Stabexplosion
 title: Stabexplosion
 Kategorie: Zauber

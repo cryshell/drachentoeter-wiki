@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c4b411f0-bbed-4ff1-80e2-feb3944cbc21
+ID: b3a4cbf3-8bcd-4b56-8020-a154cf89fffa
+Quelle: datenbank.xml
 Name: Xenographus Schriftenkunde
 title: Xenographus Schriftenkunde
 Kategorie: Zauber

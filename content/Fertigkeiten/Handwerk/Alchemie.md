@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 5f64f874-abc2-4032-870e-b2f85abba242
+ID: 924a3184-1e82-4931-b15c-c332f6836fe3
+Quelle: datenbank.xml
 Name: Alchemie
 title: Alchemie
 Kategorie: Handwerk

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: fcb6098b-d1b4-453c-96ec-d8d52cffb188
+ID: 8fa12f34-1f0c-4832-a39b-416b6c30f0cc
+Quelle: datenbank.xml
 Name: Siebenmeilenstiefel
 title: Siebenmeilenstiefel
 Kategorie: Anrufungen

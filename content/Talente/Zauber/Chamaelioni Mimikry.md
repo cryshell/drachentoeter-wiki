@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 7f7b2973-f074-4428-91f5-a516512121f7
+ID: 48ff8a35-5f51-43da-a2d0-d3720019b4eb
+Quelle: datenbank.xml
 Name: Chamaelioni Mimikry
 title: Chamaelioni Mimikry
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 089e3fee-29c5-460f-ada3-1abe3e88a674
+ID: 6abba7fc-cc22-4c3f-a343-fb12fd324d58
+Quelle: datenbank.xml
 Name: Tiergeist (Eule)
 title: Tiergeist (Eule)
 Kategorie: Tiergeist
@@ -27,8 +28,8 @@ Kosten: 0
 
 - **Erlernen:** 0 EP
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen () I|Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Schamanen (*) I]]
-  - Vorteil [[Tradition der Schamanen () I ODER Kein Vorteil Tiergeist ()|Tradition der Schamanen (*) I ODER Kein Vorteil Tiergeist (*)]]
+  - Vorteil [[Tradition der Anach-Nûrim I]] ODER Vorteil [[Tradition der Durro-Dûn I]] ODER Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]]
+  - Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]] ODER Kein Vorteil [[Tiergeist ()|Tiergeist (*)]]
 - **Siehe auch:**
   - [[Blick aufs Wesen]]
   - [[Exposami Lebenskraft]]

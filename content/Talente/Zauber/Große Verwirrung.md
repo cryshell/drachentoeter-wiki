@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9781b1bb-bffc-4e6b-9b3e-c744a69496a2
+ID: 3a74064e-4b0d-4681-844e-223f483715cf
+Quelle: datenbank.xml
 Name: Große Verwirrung
 title: Große Verwirrung
 Kategorie: Zauber

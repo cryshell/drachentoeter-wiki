@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1224abfe-970c-41c9-81a1-498826375b0d
+ID: c8202c12-2179-4269-a2ef-274e7fc4b2b1
+Quelle: datenbank.xml
 Name: Freundliche Aufnahme
 title: Freundliche Aufnahme
 Kategorie: Liturgien

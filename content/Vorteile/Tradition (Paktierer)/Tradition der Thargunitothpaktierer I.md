@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 2c6fcb2e-182c-4d7f-a3cb-8a64deb3b396
+ID: e47b1f33-51a4-4227-9873-97f62aacb85f
+Quelle: datenbank.xml
 Name: Tradition der Thargunitothpaktierer I
 title: Tradition der Thargunitothpaktierer I
 Kategorie: Tradition (Paktierer)

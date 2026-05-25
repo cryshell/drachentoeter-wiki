@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 918d966b-8a12-4d9f-84b6-977a70618de5
+ID: 394c9be1-463b-4d54-a01c-b0da72685082
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Atak)
 title: Sprachkenntnis (Atak)
 Kategorie: Sprachkenntnis

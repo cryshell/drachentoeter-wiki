@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 6bb4c393-f7e0-4ab8-92af-cc05f4a883cb
+ID: eccdfda7-0b39-43bb-bc86-aa3638d43e00
+Quelle: datenbank.xml
 Name: Eis
 title: Eis
 Kategorie: Zauberfertigkeiten

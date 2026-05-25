@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ac23d6d3-058e-4a70-b551-10fb7c702a78
+ID: 67dfefd4-c43c-4191-8dee-266f57c63ff7
+Quelle: datenbank.xml
 Name: Gesang der Wölfe
 title: Gesang der Wölfe
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 4f97c808-a53f-48ce-9a1e-7cf098ad8b9e
+ID: c0b4ede9-6933-4812-a796-37200ddcfc11
+Quelle: datenbank.xml
 Name: Angepasst (Gewässer)
 title: Angepasst (Gewässer)
 Kategorie: Profan

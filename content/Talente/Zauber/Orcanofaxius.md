@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a4fcd1c7-9611-44e1-860f-3f35b7c0258a
+ID: d3e47862-3b1c-4db9-896d-4b7c1cc3827c
+Quelle: datenbank.xml
 Name: Orcanofaxius
 title: Orcanofaxius
 Kategorie: Zauber

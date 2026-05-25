@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 63e6fd62-55a2-4fc0-bf47-99a0492c5922
+ID: 83a46e9a-8971-4aa7-91d6-e2f07c187cbd
+Quelle: datenbank.xml
 Name: Geräumiger Schuppenbeutel (passiv)
 title: Geräumiger Schuppenbeutel (passiv)
 Kategorie: Zauber

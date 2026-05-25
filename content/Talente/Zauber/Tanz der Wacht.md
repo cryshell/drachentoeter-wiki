@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2fb9f36f-4a26-4333-a160-7e699a434515
+ID: 57cc8fe7-186f-4a16-89a6-632b040be8dd
+Quelle: datenbank.xml
 Name: Tanz der Wacht
 title: Tanz der Wacht
 Kategorie: Zauber

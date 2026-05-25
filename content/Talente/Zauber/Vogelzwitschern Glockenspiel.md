@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 99e191dd-8e3a-476c-9fca-897c3de7de46
+ID: ec4d8f5d-fe2e-47ef-822c-9dcaa36923fb
+Quelle: datenbank.xml
 Name: Vogelzwitschern Glockenspiel
 title: Vogelzwitschern Glockenspiel
 Kategorie: Zauber

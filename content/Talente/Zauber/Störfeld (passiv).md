@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 4464e1be-8140-41f8-ace2-1cf92852a292
+ID: 49184231-6039-4c59-a8af-34212b0c944c
+Quelle: datenbank.xml
 Name: Störfeld (passiv)
 title: Störfeld (passiv)
 Kategorie: Zauber

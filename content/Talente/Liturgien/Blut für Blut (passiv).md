@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 86af2668-54e7-4f8d-b9b9-509b183c585d
+ID: d24a6c57-784a-493b-a5da-77ea52e1971d
+Quelle: datenbank.xml
 Name: Blut für Blut (passiv)
 title: Blut für Blut (passiv)
 Kategorie: Liturgien

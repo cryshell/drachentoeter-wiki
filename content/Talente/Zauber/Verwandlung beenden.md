@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9e665548-89f5-4aa7-a156-fed5783fb592
+ID: 91b89e33-ea4a-434b-a705-ccfb5daa9908
+Quelle: datenbank.xml
 Name: Verwandlung beenden
 title: Verwandlung beenden
 Kategorie: Zauber

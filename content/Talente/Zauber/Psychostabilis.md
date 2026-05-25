@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 722bfbdf-d0f7-4d7e-b781-aec0f445e934
+ID: dc30a685-8aa3-412f-8a2d-485f56399df0
+Quelle: datenbank.xml
 Name: Psychostabilis
 title: Psychostabilis
 Kategorie: Zauber

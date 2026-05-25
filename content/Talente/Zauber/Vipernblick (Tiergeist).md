@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 51045d26-3eb4-489e-b51d-8f0fccefeed8
+ID: ccd4eecd-3c93-4fc4-854f-4c35f65602e0
+Quelle: datenbank.xml
 Name: Vipernblick (Tiergeist)
 title: Vipernblick (Tiergeist)
 Kategorie: Zauber

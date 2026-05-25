@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: ad034a73-998a-4df6-a360-2fd737571be3
+ID: f436857d-1d84-410b-8c12-90c4589f3e95
+Quelle: datenbank.xml
 Name: Schnelle Heilung
 title: Schnelle Heilung
 Kategorie: Profan

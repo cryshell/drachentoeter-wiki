@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: c6f8e3a3-193a-460b-a190-3125b1705ef8
+ID: 2bdd4c5c-62af-47ff-8232-9d5331de87b3
+Quelle: datenbank.xml
 Name: Flinke Magie
 title: Flinke Magie
 Kategorie: Magisch
@@ -19,7 +20,7 @@ Du darfst die Aktion Übernatürliches wirken für Zauber in einer Bonusaktion d
 
 - **Erlernen:** 80 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Tradition der Borbaradianer I]]
   - Attribut [[Intuition|IN]] 10
 - **Siehe auch:**
   - [[Aktion Übernatürliches wirken]]

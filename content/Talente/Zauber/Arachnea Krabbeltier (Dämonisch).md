@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: cd30316e-c487-456d-99bf-76ae6eefff4b
+ID: fc7696b9-f553-4352-a01a-f75afd31c0f5
+Quelle: datenbank.xml
 Name: Arachnea Krabbeltier (Dämonisch)
 title: Arachnea Krabbeltier (Dämonisch)
 Kategorie: Zauber

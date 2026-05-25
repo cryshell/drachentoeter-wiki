@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c11b35f2-cd7e-4617-824b-f047fce85fa1
+ID: df065794-703a-48d2-a887-00243c9a008f
+Quelle: datenbank.xml
 Name: Lebenskraft des Dolches
 title: Lebenskraft des Dolches
 Kategorie: Zauber

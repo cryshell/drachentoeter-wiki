@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 28f74cc4-b7ed-4690-93af-79d1340177a5
+ID: 8ccd6dc0-0d81-4f6e-894a-ff152b7dd158
+Quelle: datenbank.xml
 Name: Luft
 title: Luft
 Kategorie: Zauberfertigkeiten

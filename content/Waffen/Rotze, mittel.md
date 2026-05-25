@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 0783db41-6264-4502-a649-5d415f983fd8
+ID: 39970de0-d079-46af-a106-d671867f8b11
+Quelle: datenbank.xml
 Name: Rotze, mittel
 title: Rotze, mittel
 Trefferpunkte: 3W6+6

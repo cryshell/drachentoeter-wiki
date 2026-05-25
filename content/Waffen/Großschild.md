@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 0cd63bf5-01d8-4360-9fb4-dc85bf686ff9
+ID: cfaccf9b-469a-4f4d-9402-f059c74ffa88
+Quelle: datenbank.xml
 Name: Großschild
 title: Großschild
 Trefferpunkte: 1W6+0
@@ -29,6 +30,6 @@ Preis: 100
 - **Waffeneigenschaften:**
   - Wucht
   - [[Schild|Schild]]
-  - [[Schwer|Schwer(6)]]
+  - [[Waffeneigenschaften/Schwer|Schwer(6)]]
   - [[Nebenhand|Nebenhand]]
   - [[Defensiv|Defensiv (2)]]

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 31dc93c5-deec-4717-b3a4-b89e071945aa
+ID: 38e6f016-e45b-4d6a-95cc-b6e980b2c026
+Quelle: datenbank.xml
 Name: Incendio
 title: Incendio
 Kategorie: Zauber

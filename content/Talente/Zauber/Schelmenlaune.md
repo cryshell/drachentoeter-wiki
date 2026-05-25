@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9353909f-9ba1-4605-8e2f-c2d6cfd40693
+ID: 3f733c8c-8e44-4879-97ff-9eeffef3c6f9
+Quelle: datenbank.xml
 Name: Schelmenlaune
 title: Schelmenlaune
 Kategorie: Zauber

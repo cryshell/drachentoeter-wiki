@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f95a9a4f-a18a-45e1-b682-258dd442b8c3
+ID: 1ddd4968-a97b-42b4-a95a-099d6b7bf4a8
+Quelle: datenbank.xml
 Name: "Dämonische Stärkung: Verschlagenheit"
 title: "Dämonische Stärkung: Verschlagenheit"
 Kategorie: Anrufungen

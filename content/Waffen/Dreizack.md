@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: bf7a0aad-e6c8-4cbb-b75e-4c1952ea2301
+ID: 8306a07c-3a25-4ee8-bc69-4697c4488b88
+Quelle: datenbank.xml
 Name: Dreizack
 title: Dreizack
 Trefferpunkte: 2W6+1

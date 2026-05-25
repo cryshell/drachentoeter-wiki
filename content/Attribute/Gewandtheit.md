@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Attribut
-ID: 84df2a7c-7a64-4b0c-9524-66abb0490a71
+ID: 69ccf63d-7077-4947-bb5d-54675b715f4c
+Quelle: datenbank.xml
 Name: Gewandtheit
 title: Gewandtheit
 Abkürzung: GE

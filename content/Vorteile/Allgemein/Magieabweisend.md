@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 9ebe3eae-2fa6-48d1-a456-1d99835f143a
+ID: 114e996b-95b3-4e3f-afa3-7897dc150ddb
+Quelle: datenbank.xml
 Name: Magieabweisend
 title: Magieabweisend
 Kategorie: Allgemein

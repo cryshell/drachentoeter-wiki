@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: b6fd8da3-fff8-40a1-a96b-c1afe941c935
+ID: 6c1f21e2-691d-494e-bcb0-199d8991f7d1
+Quelle: datenbank.xml
 Name: Ruhige Hand
 title: Ruhige Hand
 Kategorie: Kampf

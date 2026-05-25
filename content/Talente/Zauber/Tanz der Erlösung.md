@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2a490386-046c-4f07-b9b6-b579514fef60
+ID: 2908a830-e9a6-46a8-8aab-213217f3fc25
+Quelle: datenbank.xml
 Name: Tanz der Erlösung
 title: Tanz der Erlösung
 Kategorie: Zauber

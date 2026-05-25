@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: cc609d21-8e7b-4292-a92a-ece417a1b28a
+ID: 76a1326e-8643-46f0-976e-656294cf861c
+Quelle: datenbank.xml
 Name: Tradition der Rondrageweihten II
 title: Tradition der Rondrageweihten II
 Kategorie: Tradition (Karmal)

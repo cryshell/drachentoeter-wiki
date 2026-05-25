@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 042ac617-f4c4-465d-93c6-8efa2bc5590b
+ID: d0864b00-7bbe-4e5d-bbf2-d0915899a3b6
+Quelle: datenbank.xml
 Name: Nagrachs Hauch
 title: Nagrachs Hauch
 Kategorie: Anrufungen

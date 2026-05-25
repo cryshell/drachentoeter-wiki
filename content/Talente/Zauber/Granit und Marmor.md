@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d6f15a20-acae-44ee-aebf-136e76f022fc
+ID: cd8b6f60-d2d3-4f97-a006-f992de3b069a
+Quelle: datenbank.xml
 Name: Granit und Marmor
 title: Granit und Marmor
 Kategorie: Zauber

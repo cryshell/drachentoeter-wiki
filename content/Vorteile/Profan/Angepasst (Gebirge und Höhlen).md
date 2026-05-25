@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 1dd49db5-4806-4c61-90e9-9f7b3a2778f8
+ID: 2e7bee04-a823-4ff6-b7ac-597b4c90cda8
+Quelle: datenbank.xml
 Name: Angepasst (Gebirge und Höhlen)
 title: Angepasst (Gebirge und Höhlen)
 Kategorie: Profan

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 4c6ce412-c771-413a-88e5-d1a324529dec
+ID: 5a226d5a-c04f-4fb2-aa5a-d327605320a2
+Quelle: datenbank.xml
 Name: Magietheorie
 title: Magietheorie
 Kategorie: Profan

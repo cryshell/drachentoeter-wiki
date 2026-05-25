@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: a84efcf0-1521-4182-9b3d-b27e3d402b1c
+ID: 043dba4d-90fe-44a5-88c3-67a3d8ef8c08
+Quelle: datenbank.xml
 Name: Windenarmbrust
 title: Windenarmbrust
 Trefferpunkte: 3W6+4
@@ -24,6 +25,6 @@ Fernkampf: true
 - **Fernkampf:** ja
 - **Waffeneigenschaften:**
   - Schuss
-  - [[Schwer|Schwer (6)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (6)]]
   - [[Spannschloss|Spannschloss]]
   - [[Zweihändig|Zweihändig]]

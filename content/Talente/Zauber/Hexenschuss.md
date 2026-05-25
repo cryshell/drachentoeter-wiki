@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0dfb7dbb-6ca3-4290-b8d0-cd31b2cc2b22
+ID: f93281f3-1b4d-43bc-94d2-a0ac75472753
+Quelle: datenbank.xml
 Name: Hexenschuss
 title: Hexenschuss
 Kategorie: Zauber

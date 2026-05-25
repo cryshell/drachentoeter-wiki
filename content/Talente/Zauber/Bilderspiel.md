@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b4bd516e-59e1-4ffe-a549-4c0a5e7ce74b
+ID: a66470da-0f06-4101-8e32-277544a26b8b
+Quelle: datenbank.xml
 Name: Bilderspiel
 title: Bilderspiel
 Kategorie: Zauber

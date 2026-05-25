@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 5591170c-c3d5-407c-854e-334f675d5089
+ID: 676531c4-c071-4680-a745-82eda2eea09f
+Quelle: datenbank.xml
 Name: Zaubertänze
 title: Zaubertänze
 Kategorie: Zauberfertigkeiten

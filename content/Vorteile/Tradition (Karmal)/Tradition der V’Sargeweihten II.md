@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 1ad9981f-a1b9-4471-b948-c18d35b258bc
+ID: 65d9c032-9b2b-4f34-aa4c-c714f85f468d
+Quelle: datenbank.xml
 Name: Tradition der V’Sargeweihten II
 title: Tradition der V’Sargeweihten II
 Kategorie: Tradition (Karmal)

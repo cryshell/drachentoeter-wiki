@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a6d0eee7-5488-47d4-abe1-e1289ee8fe39
+ID: 84a169db-8695-46c5-948d-731696faaeb4
+Quelle: datenbank.xml
 Name: Gebet des kristallklaren Blicks
 title: Gebet des kristallklaren Blicks
 Kategorie: Liturgien

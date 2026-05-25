@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 83370d1c-6338-4e6c-9f80-98d6159c68d3
+ID: bb3df349-3569-4c56-a130-8452109b03a0
+Quelle: datenbank.xml
 Name: Meister der Bestien
 title: Meister der Bestien
 Kategorie: Kampf

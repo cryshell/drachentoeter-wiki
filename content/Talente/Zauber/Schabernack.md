@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 7923d0a5-e71f-4887-aebc-eb6ab920e6b1
+ID: 20046250-df82-42b6-ba11-341520b8459e
+Quelle: datenbank.xml
 Name: Schabernack
 title: Schabernack
 Kategorie: Zauber

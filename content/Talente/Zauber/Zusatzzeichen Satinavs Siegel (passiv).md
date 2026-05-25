@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 919ecd3d-e5f7-466d-a492-ecfa125dfe73
+ID: 4da9936b-3ced-4b4e-aefa-0a3008eaf534
+Quelle: datenbank.xml
 Name: Zusatzzeichen Satinavs Siegel (passiv)
 title: Zusatzzeichen Satinavs Siegel (passiv)
 Kategorie: Zauber

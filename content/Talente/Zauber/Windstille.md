@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 37879556-f028-4684-a89d-e232b2f22b1c
+ID: b29e71ec-122a-47e1-810f-ef8a95515347
+Quelle: datenbank.xml
 Name: Windstille
 title: Windstille
 Kategorie: Zauber

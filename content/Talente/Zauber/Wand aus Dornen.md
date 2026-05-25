@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 12715e7a-d100-4bb8-a949-03519a7603a7
+ID: 8c1f97c2-620f-4a84-806a-ba4c6b14578b
+Quelle: datenbank.xml
 Name: Wand aus Dornen
 title: Wand aus Dornen
 Kategorie: Zauber

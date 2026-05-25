@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 0c9ab89c-6e7d-4629-9445-42547d5c6156
+ID: b563cae1-c7ae-4f1b-845b-f900929e84ce
+Quelle: datenbank.xml
 Name: Gebieter der Urgewalten
 title: Gebieter der Urgewalten
 Kategorie: Magisch
@@ -19,7 +20,7 @@ Gebundene Elementare kosten nur noch die halben gAsP und eine misslungene Beherr
 
 - **Erlernen:** 80 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Vampir I]]
   - Attribut [[Charisma|CH]] 10
 - **Siehe auch:**
   - [[Beschwörungen]]

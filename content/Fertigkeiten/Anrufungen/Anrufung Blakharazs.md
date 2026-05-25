@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 6d9bca4d-fcb3-4d57-9236-bffded438375
+ID: d2247e49-0be0-4caf-878f-d8ba57463b03
+Quelle: datenbank.xml
 Name: Anrufung Blakharazs
 title: Anrufung Blakharazs
 Kategorie: Anrufungen

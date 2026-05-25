@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 5a077711-9832-4fe2-b06a-dc47d410497d
+ID: d632bd5c-1333-432d-88c5-494a2b4d5888
+Quelle: datenbank.xml
 Name: Schwanz
 title: Schwanz
 Trefferpunkte: 1W6+0

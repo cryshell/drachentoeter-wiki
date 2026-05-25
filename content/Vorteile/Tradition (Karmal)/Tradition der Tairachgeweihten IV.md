@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 4cc00741-2a52-4dc3-99a1-e5822f667ca1
+ID: 75212f43-71c3-4566-aa08-bcf18a2f3683
+Quelle: datenbank.xml
 Name: Tradition der Tairachgeweihten IV
 title: Tradition der Tairachgeweihten IV
 Kategorie: Tradition (Karmal)

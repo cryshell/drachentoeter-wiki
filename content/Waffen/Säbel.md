@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 0dac842d-f5d6-4558-8226-bba6a167950d
+ID: 4e05ccae-3ef3-4c2f-ad35-6a06879206cc
+Quelle: datenbank.xml
 Name: Säbel
 title: Säbel
 Trefferpunkte: 2W6+2

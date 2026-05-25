@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 37e61365-109a-493a-9cc2-e76021ae9019
+ID: 3580b3d7-c13d-4e98-8dcd-95b452708957
+Quelle: datenbank.xml
 Name: Tradition der Alchemisten I
 title: Tradition der Alchemisten I
 Kategorie: Tradition (Magisch)

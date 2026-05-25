@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 1985a1c2-f4a5-4d39-8407-bf1c81016781
+ID: a3683291-415b-45f5-9676-fe5c727cff0c
+Quelle: datenbank.xml
 Name: Wahre Namen des Humus IV
 title: Wahre Namen des Humus IV
 Kategorie: Wahre Namen
@@ -17,6 +18,6 @@ Kosten: 20
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Geweiht I]] ODER Vorteil [[Paktierer I]]
   - MeisterAttribut [[Klugheit|KL]] 10
   - Vorteil [[Wahre Namen des Humus III]]

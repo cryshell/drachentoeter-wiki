@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 84d6c23e-d7ee-49d6-8290-6844cb195677
+ID: 9cfaa2ed-b79a-4ea4-804e-6613811e34fd
+Quelle: datenbank.xml
 Name: Aerofugo Vakuum
 title: Aerofugo Vakuum
 Kategorie: Zauber

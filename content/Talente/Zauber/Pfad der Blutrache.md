@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 71db0e1d-0cbf-44e2-9076-981f1da64b0e
+ID: fd8fdae9-7270-48e5-940a-0799dd8ea04e
+Quelle: datenbank.xml
 Name: Pfad der Blutrache
 title: Pfad der Blutrache
 Kategorie: Zauber

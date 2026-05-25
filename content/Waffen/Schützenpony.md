@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: cb406f5c-e33c-4eac-9f54-fc5391bd6cce
+ID: 2a3a90c8-70bd-45e7-a7ef-6a64eb0ad24c
+Quelle: datenbank.xml
 Name: Schützenpony
 title: Schützenpony
 Trefferpunkte: 1W6+2

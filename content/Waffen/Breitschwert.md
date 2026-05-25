@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 38ff389b-7213-4382-8681-8e63fbd66c4b
+ID: 173bc970-edb3-484a-b056-ce75eb737b5a
+Quelle: datenbank.xml
 Name: Breitschwert
 title: Breitschwert
 Trefferpunkte: 2W6+3

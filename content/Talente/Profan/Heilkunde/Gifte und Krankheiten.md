@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 996d1c9d-0020-4ffe-ad49-a937d6b76f04
+ID: 9fbe5621-149a-4dfc-afa3-efad11dabb18
+Quelle: datenbank.xml
 Name: Gifte und Krankheiten
 title: Gifte und Krankheiten
 Kategorie: Profan

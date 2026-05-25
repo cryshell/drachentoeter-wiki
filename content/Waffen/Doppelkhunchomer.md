@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 61a7ccdc-c516-4d33-9a14-4f805a581c29
+ID: feb21079-2110-47ba-9ebe-e5382b9871f1
+Quelle: datenbank.xml
 Name: Doppelkhunchomer
 title: Doppelkhunchomer
 Trefferpunkte: 2W6+3
@@ -27,5 +28,5 @@ Preis: 250
 - **Waffeneigenschaften:**
   - Hieb
   - [[Kopflastig|Kopflastig]]
-  - [[Schwer|Schwer (4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (4)]]
   - [[Zweihändig|Zweihändig]]

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 0c90baf3-7f05-4ae2-8088-eafe89c33d8a
+ID: 5e37fa98-da7e-4ba3-b15b-1b2e7bd6d6d9
+Quelle: datenbank.xml
 Name: Kettenkugel
 title: Kettenkugel
 Trefferpunkte: 3W6+2
@@ -25,6 +26,6 @@ Preis: 150
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
   - Wucht
-  - [[Schwer|Schwer(6)]]
+  - [[Waffeneigenschaften/Schwer|Schwer(6)]]
   - [[Unberechenbar|Unberechenbar]]
   - [[Zweihändig|Zweihändig]]

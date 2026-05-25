@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 32962fb7-c5cf-4599-a13f-083cd53a78c8
+ID: 05d69de2-c267-4889-8ce1-cef65b557659
+Quelle: datenbank.xml
 Name: Geisterbann des Dolches
 title: Geisterbann des Dolches
 Kategorie: Zauber

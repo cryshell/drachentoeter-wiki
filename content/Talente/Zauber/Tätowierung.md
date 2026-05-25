@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5e403645-3635-4d9c-8541-ab774333fbb4
+ID: 51b180c4-aa29-4c89-9850-ab725e5eb9bc
+Quelle: datenbank.xml
 Name: Tätowierung
 title: Tätowierung
 Kategorie: Zauber

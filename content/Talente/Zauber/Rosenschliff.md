@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 560a5bee-9af4-4307-8eaa-6f132195b2c7
+ID: 6472d081-fbf8-4068-bf70-00a673862045
+Quelle: datenbank.xml
 Name: Rosenschliff
 title: Rosenschliff
 Kategorie: Zauber

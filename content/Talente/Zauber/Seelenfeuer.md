@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d25fe87c-9b61-481b-b765-6eece8736173
+ID: 631a5989-ce87-4206-9f71-e8203f025219
+Quelle: datenbank.xml
 Name: Seelenfeuer
 title: Seelenfeuer
 Kategorie: Zauber

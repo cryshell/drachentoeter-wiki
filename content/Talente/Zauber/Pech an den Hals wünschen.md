@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b4fdf763-52c5-4f9d-a567-12937a4fc76d
+ID: 6c4399f0-c206-403d-a2c4-be921a69c730
+Quelle: datenbank.xml
 Name: Pech an den Hals wünschen
 title: Pech an den Hals wünschen
 Kategorie: Zauber

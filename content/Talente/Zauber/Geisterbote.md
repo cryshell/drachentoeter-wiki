@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1307028d-e1b8-4e2c-85cc-a00e5e46ef71
+ID: 8118e488-0910-489a-a4d6-aec477d8ce63
+Quelle: datenbank.xml
 Name: Geisterbote
 title: Geisterbote
 Kategorie: Zauber

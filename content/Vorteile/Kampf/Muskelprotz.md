@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 0a0bc526-f8cd-4336-811c-8c70a8c5183f
+ID: 6decfbf4-71ca-4361-b629-d0ffabdec72b
+Quelle: datenbank.xml
 Name: Muskelprotz
 title: Muskelprotz
 Kategorie: Kampf

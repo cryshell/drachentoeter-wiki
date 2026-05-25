@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: a6de7e9f-06e5-4e5a-ad25-577232e4aee6
+ID: b49d38e1-3f73-40ad-b12b-0d3fe3026503
+Quelle: datenbank.xml
 Name: Antimagie
 title: Antimagie
 Kategorie: Zauberfertigkeiten

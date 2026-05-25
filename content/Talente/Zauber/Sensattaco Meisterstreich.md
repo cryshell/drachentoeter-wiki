@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e17db51c-4356-4471-bc1e-82ab458c2b07
+ID: 150b1b1a-fcda-42ae-bbbd-31a3a2f41789
+Quelle: datenbank.xml
 Name: Sensattaco Meisterstreich
 title: Sensattaco Meisterstreich
 Kategorie: Zauber

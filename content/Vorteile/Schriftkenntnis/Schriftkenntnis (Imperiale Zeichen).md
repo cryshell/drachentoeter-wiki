@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 771d022d-9601-4c1e-84fd-5994a747cf64
+ID: d420b694-ecdb-4183-9063-b250026d3d55
+Quelle: datenbank.xml
 Name: Schriftkenntnis (Imperiale Zeichen)
 title: Schriftkenntnis (Imperiale Zeichen)
 Kategorie: Schriftkenntnis

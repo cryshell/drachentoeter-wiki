@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: fb9b9034-630c-430f-be98-e67dfd518ebd
+ID: 7957504f-57ce-4c08-a006-8469717d5425
+Quelle: datenbank.xml
 Name: Tairachs Fluch
 title: Tairachs Fluch
 Kategorie: Liturgien

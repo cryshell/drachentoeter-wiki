@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: d2ab9bdc-4985-4ba6-9088-476071b96074
+ID: 3d280d98-ab1f-4ae5-98d9-d7649de9ea85
+Quelle: datenbank.xml
 Name: Langdolch
 title: Langdolch
 Trefferpunkte: 1W6+2

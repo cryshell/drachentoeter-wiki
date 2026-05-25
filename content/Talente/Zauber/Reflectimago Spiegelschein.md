@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 37546ee2-c209-46c8-8723-c2d406f0729b
+ID: 3ecdbff1-0ae3-4e86-a0a6-f5c9123429e1
+Quelle: datenbank.xml
 Name: Reflectimago Spiegelschein
 title: Reflectimago Spiegelschein
 Kategorie: Zauber

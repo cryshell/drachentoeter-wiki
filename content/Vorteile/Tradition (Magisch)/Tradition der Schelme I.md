@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 267689b0-dee2-4b45-869b-52ce2037468d
+ID: 6b506e70-40ae-4a72-a3f7-62d73ce2b3d7
+Quelle: datenbank.xml
 Name: Tradition der Schelme I
 title: Tradition der Schelme I
 Kategorie: Tradition (Magisch)

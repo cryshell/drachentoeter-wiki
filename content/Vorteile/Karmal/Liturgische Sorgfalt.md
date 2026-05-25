@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 56a4de00-fd51-4677-b5f0-75063d016d8f
+ID: 0a17a276-40c0-49ff-83fb-f37288caaa95
+Quelle: datenbank.xml
 Name: Liturgische Sorgfalt
 title: Liturgische Sorgfalt
 Kategorie: Karmal

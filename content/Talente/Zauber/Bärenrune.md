@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9a1e5ebd-d403-4fa5-9336-b25250707d14
+ID: fd143104-644b-4740-b090-aa99304cf4ed
+Quelle: datenbank.xml
 Name: Bärenrune
 title: Bärenrune
 Kategorie: Zauber

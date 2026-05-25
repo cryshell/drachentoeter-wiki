@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 83e28ff4-0387-4282-9277-356b161122bf
+ID: 73c712ec-655e-4789-97c8-28347888849d
+Quelle: datenbank.xml
 Name: Holzspeer (Wurfspeere)
 title: Holzspeer (Wurfspeere)
 Trefferpunkte: 2W6+-1

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e0f8cde1-baf6-49cf-9b85-9f59619e71b8
+ID: 0607c136-8e2f-4cec-803c-7efe0e75f931
+Quelle: datenbank.xml
 Name: Apport des Bannschwerts
 title: Apport des Bannschwerts
 Kategorie: Zauber

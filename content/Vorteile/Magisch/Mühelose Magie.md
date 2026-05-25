@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 88d83e76-e92c-4286-9c30-bdbd311c8f49
+ID: a4389b7b-a40e-4877-8e24-c12c1e0ff34f
+Quelle: datenbank.xml
 Name: Mühelose Magie
 title: Mühelose Magie
 Kategorie: Magisch
@@ -16,5 +17,5 @@ Zeigt der gewertete Würfel bei einem Zauber eine 16 oder höher, erhält der Za
 
 - **Erlernen:** 60 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Vampir I]]
   - Attribut [[Intuition|IN]] 8

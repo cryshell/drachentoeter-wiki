@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 835edeaa-ef6a-462d-806c-1fa1de7d1c88
+ID: a6668a5d-8ea1-4252-9a9e-8a786af76a3d
+Quelle: datenbank.xml
 Name: Fluch der Götter (Satuaria)
 title: Fluch der Götter (Satuaria)
 Kategorie: Nachteil

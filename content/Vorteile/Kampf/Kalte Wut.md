@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 75dcf7e8-6ad8-4b3e-abbe-5f3148a88143
+ID: ee97f4ca-fc83-4618-9632-1f81392db860
+Quelle: datenbank.xml
 Name: Kalte Wut
 title: Kalte Wut
 Kategorie: Kampf

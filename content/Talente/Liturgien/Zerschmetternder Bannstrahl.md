@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 55097602-ec8f-453f-a3a4-119f4af15691
+ID: 98bd055b-2c99-47ae-8949-f1774d69c5ca
+Quelle: datenbank.xml
 Name: Zerschmetternder Bannstrahl
 title: Zerschmetternder Bannstrahl
 Kategorie: Liturgien

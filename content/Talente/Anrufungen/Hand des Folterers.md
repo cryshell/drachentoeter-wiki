@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5c609839-c22c-4046-a20b-cbbf0574803a
+ID: 307e86a7-096f-4a8f-a63b-c53be5d3e515
+Quelle: datenbank.xml
 Name: Hand des Folterers
 title: Hand des Folterers
 Kategorie: Anrufungen

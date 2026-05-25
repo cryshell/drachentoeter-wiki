@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: c3c3273c-0b8d-4e84-819d-b96dd26e96bb
+ID: 7a17f3ec-b2d8-4add-91ef-d96af569d067
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Aureliani)
 title: Sprachkenntnis (Aureliani)
 Kategorie: Sprachkenntnis

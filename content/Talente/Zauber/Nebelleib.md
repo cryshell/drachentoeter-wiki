@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: da8dc4b9-d706-41c3-b11e-7f04cecf046a
+ID: 0ec3d43f-595f-4cba-b42c-49d7d3115a08
+Quelle: datenbank.xml
 Name: Nebelleib
 title: Nebelleib
 Kategorie: Zauber

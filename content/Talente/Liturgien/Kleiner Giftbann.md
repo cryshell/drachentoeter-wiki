@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5d63cfbf-0dc4-4263-95f3-65184a9c8d19
+ID: 1da109c7-b3cf-4564-9f4b-6c15b36e2056
+Quelle: datenbank.xml
 Name: Kleiner Giftbann
 title: Kleiner Giftbann
 Kategorie: Liturgien

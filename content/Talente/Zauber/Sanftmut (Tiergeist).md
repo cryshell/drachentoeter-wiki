@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 14946a30-0ec4-4613-909f-38d0f076d615
+ID: ed13dc96-5e91-4ec5-b175-f9e777924983
+Quelle: datenbank.xml
 Name: Sanftmut (Tiergeist)
 title: Sanftmut (Tiergeist)
 Kategorie: Zauber

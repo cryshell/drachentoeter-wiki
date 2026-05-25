@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ca17c82b-49a6-42cb-9df9-632b6c392c67
+ID: a037c041-5520-4211-b399-074fa24cce75
+Quelle: datenbank.xml
 Name: Tropfenschliff
 title: Tropfenschliff
 Kategorie: Zauber

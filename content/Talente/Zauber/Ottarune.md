@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b394c1ae-73cb-4fd8-83a8-5e7aef97e8fa
+ID: dcc215e8-4782-4520-bfa3-c24070ae774d
+Quelle: datenbank.xml
 Name: Ottarune
 title: Ottarune
 Kategorie: Zauber

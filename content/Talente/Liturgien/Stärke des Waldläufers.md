@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 20461dc3-3a39-4664-8a9c-8afac17fa484
+ID: 4c7c1d47-f690-46b5-9d98-43959397ada1
+Quelle: datenbank.xml
 Name: Stärke des Waldläufers
 title: Stärke des Waldläufers
 Kategorie: Liturgien

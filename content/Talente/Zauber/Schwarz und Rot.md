@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8d279c78-20b1-4798-bf7d-46b8563ebc66
+ID: beb441af-0aca-49f8-988e-c4b0ce135b90
+Quelle: datenbank.xml
 Name: Schwarz und Rot
 title: Schwarz und Rot
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 6fda6f44-54cd-4d8f-be4d-0066c2375f39
+ID: 2c4154bd-bdd6-4d02-8c08-dc21680b961b
+Quelle: datenbank.xml
 Name: Haumesser
 title: Haumesser
 Trefferpunkte: 1W6+3

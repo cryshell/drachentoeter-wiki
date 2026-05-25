@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: c98c2d8d-fcf3-484b-8020-971aa340bd10
+ID: 16c813f5-06b2-456f-a33c-4691e66872b0
+Quelle: datenbank.xml
 Name: Neubeginn
 title: Neubeginn
 Kategorie: Karmale Riten

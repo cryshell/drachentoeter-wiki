@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: d710edd2-b473-4bac-b25f-4e68b4aca68b
+ID: 1c3a4cf7-fe91-44f9-bef0-80a88daedd15
+Quelle: datenbank.xml
 Name: Tradition der Shakagra IV
 title: Tradition der Shakagra IV
 Kategorie: Tradition (Magisch)

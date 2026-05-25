@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f17944b2-464f-4e70-b0d6-581a3640aa12
+ID: 1c8f9f69-141e-4ca0-990f-f23c563cef33
+Quelle: datenbank.xml
 Name: Nagellack
 title: Nagellack
 Kategorie: Zauber

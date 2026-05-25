@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 6616af50-efb7-4b80-a19e-8a34fb7807b7
+ID: 58932d63-ad58-45ab-acf5-030cfcacd2b0
+Quelle: datenbank.xml
 Name: Armatrutz (Tiergeist)
 title: Armatrutz (Tiergeist)
 Kategorie: Zauber

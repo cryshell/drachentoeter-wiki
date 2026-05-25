@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: cb3b949b-dc2b-4383-a496-9006748a5e9a
+ID: 7e2e7427-d08e-40aa-b9ab-ab617afdf018
+Quelle: datenbank.xml
 Name: Siegel der ewigen Ruhe
 title: Siegel der ewigen Ruhe
 Kategorie: Zauber

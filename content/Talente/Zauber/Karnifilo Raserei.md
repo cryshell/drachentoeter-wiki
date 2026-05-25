@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2a8730ad-dafd-41e8-90cb-a73c593d1947
+ID: 405e6ca3-b215-4479-a31a-3b00c590a0d9
+Quelle: datenbank.xml
 Name: Karnifilo Raserei
 title: Karnifilo Raserei
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 08d7c568-1cde-4249-aefd-43b436453018
+ID: c3072102-1552-4624-ba8e-141cfebc2e57
+Quelle: datenbank.xml
 Name: Gorfangs Fluch
 title: Gorfangs Fluch
 Kategorie: Liturgien

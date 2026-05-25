@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 21ce6c19-45cb-43d4-91d3-902ab910320a
+ID: 9e3c2863-0342-4816-8ad4-5b9bc686820e
+Quelle: datenbank.xml
 Name: Frigifaxius
 title: Frigifaxius
 Kategorie: Zauber

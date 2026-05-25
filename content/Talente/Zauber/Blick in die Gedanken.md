@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2ea781cb-70a1-45cd-b0fc-d71e9b458efa
+ID: 6b4e377d-4701-428d-80b8-0196859b0a1b
+Quelle: datenbank.xml
 Name: Blick in die Gedanken
 title: Blick in die Gedanken
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 1e559aac-923f-4548-a090-895612925f05
+ID: 8987c6b7-11c6-427a-bbdc-0bcfb039c36b
+Quelle: datenbank.xml
 Name: Gelehrt
 title: Gelehrt
 Kategorie: Profan

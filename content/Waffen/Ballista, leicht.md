@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 2eec2fee-7892-4efb-8f7a-aaedc2154c09
+ID: 6014394c-6109-46a2-8f3b-32b2e761c928
+Quelle: datenbank.xml
 Name: Ballista, leicht
 title: Ballista, leicht
 Trefferpunkte: 2W6+1

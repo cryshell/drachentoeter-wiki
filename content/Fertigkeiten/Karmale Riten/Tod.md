@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 1cb492ac-977c-41c1-9677-d97f3d2ab710
+ID: e251e18f-cadf-4310-aff4-80997359535e
+Quelle: datenbank.xml
 Name: Tod
 title: Tod
 Kategorie: Karmale Riten

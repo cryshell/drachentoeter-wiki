@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 93442af8-ea8f-4a52-b2b8-83fb991a0ee8
+ID: fbb83097-cfc5-4294-bb8c-85913a19cfc6
+Quelle: datenbank.xml
 Name: Adamantium Erzstruktur
 title: Adamantium Erzstruktur
 Kategorie: Zauber

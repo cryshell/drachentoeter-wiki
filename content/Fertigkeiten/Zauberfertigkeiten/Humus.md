@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: f2bca2da-3b48-4c9c-b038-2b4ba9eaa2f8
+ID: 986efe8e-2987-4b69-973e-ac4fb7f14b7b
+Quelle: datenbank.xml
 Name: Humus
 title: Humus
 Kategorie: Zauberfertigkeiten

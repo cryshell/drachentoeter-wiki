@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: ba4f2fcf-466d-4814-837b-326a58110598
+ID: 65a88cbc-b2f6-4dc2-8981-94f771d7670e
+Quelle: datenbank.xml
 Name: Arbalone, Bolzen
 title: Arbalone, Bolzen
 Trefferpunkte: 3W6+9

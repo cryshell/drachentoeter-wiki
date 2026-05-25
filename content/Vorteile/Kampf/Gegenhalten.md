@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: efafdba4-4e64-4a6b-9c1c-72b5a944a9c6
+ID: 8aa04757-e5a1-4b66-86d3-ca4142444f3a
+Quelle: datenbank.xml
 Name: Gegenhalten
 title: Gegenhalten
 Kategorie: Kampf

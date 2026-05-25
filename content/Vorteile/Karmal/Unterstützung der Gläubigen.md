@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 55639838-1803-4ee3-afa7-6a4ea0815132
+ID: ca9b1a35-f20c-4e68-9b80-a701a20e81f5
+Quelle: datenbank.xml
 Name: Unterstützung der Gläubigen
 title: Unterstützung der Gläubigen
 Kategorie: Karmal

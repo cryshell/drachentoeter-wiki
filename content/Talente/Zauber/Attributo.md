@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b6b7d25c-730c-45f7-ac2e-a11b1e8831ad
+ID: 938650f2-ca23-4301-afc1-e17357d3331a
+Quelle: datenbank.xml
 Name: Attributo
 title: Attributo
 Kategorie: Zauber

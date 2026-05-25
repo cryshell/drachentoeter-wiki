@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 0032a632-0b18-4fa5-b03a-1739f8e58910
+ID: 1342e256-7e42-412e-93b1-275687a1d6fc
+Quelle: datenbank.xml
 Name: Orchidee
 title: Orchidee
 Trefferpunkte: 1W6+1

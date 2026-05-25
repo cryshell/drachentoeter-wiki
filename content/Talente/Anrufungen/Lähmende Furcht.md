@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: cf5e18cd-c405-4fd4-8e97-f81e84194035
+ID: e3c84349-6b16-4731-aa43-e3360768d7b1
+Quelle: datenbank.xml
 Name: Lähmende Furcht
 title: Lähmende Furcht
 Kategorie: Anrufungen

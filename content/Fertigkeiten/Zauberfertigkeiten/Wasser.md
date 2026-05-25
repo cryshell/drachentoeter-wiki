@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: eeb527c3-02ba-400f-99b6-2dd62a337702
+ID: d6dd4cee-1746-4d64-baed-21c986f0574a
+Quelle: datenbank.xml
 Name: Wasser
 title: Wasser
 Kategorie: Zauberfertigkeiten

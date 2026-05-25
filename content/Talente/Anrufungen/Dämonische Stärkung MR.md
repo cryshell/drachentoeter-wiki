@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: bad9b1d9-7402-433e-85e0-1bb714f950be
+ID: 13117ce8-5955-424d-b92a-14f828249ba4
+Quelle: datenbank.xml
 Name: "Dämonische Stärkung: MR"
 title: "Dämonische Stärkung: MR"
 Kategorie: Anrufungen

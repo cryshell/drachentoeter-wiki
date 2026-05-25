@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Abgeleiteter Wert
-ID: ccc630bf-eb02-4d5d-a7f8-a8ee044bce71
+ID: cad100c9-6ae8-4d39-acb1-be1e7f6ae71a
+Quelle: datenbank.xml
 Name: Behinderung
 title: Behinderung
 Abkürzung: BE

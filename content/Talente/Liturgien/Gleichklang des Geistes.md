@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 23d1a479-eb29-416e-98d8-b1eca428da68
+ID: 6bb0a6d9-4a43-4acf-984f-3d3ffde6acf3
+Quelle: datenbank.xml
 Name: Gleichklang des Geistes
 title: Gleichklang des Geistes
 Kategorie: Liturgien

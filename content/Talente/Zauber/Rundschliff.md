@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8e3a618b-aa1c-4d87-9a84-e3c3ebee7b12
+ID: 4b725a6a-e29e-4372-b9cb-8d8efcf75a21
+Quelle: datenbank.xml
 Name: Rundschliff
 title: Rundschliff
 Kategorie: Zauber

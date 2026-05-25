@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: bbc99c4c-e66e-4c00-af3d-baa3073c9a12
+ID: 37ebf94a-29e1-460b-be1e-a4e84a4a4748
+Quelle: datenbank.xml
 Name: Schelmenmaske
 title: Schelmenmaske
 Kategorie: Zauber

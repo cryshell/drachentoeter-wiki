@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b8df98c1-3de1-4524-ac7c-f20106a78c57
+ID: 3320bff1-228c-4645-adf4-8f8b01d26b6b
+Quelle: datenbank.xml
 Name: Hexengalle
 title: Hexengalle
 Kategorie: Zauber

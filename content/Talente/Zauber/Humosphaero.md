@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: da933700-343b-4543-b42c-54f599e9b1d7
+ID: dd9ddbbd-84a9-4d4c-aa6d-29d830376495
+Quelle: datenbank.xml
 Name: Humosphaero
 title: Humosphaero
 Kategorie: Zauber

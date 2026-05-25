@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Abgeleiteter Wert
-ID: fc6042c9-d4dd-4fa4-8e47-2ac9c20b90fc
+ID: dea84ef4-d01f-4b48-951a-20e279bdf5fd
+Quelle: datenbank.xml
 Name: Geschwindigkeit
 title: Geschwindigkeit
 Abkürzung: GS

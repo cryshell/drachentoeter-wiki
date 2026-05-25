@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 332c7edb-7174-4b22-92f6-6664037de609
+ID: dfa6b6cb-50f4-4be7-9d8a-d18ea3bb18e3
+Quelle: datenbank.xml
 Name: Eroberung
 title: Eroberung
 Kategorie: Karmale Riten

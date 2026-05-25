@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: b9197b3d-243c-418a-97de-75af3c99eb95
+ID: 7d413a7f-f340-42ff-9e08-90ad4a719aa0
+Quelle: datenbank.xml
 Name: Rüstungsgewöhnung III
 title: Rüstungsgewöhnung III
 Kategorie: Kampf

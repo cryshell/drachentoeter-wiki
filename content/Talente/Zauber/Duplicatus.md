@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 6ce21423-e0cd-48fa-9eca-7ace838c06d3
+ID: 2311892c-a00f-43e3-8d01-ce7d8e250898
+Quelle: datenbank.xml
 Name: Duplicatus
 title: Duplicatus
 Kategorie: Zauber

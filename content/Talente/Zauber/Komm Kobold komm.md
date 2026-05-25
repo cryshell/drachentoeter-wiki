@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 3f33599a-a02c-4ccc-a9a5-a9ac7218a5a5
+ID: 259247a2-6806-48bd-8d85-acdddc696f1d
+Quelle: datenbank.xml
 Name: Komm Kobold komm
 title: Komm Kobold komm
 Kategorie: Zauber

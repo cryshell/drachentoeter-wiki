@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f83e4ead-4013-4b9a-ab8f-0faeb1d04600
+ID: d4e84f1c-29b2-471b-9b85-f92e6f0200b7
+Quelle: datenbank.xml
 Name: Chimaeroform Hybridgestalt
 title: Chimaeroform Hybridgestalt
 Kategorie: Zauber

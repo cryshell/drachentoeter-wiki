@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 78e22c42-6e59-4241-afca-4aff55a13aaf
+ID: 25a20c49-36dd-47d4-aa09-04dba5e97971
+Quelle: datenbank.xml
 Name: Invocatio
 title: Invocatio
 Kategorie: Zauber

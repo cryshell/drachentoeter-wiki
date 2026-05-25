@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f3b17548-f808-4747-8951-4a339b4ef4a0
+ID: a6941519-8cea-4bc3-9ff2-395ec5c54dfd
+Quelle: datenbank.xml
 Name: Konsekration
 title: Konsekration
 Kategorie: Liturgien

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8be2a732-21fb-4b2f-9867-2b8453f6cfd9
+ID: c1a1e05e-c8fa-487c-b63c-2b81528be8cb
+Quelle: datenbank.xml
 Name: Axxeleratus Blitzgeschwind (Tiergeist)
 title: Axxeleratus Blitzgeschwind (Tiergeist)
 Kategorie: Zauber

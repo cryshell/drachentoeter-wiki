@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 7aaafc04-0830-4c76-ada4-f0b9b99b8345
+ID: 28f82ada-b67b-43bc-adaf-7396e9bbb1f5
+Quelle: datenbank.xml
 Name: Arbalette, Magazin
 title: Arbalette, Magazin
 Trefferpunkte: 3W6+2
@@ -25,7 +26,7 @@ Fernkampf: true
 - **Waffeneigenschaften:**
   - Schuss
   - [[Niederwerfen|Niederwerfen (-4)]]
-  - [[Schwer|Schwer (4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (4)]]
   - [[Spannschloss|Spannschloss]]
   - [[Zweihändig|Zweihändig]]
   - [[Magazin|Magazin (7; 8 Akt)]]

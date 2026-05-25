@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 430579df-3486-41ba-8d40-efd4d54f95fd
+ID: 1a63a467-fc76-4f13-8361-2d97823603db
+Quelle: datenbank.xml
 Name: Geläutert sei Erz und Goldgestein
 title: Geläutert sei Erz und Goldgestein
 Kategorie: Liturgien

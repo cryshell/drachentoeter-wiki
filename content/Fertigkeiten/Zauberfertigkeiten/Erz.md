@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: ef646764-d8b6-4c8f-8b3f-f50dd3dd787f
+ID: dcb3037a-5f55-4f4a-8d3d-2e268ade8ca4
+Quelle: datenbank.xml
 Name: Erz
 title: Erz
 Kategorie: Zauberfertigkeiten

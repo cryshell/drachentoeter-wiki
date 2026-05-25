@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: fb7cdfbb-23ae-4d21-9a06-0026b62d16c1
+ID: 3783cad0-6f81-4ca6-92b4-3c765a021c5a
+Quelle: datenbank.xml
 Name: Gespür des Dolches
 title: Gespür des Dolches
 Kategorie: Zauber

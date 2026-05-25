@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a9cb201e-16f0-4115-80a6-2ecf7185fc28
+ID: cf90a0e1-bf9f-453b-9019-c3bff954b4ed
+Quelle: datenbank.xml
 Name: Hauch der Pestilenz
 title: Hauch der Pestilenz
 Kategorie: Anrufungen

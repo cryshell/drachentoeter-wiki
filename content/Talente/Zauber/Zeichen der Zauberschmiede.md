@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5773b953-b6ff-44bb-9d02-55b57ec7e67c
+ID: 9605c6c0-6dce-4193-a4ec-d09cca73ec47
+Quelle: datenbank.xml
 Name: Zeichen der Zauberschmiede
 title: Zeichen der Zauberschmiede
 Kategorie: Zauber

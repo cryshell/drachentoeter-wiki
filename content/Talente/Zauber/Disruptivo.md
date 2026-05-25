@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1657724b-1921-4c3b-a138-a0d03c9e4f61
+ID: 4b1531ae-7908-47a1-8791-8ed17a4a06e0
+Quelle: datenbank.xml
 Name: Disruptivo
 title: Disruptivo
 Kategorie: Zauber

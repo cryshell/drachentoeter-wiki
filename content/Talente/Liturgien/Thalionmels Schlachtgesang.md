@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b137f711-73bd-4ef3-ad96-e53e96a5e020
+ID: 9a4554d2-6a22-4b8c-8960-aefab774c334
+Quelle: datenbank.xml
 Name: Thalionmels Schlachtgesang
 title: Thalionmels Schlachtgesang
 Kategorie: Liturgien

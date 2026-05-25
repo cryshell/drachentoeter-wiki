@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ec88607a-fa9e-444d-b4bd-40af56f57af6
+ID: d85ea50b-1a9a-4de0-90b7-f4da9f34a1f8
+Quelle: datenbank.xml
 Name: Heilige Schmiedeglut
 title: Heilige Schmiedeglut
 Kategorie: Liturgien

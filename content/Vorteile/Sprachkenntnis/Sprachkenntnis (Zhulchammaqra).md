@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 5d49cb43-0fe8-47c5-ac03-d70a2147aa67
+ID: f274ddd7-8943-4fe4-b003-6d91ffad5a20
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Zhulchammaqra)
 title: Sprachkenntnis (Zhulchammaqra)
 Kategorie: Sprachkenntnis

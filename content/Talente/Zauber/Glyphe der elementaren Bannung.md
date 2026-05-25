@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 89e7cf10-1997-4e64-9647-80bbd207b993
+ID: 0c726c11-56b0-4be9-bafb-628a3dbe686f
+Quelle: datenbank.xml
 Name: Glyphe der elementaren Bannung
 title: Glyphe der elementaren Bannung
 Kategorie: Zauber

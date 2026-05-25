@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 1d777f01-5d97-419f-b817-e83d8f51e8d9
+ID: ef0904d0-8bbf-454c-a821-39a342d20518
+Quelle: datenbank.xml
 Name: Hass und Zerstörung
 title: Hass und Zerstörung
 Kategorie: Karmale Riten

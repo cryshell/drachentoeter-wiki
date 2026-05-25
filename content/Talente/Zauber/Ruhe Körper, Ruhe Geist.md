@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 63d92f04-225b-4bbc-a9d7-868ef7c6d844
+ID: e0ee7e19-1017-49f0-a195-1e212eb2c652
+Quelle: datenbank.xml
 Name: Ruhe Körper, Ruhe Geist
 title: Ruhe Körper, Ruhe Geist
 Kategorie: Zauber

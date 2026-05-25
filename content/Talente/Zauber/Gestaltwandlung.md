@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 900b1b20-2728-40af-894d-8aeb56df42fa
+ID: fc9ef041-6406-451c-80bc-d86d5606fa28
+Quelle: datenbank.xml
 Name: Gestaltwandlung
 title: Gestaltwandlung
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2fb442c4-71b8-45c0-8eb4-64e81ec3a2b7
+ID: 53e1967c-0aa6-4613-ac84-bbc78bd72426
+Quelle: datenbank.xml
 Name: Flüstern der Wildnis
 title: Flüstern der Wildnis
 Kategorie: Liturgien

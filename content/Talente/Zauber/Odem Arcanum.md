@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 76249485-6ef9-43e8-89fb-a1b82b7aace8
+ID: 2181bd1b-f048-4882-ab79-c93afc692857
+Quelle: datenbank.xml
 Name: Odem Arcanum
 title: Odem Arcanum
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: f563081f-bbeb-4a62-8de4-eb2cbbbbaf6a
+ID: 48b197e9-a7c5-4148-8e8a-e1a62f0c21f9
+Quelle: datenbank.xml
 Name: Veränderung
 title: Veränderung
 Kategorie: Karmale Riten

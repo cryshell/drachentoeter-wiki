@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e81572c8-5b98-4283-8ce4-4775b24dca5f
+ID: e98f2dd2-f4e2-416b-b8c2-1a42464f1406
+Quelle: datenbank.xml
 Name: Schicksalsrune
 title: Schicksalsrune
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b70633f5-82e0-4a67-b620-82709035792d
+ID: 82119f84-529f-42cf-94b2-d0becda0e29a
+Quelle: datenbank.xml
 Name: Rhythmen der Geschwindigkeit
 title: Rhythmen der Geschwindigkeit
 Kategorie: Zauber

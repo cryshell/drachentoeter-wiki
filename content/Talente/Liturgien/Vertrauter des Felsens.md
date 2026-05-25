@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 05b73884-6a5e-4543-a2f4-62f84d4be5c8
+ID: f9eff228-f4bd-41c6-86b0-3bedb965b71c
+Quelle: datenbank.xml
 Name: Vertrauter des Felsens
 title: Vertrauter des Felsens
 Kategorie: Liturgien

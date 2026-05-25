@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: f4afaf94-2858-4258-8051-60efd977b4fe
+ID: 5cb7a9ba-9897-49c4-8cad-eb71c1e1724f
+Quelle: datenbank.xml
 Name: Elfenlieder
 title: Elfenlieder
 Kategorie: Zauberfertigkeiten

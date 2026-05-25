@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 7a792127-9df8-4c53-ad80-08720bf5730c
+ID: 94a0cba7-560a-42de-90c7-805d9add246d
+Quelle: datenbank.xml
 Name: Pfeil des Feuers
 title: Pfeil des Feuers
 Kategorie: Zauber

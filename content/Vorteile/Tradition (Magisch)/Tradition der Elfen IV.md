@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 2f9fa3a9-2628-4d75-bd75-fd848b1f4d42
+ID: 4c804547-a4d2-4673-b3aa-f93125d81ac5
+Quelle: datenbank.xml
 Name: Tradition der Elfen IV
 title: Tradition der Elfen IV
 Kategorie: Tradition (Magisch)

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 340d916c-a0a4-47eb-a570-9499a4afff8f
+ID: 8a27e189-e75b-4c2f-bfa6-65222ea22bb6
+Quelle: datenbank.xml
 Name: Warzen sprießen
 title: Warzen sprießen
 Kategorie: Zauber

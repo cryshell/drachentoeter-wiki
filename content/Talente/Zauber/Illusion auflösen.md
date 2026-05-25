@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 22848e4b-3011-4e41-b944-3b8f0d2e3e69
+ID: 73026aa1-de9d-40f4-8684-5ec6eed578c7
+Quelle: datenbank.xml
 Name: Illusion auflösen
 title: Illusion auflösen
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e68b723b-ae05-4fd2-80cc-bf7afc9102e6
+ID: 6818d8f8-5f1a-447c-923a-aec652d7f7f3
+Quelle: datenbank.xml
 Name: Kräfte der Natur
 title: Kräfte der Natur
 Kategorie: Zauber

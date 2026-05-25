@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 555a92e1-a3ac-47ba-9e12-498102829758
+ID: c1231a52-599e-46c9-9d25-b5d8a7f39179
+Quelle: datenbank.xml
 Name: Veteranenhand
 title: Veteranenhand
 Trefferpunkte: 1W6+2
@@ -31,4 +32,4 @@ Preis: 250
   - Stich
   - [[Nebenhand|Nebenhand]]
   - [[Parierwaffe|Parierwaffe]]
-  - [[Versteckt|Versteckt]]
+  - [[Waffeneigenschaften/Versteckt|Versteckt]]

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 1e78d953-7a19-42c5-9e71-fe7ce43f5dcc
+ID: 1dc23e7d-5178-4fdf-8f3e-3a0ef36db4b0
+Quelle: datenbank.xml
 Name: Scharfschütze
 title: Scharfschütze
 Kategorie: Kampf

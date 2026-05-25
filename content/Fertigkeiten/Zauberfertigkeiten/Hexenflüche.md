@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 1c2e0240-e170-4f31-9eec-93a9006d7791
+ID: 0b6bfd49-4f92-4719-b3e4-9e8410713c2b
+Quelle: datenbank.xml
 Name: Hexenflüche
 title: Hexenflüche
 Kategorie: Zauberfertigkeiten

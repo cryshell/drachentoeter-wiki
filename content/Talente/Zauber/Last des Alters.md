@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a2f13eb1-e854-4972-9e53-689ce795aed9
+ID: c081b17e-d51a-4eef-91a5-80d30244cc45
+Quelle: datenbank.xml
 Name: Last des Alters
 title: Last des Alters
 Kategorie: Zauber

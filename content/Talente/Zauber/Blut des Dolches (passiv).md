@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: cedda223-9109-4b8c-975a-b444507d00dd
+ID: 25dba51c-bb0a-4db2-a505-6b9ddd863b93
+Quelle: datenbank.xml
 Name: Blut des Dolches (passiv)
 title: Blut des Dolches (passiv)
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d13941bd-49a5-4616-8b49-4987bd7c7b45
+ID: b6b04080-bd11-4af8-8d9d-27f29d58e4cd
+Quelle: datenbank.xml
 Name: "Mirakel: Wurfwaffen"
 title: "Mirakel: Wurfwaffen"
 Kategorie: Liturgien

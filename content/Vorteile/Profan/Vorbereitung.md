@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 0df265c3-f1c5-4578-9a7c-3b0c6fac117a
+ID: d5f20805-a7e7-4b76-919f-e446a6586715
+Quelle: datenbank.xml
 Name: Vorbereitung
 title: Vorbereitung
 Kategorie: Profan

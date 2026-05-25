@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: bb174a36-f8fe-4642-a273-28afb5100b9e
+ID: 532719a2-ca92-4681-83dd-d89d3b3716c5
+Quelle: datenbank.xml
 Name: Blutmagie
 title: Blutmagie
 Kategorie: Magisch
@@ -19,7 +20,7 @@ Du nutzt fremde Lebenskraft für deine Zauber. Das Opfer wird dabei völlig ausg
 
 - **Erlernen:** 60 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Vampir I]]
   - Attribut [[Mut|MU]] 8
 - **Siehe auch:**
   - [[WS]]

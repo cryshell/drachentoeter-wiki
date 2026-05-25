@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 369ed5bb-b328-4dfa-88b8-70f8740ee265
+ID: a437212b-305e-41e2-8cd1-a8b087a1cbb9
+Quelle: datenbank.xml
 Name: Magiebann
 title: Magiebann
 Kategorie: Karmale Riten

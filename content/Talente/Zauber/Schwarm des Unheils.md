@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d7c8a117-7370-4faf-a108-d8b05db9ffd9
+ID: f751a7ef-d4e5-4605-9ff3-0612c305d576
+Quelle: datenbank.xml
 Name: Schwarm des Unheils
 title: Schwarm des Unheils
 Kategorie: Zauber

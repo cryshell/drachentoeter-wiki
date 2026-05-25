@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 8161d7d6-6440-473a-b933-a9a842304b42
+ID: 6bbdae49-4713-49c4-b5a2-33186e4b0964
+Quelle: datenbank.xml
 Name: Anrufung Agrimoths
 title: Anrufung Agrimoths
 Kategorie: Anrufungen

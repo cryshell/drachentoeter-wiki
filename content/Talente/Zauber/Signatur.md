@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 7212f108-e13a-4f5f-aec4-29aeedd3ae84
+ID: c6e1889d-f0b3-4165-892c-6c2f69d935e2
+Quelle: datenbank.xml
 Name: Signatur
 title: Signatur
 Kategorie: Zauber

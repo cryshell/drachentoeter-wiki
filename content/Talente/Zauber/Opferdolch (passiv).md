@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9dfc411f-b8c7-4d24-ad0f-c16d26f25771
+ID: 4073f523-e277-483c-8e41-39eb1737a57c
+Quelle: datenbank.xml
 Name: Opferdolch (passiv)
 title: Opferdolch (passiv)
 Kategorie: Zauber

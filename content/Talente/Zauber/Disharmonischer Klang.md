@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1fa579d9-fa56-49a7-a9de-94337901dd3b
+ID: 90b42dfe-0a1a-4195-a98d-182999ad1e87
+Quelle: datenbank.xml
 Name: Disharmonischer Klang
 title: Disharmonischer Klang
 Kategorie: Zauber

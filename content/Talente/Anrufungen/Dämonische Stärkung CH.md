@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5d68ac5f-65bc-4c8a-93ae-5faf729bdff7
+ID: 03142eee-5fd5-47fa-923c-4e3710873ba7
+Quelle: datenbank.xml
 Name: "Dämonische Stärkung: CH"
 title: "Dämonische Stärkung: CH"
 Kategorie: Anrufungen

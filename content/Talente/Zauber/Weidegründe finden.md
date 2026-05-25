@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0f1df73d-cf62-4367-ad0b-87b39a764b43
+ID: 45038e13-b06d-437c-b727-f1eee61d857c
+Quelle: datenbank.xml
 Name: Weidegründe finden
 title: Weidegründe finden
 Kategorie: Zauber

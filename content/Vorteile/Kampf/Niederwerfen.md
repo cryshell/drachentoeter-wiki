@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 6b721909-9686-45bf-b503-93f7a0c172b0
+ID: b843ce13-9576-4b28-b5e9-1057b14728ee
+Quelle: datenbank.xml
 Name: Niederwerfen
 title: Niederwerfen
 Kategorie: Kampf

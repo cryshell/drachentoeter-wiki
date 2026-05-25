@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: aff54c2f-c459-4c8a-aa5a-8384d35ea327
+ID: d9ef3a76-be6a-43c3-8930-f2bd28e6f993
+Quelle: datenbank.xml
 Name: Limbus versiegeln
 title: Limbus versiegeln
 Kategorie: Zauber

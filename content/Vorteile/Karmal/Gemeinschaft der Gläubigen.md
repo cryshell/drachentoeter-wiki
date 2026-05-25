@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 485466ce-10b8-413d-97d2-e6adda54b035
+ID: 437c480b-e97c-4d5d-b76d-b8f6153df47c
+Quelle: datenbank.xml
 Name: Gemeinschaft der Gläubigen
 title: Gemeinschaft der Gläubigen
 Kategorie: Karmal

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: c539b4ae-9e9c-4cb9-835c-2ee01ed27d4c
+ID: 827dfc4f-648f-4e3e-9a8c-362d380e1cd2
+Quelle: datenbank.xml
 Name: Wurfmesser
 title: Wurfmesser
 Trefferpunkte: 1W6+0

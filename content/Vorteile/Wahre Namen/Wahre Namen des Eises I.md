@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 8dec46e9-d728-45d1-a1c9-9688d0bb923e
+ID: 2ffaa1cd-4d76-43b5-849c-55a36453730e
+Quelle: datenbank.xml
 Name: Wahre Namen des Eises I
 title: Wahre Namen des Eises I
 Kategorie: Wahre Namen
@@ -16,5 +17,5 @@ Du kannst alle Elementare des Eises bis zu einer Beschwörungsschwierigkeit von 
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Geweiht I]] ODER Vorteil [[Paktierer I]]
   - Attribut [[Klugheit|KL]] 4

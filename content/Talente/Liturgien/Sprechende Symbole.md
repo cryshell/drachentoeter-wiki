@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 26a87b9e-b288-4a2b-9176-d9d3dabaa766
+ID: 89976030-dc6d-4abb-a2f5-825662190dc5
+Quelle: datenbank.xml
 Name: Sprechende Symbole
 title: Sprechende Symbole
 Kategorie: Liturgien

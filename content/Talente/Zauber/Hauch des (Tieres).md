@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 91f0f3bd-37c9-4316-97c8-f88b4280352b
+ID: d6d8bd85-6796-4298-a915-41783d406d78
+Quelle: datenbank.xml
 Name: Hauch des (Tieres)
 title: Hauch des (Tieres)
 Kategorie: Zauber

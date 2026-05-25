@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e3572766-91b7-40f0-b8b7-2eb17fd8b229
+ID: f43bdef6-5f1c-44e0-9353-2cc60cd29a41
+Quelle: datenbank.xml
 Name: Phexens Meisterschlüssel
 title: Phexens Meisterschlüssel
 Kategorie: Liturgien

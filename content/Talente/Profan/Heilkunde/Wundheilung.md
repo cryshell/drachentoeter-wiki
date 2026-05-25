@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: fe03df3a-4fb8-4718-a696-a1de4347dbc0
+ID: e9fc29fc-62c0-474a-b22b-be73633b39ff
+Quelle: datenbank.xml
 Name: Wundheilung
 title: Wundheilung
 Kategorie: Profan

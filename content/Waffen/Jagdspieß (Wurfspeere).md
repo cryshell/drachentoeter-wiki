@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: c368a728-4937-476f-9a4a-ce16a039dd39
+ID: 17eee78c-d11c-4815-b80c-489ee24e8320
+Quelle: datenbank.xml
 Name: Jagdspieß (Wurfspeere)
 title: Jagdspieß (Wurfspeere)
 Trefferpunkte: 2W6+2

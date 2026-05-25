@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 7cca37bb-d73a-426c-930c-27b18ecdb35c
+ID: ac8cb471-4f84-41f2-bc9e-22776e2be49b
+Quelle: datenbank.xml
 Name: Rahjalinas Farbenspiel
 title: Rahjalinas Farbenspiel
 Kategorie: Liturgien

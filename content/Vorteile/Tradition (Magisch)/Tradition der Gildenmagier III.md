@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: aa49d3f9-cc1e-4672-8cf4-c4e90c248db7
+ID: e2af164f-a6dd-4fad-8d47-61aeb9465384
+Quelle: datenbank.xml
 Name: Tradition der Gildenmagier III
 title: Tradition der Gildenmagier III
 Kategorie: Tradition (Magisch)

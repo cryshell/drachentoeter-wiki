@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: c82c8c1b-8cd1-4a64-b633-19aa1b8f808f
+ID: 601c5fef-08a6-4f02-aab1-26dcd5237cf6
+Quelle: datenbank.xml
 Name: Morgenstern
 title: Morgenstern
 Trefferpunkte: 3W6+1
@@ -26,5 +27,5 @@ Preis: 100
   - [[Schneller Kampf]]
 - **Waffeneigenschaften:**
   - Wucht
-  - [[Schwer|Schwer (4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (4)]]
   - [[Unberechenbar|Unberechenbar]]

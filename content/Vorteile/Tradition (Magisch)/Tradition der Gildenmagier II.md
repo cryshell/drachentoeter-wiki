@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 465e43a9-7f88-4b90-adcc-e2584c052a7f
+ID: db6d5844-b2d9-425d-8fa3-15838a8663d1
+Quelle: datenbank.xml
 Name: Tradition der Gildenmagier II
 title: Tradition der Gildenmagier II
 Kategorie: Tradition (Magisch)

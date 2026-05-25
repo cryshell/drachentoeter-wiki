@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f9859860-9a5a-41c0-b522-7ebba6e4ab89
+ID: 3e24689f-66b2-45e1-8163-0b4f76105798
+Quelle: datenbank.xml
 Name: Haarpracht
 title: Haarpracht
 Kategorie: Zauber

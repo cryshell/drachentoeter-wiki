@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 7e429606-9c4c-48d3-93a0-dae78e21d6e4
+ID: 2edda8b0-9edd-46c0-a23c-d1b6d5f476fa
+Quelle: datenbank.xml
 Name: Bluttrinker
 title: Bluttrinker
 Kategorie: Anrufungen

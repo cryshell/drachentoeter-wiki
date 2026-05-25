@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 37c2ecf1-0fae-4ac7-827a-251ca6b61b45
+ID: 0f7632a7-9c5e-457a-8994-e84fe8338714
+Quelle: datenbank.xml
 Name: Pike
 title: Pike
 Trefferpunkte: 3W6+1
@@ -29,4 +30,4 @@ Preis: 50
   - [[Gespann|Gespann]]
   - [[Sperrig|Sperrig]]
   - [[Zweihändig|Zweihändig]]
-  - [[Schwer|Schwer (4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (4)]]

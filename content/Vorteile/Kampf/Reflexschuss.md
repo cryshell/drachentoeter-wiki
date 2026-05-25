@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: b419206b-4710-49cf-bb12-9d1325b567d4
+ID: a24ed052-1831-4e8e-9fab-c3b9ad27f3ca
+Quelle: datenbank.xml
 Name: Reflexschuss
 title: Reflexschuss
 Kategorie: Kampf

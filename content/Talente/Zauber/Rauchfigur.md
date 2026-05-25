@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 701e525a-0909-4732-be81-335f2d84461e
+ID: d2706d50-b0a5-46c8-8f41-cdfadf12fac1
+Quelle: datenbank.xml
 Name: Rauchfigur
 title: Rauchfigur
 Kategorie: Zauber

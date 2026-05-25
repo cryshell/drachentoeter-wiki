@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: b03b0d0a-a678-4ba9-a661-82244f807cfb
+ID: f4b51a19-d0b8-4df2-9ef0-c467599f67ab
+Quelle: datenbank.xml
 Name: Bornisches Raufen
 title: Bornisches Raufen
 Kategorie: Kampf

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 7c4e5e90-7341-462d-b8c0-f4f7ce61310a
+ID: 08d1f752-98a7-4f0b-8a8e-6c3f73631061
+Quelle: datenbank.xml
 Name: Elfenstimme Flötenton
 title: Elfenstimme Flötenton
 Kategorie: Zauber

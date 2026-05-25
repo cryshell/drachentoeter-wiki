@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 5c625adf-734e-4b95-be79-9e5154f4617b
+ID: d064de6a-162e-4576-b2f7-b8f965e37608
+Quelle: datenbank.xml
 Name: Dreigliederstab
 title: Dreigliederstab
 Trefferpunkte: 2W6+1
@@ -31,5 +32,5 @@ Preis: 180
   - [[Zweihändig|Zweihändig]]
   - [[Klingenfänger|Klingenfänger]]
   - [[Doppelwaffe|Doppelwaffe]]
-  - [[Versteckt|Versteckt]]
+  - [[Waffeneigenschaften/Versteckt|Versteckt]]
   - [[Defensiv|Defensiv(1)]]

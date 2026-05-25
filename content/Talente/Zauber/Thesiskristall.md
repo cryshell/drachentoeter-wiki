@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0647453d-5c3c-48b9-a93d-87b0e99de01c
+ID: dc5bb4d0-6f79-4ac8-8a00-25c0027c9f7f
+Quelle: datenbank.xml
 Name: Thesiskristall
 title: Thesiskristall
 Kategorie: Zauber

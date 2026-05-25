@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 6ceea0d1-bd23-4e03-b13f-fbf78186dfd1
+ID: 6d05021c-eac2-4f8b-8937-26cf1aaaec64
+Quelle: datenbank.xml
 Name: Tanz der Jagd
 title: Tanz der Jagd
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 7edf02a6-ef52-481f-94e4-8fbb57cb6e6d
+ID: 5ed591ad-77a9-498b-ac26-0b65585a015d
+Quelle: datenbank.xml
 Name: Partisane
 title: Partisane
 Trefferpunkte: 3W6+1
@@ -29,5 +30,5 @@ Preis: 80
   - Hieb
   - [[Kopflastig|Kopflastig]]
   - [[Zweihändig|Zweihändig]]
-  - [[Schwer|Schwer (4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (4)]]
   - [[Knebel|Knebel]]

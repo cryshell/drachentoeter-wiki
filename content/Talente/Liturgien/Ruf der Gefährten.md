@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 3b2b5f7b-4c7f-4485-864e-caa7d24bbf19
+ID: 8e696c54-2711-4cac-9b9d-6dbcc8e49e25
+Quelle: datenbank.xml
 Name: Ruf der Gefährten
 title: Ruf der Gefährten
 Kategorie: Liturgien

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0ee60611-0e3c-4296-b603-e34e8365f968
+ID: 97fb534c-6bb4-4846-aff2-4d947180f8e3
+Quelle: datenbank.xml
 Name: Rhythmen des Handels
 title: Rhythmen des Handels
 Kategorie: Zauber

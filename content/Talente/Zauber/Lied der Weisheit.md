@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 33aae052-212d-476d-815b-0f066a0d3eb2
+ID: 84831786-8e2e-48c2-bedc-aff42abbfcef
+Quelle: datenbank.xml
 Name: Lied der Weisheit
 title: Lied der Weisheit
 Kategorie: Zauber

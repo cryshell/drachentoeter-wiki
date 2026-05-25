@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a14760be-f19c-498a-851f-00d54a1ae550
+ID: ebda44ad-c73e-40d2-89cc-07b40a4635f4
+Quelle: datenbank.xml
 Name: Geistertausch
 title: Geistertausch
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 7b4489ee-6a5c-41cd-a9c1-853db3ac1e58
+ID: a9a602af-64b0-48dc-8f6f-9a6a8a17dd28
+Quelle: datenbank.xml
 Name: Kontrolle der Miniatur
 title: Kontrolle der Miniatur
 Kategorie: Zauber

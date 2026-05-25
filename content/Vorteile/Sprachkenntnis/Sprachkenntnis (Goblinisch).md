@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 9337ec4d-41ab-4f7e-99e5-b60fc2b3ba3c
+ID: fd1f0dcb-c081-4981-bd26-c992af6eda4c
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Goblinisch)
 title: Sprachkenntnis (Goblinisch)
 Kategorie: Sprachkenntnis

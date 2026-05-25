@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d4f3879b-2b30-481a-833e-13dbccda5e3b
+ID: 68da34a4-74f4-46e8-95df-adc9812db7f5
+Quelle: datenbank.xml
 Name: Apport der Schale
 title: Apport der Schale
 Kategorie: Zauber

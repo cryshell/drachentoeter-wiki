@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 67812e7e-681e-4aa1-a256-8c40ee4c658e
+ID: bfdf9639-9451-4929-9c6a-bc086c1f7c40
+Quelle: datenbank.xml
 Name: Todesstoß
 title: Todesstoß
 Kategorie: Kampf

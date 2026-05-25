@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 4fce9176-7fe2-48bf-90ac-d9e0da27172c
+ID: b0596d82-f756-4439-8938-42204819cdb4
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Koboldisch)
 title: Sprachkenntnis (Koboldisch)
 Kategorie: Sprachkenntnis

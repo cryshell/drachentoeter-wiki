@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 5ba58177-8685-4f34-b969-13a51298740c
+ID: f0f8325b-6eef-4c8c-b019-e4368195a737
+Quelle: datenbank.xml
 Name: Langaxt (Hiebwaffen)
 title: Langaxt (Hiebwaffen)
 Trefferpunkte: 3W6+1
@@ -28,5 +29,5 @@ Preis: 160
   - Stich
   - Hieb
   - [[Kopflastig|Kopflastig]]
-  - [[Schwer|Schwer (4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (4)]]
   - [[Zweihändig|Zweihändig]]

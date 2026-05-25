@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f300aa14-7f0c-4334-bb33-960087439440
+ID: 548639d3-95bf-4cc1-bc6a-5e0203ac8c69
+Quelle: datenbank.xml
 Name: Bögen
 title: Bögen
 Kategorie: Profan

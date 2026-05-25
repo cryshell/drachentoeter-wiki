@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: adb65693-83c7-4055-beb7-3c746b95d701
+ID: bed60609-6a8c-4b24-b139-1940a0d330ef
+Quelle: datenbank.xml
 Name: Wachsame Augen
 title: Wachsame Augen
 Kategorie: Zauber

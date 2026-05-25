@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: b426fea2-ce67-40c7-89a4-fa8953d72f06
+ID: b9eb5924-0305-4fd8-bfe6-67d434937922
+Quelle: datenbank.xml
 Name: Anrufung Asfaloths
 title: Anrufung Asfaloths
 Kategorie: Anrufungen

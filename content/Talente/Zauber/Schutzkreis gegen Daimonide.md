@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9bb79d71-553d-44ee-9774-837a72364d0a
+ID: 8dd91de8-5103-4677-8cf2-0ff7df585d9d
+Quelle: datenbank.xml
 Name: Schutzkreis gegen Daimonide
 title: Schutzkreis gegen Daimonide
 Kategorie: Zauber

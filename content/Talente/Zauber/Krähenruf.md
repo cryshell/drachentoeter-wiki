@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 3fbc19d9-b546-431a-9a6d-6546484a7199
+ID: c9b7f477-a120-4987-b77b-c3dd9308df3d
+Quelle: datenbank.xml
 Name: Krähenruf
 title: Krähenruf
 Kategorie: Zauber

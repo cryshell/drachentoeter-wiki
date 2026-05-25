@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 262493b2-cc4f-4d8c-9b59-a0f9c67af513
+ID: 048f3e0d-3797-443e-bff6-e4d97a9442db
+Quelle: datenbank.xml
 Name: Rhythmen des Sturmes
 title: Rhythmen des Sturmes
 Kategorie: Zauber

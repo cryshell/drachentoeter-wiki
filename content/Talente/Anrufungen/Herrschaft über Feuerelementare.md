@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 3f8fdd36-802b-446a-93d3-648b5ff8ae03
+ID: 5b31dc33-0acf-4715-be8a-796902ed06e8
+Quelle: datenbank.xml
 Name: Herrschaft über Feuerelementare
 title: Herrschaft über Feuerelementare
 Kategorie: Anrufungen

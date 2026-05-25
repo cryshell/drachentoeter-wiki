@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8339cd3d-4fb5-415d-9579-26ef94aff272
+ID: 8491461f-01bb-4fec-87fa-47d197c1b787
+Quelle: datenbank.xml
 Name: Aeromorpho Wirbelform
 title: Aeromorpho Wirbelform
 Kategorie: Zauber

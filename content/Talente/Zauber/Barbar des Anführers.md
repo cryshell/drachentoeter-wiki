@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 64209858-e7ae-4ea5-988c-fbc0fc449382
+ID: eff7b93d-9f00-4366-bf70-1ebc805a4607
+Quelle: datenbank.xml
 Name: Barbar des Anführers
 title: Barbar des Anführers
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Fertigkeit
-ID: a5524309-e964-4306-be81-aa6d26b1e646
+ID: 31d918e1-18ad-496f-a7a9-5122a583c7c0
+Quelle: datenbank.xml
 Name: Magiekunde
 title: Magiekunde
 Kategorie: Wissen

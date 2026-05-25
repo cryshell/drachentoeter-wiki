@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 35a7c9fc-1001-4979-99f7-51821d0834d2
+ID: 06c108ea-f5a2-4bed-9483-ad0e36068001
+Quelle: datenbank.xml
 Name: Schutz der Gläubigen
 title: Schutz der Gläubigen
 Kategorie: Karmale Riten

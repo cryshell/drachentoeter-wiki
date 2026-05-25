@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 690970f3-13eb-4333-bd19-3382f377f680
+ID: 23f6dcb9-1fe3-4ae6-8d23-227a86d5c321
+Quelle: datenbank.xml
 Name: Hilfe der Gemeinschaft
 title: Hilfe der Gemeinschaft
 Kategorie: Liturgien

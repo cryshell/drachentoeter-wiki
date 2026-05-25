@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: c4fc3987-54f5-42be-81ac-1a81ba2b3084
+ID: 2f2290ca-ad60-4043-824c-6558bc8b167d
+Quelle: datenbank.xml
 Name: Schriftkenntnis (Thorwalsche Runen)
 title: Schriftkenntnis (Thorwalsche Runen)
 Kategorie: Schriftkenntnis

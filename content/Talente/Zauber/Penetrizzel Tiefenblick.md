@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b4e817fd-06c2-46f3-b6da-d2490fc2e773
+ID: c545d16f-f618-4013-b43c-cde588dd4f3a
+Quelle: datenbank.xml
 Name: Penetrizzel Tiefenblick
 title: Penetrizzel Tiefenblick
 Kategorie: Zauber

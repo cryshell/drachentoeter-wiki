@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 91656d99-e1d2-4a58-b262-84f629813acd
+ID: c5ccfc49-0ef2-4b2d-b61a-b9bf64828b1e
+Quelle: datenbank.xml
 Name: Zweililien
 title: Zweililien
 Trefferpunkte: 2W6+2

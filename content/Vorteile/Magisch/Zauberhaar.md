@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 9446bda3-368e-47e2-a4ab-4a022367db08
+ID: d8034896-6a5f-43af-a102-8a0ca0c50f6a
+Quelle: datenbank.xml
 Name: Zauberhaar
 title: Zauberhaar
 Kategorie: Magisch

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 536fcdb2-5c3b-4040-981a-11518f3f7174
+ID: 607a2b0c-05e5-4825-af5e-937239b0f5a9
+Quelle: datenbank.xml
 Name: Beruhigung
 title: Beruhigung
 Kategorie: Zauber

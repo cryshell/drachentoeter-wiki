@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: f5cd581b-8971-42ef-9eb3-a6ab0263bd11
+ID: 08bd76ea-f59f-4734-a244-3a1ee60b55c5
+Quelle: datenbank.xml
 Name: Byakka
 title: Byakka
 Trefferpunkte: 2W6+2
@@ -29,4 +30,4 @@ Preis: 90
   - Stich
   - [[Kopflastig|Kopflastig]]
   - [[Rüstungsbrechend|Rüstungsbrechend]]
-  - [[Schwer|Schwer (4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (4)]]

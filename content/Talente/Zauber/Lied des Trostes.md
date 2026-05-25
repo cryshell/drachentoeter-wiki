@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c1de30db-76ac-46d4-a75d-4e32f425750a
+ID: 8b390201-1a5b-4280-b471-c6e97eab052c
+Quelle: datenbank.xml
 Name: Lied des Trostes
 title: Lied des Trostes
 Kategorie: Zauber

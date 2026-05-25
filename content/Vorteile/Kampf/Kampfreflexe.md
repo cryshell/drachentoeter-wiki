@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: f30c7547-8568-4a18-aebb-9dad0767d0e9
+ID: b07c45ca-c53e-41aa-942a-c400c38acea9
+Quelle: datenbank.xml
 Name: Kampfreflexe
 title: Kampfreflexe
 Kategorie: Kampf

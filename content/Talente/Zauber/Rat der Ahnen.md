@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ba8c3011-a99e-41b4-95c1-f3fa6499fe97
+ID: 60852dbd-f584-46b0-abed-af63cab61c52
+Quelle: datenbank.xml
 Name: Rat der Ahnen
 title: Rat der Ahnen
 Kategorie: Zauber

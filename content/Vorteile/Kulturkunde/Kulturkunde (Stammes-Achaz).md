@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: d6138bd4-cecb-4406-832a-8d2b6cd3749f
+ID: c9c708ab-fdc7-4a10-8f75-09cfa99ff173
+Quelle: datenbank.xml
 Name: Kulturkunde (Stammes-Achaz)
 title: Kulturkunde (Stammes-Achaz)
 Kategorie: Kulturkunde

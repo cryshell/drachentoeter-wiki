@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d5fab718-d63b-435a-a71d-df3caf1b921e
+ID: c369fe83-3a72-4e5c-865d-772be5e65a56
+Quelle: datenbank.xml
 Name: Bindung des Dolches
 title: Bindung des Dolches
 Kategorie: Zauber

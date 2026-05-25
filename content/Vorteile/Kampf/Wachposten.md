@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: d0ab23ad-4777-415d-b14a-ec36422351c8
+ID: ee5f79e1-d900-4544-a7c8-32e6e1c37e71
+Quelle: datenbank.xml
 Name: Wachposten
 title: Wachposten
 Kategorie: Kampf

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 91922583-7583-4b04-9329-280185cb1af3
+ID: ffeed76c-7272-4f7f-b13f-eec88403dd0e
+Quelle: datenbank.xml
 Name: Schutzkreis gegen Reptilien
 title: Schutzkreis gegen Reptilien
 Kategorie: Zauber

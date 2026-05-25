@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f72b65bd-7953-485a-95ba-c66d1e07a337
+ID: e78d479d-0ac8-410e-aa1d-f69ff54f5ced
+Quelle: datenbank.xml
 Name: Lied der Erlösung
 title: Lied der Erlösung
 Kategorie: Zauber

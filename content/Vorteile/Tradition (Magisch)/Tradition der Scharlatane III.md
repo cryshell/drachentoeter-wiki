@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 2f757c22-5062-47cb-b154-640fa0e96c61
+ID: aaa37f84-0f77-45ea-ba9a-a886ab3063b5
+Quelle: datenbank.xml
 Name: Tradition der Scharlatane III
 title: Tradition der Scharlatane III
 Kategorie: Tradition (Magisch)

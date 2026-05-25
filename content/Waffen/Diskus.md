@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: c9ec41a9-e2ad-40f2-b969-16e72f19c5b3
+ID: 04b0e972-d3b3-4494-8119-0e7265d4e0a0
+Quelle: datenbank.xml
 Name: Diskus
 title: Diskus
 Trefferpunkte: 2W6+0

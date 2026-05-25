@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ee1cafbe-50c8-4793-8c2f-6e8be2357b27
+ID: 3684b6e8-6e2e-4f42-8f67-1d61d326eb69
+Quelle: datenbank.xml
 Name: Glacoflumen Fluss aus Eis
 title: Glacoflumen Fluss aus Eis
 Kategorie: Zauber

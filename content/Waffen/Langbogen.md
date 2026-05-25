@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 588d6454-a105-4053-8736-6eaf9b5407f0
+ID: 07aa5383-8350-48a4-8c61-30316059dc66
+Quelle: datenbank.xml
 Name: Langbogen
 title: Langbogen
 Trefferpunkte: 2W6+3
@@ -24,6 +25,6 @@ Fernkampf: true
 - **Fernkampf:** ja
 - **Waffeneigenschaften:**
   - Schuss
-  - [[Schwer|Schwer (6)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (6)]]
   - kein Reittier
   - [[Zweihändig|Zweihändig]]

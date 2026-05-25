@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: d55d2f6b-6910-4938-9af2-7ae19102631a
+ID: 018da8d1-d94f-4b4a-8ccb-ddddf94122e9
+Quelle: datenbank.xml
 Name: Elementarharmonisierende Aura (Eis, Humus)
 title: Elementarharmonisierende Aura (Eis, Humus)
 Kategorie: Magisch

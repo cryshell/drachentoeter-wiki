@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d7efcefd-6e66-4849-9b37-b7b0660322d2
+ID: 63772b92-8858-417e-840f-f58eeafe6611
+Quelle: datenbank.xml
 Name: Firnlauf (Tiergeist)
 title: Firnlauf (Tiergeist)
 Kategorie: Zauber

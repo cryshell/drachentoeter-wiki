@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 7f7da77a-f091-4653-8670-6364e2c074bf
+ID: 4661d41e-445e-42ad-bd96-a3846f50f20b
+Quelle: datenbank.xml
 Name: Adlerauge Luchsenohr
 title: Adlerauge Luchsenohr
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 2af5cc18-525e-48cf-bb79-3623022e4655
+ID: 05bc5fd9-fdca-4be5-b3ee-97f7645f1c8e
+Quelle: datenbank.xml
 Name: Tradition der Perainegeweihten IV
 title: Tradition der Perainegeweihten IV
 Kategorie: Tradition (Karmal)

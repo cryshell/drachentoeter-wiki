@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: ba6a4920-dd7b-400b-af73-9e615778c918
+ID: d1d66bf3-ba03-4158-b8f5-85e4e0f79935
+Quelle: datenbank.xml
 Name: Drachenzunge
 title: Drachenzunge
 Trefferpunkte: 2W6+2

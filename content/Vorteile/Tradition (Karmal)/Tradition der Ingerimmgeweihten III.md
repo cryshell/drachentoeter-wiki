@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 8f82577e-9126-4556-a76f-4c531874c66d
+ID: 504a7f05-9908-4867-8365-0b5f7fad156d
+Quelle: datenbank.xml
 Name: Tradition der Ingerimmgeweihten III
 title: Tradition der Ingerimmgeweihten III
 Kategorie: Tradition (Karmal)

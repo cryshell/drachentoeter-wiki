@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5fc0f609-80e0-4ad6-8a73-c9622092866d
+ID: 8f559fd9-3bf5-4fb6-841f-db1af1e0980b
+Quelle: datenbank.xml
 Name: Traumseherin
 title: Traumseherin
 Kategorie: Zauber

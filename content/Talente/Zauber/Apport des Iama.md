@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a75ea597-0497-4fc4-8334-c7224c238db6
+ID: dd4133f4-17e3-4d61-ae2c-7ed26f982c3a
+Quelle: datenbank.xml
 Name: Apport des Iama
 title: Apport des Iama
 Kategorie: Zauber

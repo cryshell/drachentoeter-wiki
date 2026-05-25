@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: dcce23be-4b90-4d88-9ad9-fbe55ec1a872
+ID: bcec0ac6-e617-4177-a687-1f282cc8c312
+Quelle: datenbank.xml
 Name: Macht der Ungeformten
 title: Macht der Ungeformten
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 319a57cf-a680-4365-984e-505c62832420
+ID: 94c5dac5-acc5-45c2-94c3-fce4f773f847
+Quelle: datenbank.xml
 Name: Kriegskamel
 title: Kriegskamel
 Trefferpunkte: 2W6+3

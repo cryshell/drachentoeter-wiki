@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e6fcafca-dbb7-4c1e-a829-118e19344342
+ID: 2a6339f4-1564-4bd9-951b-88997ba33964
+Quelle: datenbank.xml
 Name: Krötensprung (Tiergeist)
 title: Krötensprung (Tiergeist)
 Kategorie: Zauber

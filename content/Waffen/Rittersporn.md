@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 6a750cc1-8985-42e8-85b5-18375c070b2a
+ID: d5a30369-51ea-4dea-b97c-10848aeedf04
+Quelle: datenbank.xml
 Name: Rittersporn
 title: Rittersporn
 Trefferpunkte: 1W6+2
@@ -30,4 +31,4 @@ Preis: 250
 - **Waffeneigenschaften:**
   - Stich
   - [[Nebenhand|Nebenhand]]
-  - [[Versteckt|Versteckt]]
+  - [[Waffeneigenschaften/Versteckt|Versteckt]]

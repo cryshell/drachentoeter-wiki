@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a5131d74-951c-4e0f-81eb-02972fe800b8
+ID: 60c7d1fe-c8bc-4ab3-a647-d95c9b974115
+Quelle: datenbank.xml
 Name: Invercano Spiegeltrick
 title: Invercano Spiegeltrick
 Kategorie: Zauber

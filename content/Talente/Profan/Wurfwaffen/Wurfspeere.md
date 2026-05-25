@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a5d1e2a7-96a8-4704-8e0b-107f0dd6a24a
+ID: 3e73ab59-3a49-4dab-aaca-8507e5e9ffad
+Quelle: datenbank.xml
 Name: Wurfspeere
 title: Wurfspeere
 Kategorie: Profan

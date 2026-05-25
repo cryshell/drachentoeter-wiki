@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b10b63b9-e72f-4966-8c84-1b02736f66d9
+ID: 7d622ce0-3796-4513-84c9-20a0044f4301
+Quelle: datenbank.xml
 Name: Brennglas und Prisma
 title: Brennglas und Prisma
 Kategorie: Zauber

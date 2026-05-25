@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 70ef3c20-5325-436a-8a5a-f6b7cfb0e04f
+ID: 3539d3d5-c7f0-49ab-bc8f-b272dbd2445e
+Quelle: datenbank.xml
 Name: Tabuzone
 title: Tabuzone
 Kategorie: Zauber

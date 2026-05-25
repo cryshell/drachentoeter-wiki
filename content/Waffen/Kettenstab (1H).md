@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 0ae23f74-c1eb-479a-9fa7-c1021cc4c394
+ID: ded591cf-22de-4c9f-88e2-3d98bc965a4e
+Quelle: datenbank.xml
 Name: Kettenstab (1H)
 title: Kettenstab (1H)
 Trefferpunkte: 2W6+0
@@ -30,5 +31,5 @@ Preis: 120
   - Wucht
   - [[Unberechenbar|Unberechenbar]]
   - [[Klingenfänger|Klingenfänger]]
-  - [[Versteckt|Versteckt]]
+  - [[Waffeneigenschaften/Versteckt|Versteckt]]
   - [[Vielseitig|Vielseitig (TP +1; WM +1; Defensiv(1))]]

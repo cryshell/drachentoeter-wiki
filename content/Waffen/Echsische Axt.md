@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: e3b76f0c-e2d8-4bc7-a08d-61886c3fcc6b
+ID: ab58c0f7-e6ba-4489-975a-dbfff945cc48
+Quelle: datenbank.xml
 Name: Echsische Axt
 title: Echsische Axt
 Trefferpunkte: 2W6+3

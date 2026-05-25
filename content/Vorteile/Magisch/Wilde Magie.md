@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 1cfab930-f96f-4ca9-8190-64e4dc14f888
+ID: 7ae547ba-9742-49b3-8deb-854506ae7743
+Quelle: datenbank.xml
 Name: Wilde Magie
 title: Wilde Magie
 Kategorie: Magisch
@@ -14,4 +15,4 @@ Bei Zaubern tritt ein Patzer bereits bei einer 2 auf, ein Triumph bei einer 19.
 
 - **Erlernen:** 0 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Vampir I]]

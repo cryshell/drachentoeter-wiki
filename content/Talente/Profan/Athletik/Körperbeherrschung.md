@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ef826a57-2b61-423b-bd3a-3a4731e40c25
+ID: 3b36ac24-1325-4a87-9a1e-3193efa56cb3
+Quelle: datenbank.xml
 Name: Körperbeherrschung
 title: Körperbeherrschung
 Kategorie: Profan

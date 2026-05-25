@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: c67cf556-153d-4062-be61-f3169c884576
+ID: 4158d136-136e-442a-b15e-f6204aeb9933
+Quelle: datenbank.xml
 Name: Tradition der Derwische III
 title: Tradition der Derwische III
 Kategorie: Tradition (Magisch)

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: bacb7a13-78cf-4438-bad1-3c134684299b
+ID: 20184abc-ed81-480b-bb93-45e6abc6c78d
+Quelle: datenbank.xml
 Name: Melodie der Versöhnung
 title: Melodie der Versöhnung
 Kategorie: Zauber

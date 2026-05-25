@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b361f491-cdbe-4e35-ac57-cb86ab60f353
+ID: a7747fce-16bc-4ced-8aed-26d5bc48f83b
+Quelle: datenbank.xml
 Name: Ein Freund in der Not
 title: Ein Freund in der Not
 Kategorie: Liturgien

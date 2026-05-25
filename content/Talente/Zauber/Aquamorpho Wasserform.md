@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 86f1bd90-1cf3-4b0f-b0ec-8590f24ecf79
+ID: 9b7a5690-4b3a-41d8-8a42-d6ab1a9881b4
+Quelle: datenbank.xml
 Name: Aquamorpho Wasserform
 title: Aquamorpho Wasserform
 Kategorie: Zauber

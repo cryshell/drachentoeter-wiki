@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 944655dd-2aa5-4168-8d7b-466ea845f1f0
+ID: 4404269f-369f-4b53-b83c-b4a8b2932ef6
+Quelle: datenbank.xml
 Name: Gaben des Blutgeists
 title: Gaben des Blutgeists
 Kategorie: Zauberfertigkeiten

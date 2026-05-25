@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 106558c8-225d-4707-bb9b-f012b1df6e77
+ID: 9befe75c-40e2-439b-8a63-2239bb799c48
+Quelle: datenbank.xml
 Name: Licht des Herrn
 title: Licht des Herrn
 Kategorie: Liturgien

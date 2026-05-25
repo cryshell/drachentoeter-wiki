@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 50abb1e2-0e40-4630-bdef-22d21eecf690
+ID: 247f87c4-be3d-44d4-b474-9163b0e4a689
+Quelle: datenbank.xml
 Name: Geister der Täuschung
 title: Geister der Täuschung
 Kategorie: Zauber

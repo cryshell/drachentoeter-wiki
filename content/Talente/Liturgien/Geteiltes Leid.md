@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0d68a160-72f8-47fd-a2c8-3cc812f8e385
+ID: c6ad5a47-11ee-46c3-b46d-1304ccde1ff0
+Quelle: datenbank.xml
 Name: Geteiltes Leid
 title: Geteiltes Leid
 Kategorie: Liturgien

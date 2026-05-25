@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 439d225f-b0b3-4122-b54e-820667649e8b
+ID: 9a28100c-2d9f-4078-a621-24d68e813544
+Quelle: datenbank.xml
 Name: Gier erzeugen
 title: Gier erzeugen
 Kategorie: Anrufungen

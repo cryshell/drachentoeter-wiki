@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: e587cf73-bcce-4b11-b252-fd3d14ab99a5
+ID: b2b8b24d-6112-4eb4-b027-68c00e5dfc90
+Quelle: datenbank.xml
 Name: Dämonenjäger
 title: Dämonenjäger
 Kategorie: Kampf

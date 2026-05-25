@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 389efd3f-ab71-4e56-9538-2e86ef20bc37
+ID: c8db0d9b-37bf-48c3-aad4-308ce4d8d6cf
+Quelle: datenbank.xml
 Name: Kulminatio Kugelblitz
 title: Kulminatio Kugelblitz
 Kategorie: Zauber

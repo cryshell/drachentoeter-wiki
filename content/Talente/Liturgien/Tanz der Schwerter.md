@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: eb025b85-db08-4450-9a44-6be91a8d6ed3
+ID: d6da1c95-584d-44bb-b807-efb7e58c79d2
+Quelle: datenbank.xml
 Name: Tanz der Schwerter
 title: Tanz der Schwerter
 Kategorie: Liturgien

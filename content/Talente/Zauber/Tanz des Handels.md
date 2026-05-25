@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 83297229-10a3-4573-9913-c26298c2c3df
+ID: bf00c3a8-0459-4401-9a07-e8f9857185c0
+Quelle: datenbank.xml
 Name: Tanz des Handels
 title: Tanz des Handels
 Kategorie: Zauber

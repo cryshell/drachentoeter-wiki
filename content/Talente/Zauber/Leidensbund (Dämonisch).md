@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0799915e-70be-4365-b512-e947b525de81
+ID: 13f2bf03-fdd2-4a6c-93b9-0cc32f55c429
+Quelle: datenbank.xml
 Name: Leidensbund (Dämonisch)
 title: Leidensbund (Dämonisch)
 Kategorie: Zauber

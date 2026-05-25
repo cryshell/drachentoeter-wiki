@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 6ab365dc-98f0-4962-9b5c-2a05141ac5a6
+ID: 350430f8-dc6c-4988-afed-af77e8a4fbcc
+Quelle: datenbank.xml
 Name: Markierung des Todes
 title: Markierung des Todes
 Kategorie: Zauber

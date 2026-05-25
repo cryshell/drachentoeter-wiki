@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: e741f8d0-f30e-45ef-aee0-881c93ff2054
+ID: dbb1f768-0665-44d5-9238-11a4e24067ef
+Quelle: datenbank.xml
 Name: Schriftkenntnis (Chrmk)
 title: Schriftkenntnis (Chrmk)
 Kategorie: Schriftkenntnis

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9b8f5a3f-38e0-4316-9e11-de31704857fd
+ID: f99ff970-1672-4d73-9045-b5dd0a6af126
+Quelle: datenbank.xml
 Name: Salzwasserrune
 title: Salzwasserrune
 Kategorie: Zauber

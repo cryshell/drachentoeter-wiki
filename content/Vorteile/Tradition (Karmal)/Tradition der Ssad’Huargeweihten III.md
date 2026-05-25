@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: f42f66fe-1218-4a90-a43b-663078bd2eb6
+ID: 0285710d-cc30-4204-9973-162f329272d3
+Quelle: datenbank.xml
 Name: Tradition der Ssad’Huargeweihten III
 title: Tradition der Ssad’Huargeweihten III
 Kategorie: Tradition (Karmal)

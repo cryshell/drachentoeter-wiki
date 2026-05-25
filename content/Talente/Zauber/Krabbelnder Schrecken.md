@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d7fe9e0b-cf15-495a-81f7-69d86b25af39
+ID: 570eca5f-6ec9-4060-9b77-53017ff5adc3
+Quelle: datenbank.xml
 Name: Krabbelnder Schrecken
 title: Krabbelnder Schrecken
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: bdbe44ae-2197-468f-8dfc-d53b7f813734
+ID: 5b56709f-8a13-4ff6-9156-285f04d56f8a
+Quelle: datenbank.xml
 Name: Optikstein
 title: Optikstein
 Kategorie: Zauber

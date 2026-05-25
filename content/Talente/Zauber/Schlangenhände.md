@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e6e0b6d0-b821-4241-a10d-edf0c5e2779e
+ID: 4bc60d34-3e10-40da-a5e0-233247828e47
+Quelle: datenbank.xml
 Name: Schlangenhände
 title: Schlangenhände
 Kategorie: Zauber

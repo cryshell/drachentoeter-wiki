@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9fdb9a9e-3bfa-4867-9498-d917c74cba70
+ID: 99c82c18-92ec-490b-bea8-20132100b0b5
+Quelle: datenbank.xml
 Name: Erwachen des Stromes
 title: Erwachen des Stromes
 Kategorie: Liturgien

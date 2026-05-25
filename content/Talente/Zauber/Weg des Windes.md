@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d11cbe0d-c840-475a-9421-c3ba3c05c419
+ID: 14d76520-d9f3-4d11-8f94-52eeb0bb3199
+Quelle: datenbank.xml
 Name: Weg des Windes
 title: Weg des Windes
 Kategorie: Zauber

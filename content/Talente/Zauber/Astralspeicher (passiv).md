@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1fd3806f-6d41-4417-835d-54ef7ef836b2
+ID: 684c3530-9d1a-4863-8b9c-d0ca79d96139
+Quelle: datenbank.xml
 Name: Astralspeicher (passiv)
 title: Astralspeicher (passiv)
 Kategorie: Zauber

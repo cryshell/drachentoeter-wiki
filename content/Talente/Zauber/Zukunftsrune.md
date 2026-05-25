@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 709af7cf-94f1-40af-8ef0-b67337a13e0b
+ID: ad6574f6-e56c-4123-96e2-6347e3cc3cfb
+Quelle: datenbank.xml
 Name: Zukunftsrune
 title: Zukunftsrune
 Kategorie: Zauber

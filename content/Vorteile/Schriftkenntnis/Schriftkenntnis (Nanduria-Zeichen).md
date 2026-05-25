@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 908032d0-c067-4dd4-a554-650eab4923b2
+ID: 995ba606-27c0-4f4c-8800-8c040cf215b8
+Quelle: datenbank.xml
 Name: Schriftkenntnis (Nanduria-Zeichen)
 title: Schriftkenntnis (Nanduria-Zeichen)
 Kategorie: Schriftkenntnis

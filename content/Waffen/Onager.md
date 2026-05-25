@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: b0d33ee1-3c54-4505-bd11-b2678ced2b1d
+ID: a2c6cba0-7654-4d12-b1fb-15d13410dccb
+Quelle: datenbank.xml
 Name: Onager
 title: Onager
 Trefferpunkte: 1W20+10

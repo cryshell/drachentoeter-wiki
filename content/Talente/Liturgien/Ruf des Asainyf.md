@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 27b53caf-7892-4c80-b212-9e6a92adbff0
+ID: a624f3f7-bdd7-483b-9eeb-a36cc271a17a
+Quelle: datenbank.xml
 Name: Ruf des Asainyf
 title: Ruf des Asainyf
 Kategorie: Liturgien

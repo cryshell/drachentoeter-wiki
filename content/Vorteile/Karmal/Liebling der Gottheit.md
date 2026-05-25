@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 977f44b4-852f-4d90-9634-7a9a362ea0be
+ID: bca8ee53-67a4-4c22-9e1c-747a91a20c4c
+Quelle: datenbank.xml
 Name: Liebling der Gottheit
 title: Liebling der Gottheit
 Kategorie: Karmal

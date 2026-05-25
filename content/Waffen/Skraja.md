@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: b65f9acb-b998-4a3c-8067-029aa57d1699
+ID: f35c07ac-7d46-42f9-9872-b61dd36477e3
+Quelle: datenbank.xml
 Name: Skraja
 title: Skraja
 Trefferpunkte: 1W6+2

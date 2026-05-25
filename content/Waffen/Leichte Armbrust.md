@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 2c22304f-9dca-4bda-a53e-22724e361bdc
+ID: aa9410cc-9311-4654-96c0-7100c08af53e
+Quelle: datenbank.xml
 Name: Leichte Armbrust
 title: Leichte Armbrust
 Trefferpunkte: 3W6+1
@@ -25,5 +26,5 @@ Fernkampf: true
 - **Waffeneigenschaften:**
   - Schuss
   - [[Spannschloss|Spannschloss]]
-  - [[Schwer|Schwer (4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (4)]]
   - [[Zweihändig|Zweihändig]]

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9ec9927a-cdab-4455-9052-1f1701722a2c
+ID: aa5712ff-731c-41dc-94d0-7f8042e7ccbf
+Quelle: datenbank.xml
 Name: Schutzsegen
 title: Schutzsegen
 Kategorie: Liturgien

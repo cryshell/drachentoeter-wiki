@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 68004c8e-ec81-409f-81ab-45c6c62f9370
+ID: 68465754-b4ea-4ebb-b5cd-4766bb6a0300
+Quelle: datenbank.xml
 Name: Kulturkunde (Firnelfen)
 title: Kulturkunde (Firnelfen)
 Kategorie: Kulturkunde

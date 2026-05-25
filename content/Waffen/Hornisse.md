@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 3b0691af-4734-4ff1-8cbf-103ea5d8fd70
+ID: a9145df2-be86-46e7-bce4-b3d9b4b04cac
+Quelle: datenbank.xml
 Name: Hornisse
 title: Hornisse
 Trefferpunkte: 3W6+6

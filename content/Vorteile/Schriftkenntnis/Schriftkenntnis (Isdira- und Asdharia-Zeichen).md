@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: b55454b0-9f58-4956-88d6-1f45ce6c054a
+ID: 34cf5ac1-48ed-455b-8822-d0da4e2b1c4a
+Quelle: datenbank.xml
 Name: Schriftkenntnis (Isdira- und Asdharia-Zeichen)
 title: Schriftkenntnis (Isdira- und Asdharia-Zeichen)
 Kategorie: Schriftkenntnis

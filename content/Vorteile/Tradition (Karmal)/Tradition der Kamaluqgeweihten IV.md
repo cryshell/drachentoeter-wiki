@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 2a7d7b36-932c-4dbb-b59c-68bcadce795e
+ID: 7c494443-eb0d-4161-9de7-4632d68080aa
+Quelle: datenbank.xml
 Name: Tradition der Kamaluqgeweihten IV
 title: Tradition der Kamaluqgeweihten IV
 Kategorie: Tradition (Karmal)

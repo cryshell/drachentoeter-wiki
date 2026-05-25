@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 081ed175-7ba2-4cf4-86a6-60b724157175
+ID: 78e32684-c351-4a82-996e-063d20d56dfd
+Quelle: datenbank.xml
 Name: Tradition der Durro-Dûn III
 title: Tradition der Durro-Dûn III
 Kategorie: Tradition (Magisch)

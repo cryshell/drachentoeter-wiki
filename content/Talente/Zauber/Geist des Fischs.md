@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c942ee21-1f7b-4503-b510-2d97cc5bba25
+ID: e94b2bea-f19b-43ca-9faf-aacc47a4a8ed
+Quelle: datenbank.xml
 Name: Geist des Fischs
 title: Geist des Fischs
 Kategorie: Zauber

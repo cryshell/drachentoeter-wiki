@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0725bbfa-cf92-4043-aece-cb2a883c18e7
+ID: 04f83abc-5e3b-4276-949f-fee749f4f82b
+Quelle: datenbank.xml
 Name: Pestilenz
 title: Pestilenz
 Kategorie: Zauber

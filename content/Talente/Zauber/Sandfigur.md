@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: fcde7401-0240-4dba-9e58-07f81a379e4c
+ID: 6371929e-8b2b-4775-a948-75a9ef7cabf4
+Quelle: datenbank.xml
 Name: Sandfigur
 title: Sandfigur
 Kategorie: Zauber

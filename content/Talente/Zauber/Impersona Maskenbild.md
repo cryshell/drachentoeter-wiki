@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5ccd917a-8c12-4e0a-a7e1-b7845c1f5490
+ID: 5b26a097-04d5-4950-92f1-35d1bb8d8fdb
+Quelle: datenbank.xml
 Name: Impersona Maskenbild
 title: Impersona Maskenbild
 Kategorie: Zauber

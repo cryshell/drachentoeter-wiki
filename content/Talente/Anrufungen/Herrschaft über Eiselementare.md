@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b985d3de-26ca-41d6-ae4c-9af29458cec5
+ID: 053e9cd7-92c8-4f16-91a9-194a978187f0
+Quelle: datenbank.xml
 Name: Herrschaft über Eiselementare
 title: Herrschaft über Eiselementare
 Kategorie: Anrufungen

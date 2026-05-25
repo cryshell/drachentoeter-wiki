@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 85224626-3e65-4476-ab45-7d0f4195ee05
+ID: 43925036-811d-4f46-9af3-b43f8b8dab73
+Quelle: datenbank.xml
 Name: Segen der Heiligen Theria
 title: Segen der Heiligen Theria
 Kategorie: Liturgien

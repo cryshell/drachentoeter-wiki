@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 30abeecd-0e21-462c-b13c-d54bb5f4ac66
+ID: 83712052-0801-4db1-af1f-478bcddff76d
+Quelle: datenbank.xml
 Name: Schwindende Zauberkraft
 title: Schwindende Zauberkraft
 Kategorie: Liturgien

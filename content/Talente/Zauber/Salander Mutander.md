@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 4e3edb9d-1165-46ea-9879-59e50f7a24cc
+ID: 34d04f76-e22e-4e9f-9b61-dd6bb10b357b
+Quelle: datenbank.xml
 Name: Salander Mutander
 title: Salander Mutander
 Kategorie: Zauber

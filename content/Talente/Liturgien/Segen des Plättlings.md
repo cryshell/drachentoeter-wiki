@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 94a26aab-0f8d-4f4e-9c48-d904a1b3de42
+ID: a52597d2-51b8-4d71-a249-c1d50e6b7cfd
+Quelle: datenbank.xml
 Name: Segen des Plättlings
 title: Segen des Plättlings
 Kategorie: Liturgien

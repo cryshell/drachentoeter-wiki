@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 5e3cd919-f600-4e4e-b757-3767dbf9b975
+ID: d938ae1d-9726-44ca-8123-7c85db42689f
+Quelle: datenbank.xml
 Name: Schwerer Dolch
 title: Schwerer Dolch
 Trefferpunkte: 1W6+2

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 3beef288-ecd3-459c-8ce4-1f7d51e40885
+ID: a8545292-5811-46d5-b996-6696d6d019c1
+Quelle: datenbank.xml
 Name: Waqqif
 title: Waqqif
 Trefferpunkte: 1W6+2

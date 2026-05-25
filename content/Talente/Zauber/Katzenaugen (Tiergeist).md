@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: dede3336-107a-4fbf-b7f8-86969251bfdf
+ID: 8d00f9b3-16e7-4782-b900-dad7433eb734
+Quelle: datenbank.xml
 Name: Katzenaugen (Tiergeist)
 title: Katzenaugen (Tiergeist)
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 47ca9101-c35c-4229-ab57-b11189609fac
+ID: 067a165e-b9fe-4f34-92ac-4cef3551b842
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Zelemja)
 title: Sprachkenntnis (Zelemja)
 Kategorie: Sprachkenntnis

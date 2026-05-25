@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 7d514794-baf4-481d-9710-46b22e28f087
+ID: c55185a4-b3ee-4087-baa5-9093fc051725
+Quelle: datenbank.xml
 Name: Wesen des (Tieres)
 title: Wesen des (Tieres)
 Kategorie: Zauber

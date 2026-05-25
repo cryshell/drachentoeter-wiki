@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 0a1f6162-9fc6-4cd9-80d0-849c0a2f33a4
+ID: 8a6c7ed3-babe-46d0-9289-30386099eea6
+Quelle: datenbank.xml
 Name: Sklaventod
 title: Sklaventod
 Trefferpunkte: 2W6+3
@@ -29,4 +30,4 @@ Preis: 250
 - **Waffeneigenschaften:**
   - Hieb
   - [[Kopflastig|Kopflastig]]
-  - [[Einschüchternd|Einschüchternd]]
+  - [[Waffeneigenschaften/Einschüchternd|Einschüchternd]]

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: cf0a2766-98bc-43db-b2e1-c5d7310572c8
+ID: c5b5fcaf-6d5f-4225-9d5d-f2f21817ec86
+Quelle: datenbank.xml
 Name: Zauberrunen
 title: Zauberrunen
 Kategorie: Zauberfertigkeiten

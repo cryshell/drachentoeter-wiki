@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 9b9b8a0a-b2d2-464a-9c88-5c5f1fcecb95
+ID: be16cd62-347b-4721-a7d5-40dc4adc4810
+Quelle: datenbank.xml
 Name: Wurfbeil
 title: Wurfbeil
 Trefferpunkte: 2W6+0

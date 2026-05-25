@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b5e80ab2-ccf4-4469-bcda-4ee3716066db
+ID: 1cc4919a-0af8-4b90-810c-4534cc9d1aef
+Quelle: datenbank.xml
 Name: Tanz der Angriffslust
 title: Tanz der Angriffslust
 Kategorie: Zauber

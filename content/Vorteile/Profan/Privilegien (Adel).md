@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 9fa92563-6920-43f0-bd9b-7f574db8527f
+ID: 1272b3ac-191d-4d5f-ad7b-e189399d72e6
+Quelle: datenbank.xml
 Name: Privilegien (Adel)
 title: Privilegien (Adel)
 Kategorie: Profan

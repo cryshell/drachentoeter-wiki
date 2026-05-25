@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 12668b2d-d7a0-4138-add6-999ad3b54b3f
+ID: 4751cebb-ef12-41c4-886f-93e50fbedb9d
+Quelle: datenbank.xml
 Name: Defensiver Kampfstil
 title: Defensiver Kampfstil
 Kategorie: Kampf

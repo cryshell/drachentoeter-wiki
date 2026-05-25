@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 19855ca5-ed5d-4997-a902-95515789630f
+ID: c4af3bfa-d7fa-475c-9868-1b66ccf15c21
+Quelle: datenbank.xml
 Name: Tradition der Borbaradianer III
 title: Tradition der Borbaradianer III
 Kategorie: Tradition (Magisch)

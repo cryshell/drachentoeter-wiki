@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 4538f0f3-8f2b-4393-b8fb-2085e7c6b6e9
+ID: 3ca5fd4f-d919-48af-a080-84425f78002c
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Rissoal)
 title: Sprachkenntnis (Rissoal)
 Kategorie: Sprachkenntnis

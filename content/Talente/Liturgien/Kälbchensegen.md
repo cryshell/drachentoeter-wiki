@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2780cd78-95a1-4d2c-938f-7ff8b54d72f3
+ID: 8a93e892-6edf-40ed-985c-8c77afeea44a
+Quelle: datenbank.xml
 Name: Kälbchensegen
 title: Kälbchensegen
 Kategorie: Liturgien

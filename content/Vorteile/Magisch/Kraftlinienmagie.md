@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: a60ed57e-04f2-431c-9efd-6aa453fc035f
+ID: 698c2f89-c962-47de-906f-e7a825528ed7
+Quelle: datenbank.xml
 Name: Kraftlinienmagie
 title: Kraftlinienmagie
 Kategorie: Magisch
@@ -18,7 +19,7 @@ An Kraftlinien oder -knoten haben Zauber mit passenden Fertigkeiten Vorteil und 
 
 - **Erlernen:** 40 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Vampir I]]
   - Attribut [[Klugheit|KL]] 6
 - **Siehe auch:**
   - [[Regeneration]]

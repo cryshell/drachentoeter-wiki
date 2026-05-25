@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 3d8faf42-820c-4107-8518-443a8301315e
+ID: 0a0c13f7-ff6a-42dc-b945-1db0dc0435ab
+Quelle: datenbank.xml
 Name: Teleportation
 title: Teleportation
 Kategorie: Anrufungen

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c35fb860-b6f7-41f2-9439-2ff6365e1418
+ID: 8cc26d2c-12ac-4927-a8e1-c29677f58da1
+Quelle: datenbank.xml
 Name: Blick der Weberin
 title: Blick der Weberin
 Kategorie: Liturgien

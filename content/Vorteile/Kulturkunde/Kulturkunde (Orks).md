@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 51e11a4b-3c20-42cc-a84e-717f7512fe51
+ID: 7775a7d2-3940-4b25-a754-cc78e0926423
+Quelle: datenbank.xml
 Name: Kulturkunde (Orks)
 title: Kulturkunde (Orks)
 Kategorie: Kulturkunde

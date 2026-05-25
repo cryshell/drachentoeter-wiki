@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d6b9919c-3184-4e8a-ae8e-b44a3eb973ca
+ID: c9262d57-2064-4249-96fe-1fe13c70ed61
+Quelle: datenbank.xml
 Name: Friedensrune
 title: Friedensrune
 Kategorie: Zauber

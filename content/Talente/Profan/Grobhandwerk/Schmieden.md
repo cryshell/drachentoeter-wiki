@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 15c325a5-f734-4e34-bdd2-92cd2baca915
+ID: 5532c5fd-7263-4ab2-b2ca-fe1c14c3fddb
+Quelle: datenbank.xml
 Name: Schmieden
 title: Schmieden
 Kategorie: Profan

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: abae4df2-0de9-465f-9c7f-c73f7731729f
+ID: 8dbfcbc0-1e5b-45b5-9ff9-7c7fd4b819e2
+Quelle: datenbank.xml
 Name: Exposami Lebenskraft (Tiergeist)
 title: Exposami Lebenskraft (Tiergeist)
 Kategorie: Zauber

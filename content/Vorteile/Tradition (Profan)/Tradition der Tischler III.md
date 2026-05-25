@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 8233e977-312b-4813-811b-02a5edf83b61
+ID: e88aee76-f6f2-4b9b-9cd5-59f8530efba8
+Quelle: datenbank.xml
 Name: Tradition der Tischler III
 title: Tradition der Tischler III
 Kategorie: Tradition (Profan)
@@ -18,7 +19,7 @@ Du kannst Eisenholz verarbeiten (Maraskan). Ermöglicht zudem die Modifikation S
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Attribut FF 8 ODER Attribut KK 8
+  - Attribut [[Fingerfertigkeit|FF]] 8 ODER Attribut [[Körperkraft|KK]] 8
   - Vorteil [[Tradition der Tischler II]]
 - **Siehe auch:**
   - [[Spezialanfertigung]]

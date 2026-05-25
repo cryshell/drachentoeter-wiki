@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 28cb243c-b7fe-4be5-be70-ae9537a5269c
+ID: 99278c1d-66d2-4f99-8601-922e4cb92e68
+Quelle: datenbank.xml
 Name: Ruf zur Ruhe
 title: Ruf zur Ruhe
 Kategorie: Liturgien

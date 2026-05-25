@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffeneigenschaft
-ID:
+ID: da01848f-6aa7-4f01-951c-21fd8a5e3fd8
+Quelle: datenbank.xml
 Name: Nebenhand
 title: Nebenhand
 ---

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 40111e4c-802c-4654-8c27-c47d521fbbdd
+ID: 11233f81-b59f-474c-b5d6-f3d8ba2e15ec
+Quelle: datenbank.xml
 Name: Vampirische Berührung
 title: Vampirische Berührung
 Kategorie: Anrufungen

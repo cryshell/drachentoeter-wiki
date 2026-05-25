@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 7b5fb40e-999e-4d82-b2f5-fb800c029c20
+ID: 93a30569-b948-4b7d-8ebb-d3b03e75a899
+Quelle: datenbank.xml
 Name: "Kommando: Ziel ausschalten!"
 title: "Kommando: Ziel ausschalten!"
 Kategorie: Kampf

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 2388fd4d-49f3-4ba7-9014-3c2cc157b989
+ID: 901c692c-7308-4472-8706-52c72ebf4496
+Quelle: datenbank.xml
 Name: Gesegnete Waffe
 title: Gesegnete Waffe
 Kategorie: Karmal

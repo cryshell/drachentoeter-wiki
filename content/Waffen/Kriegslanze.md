@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 8efd09f1-0293-49c4-87c3-643e005bb4b5
+ID: a316919f-004d-4ebd-8933-3082de0e651b
+Quelle: datenbank.xml
 Name: Kriegslanze
 title: Kriegslanze
 Trefferpunkte: 3W6+1
@@ -25,5 +26,5 @@ Preis: 120
   - Stich
   - [[Niederwerfen|Niederwerfen]]
   - [[Rüstungsbrechend|Rüstungsbrechend]]
-  - [[Schwer|Schwer (4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (4)]]
   - [[Sperrig|Sperrig]]

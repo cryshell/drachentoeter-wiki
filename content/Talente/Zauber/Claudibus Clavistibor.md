@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 329f9b19-76fb-4a3f-ba48-a8b3a2b631e2
+ID: 18e37294-23dd-4089-8272-28145b52d72e
+Quelle: datenbank.xml
 Name: Claudibus Clavistibor
 title: Claudibus Clavistibor
 Kategorie: Zauber

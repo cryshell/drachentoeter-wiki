@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e693571c-eec0-4fb1-a657-7e49ce2d764c
+ID: ace82160-c1fd-4bbf-b08d-8dedb00faa96
+Quelle: datenbank.xml
 Name: Langer Arm
 title: Langer Arm
 Kategorie: Zauber

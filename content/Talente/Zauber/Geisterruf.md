@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9d9a7855-e44d-465a-a908-f1465ec18bd3
+ID: 4e60654c-677a-4e8d-8910-145ed9af4e01
+Quelle: datenbank.xml
 Name: Geisterruf
 title: Geisterruf
 Kategorie: Zauber

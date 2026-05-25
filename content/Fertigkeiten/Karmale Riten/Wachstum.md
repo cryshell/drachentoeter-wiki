@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: e7e268e8-2f33-4535-8406-b0c74563523b
+ID: 0c53fc19-0a31-43b1-92a6-2f21957bb7cc
+Quelle: datenbank.xml
 Name: Wachstum
 title: Wachstum
 Kategorie: Karmale Riten

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 0115b970-ff68-49c5-bc6e-37bd54f4f681
+ID: 3d9e303c-50b6-4622-9521-8d86de16cd20
+Quelle: datenbank.xml
 Name: Linkhand
 title: Linkhand
 Trefferpunkte: 1W6+1

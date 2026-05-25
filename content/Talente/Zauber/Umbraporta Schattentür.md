@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 044bf180-dd83-4c65-a547-053604da653e
+ID: 63a5f253-7b6d-4c3f-9245-40f1cd886204
+Quelle: datenbank.xml
 Name: Umbraporta Schattentür
 title: Umbraporta Schattentür
 Kategorie: Zauber

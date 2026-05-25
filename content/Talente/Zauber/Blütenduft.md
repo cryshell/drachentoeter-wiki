@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0fa1ad38-ab0d-49e5-959f-14d0fb30a46c
+ID: 98ef3774-8178-4152-b6cf-7b2e4e1da7a4
+Quelle: datenbank.xml
 Name: Blütenduft
 title: Blütenduft
 Kategorie: Zauber

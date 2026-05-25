@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: ce541a6d-5354-47a8-aa37-80cf5b886737
+ID: 2d8d1238-e097-49ca-be3a-4c302777ce47
+Quelle: datenbank.xml
 Name: Wahre Namen Belkelels II
 title: Wahre Namen Belkelels II
 Kategorie: Wahre Namen
@@ -17,6 +18,6 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Geweiht I]] ODER Vorteil [[Paktierer I]]
   - Attribut [[Klugheit|KL]] 6
   - Vorteil [[Wahre Namen Belkelels I]]

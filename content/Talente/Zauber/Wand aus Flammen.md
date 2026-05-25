@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d3eba034-095d-4694-8dec-c406cc75f3e5
+ID: 7bcfc114-d32d-46d0-a985-85159e5aebfb
+Quelle: datenbank.xml
 Name: Wand aus Flammen
 title: Wand aus Flammen
 Kategorie: Zauber

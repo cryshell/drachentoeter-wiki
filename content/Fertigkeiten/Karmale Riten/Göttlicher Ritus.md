@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 3d2c5d82-2bce-41da-8d66-e5917ee745ff
+ID: 24cb6b08-98a0-47e0-a67c-d737d0b48a40
+Quelle: datenbank.xml
 Name: Göttlicher Ritus
 title: Göttlicher Ritus
 Kategorie: Karmale Riten

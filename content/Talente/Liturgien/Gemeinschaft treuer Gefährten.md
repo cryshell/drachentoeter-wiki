@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 890178b8-59ea-4824-83b3-c0fbc26f8698
+ID: d331413f-c756-4f2e-b341-865e835b8581
+Quelle: datenbank.xml
 Name: Gemeinschaft treuer Gefährten
 title: Gemeinschaft treuer Gefährten
 Kategorie: Liturgien

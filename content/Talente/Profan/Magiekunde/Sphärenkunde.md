@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 29136e3b-3935-44fa-9dcb-e4e14ca32615
+ID: c45c56c7-e4c5-4d5b-befc-c627f13800f6
+Quelle: datenbank.xml
 Name: Sphärenkunde
 title: Sphärenkunde
 Kategorie: Profan

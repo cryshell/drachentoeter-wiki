@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 45926392-271b-4c81-9832-328c20d9b8c6
+ID: 196cdcf8-b116-4084-a7ed-7ac4e901d6b9
+Quelle: datenbank.xml
 Name: Geistesmanipulation
 title: Geistesmanipulation
 Kategorie: Zauber

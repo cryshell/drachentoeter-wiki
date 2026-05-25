@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Abgeleiteter Wert
-ID: 48d9a5f2-56a5-4885-b3e5-75fd99eb083b
+ID:
+Quelle: datenbank.xml
 Name: Tragkraft
 title: Tragkraft
 Abkürzung: TK

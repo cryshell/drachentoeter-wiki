@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 97d7877f-6caa-4189-91fe-a796f7733164
+ID: 46b0e94b-34f3-4222-8026-e42e3442854a
+Quelle: datenbank.xml
 Name: Tradition der Hexen III
 title: Tradition der Hexen III
 Kategorie: Tradition (Magisch)

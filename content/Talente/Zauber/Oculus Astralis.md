@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0acbc8f7-fada-4251-ba94-32c6379ffbce
+ID: ea175f30-6902-4174-a640-414206fc6619
+Quelle: datenbank.xml
 Name: Oculus Astralis
 title: Oculus Astralis
 Kategorie: Zauber

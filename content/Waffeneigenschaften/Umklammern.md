@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffeneigenschaft
-ID:
+ID: 4fec4e18-a874-4659-8eaf-ebc5f6f9cd5d
+Quelle: datenbank.xml
 Name: Umklammern
 title: Umklammern
 ---

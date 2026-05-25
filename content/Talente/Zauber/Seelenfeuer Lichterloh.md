@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 75ad217b-7fbe-45fe-9ccc-75e6ccc3ec5c
+ID: c4ed0507-2295-4f17-82b0-a0d80e75fd1a
+Quelle: datenbank.xml
 Name: Seelenfeuer Lichterloh
 title: Seelenfeuer Lichterloh
 Kategorie: Zauber

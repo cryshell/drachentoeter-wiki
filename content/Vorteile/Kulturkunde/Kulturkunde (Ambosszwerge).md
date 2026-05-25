@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 77d84267-6606-4a5b-a095-755ab0ad375b
+ID: b4283def-50dd-482b-afeb-1fd0a5c2519d
+Quelle: datenbank.xml
 Name: Kulturkunde (Ambosszwerge)
 title: Kulturkunde (Ambosszwerge)
 Kategorie: Kulturkunde

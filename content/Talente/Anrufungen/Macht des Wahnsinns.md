@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 51ecc2d8-c2eb-41c3-b41d-2d49781f4c74
+ID: 0af949c3-96ef-45fb-8a06-fd6ae1d9b768
+Quelle: datenbank.xml
 Name: Macht des Wahnsinns
 title: Macht des Wahnsinns
 Kategorie: Anrufungen

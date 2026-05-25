@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 98c708e7-9f61-4481-a9cd-53f7450b40e9
+ID: 0c644efc-27d3-4035-88d2-c3425c53b2bc
+Quelle: datenbank.xml
 Name: Lanzenreiten
 title: Lanzenreiten
 Kategorie: Profan

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: faca441f-c209-4d51-bf9d-f0cae66820cd
+ID: 04827f82-ca2b-4286-91fd-5d57179cb35c
+Quelle: datenbank.xml
 Name: Reptilea Natternnest
 title: Reptilea Natternnest
 Kategorie: Zauber

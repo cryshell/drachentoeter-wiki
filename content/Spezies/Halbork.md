@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Spezies
-ID: 1fc0d754-ed6d-4b96-b46c-c40696324812
+ID: 8a87520f-8505-4c77-a937-b9058701d433
+Quelle: datenbank.xml
 Name: Halbork
 ---
 Halborks vereinen ein orkisches und menschliches Erbe, erkennbar an ihrer robusten Statur und meist groben Gesichtszügen. Im Gegensatz zu Orks haben sie jedoch kein so ausgeprägtes Gebiss und sie sind zwar dicht behaart, haben aber kein Fell. Sie sind hauptsächlich in Nordaventurien aufzufinden, insbesondere im orkisch besetzten Svellttal.

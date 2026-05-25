@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 704dc033-76a1-40f5-80b2-84f4f3a672b0
+ID: d4f15f22-470d-4db9-ae1b-114ff6a29ed3
+Quelle: datenbank.xml
 Name: Seelenschwert
 title: Seelenschwert
 Kategorie: Anrufungen

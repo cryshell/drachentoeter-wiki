@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 1bd7d717-e168-40db-8c3c-9e07b7632a6e
+ID: d9f71d95-5923-4bc6-85e3-9f35663c88ca
+Quelle: datenbank.xml
 Name: Stiller Wanderer
 title: Stiller Wanderer
 Kategorie: Karmale Riten

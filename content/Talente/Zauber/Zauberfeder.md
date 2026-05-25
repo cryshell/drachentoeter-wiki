@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f8103201-1aa6-4352-a5cd-cd6e38cad761
+ID: 03a63415-14af-4fda-9bb4-7c4ecabaa0d6
+Quelle: datenbank.xml
 Name: Zauberfeder
 title: Zauberfeder
 Kategorie: Zauber

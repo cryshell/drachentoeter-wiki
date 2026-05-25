@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffeneigenschaft
-ID:
+ID: 2f62d7ce-ccb3-4934-861f-e3a8a920d74b
+Quelle: datenbank.xml
 Name: Einschüchternd
 title: Einschüchternd
 ---

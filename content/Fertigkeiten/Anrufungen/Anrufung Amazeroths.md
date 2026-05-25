@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 75d7c04b-7c26-45e2-89b0-7e4b1fa13e4b
+ID: 6c9fae33-ee50-471a-b288-e66b15160799
+Quelle: datenbank.xml
 Name: Anrufung Amazeroths
 title: Anrufung Amazeroths
 Kategorie: Anrufungen

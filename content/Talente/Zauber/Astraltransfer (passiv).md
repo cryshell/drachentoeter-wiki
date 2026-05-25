@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 22df27d5-dc50-401f-af67-ec8c69e31e87
+ID: 39331d40-a627-476c-99d7-cfc55f341422
+Quelle: datenbank.xml
 Name: Astraltransfer (passiv)
 title: Astraltransfer (passiv)
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: fb64142c-e31f-47d5-be38-8285788e2e02
+ID: 11deea6d-e0e9-4ee7-93eb-f5a80a28b6e5
+Quelle: datenbank.xml
 Name: Rahjas geheiligter Wein
 title: Rahjas geheiligter Wein
 Kategorie: Liturgien

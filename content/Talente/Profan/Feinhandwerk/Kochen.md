@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5ee85935-0f2c-4b1b-b5d0-6b10c34a111d
+ID: a7c5e523-162c-4997-9e74-acbe1648f5a4
+Quelle: datenbank.xml
 Name: Kochen
 title: Kochen
 Kategorie: Profan

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: bb6c2245-5ca9-4c9d-8b7d-6b599e30b427
+ID: fbf52d44-b1fc-4dec-833a-73c3203c623a
+Quelle: datenbank.xml
 Name: Fluch der Götter (Mada)
 title: Fluch der Götter (Mada)
 Kategorie: Nachteil

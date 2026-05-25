@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 865cd482-a159-4b3d-8a32-fd0d24f5f6e1
+ID: 5bac1a7d-b5b5-499a-9f20-fad45a184a56
+Quelle: datenbank.xml
 Name: Tradition der Runenmagier
 title: Tradition der Runenmagier
 Kategorie: Tradition (Magisch)

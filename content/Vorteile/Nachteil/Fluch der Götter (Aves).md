@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 9bb2ebf7-4cc7-48e9-8d57-b5335554d73f
+ID: 15372cd8-370f-4fa8-a033-22e5129a43f9
+Quelle: datenbank.xml
 Name: Fluch der Götter (Aves)
 title: Fluch der Götter (Aves)
 Kategorie: Nachteil

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 18284c6a-26a6-411b-adf0-75a880cb04a6
+ID: 7113c313-95c4-47d2-bc27-1be19c1cdaa2
+Quelle: datenbank.xml
 Name: Tradition der Blakharazpaktierer IV
 title: Tradition der Blakharazpaktierer IV
 Kategorie: Tradition (Paktierer)

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 29f95eab-241b-4e39-a61e-149dacbb13c3
+ID: 7cf17b44-8a70-4739-a3d3-2c9b58765970
+Quelle: datenbank.xml
 Name: Beeindruckendes Wunder
 title: Beeindruckendes Wunder
 Kategorie: Karmal

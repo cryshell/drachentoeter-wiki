@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a319b4e8-2f62-4fa0-af30-82a1d65228f0
+ID: 75de2957-dc7e-4133-8299-3ee5fe82bf60
+Quelle: datenbank.xml
 Name: Jagdglück
 title: Jagdglück
 Kategorie: Liturgien

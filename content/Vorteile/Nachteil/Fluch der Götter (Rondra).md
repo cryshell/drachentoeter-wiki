@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 8985ec69-ec44-4e32-86cc-9aefda1a5480
+ID: 376fac0a-449a-42b6-aefd-c9f228960c73
+Quelle: datenbank.xml
 Name: Fluch der Götter (Rondra)
 title: Fluch der Götter (Rondra)
 Kategorie: Nachteil

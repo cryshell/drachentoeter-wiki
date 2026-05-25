@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f2c50848-b419-43ec-85e1-ce831b6da531
+ID: 24648b68-cef1-40c8-90c8-e9d262a9bcd2
+Quelle: datenbank.xml
 Name: Rhythmen des Zögerns
 title: Rhythmen des Zögerns
 Kategorie: Zauber

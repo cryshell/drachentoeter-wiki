@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5ded515a-2944-4198-807a-f25b9f0ba939
+ID: 8afa74ee-67f6-4fe2-8b6e-cf7c8545feb9
+Quelle: datenbank.xml
 Name: "Warmes gefriere!"
 title: "Warmes gefriere!"
 Kategorie: Zauber

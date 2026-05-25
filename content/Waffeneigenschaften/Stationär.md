@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffeneigenschaft
-ID:
+ID: 17d4aa5b-e5a4-45b9-a66e-58a07359dec3
+Quelle: datenbank.xml
 Name: Stationär
 title: Stationär
 ---

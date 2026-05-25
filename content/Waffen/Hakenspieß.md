@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 6084d8d7-2fb1-4baa-a380-68568d55733d
+ID: be0e4926-d821-4bfe-99cd-638c705dc679
+Quelle: datenbank.xml
 Name: Hakenspieß
 title: Hakenspieß
 Trefferpunkte: 2W6+3

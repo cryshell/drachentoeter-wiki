@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 07ca67c4-3ce8-4e06-897a-2ea9b7ef9dae
+ID: a8fba1c2-d878-4e1a-881f-0cb22c2a9d9c
+Quelle: datenbank.xml
 Name: Exposami Lebenskraft
 title: Exposami Lebenskraft
 Kategorie: Zauber

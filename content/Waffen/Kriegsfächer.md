@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 1012fd9a-22b5-44a2-adf8-40dd4e9c5cb7
+ID: daee5404-57d9-4fd7-842e-f0bd4e5121f0
+Quelle: datenbank.xml
 Name: Kriegsfächer
 title: Kriegsfächer
 Trefferpunkte: 1W6+2

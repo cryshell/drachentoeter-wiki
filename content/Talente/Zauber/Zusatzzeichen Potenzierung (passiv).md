@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1d996b15-32a0-4efb-9df7-369f1926d1c2
+ID: 1d6d3d9f-5aba-4b92-8a49-a4c05dd03475
+Quelle: datenbank.xml
 Name: Zusatzzeichen Potenzierung (passiv)
 title: Zusatzzeichen Potenzierung (passiv)
 Kategorie: Zauber

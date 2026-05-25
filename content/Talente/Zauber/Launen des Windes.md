@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1b8aa00e-6901-430e-968e-980728a7f706
+ID: 1b127458-c587-430c-b83b-fa1dc710e30a
+Quelle: datenbank.xml
 Name: Launen des Windes
 title: Launen des Windes
 Kategorie: Zauber

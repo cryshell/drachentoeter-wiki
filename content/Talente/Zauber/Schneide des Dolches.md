@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 23319d60-ed90-4f1f-a995-67aeff6b4bae
+ID: 37ba45ce-9299-4589-b49a-37eb91b7e229
+Quelle: datenbank.xml
 Name: Schneide des Dolches
 title: Schneide des Dolches
 Kategorie: Zauber

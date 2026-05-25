@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 3f70990b-98b0-4d9a-b90d-b8af0e07eede
+ID: 6ae49051-1bcc-4b5d-bb3e-42a90c0bf966
+Quelle: datenbank.xml
 Name: Fluch der Wandlung
 title: Fluch der Wandlung
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 6880bb41-ad00-47dc-b323-6a83764bfe71
+ID: 7ce23c65-bdd0-4b9c-abdd-c8c702593577
+Quelle: datenbank.xml
 Name: Tradition der Schamanen (Trollzacker) IV
 title: Tradition der Schamanen (Trollzacker) IV
 Kategorie: Tradition (Magisch)

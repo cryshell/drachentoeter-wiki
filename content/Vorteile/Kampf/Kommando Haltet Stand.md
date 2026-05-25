@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: a0750a8e-8610-4a07-97b2-2a1d58430eba
+ID: 94e7436c-c164-4d65-bcfd-a70b13019793
+Quelle: datenbank.xml
 Name: "Kommando: Haltet Stand!"
 title: "Kommando: Haltet Stand!"
 Kategorie: Kampf

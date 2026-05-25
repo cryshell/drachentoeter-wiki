@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5f6e6251-c662-4619-aade-24b052b52ca3
+ID: 348408dd-3c51-4396-9a49-64cc1b76cb28
+Quelle: datenbank.xml
 Name: Siegel der Seelenruhe
 title: Siegel der Seelenruhe
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f3ad1516-bada-4788-9f84-6d4ac773d91c
+ID: 79420cfe-9c01-421f-90d2-fb12b43277e8
+Quelle: datenbank.xml
 Name: Meister der Form
 title: Meister der Form
 Kategorie: Anrufungen

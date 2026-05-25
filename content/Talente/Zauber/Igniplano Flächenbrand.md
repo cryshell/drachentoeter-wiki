@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2516e6ab-5b88-4384-93a3-0e83bcfc95bd
+ID: cc1e1bf0-f825-47d3-8e07-8011b9ebf30b
+Quelle: datenbank.xml
 Name: Igniplano Flächenbrand
 title: Igniplano Flächenbrand
 Kategorie: Zauber

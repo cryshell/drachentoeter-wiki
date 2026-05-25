@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 87d9a2d5-1920-4fcf-8cc4-03e6909f27b6
+ID: 9ef0ce01-4e3e-4da7-91e6-9c750af69510
+Quelle: datenbank.xml
 Name: Astrale Regeneration IV
 title: Astrale Regeneration IV
 Kategorie: Magisch

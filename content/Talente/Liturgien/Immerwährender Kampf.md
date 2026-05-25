@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f02e2dee-8ab0-4b7b-90ec-f643d0f2a086
+ID: 2ec1f9f6-6974-471b-8453-69eba5d54f3a
+Quelle: datenbank.xml
 Name: Immerwährender Kampf
 title: Immerwährender Kampf
 Kategorie: Liturgien

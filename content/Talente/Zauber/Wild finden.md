@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5b840b19-a027-4a17-8c37-98334e517d05
+ID: 4784e015-6346-4a2e-bea8-0e86cb5c1e18
+Quelle: datenbank.xml
 Name: Wild finden
 title: Wild finden
 Kategorie: Zauber

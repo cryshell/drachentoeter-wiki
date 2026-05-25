@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 0c53b2b3-a505-4235-8407-f9dcc7f2bc38
+ID: fff3f257-6701-4374-ae7d-e130518354f9
+Quelle: datenbank.xml
 Name: Zuverlässiges Wunder
 title: Zuverlässiges Wunder
 Kategorie: Karmal

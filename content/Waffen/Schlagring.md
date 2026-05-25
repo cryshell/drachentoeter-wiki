@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 8791f0fa-6d5e-46ce-b45b-93f51f21dfb2
+ID: 8e935807-7190-4cf4-8b63-18e13cfbd181
+Quelle: datenbank.xml
 Name: Schlagring
 title: Schlagring
 Trefferpunkte: 1W6+1
@@ -31,4 +32,4 @@ Preis: 25
   - Wucht
   - [[Nebenhand|Nebenhand]]
   - [[Parierwaffe|Parierwaffe]]
-  - [[Versteckt|Versteckt]]
+  - [[Waffeneigenschaften/Versteckt|Versteckt]]

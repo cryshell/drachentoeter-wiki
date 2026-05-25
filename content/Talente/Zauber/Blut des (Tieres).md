@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d70806ed-33b6-416c-a31b-cc0c8e31ea07
+ID: 97c4d652-4646-4edc-af15-deb9137ea1e3
+Quelle: datenbank.xml
 Name: Blut des (Tieres)
 title: Blut des (Tieres)
 Kategorie: Zauber

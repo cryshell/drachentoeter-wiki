@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 85940f36-9116-4cac-9d50-437477b8d7ef
+ID: 4d6f6c33-d094-489e-8e6d-6d84fa5d1307
+Quelle: datenbank.xml
 Name: Basiliskenzunge
 title: Basiliskenzunge
 Trefferpunkte: 1W6+2
@@ -30,4 +31,4 @@ Preis: 70
 - **Waffeneigenschaften:**
   - Stich
   - [[Nebenhand|Nebenhand]]
-  - [[Versteckt|Versteckt]]
+  - [[Waffeneigenschaften/Versteckt|Versteckt]]

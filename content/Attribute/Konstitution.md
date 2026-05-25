@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Attribut
-ID: 58cc6f58-9a9a-4d30-8a11-e06957b49cc5
+ID: c303030f-c973-43cb-bc40-380f855291cb
+Quelle: datenbank.xml
 Name: Konstitution
 title: Konstitution
 Abkürzung: KO

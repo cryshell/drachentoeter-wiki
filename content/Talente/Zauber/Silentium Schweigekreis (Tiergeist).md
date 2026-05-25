@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: af142284-ba02-4048-b122-9fb29a761bdc
+ID: 41377d77-afbb-4f3c-87ad-40f0c0408219
+Quelle: datenbank.xml
 Name: Silentium Schweigekreis (Tiergeist)
 title: Silentium Schweigekreis (Tiergeist)
 Kategorie: Zauber

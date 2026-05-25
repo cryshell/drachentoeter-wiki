@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 175f1ac0-b38b-4302-9082-6641f3538e38
+ID: 6704eba6-9c82-46b4-a123-1407fb8dc752
+Quelle: datenbank.xml
 Name: Herrschaft über Geister
 title: Herrschaft über Geister
 Kategorie: Anrufungen

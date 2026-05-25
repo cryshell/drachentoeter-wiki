@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 85642945-d325-4eaa-a6a0-94ed68b58604
+ID: ca0d521e-3cd6-4483-8ffe-8799540d40d6
+Quelle: datenbank.xml
 Name: Aufpeitschender Klang
 title: Aufpeitschender Klang
 Kategorie: Zauber

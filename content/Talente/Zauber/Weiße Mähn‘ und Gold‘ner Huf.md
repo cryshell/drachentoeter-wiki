@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 68f0a9b2-3134-45e5-9be0-56ddc7d28bf8
+ID: 90c0ee5f-0acf-47ab-a361-622acc1d31a0
+Quelle: datenbank.xml
 Name: Weiße Mähn‘ und Gold‘ner Huf
 title: Weiße Mähn‘ und Gold‘ner Huf
 Kategorie: Zauber

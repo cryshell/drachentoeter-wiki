@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d7e09a3e-1218-40d8-9baa-68801a611c41
+ID: 9c1dec45-cfbf-4d13-8c44-bf14424754c3
+Quelle: datenbank.xml
 Name: Objectofixo
 title: Objectofixo
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: d1107618-25ad-4a94-80b3-301afd85a641
+ID: c85079fe-d430-4bfb-9854-a167e8ab1453
+Quelle: datenbank.xml
 Name: Tradition der Druiden IV
 title: Tradition der Druiden IV
 Kategorie: Tradition (Magisch)

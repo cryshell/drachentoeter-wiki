@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 37acaf81-1295-4bd7-8c98-28e55f912b70
+ID: 92631399-52fe-4c84-a57b-4d699055eb70
+Quelle: datenbank.xml
 Name: Ingerimmshammer
 title: Ingerimmshammer
 Trefferpunkte: 2W6+2

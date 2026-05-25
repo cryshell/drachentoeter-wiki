@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: faed03fe-26a1-47fe-9771-f42154b933c5
+ID: 13dd2d2c-936d-4778-8970-cd15aca5ae43
+Quelle: datenbank.xml
 Name: Stillstand
 title: Stillstand
 Kategorie: Zauber

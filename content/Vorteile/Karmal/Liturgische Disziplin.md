@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 5d2b2b83-8763-4215-97cb-4de23e9980e4
+ID: f433227e-e628-4167-8013-dd32d32e3a16
+Quelle: datenbank.xml
 Name: Liturgische Disziplin
 title: Liturgische Disziplin
 Kategorie: Karmal

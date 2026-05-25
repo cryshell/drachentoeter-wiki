@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 768541b5-dddd-4099-8a4a-e550f8794714
+ID: d5823e87-d4a5-40a3-84cd-49fa0644fa4e
+Quelle: datenbank.xml
 Name: Meister minderer Geister
 title: Meister minderer Geister
 Kategorie: Zauber

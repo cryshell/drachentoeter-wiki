@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 61cd07b5-c7af-44cc-a8c7-e0a923093eaf
+ID: c3ad808a-3e68-41e2-ba9e-a1200d3a8809
+Quelle: datenbank.xml
 Name: Psychostabilis (Tiergeist)
 title: Psychostabilis (Tiergeist)
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a9030063-cf1f-4655-9ca4-3967439efecc
+ID: 6b6fb693-531a-4ae4-9231-fe2607738dee
+Quelle: datenbank.xml
 Name: Philosophie
 title: Philosophie
 Kategorie: Profan

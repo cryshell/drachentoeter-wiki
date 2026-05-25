@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f3d80077-260b-481a-9d88-61e7ece937fb
+ID: ca6bb56e-4a68-4963-838a-5b553837004e
+Quelle: datenbank.xml
 Name: Seidenzunge Elfenwort
 title: Seidenzunge Elfenwort
 Kategorie: Zauber

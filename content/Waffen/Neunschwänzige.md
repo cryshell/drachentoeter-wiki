@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: b2feeee4-ce46-4207-bbb2-03d45e3b2676
+ID: 1f1f1e5c-af38-4c24-9eb8-3fca7be0ee03
+Quelle: datenbank.xml
 Name: Neunschwänzige
 title: Neunschwänzige
 Trefferpunkte: 1W6+1

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f949b537-99d5-48fc-9d51-cc4dfabdd029
+ID: d4e39147-60ec-470c-a77c-605bfdb5ee30
+Quelle: datenbank.xml
 Name: Zappenduster
 title: Zappenduster
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: dfc1d993-c724-4f3d-b8fb-77ae9fa8776e
+ID: 4d76cb51-1092-4762-9eab-3f349ef43f8c
+Quelle: datenbank.xml
 Name: Schmerzen der Miniatur
 title: Schmerzen der Miniatur
 Kategorie: Zauber

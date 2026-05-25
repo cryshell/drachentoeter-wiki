@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2cb7209b-526e-4c3a-978a-54df4b658fcd
+ID: 84e25c87-c0e4-4997-8050-8a58e3f7b121
+Quelle: datenbank.xml
 Name: Zaubersiegel
 title: Zaubersiegel
 Kategorie: Zauber

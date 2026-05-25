@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 74657b2a-75b8-4882-8a78-962e99c5340d
+ID: 03296a58-add7-4771-997f-aca187b950b3
+Quelle: datenbank.xml
 Name: Fluch der Götter (Phex)
 title: Fluch der Götter (Phex)
 Kategorie: Nachteil

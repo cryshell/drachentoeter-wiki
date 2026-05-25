@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 0a5a27d9-c50f-4c35-9c13-8695b37f3b12
+ID: 152c9e8c-5665-405d-a6fd-296832cd9122
+Quelle: datenbank.xml
 Name: Tradition der Kr’Thon’Chhgeweihten IV
 title: Tradition der Kr’Thon’Chhgeweihten IV
 Kategorie: Tradition (Karmal)

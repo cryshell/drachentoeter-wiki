@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 05ce8ec8-c04b-420d-ad74-db3b73db74f3
+ID: 81e9ca01-bd12-48e9-b4ab-94d666307a77
+Quelle: datenbank.xml
 Name: Schützende Rotte
 title: Schützende Rotte
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 770b06a4-5d2d-4170-94c5-b2b60dd6431b
+ID: be8832eb-743f-4f6f-9a43-c3f1dc53f2bf
+Quelle: datenbank.xml
 Name: Krakenhaut
 title: Krakenhaut
 Kategorie: Anrufungen

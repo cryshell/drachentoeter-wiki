@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8c78967e-8818-45cd-8c77-52887912d36a
+ID: eb52b568-d44f-42fe-b680-889db9dce9c7
+Quelle: datenbank.xml
 Name: Schwarmseele
 title: Schwarmseele
 Kategorie: Zauber

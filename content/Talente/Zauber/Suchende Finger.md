@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0a7a58ff-3854-406b-b901-3c0d82820587
+ID: b283e00d-60f4-4938-969e-8b074205e343
+Quelle: datenbank.xml
 Name: Suchende Finger
 title: Suchende Finger
 Kategorie: Zauber

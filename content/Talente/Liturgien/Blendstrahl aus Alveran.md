@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 73e83d05-e111-4ba3-bc91-4d6b1e119675
+ID: ede9f39c-613d-46a9-8aae-97273f02e5f8
+Quelle: datenbank.xml
 Name: Blendstrahl aus Alveran
 title: Blendstrahl aus Alveran
 Kategorie: Liturgien

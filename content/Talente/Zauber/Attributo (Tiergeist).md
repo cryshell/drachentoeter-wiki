@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 6c4415e6-5576-4501-ac6c-113ae18b63b4
+ID: 4d979856-08b5-4336-9c2e-c40ac0d89b2e
+Quelle: datenbank.xml
 Name: Attributo (Tiergeist)
 title: Attributo (Tiergeist)
 Kategorie: Zauber

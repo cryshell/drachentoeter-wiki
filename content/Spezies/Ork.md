@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Spezies
-ID: 3475adff-30b7-4c7f-9c4f-545a3f0de018
+ID: 47a01f6c-99ea-43d5-ba40-84a82b4484ac
+Quelle: datenbank.xml
 Name: Ork
 ---
 Orks sind kräftig gebaute Wesen mit leicht zugespitzten Ohren. Sie sind von dichtem, dunklem Fell bedeckt. Ihre starke Arme reichen fast bis zu den Knien und ihre groben Gesichtszüge umrahmen ein Gebiss, das dem eines Keilers nahe kommt. Sie sind überwiegend im Orkland und dem durch sie besetzten Svellttal aufzufinden. In vereinzelten Städten leben sie auch im Einklang mit Menschen.

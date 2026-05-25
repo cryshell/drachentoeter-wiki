@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 6abef652-5028-4aff-a7b4-bd55552434ba
+ID: 0f908386-576b-4800-bed1-5e470ae2e8c1
+Quelle: datenbank.xml
 Name: Tradition der Derwische II
 title: Tradition der Derwische II
 Kategorie: Tradition (Magisch)

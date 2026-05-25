@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2096b48a-2216-4867-a3ef-d6f5741ad917
+ID: 5cd6a0a9-bf2e-4661-80b1-ba7093ab96a6
+Quelle: datenbank.xml
 Name: Feuersturm
 title: Feuersturm
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 2626f6ba-291c-472e-849e-ed6b2cd356f5
+ID: 38b6bdd9-dddb-458c-8903-200742031b04
+Quelle: datenbank.xml
 Name: Dschadra (Wurfspeere)
 title: Dschadra (Wurfspeere)
 Trefferpunkte: 2W6+2

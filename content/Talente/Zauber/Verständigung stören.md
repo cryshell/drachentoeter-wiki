@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 261bb166-28f4-472c-88fd-1810a949f0de
+ID: 4e65bede-4a08-48ec-be92-10a435d6dfe1
+Quelle: datenbank.xml
 Name: Verständigung stören
 title: Verständigung stören
 Kategorie: Zauber

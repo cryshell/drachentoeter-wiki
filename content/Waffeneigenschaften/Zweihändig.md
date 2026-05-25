@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffeneigenschaft
-ID:
+ID: a3ea55d1-11ea-4e91-b925-0cb9ba65974f
+Quelle: datenbank.xml
 Name: Zweihändig
 title: Zweihändig
 ---

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e1a8e896-b9a0-43f7-b9aa-d517dd619fd6
+ID: a0298038-5925-4755-9031-44832f44a0e2
+Quelle: datenbank.xml
 Name: Schwimmen
 title: Schwimmen
 Kategorie: Profan

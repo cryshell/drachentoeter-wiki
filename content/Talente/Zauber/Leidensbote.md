@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 4593f545-f37e-4df1-92e2-a3ec2a5e5a65
+ID: a900c622-d336-4126-b0bd-7ac180cd66b1
+Quelle: datenbank.xml
 Name: Leidensbote
 title: Leidensbote
 Kategorie: Zauber

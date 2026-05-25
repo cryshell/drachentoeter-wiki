@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 27a2975a-5230-4d76-b3fa-150e6508b4be
+ID: a1b11a8f-25de-4874-8ddb-c0310b8888b4
+Quelle: datenbank.xml
 Name: Bann der Geisterkräfte
 title: Bann der Geisterkräfte
 Kategorie: Liturgien

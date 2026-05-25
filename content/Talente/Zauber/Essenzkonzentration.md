@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 410d9438-61a7-4026-97bb-4989a36bea2d
+ID: 6b2f8aaa-ddeb-4004-b19c-49e26d668f45
+Quelle: datenbank.xml
 Name: Essenzkonzentration
 title: Essenzkonzentration
 Kategorie: Zauber

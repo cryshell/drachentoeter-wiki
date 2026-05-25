@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 7de0ec0a-5fc3-44d7-bb14-d67a747edcd2
+ID: 7c57f4dd-ebc5-4db3-be81-fa3b9e703dc7
+Quelle: datenbank.xml
 Name: Gedankenbilder Elfenruf
 title: Gedankenbilder Elfenruf
 Kategorie: Zauber

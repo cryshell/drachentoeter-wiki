@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 6d43acda-496a-4d2c-838d-d1f631cb3b43
+ID: 82987ca6-79d0-45d0-9dd6-242e98f10088
+Quelle: datenbank.xml
 Name: Serpentialis Schlangenleib
 title: Serpentialis Schlangenleib
 Kategorie: Zauber

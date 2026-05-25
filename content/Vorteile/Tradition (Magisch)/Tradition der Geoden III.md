@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 14d6307f-55bb-43a3-88ad-2423ba300f79
+ID: 4815950d-d45c-430c-9d84-c6a746bcb143
+Quelle: datenbank.xml
 Name: Tradition der Geoden III
 title: Tradition der Geoden III
 Kategorie: Tradition (Magisch)

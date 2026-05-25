@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 491e4c2b-93f8-4f41-b904-732593d46f2f
+ID: 25fa4a25-a151-45da-a00b-a711c507df23
+Quelle: datenbank.xml
 Name: Seelenopfer
 title: Seelenopfer
 Kategorie: Anrufungen

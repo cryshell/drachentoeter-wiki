@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 635de155-f0f8-4e10-8285-98aea6deff96
+ID: 35dfe64b-d233-453a-b6d1-5f5bcb5cd289
+Quelle: datenbank.xml
 Name: Aura der Form
 title: Aura der Form
 Kategorie: Liturgien

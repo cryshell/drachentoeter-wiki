@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 362e36e1-a881-4063-9c6a-5c332d03369d
+ID: 0fd09ab0-a62d-45e6-ad0c-a3ef98c28f29
+Quelle: datenbank.xml
 Name: Schlaf rauben
 title: Schlaf rauben
 Kategorie: Zauber

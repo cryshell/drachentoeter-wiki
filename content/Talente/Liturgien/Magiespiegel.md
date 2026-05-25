@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ddf07d17-203d-476b-aa05-0cb1676e148f
+ID: 5ad2e4da-1b42-4838-94f8-fa2d5c7da985
+Quelle: datenbank.xml
 Name: Magiespiegel
 title: Magiespiegel
 Kategorie: Liturgien

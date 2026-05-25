@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffeneigenschaft
-ID:
+ID: 1a9b09a7-a61e-48d9-8a2d-5e460f66064c
+Quelle: datenbank.xml
 Name: Unberechenbar
 title: Unberechenbar
 ---

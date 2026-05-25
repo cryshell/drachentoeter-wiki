@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 51f4ca09-20a1-4b19-b2f0-f29fcdaa300b
+ID: 90079a3c-856c-400c-ba32-bccdfe394aea
+Quelle: datenbank.xml
 Name: Vampir II
 title: Vampir II
 Kategorie: Nachteil

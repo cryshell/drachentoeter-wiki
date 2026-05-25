@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 35382716-4826-41e3-9d2d-d276de3f4ba0
+ID: 93557696-9366-4efc-b4a4-5f6b576fd1fc
+Quelle: datenbank.xml
 Name: Raub der Geisterkraft
 title: Raub der Geisterkraft
 Kategorie: Zauber

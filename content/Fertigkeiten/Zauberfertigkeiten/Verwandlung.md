@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: f69e9ec3-1442-40dd-a4d1-d57414206bce
+ID: bfb8ec07-efbf-4245-896c-cd651ee6ead5
+Quelle: datenbank.xml
 Name: Verwandlung
 title: Verwandlung
 Kategorie: Zauberfertigkeiten

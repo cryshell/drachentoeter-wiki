@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ca44c7f2-c121-46fa-bc8e-181608d8f6e8
+ID: dc9d74a3-4c6a-47ca-9889-73eee7bacc60
+Quelle: datenbank.xml
 Name: Spurlos Trittlos
 title: Spurlos Trittlos
 Kategorie: Zauber

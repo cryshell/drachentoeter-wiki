@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 04b1e9c7-eb4e-48d3-92ff-88774d1811ee
+ID: 90ac27d3-2bfa-4e8c-846a-b7e9ec3b1872
+Quelle: datenbank.xml
 Name: Meisterwerk
 title: Meisterwerk
 Kategorie: Profan

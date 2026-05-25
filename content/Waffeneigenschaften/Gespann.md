@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffeneigenschaft
-ID:
+ID: 349809b9-47c3-4755-a815-8e7802f56db5
+Quelle: datenbank.xml
 Name: Gespann
 title: Gespann
 ---

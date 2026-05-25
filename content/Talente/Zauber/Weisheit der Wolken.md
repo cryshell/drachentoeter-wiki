@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 84119252-9208-49a6-84f8-0401c39206e3
+ID: 5dc6006c-d0e4-43bd-ad81-29fa49132d6b
+Quelle: datenbank.xml
 Name: Weisheit der Wolken
 title: Weisheit der Wolken
 Kategorie: Zauber

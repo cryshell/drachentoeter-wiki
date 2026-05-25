@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8e6b31ca-fd60-4e1d-9cab-b91a17c19a49
+ID: 6a710604-6d62-46e8-a410-b736eb6d13bd
+Quelle: datenbank.xml
 Name: Accuratum Zaubernadel
 title: Accuratum Zaubernadel
 Kategorie: Zauber

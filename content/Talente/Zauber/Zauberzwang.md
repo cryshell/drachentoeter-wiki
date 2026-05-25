@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 16ba5619-3c85-4080-a39e-ee3e8dfb3f88
+ID: 2dcb2f1b-fc94-448c-8381-dba345f9ccef
+Quelle: datenbank.xml
 Name: Zauberzwang
 title: Zauberzwang
 Kategorie: Zauber

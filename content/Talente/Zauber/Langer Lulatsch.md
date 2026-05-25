@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9fcac43d-5647-4904-8268-59fe1aacc69c
+ID: 329d3576-b18f-44ae-9d43-b57c7d5ac234
+Quelle: datenbank.xml
 Name: Langer Lulatsch
 title: Langer Lulatsch
 Kategorie: Zauber

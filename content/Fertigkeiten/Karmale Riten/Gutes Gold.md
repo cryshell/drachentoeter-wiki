@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 801600d1-d802-494f-a1ef-c3f865854635
+ID: f8b74c09-c051-435b-987b-339d2dd1eb31
+Quelle: datenbank.xml
 Name: Gutes Gold
 title: Gutes Gold
 Kategorie: Karmale Riten

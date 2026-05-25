@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 368c4543-1af4-4d66-969d-569da685de84
+ID: d397a71d-0342-4bb5-80e5-d7a400ef5fcc
+Quelle: datenbank.xml
 Name: Goldene Hand
 title: Goldene Hand
 Kategorie: Liturgien

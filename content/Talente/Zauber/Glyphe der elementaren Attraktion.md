@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: cf250897-5c07-4133-8d01-c16e547019f7
+ID: 4ff2a24c-588d-441c-9d5c-d237a96da03e
+Quelle: datenbank.xml
 Name: Glyphe der elementaren Attraktion
 title: Glyphe der elementaren Attraktion
 Kategorie: Zauber

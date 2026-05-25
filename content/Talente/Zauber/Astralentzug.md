@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e5c94dc9-6de3-4a26-9273-05a91b380e95
+ID: 8200ff80-92a0-4f3d-b5dc-01f0a0717112
+Quelle: datenbank.xml
 Name: Astralentzug
 title: Astralentzug
 Kategorie: Zauber

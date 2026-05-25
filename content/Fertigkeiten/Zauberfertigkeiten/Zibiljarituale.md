@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: dd3f5741-c1b9-4e64-91a1-24f104972a1a
+ID: f2809e19-38d3-4cf8-8c5a-857604209f5e
+Quelle: datenbank.xml
 Name: Zibiljarituale
 title: Zibiljarituale
 Kategorie: Zauberfertigkeiten

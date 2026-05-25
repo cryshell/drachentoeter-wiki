@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 3a75b636-9aec-49f0-b32e-414ab5ae205d
+ID: 4f4d40e5-f296-4e78-ae3c-3aa9d0eaca7d
+Quelle: datenbank.xml
 Name: Kurze Wurfwaffen
 title: Kurze Wurfwaffen
 Kategorie: Profan

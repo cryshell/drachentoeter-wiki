@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffeneigenschaft
-ID:
+ID: 9f8221e9-abaf-486c-8ad0-f005ed39ecb6
+Quelle: datenbank.xml
 Name: Mordhau
 title: Mordhau
 ---

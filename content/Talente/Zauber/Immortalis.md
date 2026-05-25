@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 10cb839f-4433-477f-8f30-011d4fd372c0
+ID: 1335a1b7-ffdd-4bef-996c-50af58c097f9
+Quelle: datenbank.xml
 Name: Immortalis
 title: Immortalis
 Kategorie: Zauber

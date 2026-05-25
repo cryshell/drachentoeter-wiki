@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: e2c83172-3eeb-4f88-9e0c-e8496bf78635
+ID: e9300667-2858-4abd-9c39-ffcdb2481966
+Quelle: datenbank.xml
 Name: Prophezeien
 title: Prophezeien
 Kategorie: Profan

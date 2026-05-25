@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: be11f7b9-59dc-400d-a729-32a7cbe38014
+ID: 1d4977d8-e8df-45a7-98d7-5b549b482613
+Quelle: datenbank.xml
 Name: Blick des Nachtmahrs
 title: Blick des Nachtmahrs
 Kategorie: Zauber

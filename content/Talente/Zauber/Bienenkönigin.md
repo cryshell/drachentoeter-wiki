@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d7a3ad5a-3dea-4dbe-ad38-de7e07160b56
+ID: ca11d0fb-ee9f-4d36-8c0d-cce6746c129f
+Quelle: datenbank.xml
 Name: Bienenkönigin
 title: Bienenkönigin
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 84f97947-2db2-4525-8b31-b5eb2de43d72
+ID: 276e54f1-b559-4667-b667-1bd5b3f94274
+Quelle: datenbank.xml
 Name: Zurechtfinden
 title: Zurechtfinden
 Kategorie: Profan

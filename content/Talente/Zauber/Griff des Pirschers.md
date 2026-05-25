@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1b1b4c4f-8c5f-4497-984b-2e6ce08c4b86
+ID: 2ca10e92-5fde-4f8d-be28-dc0b382a8710
+Quelle: datenbank.xml
 Name: Griff des Pirschers
 title: Griff des Pirschers
 Kategorie: Zauber

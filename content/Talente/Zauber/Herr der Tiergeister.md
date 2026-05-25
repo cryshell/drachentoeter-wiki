@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 7c0056f4-46cf-461f-ad7d-3868ae3b0239
+ID: a6036a0c-9f61-4a86-8538-596fa642afaf
+Quelle: datenbank.xml
 Name: Herr der Tiergeister
 title: Herr der Tiergeister
 Kategorie: Zauber

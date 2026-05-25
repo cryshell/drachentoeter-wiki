@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ed3e1319-51d1-4634-9d1c-68f7064b9fd3
+ID: fc4409fb-71c6-4779-8441-a9c94b930c34
+Quelle: datenbank.xml
 Name: Schmerzen lindern
 title: Schmerzen lindern
 Kategorie: Zauber

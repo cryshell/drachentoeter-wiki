@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 72a8d87c-9bd3-4251-92a8-995f6965b8f6
+ID: 58854931-5b2f-47c2-b559-e2c3be8bcd3a
+Quelle: datenbank.xml
 Name: Musterverständnis (passiv)
 title: Musterverständnis (passiv)
 Kategorie: Anrufungen

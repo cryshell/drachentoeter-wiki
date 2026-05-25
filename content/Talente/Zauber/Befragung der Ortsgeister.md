@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 7cbd7826-ee8e-4637-be20-1733f347372b
+ID: f3b033e1-c1fc-4c03-9a33-ed5167914932
+Quelle: datenbank.xml
 Name: Befragung der Ortsgeister
 title: Befragung der Ortsgeister
 Kategorie: Zauber

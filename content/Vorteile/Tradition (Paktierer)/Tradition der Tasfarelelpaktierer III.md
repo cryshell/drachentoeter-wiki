@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: c495b247-cba3-4cf0-a987-ac9ac1436960
+ID: a8aaa06f-fcf3-4778-b6e0-140bcf66a710
+Quelle: datenbank.xml
 Name: Tradition der Tasfarelelpaktierer III
 title: Tradition der Tasfarelelpaktierer III
 Kategorie: Tradition (Paktierer)

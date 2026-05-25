@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8eed4cc0-4dff-48d0-807d-df7b6cbdfd86
+ID: 755f8725-5113-40ab-9929-451ae9d812cc
+Quelle: datenbank.xml
 Name: Bund der Schwerter
 title: Bund der Schwerter
 Kategorie: Liturgien

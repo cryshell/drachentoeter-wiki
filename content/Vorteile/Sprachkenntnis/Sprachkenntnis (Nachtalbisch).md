@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 8388fab3-b3e5-477f-ace1-cb66a6f7a307
+ID: 7cd7f0b1-6304-4963-abd0-07586e466bef
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Nachtalbisch)
 title: Sprachkenntnis (Nachtalbisch)
 Kategorie: Sprachkenntnis

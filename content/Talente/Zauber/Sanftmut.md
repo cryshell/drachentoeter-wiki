@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0d3dfe49-0aab-49e0-b40d-20afcbb04ee2
+ID: e904d8f4-89b6-4080-9fc1-9fb687f7025b
+Quelle: datenbank.xml
 Name: Sanftmut
 title: Sanftmut
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: d3fe6fd2-1c75-4499-8881-025b41e3ddeb
+ID: 978fad21-103c-413d-b760-e8ab8289b7e3
+Quelle: datenbank.xml
 Name: Einfluss
 title: Einfluss
 Kategorie: Zauberfertigkeiten

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 13a9ee32-81dd-4ae5-9d5c-313859d88e6c
+ID: cb92768b-a7c6-4196-acab-e7cc02cf082e
+Quelle: datenbank.xml
 Name: Blutgeist aufnehmen
 title: Blutgeist aufnehmen
 Kategorie: Zauber

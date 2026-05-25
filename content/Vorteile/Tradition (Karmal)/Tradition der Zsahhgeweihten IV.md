@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: c8402c9e-34bb-4a66-9687-5970c4b2e636
+ID: 4c9bfa0e-9a16-4651-ac12-37d4763b65d7
+Quelle: datenbank.xml
 Name: Tradition der Zsahhgeweihten IV
 title: Tradition der Zsahhgeweihten IV
 Kategorie: Tradition (Karmal)

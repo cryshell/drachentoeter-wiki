@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 18e55b9e-1bb0-456c-8b42-97f5e04d04f5
+ID: f8e4d6b4-d4e0-4433-87dc-61990953eda6
+Quelle: datenbank.xml
 Name: Lied des Meeres
 title: Lied des Meeres
 Kategorie: Zauber

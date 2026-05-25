@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9e3c7874-245e-4458-8e16-dcbd2fdbd1f5
+ID: 5e0a25ad-c603-44ac-8c11-7517f75f511b
+Quelle: datenbank.xml
 Name: Meisterstück
 title: Meisterstück
 Kategorie: Liturgien

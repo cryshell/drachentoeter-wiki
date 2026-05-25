@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f2431eb1-4b5c-4dde-864b-de8d50b0278a
+ID: 2ebd3f77-1867-4625-b714-496f2fb1712f
+Quelle: datenbank.xml
 Name: Wachende Kugel
 title: Wachende Kugel
 Kategorie: Zauber

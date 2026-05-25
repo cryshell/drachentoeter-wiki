@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f4d45230-9719-495b-951a-8a130dd895d0
+ID: 60d542e4-201b-4a6a-a682-47150e6669d7
+Quelle: datenbank.xml
 Name: Argelions bannende Hand
 title: Argelions bannende Hand
 Kategorie: Liturgien

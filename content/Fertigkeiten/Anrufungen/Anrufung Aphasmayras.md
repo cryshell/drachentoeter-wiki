@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 8db08c6e-a63b-443f-bca5-8613eeff18e1
+ID: 7576e40b-d6ab-40ba-a0aa-36f844748c52
+Quelle: datenbank.xml
 Name: Anrufung Aphasmayras
 title: Anrufung Aphasmayras
 Kategorie: Anrufungen

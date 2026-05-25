@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 85754ddf-039e-4c49-a81b-d9d733dcbb59
+ID: 7b626da7-f6d9-4ca8-b558-1bc026ba0243
+Quelle: datenbank.xml
 Name: Hypnose
 title: Hypnose
 Kategorie: Zauber

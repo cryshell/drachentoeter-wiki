@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f428eafa-8147-4278-ba03-6bd8865fd803
+ID: 17e7f4e5-edb0-4479-91a7-a8b56c0c5dba
+Quelle: datenbank.xml
 Name: Sorgenlied
 title: Sorgenlied
 Kategorie: Zauber

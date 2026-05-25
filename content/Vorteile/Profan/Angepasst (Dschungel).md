@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: dafe01ec-07b2-4951-af04-df00af450852
+ID: 6e5fc6af-32fa-40ed-b569-e990c6ca0a6f
+Quelle: datenbank.xml
 Name: Angepasst (Dschungel)
 title: Angepasst (Dschungel)
 Kategorie: Profan

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: f7bf7f83-8435-4888-9270-6f984944a2a8
+ID: a40cc5cb-3f8e-4219-8ccf-6fb34e581466
+Quelle: datenbank.xml
 Name: Kreis der Verdammnis IV
 title: Kreis der Verdammnis IV
 Kategorie: Kreis der Verdammnis

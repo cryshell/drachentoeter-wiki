@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: f7e5d859-2c05-4ad9-8a53-b5bc8c33db41
+ID: f3a33387-064f-49c6-8994-18df445da10c
+Quelle: datenbank.xml
 Name: Lindwurmschläger
 title: Lindwurmschläger
 Trefferpunkte: 2W6+2

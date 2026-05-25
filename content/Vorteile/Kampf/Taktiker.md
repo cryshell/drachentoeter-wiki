@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 9126492e-6196-444a-ac2e-323df0140ec3
+ID: cd8c3a1b-faf5-4c0b-a05f-1bbf9a10e590
+Quelle: datenbank.xml
 Name: Taktiker
 title: Taktiker
 Kategorie: Kampf

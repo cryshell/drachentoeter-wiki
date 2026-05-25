@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8a14182d-6ddc-4ed0-9633-bf1496b0ace1
+ID: 2bba3dab-a557-4b7a-8bbf-9cd36b529dd9
+Quelle: datenbank.xml
 Name: Pfeil der Luft (Tiergeist)
 title: Pfeil der Luft (Tiergeist)
 Kategorie: Zauber

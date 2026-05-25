@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0753131f-e188-4891-9bd8-a5740f31fef6
+ID: bc4417bc-7a06-45d6-ab2f-6c05136d04f3
+Quelle: datenbank.xml
 Name: Lunge des Leviatan
 title: Lunge des Leviatan
 Kategorie: Zauber

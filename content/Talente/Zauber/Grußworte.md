@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2f961445-02a2-4944-9db7-a1a65c2528d7
+ID: 36dbaf3d-5725-4f9d-a50d-81d9ad95e4a3
+Quelle: datenbank.xml
 Name: Grußworte
 title: Grußworte
 Kategorie: Zauber

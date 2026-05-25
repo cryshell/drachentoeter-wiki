@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: ec834ba2-c807-4f8e-9536-9273dccaa0d2
+ID: 350671f9-9402-4ae8-ac1d-084f20fc7425
+Quelle: datenbank.xml
 Name: Tradition der Belzhorashpaktierer I
 title: Tradition der Belzhorashpaktierer I
 Kategorie: Tradition (Paktierer)

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 5ce7c34e-d242-49af-8554-9c29ddcd4c9f
+ID: e3f9ebfc-9d2c-4bbd-be65-ebbe6bb4ce42
+Quelle: datenbank.xml
 Name: Tradition der Hexen IV
 title: Tradition der Hexen IV
 Kategorie: Tradition (Magisch)

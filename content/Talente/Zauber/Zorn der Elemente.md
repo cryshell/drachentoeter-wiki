@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a82ad7d1-b914-4651-a992-e2e6bf83254b
+ID: e413b562-5bd9-4155-a184-ebe3cb062dfa
+Quelle: datenbank.xml
 Name: Zorn der Elemente
 title: Zorn der Elemente
 Kategorie: Zauber

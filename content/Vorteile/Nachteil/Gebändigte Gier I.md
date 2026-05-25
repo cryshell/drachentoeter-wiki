@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 575f1ba2-7700-48d6-af69-ff44697a0510
+ID: 321c797b-2ae3-4348-a3e3-25e3cc71d94c
+Quelle: datenbank.xml
 Name: Gebändigte Gier I
 title: Gebändigte Gier I
 Kategorie: Nachteil

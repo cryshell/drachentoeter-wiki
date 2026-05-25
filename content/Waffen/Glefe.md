@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 972e098a-28b9-46c3-a23c-f882bd79184e
+ID: bc14bae5-46b1-4ee4-a16c-3a48cbd45539
+Quelle: datenbank.xml
 Name: Glefe
 title: Glefe
 Trefferpunkte: 2W6+3

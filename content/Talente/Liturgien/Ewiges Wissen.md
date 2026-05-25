@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ccec372f-6e0f-4317-93ed-39b2af965423
+ID: 76980446-602b-4593-9949-308036e73da2
+Quelle: datenbank.xml
 Name: Ewiges Wissen
 title: Ewiges Wissen
 Kategorie: Liturgien

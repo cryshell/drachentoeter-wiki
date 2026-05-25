@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 166776f0-e6fa-4a6b-aefd-82ad2973ad34
+ID: eb6b42be-b036-406c-ace8-8794316246c3
+Quelle: datenbank.xml
 Name: Kulturkunde (Zyklopeninseln)
 title: Kulturkunde (Zyklopeninseln)
 Kategorie: Kulturkunde

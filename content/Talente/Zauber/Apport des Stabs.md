@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 954dbd2f-5cd5-4857-ba61-3ed54213e9bd
+ID: 82a589c6-bc0a-4925-8adb-2c52494d1569
+Quelle: datenbank.xml
 Name: Apport des Stabs
 title: Apport des Stabs
 Kategorie: Zauber

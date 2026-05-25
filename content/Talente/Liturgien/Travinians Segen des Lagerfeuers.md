@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2032e2c5-3e9c-4987-8000-c810c8ec65a7
+ID: 4e501010-6c08-4ad3-9fab-f4448e690252
+Quelle: datenbank.xml
 Name: Travinians Segen des Lagerfeuers
 title: Travinians Segen des Lagerfeuers
 Kategorie: Liturgien

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 7954d6ae-8683-47ff-8fe4-f96cec7d6ddb
+ID: f5e95d83-0c50-458e-854c-e8c285cdb4cf
+Quelle: datenbank.xml
 Name: Schusswaffen
 title: Schusswaffen
 Kategorie: Kampf (Fernkampf)

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: be23bb18-158d-42d6-bdc9-1c7e686528c6
+ID: 7454220e-6010-44fd-8cf3-a52b6f0b4ecf
+Quelle: datenbank.xml
 Name: Das schwarze Fell durch das rote Blut
 title: Das schwarze Fell durch das rote Blut
 Kategorie: Liturgien

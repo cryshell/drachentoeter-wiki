@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1650ceb9-937d-434e-9618-a0cb2bd1945d
+ID: ead8d520-c540-4e21-9563-4625df628213
+Quelle: datenbank.xml
 Name: Nebelrune
 title: Nebelrune
 Kategorie: Zauber

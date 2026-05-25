@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffeneigenschaft
-ID:
+ID: 24cb7b87-56fe-40cd-9b5b-e94f8a41044f
+Quelle: datenbank.xml
 Name: Rüstungsbrechend
 title: Rüstungsbrechend
 ---

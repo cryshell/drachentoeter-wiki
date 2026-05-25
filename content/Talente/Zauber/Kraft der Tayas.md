@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f6fca67e-efca-4745-8a29-fdf5bb1a9374
+ID: 8df9bd2d-4d02-43d6-a6ff-84ee1ad6c597
+Quelle: datenbank.xml
 Name: Kraft der Tayas
 title: Kraft der Tayas
 Kategorie: Zauber

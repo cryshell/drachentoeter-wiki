@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 87b95d29-280d-406f-89aa-648ae52b6ce7
+ID: db0730f0-8d7c-4efc-9380-50417c9f882b
+Quelle: datenbank.xml
 Name: Handwärmer
 title: Handwärmer
 Kategorie: Zauber

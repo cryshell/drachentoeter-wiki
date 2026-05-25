@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 838bd7f2-dae2-41db-a0f9-74c1510691e1
+ID: 7e0e1370-f010-4703-9abf-9e833f891c70
+Quelle: datenbank.xml
 Name: Leib des Dolches (passiv)
 title: Leib des Dolches (passiv)
 Kategorie: Zauber

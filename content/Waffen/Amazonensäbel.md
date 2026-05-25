@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 2f7c58a9-d05b-4771-ab5f-54fa90eefc2e
+ID: 3ac98a80-d618-4c9e-ab2e-cfb79d5788ef
+Quelle: datenbank.xml
 Name: Amazonensäbel
 title: Amazonensäbel
 Trefferpunkte: 2W6+2

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: b036ab01-df5f-4aec-b673-69af7ec0a2a2
+ID: b1b98482-e85f-4194-8753-6c9549ee2344
+Quelle: datenbank.xml
 Name: Ausfall
 title: Ausfall
 Kategorie: Kampf

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: a6942ac8-2f88-4d7a-96b4-3d1da2823b84
+ID: 105ae1aa-1d8a-4b03-ae96-42d80adeb443
+Quelle: datenbank.xml
 Name: Seefahrt
 title: Seefahrt
 Kategorie: Karmale Riten

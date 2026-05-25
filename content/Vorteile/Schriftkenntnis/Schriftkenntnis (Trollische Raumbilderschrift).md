@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: b8a6b693-f1a1-450c-b038-a37d1ee006fa
+ID: e2861b29-0ec8-4a01-bff3-e960b8aa9407
+Quelle: datenbank.xml
 Name: Schriftkenntnis (Trollische Raumbilderschrift)
 title: Schriftkenntnis (Trollische Raumbilderschrift)
 Kategorie: Schriftkenntnis

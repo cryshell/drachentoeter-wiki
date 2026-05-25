@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 4e2a8a5c-2fa3-435d-8545-9c6e8d1911cd
+ID: 7f0bdf06-25a8-46f9-b837-c0771f6e46a1
+Quelle: datenbank.xml
 Name: Legendenjäger
 title: Legendenjäger
 Kategorie: Kampf

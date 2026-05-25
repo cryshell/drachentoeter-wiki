@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9756afc4-ea0c-49f4-a9dc-c49268cc4830
+ID: fe517e27-ad5c-4d57-af84-9976b8944b55
+Quelle: datenbank.xml
 Name: Rikais Fluch
 title: Rikais Fluch
 Kategorie: Zauber

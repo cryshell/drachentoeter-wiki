@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 15164590-31f2-401e-a49b-33cbdeff8851
+ID: 6abadc5f-de9b-4351-9f19-4ee858f390d3
+Quelle: datenbank.xml
 Name: Lied des Wanderers
 title: Lied des Wanderers
 Kategorie: Zauber

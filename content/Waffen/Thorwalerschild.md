@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: cef917cc-5de4-4869-b42a-2461f2bf70d4
+ID: 04327986-e645-402e-bac2-b6e5151ed82f
+Quelle: datenbank.xml
 Name: Thorwalerschild
 title: Thorwalerschild
 Trefferpunkte: 1W6+1
@@ -29,6 +30,6 @@ Preis: 60
 - **Waffeneigenschaften:**
   - Wucht
   - [[Schild|Schild]]
-  - [[Schwer|Schwer(4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer(4)]]
   - [[Nebenhand|Nebenhand]]
   - [[Defensiv|Defensiv (1)]]

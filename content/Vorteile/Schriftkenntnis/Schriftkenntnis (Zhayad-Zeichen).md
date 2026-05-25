@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: bec58bac-3e1b-46e4-ae28-0e2c1751f998
+ID: c4585fc8-ca9c-46e2-9059-6163fa4e950a
+Quelle: datenbank.xml
 Name: Schriftkenntnis (Zhayad-Zeichen)
 title: Schriftkenntnis (Zhayad-Zeichen)
 Kategorie: Schriftkenntnis

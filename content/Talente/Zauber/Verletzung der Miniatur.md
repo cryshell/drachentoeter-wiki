@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 443eb1bc-28fc-4dad-8ad9-fe25c417c8c9
+ID: aa7a811c-8b4e-48ac-848d-1448d75c9be1
+Quelle: datenbank.xml
 Name: Verletzung der Miniatur
 title: Verletzung der Miniatur
 Kategorie: Zauber

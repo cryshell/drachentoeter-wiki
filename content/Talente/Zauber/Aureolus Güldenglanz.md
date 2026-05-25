@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 98579ae5-3c32-4489-b3df-e3382c4f2c91
+ID: 5544fea1-a397-4208-8fca-5333e26d9be2
+Quelle: datenbank.xml
 Name: Aureolus Güldenglanz
 title: Aureolus Güldenglanz
 Kategorie: Zauber

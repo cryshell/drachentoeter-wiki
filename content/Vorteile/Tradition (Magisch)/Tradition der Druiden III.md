@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 90b18808-85a5-4a9b-b4b7-4533dc7a0604
+ID: ababe825-aa25-4747-aa71-968f778eaaed
+Quelle: datenbank.xml
 Name: Tradition der Druiden III
 title: Tradition der Druiden III
 Kategorie: Tradition (Magisch)

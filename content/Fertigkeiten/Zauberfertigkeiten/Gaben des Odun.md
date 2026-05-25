@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: ca4df32c-10d6-425f-a745-3abbf8b0d424
+ID: 92edf958-b63b-4423-a425-8ad23dd89d9d
+Quelle: datenbank.xml
 Name: Gaben des Odun
 title: Gaben des Odun
 Kategorie: Zauberfertigkeiten

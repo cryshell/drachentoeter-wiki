@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 4ac75778-1037-4973-aeca-e47229969e37
+ID: 9770b885-7f77-4e44-983a-e12ca54c5748
+Quelle: datenbank.xml
 Name: Derekunde
 title: Derekunde
 Kategorie: Profan

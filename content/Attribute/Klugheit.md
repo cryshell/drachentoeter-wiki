@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Attribut
-ID: 9f353741-fd44-4677-8158-8633695e5004
+ID: db081235-2c2b-4b32-ab25-61795bf9e0b6
+Quelle: datenbank.xml
 Name: Klugheit
 title: Klugheit
 Abkürzung: KL

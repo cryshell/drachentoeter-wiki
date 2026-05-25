@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: cbfeb9c4-57ab-4582-8958-8df6e192b881
+ID: 26d67895-b7cb-46db-a8f5-b4b88e9e4d1a
+Quelle: datenbank.xml
 Name: Schiffssymbiose
 title: Schiffssymbiose
 Kategorie: Anrufungen

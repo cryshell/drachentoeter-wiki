@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5b0ce4b4-babf-4b16-af49-f97b29675b2a
+ID: 95abb1dc-edf0-4db6-8858-fad7fb4e1ff2
+Quelle: datenbank.xml
 Name: Tairachs Sklaven
 title: Tairachs Sklaven
 Kategorie: Zauber

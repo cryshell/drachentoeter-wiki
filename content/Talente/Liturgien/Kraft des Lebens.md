@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e9324c02-b864-40ce-85a5-38903b0c4f89
+ID: 9a0c69c1-a766-40d1-b58a-70386f8b8ada
+Quelle: datenbank.xml
 Name: Kraft des Lebens
 title: Kraft des Lebens
 Kategorie: Liturgien

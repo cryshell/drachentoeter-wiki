@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0e07cb49-5e9e-4b4b-be25-6591f0fbb0d3
+ID: c3235755-9eeb-4bcd-a7bf-ee39dfe79116
+Quelle: datenbank.xml
 Name: Solidirid Weg aus Licht
 title: Solidirid Weg aus Licht
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 54b93170-86b9-481a-a26a-9816444c4793
+ID: b40bb274-7f00-4e37-9891-f391760af9fc
+Quelle: datenbank.xml
 Name: Schriftkenntnis (Kusliker Zeichen)
 title: Schriftkenntnis (Kusliker Zeichen)
 Kategorie: Schriftkenntnis

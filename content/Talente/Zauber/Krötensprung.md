@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b5286eb8-9afa-4133-ab47-69063c9b24df
+ID: b20eb8cd-cb40-48a8-ae70-eb33cf25fe9e
+Quelle: datenbank.xml
 Name: Krötensprung
 title: Krötensprung
 Kategorie: Zauber

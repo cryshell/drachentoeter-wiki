@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 5c93e9d4-cd2a-420f-b9ff-11172b743898
+ID: f7aa5849-d2fd-41fa-a120-6d427abf37a0
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Rogolan)
 title: Sprachkenntnis (Rogolan)
 Kategorie: Sprachkenntnis

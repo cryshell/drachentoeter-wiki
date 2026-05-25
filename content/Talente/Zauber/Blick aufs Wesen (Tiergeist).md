@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 683bbe5a-877e-43d3-a7a7-76171ef663b8
+ID: fb3c6f9b-8f90-47e0-bfcb-d0b96fd4d630
+Quelle: datenbank.xml
 Name: Blick aufs Wesen (Tiergeist)
 title: Blick aufs Wesen (Tiergeist)
 Kategorie: Zauber

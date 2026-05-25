@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 3cb55215-8a81-4566-b3a0-6085b1661e3c
+ID: cc546f79-f3e0-4253-9561-7d6e113f9a83
+Quelle: datenbank.xml
 Name: Simulacrum III
 title: Simulacrum III
 Kategorie: Kreis der Verdammnis

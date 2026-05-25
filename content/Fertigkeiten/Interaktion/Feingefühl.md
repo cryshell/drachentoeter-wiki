@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Fertigkeit
-ID: e4f5edb4-642f-4268-b95e-4c3c35b8fd70
+ID: bfbbecbb-6a57-4046-ba98-8b6ef9b945ce
+Quelle: datenbank.xml
 Name: Feingefühl
 title: Feingefühl
 Kategorie: Interaktion

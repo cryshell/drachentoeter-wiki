@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: a9fa22d2-f979-4955-9679-706d9a7c9862
+ID: f3746ea7-b08f-4b8c-9659-0d82f65528eb
+Quelle: datenbank.xml
 Name: Schutzgeist
 title: Schutzgeist
 Kategorie: Magisch
@@ -19,6 +20,6 @@ Der Schutzgeist hilft dir einmal pro Woche in einer Situation, in der es unmitte
 
 - **Erlernen:** 40 EP
 - **Voraussetzungen:**
-  - Vorteil [[Tradition der Magiedilettanten ODER Vorteil Tradition der Schamanen () I ODER Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Derwische I|Tradition der Magiedilettanten ODER Vorteil Tradition der Schamanen (*) I ODER Vorteil Tradition der Anach-Nûrim I ODER Vorteil Tradition der Durro-Dûn I ODER Vorteil Tradition der Derwische I]]
+  - Vorteil [[Tradition der Magiedilettanten]] ODER Vorteil [[Tradition der Schamanen () I|Tradition der Schamanen (*) I]] ODER Vorteil [[Tradition der Anach-Nûrim I]] ODER Vorteil [[Tradition der Durro-Dûn I]] ODER Vorteil [[Tradition der Derwische I]]
 - **Siehe auch:**
   - [[Willenskraftpunkte]]

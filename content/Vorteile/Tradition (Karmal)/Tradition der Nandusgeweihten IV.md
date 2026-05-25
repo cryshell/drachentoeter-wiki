@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: ca3a7402-a11e-45ba-9ef0-fae0263675ac
+ID: c1932ee9-156d-48f9-81dd-996b335aec49
+Quelle: datenbank.xml
 Name: Tradition der Nandusgeweihten IV
 title: Tradition der Nandusgeweihten IV
 Kategorie: Tradition (Karmal)

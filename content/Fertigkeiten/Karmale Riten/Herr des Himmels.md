@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 42f612f8-1753-4b7b-9cb4-0df8bd2f1d4a
+ID: 2767cd2c-878c-412b-80cc-49221d6fd639
+Quelle: datenbank.xml
 Name: Herr des Himmels
 title: Herr des Himmels
 Kategorie: Karmale Riten

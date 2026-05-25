@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9aa55092-5065-4ce0-a750-bc1f071010cd
+ID: cdbec263-2abc-4851-9d5d-ff9f0816de91
+Quelle: datenbank.xml
 Name: Leib des Erzes
 title: Leib des Erzes
 Kategorie: Zauber

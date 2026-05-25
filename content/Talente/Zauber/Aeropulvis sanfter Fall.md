@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 7b4d2db3-b31e-46fb-9007-c9bb9b43f49d
+ID: e3e3e2eb-3df9-4b5f-8a94-f25a0cef1548
+Quelle: datenbank.xml
 Name: Aeropulvis sanfter Fall
 title: Aeropulvis sanfter Fall
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0093d342-a933-49d7-bb2e-8a206b1edd2e
+ID: 87db6366-4ec4-4892-aff5-3d6d5f218c87
+Quelle: datenbank.xml
 Name: Reitender Geist
 title: Reitender Geist
 Kategorie: Zauber

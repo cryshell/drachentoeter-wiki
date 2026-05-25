@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 4bc513d6-4aac-47fb-891e-dee337d587e0
+ID: c66225ec-ab71-4d9f-a0ba-2f6b3b977c38
+Quelle: datenbank.xml
 Name: Selbstarchivierung
 title: Selbstarchivierung
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 3856293f-74f1-4c02-8df2-9a9f4812c171
+ID: bf3e3f89-be4e-43bf-8109-72747b283b17
+Quelle: datenbank.xml
 Name: Scharfsinnig
 title: Scharfsinnig
 Kategorie: Profan

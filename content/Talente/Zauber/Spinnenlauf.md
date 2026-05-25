@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d471c70e-03ae-402f-b003-2efc928834b5
+ID: f54d5e08-c03b-45a8-9099-5a4e2535365a
+Quelle: datenbank.xml
 Name: Spinnenlauf
 title: Spinnenlauf
 Kategorie: Zauber

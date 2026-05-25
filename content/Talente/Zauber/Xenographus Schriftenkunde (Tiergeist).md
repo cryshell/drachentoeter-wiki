@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 907b3fb3-04b9-478d-b5f6-d2d1ebd34417
+ID: 07e589c5-910c-4090-8fcd-976f9f4908ad
+Quelle: datenbank.xml
 Name: Xenographus Schriftenkunde (Tiergeist)
 title: Xenographus Schriftenkunde (Tiergeist)
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d4142a09-4fc2-4dd2-a0de-0aec7fd789f0
+ID: c8d9152f-97b2-4e06-b1d2-39c1727c73eb
+Quelle: datenbank.xml
 Name: Taschenspielerei
 title: Taschenspielerei
 Kategorie: Profan

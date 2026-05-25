@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 83df08a0-1684-4422-a025-c1311d6c01a7
+ID: 5eac4acc-2696-4b27-8dad-9da502758b47
+Quelle: datenbank.xml
 Name: Objecto Obscuro
 title: Objecto Obscuro
 Kategorie: Zauber

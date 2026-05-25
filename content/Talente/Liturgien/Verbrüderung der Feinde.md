@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 23476851-fe6c-4ba7-a3d6-7b169ff6c3fe
+ID: deb5429c-e632-47d8-9e32-3a8946c65a15
+Quelle: datenbank.xml
 Name: Verbrüderung der Feinde
 title: Verbrüderung der Feinde
 Kategorie: Liturgien

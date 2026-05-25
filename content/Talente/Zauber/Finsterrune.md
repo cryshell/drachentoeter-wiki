@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f7fbbd22-bf69-4ce8-9159-00d7eb4b6eee
+ID: a812a30c-ad6d-4dc9-bbcf-bf0532790968
+Quelle: datenbank.xml
 Name: Finsterrune
 title: Finsterrune
 Kategorie: Zauber

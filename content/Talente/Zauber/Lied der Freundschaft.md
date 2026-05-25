@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f997d6ae-2395-4d9f-8b33-b41cd6429e37
+ID: 2e6915fb-7496-4ad5-a20a-34c634eb2f91
+Quelle: datenbank.xml
 Name: Lied der Freundschaft
 title: Lied der Freundschaft
 Kategorie: Zauber

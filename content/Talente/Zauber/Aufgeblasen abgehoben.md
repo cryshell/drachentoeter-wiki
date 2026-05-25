@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 18e972a0-f7a4-412e-92a7-9e094eff86f0
+ID: 667ff565-dde3-43a4-9c70-6f8f1c6d0951
+Quelle: datenbank.xml
 Name: Aufgeblasen abgehoben
 title: Aufgeblasen abgehoben
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0aea4f02-dbbf-47e6-a973-88b0d2bbe29e
+ID: b4e57866-4ab7-4508-8a38-99b9dcec77c7
+Quelle: datenbank.xml
 Name: Hexenblick
 title: Hexenblick
 Kategorie: Zauber

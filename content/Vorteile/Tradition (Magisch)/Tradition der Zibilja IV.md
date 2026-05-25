@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 18e928d0-cd28-46e7-892b-73403ed517ef
+ID: 9e6cc966-0de0-42f3-a12b-c4e369a6714f
+Quelle: datenbank.xml
 Name: Tradition der Zibilja IV
 title: Tradition der Zibilja IV
 Kategorie: Tradition (Magisch)

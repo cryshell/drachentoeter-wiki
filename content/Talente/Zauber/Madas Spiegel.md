@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 97124097-0bd9-4775-a95a-bce1a0fa4eec
+ID: d3180255-eeeb-4723-9074-5695f35f4f11
+Quelle: datenbank.xml
 Name: Madas Spiegel
 title: Madas Spiegel
 Kategorie: Zauber

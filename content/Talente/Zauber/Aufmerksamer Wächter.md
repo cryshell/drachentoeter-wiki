@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 564918c5-6050-4658-9776-490bc99fbab6
+ID: 45e445c5-7f4f-4aa2-b593-ca69181256c6
+Quelle: datenbank.xml
 Name: Aufmerksamer Wächter
 title: Aufmerksamer Wächter
 Kategorie: Zauber

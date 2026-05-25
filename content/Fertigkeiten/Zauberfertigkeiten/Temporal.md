@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 59ac2d90-4b11-4101-b1ff-7214e2a52b1e
+ID: e4b94242-9191-436e-ac94-d2dcdc39e6be
+Quelle: datenbank.xml
 Name: Temporal
 title: Temporal
 Kategorie: Zauberfertigkeiten

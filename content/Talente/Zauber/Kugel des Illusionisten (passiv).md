@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e37717cf-225f-4b44-9426-bfd87e4e073b
+ID: 3d7ffacf-2fef-4e2b-9568-8b5a01ca29f4
+Quelle: datenbank.xml
 Name: Kugel des Illusionisten (passiv)
 title: Kugel des Illusionisten (passiv)
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 97903cc5-cc4d-48d1-9a4a-4eae051e2651
+ID: fd639376-68a7-484d-a25b-93be9ce696f9
+Quelle: datenbank.xml
 Name: Stärke des untoten Leibs
 title: Stärke des untoten Leibs
 Kategorie: Zauber

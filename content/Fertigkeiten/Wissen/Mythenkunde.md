@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 56ccf28a-840a-4787-8b58-c640046e1fc7
+ID: d7868a4e-2651-42cb-99ca-59f6d1125c02
+Quelle: datenbank.xml
 Name: Mythenkunde
 title: Mythenkunde
 Kategorie: Wissen

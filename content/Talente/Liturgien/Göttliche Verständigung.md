@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f83c704b-a586-4a69-a074-37911d62519a
+ID: 90869af7-b539-4f88-ab81-450cf0505f5d
+Quelle: datenbank.xml
 Name: Göttliche Verständigung
 title: Göttliche Verständigung
 Kategorie: Liturgien

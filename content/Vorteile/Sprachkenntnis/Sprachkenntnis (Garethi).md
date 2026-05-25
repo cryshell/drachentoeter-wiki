@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 7fa4c5f8-96f7-47c1-ac6b-41fa7c1c0fbe
+ID: 2a00bb50-5cab-4dbe-bb70-742650f386d8
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Garethi)
 title: Sprachkenntnis (Garethi)
 Kategorie: Sprachkenntnis

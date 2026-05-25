@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5cf732e1-7b4a-4626-be08-fb5fc5c4778a
+ID: a45f302f-e538-4a3b-b463-cdc967ad540e
+Quelle: datenbank.xml
 Name: Magischer Raub
 title: Magischer Raub
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1368af4b-6717-4222-98d6-7356951b1fed
+ID: 22e04828-baf9-457c-bcd1-30df73a077f2
+Quelle: datenbank.xml
 Name: Rhythmen des Rausches
 title: Rhythmen des Rausches
 Kategorie: Zauber

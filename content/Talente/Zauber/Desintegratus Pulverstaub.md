@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 323deffc-4940-49b3-adf1-223c91b885b0
+ID: 3800789b-fe87-4a1e-9f8e-f44ca1e691b8
+Quelle: datenbank.xml
 Name: Desintegratus Pulverstaub
 title: Desintegratus Pulverstaub
 Kategorie: Zauber

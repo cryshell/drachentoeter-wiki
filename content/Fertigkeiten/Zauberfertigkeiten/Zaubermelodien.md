@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 2ed47034-e3f7-4871-bc65-332bfe45213b
+ID: b877740e-75ff-4d22-b395-b620fa3c9e88
+Quelle: datenbank.xml
 Name: Zaubermelodien
 title: Zaubermelodien
 Kategorie: Zauberfertigkeiten

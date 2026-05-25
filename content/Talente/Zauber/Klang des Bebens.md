@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: bd07aee9-ae05-4965-b419-711af0dd9862
+ID: 79f37bf1-b956-4b9b-ae62-c3deefca3dcc
+Quelle: datenbank.xml
 Name: Klang des Bebens
 title: Klang des Bebens
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e62a63fd-d02d-4652-8f36-51b901eeb06d
+ID: b354818d-f7e8-4758-a009-543128850f6e
+Quelle: datenbank.xml
 Name: Fluch der Verwirrung
 title: Fluch der Verwirrung
 Kategorie: Zauber

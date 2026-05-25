@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 40b5de3d-84d7-4091-b2ae-402a9d1e7bbe
+ID: f2f04773-767d-443d-95b7-743dd3b312a7
+Quelle: datenbank.xml
 Name: Wanderpferd (Kaltblut)
 title: Wanderpferd (Kaltblut)
 Trefferpunkte: 2W6+2

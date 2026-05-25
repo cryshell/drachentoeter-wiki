@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a36af4a4-da55-4faf-a453-7e76a91de749
+ID: 6c48b206-cb6c-4c1a-8cac-56eb50a59528
+Quelle: datenbank.xml
 Name: Dämonische Waffe
 title: Dämonische Waffe
 Kategorie: Anrufungen

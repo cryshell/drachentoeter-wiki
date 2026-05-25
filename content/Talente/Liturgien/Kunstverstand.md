@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5555ddac-42c3-4e61-9780-6ebb55da8438
+ID: 0a3add85-bab4-43c8-92ff-73058e0dc9ab
+Quelle: datenbank.xml
 Name: Kunstverstand
 title: Kunstverstand
 Kategorie: Liturgien

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 7c7194b6-22f6-4571-872d-92c92c958821
+ID: 6bbd2b17-6790-43a7-be7d-6cc81ec6fecc
+Quelle: datenbank.xml
 Name: Vorausschauend
 title: Vorausschauend
 Kategorie: Profan

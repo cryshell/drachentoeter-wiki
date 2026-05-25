@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 9eca1f97-31b4-424a-83ef-19a39e064ad3
+ID: fa992dcc-604d-47c5-87ac-ed1cf40d0157
+Quelle: datenbank.xml
 Name: Barbarenstreitaxt
 title: Barbarenstreitaxt
 Trefferpunkte: 4W6+0
@@ -26,6 +27,6 @@ Preis: 150
 - **Waffeneigenschaften:**
   - Hieb
   - [[Kopflastig|Kopflastig]]
-  - [[Schwer|Schwer (4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (4)]]
   - [[Zweihändig|Zweihändig]]
-  - [[Einschüchternd|Einschüchternd]]
+  - [[Waffeneigenschaften/Einschüchternd|Einschüchternd]]

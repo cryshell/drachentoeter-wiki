@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: bcc40f3f-b587-47c2-bf65-a7a320a55a6f
+ID: 47d512da-338b-4fed-9f86-4e940a0cae69
+Quelle: datenbank.xml
 Name: Herrschaft über Ungeheuer
 title: Herrschaft über Ungeheuer
 Kategorie: Anrufungen

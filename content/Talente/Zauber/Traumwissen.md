@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 34f16743-581a-4457-a83c-bb7453e32e36
+ID: 831113ed-649d-4f12-a27b-adf53728da05
+Quelle: datenbank.xml
 Name: Traumwissen
 title: Traumwissen
 Kategorie: Zauber

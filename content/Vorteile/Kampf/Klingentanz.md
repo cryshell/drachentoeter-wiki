@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 40341811-ef7d-4e42-8114-c6d15b132ea5
+ID: 3dc4d3c3-4465-495c-b7e0-b8e1e3acde9f
+Quelle: datenbank.xml
 Name: Klingentanz
 title: Klingentanz
 Kategorie: Kampf

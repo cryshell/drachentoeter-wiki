@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d22fb536-f71a-4d99-8637-76e32a451d6e
+ID: bb7c7381-ccc0-4581-9b49-ad0eb900bcd5
+Quelle: datenbank.xml
 Name: Seelentier erkennen (Tiergeist)
 title: Seelentier erkennen (Tiergeist)
 Kategorie: Zauber

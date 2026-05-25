@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: aace696a-d73c-4e16-a775-a5cf924f0ee3
+ID: e613d8e7-df56-490f-a1e0-97b66524d726
+Quelle: datenbank.xml
 Name: Besonderer Besitz
 title: Besonderer Besitz
 Kategorie: Allgemein

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 91908f45-6488-419f-bb8a-ff1b242af966
+ID: 674fce8f-381f-4c3a-8202-32bb04053d96
+Quelle: datenbank.xml
 Name: Siegel der Stille
 title: Siegel der Stille
 Kategorie: Zauber

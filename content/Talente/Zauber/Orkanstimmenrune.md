@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0d3e04ae-5c85-44b9-857b-026e48d47e6d
+ID: fad4f261-f5a4-4517-9a50-6997eac3889d
+Quelle: datenbank.xml
 Name: Orkanstimmenrune
 title: Orkanstimmenrune
 Kategorie: Zauber

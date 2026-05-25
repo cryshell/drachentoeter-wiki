@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: e6af4c73-3015-4216-a7f6-dc4d1a357f55
+ID: f0939c29-bbcf-49fe-856c-72e92e6bb2d4
+Quelle: datenbank.xml
 Name: Wahre Namen Agrimoths IV
 title: Wahre Namen Agrimoths IV
 Kategorie: Wahre Namen
@@ -17,6 +18,6 @@ Kosten: 20
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Geweiht I]] ODER Vorteil [[Paktierer I]]
   - MeisterAttribut [[Klugheit|KL]] 10
   - Vorteil [[Wahre Namen Agrimoths III]]

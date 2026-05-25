@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f32c4832-2d33-49c5-b70a-dd95e85db455
+ID: 048223b0-60d3-4c8a-ad1e-dc3b8afb2a14
+Quelle: datenbank.xml
 Name: Ängste mehren
 title: Ängste mehren
 Kategorie: Zauber

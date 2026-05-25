@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Abgeleiteter Wert
-ID: a7cbeac5-6230-4c64-bfcb-7ffc9b2bfbf6
+ID: ea70e363-1bbd-4c6b-9b55-583e4437b485
+Quelle: datenbank.xml
 Name: Schadensbonus
 title: Schadensbonus
 Abkürzung: SB

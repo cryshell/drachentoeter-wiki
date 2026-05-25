@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 58540e3a-3972-4e6a-bfb9-a479fdf307a0
+ID: 014fb327-0f4b-4545-9f41-90d628d24f34
+Quelle: datenbank.xml
 Name: Tanz der Freude
 title: Tanz der Freude
 Kategorie: Zauber

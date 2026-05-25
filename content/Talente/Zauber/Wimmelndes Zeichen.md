@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 138a0444-1f3a-421e-9080-d5c64c34d50a
+ID: b9dc1da1-7af7-45d2-ac17-4cdf34afefbc
+Quelle: datenbank.xml
 Name: Wimmelndes Zeichen
 title: Wimmelndes Zeichen
 Kategorie: Zauber

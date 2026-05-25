@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: b38a40ca-509b-43da-af5f-9c493adbf0b1
+ID: 945855a9-9772-400a-8982-8e80cb8f24d8
+Quelle: datenbank.xml
 Name: Gemeinsames Wunder
 title: Gemeinsames Wunder
 Kategorie: Karmal

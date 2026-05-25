@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 46f3f888-84f0-47a2-8e75-3ad46b732386
+ID: 548ff19f-5617-4d1a-bd41-da28e1bc28a2
+Quelle: datenbank.xml
 Name: Lager bereiten
 title: Lager bereiten
 Kategorie: Profan

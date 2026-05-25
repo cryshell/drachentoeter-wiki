@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 86d0bee4-79f3-4604-a2f2-5c44107482fc
+ID: 67918f89-1efa-455f-a59a-9a27c50dc21f
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Z’Lit)
 title: Sprachkenntnis (Z’Lit)
 Kategorie: Sprachkenntnis

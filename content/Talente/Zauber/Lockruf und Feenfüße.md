@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 99d5453d-0c9b-4948-bbdf-ee2493df6d07
+ID: f6f73ff2-d00c-4390-9553-c9c1062e6530
+Quelle: datenbank.xml
 Name: Lockruf und Feenfüße
 title: Lockruf und Feenfüße
 Kategorie: Zauber

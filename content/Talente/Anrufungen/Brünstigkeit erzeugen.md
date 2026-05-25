@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b5f964fc-6537-42bb-9e59-08ed8edf0d53
+ID: 20238676-1ee2-43c5-9450-af95021ca53c
+Quelle: datenbank.xml
 Name: Brünstigkeit erzeugen
 title: Brünstigkeit erzeugen
 Kategorie: Anrufungen

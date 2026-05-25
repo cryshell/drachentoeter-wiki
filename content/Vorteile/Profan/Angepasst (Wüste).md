@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: b73bbd15-2706-40d6-a221-f1e5a1c9fef2
+ID: 0f54666d-2776-4af7-80a9-66d69e53b170
+Quelle: datenbank.xml
 Name: Angepasst (Wüste)
 title: Angepasst (Wüste)
 Kategorie: Profan

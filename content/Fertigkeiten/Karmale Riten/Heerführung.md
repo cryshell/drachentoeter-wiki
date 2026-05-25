@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 840f8708-e0af-4047-8cb6-11531f682bd3
+ID: 6f9b2efe-e742-4efa-b02c-fadf16c1266f
+Quelle: datenbank.xml
 Name: Heerführung
 title: Heerführung
 Kategorie: Karmale Riten

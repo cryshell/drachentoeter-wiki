@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 37e18b90-3800-43a0-be63-31f61bcd1344
+ID: a8dd1bb9-b2af-40d3-ba43-433662b6bdb8
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Oloarkh)
 title: Sprachkenntnis (Oloarkh)
 Kategorie: Sprachkenntnis

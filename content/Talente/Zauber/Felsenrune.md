@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a2036a81-ed38-4576-8d99-8b2d27664a34
+ID: c560e359-e88d-4e07-939b-2c99af24ac94
+Quelle: datenbank.xml
 Name: Felsenrune
 title: Felsenrune
 Kategorie: Zauber

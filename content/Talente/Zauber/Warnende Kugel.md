@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: cf8a3f3b-d773-46be-8504-184b767dad64
+ID: 41e94b5d-e9dc-402a-a3ac-96c0185d0672
+Quelle: datenbank.xml
 Name: Warnende Kugel
 title: Warnende Kugel
 Kategorie: Zauber

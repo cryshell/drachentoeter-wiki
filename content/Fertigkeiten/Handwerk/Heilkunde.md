@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 46b34c2f-3054-4019-ac58-0e0d366da1c4
+ID: 9224c0d6-1620-48d8-a2ca-8a5c837b268a
+Quelle: datenbank.xml
 Name: Heilkunde
 title: Heilkunde
 Kategorie: Handwerk

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: e0f65864-0521-4852-9e35-994702594356
+ID: d0bd00c1-93c0-4162-94bc-ef47598a1c9e
+Quelle: datenbank.xml
 Name: Heiliges Handwerk
 title: Heiliges Handwerk
 Kategorie: Karmale Riten

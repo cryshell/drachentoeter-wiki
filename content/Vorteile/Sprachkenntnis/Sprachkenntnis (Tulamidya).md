@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 8dc4ef7b-b6dc-4b2e-88d5-02b0e78338e8
+ID: f1b3b973-aa42-491f-8534-0185d753cf86
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Tulamidya)
 title: Sprachkenntnis (Tulamidya)
 Kategorie: Sprachkenntnis

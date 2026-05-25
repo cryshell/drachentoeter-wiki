@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2a87dfa2-9440-4d6a-a334-cf76849b87bb
+ID: b4057375-ff10-4724-ad19-fd4c6b79821d
+Quelle: datenbank.xml
 Name: Energiestrahl
 title: Energiestrahl
 Kategorie: Zauber

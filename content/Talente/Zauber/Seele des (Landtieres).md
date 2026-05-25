@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d715a166-db68-4d92-8a5e-f1bcf97132a1
+ID: a5297415-3fb0-449e-bb39-eccf196bb6d2
+Quelle: datenbank.xml
 Name: Seele des (Landtieres)
 title: Seele des (Landtieres)
 Kategorie: Zauber

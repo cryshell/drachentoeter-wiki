@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9d17e221-15b9-4dd9-a78c-c49caff664fb
+ID: 001612a0-45cf-46c0-a456-2413ba324c67
+Quelle: datenbank.xml
 Name: Schlachtlied
 title: Schlachtlied
 Kategorie: Zauber

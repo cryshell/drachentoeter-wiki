@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 2c50d353-ae8b-4710-919a-409ac5f1e6e9
+ID: b8bdbf3f-297a-4f32-8864-8d48ce9b4228
+Quelle: datenbank.xml
 Name: "Kommando: Formiert Euch!"
 title: "Kommando: Formiert Euch!"
 Kategorie: Kampf

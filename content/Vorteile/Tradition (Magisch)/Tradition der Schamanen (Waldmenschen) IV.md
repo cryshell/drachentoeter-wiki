@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 4d5d6619-179c-4ae1-abec-7086a4c90c43
+ID: 468fd0b4-68ce-4428-a519-c2a6d4c27a1b
+Quelle: datenbank.xml
 Name: Tradition der Schamanen (Waldmenschen) IV
 title: Tradition der Schamanen (Waldmenschen) IV
 Kategorie: Tradition (Magisch)

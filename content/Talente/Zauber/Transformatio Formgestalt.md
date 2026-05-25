@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d096e21e-4b9c-4bf9-a947-4442d1854c3f
+ID: ccd8b2fd-a92d-4136-a919-39d31e759a8c
+Quelle: datenbank.xml
 Name: Transformatio Formgestalt
 title: Transformatio Formgestalt
 Kategorie: Zauber

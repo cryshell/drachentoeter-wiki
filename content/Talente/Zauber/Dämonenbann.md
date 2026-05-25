@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 3fb74ebc-8864-4c42-8067-3863ab107cca
+ID: ffe8e2ba-9389-429d-8c21-17f328a76084
+Quelle: datenbank.xml
 Name: Dämonenbann
 title: Dämonenbann
 Kategorie: Zauber

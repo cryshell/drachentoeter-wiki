@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 1cd8e793-c983-4429-8f57-9b86a46acf4a
+ID: ec8dee68-66e6-47e3-b409-51390f6c5158
+Quelle: datenbank.xml
 Name: Ätherpeitsche
 title: Ätherpeitsche
 Kategorie: Anrufungen

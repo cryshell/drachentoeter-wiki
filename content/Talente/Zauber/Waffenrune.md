@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 60f83971-575d-4db5-870e-a1c210de6825
+ID: fa9ab930-e3a2-4b08-b2cb-756b93b23717
+Quelle: datenbank.xml
 Name: Waffenrune
 title: Waffenrune
 Kategorie: Zauber

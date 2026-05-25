@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: f76726cd-7c3c-4a2d-81d4-42bb42a94715
+ID: 4b57fa58-e888-4805-bb42-aaa239a54bc4
+Quelle: datenbank.xml
 Name: Tradition der Schamanen (Goblins) II
 title: Tradition der Schamanen (Goblins) II
 Kategorie: Tradition (Magisch)

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 551d1cd0-bff9-46cf-9387-fdee4c4bd1ed
+ID: bf4b6af8-0b16-49e4-b520-b1a1e98d9181
+Quelle: datenbank.xml
 Name: Fluch der Götter (Efferd)
 title: Fluch der Götter (Efferd)
 Kategorie: Nachteil

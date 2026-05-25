@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 334ee12c-9cf0-4a34-8b69-0d0d336a4bdb
+ID: 5022b350-efc2-471d-b2eb-935ccbc2c8a3
+Quelle: datenbank.xml
 Name: Ignifugo Feuerbann
 title: Ignifugo Feuerbann
 Kategorie: Zauber

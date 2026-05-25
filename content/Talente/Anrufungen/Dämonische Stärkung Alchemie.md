@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e736e639-3737-498b-a5f2-1967d9e224ba
+ID: 077f384b-3c5e-4ca0-8f3b-8c38d420c70a
+Quelle: datenbank.xml
 Name: "Dämonische Stärkung: Alchemie"
 title: "Dämonische Stärkung: Alchemie"
 Kategorie: Anrufungen

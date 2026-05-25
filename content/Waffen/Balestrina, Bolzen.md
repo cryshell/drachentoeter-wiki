@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 3b0eb511-0386-44ce-8c40-871743e06adb
+ID: ce50eb77-bac0-42c4-999e-27fbbbadf253
+Quelle: datenbank.xml
 Name: Balestrina, Bolzen
 title: Balestrina, Bolzen
 Trefferpunkte: 2W6+3

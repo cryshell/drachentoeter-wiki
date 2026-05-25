@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: fb40a0b9-8c72-4f57-9f72-b0e6499b53f1
+ID: ce0f4198-c941-480e-b666-e73db4a46455
+Quelle: datenbank.xml
 Name: Lustlosigkeit
 title: Lustlosigkeit
 Kategorie: Anrufungen

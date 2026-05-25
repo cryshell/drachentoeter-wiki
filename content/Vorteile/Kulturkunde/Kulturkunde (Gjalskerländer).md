@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: f6e066e1-58e7-4eff-b7bb-31df3f3b8ba5
+ID: f2df506d-e096-4355-ae27-5c0460323807
+Quelle: datenbank.xml
 Name: Kulturkunde (Gjalskerländer)
 title: Kulturkunde (Gjalskerländer)
 Kategorie: Kulturkunde

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: cb300827-4101-434a-bd7c-609ad7080d58
+ID: 2711ef2c-aab6-49dc-bb5b-5de1cc032a2b
+Quelle: datenbank.xml
 Name: Rhetorik
 title: Rhetorik
 Kategorie: Profan

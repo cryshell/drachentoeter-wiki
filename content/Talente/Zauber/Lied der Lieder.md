@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a1790048-0aef-403a-b13a-3abd1d28da25
+ID: 919d7b6c-21ba-42b0-b4bf-3067a194d947
+Quelle: datenbank.xml
 Name: Lied der Lieder
 title: Lied der Lieder
 Kategorie: Zauber

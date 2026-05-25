@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 3e223673-b71b-4d75-99aa-490107e2ea2a
+ID: 51836b0a-f160-48b4-ae85-469ab2617a09
+Quelle: datenbank.xml
 Name: Schutz der Sippe
 title: Schutz der Sippe
 Kategorie: Karmale Riten

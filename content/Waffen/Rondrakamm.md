@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 731e3082-431c-4bf3-8b22-d967a525b3b0
+ID: f8653236-8886-41cb-9a6a-da5ccec9d518
+Quelle: datenbank.xml
 Name: Rondrakamm
 title: Rondrakamm
 Trefferpunkte: 2W6+4

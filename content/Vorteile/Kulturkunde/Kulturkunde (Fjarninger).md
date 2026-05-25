@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: d34f8259-f479-42dc-95b8-875fadf95917
+ID: 778302aa-45e1-47ec-9abb-095494756f25
+Quelle: datenbank.xml
 Name: Kulturkunde (Fjarninger)
 title: Kulturkunde (Fjarninger)
 Kategorie: Kulturkunde

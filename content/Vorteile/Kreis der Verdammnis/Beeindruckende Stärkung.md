@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 34641fab-a291-429e-a0a9-8da809f6d485
+ID: e770ad65-9914-4025-90c3-329ac54fb69f
+Quelle: datenbank.xml
 Name: Beeindruckende Stärkung
 title: Beeindruckende Stärkung
 Kategorie: Kreis der Verdammnis

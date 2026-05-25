@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b8b3016a-5bb1-4d8a-9f8f-5b7cbac5b0d7
+ID: 91bca40d-d707-48f4-8143-3f7cd4fe93ed
+Quelle: datenbank.xml
 Name: Blitzschlag
 title: Blitzschlag
 Kategorie: Liturgien

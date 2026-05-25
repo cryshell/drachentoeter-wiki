@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: e7cd6b0c-2627-479f-92dc-435f2bc7f2f7
+ID: ac43ecb3-1b45-41c9-9aa5-deb282addd8a
+Quelle: datenbank.xml
 Name: Balestra
 title: Balestra
 Trefferpunkte: 3W6+0
@@ -25,6 +26,6 @@ Fernkampf: true
 - **Waffeneigenschaften:**
   - Schuss
   - [[Niederwerfen|Niederwerfen]]
-  - [[Schwer|Schwer (4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (4)]]
   - [[Spannschloss|Spannschloss]]
   - [[Zweihändig|Zweihändig]]

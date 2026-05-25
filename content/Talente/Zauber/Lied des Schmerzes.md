@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 987dc002-b44d-4c23-b7bb-938ae0572f7b
+ID: 076bdc42-75dd-4273-9684-f0ff1c3efa0a
+Quelle: datenbank.xml
 Name: Lied des Schmerzes
 title: Lied des Schmerzes
 Kategorie: Zauber

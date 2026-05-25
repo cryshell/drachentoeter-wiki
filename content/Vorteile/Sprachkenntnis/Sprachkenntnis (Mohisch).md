@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: fd96335c-f70c-4125-8ab1-565cc5bf0a82
+ID: cde71862-f742-43a8-93f5-e9a2bf0c753e
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Mohisch)
 title: Sprachkenntnis (Mohisch)
 Kategorie: Sprachkenntnis

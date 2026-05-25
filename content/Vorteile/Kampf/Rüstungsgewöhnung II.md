@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 091bb762-b89c-48bd-8c35-f66ce2fbbc41
+ID: c43be510-8be7-4370-8c57-66de67d4d599
+Quelle: datenbank.xml
 Name: Rüstungsgewöhnung II
 title: Rüstungsgewöhnung II
 Kategorie: Kampf

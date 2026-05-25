@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 29fd8d27-f125-4b69-b1d1-efa9ef386584
+ID: 934b1df7-533d-42a6-aab5-9fd9c02b2d08
+Quelle: datenbank.xml
 Name: Unsichtbare Chronik
 title: Unsichtbare Chronik
 Kategorie: Zauber

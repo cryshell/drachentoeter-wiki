@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: b52dac0d-d395-40d6-a970-9fb65a7b0f58
+ID: 7d832f64-958f-4e64-946c-4893d8b06900
+Quelle: datenbank.xml
 Name: Kulturkunde (Thorwal)
 title: Kulturkunde (Thorwal)
 Kategorie: Kulturkunde

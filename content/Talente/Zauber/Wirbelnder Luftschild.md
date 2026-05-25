@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f72eb359-930e-4a90-96b0-8f36b27dd77c
+ID: e9052755-dc5f-4797-a301-616b0445ef92
+Quelle: datenbank.xml
 Name: Wirbelnder Luftschild
 title: Wirbelnder Luftschild
 Kategorie: Zauber

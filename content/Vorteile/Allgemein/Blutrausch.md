@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 7b0be6ca-23c8-44df-877b-f209d4261411
+ID: b04148d0-de5a-4564-a967-f103bcc66782
+Quelle: datenbank.xml
 Name: Blutrausch
 title: Blutrausch
 Kategorie: Allgemein

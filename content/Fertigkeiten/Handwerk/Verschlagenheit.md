@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 02f37d7a-25ca-408f-a953-2da461577db4
+ID: 5df37b2a-5552-457a-afe3-9fb27e057328
+Quelle: datenbank.xml
 Name: Verschlagenheit
 title: Verschlagenheit
 Kategorie: Handwerk

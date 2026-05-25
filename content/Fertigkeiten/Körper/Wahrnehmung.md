@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 0a62359e-a2ac-4aee-ae1e-1448ffe09a03
+ID: ba268d56-380c-42cb-abd1-657ae58abd77
+Quelle: datenbank.xml
 Name: Wahrnehmung
 title: Wahrnehmung
 Kategorie: Körper

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2e4175d3-bb3e-40d5-9096-069b015d2bb9
+ID: 863ab078-a673-4758-a18e-05ad07ade587
+Quelle: datenbank.xml
 Name: Blick durch fremde Augen
 title: Blick durch fremde Augen
 Kategorie: Zauber

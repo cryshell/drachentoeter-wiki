@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a7e59e2c-6ecc-4edf-8aaf-8ecd2933b14b
+ID: 79c34e6b-6194-46d9-8108-1cc9595f7682
+Quelle: datenbank.xml
 Name: Warnender Stein
 title: Warnender Stein
 Kategorie: Zauber

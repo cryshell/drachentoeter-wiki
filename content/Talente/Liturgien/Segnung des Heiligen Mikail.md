@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 91b37228-8d53-4586-bf14-5efc47ef1049
+ID: 86760831-ed1a-4cbc-a7b5-5cabfa888e56
+Quelle: datenbank.xml
 Name: Segnung des Heiligen Mikail
 title: Segnung des Heiligen Mikail
 Kategorie: Liturgien

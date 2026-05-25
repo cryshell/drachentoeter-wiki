@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 3b602bc7-3e50-4b50-91a2-83221f770d86
+ID: bdcd85f3-6d2b-4519-afb7-17de33d00037
+Quelle: datenbank.xml
 Name: Arngrimms Höhle
 title: Arngrimms Höhle
 Kategorie: Zauber

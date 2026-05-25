@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: f9dbe363-be7f-4914-98da-f206a7d6ea37
+ID: e9b056f3-544f-420b-b23c-2c417839274b
+Quelle: datenbank.xml
 Name: Kurzschwert (Handgemenge)
 title: Kurzschwert (Handgemenge)
 Trefferpunkte: 1W6+2

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a67f53fe-18ea-4404-81d3-e24be84b4867
+ID: ad3af725-bcd1-4efa-9b49-56346ff91376
+Quelle: datenbank.xml
 Name: Zaubervariabilität (passiv)
 title: Zaubervariabilität (passiv)
 Kategorie: Anrufungen

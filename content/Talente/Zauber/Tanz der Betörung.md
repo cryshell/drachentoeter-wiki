@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5aa75373-4359-4f43-bcfd-2277c88b09ca
+ID: 24cf860b-3af8-478e-83ae-6ded4bb98ddb
+Quelle: datenbank.xml
 Name: Tanz der Betörung
 title: Tanz der Betörung
 Kategorie: Zauber

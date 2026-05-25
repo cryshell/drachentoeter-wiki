@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 5f59aab1-0f45-488a-a034-8c80c17d59bd
+ID: 62a3101f-1671-4a74-b5fc-27a0067aeab4
+Quelle: datenbank.xml
 Name: Hexenblick (Dämonisch)
 title: Hexenblick (Dämonisch)
 Kategorie: Zauber

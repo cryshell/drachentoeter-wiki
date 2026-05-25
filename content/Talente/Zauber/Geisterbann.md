@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ffee6b9a-2573-400e-8dd9-9ad791eb826d
+ID: 7802ab4d-a783-4a5c-ac58-f2c9212cdd68
+Quelle: datenbank.xml
 Name: Geisterbann
 title: Geisterbann
 Kategorie: Zauber

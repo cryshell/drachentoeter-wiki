@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: bdac14dd-d6a7-4891-abaa-40301c7608ef
+ID: 17d402ce-0185-433a-a518-0ff57429b236
+Quelle: datenbank.xml
 Name: Standfest Katzengleich (Tiergeist)
 title: Standfest Katzengleich (Tiergeist)
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: c741270e-2024-42b3-a791-c5b21b30c4e7
+ID: d5107d46-92dc-4a2f-9efe-0aeb11eab914
+Quelle: datenbank.xml
 Name: Kraft
 title: Kraft
 Kategorie: Zauberfertigkeiten

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 85d5a4bb-41b4-41bf-8fad-836e530c57a4
+ID: 0261220d-523d-4f91-a0b2-61b23e224bbc
+Quelle: datenbank.xml
 Name: Magierrapier
 title: Magierrapier
 Trefferpunkte: 2W6+1

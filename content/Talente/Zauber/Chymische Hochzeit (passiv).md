@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d2ef7c95-8790-4818-8f1c-ac649f568802
+ID: 8923b3a9-9604-4aa4-8bf8-2c76d0954c85
+Quelle: datenbank.xml
 Name: Chymische Hochzeit (passiv)
 title: Chymische Hochzeit (passiv)
 Kategorie: Zauber

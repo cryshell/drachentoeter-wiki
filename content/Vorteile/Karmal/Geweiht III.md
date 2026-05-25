@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 8963f48e-465d-4f84-99ef-83e370541233
+ID: 30f0c60a-ec3d-4c29-9bed-5db19b49ad2a
+Quelle: datenbank.xml
 Name: Geweiht III
 title: Geweiht III
 Kategorie: Karmal

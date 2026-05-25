@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 77c4fc71-eeab-4d67-91c7-81ad95df6fee
+ID: f0dcfc4d-d4c2-4128-8342-a9379be63aed
+Quelle: datenbank.xml
 Name: Schriftkenntnis (Arkanil)
 title: Schriftkenntnis (Arkanil)
 Kategorie: Schriftkenntnis

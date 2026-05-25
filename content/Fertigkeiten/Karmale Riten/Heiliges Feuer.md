@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 1ec04987-ebc9-4190-bfa1-842d53704a70
+ID: d819aed8-9045-4e3f-bb37-26ee49363726
+Quelle: datenbank.xml
 Name: Heiliges Feuer
 title: Heiliges Feuer
 Kategorie: Karmale Riten

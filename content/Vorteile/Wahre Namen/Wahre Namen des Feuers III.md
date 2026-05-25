@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: a3beb541-6a33-4a3d-a5a4-bba1070a9f11
+ID: f267b7fb-a0f5-4474-bedb-97aea1ad7493
+Quelle: datenbank.xml
 Name: Wahre Namen des Feuers III
 title: Wahre Namen des Feuers III
 Kategorie: Wahre Namen
@@ -17,6 +18,6 @@ Erhöht die maximale Beschwörungsschwierigkeit um 8.
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Geweiht I]] ODER Vorteil [[Paktierer I]]
   - Attribut [[Klugheit|KL]] 8
   - Vorteil [[Wahre Namen des Feuers II]]

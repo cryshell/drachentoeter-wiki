@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 27fd10cb-4a2a-4d22-b79b-b89d92c8922d
+ID: bff7a2b1-1f20-4b9c-8b44-a6e530d65ba8
+Quelle: datenbank.xml
 Name: Nipakau
 title: Nipakau
 Kategorie: Karmale Riten

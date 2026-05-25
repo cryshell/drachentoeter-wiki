@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: da02852f-35da-4ecc-918b-55fcd52943d7
+ID: cbc4319c-7bb6-4e79-8d79-41e712e35fd1
+Quelle: datenbank.xml
 Name: Atemnot (Tiergeist)
 title: Atemnot (Tiergeist)
 Kategorie: Zauber

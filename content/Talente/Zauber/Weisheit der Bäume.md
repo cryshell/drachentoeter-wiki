@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 439553f2-5865-440d-9417-b28035c7d70c
+ID: efa007f1-7fb1-4e21-a135-5ba10a17c815
+Quelle: datenbank.xml
 Name: Weisheit der Bäume
 title: Weisheit der Bäume
 Kategorie: Zauber

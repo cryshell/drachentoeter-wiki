@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: c1e12c69-7954-4e9d-a205-38c05c7bf29c
+ID: fbba85c9-e10f-4046-8d08-14c3cb71e6ef
+Quelle: datenbank.xml
 Name: Verseuchung erspüren
 title: Verseuchung erspüren
 Kategorie: Karmal

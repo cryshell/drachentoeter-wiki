@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: d32e84c4-e17c-4c62-b234-3ee1792c95c0
+ID: 677943ef-90c9-47be-bada-085876c79ddf
+Quelle: datenbank.xml
 Name: Tradition der Giftmischer II
 title: Tradition der Giftmischer II
 Kategorie: Tradition (Profan)

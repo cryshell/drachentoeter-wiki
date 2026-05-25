@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0b98ce12-7ef3-4d0f-bcbb-f95861267538
+ID: ad2c86c7-a800-4f75-be81-2fe85eb97fd7
+Quelle: datenbank.xml
 Name: Tarnung
 title: Tarnung
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 791aa96d-dcb8-4156-8a5e-a525ea15c55e
+ID: bc47d2e3-7e34-4f3c-8918-942aa9d6df3d
+Quelle: datenbank.xml
 Name: Streiter der Schöpfung
 title: Streiter der Schöpfung
 Kategorie: Karmal

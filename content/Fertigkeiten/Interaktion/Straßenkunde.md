@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 995f0def-077c-4744-b2ff-0eb0f1b6b7b6
+ID: ab66757f-e7ab-43d0-8c84-661a22dc5ca4
+Quelle: datenbank.xml
 Name: Straßenkunde
 title: Straßenkunde
 Kategorie: Interaktion

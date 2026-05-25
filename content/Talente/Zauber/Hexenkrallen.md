@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b20a69ed-9594-4edc-820f-2757a101bdec
+ID: 98a62ac9-2eac-4ec1-9aa5-cc8445b0b61d
+Quelle: datenbank.xml
 Name: Hexenkrallen
 title: Hexenkrallen
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Fertigkeit
-ID: 94f6fc45-624f-4d72-a965-80a2fddbc3e3
+ID: ec2a65dd-21cc-4baf-bde3-b992c75242c6
+Quelle: datenbank.xml
 Name: Athletik
 title: Athletik
 Kategorie: Körper

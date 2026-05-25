@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Spezies
-ID: 46c5d54a-48cd-42f5-b57a-626afad3f566
+ID: d37adbf7-0cf0-422a-a805-397c0ce92b42
+Quelle: datenbank.xml
 Name: Achaz
 ---
 Die Achaz sind reptilienartige Wesen mit uralten Traditionen und einer tiefen Naturverbundenheit. Sie sind in den Echsensümpfen, im Regenwald, im Orkland, auf den Waldinseln und auf Maraskan anzutreffen.

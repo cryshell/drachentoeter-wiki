@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 44054b1c-c547-4d50-a7a4-e9dad76295c7
+ID: 2d5d2ae4-22a2-4681-a96f-ee7db599d229
+Quelle: datenbank.xml
 Name: Einfluss bannen
 title: Einfluss bannen
 Kategorie: Zauber

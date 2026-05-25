@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d79fcce8-b456-44af-8de6-7de4b6d84088
+ID: f9a9a83d-b05d-48fc-b7fc-6dbfe85cb17d
+Quelle: datenbank.xml
 Name: Transmutation der Elemente
 title: Transmutation der Elemente
 Kategorie: Zauber

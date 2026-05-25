@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c810280c-70e9-42b6-898f-d181c5ef02b4
+ID: 01720f69-f659-4718-acff-63b7513f8abf
+Quelle: datenbank.xml
 Name: Zeichen des Handwerks
 title: Zeichen des Handwerks
 Kategorie: Zauber

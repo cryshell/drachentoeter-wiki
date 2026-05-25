@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 159bfbb8-72e5-4817-8f04-f5981a343b6c
+ID: 3048b1b0-66f9-46f7-872c-0dea4d6ec0ba
+Quelle: datenbank.xml
 Name: Gerüchte
 title: Gerüchte
 Kategorie: Profan

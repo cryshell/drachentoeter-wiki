@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 4a01f9d1-31ad-4551-bfaf-766714281ca7
+ID: cdc2d358-54dc-4280-8445-3d8900001196
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Tiefzwergisch)
 title: Sprachkenntnis (Tiefzwergisch)
 Kategorie: Sprachkenntnis

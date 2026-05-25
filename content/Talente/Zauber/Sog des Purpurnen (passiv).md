@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f96e439b-ddb8-42c9-a899-33554cbcba58
+ID: 376bbd19-21cf-4022-9f59-7ebd98547580
+Quelle: datenbank.xml
 Name: Sog des Purpurnen (passiv)
 title: Sog des Purpurnen (passiv)
 Kategorie: Zauber

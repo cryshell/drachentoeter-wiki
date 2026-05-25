@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 9b37bc5d-6b83-4991-83b5-65c8dee027d4
+ID: 62c176ee-00bb-4440-a91a-a24783e226f9
+Quelle: datenbank.xml
 Name: Böser Blick
 title: Böser Blick
 Kategorie: Zauber

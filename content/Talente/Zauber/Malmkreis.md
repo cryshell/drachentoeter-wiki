@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 334adf17-880d-4997-9e13-753f39cadb5b
+ID: 8a66ef04-4d43-4744-87bd-84adc96fa80c
+Quelle: datenbank.xml
 Name: Malmkreis
 title: Malmkreis
 Kategorie: Zauber

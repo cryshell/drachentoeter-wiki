@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: 981cb424-ec65-4973-be9a-d190a6653152
+ID: f73bfa77-87a4-4716-8e83-deadca511008
+Quelle: datenbank.xml
 Name: Schlaf
 title: Schlaf
 Kategorie: Karmale Riten

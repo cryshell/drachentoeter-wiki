@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 7e9b4b24-3fbf-4830-a681-6429e73a845b
+ID: 16c581ee-0f79-42d7-9cad-8d11732da74c
+Quelle: datenbank.xml
 Name: Axxeleratus Blitzgeschwind
 title: Axxeleratus Blitzgeschwind
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: e61b756f-db01-41a8-b9c5-a6d9cb85c21b
+ID: 7b4ae336-a218-4174-9de7-cc499fc386ba
+Quelle: datenbank.xml
 Name: Schriftkenntnis (Geheiligte Glyphen von Unau)
 title: Schriftkenntnis (Geheiligte Glyphen von Unau)
 Kategorie: Schriftkenntnis

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: ba72ed8d-bfaa-4870-8977-7ce9b5079048
+ID: 538f6b93-a3e6-4040-b9fb-5e3c2c6f0439
+Quelle: datenbank.xml
 Name: Knochenkeule, groß
 title: Knochenkeule, groß
 Trefferpunkte: 2W6+2
@@ -26,5 +27,5 @@ Preis: 0
 - **Waffeneigenschaften:**
   - Wucht
   - [[Kopflastig|Kopflastig]]
-  - [[Schwer|Schwer (4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (4)]]
   - [[Zweihändig|Zweihändig]]

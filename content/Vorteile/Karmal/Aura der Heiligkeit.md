@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 12b98287-39f7-4174-8634-23715482300a
+ID: 942d766c-d4c2-4c7c-9240-102d2f75be34
+Quelle: datenbank.xml
 Name: Aura der Heiligkeit
 title: Aura der Heiligkeit
 Kategorie: Karmal

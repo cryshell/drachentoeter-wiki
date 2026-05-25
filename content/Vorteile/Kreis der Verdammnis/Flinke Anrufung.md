@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 33523d0c-e280-4b76-93a0-baa0133f9623
+ID: 41611af2-9acb-40eb-b8e7-080da7bbf083
+Quelle: datenbank.xml
 Name: Flinke Anrufung
 title: Flinke Anrufung
 Kategorie: Kreis der Verdammnis

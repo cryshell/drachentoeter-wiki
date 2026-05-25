@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 144d78f7-ed1a-4ca2-84f8-f5909720c8c5
+ID: 0c9797c8-7c57-4c78-a58e-b9effebed6a3
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Ruuz)
 title: Sprachkenntnis (Ruuz)
 Kategorie: Sprachkenntnis

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 520287d0-adae-4478-81a5-9b92e6638efd
+ID: 0471eeb3-d387-49ea-9395-9a415a40bc8b
+Quelle: datenbank.xml
 Name: Arbalone
 title: Arbalone
 Trefferpunkte: 3W6+7

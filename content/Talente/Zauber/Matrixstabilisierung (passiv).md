@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b07156ca-feb9-41e5-b544-376bbed8f8ed
+ID: ed1f14d4-7298-422e-85e6-b2d427332569
+Quelle: datenbank.xml
 Name: Matrixstabilisierung (passiv)
 title: Matrixstabilisierung (passiv)
 Kategorie: Zauber

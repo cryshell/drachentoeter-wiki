@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a2948ebb-fa30-41e4-9c9b-4e8d3f93de92
+ID: c09d236c-67bb-4715-b3c3-2aa45db6cdff
+Quelle: datenbank.xml
 Name: Transmutare Körperform
 title: Transmutare Körperform
 Kategorie: Zauber

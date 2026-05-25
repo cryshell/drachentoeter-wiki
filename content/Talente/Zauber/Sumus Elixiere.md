@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b6ce0f7f-64b5-42ba-ad96-22c23aa4b760
+ID: 60e30a9f-f455-4aab-8359-134c189bce57
+Quelle: datenbank.xml
 Name: Sumus Elixiere
 title: Sumus Elixiere
 Kategorie: Zauber

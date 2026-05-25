@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 1f6cdcee-2db1-4c3b-bb4b-469cb021d28f
+ID: 81b7b783-a0a1-4bfc-9d7c-f59312ae7e50
+Quelle: datenbank.xml
 Name: Meister der Seelenlosen
 title: Meister der Seelenlosen
 Kategorie: Magisch
@@ -19,7 +20,7 @@ Wann immer ein gebundenes unheiliges Wesen seinen Dienst erfüllt hat, kannst du
 
 - **Erlernen:** 40 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Vampir I]]
   - Attribut [[Mut|MU]] 6
 - **Siehe auch:**
   - [[Beschwörungen]]

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 98bd43dc-a731-4aac-855b-3efe7d69d3c8
+ID: 61180c76-35a6-45a8-9506-8a2c265fa092
+Quelle: datenbank.xml
 Name: Schwert
 title: Schwert
 Trefferpunkte: 2W6+2

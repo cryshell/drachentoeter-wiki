@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 1241f809-d383-4b8b-b503-cfd05025937a
+ID: 1bcbc60f-bb6a-4973-8a4e-842e632b3cc4
+Quelle: datenbank.xml
 Name: Kulturkunde (Goblins)
 title: Kulturkunde (Goblins)
 Kategorie: Kulturkunde

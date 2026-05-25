@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 1436f046-83f9-4082-af5a-fefc7c4f0f0e
+ID: 907f09c4-5e64-4634-af99-ae1aff2c3e0f
+Quelle: datenbank.xml
 Name: Potenzieren und Schwächen
 title: Potenzieren und Schwächen
 Kategorie: Magisch
@@ -16,5 +17,5 @@ Du kannst einen wirkenden Zauber durch eine Probe auf die passende Fertigkeit (2
 
 - **Erlernen:** 80 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Tradition der Borbaradianer I ODER Vorteil Vampir I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Tradition der Borbaradianer I]] ODER Vorteil [[Vampir I]]
   - Attribut [[Klugheit|KL]] 10

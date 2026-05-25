@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: cc91f906-4c7e-4f52-a855-804a5ab8e4b6
+ID: 222e543d-e008-474d-b367-2148f9aead48
+Quelle: datenbank.xml
 Name: Kulturkunde (Erzzwerge)
 title: Kulturkunde (Erzzwerge)
 Kategorie: Kulturkunde

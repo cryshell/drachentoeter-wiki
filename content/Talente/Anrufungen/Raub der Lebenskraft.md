@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b77a2b0a-198e-4b89-bc19-643aa6f3ee47
+ID: 17744f54-0168-430d-a932-96baa8080d17
+Quelle: datenbank.xml
 Name: Raub der Lebenskraft
 title: Raub der Lebenskraft
 Kategorie: Anrufungen

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: b3802ad2-56a3-45bb-86cb-c5bb3b3353c4
+ID: 3a93652d-87b9-497d-afea-affbec3af6d4
+Quelle: datenbank.xml
 Name: Kampfdiskus
 title: Kampfdiskus
 Trefferpunkte: 2W6+2
@@ -24,4 +25,4 @@ Fernkampf: true
 - **Fernkampf:** ja
 - **Waffeneigenschaften:**
   - Hieb
-  - [[Schwer|Schwer (4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (4)]]

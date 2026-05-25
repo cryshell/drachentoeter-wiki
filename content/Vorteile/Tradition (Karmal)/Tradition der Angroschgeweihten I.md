@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: fde256d1-17dd-45eb-9ae5-f8d61a7eddd4
+ID: e7dd224a-1528-4cb2-a388-246af7d0bc10
+Quelle: datenbank.xml
 Name: Tradition der Angroschgeweihten I
 title: Tradition der Angroschgeweihten I
 Kategorie: Tradition (Karmal)

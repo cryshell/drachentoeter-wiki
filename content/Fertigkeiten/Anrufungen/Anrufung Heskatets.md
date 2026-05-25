@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: b77b20b9-e981-4c12-9445-9275fa47c69d
+ID: 32567fb8-b718-4c6c-8e56-8af47c9b1e09
+Quelle: datenbank.xml
 Name: Anrufung Heskatets
 title: Anrufung Heskatets
 Kategorie: Anrufungen

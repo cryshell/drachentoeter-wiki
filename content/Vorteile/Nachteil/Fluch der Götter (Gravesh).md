@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: df0fa6c9-a0cd-464d-838e-e8352727ce4d
+ID: 1f3fb964-e70f-42bc-9461-42e7ea4839ad
+Quelle: datenbank.xml
 Name: Fluch der Götter (Gravesh)
 title: Fluch der Götter (Gravesh)
 Kategorie: Nachteil

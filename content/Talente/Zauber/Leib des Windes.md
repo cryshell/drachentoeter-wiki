@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 83edfb0b-bc82-4ce5-8884-5042c79bab30
+ID: b846993d-d28c-4eee-b3c0-ccd617256fb2
+Quelle: datenbank.xml
 Name: Leib des Windes
 title: Leib des Windes
 Kategorie: Zauber

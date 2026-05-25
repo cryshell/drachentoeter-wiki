@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a314202b-bb0f-4a64-8fb3-687aafe5bb88
+ID: b9d5c1a0-0237-4379-bcb5-db2a52e18dcc
+Quelle: datenbank.xml
 Name: Leib der Wogen
 title: Leib der Wogen
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e3438904-aa4d-440a-b286-3e422cf56b39
+ID: 8e4049f7-cbae-4917-a55f-e8f535f2bc59
+Quelle: datenbank.xml
 Name: Fluch des Siechtums
 title: Fluch des Siechtums
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: fb981893-ed1a-4979-8735-0cba50b25cf6
+ID: 1e224bea-ce37-435f-babe-909aba742958
+Quelle: datenbank.xml
 Name: Wettermeisterschaft
 title: Wettermeisterschaft
 Kategorie: Zauber

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0cfa4430-f0df-4411-9051-9bb58767f874
+ID: 170bf50f-2999-416c-bb4f-b1e6d43c131e
+Quelle: datenbank.xml
 Name: Tanz der Weisheit
 title: Tanz der Weisheit
 Kategorie: Zauber

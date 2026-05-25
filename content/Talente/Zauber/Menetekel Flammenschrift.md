@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 2d58cb5b-2858-4b8d-839e-6ca0cdb90c0a
+ID: e65e783e-14d2-46d1-804f-99d98e21f25d
+Quelle: datenbank.xml
 Name: Menetekel Flammenschrift
 title: Menetekel Flammenschrift
 Kategorie: Zauber

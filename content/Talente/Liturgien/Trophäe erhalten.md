@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 0a87aaf7-974f-4e34-a574-52eb66813db6
+ID: d7c9eaae-9377-4d65-bfdd-ae45b1776f33
+Quelle: datenbank.xml
 Name: Trophäe erhalten
 title: Trophäe erhalten
 Kategorie: Liturgien

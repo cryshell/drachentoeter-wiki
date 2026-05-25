@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 6a3f418a-3697-4263-a748-a7dde54cc0f0
+ID: 2791daec-eb27-41c7-a893-efecbc3611fd
+Quelle: datenbank.xml
 Name: Schutz des Dolches
 title: Schutz des Dolches
 Kategorie: Zauber

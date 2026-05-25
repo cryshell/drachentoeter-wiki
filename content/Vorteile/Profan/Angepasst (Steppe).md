@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: b794a020-a0a4-414b-b055-24b10a2533a5
+ID: 9a56cfc2-dd22-4a25-adf8-97fe327ed099
+Quelle: datenbank.xml
 Name: Angepasst (Steppe)
 title: Angepasst (Steppe)
 Kategorie: Profan

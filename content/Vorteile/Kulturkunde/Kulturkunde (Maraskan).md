@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: a22447c6-a136-4057-8f3f-63f1c9eb9a71
+ID: b9f8df80-d310-4f36-bfae-a70cf2ab46f7
+Quelle: datenbank.xml
 Name: Kulturkunde (Maraskan)
 title: Kulturkunde (Maraskan)
 Kategorie: Kulturkunde

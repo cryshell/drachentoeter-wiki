@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 3d905923-e199-4379-afb0-b044d9542be8
+ID: b64c3092-ca6b-4b33-8fbb-0fa984846c47
+Quelle: datenbank.xml
 Name: Drachentöter
 title: Drachentöter
 Trefferpunkte: 4W6+2
@@ -29,6 +30,6 @@ Preis: 0
   - [[Gespann|Gespann]]
   - [[Kopflastig|Kopflastig]]
   - [[Rüstungsbrechend|Rüstungsbrechend]]
-  - [[Schwer|Schwer (12)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (12)]]
   - [[Zweihändig|Zweihändig]]
   - [[Sperrig|Sperrig]]

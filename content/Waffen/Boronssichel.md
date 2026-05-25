@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 58367dbb-4e0b-4149-a007-b733a5d50784
+ID: f65a8390-54af-4f56-9bb2-48754fdbbf87
+Quelle: datenbank.xml
 Name: Boronssichel
 title: Boronssichel
 Trefferpunkte: 3W6+4

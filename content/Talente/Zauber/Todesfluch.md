@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ac99149d-bbd8-4a0b-908b-fc88fcc892ac
+ID: 909e0870-ac33-49e5-9403-186935dae2ad
+Quelle: datenbank.xml
 Name: Todesfluch
 title: Todesfluch
 Kategorie: Zauber

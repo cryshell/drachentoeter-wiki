@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: edecf97c-6108-4948-86fb-a9e2190bb02a
+ID: 37e28c28-3832-4a80-9a37-11439ce4532b
+Quelle: datenbank.xml
 Name: Sternenspur
 title: Sternenspur
 Kategorie: Liturgien

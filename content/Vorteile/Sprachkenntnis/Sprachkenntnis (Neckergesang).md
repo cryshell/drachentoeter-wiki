@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: cf9d52a0-cb8f-44b0-82e1-2d57c99f52ea
+ID: df4ee4a7-dc54-45f3-9cfc-b53eff2462c1
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Neckergesang)
 title: Sprachkenntnis (Neckergesang)
 Kategorie: Sprachkenntnis

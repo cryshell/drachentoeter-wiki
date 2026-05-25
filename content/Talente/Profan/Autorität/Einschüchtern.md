@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 680537d2-ba67-4d56-b12b-3fb0e1ec4d61
+ID: bd1f615a-e3b0-457c-ad54-97f17c28f7e5
+Quelle: datenbank.xml
 Name: Einschüchtern
 title: Einschüchtern
 Kategorie: Profan

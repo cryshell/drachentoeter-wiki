@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: d41efbd6-6a4c-4b89-b34d-28e02bb72e07
+ID: 8da5c59e-0711-48f6-8e12-a9be8fa41ee7
+Quelle: datenbank.xml
 Name: Tairachs Krieger
 title: Tairachs Krieger
 Kategorie: Zauber

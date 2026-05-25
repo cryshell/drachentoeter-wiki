@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e171b3c1-398c-4b0e-b992-a28ee150747e
+ID: f2465088-0ad8-4829-b0c7-6094b007186f
+Quelle: datenbank.xml
 Name: Satuarias Herrlichkeit
 title: Satuarias Herrlichkeit
 Kategorie: Zauber

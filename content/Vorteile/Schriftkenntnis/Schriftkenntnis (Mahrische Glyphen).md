@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: e99e0120-c671-41ef-b60f-cd1006435108
+ID: ca42ebb5-fd5a-44b0-82ec-65d6cc3443d8
+Quelle: datenbank.xml
 Name: Schriftkenntnis (Mahrische Glyphen)
 title: Schriftkenntnis (Mahrische Glyphen)
 Kategorie: Schriftkenntnis

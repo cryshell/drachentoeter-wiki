@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 70c55916-9f2a-44b4-9247-5109815ca49b
+ID: e6b453bc-c44b-45bd-8566-ce26327830c5
+Quelle: datenbank.xml
 Name: Eisstrahl
 title: Eisstrahl
 Kategorie: Anrufungen

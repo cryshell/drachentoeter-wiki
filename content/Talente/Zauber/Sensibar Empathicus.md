@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 986523de-a46a-40d5-8080-f0c57d0cc224
+ID: f8aedc08-bce8-4e39-800f-52d06ebccd66
+Quelle: datenbank.xml
 Name: Sensibar Empathicus
 title: Sensibar Empathicus
 Kategorie: Zauber

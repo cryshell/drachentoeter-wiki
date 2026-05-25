@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 3163b267-6d04-4847-9ba7-03ac53664585
+ID: 21bc7ce5-5a82-465f-acae-1e5c0028fa9a
+Quelle: datenbank.xml
 Name: Hilfreiche Tatze, rettende Schwinge
 title: Hilfreiche Tatze, rettende Schwinge
 Kategorie: Zauber

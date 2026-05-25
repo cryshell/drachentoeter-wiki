@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c28cacc6-6a00-498d-acfa-1976b5b405c0
+ID: d9e2c3b8-934f-4f62-849d-002e14ecbc49
+Quelle: datenbank.xml
 Name: Fluch des Verräters
 title: Fluch des Verräters
 Kategorie: Liturgien

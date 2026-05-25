@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 7bb93d21-e4e7-45b7-a295-ef5c4432375d
+ID: 9e73e471-66fd-4a00-965e-9f7d501ad736
+Quelle: datenbank.xml
 Name: Zähne des Feuers
 title: Zähne des Feuers
 Kategorie: Zauber

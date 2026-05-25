@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: e3b1b7e4-06f6-4bee-80fe-f084dc0771bc
+ID: 539994c2-7b07-4769-baa6-e76c50156c4d
+Quelle: datenbank.xml
 Name: Wahre Namen des Wassers I
 title: Wahre Namen des Wassers I
 Kategorie: Wahre Namen
@@ -16,5 +17,5 @@ Du kannst alle Elementare des Wassers bis zu einer Beschwörungsschwierigkeit vo
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Vorteil [[Zauberer I ODER Vorteil Geweiht I ODER Vorteil Paktierer I]]
+  - Vorteil [[Zauberer I]] ODER Vorteil [[Geweiht I]] ODER Vorteil [[Paktierer I]]
   - Attribut [[Klugheit|KL]] 4

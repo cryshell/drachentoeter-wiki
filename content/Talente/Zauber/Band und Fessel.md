@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e0dcfc5e-cca9-4fae-b0e0-7c86e70c9629
+ID: 045706a1-4c8d-45b7-a3d4-f65bf0d2a581
+Quelle: datenbank.xml
 Name: Band und Fessel
 title: Band und Fessel
 Kategorie: Zauber

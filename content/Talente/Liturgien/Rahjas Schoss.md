@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a5e8d39b-7e4e-47a1-b71a-412bc32ed5ef
+ID: 8f21f607-2539-4dfb-b31a-c8567e012319
+Quelle: datenbank.xml
 Name: Rahjas Schoss
 title: Rahjas Schoss
 Kategorie: Liturgien

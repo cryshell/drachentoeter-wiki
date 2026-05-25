@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 8af259a4-503f-4437-8d71-39d652cffcc6
+ID: 1ed55197-e2bf-46ad-878d-a6886ae13fdd
+Quelle: datenbank.xml
 Name: Orbitarium
 title: Orbitarium
 Kategorie: Zauber

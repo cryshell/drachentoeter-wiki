@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: fcc47133-92d3-47c8-813f-2983519505a9
+ID: 6ad7558d-8e37-4dbc-9e52-4b0838ecd258
+Quelle: datenbank.xml
 Name: Guter Kampf
 title: Guter Kampf
 Kategorie: Karmale Riten

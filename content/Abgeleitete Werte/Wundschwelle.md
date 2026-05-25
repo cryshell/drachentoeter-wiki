@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Abgeleiteter Wert
-ID: 26930798-a7aa-48ca-a45c-125c2ec91368
+ID: 9573256b-c1a6-4dca-b625-b8ce2a814646
+Quelle: datenbank.xml
 Name: Wundschwelle
 title: Wundschwelle
 Abkürzung: WS

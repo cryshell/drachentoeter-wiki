@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 80405158-6612-4a5f-a34d-a92d03726df9
+ID: 27e3fd60-a554-4e02-a87e-b8bdecd8456f
+Quelle: datenbank.xml
 Name: Kulturkunde (Steppenelfen)
 title: Kulturkunde (Steppenelfen)
 Kategorie: Kulturkunde

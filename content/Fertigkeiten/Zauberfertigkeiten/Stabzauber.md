@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Übernatürliche Fertigkeit
-ID: f4671322-5c71-4dfa-bd32-5bd072780bed
+ID: 02a8ee35-7913-4df6-bd69-857ad3fe79e8
+Quelle: datenbank.xml
 Name: Stabzauber
 title: Stabzauber
 Kategorie: Zauberfertigkeiten

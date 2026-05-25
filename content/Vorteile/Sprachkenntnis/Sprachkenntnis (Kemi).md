@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 468acd5c-a16e-45c4-85e4-c8f8463aaa9b
+ID: c3f502e6-2030-4f9d-bf4a-530cf1eccc51
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Kemi)
 title: Sprachkenntnis (Kemi)
 Kategorie: Sprachkenntnis

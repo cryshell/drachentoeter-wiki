@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 4efb3d15-bcd4-4509-99f1-360abd2805e7
+ID: 15e80909-bea4-468a-88bf-d4784cfe9683
+Quelle: datenbank.xml
 Name: Phexens Sternenwurf
 title: Phexens Sternenwurf
 Kategorie: Liturgien

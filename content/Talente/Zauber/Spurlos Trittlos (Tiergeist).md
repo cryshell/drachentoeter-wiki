@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 18e0b085-8dc8-49d7-b537-352fa7845175
+ID: 107d29a8-bc1d-4aa3-aed0-73a0035a5e95
+Quelle: datenbank.xml
 Name: Spurlos Trittlos (Tiergeist)
 title: Spurlos Trittlos (Tiergeist)
 Kategorie: Zauber

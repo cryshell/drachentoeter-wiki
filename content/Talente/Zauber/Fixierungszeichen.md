@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: b7e90cd2-aa8d-4f07-b2e4-ceaf5f9710d4
+ID: 67024de4-ebaf-4c05-9e3a-fb5e065a29d8
+Quelle: datenbank.xml
 Name: Fixierungszeichen
 title: Fixierungszeichen
 Kategorie: Zauber

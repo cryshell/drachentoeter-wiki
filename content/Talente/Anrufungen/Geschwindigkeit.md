@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 101a4e5c-6e94-4a44-9ec2-1b272f912ed1
+ID: a07aca82-aacb-43bc-8cb8-c69bbd3fc4fe
+Quelle: datenbank.xml
 Name: Geschwindigkeit
 title: Geschwindigkeit
 Kategorie: Anrufungen

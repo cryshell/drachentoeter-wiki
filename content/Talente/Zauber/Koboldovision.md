@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 103287c6-8964-445d-8215-e34772534e3e
+ID: c6b38e1d-de4b-40fa-894b-6de925e51be5
+Quelle: datenbank.xml
 Name: Koboldovision
 title: Koboldovision
 Kategorie: Zauber

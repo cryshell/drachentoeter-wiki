@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 150ffa90-93f2-45ce-9171-c2bc412800e9
+ID: b108351f-7a7d-46d5-a44c-f3ffd4dd3484
+Quelle: datenbank.xml
 Name: Buckler
 title: Buckler
 Trefferpunkte: 1W6+0

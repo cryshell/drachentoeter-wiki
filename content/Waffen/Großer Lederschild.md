@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 111dfd68-7dc7-4552-8581-1d9bafa6261a
+ID: 20f32fc1-75de-410b-b3cc-662901575dad
+Quelle: datenbank.xml
 Name: Großer Lederschild
 title: Großer Lederschild
 Trefferpunkte: 1W6+-1

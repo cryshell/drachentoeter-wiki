@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 20191d15-fce5-4d62-be59-bbeb84d81af0
+ID: b0cc31bb-5416-48d2-9eb7-e77401fd19de
+Quelle: datenbank.xml
 Name: Graues Siegel
 title: Graues Siegel
 Kategorie: Liturgien

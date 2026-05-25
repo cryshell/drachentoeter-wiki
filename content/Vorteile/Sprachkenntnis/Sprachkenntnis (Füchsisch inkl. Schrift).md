@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: b17686f5-6882-498c-bd61-4b75b47d2c36
+ID: e3a96375-173b-4dec-a055-1c341fd0fcb0
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Füchsisch inkl. Schrift)
 title: Sprachkenntnis (Füchsisch inkl. Schrift)
 Kategorie: Sprachkenntnis

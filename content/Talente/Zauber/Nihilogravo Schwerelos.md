@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: f23eeea9-dc19-4c89-9e37-41b9ba0dc71c
+ID: 278692a5-1e43-475d-a35a-a5301c03918e
+Quelle: datenbank.xml
 Name: Nihilogravo Schwerelos
 title: Nihilogravo Schwerelos
 Kategorie: Zauber

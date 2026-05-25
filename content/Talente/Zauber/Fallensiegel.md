@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a1c2f49e-267e-4a3e-b167-7ba3d687fadf
+ID: 53e25f5e-3c34-48c0-8196-e08585daa61e
+Quelle: datenbank.xml
 Name: Fallensiegel
 title: Fallensiegel
 Kategorie: Zauber

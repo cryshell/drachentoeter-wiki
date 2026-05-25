@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c2d50691-d691-4fdb-9954-d62167eb24d9
+ID: d5dc1f1a-3a69-4987-a35e-321bcf56db5a
+Quelle: datenbank.xml
 Name: Handwerkssegen
 title: Handwerkssegen
 Kategorie: Liturgien

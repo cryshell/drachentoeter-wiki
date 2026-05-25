@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 06a5805a-ed88-439e-ab40-56e256e447f3
+ID: 83203ffe-867a-43da-83e6-69387d324e50
+Quelle: datenbank.xml
 Name: Zauberer I
 title: Zauberer I
 Kategorie: Magisch

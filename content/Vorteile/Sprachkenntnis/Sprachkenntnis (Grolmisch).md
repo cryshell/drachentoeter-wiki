@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 512aa61c-a37f-4e5f-9031-93f0d20a9e27
+ID: 323fc2a6-a451-4b88-bd02-6a3eb588e185
+Quelle: datenbank.xml
 Name: Sprachkenntnis (Grolmisch)
 title: Sprachkenntnis (Grolmisch)
 Kategorie: Sprachkenntnis

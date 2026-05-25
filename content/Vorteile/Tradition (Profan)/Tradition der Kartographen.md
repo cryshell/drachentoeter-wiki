@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 62fcf77c-9375-4bf1-b2c1-987230c92a02
+ID: 2bf27c62-ca81-4d61-a4b6-5c54982c25fb
+Quelle: datenbank.xml
 Name: Tradition der Kartographen
 title: Tradition der Kartographen
 Kategorie: Tradition (Profan)
@@ -14,4 +15,4 @@ Du beherrschst Rezepte der Tradition der Kartographen (Kar).
 
 - **Erlernen:** 20 EP
 - **Voraussetzungen:**
-  - Attribut FF 4 ODER Attribut KL 4
+  - Attribut [[Fingerfertigkeit|FF]] 4 ODER Attribut [[Klugheit|KL]] 4

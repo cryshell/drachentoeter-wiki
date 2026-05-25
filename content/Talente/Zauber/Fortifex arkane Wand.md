@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: c7b0283d-2da5-4134-a021-2b098d20bd3e
+ID: f14b149c-5042-476a-b3ec-159647095a5a
+Quelle: datenbank.xml
 Name: Fortifex arkane Wand
 title: Fortifex arkane Wand
 Kategorie: Zauber

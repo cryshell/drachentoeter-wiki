@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: ad120c70-070b-4fa3-8485-5cedc1d645ee
+ID: 3510f161-63ae-4b3e-8112-2ed4e4c9508f
+Quelle: datenbank.xml
 Name: Rotze, leicht
 title: Rotze, leicht
 Trefferpunkte: 2W6+3

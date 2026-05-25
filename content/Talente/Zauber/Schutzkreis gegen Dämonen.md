@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 85b44305-cc39-4e16-a15a-ff50ee62aad0
+ID: 9b01522a-5327-44e4-a811-a1fcc2fabf2c
+Quelle: datenbank.xml
 Name: Schutzkreis gegen Dämonen
 title: Schutzkreis gegen Dämonen
 Kategorie: Zauber

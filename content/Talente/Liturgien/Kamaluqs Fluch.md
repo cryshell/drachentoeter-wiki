@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: e2652259-b25e-48b8-9d2e-41cf97c1c0e6
+ID: b83fd392-bdec-451c-ab25-e26290b8cabc
+Quelle: datenbank.xml
 Name: Kamaluqs Fluch
 title: Kamaluqs Fluch
 Kategorie: Liturgien

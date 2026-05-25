@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: ccd43e84-188c-4fc6-8d6f-32efa3e25387
+ID: dc48413c-2072-43cf-a9b5-976274a6ca1c
+Quelle: datenbank.xml
 Name: Ewige Flamme
 title: Ewige Flamme
 Kategorie: Zauber

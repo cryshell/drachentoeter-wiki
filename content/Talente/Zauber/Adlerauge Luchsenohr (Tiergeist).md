@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 29d8c9a0-aacf-408f-8a4c-78b4f5db158c
+ID: 80258ac6-0ee2-4d6f-a3c2-50d166f928f2
+Quelle: datenbank.xml
 Name: Adlerauge Luchsenohr (Tiergeist)
 title: Adlerauge Luchsenohr (Tiergeist)
 Kategorie: Zauber

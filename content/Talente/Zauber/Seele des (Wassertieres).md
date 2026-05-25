@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 86a33914-39ee-4b05-b3fa-642026b4bc8c
+ID: b661b8d1-91c3-4da6-b7d6-25482430fb85
+Quelle: datenbank.xml
 Name: Seele des (Wassertieres)
 title: Seele des (Wassertieres)
 Kategorie: Zauber

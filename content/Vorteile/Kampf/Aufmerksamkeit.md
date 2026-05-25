@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 918617cc-f457-4128-addd-172ff60e775e
+ID: 1c6d01e9-892f-4a21-a499-1fdeb37d2c1e
+Quelle: datenbank.xml
 Name: Aufmerksamkeit
 title: Aufmerksamkeit
 Kategorie: Kampf

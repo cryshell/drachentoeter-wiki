@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 62280872-a907-4e88-ba2d-5278ed82f7e6
+ID: a316af6c-f981-4805-924a-304b99d192a3
+Quelle: datenbank.xml
 Name: Aquasphaero
 title: Aquasphaero
 Kategorie: Zauber

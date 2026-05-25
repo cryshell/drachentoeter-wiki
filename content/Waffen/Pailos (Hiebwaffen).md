@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: b7cfed56-950f-4f17-a4fe-218dbe62b252
+ID: 4994cebd-b4bf-44e7-873e-9141a24008aa
+Quelle: datenbank.xml
 Name: Pailos (Hiebwaffen)
 title: Pailos (Hiebwaffen)
 Trefferpunkte: 3W6+1
@@ -28,6 +29,6 @@ Preis: 300
   - Stich
   - Hieb
   - [[Kopflastig|Kopflastig]]
-  - [[Schwer|Schwer (4)]]
+  - [[Waffeneigenschaften/Schwer|Schwer (4)]]
   - [[Rüstungsbrechend|Rüstungsbrechend]]
   - [[Zweihändig|Zweihändig]]

@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 87a18f27-6029-4fff-8b62-3db0b2efb8ae
+ID: 765a90ca-0a73-4cac-acea-17f3a12332b3
+Quelle: datenbank.xml
 Name: Kamaluqs unerbittlicher Speer
 title: Kamaluqs unerbittlicher Speer
 Kategorie: Liturgien

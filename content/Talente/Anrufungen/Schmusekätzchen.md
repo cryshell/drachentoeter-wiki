@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 89831d7d-85f2-496b-b7fd-ae7b0b413c60
+ID: b15e76bf-4450-478b-9576-b6f38e02be67
+Quelle: datenbank.xml
 Name: Schmusekätzchen
 title: Schmusekätzchen
 Kategorie: Anrufungen

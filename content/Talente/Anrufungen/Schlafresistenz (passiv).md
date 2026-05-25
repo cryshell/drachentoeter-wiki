@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 142395d0-5d6b-4a6a-98b1-6057d4768b6b
+ID: a8b80590-0927-4935-acd5-a9cc88b8a352
+Quelle: datenbank.xml
 Name: Schlafresistenz (passiv)
 title: Schlafresistenz (passiv)
 Kategorie: Anrufungen

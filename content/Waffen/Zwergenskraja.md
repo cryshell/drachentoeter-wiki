@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Waffe
-ID: 3b96c815-4cb0-47e3-822b-b264dc398455
+ID: 53c07942-f8f2-4282-a267-886686eeaf6f
+Quelle: datenbank.xml
 Name: Zwergenskraja
 title: Zwergenskraja
 Trefferpunkte: 1W6+2

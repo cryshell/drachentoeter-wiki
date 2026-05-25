@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 509f90bd-730a-4595-99b4-0683b294a748
+ID: 494eae59-7089-478d-a8e9-f9c835cc3f3e
+Quelle: datenbank.xml
 Name: Wegzeichen
 title: Wegzeichen
 Kategorie: Zauber

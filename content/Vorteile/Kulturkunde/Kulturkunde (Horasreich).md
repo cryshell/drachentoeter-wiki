@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Vorteil
-ID: 5d987472-9624-4d57-89a5-09fc20a4985c
+ID: a9dc35ce-7030-4cc7-8aa4-0b329b8dbb6e
+Quelle: datenbank.xml
 Name: Kulturkunde (Horasreich)
 title: Kulturkunde (Horasreich)
 Kategorie: Kulturkunde

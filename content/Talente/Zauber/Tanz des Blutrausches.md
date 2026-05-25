@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 17f936f6-6bd5-4185-b6eb-943980f285e5
+ID: 85257f0f-c3ad-47ba-8bde-498a56fc989c
+Quelle: datenbank.xml
 Name: Tanz des Blutrausches
 title: Tanz des Blutrausches
 Kategorie: Zauber

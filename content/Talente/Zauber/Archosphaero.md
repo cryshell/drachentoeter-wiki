@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: a21dc7d5-0840-4353-a6da-fa8c93c63541
+ID: 55bb8414-e0ab-483e-81a2-e657970e66b7
+Quelle: datenbank.xml
 Name: Archosphaero
 title: Archosphaero
 Kategorie: Zauber

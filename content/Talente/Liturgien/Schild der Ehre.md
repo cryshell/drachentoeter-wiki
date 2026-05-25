@@ -1,6 +1,7 @@
 ---
 Entitätstyp: Talent
-ID: 969b9607-4be8-47e9-85bb-dff8b78857c0
+ID: d16ef58a-1357-491a-8aec-c8fc58cbe500
+Quelle: datenbank.xml
 Name: Schild der Ehre
 title: Schild der Ehre
 Kategorie: Liturgien
